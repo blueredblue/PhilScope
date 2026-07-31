@@ -1,0 +1,447 @@
+AporiaVol. 12 number 1—2002
+Emotional Problems of Evolutionary Psychology
+JONATHAN MATHYS
+EXPLANATIONSof human morality and behavior based upon the find-
+ings of evolutionary psychology have had a certain vogue of late.
+Books promoting evolutionary explanations of human nature by sci-
+entists such as E. O. Wilson and Richard Dawkins as well as popularizers
+like Robert Wright and Matt Ridley have become bestsellers. In one sense,
+this is nothing new. In another, it is profoundly so, for authors such as
+Wilson, Dawkins, and Wright have proclaimed that the time is ripe to
+place the very foundations of the human sciences on solidly biological
+grounds. Sociology, political science, ethics, and anthropology are all to
+receive the obligatory prefix ‘evolutionary’ in the new dispensation.1I will
+refer to the thesis that the human sciences ought to founded entirely on
+the neo-Darwinian synthesis favored by such writers as Wilson and
+Dawkins as ‘ultra-Darwinism’. The ‘ultra’ here is merited, for this is a
+move disputed even within the various fields of biology and zoology that
+Dawkins and Wilson call home. Other noted evolutionary theorists, such
+as Stephen Jay Gould and Richard Lewontin, consider this extension of
+Darwinism into the realm of the human sciences to be illegitimate, and in
+fact based on poor science. In this paper, I will endeavor to show that in
+one realm at least, that of the understanding of human emotion, these
+theories are quite mistaken. It will be shown that their (mis)understand-
+ing of human emotions is based upon an inadequate grasp of the rela-
+1 Hereafter evolutionary psychology will be referred to as ‘evo-psych’, for short. Similarly, evolu-
+Jonathan Mathys studies philosophy at DePaul University.
+JONATHANMATHYS
+tionship between emotion and human language.
+I
+My discussion will depend upon two points. The first is an account
+of the role of emotions in human life and their relation to language that is
+incompatible with an objectivist model of the world grounded in a repre-
+sentational, consciousness-based epistemology. Such an epistemology is
+precisely that which informs much of the background in the writings of
+socio-biologists and evo-psychologists. It is the picture of the disengaged,
+rational subject that is implicit in the beliefs of most scientists about sci-
+entific practice that underwrites this objectivist stance towards the emo-
+tions.
+The second point is the observation that in their writings, Dawkins,
+Wright, and company generally rely upon instrumental views of language,
+in which words are merely tools for the organization of experience and
+communication. Communication, in its turn, is seen as a form of causal
+interaction, and usually winds up being a form of manipulation. This
+raises problems about “translating” the results of evo-psych and socio-biol-
+ogy out of what Dawkins calls the gene language and into ordinary lan-
+guage. Charles Taylor would call this the transition between the language
+of explanation, in our theorizing, and the language of deliberation, in
+which we conduct our lives.2 That this is at all a problem is not seen by
+ultra-Darwinians because of the first point; that is, the epistemology that
+underlies their views. First, I will sketch out the instrumental view of lan-
+guage and its understanding of the world, and then I will show how a
+proper understanding of human emotions and their relation to language,
+reveals the inadequacy of the instrumental view. Following this I will show
+in some detail that the results of this mean trouble for ultra-Darwinian
+views.
+On an instrumentalist reading of language, words (for old-
+fashioned British empiricists) or sentences/propositions/statements (for
+Austrian-inspired logical positivists), are signs for or descriptions of either
+natural objects or mental objects. As such, the adequacy of their correla-
+tion with or rendering of their objects is an empirical matter, and can be,
+EVOLUTIONARYPSYCHOLOGY
+in a useful way, verified by experimental methods. For my purposes, natu-
+ral objects can mean events, phenomena, things—anything generally taken
+to exist “outside” of the mind of a conscious subject. Mental objects are
+obviously anything that exists “inside” such a mind as an object of reflec-
+tion.3
+Instrumental theories of language may be seen as a subset of a wider
+family of views that may be called designative. According to these theories,
+the fundamental activity of language is designation, or labelling objects in
+the world with names, like slapping that “Marge’s china” or “Joe’s clothes”
+sticker on a cardboard box before moving. According to this, “We give the
+meaning of a sign or a word by pointing to the things or relations that they
+can be used to refer to or talk about.”4For the instrumentalist, language is
+a tool for the use of its users, whether for communication, entertainment,
+manipulation of people and environments, or increased capacity for cog-
+nition and reflection. Following this metaphor, it is something that can be
+reshaped more or less at will, and redesigned for the purposes at hand.
+If language serves primarily as a tool used for designating objects and
+marking relations between those objects, over time words or expressions
+may arise that are unnecessary or entirely mistaken in terms of the rela-
+tions and objects they mark out in the world. We may make words and
+invent relations that have no corresponding objects. If we assume that lan-
+guage is primarily designative, we may also unwittingly assume that where
+there is a word, there is an object. On this view, the figurative power of lan-
+guage is easily employed in the creation of illusions, and apt to lead men
+astray in their thinking, rather than provide access to otherwise hidden
+facets of reality. Looked at like this, language is seductive in the way that
+beauty or political power are seductive. It promises a great deal for very lit-
+tle effort, and cashes in on the manipulative power of fantasy. Hence
+Locke’s remarkable denunciation of rhetoric and figures of speech in his
+Essay Concerning Human Understanding, in which he uses a figure of speech
+(a “prevailing beauty” of “the fair sex”) to deride the use of figures of
+speech (“eloquence”):
+If we would speak of things as they are, we must allow that all the
+tionary psychologist will become ‘evo-psychologist’, etc.
+JONATHANMATHYS
+art of rhetoric, besides order and clearness, all the artificial and fig-
+urative application of words eloquence hath invented, are for noth-
+ing else but to insinuate wrong ideas, move the passions, and thereby
+mislead the judgment, and so indeed are perfect cheats.…
+Eloquence, like the fair sex, has too prevailing beauties in it to suffer
+itself ever to be spoken against. And it is in vain to find fault with
+those arts of deceiving wherein men find pleasure to be deceived.5
+As Paul de Man somewhat wickedly notes, “nothing could be more
+eloquent than this denunciation of eloquence.”6 Locke is attacking at
+least two different things in this passage: metaphor, “artificial and figu-
+rative application of words,” and rhetoric, (the use of figuration “to insin-
+uate wrong ideas, move the passions, and thereby mislead the
+judgment”). While the main force of his assault seems to be clearly
+directed against rhetoric, or “eloquence,” it is also clear that the poten-
+tial danger of “eloquence” depends upon the infinite capacity of lan-
+guage to generate new figures, new sentences, new ways of speaking. The
+very existence of language is an invitation to violate Ockham’s prescrip-
+tion against the needless multiplication of “entities” (names, kennings,
+metaphors, things). What motivates such strongly felt condemnation of
+what other philosophers have called appreciatively “the gift of
+metaphor”?7In part, it is likely motivated by the fear of losing control, of
+being dominated unknowingly by something we see as being in our serv-
+ice.8
+Being controlled by what should be an instrument is a degrading con-
+dition. There is thus an ethical force to the injunctions of instrumentalists
+2 Taylor, Sources 57–60.
+3 The generic name for mental objects in the empiricist tradition, beginning with Locke, is ‘idea’.
+4 Taylor, “Language” 218.
+5 Bk. 3, ch. 10.
+6 De Man 15. De Man’s article is fascinating and thought-provoking, and I am indebted to it for
+pointing out this delightful passage from Locke. However, I think that here, as elsewhere, de Man
+overstates his case (perhaps more rhetorically than philosophically?).
+7 See Arendt 76.
+8 As Taylor points out, “Language for the theory of these centuries is an instrument of control in
+the assemblage of ideas which is thought or mental discourse,” and if we cannot be sure of a trans-
+parent relationship between word and thing, “where we think we are assembling our ideas to match
+EVOLUTIONARYPSYCHOLOGY
+not to let oneself be duped or misled by language into a distorted view of a
+language-independent reality. In addition, instrumentalists may feel that
+taking language too seriously as anything but a tool also leads to delu-
+sions about reality that have disastrous practical and moral conse-
+quences. Hence we find Dawkins claiming, “Human suffering has been
+caused because too many of us cannot grasp that words are only tools for
+our use.”9
+The instrumentalist view suits an attempt at giving an objective
+description of the world, and it depends upon the independence of
+objects from ourselves, and the independence of our language from both
+those objects and ourselves. On the instrumental view, we may manipu-
+late and transform our language without altering anything essential about
+ourselves or about our world. An auto mechanic minus his wrench is still
+the same mechanic. A human without his customary language is still the
+same human.
+II
+This view runs aground when dealing with phenomena that bear
+unavoidably non-objective properties, unless it simply assumes that all
+phenomena, period, are really constituted by properties readily charac-
+terized as objective. Emotions are such non-objective phenomena, and
+they bear subject-referring properties. They are expressive phenomena,
+and pose seemingly insuperable problems for an attempt to find objec-
+tive, instrumental designations for them. My understanding in this area
+stems directly from Charles Taylor’s work, and for reasons of space I will
+here simply present five claims that characterize what can be called an
+expressivist framework as opposed to the designativist-
+instrumentalist view:
+A. Some of our emotions involve import-ascriptions.
+B. Some of these imports are subject-referring.
+C. Our subject-referring feelings are the basis of our understanding
+of what it is to be human.
+JONATHANMATHYS
+D. These feelings are constituted by the articulations we come to
+accept of them.
+E. These articulations, which we can think of as interpretations,
+require language.10
+To say that some of our emotions involve import-ascriptions is to say
+that they attribute meaning in a situation. They reveal a facet of that situa-
+tion that would otherwise be unaccessible, say, that it is frightening. Yet
+the emotion of fright also bears within itself a reference to a subject for
+which the situation has the meaning of being frightful. To describe a situ-
+ation as frightful is to describe oneself as being afraid, if one is or were to
+be in that situation.
+A consequence of this is that situation-description in feeling-
+language is also self-description. That the denial of this statement leads to
+absurdities is shown by considering the following example. Imagine a
+man who tells you of being assaulted by a group of robbers while walking
+in the forest at night with his friends. He says to you, “It was a terrifying
+situation, but I wasn’t frightened at all.” This statement would be met
+with incredulity, or would beg elaboration. Either the man means that
+most people would find such a situation terrifying, though he does not, or
+that he realizes in hindsight that he normally would have, or even should
+have, felt terror at the situation, though he didn’t for some unusual rea-
+son. To describe a situation as terrifying is not simply to state that it made
+one feel terrified, but that it is a situation that normally gives rise to feel-
+ings of terror in normally constituted human beings. Someone who said,
+“I was lying around on my couch today, reading the cartoons,” and then
+added, “I was absolutely terrified,” would prompt the inquiry, “Why?”
+Such a feeling, completely inappropriate or disproportionate to its situa-
+tion, would seem irrational, and if it were a frequent occurrence would
+rightly be seen as pathological evidence of a psychological disorder.
+Evo-psychologists, and most ultra-Darwinians, however, hold that
+emotions must be objective, physical objects like any other if they are to be
+susceptible to a scientific, Darwinian explanation. Our word ‘fear’ must
+the real, we will in fact be building castles of illusion, or composing absurdities.” Most significant-
+EVOLUTIONARYPSYCHOLOGY
+just be a label applied to some physiological phenomenon, perhaps a
+whole spectrum of physiological phenomena that have some common ele-
+ment, e.g., the dispersal of high levels of a certain chemical or hormone
+throughout the brain or nervous system. The physical sensation F, that we
+designate with the word ‘fear’, is in principle independent of the lan-
+guage we use to describe it or understand it. Fwould be the same for any
+human being in any culture, regardless of the language he might use to
+articulate the experience of F. Thus, possessing an ultra-Darwinian under-
+standing of Fshould not in any essential way transform the experience of
+F. It should not matter whether one calls F‘fear’ or ‘temor’ or ‘crainte’ or
+‘Furcht’ or understands it as ‘a sense of threat’ or ‘symptom of anxiety
+disorder’ or ‘high relative presence of F-inducing chemical in the brain.’
+Yet the testimony of the evo-psychologists themselves seems to con-
+trovert this, for they clearly realize, when speaking in non-theoretical con-
+texts, that changes of interpretation involve changes of significance, and
+that some phenomena are constituted by our interpretations of their sig-
+nificance. Wright, for instance, tells us of the neo-Darwinian paradigm
+that “once truly grasped it can entirely alter one’s perception of social
+reality.”11Clearly, if this is true about something as nebulous and broad as
+one’s perception of social reality, it is even truer about something vastly
+more focused, concrete, and situated, like specific emotions.
+But doesn’t altering one’s perception of an emotion in a significant
+way alter the emotion itself? The success of psychotherapy, the power of
+religious conversion, the efficacy of meditative training, among other
+things, all depend upon this fact. Altering understanding of experiences,
+reinterpreting them, and thus transforming the emotions associated with
+them involves language that is quite rightly and precisely called “figura-
+tive.” This language figures, sculpts, shapes, gives body to, as it were,
+human experience. I was not surprised to find Wright claiming,
+“Metaphors help us come to moral terms with Darwin.”12Dawkins, how-
+ever, is blithely unaware of this power of language. In a remarkably unself-
+aware passage he writes, “for brevity, we shall again use the convention of
+thinking of the individual as though it had a conscious purpose. As
+before, we shall hold in the back of our mind that this is just a figure of
+JONATHANMATHYS
+speech. A body is really a machine blindly programmed by its selfish
+genes.”13 This passage only makes sense if Dawkins is allowed to legislate
+what counts as figurative language by personal fiat. On the instrumentalist
+view this is precisely what is allowed.14 However, without an instrumen-
+talist understanding, what is remarkable about the passage is that
+Dawkins merely substitutes one figure of speech for another, e.g., “indi-
+vidual is ‘blind machine’” for “individual is ‘conscious purpose’.” This
+makes a world of difference, and I mean that quite literally.
+III
+If the expressivist account of emotions is true, sociobiology and evo-
+psych share a peculiar characteristic: if they become widely accepted, their
+objects of inquiry will vanish. This is a dramatic way of saying that the the-
+ories in question, if accepted, would alter the very objects they are trying
+to explain, and that since this alteration is not provided for by the the-
+ory, the original targets of the explanation would no longer be avail-
+able, leaving the theory in a strange predicament. Indignation, shame,
+trepidation, bemusedness, or any other of the subtle situation-revealing,
+quintessentially human emotions, along with the subject-referring prop-
+erties that correspond to them, would be subject to a thorough-going and
+ly, “Our instruments will have taken over, and instead of controlling we shall be controlled”
+(Taylor, “Language” 226). This would be humiliating and unworthy of the dignity of a rational
+being capable of achieving, with the proper stance, objectivity and independence.
+9 Dawkins 18.
+10 For a fuller exposition and defense of these claims the reader may refer to Taylor’s own writings,
+especially to his article “Self-Interpreting Animals,” from which these five claims are taken.
+11 Wright 4.
+12 Wright 26. Examples include “mental organs,” “an arms race of love” (Wright 26), a child as
+“precious” gene machine (36), and “We’re all puppets” (37). Nevertheless, Wright admits that
+“the question may be whether, after the new Darwinism takes root, the word ‘moral’ can be any-
+thing but a joke” (326). Isn’t this too, though, another splendid metaphor? What is moral is,
+metaphorically, a joke. I do indeed find this an amusing metaphor. Incidentally, if morality were
+indeed a joke (and what a marvellous joke!) neo-Darwinism would still not help us come to terms
+with it.
+13 Dawkins 142.
+14 The simplest standard for whether or not a given expression is figurative is the current state of
+ordinary language, not science. Though I don’t have the space to argue this at length, I will give
+two examples. The hard-nosed scientist wants to claim that “the sun rises in the east” is figurative
+because it doesn’t match current scientific theory, which presumably attains knowledge of objec-
+EVOLUTIONARYPSYCHOLOGY
+radical reinterpretation along neo-Darwinian lines. A new understanding
+of these emotions, especially such a radically out-of-the-ordinary type of
+understanding—one might say, undermining—as the neo-Darwinian is,
+would transform our experience of them. Thus, the emotions that evo-
+psych purports to explain would be dramatically modified if an evo-psych
+perspective was accepted by a given agent. That agent would no longer be
+subject to the same emotions; i.e., the emotions that she experienced
+before learning about their evo-psych explanation. Indeed, how could
+worry about one’s adopted child, or one’s siblings remain the same after
+discovering that this emotion generally functions according to genetic hard-
+wiring, to use a metaphor often employed by evo-psych theorists that is
+drawn from computer science? Wouldn’t it be transformed to “worry,” an
+epiphenomenon of certain physiological processes controlled by one’s
+genotype and its interaction with its environment? The experience of
+“worry” would be qualitatively different than the evo-psych-innocent expe-
+rience of worry.
+Evo-psychologists are here changing the subject. They aren’t talking
+about what we ordinarily mean by emotions. Instead, they are talking about
+some physical phenomenon on which we slap the linguistic label ‘emo-
+tions’, whereas in the language we use in life, the very way we describe and
+interpret an emotion is part of that emotion’s constitution. This is part of
+the experience of searching for just the right way to say what we are feeling.
+We often don’t understand this until we figure out a way to say it, an ade-
+quate way of wording it, of embodying it more fully in language. This is also
+why others can genuinely help us to understand our own emotions, some-
+thing impossible to make sense of on the usual, consciousness-based, rep-
+resentational epistemologies centered around the isolated, reflective
+individual.
+Robert Wright, the only psychologist among the authors considered
+here, shows a deeper awareness of the fuzziness and difficulty involved in
+dealing with the human psyche (although he does, on the whole, believe
+that evo-psych can successfully dispel the fuzz). Wright notes that evo-psych
+focuses, “not on the emotion itself, but on the evolutionary logic it
+embodies.”15 In doing this, evo-psych finds that emotions like parental
+love, hatred of outsiders, and concern for siblings are in fact “transmuta-
+tions” of cost-benefit or game-theoretical analysis into feelings.16 It con-
+cludes that “feelings…were designed as logic executors.”17 Thus, in “the
+JONATHANMATHYS
+war of the sexes,” feelings such as indignation and outrage are in fact
+weapons in a struggle to maximize the survival of genetic information car-
+ried in the sex cells (sperm and eggs) of men and women. Wright rightly
+notes, “Once you start seeing everyday feelings and thoughts as genetic
+weapons, marital spats take on new meaning.”18 What Wright and other
+evolutionary psychologists are proposing in such re-descriptions of “every-
+day feelings” is precisely a transformative reinterpretation of them. That
+they are in fact transformed is evinced by Wright’s acknowledgment of the
+new meaning he sees in marital spats. Let us get even more concrete.
+IV
+Wright gives the example of a man who, during his honeymoon,
+informed his bride that he didn’t want an “old-fashioned wife” (meaning a
+prudish, non-sexually assertive one) but now some years later wonders
+loudly whether she couldn’t cook once in a while (now that the value of
+sexual assertiveness has worn off, perhaps because two kids have been born
+and she’s going through menopause). Evolutionary psychologists suggest
+that the emotions that are cued by such changes in the situation of a rela-
+tionship are susceptible to an evolutionary explanation. The feelings are
+rough and ready responses that, on this account, lead to actions or behav-
+ior-patterns that have been selected because in the environment of evolu-
+tionary adaptation—our distant past—they have led to increased
+transmission of the agent’s genes to the next generation. In the lingo, they
+have been “selected for.”
+Let us examine two possible explanations of the husband’s anger.
+We’ll call him Joe. The first explanation: Perhaps after many years of sex-
+tive fact. The shock-jock poet speaks of the beginning of a river as its “salivating orifice.” The aver-
+age person would feel that the poet had sinned against ordinary language by not speaking of the
+river’s “mouth,” whereas the scientist had sinned against common knowledge about the sun.
+This feeling would remain even if the scientist calmly explained modern astronomy to the aver-
+age person. Nor would the scientist stop saying that the sun rises in the east when speaking in
+everyday contexts. The poet, however, would have a rough time of it if he insisted on inventing
+offensive but literal equivalents to dead metaphors in ordinary, non-poetical contexts.
+15 Wright 59.
+16 For instance, during a discussion of the evolution of monogamy, Wright writes: “As the human
+brain got bigger, it probably depended more on early cultural programming. Children with two
+parents may have had an educational edge over children with only one. Characteristically, natu-
+EVOLUTIONARYPSYCHOLOGY
+ually fulfilling marriage, and after the birth of two kids and the burden
+of the added responsibilities that child-raising involves, Joe starts to see
+that some of the traits of the “old-fashioned wife” stereotype that he
+scorned in youth are quite valuable. His wife, Liz, however, has always
+resisted doing any cooking, firstly, because she never learned how, and
+secondly, because she associates it with the oppression of women and
+sees it as beneath her dignity as a liberated woman. While he appreciates
+his wife’s lack of sexual submissiveness, it is getting difficult for him to
+do all the cooking for the entire family. While Joe made sacrifices in
+seeking an assertive, self-respecting, but adventurous wife, he would like
+it if Liz made some concessions to the hated housewife ideal, however
+small. He is emotionally and physically fatigued. The second explana-
+tion: Clearly a wife who desires a great deal of sex is genetically valuable,
+as she is more likely to bear a great number of children who will carry
+Joe’s genes. However, now that two children have been born and her
+reproductive potential is rapidly dwindling, Joe’s “feelings” have started
+to shift in regards to Liz’s ample sex drive vis-a-vis her meager cooking
+drive.19 In his new middle-age environment, Liz’s meager cooking drive
+looks, or rather feels, to Joe like much more of a genetic liability. This
+manifests itself in his frustration and anger about her not cooking, per-
+haps also in a corresponding decrease of sexual desire for her. The under-
+lying (genetic) threat, as Wright reads it, is that if Liz doesn’t help out
+more with the cooking—make her behavior more adaptive—Joe will go
+hunting for a fitter caretaker for his children, or just leave.20
+So we have an explanation of Joe’s anger employing “everyday” lan-
+guage; that is, we tell a story about emotions and why we have them. This
+is called by some, perhaps condescendingly, “folk psychology.” It is clear
+that in this case explanation and interpretation are more or less the same
+process. In the second case, though, things are different. We have an expla-
+ral selection appears to have taken this cost-benefit calculus and transmuted it into a feeling—in
+particular, the sensation of love” (59). We may ask here, is love identical to “the sensation of
+love”? On a naturalistic outlook, it would be difficult to answer in the negative. Perhaps love is
+the sensation of love plus a group of actions recognized as conferring greater probability of sur-
+vival on the beloved? This might be an “elegant” naturalist/behaviorist formula.
+17 Wright 190.
+18 Wright 89.
+19 Of course, there is no cooking drive, but this is the type of shorthand that Dawkins, Wilson,
+JONATHANMATHYS
+nation of Joe’s anger, or rather, his “anger,” as an emotional mechanism for
+the execution of an evolutionary adaptation. The adaptation is a “men-
+tal organ” that detects situations in which the sex-drive to cooking-drive
+ratio is out of whack and is a genetic liability. It copes with this exigency
+by sending out an emotion, “anger,” to motivateits host organism, Joe, to
+either modify the situation, or get out. But are these the same object? Are
+they the same emotion when removed from these two very different theo-
+retical narratives? Is the expressivist feeling, anger-that-your-wife-won’t-
+cook-because-you-realize-now-that-sex-isn’t-everything, the same as the
+evo-psychological logic executor, anger-that-your-wife-won’t-cook-because-
+she’s-post-menopausal-and-thus-more-genetically-valuable-if-she-feeds-you-
+and-your-children-than-as-an-object-of-desire? At this point, I hope that the
+reader would readily answer this in the negative.
+By way of summing up, remember Dawkins’s metaphor: He tells
+us that some image is just a metaphorical way of putting things in (con-
+ventional, subjective) “human language” and then gives us a metaphor
+to tell us how things really are, i.e., in the (objective) “gene language”;
+for instance, “Bodies are really just survival machines for their genes.”
+The idea that a body is a survival machine for genes is certainly
+metaphorical as the language currently stands. It may in time become a
+dead metaphor; that is, one which has a more or less literal function
+and meaning, as when we speak of the mouth of a river, or the face of a
+mountain. As it is now, however, Dawkins’s metaphor is a proposed
+transition away from ordinary language: it is a transformative reinter-
+pretation of our experience and its embodiment in our language, and a
+grand one at that. It must stand or fall as such a proposed transition.
+And so must ultra-Darwinist articulations of our emotional life.
+Wright, et al., use as a convention of simplicity. Wilson and Wright and their ilk generally view
+emotions, passions, desires, the entire constellation of affective phenomena, as the mediators
+between genes and behavior. So women might be expected to have an instinct (notoriously) for
+nurturing their children. In many environments this will manifest itself in various ways: tending
+to wounds, making clothes for them, etc. Cooking for them might be one of these manifestations.
+Women will be motivated by various emotions—concern, love, warmth, worry, consternation—and
+these emotions will be essentially the ways the genes direct behavior in the proper survival-rele-
+vant directions.
+20 Wright 89. In many cases it makes perfect evolutionary sense for a husband to abandon his
+children to his wife, especially if she is beginning menopause. The wife will then have no chance
+EVOLUTIONARYPSYCHOLOGY
+of reproducing again. Her genetic fate is thus tied up with the children. The husband, however,
+can just have more children, perhaps with younger, more fertile women. The wife will be highly
+motivated to take of his previous children anyway, so, genetically speaking, why not? But why is
+this not generally the case when women reach menopause? This is another reason why many have
+questioned the essentially Malthusian premise that all living organisms strive to reproduce as
+much as possible. This is quite flatly untrue in human societies, and it is certainly untrue in
+regards to the “fittest,” “strongest,” or what have you. Rich, affluent societies almost always have
+relatively modest, if not positively maladaptive, reproductive rates. Why aren’t the most “success-
+ful” humans breeding more?
+JONATHANMATHYS
+EVOLUTIONARYPSYCHOLOGY
+References
+Arendt, Hannah. The Life of the Mind. Vol. 1. New York: Harcourt Brace
+Jovanovich, 1978.
+Dawkins, Richard. The Selfish Gene. Oxford: University Press, 1989.
+De Man, Paul. “The Epistemology of Metaphor.” Critical Inquiry5 (1978):
+13–50.
+Taylor, Charles. “Language and Human Nature.” Human Agency and
+Language: Philosophical Papers I. Cambridge: University Press, 1985.
+———. Sources of the Self: The Making of the Modern Identity. Cambridge:
+Harvard University Press, 1989.
+Wright, Robert. The Moral Animal: Why We Are the Way We Are. New York:
+Vintage Books, 1994.

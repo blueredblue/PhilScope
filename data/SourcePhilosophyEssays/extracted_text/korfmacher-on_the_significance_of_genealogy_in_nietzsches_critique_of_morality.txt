@@ -1,0 +1,445 @@
+AporiaVol. 12 number 1—2002
+On the Significance of Genealogy in Nietzsche’s
+Critique of Morality*
+CARSTEN KORFMACHER
+AT times Nietzsche’s discussion of morality seems to be nothing
+more than a confused and polemic attack, a verbal war against tra-
+ditional values, quasi-philosophical bombs planted by a “moral ter-
+rorist”1—but underlying this apparently arbitrary bombardment of
+accusations, I shall argue in this paper, there is to be revealed a
+network of explanations of and objections against morality.
+Understanding Nietzsche’s attack on morality requires one to make use
+of methods similar to those Nietzsche himself employs. Thecreativeactiv-
+ity of genealogy, a science of which only Nietzsche’s “readers, [his]right read-
+ers, [his] predestined readers”2 are capable, supplies the methodological
+means by which Nietzsche’s works are to be made sense of.
+Why did Nietzsche investigate into the origin of morality and how is
+genealogy related to his overall critique of morality? These questions I
+would like to answer in the following.
+In order to arrive at a satisfactory answer, one needs to know what
+Nietzsche means by the expression ‘morality’ and what his criticisms of it
+are. Part I offers a particularly narrow conception of morality, merging
+into an outline of Nietzsche’s attack against this conception. Part II out-
+*I am indebted to Simon Blackburn and, especially, Raymond Geuss for helpful discussions on
+this topic.
+1 Danto 18.
+2 A, Preface. I have cited Nietzsche’s works using the standard English-language acronyms: The Gay
+Science(GS), The Wanderer and His Shadow(WS), Beyond Good and Evil(BGE), On the Genealogy of
+Morals (GM), The Antichrist(A), and The Will to Power(WP). Roman numerals refer to major divi-
+Carsten Korfmacher is a philosophy undergraduate at the University ofCambridge,
+England. He will read for a B.Phil. at Oxford University beginning this fall.
+CARSTENKORFMACHER
+lines a more general conception that enables us to infer the status of
+Nietzsche’s critique (Part III). Part IV will be concerned with the status of
+genealogy in Nietzsche’s critique of morality.
+I. Morality in the Traditional Sense
+There is an obvious way in which Nietzsche uses the term ‘morality’,
+namely as referring to what Brian Leiter has called “Morality in the
+Pejorative Sense” or traditional morality.
+Nietzsche’s discussion of traditional morality commences from two
+distinct starting points, which are merged with the introduction of a set of
+criteria by which each branch can be measured. The first branch (A) is con-
+cerned with the conditions and circumstances under which moral values
+arise and develop; the second branch (B) investigates the notion of tradi-
+tional morality itself, and is hence concerned with its theoretical implica-
+tions and content. I shall discuss each strand in turn.
+A. THEGENEALOGICALASPECTSOFTRADITIONALMORALITY
+In his Genealogy, Nietzsche is concerned with a particular aspect of
+traditional moral values, namely with “the conditions and circumstances in
+which they grew.”3
+Nietzsche traces the origin of traditional morality back to two juxta-
+posed types of human being, which he, provocatively and in his own mean-
+ing of the words, calls “slaves” and “masters.” To these two types of man
+there correspond two equally juxtaposed moralities,4which are supposed to
+shed light on the original meanings of the words ‘good’, ‘bad’, and ‘evil’.
+The distinctive character of the master morality in primordial times is
+that it evaluates things naturally: there are desirable attributes for a person
+to posses, including health, strength, physical attractiveness, and overall
+toughness, and a vast number of talents and gifts, such as intelligence,
+imagination, genuine creativity, endurance, and stamina. With reference
+sions or chapters, Arabic numerals refer to sections.
+3 GM, Preface 6.
+NIETZSCHE’SCRITIQUEOFMORALITY
+to the corresponding joy and happiness of their possession, persons who
+could be characterized by these qualities called themselves ‘good’—
+‘good’,therefore, far from having any moral connotation, signifies merely
+a positive evaluation of the nature of man as an active, powerful, and
+self-affirming individual. The word ‘bad’, the initial antipode of the
+expression ‘good’, did not denote more than the lack of these qualities—it
+was, as Bergmann remarks, “a lame afterthought,”5occasionally related to
+a pitiful, considerate, even regretful benevolence; “finally all the words
+referring to the common man have remained as expressions signifying
+‘unhappy’, ‘pitiable’.”6 The slaves, characteristically impotent, reactive,
+self-negating and weak, tried to free themselves from the imprisonment of
+their own inferiority; but due to their lack of creativity, energy, vitality, and
+mental and physical health, they hopelessly failed to overcome their lives of
+joylessness and misery. Having failed to live up to the master’s own stan-
+dards, the slaves’ misery became, against all metaphysical odds and natural
+regularities,the mother of creativity: through a “Trojan horse trick of the
+disadvantaged,”7the slaves inverted the existing dichotomy of moral val-
+ues and construed their enemies as the Evil Ones. The slaves’ valuation
+‘evil’ now refers to the people who possess those attributes which for-
+merly distinguished the ‘good’—and since the slaves did not possess
+those attributes, they were in a position to call themselves ‘good’, only as
+opposed to the new primary notion ‘evil’.
+This is, according to Nietzsche, the fundamental basis of
+nineteenth-century Central European morality. I shall complement
+Nietzsche’s portrayal of the origin of traditional morality by adding some
+brief comments. First, Nietzsche does not suggest a necessity or hidden
+logic in this historical process. The transformation of values into moral
+values is purely accidental. Second, it is important to acknowledge the spe-
+cial status of Nietzsche’s story: although it is supposed to be part of the
+actual history of morality, and is therefore not to be confused with an anal-
+ogy or metaphor, it is nevertheless idealized and simplified, reduced to not
+4 These two moralities are opposed to each other only in an idealized sense. Any concrete, existing
+morality will be a combination of elements from both master and slave moralities.
+5Bergmann 30.
+6 GM,I.10. Nietzsche employs as examples the (ancient) Greek expressions deilos(cowardly, worth-
+CARSTENKORFMACHER
+more than rudimentary aspects of past social and political life. An expla-
+nation of macro-social phenomena such as morality, in the sense in which
+Nietzsche envisages it, requires the construction of what Max Weber
+would later call ideal types, which abstract and summarize the common fea-
+tures of complexes. Indeed, Nietzsche creates a rhetorical illusion here;
+although he describes the clash of two types of people characterized by sets
+of fixed dichotomies,8 it would be naive to take Nietzsche’s story entirely
+on face value. The history of Western morality can only be understood if
+these dichotomies are not seen as fixed and exclusive, but rather as ten-
+dencies in character. This point will become evident if we consider the fol-
+lowing examples: (1) The slaves are supposed to be neither creative nor
+self-affirming. In at least one instance, however, it has been the slaves who
+have been creative and self-affirming, namely by inverting the master’s val-
+ues and inventing a new moral valuation. (2) The masters, although self-
+affirming, powerful, and creative, are not genuinely autarkic. Only through
+the pathos of distance are the masters able to create their own positive view
+about themselves; they need the slaves in order to feel superior and dis-
+tant to them, to look down on them. (3) Moreover, the powerful/weak
+dichotomy cannot be held fixed if one wants to understand the impor-
+tance of the will to power as the concept that gives life and human action
+their content. The concept of power must be understood in such a way
+that every instance of power exercises itself in every possible way at every
+moment; that is to say, there is no conceptual distinction between the sub-
+ject that exercises power and power itself. In the final analysis, therefore,
+the slaves are powerful as well. Christianity, then, must be thought of as the
+product of a successful exercise of power that has managed to dominate
+the morality of human life ever since.
+B. THEORETICALIMPLICATIONSANDCONTENT
+The following characteristics Nietzsche regards not only as fatal
+defects of traditional morality but also as corruptive and dangerous:
+(1) Morality’s specific content(for example, antagonism against excel-
+less), deilaios(paltry), poneros (good for nothing, knavish), and mochtheros(suffering hardship, knav-
+NIETZSCHE’SCRITIQUEOFMORALITY
+lence, selflessness, equality) is not life-enhancing, and hence unten-
+able;
+(2) Morally dualistic code of evaluation of behavior in terms of posi-
+tive/negative dichotomies is untenable;
+(3) Morality claims universality in the sense that it is supposed to
+apply to all human beings equally;
+(4) The obligations and duties imposed by traditional morality on
+its followers are supposed to be unconditional, which is equally
+untenable.
+Nietzsche’s criticisms of traditional morality are most eloquently
+delineated if they are contrasted with his own normative code, which I
+shall label his morality of the future.
+(1) His morality is not so much related to what an agent does but
+rather what abilities and characteristics he has. Nietzsche explicitly rejects
+the view that there is a fundamental distinction to be made between the
+nature of an agent and the nature of the actions he carries out.
+Correspondingly, Nietzsche would also have to reject the idea of moral
+responsibility. And since an agent will act in accordance with his nature,
+Nietzsche cannot advance an actual morality in the form of a set of codes
+of behavior. His normative position is necessarily only a description of
+actions certain types would act in accordance with anyway because they
+cannot act differently.
+The fundamental difference between human types expresses itself in
+the distinction between ascending and descending, between higher and
+lower types of man. The slaves, I suggest, roughly fit the description
+‘descending’. The higher type of man, on the contrary, is not without qual-
+ifications to be assimilated with the masters. Obviously there will be simi-
+larities: physical vitality and healthiness, strength, a yes-saying attitude
+towards life, joy, happiness, pleasure, and, to some extent, intelligence.
+But the higher man Nietzsche has in mind possesses a variety of other char-
+acteristics, some of which the masters did not possess, forexample, intel-
+lectual subtlety, cleverness, an expressive genuine creativity, artistic
+sensitivity and ability, love for truth, a will to gain knowledge, the ability
+not to despair of the truth, and the ability to deal with and gain from hor-
+rible experiences and sufferings.
+(2) The ascending/descending distinction is not to be understood as
+CARSTENKORFMACHER
+a dichotomy, but rather as a difference in degree. The distinction expresses
+itself in people in “Stufen der Scheinbarkeit…und hellere[n] und dun-
+klere[n] Schatten und Gesamttönen des Scheins.”9 Nietzsche’s normative
+position, therefore, does not rely upon a moral dualism as traditional
+morality characteristically does.
+(3) & (4) In a society dominated by traditional morality, the indi-
+vidual’s creative force upon morality is remarkably small. On the con-
+trary,the normative force to which every member of society is exposed, in
+the form of obligations, codes of behavior, and other moral rules and
+guidelines, is disproportionally high. The cultural predomination of tradi-
+tional morality, therefore, can subtly affect the attitudes
+of all members of that culture. This deprives potentially higher man of
+opportunities necessary to his development. An individual with the poten-
+tial for great achievements might be influenced to believe, for example,
+that happiness is good and suffering bad, although suffering is a precondi-
+tion for the development of that potential. In pursuing the values
+induced by society instead of her own, the individual is likely to waste her
+potential. Hence, Nietzsche concludes, traditional morality is alienating,
+harmful, and destructive to the development of human excellence.
+The morality of the future, on the contrary, since it is subjective and
+conditional on the characteristics of the person holding it, does not have
+these devastating effects. Getting to hold values is itself a creative activity
+and furthers excellence, and since there is a constant re-creation of subjec-
+tive norms, older values might be abandoned at some stage. Therefore,
+Nietzsche argues, axiological values must not be unconditional or univer-
+sal. If they are, they endanger the higher type of man.
+According to Nietzsche, since every single component mentioned
+above makes a morality a morality in the traditional sense, all these fea-
+tures must be eliminated. It is not sufficient to eliminate only one
+or the other of the traditional constituents.
+II. Morality as a Cultural Phenomenon
+I wish to bring into discussion a distinction emphasized by Brian
+ish), each of which means “wretched” in addition to their other connotations.
+NIETZSCHE’SCRITIQUEOFMORALITY
+Leiter, namely the distinction between Morality10 as a cultural phenomenon
+and moral theory.11Nietzsche is not so much interested in any systematized
+and improved theoretical framework to which morality isreduced.Indeed,
+it seems evident that Nietzsche denies the possibility of any such reduc-
+tion. Nietzsche is rather interested in how morality influences human
+beings and their ways of forming beliefs and justifying conduct, how moti-
+vations for actions are created by morality and, indeed, how morality is
+created by human beings—not as a system of thought but as a, partly
+unconscious, psychological expression of certain types of people and the
+distinctive concentration of their wills.
+This distinction helps us to see how Nietzsche’s general perception
+of morality is to be understood. As a cultural phenomenon, Morality is
+inevitably a historical concept and, for Nietzsche, “only that which has no
+history is definable.”12 Hence, Nietzsche concludes, there is no defining
+(set of) necessary and sufficient condition(s) by which concepts of morality
+can be identified as concepts of morality, “as if all words were not pockets
+into which now this and now that has been put, and now many things at
+once.”13Rather, different concepts of morality are “best connected to each
+other by ‘family resemblances,’ and there are no antecedently specifiable
+limits to what can count as sufficient ‘resemblance’ to make the term
+‘morality’ correctly applicable.”14 Nietzsche is, therefore, an anti-essential-
+ist with regards to the concept of morality.
+Even though it has by itself no specific content, origin, internal struc-
+ture, motivational property, or social function, there will be in any society at
+any given time a cultural phenomenon that might appropriately be called
+Morality. It seems hence plausible to suggest that, in its widest sense,
+Morality cannot be rejected in much the same way sociability cannot be
+rejected from within a society. Morality is an empty concept that is actu-
+alized by particular sets of values. Traditional morality, then, is not a
+wider or different set of values, but rather a summarizing term for all par-
+7 Bergmann 30.
+8 Arguably, the most essential dichotomies are: active/reactive, affirmative/negating, genuinely
+creative/not creative, and powerful/weak.
+9 “Degrees of apparentness…and lighter and darker shadows and shades of appearance.” BGE,
+§34.
+10 In the following, the capitalized term ‘Morality’ refers to morality as a cultural phenomenon,
+CARSTENKORFMACHER
+ticular actualizations of Morality which involve one or more of the
+criticisms mentioned above. Since Christianity is the origin of
+Western morality, its moral code is, for us, the paradigmatic instance of
+traditional morality.
+Unfortunately, it is impossible to list a number of meanings
+Nietzsche has reserved for the term ‘morality’—in Nietzsche’s writings, for
+reasons I have just advanced, ‘morality’ can literally mean anything
+between Judeo-Christian morality and Morality as a cultural phenomenon.
+Nietzsche’s employment of the expression is entirely context-dependent.
+Nevertheless, if one is determined to understand Nietzsche’s critique of
+morality, it is of major importance to identify the sense in which Nietzsche
+uses the term ‘morality’ on any particular occasion.
+III. The Status of Nietzsche’s Analysis of Traditional Morality
+These considerations help us to understand the status of Nietzsche’s
+critical analysis of traditional morality. Since Nietzsche argues against nei-
+ther a definable concept nor a moral theory, he does not attempt to
+employ a formal objection against traditional morality. First of all,
+Nietzsche does not have any objection to falsity or untruth simpliciter. States
+of affairs can rest upon false assumptions or metaphysical claims, but never-
+theless further life—and the latter is the criterion by which justification for
+existence can be measured. And, second, since there is no one fixed (set
+of) proposition(s) traditional morality iscommitted to in every form at all
+times, there is no one formal objection which is sufficient to refute tradi-
+tional morality. Therefore, by his own standards, formal objections do not
+help Nietzsche at all, or, as he famously proclaims, “What have I to do
+with refutations!”15 Nietzsche’s project is necessarily empirical, his aim is
+“to replace the improbable with the more probable, possibly one error
+with another.”16
+Therefore, Nietzsche’s objections outlined above are to be thought
+of as a case, not as a set of formal objections, against “all that has hitherto
+i.e., to an abstract social category. As an abstractum the notion lacks a normative dimension, and
+NIETZSCHE’SCRITIQUEOFMORALITY
+been celebrated on earth as morality.”17His criticisms reveal that the type
+of people who hold traditional moral values do so due to weakness, dis-
+ability, and misunderstanding. And since traditional morality perverts
+life, since it is dangerous, subversive, self-abnegating, and self-sacrific-
+ing, in short, since it hinders life instead of furthering it, traditional
+moral values must be rejected.
+IV. The Status of Genealogy in the Critique of Morality
+We are now in a position to delineate the status of genealogy in the
+morality critique. Nietzsche’s genealogical investigation serves a variety of
+purposes in the corpus of his writings on morality, and it is vital to
+acknowledge this diversity in order to understand how it complements
+his general “cultural” critique.
+(A) First, as a minor function, genealogy is part of Nietzsche’s project of
+disentangling the complex notion of morality, and is in this sense prelim-
+inary to metaethical discourse in the Nietzschean sense. Due to his anti-
+essentialism and his commitment to morality as a social institution rather
+than a theoretical framework, Nietzsche must devote a part of his discus-
+sion to the clarification of the object of analysis before he will be in a posi-
+tion to treat morality as an object of philosophical discourse. In this
+sense, genealogy is not a process of evaluation but rather a process of pro-
+viding a basis of explanation.
+(B) Second, Nietzsche’s genealogy, I would like to suggest, has differ-
+ent functions depending on the type of personwho is confronted with it. For
+followers of traditional morality, the genealogical functions as the revela-
+tion of a real problem, a problem concerning morality that has been over-
+looked for centuries. This problem is “something much more important
+than hypothesis-mongering…on the origin of morality.… What [is] at
+stake [is] the valueof morality.”18The second function of the genealogical
+analysis, then, facilitates Nietzsche’s project that “the value of these
+[moral] values themselves must first be called into question.”19 In other
+words, Nietzsche’s genealogy of morality is supposed to undermine the
+is by itself both contentless and irrefutable.
+11 See Leiter, “Nietzsche” 252.
+CARSTENKORFMACHER
+apparently obvious connotations we associate with moral values and to
+demonstrate that traditional morality itself is just “a special case of
+immorality.”20 Nietzsche regarded himself as the first thinker to go
+beyond traditional ethical discourse in the sense that he does not take the
+value of moral values—i.e., their traditional connotations—for granted.
+For followers of traditional morality these connotations are essential
+and undermining them, by showing that they are inconsistent with one
+another, equals undermining traditional morality itself. Therefore, even
+though genealogical analysis has for Nietzsche a different function, he
+nevertheless regarded its result as an important motivation for Christians
+to gradually turn against their own beliefs.
+It is important not to confuse this second function with an actual
+objection against morality. Nietzsche has frequently been misinterpreted
+in two ways:
+(1) A number of critics have attributed to Nietzsche the view that
+since traditional morality arises out of immorality, it possesses therefore
+only negative value, and must hence be rejected. This interpretation has
+then been used to object against Nietzsche that by moving from the ori-
+gin of traditional morality to its value, he commits a genetic fallacy. I do
+not think that this interpretation is successful. Nietzsche is aware of this
+fallacy and explicitly says, in a work published before the Genealogy was
+written, that traditional morality “is completely independent…from the
+weeds of error with which it was perhaps overgrown.”21Furthermore, “To
+object to morality simply because it relies on immoral means would
+be...to make yet another moral judgment”22from the point of view of tra-
+ditional moral valuation. Consequently, if Nietzsche thought of his geneal-
+ogy as an objection in this sense, he would have presupposed traditional
+moral values and his investigation was straightforwardly self-defeating. I
+should suggest that attributing such a blunt fallacy to one of morality’s
+most brilliant critics brusquely trivializes Nietzsche’s point.
+(2) It has also frequently been argued that Nietzsche advances an inter-
+nal critique of traditional morality here: since traditional morality arises out
+12 GM,II.13.
+13 WS,§33.
+14 Geuss 167.
+NIETZSCHE’SCRITIQUEOFMORALITY
+of immorality, it must be internally fallacious or inconsistent. I do not think
+that this interpretation does justice to Nietzsche’s intentions: as already
+stated, even if morality were inconsistent, Nietzsche would not have a par-
+ticular problem with it, for not consistency but the enhancement of life is
+the criterion of justification Nietzsche employs. Moreover, Nietzsche’s own
+normative position is based on the thought that the more advanced incom-
+patible strands of different moralities are developed within a person or soci-
+ety, the more ethically sophisticated the person or society is. Therefore, if
+Nietzsche argues against traditional morality because it is inconsistent, he
+would have to acknowledge the inconsistency, and hence invalidity, of his
+own morality—but he explicitly does not. Finally, inconsistency is a
+notion that can meaningfully be applied to moral or metaethical theo-
+ries, but not, as Nietzsche discusses it, to Morality as a cultural phenome-
+non. To reduce Nietzsche’s objection against morality to an internal
+critique, therefore, is to ignore the most substantial part of his criticisms,
+namely the dimension of cultural critique.
+(C) Third, I shall argue that genealogy lies at the heart of Nietzsche’s
+critique in the sense that it serves as an experimental explanationin the way
+Nietzsche envisages it for the philosophers of the future.23 Nevertheless,
+genealogy is logically separated from Nietzsche’s overall criticisms. This fact
+has led to much confusion in contemporary Nietzsche scholarship, so it
+seems worth elaboration.
+Tracing the history of morality gives an indication that traditional
+morality opposes higher men as Nietzsche envisages them—but this could
+have been known also by just identifying mid-nineneenth century Western
+morality’s incompatibility with the life of higher men. Strictly speaking,
+therefore, a natural history of morality is not necessary to criticize moral-
+ity on Nietzschean grounds.
+It seems more plausible to suggest that genealogy arose, for Nietzsche
+and other free spirits not imprisoned in the dungeon of traditional moral-
+ity, out of a special interest, initially remote from his overall critique of
+morality. This special interest evolved from the question, “How could
+humanity have been deceived for almost two millennia, deceived by such a
+dangerous, sick, and subversive phenomenon?” Far from being supposed
+CARSTENKORFMACHER
+to criticize, to object, and to finally reject morality, genealogy “is meant to
+supplement and clarify”24 Nietzsche’s analysis and critique of morality.
+Genealogical investigation into the history of traditional morality, then,
+serves as an explanation of whymoral values endanger the ascending type
+of man, rather than constituting evidence for the fact that they endanger
+him. Tracing the origin of morality reveals the deeply rooted opposition
+of traditional morality to all genuinely creative, individual, and self-
+affirming beings, and hence explains how morality became and remained
+“the danger of dangers.”25
+It is important to stress the predicate ‘experimental’ in this context.
+Nietzsche does not claim that his Genealogyalready is a unified account of
+the origin of morality. Rather, Nietzsche’s genealogy is an ongoing and
+continuous attempt to gain an understanding of morality and is to be con-
+tinued by the philosophers of the future.26This is not done by applying a
+fixed methodology, but methods from a wide range of sciences includ-
+ing psychology, philology, and physiology. Therefore, the creation of new
+well-supported hypotheses in psychology or physiology can influence a
+genealogical investigation in the same way a discovery of historical facts
+can. In this sense, genealogy is not to be thought of as purely historical;
+it rather includes history as a possibility of investigation.
+Genealogy, then, complements, illuminates, and supports Nietzsche’s
+analysis and criticisms of traditional morality. Equally, his morality of the
+future and the corresponding criticisms of traditional morality illumi-
+nate the genealogical investigation. According to Nietzsche, from the per-
+spective of his morality of the future, his genealogy is a historically more
+successful and accurate account of the origin of traditional morality
+than could be achieved from the view point of traditionalmorality.
+Genealogy of morality and analysis of morality, therefore, stand in a
+continuous dialectical relation, which the philosopher of the future is sup-
+posed to explore. Only in treating the relation between genealogy and
+analysis as a productive circle of mutual illumination, according to
+Nietzsche, is an insight into the nature and complexity of human states of
+affairs possible.
+15 GM, Preface 4.
+16 GM, Preface 4.
+NIETZSCHE’SCRITIQUEOFMORALITY
+NIETZSCHE’SCRITIQUEOFMORALITY
+17 GM, Preface 3.
+18 GM, Preface 5.
+19 GM, Preface 6.
+20 WP, 308; see 401, 406.
+21 GS, §345.
+22 Nehamas 201.
+23 See BGE,§42.
+24 Following the title page of the first edition of GM.
+25 GM, Preface 6.
+26 See GM, Preface 6.
+References
+Bergmann, Frithjof. “Nietzsche’s Critique of Morality.” Reading Nietzsche.
+Ed. R. Solomon and K. Higgins. Oxford: University Press, 1988.
+29–45.
+Danto, Arthur. “Some Remarks on The Genealogy of Morals.”
+International Studies in Philosophy 18, no. 2 (1986): 3–15.
+Geuss, Raymond. Morality, Culture, and History. Cambridge: University
+Press, 1999.
+Leiter, Brian. “Morality in the Pejorative Sense: On the Logic of
+Nietzsche’s Critique of Morality.” British Journal of Philosophy 3
+(1995): 113–45.
+______. “Nietzsche and the Morality Critics.” Ethics107 (1997): 250–85.
+Nehamas, Alexander. Nietzsche: Life as Literature. Cambridge: Harvard
+University Press, 1985.
+Nietzsche, Friedrich. The Antichrist. In The Portable Nietzsche. Ed. Walter
+Kaufmann. New York: The Viking Press, 1954.
+———. Beyond Good and Evil. Trans. Walter Kaufmann. New York: Random
+House, 1966.
+———. Jenseits von Gut und Boese und Zur Genealogie der Moral. KSA 5. Ed.
+G. Colli and M. Montinari. Berlin: de Gruyter, 1999.
+———. On the Genealogy of Moralsand Ecce Homo. Trans. Walter Kaufmann.
+New York: Random House, 1989.

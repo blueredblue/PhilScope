@@ -1,0 +1,432 @@
+AporiaVol. 14 number 1—2004
+The Possibility of a Christian Appropriation of
+Aristotle’s Ethical Philosophy
+CHARLIERITCH
+istorically, the Christian tradition has heavily relied on Aristotle’s
+H
+ethical philosophy to provide a conceptual basis for the articula-
+tion of its own ethical doctrines, but Aristotle’s concepts are com-
+ing up less and less frequently in contemporary ethical debates. The
+Roman Catholic Church, however, continues to be characterized by their
+reliance on Aristotelian formulations of theological doctrine. This, how-
+ever, is not true of the Protestant church, which produced many of the
+Modern and nineteenth century attempts to find rational grounds for eth-
+ical philosophy without reference to Aristotle. According to Alasdair
+MacIntyre, these attempts have failed, and as a result there is no longer a
+“rational way of securing moral agreement in our culture.”1It would seem,
+then, that the Protestant church would do well to reexamine Aristotle’s
+ethical philosophy if they are to preserve the integrity of their ethical claims
+in the contemporary context.
+Not all interpretations of Aristotle’s ethical philosophy portray him
+as particularly helpful for articulating the ethics of the Christian tradition,
+though. A particularly problematic interpretation comes from Martha
+Nussbaum’s work The Fragility of Goodness. She argues that Aristotle is a
+completely anthropocentric ethical philosopher, and he is thus able to
+1MacIntyre 6.
+Charlie Ritch is a senior at Wheaton College majoring in philosophy. He is pursuing grad-
+uate studies in biblical exegesis. This essay won third place in the 2003 R. E. Lee Contest
+at Wheaton College.
+46 CHARLIERITCH
+avoid the problems of his higher-minded predecessors. Nussbaum lauds
+the NEbecause it is authentic and unafraid to admit the messiness of the
+human ethical endeavor. Her interpretation of Aristotle’s ethical philoso-
+phy is marked by three distinct arguments:
+1. Ethical goodness is “species-relative,” and thus the human
+good must be good for humans and humans alone.
+2. There can be no hierarchy of ethical goods because there is
+no common standard by which to measure. Thus, the ordinary
+moral virtues are just as important for the good life as is the
+virtue of contemplation.
+3. Ethical dictums are summaries of good decisions, not uni-
+versally applicable laws. General principles are naturally sus-
+ceptible to revision.
+Since the Christian notion of ethical goodness is based on the eternality of
+God’s character and man’s having been made very much like God, it
+would seem that according to Nussbaum, Aristotle’s ethical philosophy
+would not permit a Christian appropriation. Before it can be suggested
+that the Protestant church return to Aristotle for ethical insight, it must be
+determined whether or not Aristotle contradicts basic Christian presup-
+positions. I will argue that he does not and that in spite of the apparent
+contradictions posed by Nussbaum’s interpretations, Aristotle may be read
+as anticipating the ethical philosophy of the New Testament.
+Nussbaum’s argument that the good life for human beings cannot be
+informed by the lives of gods or lower animals comes from her under-
+standing of Aristotelian anthropology. Aristotle does indeed develop his
+concept of ethical goodness on the basis of his understanding of anthro-
+pology, and so it is not wholly improper for Nussbaum to call Aristotle’s
+ethics “anthropocentric.” Happiness has meaning only insofar as it
+describes the best possible state of human life. Aristotle concludes that this
+perfection can be nothing else but eudaimonia or happiness. But before
+CHRISTIANAPPROPRIATIONOFARISTOTLE 47
+Aristotle can portray the perfection of human life, he must first explain
+what it is that must be perfected.2
+Because humans are distinguished from animals by their superior
+use of reason, their proper function must involve their rational faculty.
+And since ethical philosophy is concerned not just with thought, but also
+with action, reason must be used for practical ends. This means that what-
+ever else ethical goodness turns out to be, it must practicable and attain-
+able by rational human beings. Nussbaum concludes that this eliminates
+certain candidates for the good life. She writes:
+There is no point in talking about the good life in an ethical
+inquiry insofar as this life is not practically attainable by beings
+with our capabilities. The life of a divine being might be ever so
+admirable; but the study of this life, insofar as it lies beyond
+our capabilities, is not pertinent to the practical aims of ethics.3
+Nussbaum is here responding to the ethical philosophy of Plato, in which
+the ethical endeavor is portrayed as a pursuit of the transcendent idea of
+the good, a decidedly nonhuman concept. Aristotle explicitly rejects this
+conception of goodness, because even if the good were “something existing
+separately and absolute, it clearly [would] not be practicable or attainable by
+man; but the Good which we are now seeking is a good within human
+reach.”4
+Nussbaum argues that the attainability of goodness provides param-
+eters within which the good life must be defined. The life of a god, which
+is free from the fragility that characterizes human life, is essentially unat-
+tainable by human beings. And the life of a cow, which would not make
+adequate use of human reason, is not worth attaining. Thus, in
+2Nichomachean Ethics (NE) 1097b 22–30.
+3 Nussbaum 263.
+4NE1096 30 ff.
+48 CHARLIERITCH
+Nussbaum’s words, Aristotle’s conception of ethical goodness is “species-
+relative”—that is, the ultimate good for each species is only relevant as a
+good within that species.
+Nussbaum’s argument that the good life must consist in a plurality of
+ethical goods, each of which is indispensable to the whole, comes from
+Aristotle’s understanding of pleasure. She emphasizes the ways in which
+Aristotle’s concept of pleasure differed from Plato’s. Plato argues that what-
+ever is pleasant participates in one universal and abstract idea of pleasure.
+This allowed for a kind of ethical precision akin to scientific measure-
+ment.5If all ethical activities share the common characteristic of pleasure
+to one degree or another, then they can be measured against one another.
+The philosopher must determine which activity possesses the purest, most
+stable, and truest pleasure, and this activity will be the good life.6
+Nussbaum argues that this perspective is repugnant to the basic realities of
+the human condition. Different pleasures are not all qualitatively similar,
+and to see them as such compromises the authentic complexity of human
+life.
+In the first part of Book X Aristotle argues that pleasure attends the
+perfection of an activity. Thus, the character of a pleasure depends on the
+nature of the activity.7Nussbaum reasons from this that ethical values are
+incommensurable with one another—that is, because there is no common
+standard against which to measure ethical values, each of them is unique
+and indispensable to the good life.
+[Aristotle’s] ethical works display a conception of the best
+human life as a life inclusive of a number of different con-
+stituents, each being defined apart from each of the others and
+valued for its own sake. Part of the very account of excellence
+of character is the stipulation that fine actions are chosen in
+each case for their own sake, not simply for the sake of some
+5See Fragility of Goodness, “The Protagoras: A Science of Practical Reasoning.”
+6See Ibid., “The Republic: True Value and the Standpoint of Perfection.”
+7NE1175a 23–25.
+CHRISTIANAPPROPRIATIONOFARISTOTLE 49
+further reward or consequence (1105a 32). Each excellence is
+defined separately as something that has value in itself. To
+value each of these separate items, each of which has its sepa-
+rate account, for what it itself is, seems to entail recognition of
+its distinctiveness and separateness from each of the others.8
+The ethical value of an activity depends on the degree to which it promotes
+the agent’s happiness. Since the pleasure (and thus the ethical value) of
+each activity is unique, it follows that the good life will be characterized by
+a plurality of indispensable ethical activities—including many that are sub-
+ject to external contingencies. There is no way to promote the contempla-
+tive life, or any other life dominated by only one ethical activity, as the best
+sort of human life. The very complexity of life requires that each of the
+virtues be enjoyed for its own sake.
+This drastically affects the way we think about the good life. For
+Aristotle, eudaimoniadoes not describe any one part of life; rather it char-
+acterizes the whole of one’s life. Thus, in the early chapters of the NE,
+Aristotle writes:
+Happiness, as we said, requires both complete goodness and a
+complete lifetime. For many reverses and vicissitudes of all sorts
+occur in the course of life, and it is possible that the most pros-
+perous man may encounter great disasters in his declining
+years, as the story of Priam in the epics; but no one calls a man
+happy who meets with misfortunes like Priam’s, and comes to
+a miserable end.9
+Because every ethically significant activity is really valuable in and of itself,
+and because no good can be foregone without significant loss, Nussbaum
+argues that the good life is profoundly susceptible to forces of luck. The
+8Nussbaum 296.
+9 NE1100a 5–9.
+50 CHARLIERITCH
+good life is characterized by a complex composition of ethical activities,
+many of which can be made impossible by fortune. And if the stability is
+compromised, then one’s enjoyment of the good life is compromised.
+One final aspect of Nussbaum’s interpretation must be addressed.
+She argues that general principles in the Aristotelian framework are only
+summaries of good decisions, and as such they should not be portrayed as
+universal laws. In Book II Aristotle establishes a definition of virtue based
+on a certain understanding of an ethical principle:
+Virtue . . . is a settled disposition of the mind determining the
+choice of actions and emotions consisting essentially in the
+observance of the mean relative to us, this being determined by
+principle, that is, as the prudent man would determine it.10
+In Book VI, he more carefully examines the principle: “It is right to choose
+the mean and to avoid excess and deficiency, and . . . the mean is pre-
+scribed by the right principle.”11Nussbaum argues that Aristotle’s principle
+is often confused with contemporary ethical dictums. Instead of being the
+beginning of the reasoning process, as first principles are in the theoretical
+sciences, she maintains that the right principle is actually a collection of
+well-made decisions which form a sort of provisional rule when taken as a
+whole.
+Principles are perspicuous descriptive summaries of good judg-
+ments, valid only to the extent to which they correctly describe
+such judgments. They are normative only insofar as they trans-
+mit in economical form the normative force of the good con-
+crete decisions of the wise person and because we wish for
+various reasons to be guided by that person’s choices. We note
+that their very simplicity of economy will be, on this concep-
+tion, a double-edged attribute: for while it may help the princi-
+10Ibid. 1107a 1–5, emphasis added.
+11Ibid. 1138b 17–19.
+CHRISTIANAPPROPRIATIONOFARISTOTLE 51
+ple to perform certain pedagogical and steering functions, it
+will also be likely to make it less correct as a summary of numer-
+ous and complex choices.12
+The important thing to note about Nussbaum’s characterization is
+that it unequivocally precludes the possibility that ethical principles in any
+way reflect the unchanging character of God. The normative force of any
+ethical principle extends just so far as the principle is a formula for what a
+prudent person would do in a given situation. But since a general princi-
+ple cannot account for the particularities of different situations, there exists
+the possibility that any and every principle will need to be corrected.
+Rather than reflecting the perfection of divine goodness, Nussbaum argues
+that ethical principles are only useful on certain occasions:
+When there is no time to formulate a fully concrete decision,
+scrutinizing all the features of the case at hand, it is better to
+follow a good summary rule than to make a hasty and inade-
+quate concrete choice. . . . Rules are necessities because we are
+not always good judges; if we really were operating ethically as
+well as we should, we would not have the same need of them.13
+Ethical principles are thus a type of crutch on which we depend in imper-
+fect cases where our deliberative capacities are limited by time. The princi-
+ples are not essential to ethical goodness because they only summarize.
+And since it is the nature of ethical deliberation to be concerned with the
+particular situations, strategies that depend on general principles are fun-
+damentally inadequate.
+From what has been said about Nussbaum’s interpretation, the
+prospects for a Christian appropriation of Aristotle’s ethical philosophy
+are fairly grim. First, the Christian notion of goodness is not “species-rel-
+12Nussbaum 299.
+13Ibid. 304.
+52 CHARLIERITCH
+ative,” insofar as the ultimate human good is in fact informed by the knowl-
+edge of God. Thus, the good for humans depends greatly on who God is
+and what He is like.14It is not uncommon for the Christian to describe his
+ethical endeavor as the pursuit to be godly, or godlike. Such a pursuit is not
+an option in Nussbaum’s version of Aristotelian ethics. She maintains that
+the richness of human life is directly related to its fragility. The life of God
+should not even enter into the discussion of the human good.
+Perhaps it will be objected that it is more appropriate to say that
+Christians strive to be Christ-like. Therefore, we might say that even theo-
+logically, our aim is within our species since our aim is most properly the
+man Jesus. But we must remember that this man was no ordinary man. He
+would not have been able to accomplish the purposes of the Messiah of
+Israel as a mere mortal. Rather, Jesus, as the Messiah was the god-man. He
+was and is the only man who can claim equal ontological status with God
+the Father. As such we may say that Jesus was for all practical purposes
+another species of being. This, too, has its problems, since Christians do not
+ultimately aim at Jesus’ ontological status, but at his ethical behavior. They
+do not, therefore, think that through their ethical striving they might
+attain divinity. Nevertheless, the Christian’s ethical model for human
+behavior is ontologically superior to humans.
+It is also problematic that, according to Nussbaum, Aristotle seems to
+affirm the plurality of ethical values and prohibits the privileging of any
+one activity over another. Jesus teaches that we ought “not to be anxious for
+[our] life, as to what [we] shall eat, or what [we] shall drink; nor for [our]
+body, as to what [we] shall put on. [For] is not life more than food, and the
+body than clothing?”15This suggests that there is something more worthy of
+our attention, something of higher value to us than our everyday concerns
+for food and shelter. Instead of occupying ourselves with these concerns,
+14 This is especially evident in the context of God’s historical covenant with Israel. They ought never to
+break the terms of the covenant since God will never break them. But this might be expected of any
+human relationship. Where the theological element of ethics comes through most forcefully is in the con-
+cept of mercy. Humans are expected to “love their enemies” because even when they were the enemies
+of God, he loved them and showed them mercy, rather than the justice that was due them.
+15Matt. 6:34.
+CHRISTIANAPPROPRIATIONOFARISTOTLE 53
+Jesus exhorts us to turn to the values of the kingdom of God, and the right-
+eousness associated therewith. Here we must face the reality that not only
+are we to aim at the good of another species, but this good is higher, bet-
+ter, and more worthy of our attention than the ordinary practical goods
+associated with our species.
+Finally, the notion that there are no ethical principles apart from
+mere summaries of good decisions is inconsistent with the notion of the
+divine law as a revelation of God’s character. It could well be argued that
+the Old Testament law in fact provides a perfect example of the provi-
+sional nature of ethical principles. Were not some laws found to be, in
+some degree, unsuitable for the first century church? Even many of the Ten
+Commandments have acceptable exceptions. It would be a mistake to draw
+conclusions about the nature of law in general from particular manifesta-
+tions through history. The changes in Israel’s law code in the New
+Testament tell more about the context of certain laws and commandments
+and the ultimate revelation of God in Jesus than they do about the nature
+of ethical principles. Furthermore, even within the law there are certain
+dictums not subject to change. For example, while the prohibition against
+killing can be amended in certain situations, it seems that there are cases
+in which killing would be eternally forbidden. As G. E. M. Anscombe
+argues, anyone who even entertains the notion that judicial execution of
+the innocent might be ethically acceptable is morally unfit for ethical dis-
+cussion, for “he shows a corrupt mind.”16Furthermore, the general princi-
+ple that we are to “love our neighbors as ourselves” does not seem to admit
+of any exceptions.17
+The obstacles to a Christian appropriation of Aristotle’s ethical phi-
+losophy are partly the result of Nussbaum’s overstating Aristotle’s position.
+Nevertheless, she works from significant texts in the NE, which are not eas-
+ily explained away. One problem stands out in her treatment of the NE
+though. On her interpretation, the arguments Aristotle makes in Books
+16Anscombe 42.
+17Matt. 22:39.
+54 CHARLIERITCH
+I–IX cannot be reconciled with his arguments in Book X. Nussbaum
+asserts, “We can say with confidence that [chapters 6–9 of Book X] do not
+fit into the argument of the NE.”18 She has so committed Aristotle to an
+anthropocentric ethical stance that she is quite unable to explain his tran-
+scendent turn in Book X. But it is at this point that the whole of the NE
+becomes available for Christian appropriation. If Aristotle had left his eth-
+ical inquiry with moral virtue without suggesting that humans were meant
+for something higher, then his ethical philosophy would be of little use to
+Christianity. Book X makes it clear that moral virtue begins the ethical
+endeavor, but it does not complete it. Nussbaum cannot assimilate Book X
+into her interpretive framework because Nussbaum takes as the pinnacle of
+the NEthose books that Aristotle intended as stepping-stones.
+While it might be true that among the moral virtues there can be no
+significant hierarchy, in Book X Aristotle clearly introduces a category of
+ethical activity that he takes to be higher and more worthy of pursuit than
+the moral virtues. Aristotle begins by reiterating his notion of pleasure,
+which, as we have seen, is indispensable to his ethical philosophy. Aristotle
+argues that pleasures are characterized by the activities with which they are
+associated, and, therefore, “as activities are diverse, so also are their pleas-
+ures.”19Thus, Nussbaum argues that pleasures are so unique and so partic-
+ular that they cannot be qualitatively compared, as Plato had proposed.
+This is how she justifies the claim that Aristotle promotes a plurality of eth-
+ical values. This is not, however, the direction taken by Aristotle. Instead,
+the diversity of pleasures provokes a discussion of which pleasures are most
+worthy of pursuit. Whereas the diversity of pleasure leads Nussbaum to
+draw out conclusions about the incommensurability of ethical goods, for
+Aristotle, it forms the basis of an ethical hierarchy.
+Pleasures correspond to the activities to which they belong; it is
+therefore that pleasure, or those pleasures, by which the activ-
+18Nussbaum 377.
+19NE1176a 1–2.
+CHRISTIANAPPROPRIATIONOFARISTOTLE 55
+ity, or the activities, of the perfect and supremely happy man
+are perfected, that must be pronounced human in the fullest
+sense. The other pleasures are so only in a secondary degree.20
+Aristotle here argues that what is most appropriately called pleasure is asso-
+ciated with the most distinctively human activities. It is not denied that
+there are many other activities that seem pleasant to men with more ani-
+mal-like sensibilities, but these are only pleasant in an analogical sense.
+True pleasure is that which the good man recognizes to be pleasant, for his
+perspective is decisive in ethical matters. And the good man will choose to
+pursue not all pleasures, but the highest and best of them.
+Aristotle assumes that within the virtues some are more intrinsically
+valuable than others. These are the virtues associated with the “divinest”
+part of the human.21From this, it is apparent that Aristotle’s anthropology
+is not as exclusive as Nussbaum would suggest. Human life shares many
+characteristics with both the animal and divine. This means that an
+“anthropocentric ethic” involves more than just figuring out what is specif-
+ically good for the human qua human; it is also concerned with what is
+good for the human quaanimal and quadivine. Contrary to Nussbaum’s
+argument, Book X is not the first time we encounter this notion. In Book
+I, chapter 7 Aristotle argues that the Supreme Good is happiness, which is
+entirely self-sufficient and desirable for its own sake. When the idea of a
+proper human function is added to this, it naturally follows that perfect
+happiness will accompany the most self-sufficient activity that is most truly
+desired for its own sake.22 While there might be several different human
+excellences (i.e. generosity, friendship, and contemplation), true happiness
+must be associated with the highest of them.23 It should thus come as no
+surprise that in Book X Aristotle reasons that the contemplative life is the
+highest good for humankind because it is the most self-sufficient and most
+20Ibid. 1176a 26–28.
+21 Ibid. 1177a 17.
+22 Ibid. 1097a 1–15.
+23 Ibid. 1098a 15–17.
+56 CHARLIERITCH
+desirable in itself. Nevertheless, Aristotle seems to agree that this “divine
+life” is, to some degree, unattainable by humans. This, he says, is due to the
+fact that the good life he is proposing is actually better fit for gods than for
+men. It is a life based on the highest part of the human person, and this
+part in itself is superior to the whole.24
+Though some of the problems for a Christian appropriation of
+Aristotle’s ethical philosophy come from Nussbaum’s failure to account
+for all of Aristotle’s thought, some of them come from Aristotle’s failure to
+complete the picture of perfect human happiness. For Aristotle, the high-
+est good is naturally beyond reach because it is the virtue better suited for
+the gods who need not attend to the lower virtues in order to pursue the
+higher. Humans are such that the contemplative life will always be inter-
+rupted by the demands of practical necessity. It is precisely because human
+life is characterized by vulnerability that any distinctively human ethic will
+fail to establish a complete picture of the good life. Nevertheless, the
+Christian appropriation of Aristotle’s ethical philosophy is possible,
+because Aristotle himself acknowledges that his portrayal of the good life is
+attainable only in theory. Aristotle writes:
+[We ought not] obey those who enjoin that a man should have
+man’s thoughts and a mortal the thoughts of mortality, but we
+ought so far as possible to achieve immortality, and do all that
+man may to live in accordance with the highest thing in him;
+for though this be small in bulk, in power and value it far sur-
+passes all the rest.25
+Apart from the Christian vantage point, which allows for an afterlife
+in which the immortality of the human being may be realized, Aristotle’s
+ethical philosophy might appear to be an exercise in futility. But if Aristotle
+is taken as anticipating the ethics of the New Testament, then what we
+have is an ethics that is incomplete, but not inconsistent. Book X marks the
+24 Ibid. 1077b 27–33.
+25 Ibid. 1177b 30–35, emphasis added.
+CHRISTIANAPPROPRIATIONOFARISTOTLE 57
+beginning of Aristotle’s clearest and most appropriate conception of the
+good life. But it was left to others (namely, the authors of the New
+Testament) to complete the picture. Because Nussbaum will not entertain
+the possibility that Aristotle’s ethical philosophy is conceptually incomplete,
+she is forced to conclude that he is being inconsistent when he advocates
+the contemplative life in Book X. The idea that we cannot treasure some
+ethical goods over others, that we must always treat general principles as
+tentative approximations, or that we must aim low, hoping to achieve only
+those goods available to our species all result from reading the ethical phi-
+losophy in Books I–IX as the final word on the good life for humans. But
+Aristotle himself suggests that these earlier books function as a beginning,
+albeit a necessary beginning, but not the final word on the good life. The
+moral virtues are a dialectical foundation upon which to discover the high-
+est and truest good life—for Aristotle this was the contemplative life, but for
+the Christian it is heaven. In both cases the point is the same: humans are
+free from worrying about their basic necessities, so that they can enjoy the
+free exercising of their highest and most noble faculties.
+Nussbaum’s problematic interpretations of Aristotle’s ethics only
+account for part of Aristotle’s ethical philosophy. And when taken as a
+whole, it can be portrayed as affirming the goodness of the common moral
+life while also advocating and promoting the contemplative life. On this
+interpretation, Aristotle can greatly facilitate Protestant and Catholic artic-
+ulations of their ethical doctrines. Aristotle’s careful assessment of the
+moral life provides a clear basis for understanding how God intended
+humans to live. It must, however, be acknowledged that the current world
+is not safe for ordinary life. This is, perhaps, why we saw earlier that Jesus
+does not encourage his followers to give their mundane needs too much
+attention. The human ethical endeavor involves pursuing the ultimately
+good life that combines the best aspects of the moral life and the contem-
+plative life. For Aristotle, this was practically impossible, because it was
+inevitable that the entanglements of the moral life would prevent the full
+58 CHARLIERITCH
+enjoyment of the contemplative life. For Catholics and Protestants, the
+good life is not something to be enjoyed in the present world, but in
+heaven. Whereas Aristotle stops by saying that we ought to try as far as we
+are able to live like gods in uninterrupted enjoyment of our highest facul-
+ties, the New Testament urges us to anticipate a world where we will be able
+to enjoy such a life. Heaven provides the interpretive lens that completes
+Aristotle’s picture of the good life. Because both the Catholic and
+Protestant Church have this lens in their conceptual framework, Aristotle’s
+ethics can provide helpful assistance to the clear and complete articulation
+of their own ethical doctrines. And they would do well to place their artic-
+ulations of heaven on a solid foundation of Aristotelian ethical philoso-
+phy.
+References
+Anscombe, G. E. M. “Modern Moral Philosophy.” Virtue Ethics. Ed. Roger
+Crips and Michael Slote. Oxford: Oxford University Press, 1997.
+Aristotle. Nichomachean Ethics. Trans. H. Rackham. Cambridge: Harvard
+Loeb Classical Library, 1934.
+MacIntyre, Alasdair. After Virtue.2nd ed. Notre Dame: University of Notre
+Dame Press, 1984.
+Nussbaum, Martha. The Fragility of Goodness. Cambridge: Cambridge
+University Press, 1986.

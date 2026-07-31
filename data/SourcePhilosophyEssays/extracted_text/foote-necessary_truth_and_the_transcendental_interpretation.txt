@@ -1,0 +1,490 @@
+NECESSARY TRUTH AND THE TRANSCENDENTAL
+INTERPRETATION OF
+DESCARTES'S COGITO ARGUMENT
+Therese Foote
+Perhaps the two most famed occurrences of the idea of necessary
+truth in Descartes's works appear in the Discourse on Method and
+Meditation II, each as an integral part of what we will call the Cogito
+Argument.! In the Meditations we read; "After having reflected well and
+carefully examined all things, we must come to the definite conclusion
+that this proposition: I am, I exist, is necessarily true each time that I
+pronounce it, or that I mentally conceive it"( HR 1150; my emphasis).2
+And in the Discourse on Method:
+But immediately afterwards I noticed that whilst I thus wished to
+think all things false, it had to be necessarily that the "1" who
+thought this should be something, and remarking that this truth "I
+think, therefore I am" was so certain and so assured that all the
+most extravagant suppositions brought forward by the skeptics
+were incapable of shal^g it, 1 came to the conclusion that I could
+receive it without scruple as the first principle of the Philosophy
+for which I was seeking.( HR 1101; my emphasis)^
+The strange thing about the Cogito Argument is that it seems
+Descartes depends upon necessary truth to establish his "first principle,"
+and yet it would also seem that prior to the statement of the Cogito in
+each case he has argued that necessary truths are subject to doubt.
+Necessary truths are not subject to the same doubt as sensory data, says
+Descartes, "For whether I am awake or asleep, two and three together
+always form five, and the square can never have more than four sides,
+and it does not seem possible that truths so clear and apparent can be
+!This essay was awarded first prize in the 1994 David H.Y am contest.
+2"HR" refers to the Haldane and Ross English translation; "AT" refers to
+the Adam and Tarmary French and Latin edition. Roman numerals indicate
+volume.
+^Translation slightly altered to convey more explicitly the sense of necessity
+in the phrase "ilfaUait necessairement "
+2 T herese Foote
+suspected of any falsity [or uncertainty]" (HR I 147). Yet we can make
+mistakes in even the simplest calculations; and then it is also possible that
+"some evil genius not less powerful than deceitful, has employed his
+whole energies in deceiving me"( HR I 148). Thus, necessary truths are
+stdll subject to doubt—yet the Cogito Argument is said to be necessarily
+true. It seems highly tmlikely that anyone would employ so blatant
+a contradiction in founding so extensive a philosophical system. We
+are led to wonder whether the necessary truth of "cogito, ergo sum"
+(I think, therefore I am) is somehow of a different nature than the neces
+sary truths previously rendered dubitable.
+Even intuitively it seems that the necessary truths involved might be
+of different kinds. A priori necessary truths such as "all bachelors are
+urunarried" might be the whispering of some malignant demon, as might
+the results of simple arithmetical calculations. While these truths may be
+called necessary, they do not necessitate any existential or metaphysical
+fact. The knowledge that all bachelors are unmarried does not entail the
+knowledge that any actual bachelors exist. However,i n "cogito, ergo sum"
+the idea of existence plays a strange role. The Demon Argument does not
+render this truth dubitable, since if one were being deceived about it by a
+malignant demon, a being would have to be there to be deceived—^but if
+this were the case, one could not be deceived about it. What can we learn
+about necessary truth and necessity in general from Descartes's Cogito
+Argument? What does Descartes mean when he uses "necessarily" in the
+context of the Cogito Argument? And what are the further implications of
+this claim to necessary truth?
+To investigate these questions, I will first exairune an interpretation
+of the Cogito Argument which I wiU call the transcendental interpreta
+tion, since it makes reference to Kant's transcendental philosophy. This is
+the only interpretation which offers us a clue for solving the mystery
+surrounding Descartes's use of the term "necessarily" in the Cogito
+Argument—as will be shown by contrasting it with some other important
+interpretations, namely, the standard inferential theory and Jaakko
+Hintikka's performative theory. Then I am going to consider some
+contemporary philosophico-logical theories about necessity. While we
+tend to think in terms of the trusty Kantian labels of a priori-analytic,
+a pn'on-synthetic, and a posteriori-synthetic judgments, this rethmking of
+Descartes in terms of transcendental philosophy will paradoxically show
+that these Kantian terms are inadequate for describing what is going on in
+the Cogito Argument. My conclusion will be that Descartes's argument
+provides a possibly unique example of a posteriori necessity, and that this
+necessity paves the way for Kant by establishing a distinction between
+Transcendental Interpretation 3
+subjective certainty, through clear and distinct ideas, and the objective
+freedom of things in themselves—since the interesting thing about the
+Cogito Argument is that it can also be construed as a priori-contingent
+II.
+Before I begin my discussion of the several interpretations of the
+Cogito Argument, it is important to note that the aim of the Cogito
+Argument is not to prove anyone's actual existence, but to show that
+there is at least one thing of which one cannot doubt, namely, one's own
+existence. That is, the aim of the argument is not to show existence, but
+rather indubitability. In Descartes's Principles ofP hilosophy, Principle Vn is
+"that we cannot doubt our existence"( HR I 221), not "that we exist."
+Furthermore, it is not at all clear how the establishment of one's existence
+could lead to the establishment of God's existence. Descartes's establish
+ment of the Cogito shows rather that there are clear and distinct ideas
+(HR I, Discourse on Method, 102) by means of which res cogitans (literally,
+"thinking substance") can also recognize the existence of God. The imme
+diate utility of "cogito, ergo sum" is to show that there is at least one thing
+that is indubitable. Therefore, a good interpretation of the Cogito
+Argument will not ask whether Descartes succeeds in proving his exis
+tence, but will focus on the type of indubitability it achieves.
+The first interpretation I discuss will be the standard inferential
+interpretation. 1 say "standard" inferential interpretation, since the tran
+scendental interpretation, as will be seen, also involves the notion of infer
+ence. A typical representation of "cogito, ergo sum" as an inference is as a
+syllogism with suppressed major premise,f or example:
+1. [For aU X, if X thinks then X exists.]
+2. Descartes thinks.
+3. So Descartes exists.
+And then by conditionahzation,
+4. So if Descartes thinks, then Descartes exists.
+However, this syllogism derives its necessity from being an a priori-
+analytic truth. As 1 noted above, Descartes's Demon Argument placed all
+a priori necessary truths imder doubt. So all a priori necessary truths such
+as this syllogism are not able to achieve the status of indubitability.
+Another problem with the standard inference theory is that any
+verb can be used in place of "think" and the syllogism is still valid. The
+real problem is that, as Hintikka notes, the systems of logic in which
+"cogito, ergo sum" can be proved are "based on important existential
+presuppositions" (7). In modem logic, the presupposition is expUcit, since it
+4 T herese Foote
+is assumed that for ar\y bound variable a there exists an x such that x
+equals a.
+These systems
+make more or less tadt use of the assumption that aU the singular
+terms with which we have to deal really refer to (designate) some
+actually existing individual It turns out, therefore, that we in fact
+decided that the sentence "I exist" is true when we decided that the
+sentence "I thmk" is of the form B(a)( for the purposes of the usual
+systems of hmctional logic). That we were then able to infer (Ex)
+(x = a) from B(a) is rmdoubtedly true, but completely beside the
+point.( Hintikka 7S)
+When we aUow the existential presuppositions of the syllogistic
+inference, any verb can be substituted for "think." The action of that verb
+would then be dubitable under the category of that which the Dream
+Argument renders dubious (i.e., a posteriori-contingent knowledge,
+primarily).^ And finally, Descartes himself explicitly says that
+when we become aware that we are thinking beings, this is a primi
+tive act of knowledge derived from no syllogistic reasoning. He who
+says, "I think, hence I am, or exist," does not deduce existence from
+thought by a syllogism, but, by a simple act of mental vision, recog
+nizes it as if it were a thing that is known per se.( HR II, Reply to
+Objections II, 38)
+The standard inferential interpretation seems to misread Descartes by
+assuming that if the Cogito Argument is called necessarily true, it must be
+a syllogism. Under this interpretation, "cogito, ergo sum" is no different
+from other truths rendered dubitable for Descartes by the Dream
+Argument or the Demon Argument. The net result is that we are no closer
+to solving the mystery of Cartesian necessity.
+^In other words, when we formulate the Cogito as a syllogism, we actually get
+a tautology: For all existents, if an existent thhaks then an existent exists. Thus,
+we can substitute "ambulo" (I walk) for "cogito" (I think), and we get the same
+effect: For all existents, if an existent walks then an existent exists. But the
+knowledge that one is walking, or the action of walking, is rendered dubitable
+by the Dream Argument, so one would be able to doubt one's own existence
+whenever one doubted oneself to be walking, thinking, etc. Descartes surely did
+not intend for the argument to function in this way,a nd in fact it does not.
+Transcendental Interpretation 5
+Hintikka takes such a rejection of the standard (or syllogistic)
+inference theory as the departure point for his performative theory. He
+notes that while it is not contradictory for him or anyone else who is
+not De Gaulle to say "De Gaulle does not exist/' it is "awkward" if
+De Gaulle says this (10). Hintikka asks why this should be so^ but
+instead of proffering an explanation, he makes the obvious remark that
+it is "existentially inconsistent" for De GauUe to assert that he does not
+exist (10). In effect, Hintikka explains the problem of existential inconsis
+tency as a problem of existential inconsistency. He further states that
+the inconsistency (absurdity) of an existentially inconsistent state
+ment can in a sense be said to be of performatory (performative)
+character. It depends on an act or "performance," namely on a
+certain person's act of uttering a sentence (or of otherwise making
+a statement); it does not depend solely on the means used for the
+purpose, that is, on the sentence which is being uttered.( 12)
+Again, this is somewhat uninformative—^Descartes's Meditations formu
+lation," This proposition: 1 am,1 exist, is necessarily true each time that I
+pronoimce it, or that 1 mentally conceive it"( HR1150), clearly indicates
+that the act or performance of formulating the sentence has something to
+do with its necessity; the interesting thing is not this, but the question of
+how that experiential element functions in Cartesian necessity.
+The performative theory is a description, but not an explanation, of
+some of the odd features of the Cogito Argument which 1 mentioned in
+my introduction. Hintikka does nothing toward solving the mystery of
+how Descartes can call "1 think, therefore I am" a necessary truth, but
+merely makes the mystery explicit by using obscure terms like "existen
+tial self-verification." Descartes probably does not intend to say "1 know
+by means of a tautology (when logic's existential presuppositions
+appear explicitly) that 1 am," but rather "It is indubitable that I exist."
+How can any existential claim be indubitable? How can it be necessary?
+Whether existence works as a predicate at aU has been debated at least
+from the time of Kant's statement:" The object, as it actually exists, is not
+analytically contained in my concept, but is added to my concept( which
+is a determination of my state) synthetically" (505). If the judgment that
+something exists is very likely a synthetic judgment, how can "cogito,
+ergo sum" be necessary? Is the Cogito Argument, then, simply the
+camouflage for an imquestioning "existential faith"? Do we simply say
+"I exist," and take our existence as an indubitable ostensive proof of that
+statement? And furthermore, by relying on performances are we not
+6 T herese Foote
+simply falling back once again on the a posteriori contingent truths
+susceptible to doubt imder the Dream Argument?
+A transcendental interpretation, or transcendental inference
+theory, offers an explanation, not merely a description, of the mystery.
+The essential principle of the transcendental interpretation is that the
+entity to which Descartes's "I" refers is not himself insofar as he consti
+tutes an object of experience for himself, but rather the "transcendental
+ego," the Bedingung der Mdglichkeit oiler Erfahrung—that is, the presup
+positions of the possibility of experience such as the transcendental
+unity of apperception and the fact that it must be possible for the "1
+think" to accompany all of our presentations. It should not, of course,
+be considered anachronistic to say that Descartes refers implicitly to an
+entity which Kant later explicitly describes in his critical philosophy.
+The possibility of interpreting the Cogito Argument transcenden-
+tally was first brought to my attention by the German logician Rainer
+Trapp's paper, "'Credo* Me* Cogitare Ergo Scio* Me* Essei/2'—
+Descartes's 'Cogito Ergo Sum' Reinterpreted." Trapp differentiates
+between the "ego" considered as an object of experience like any other
+and the transcendental ego, or "ego*." He makes a similar distinction
+between the existence which is presupposed in modem logic, existing
+in the maimer of aU objects of experience, "on a par with entities that
+might be, or even certainly are, only products of the mind"( existencej) and
+existence2, indubitable existence "analytically implied by being a tran
+scendental Ego" (256). Trapp then analyzes the Cogito Argiunent in
+terms of epistemic logic and argues that Descartes "would have been
+justified in arguing for [the] logically stronger and philosophically more
+substantial proposition"( 265) that appears in the rather singular title of
+his paper. Trapp's conclusion wiU have some importance to our discus
+sion of philosophical logic later on.
+There is textual evidence for this interpretation of Descartes's "I"
+as the transcendental ego. In his Principles of Philosophy, Descartes
+states:
+For if I say I see, or I walk, I therefore am, and if by seeing and
+walking I mean the action of my eyes or my legs, which is the
+work of my body, my conclusion is not absolutely certain. .. . But
+if I mean only to talk of my sensation, or my consciously seeming
+to see or to walk, it becomes quite true because my assertion now
+refers only to my mind, which alone is concemed with my feeling
+or thinking that I see and I walk.( HR1222)
+Transcendental Interpretation 7
+While Descartes can doubt the veracity of experience (e.g., whether he
+actually sees or walks), he cannot doubt the fact that he has experience.
+And while Descartes cannot doubt that he has experience of phenomena,
+he would also never assert that the phenomena are objectively real.
+From the fact that he has experience, Descartes infers the transcendental
+ego as the presupposition of experience. In another passage. Reply
+to Objections V, we read; "You have no right to make the inference: I
+walk, hence I exist, except in so far as our awareness of walking is a
+thought... from the fact that I think that I walk I can very well infer the
+existence of the mind which so thiirks, but not that of the body which
+walks"( HR II 207). Here we see that "cogito, ergo sum" is an inference,
+not according to syllogistic logic, but rather according to transcendental
+logic.
+From the very fact that Descartes can be aware that he is walking,
+from the very fact that his consciousness arranges raw sense data in the
+form of experience, Descartes is able to infer a self. This "self" that is
+inferred is transcendental in character because by the very fact that it
+is the source of experience, it is never directly experienced—or in other
+words it transcends experience. Just as the indubitabUity of this infer
+ence forms the first principle of Descartes's philosophy, the first prin
+ciple of all synthetic judgments for Kant is the transcendental unity of
+apperception, derived from essentially the same inference, which stipu
+lates that the "I think" must be able to accompany all our presentations.
+Hintikka also seems to sense something of the transcendental
+character of the Cartesian ego and the transcendental logic underlying
+the Cogito Argument. He compares the relation of cogito and sum to the
+relation between a process and its product, rather than the standard-
+inferential relation of a premise to a conclusion (16). A transcendental
+inference theory would correlate "process" with the transcendental ego,
+and "product" with experience or the ego as an object of experience, a
+"Ding fur mich." A similarly transcendental metaphor that appears in
+Descartes's own writing, which Hintikka refers to in the same passage,
+is that of the relation between a source of light or lumen and illumina
+tion or lux (AT II, Letter to Morin, 13 July 1638, 209). Trapp explains
+how this relation leads to a transcendental inference: "My respective
+transcendental Ego, consciously performing some mental activity ... is
+the only thing which in reflecting I dare et distincte recognise not to be
+(only) a product of my mind," by consequence of which "it is the only
+thing in itself which I positively know to exist2 (also) as a thing in itself"
+(256). The only thing not a product for someone making this transcen
+dental inference is the producer, that is, the transcendental ego.
+8 T herese Foote
+This material or transcendental inference, unlike the syllogistic
+one, achieves indubitability. "I think" as a product, namely, experience,
+stands in a necessary relation to the transcendental ego or "producer,"
+the "I am." What kind of necessity this must be, in consequence, wiU be
+seen m the next section.
+III.
+Through a brief examination of some modern philosophico-
+logical theories 1 will show that the transcendental interpretation indi
+cates that the "necessary" truth in the Cogito Argument can be viewed
+either as an a priori contingent truth or as an a posteriori necessary truth.
+I will then conclude that when Descartes mentions necessity, he means
+the latter.
+The a priori/a posteriori distinction is generally considered an epis-
+temological one, whereas analyticity/syntheticity is considered a
+semantic, and necessity/contingency a metaphysical notion (Grayling
+46). If something is known a priori, it is known or theoretically can be
+known "prior to experience," while a posteriori knowledge comes after,
+or in, experience. A necessary truth is one that (metaphysically) could
+not have been otherwise. If ever a bachelor has existed, it is necessarily
+true that he was, or is, an unmarried man. A contingent truth is one
+that might have happened otherwise; for example, I am sitting in front
+of a computer typing, while it is conceivable that I might be going for
+a walk instead. We generally think of necessary truth as something
+known a priori, and contingent truth as something known a posteriori.
+However, Alvin Plantinga argues in The Nature of Necessity that there is
+such a thing as a priori contingent truth. For example, one might know
+a priori the contingent but true statement "1 believe that 7+ 5 = 12."
+Belief is not (pace Hume) a special brilliance or vividness of idea
+or image; there is no specific sort of experience I must have to
+know that I believe that 7 + 5 = 12. So perhaps I know a priori that
+I believe that 7 + 5 = 12. If so, then I have a priori knowledge of a
+contingent truth.( Plantinga 8)
+It is interesting to note in connection with this point that when Trapp
+applies epistemic logic in representing the Cogito Argument he ends up
+with "I* believe I* think, therefore I* know I* exist* (where the asterisk
+represents the transcendental sense of these terms). It is probable that
+Descartes's belief that he thinks is precisely the sort Plantinga has in
+Transcendental Interpretation 9
+mind as suitable for categorization as a priori contingent. From this
+a priori contingent truth results another: that I know I exist. Hence
+Plantinga writes:
+Similarly, perhaps my knowledge that I exist is a priori. For perhaps
+I know a priori that 1 believe that I exist; I also know a priori that if I
+believe that I exist, then indeed I do exist. But then nothing but
+exceptional obtuseness could prevent my knowing a priori that I
+exist, despite the contingency of that proposition.( 8)
+This is one way in which "cogito, ergo sum," or the observation that "this
+proposition: I am, I exist, is necessarily true each time that I pronoimce
+it, or that I mentally conceive it," can be considered as a priori but
+contingent.
+As for the possibility of a posteriori necessity, Saul Kripke, in
+Naming and Necessity, challenges the notion that necessary truths are
+always a priori. He gives the example of a mathematical theory called the
+Goldbach Conjecture, which tells us that an even number greater than 2
+will be the sum of two prime numbers. Since this has not been proved
+mathematically, we do not know whether it is true or false, but we do
+know that if it is true, it is necessarily true, while if it false, it is neces
+sarily false. However, in the absence of a proof, it does not follow (from
+the fact that it is necessary) that we know anything a priori about it, or
+even that we could theoretically know anything a priori about it (Kripke
+36-37). This is a possible example of non-a priori necessity. Kripke also
+gives us an idea of what a posteriori necessity might be:
+AH the cases of the necessary a posteriori advocated in the text have
+the special character attributed to mathematical statements: Philo
+sophical analysis tells us that they cannot be contingently true, so
+any empirical knowledge of their truth is automatically empirical
+knowledge that they are necessary.( 159)
+Could the Cogito Argument be a candidate for a posteriori neces
+sity? An interesting support for the idea that the necessity of the Cogito
+Argument is a posteriori is Descartes's statement, cited above, that his
+existence is recognized "by a simple act of mental vision ... as if it were
+a thing that is known per se"( HR II, Reply to Objections II, 38). Frankfurt
+brings up a question about this passage: If one wishes to construe
+Descartes's "simple act of mental vision" as a means by which the
+evidence of "sum" is intuitively grasped, "then why does Descartes say
+10 Therese Foote
+that he recognizes existence only as if it were a thing known per se? If
+sum were intuited as self-evident, it would be known per se and not just
+as if" (338). The fact that sum is not recognized as a thing known per se
+might indicate that it is neither an a priori, analytic, necessary truth, nor
+merely a self-evident contingent fact; that it is recognized "as if it were a
+thing that is known per se" lends some credence, Frankfurt endeavors to
+show, to the idea that "cogito, ergo sum" is indeed a type of inference. In
+the first part of this paper, I argued that such an inference would be
+transcendental and necessary. The fact that sum is not recognized imme
+diately as a thing known per se might also indicate that while it is recog
+nized as necessary, this is so only after Descartes has experienced
+thought. After the experience of thinking, Descartes recognizes that the
+experience itself necessitates the transcendental ego, and thus he makes
+the transcendental inference by grasping that "I think, therefore I am"
+must necessarily be true. Since this truth can ordy be recognized after or
+in experience, it is clearly a posteriori; and yet the inference is necessary.
+In fact, the very idea of a transcendental logic seems to necessitate
+a posteriori necessity.
+This I take to be the solution of the mystery surroimding Des-
+cartes's use of the term "necessarily." The trar\scendental interpretation
+of the Cogito Argument is the only one that makes it obvious why
+Descartes called its truth "necessary" after doubting a priori necessary
+truths. It is of relevance to Cartesian scholarship that the "special char
+acter" of the necessary truth in the Cogito Argument is that it is fl post
+eriori; and it is relevant to the field of philosophical logic to discover that
+Descartes's Cogito Argument evinces a posteriori necessity par excellence.
+IV.
+A few questions still remain. What is the ultimate utility of this
+a posteriori necessary truth in Descartes's philosophical system? And
+what does it mean that the Cogito Argument can also be interpreted as
+an a priori contingent truth?
+A posteriori-necessaiy/a priori-contingent truth plays similar roles
+in the philosophies of Kant and Descartes. T. K. Swing writes in the
+preface to his book Kant's Transcendental Logic:
+I have argued that Kant calls his material logic transcendental logic
+chiefly because he intends it to be the logic of transcendence, that
+is, the material logic that enables the Cartesian subject to transcend
+its subjectivity and attain objective knowledge. Descartes himself
+Transcendental Interpretation 11
+practically assumed the necessity of such a logic of transcendence
+(the logic of clear and distinct ideas) throughout his Meditations
+and even made some fragmentary attempts to construct one in his
+Discourse on Method,( viii)
+Swing paraphrases a Leibnizian observation: "apperception (self-
+recognition) is never possible in the domain of perceptions and . . .
+becomes possible only in the domain of necessary truths/'^ Swing adds,
+"We can never encounter in the domain of perceptions what is other than
+ourselves" (347). Descartes is effective in showing that he cannot doubt
+that he exists, but, of course, anyone's existence is contingent. The
+analysis of "cogito, ergo sum" in this paper indicated that if it is necessary,
+it is nevertheless a posteriori; and to be considered a priori, it also has to be
+considered contingent. Although one cannot doubt one's existence, to
+assert that one exists in reality is still a synthetic proposition. The
+Bedingung der Moglichkeit will never be more than a presupposition, albeit
+a necessary one, and the trarrscendental ego by its very nature can never
+be perceived. So while Descartes, as Kant would do in his turn, recog
+nized that his inability to doubt his existence indicated that there were
+certain rules that the understanding was never without, and proceeded
+to construct a philosophy based upon clear and distinct ideas, the recog-
+rution is also implicit in his philosophy that what transcends experience
+cannot be known. Implicit in Cartesian certainty is Kant's later denial of
+knowledge to make room for faith.
+Descartes infers his own existence as a presupposition of the possi
+bility of experience and then posits God's existence as a presupposition
+of his own existence. In accordance with the rules of clear and distinct
+logic that have been discovered, Descartes cannot think of his being, as a
+res cogitans, except as being contingent upon some other, ultimately
+necessary, being, who is also the one who implanted clear and distinct
+ideas in him. This ultimate transcendent source he infers with even more
+certainty than the transcendental source. "I conclude so certainly that
+God exists, and that my existence depends entirely on Him in every
+moment of my life—that I do not think the human mind is capable of
+knowing anything with more evidence and certitude" {Meditations, HR 1171;
+my emphasis). However, the fact that Descartes recognizes the contin
+gency of his existence upon God suggests that he would acknowledge
+the transcendent as essentially divorced from experience. He cannot
+^The reference is to The Monadology 28,29, and 30.
+12 Therese Foote
+know anything with more certitude than that there is some transcendent
+source of his experience, but this is not to say that he knows that tran
+scendent source, or even that it is with absolute (i.e., objective) certainty.
+The utility of the necessity of "cogito, ergo sum" is that it paves the
+way for subjective certainty by establishing a logic of clear and distinct
+ideas; but the fact that it can also be construed as a priori contingent is
+useful because it preserves objective freedom. As Swing puts it.
+The necessary truths that are produced by the compulsory imposi
+tion of the categories on the objects may provide the subjective
+certainty but can never secure the knowledge of objects as they are
+in themselves. Kant himself admits the impossibility of knowing
+the objects in and for themselves. Human reason, which must
+impose the same set of categories on all objects, is the slave of its
+own autocratic rule; such an autocratic reason can gain subjective
+certainty only by forfeiting the possibility of attaining objective
+truths.( 360)
+Since Descartes laid all the emphasis upon the subjective certainty he
+managed to obtain, it took a Kant to make explicit what the Cogito
+Argument had achieved, namely, the denial of knowledge in order to
+make room for faith.
+In a letter to Mesland,2 May 1644, Descartes wrote:
+Though God has willed that certain truths were necessary, that
+is not to say that he has willed them necessarily. For to will
+that they be necessary and to will necessarily, or to be necessitated
+to will them, are completely different. (As cited in Alanen and
+Knuuttila; AT IV 118)
+Descartes wiU not impose his own human notions of necessity on God.
+Perhaps there is more humility in Cartesian certainty than we recog
+nized before. Perhaps previous scholarship has been somewhat unchari
+table to Descartes by assuming that he either stayed within the limits of
+traditional categories like a priori necessity or depended upon a meta
+physical faith that performative utterances imply existence. A Ccireful
+examination of his use of the term "necessarily" informs us of the possi
+bility of "hybrid" categories like a posteriori necessity and a priori contin
+gency, yielding new ideas for contemporary philosophical logic about
+what necessity can be.
+Transcendental Interpratation 13
+Works Cited
+Alanen, Lilli, and Simo Knuuttila. "The Foundations of Modality and
+Conceivability in Descartes and His Predecessors." Modern
+Modalities. Ed. S. Knuuttila. Dordrecht: Kluwer, 1988.1-70.
+Descartes, Rene. CEvres de Descartes. Ed. Charles Adam and Paul Tannery.
+3 vols. Paris: Librairie Philosophique J. Vrin, 1969-1971.
+. The Philosophical Works of Descartes. Trans. Elizabeth S. Haldane and
+G. R. T. Ross. 2 vols. Mineola, NY: Dover, 1955.
+Frankfurt, Harry G. "Descartes' Discussion of His Existence in the
+Second Meditation." Philosophical Review 75( 1966): 329-56.
+Grayling, A. C. An Introduction to Philosophical Logic. Totowa, NJ: Barnes
+and Noble, 1982.
+Hintikka, Jaakko. "Cogito, Ergo Sum: Inference or Performance?" Philo
+sophical Review 71 (1962): 3-32.
+Kant, Immanuel. Immanuel Kant's Critique of Pure Reason. Trans. Norman
+Kemp Smith. London: Macmillan, 1965.
+Kripke, Saul A. Naming and Necessity. Cambridge: Harvard UP,1 980.
+Plantinga, Alvin. The Nature of Necessity. Oxford: Clarendon, 1974.
+Swing, Thomas Kaehao. "The Dialogues of Transcendence." Kant's
+Transcendental Logic. New Haven: Yale UP,1 969. 334-70.
+Trapp, Rainer. "'Credo* Me* Cogitare Ergo Scio* Me* Essei/2'—
+Descartes' 'Cogito Ergo Sum' Reinterpreted." Erkenntnis 29
+(1988): 253-67.

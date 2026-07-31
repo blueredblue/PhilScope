@@ -1,0 +1,327 @@
+AporiaVol. 14 number 1—2004
+Reason to Revolt:
+On Kantian Ethics and Revolution
+KENNETHR. PIKE
+n introducing Kant’s ethics in Practical Philosophy, Allen Wood writes,
+I
+“While confessing to a ‘wishful participation approaching enthusiasm’
+for the French Revolution, Kant nevertheless sees revolutionary social
+upheavals as both wrongful and counterproductive.”1This seems to be a
+prevailing attitude among Kant scholars, despite the apparent contradic-
+tion that, regardless of his confessed leanings, Kant held revolution and
+rebellion to be unconditionally unjustifiable. It is extremely unlikely that
+Kant was simply unaware of the paradox, especially considering the other
+paradoxes he so meticulously addressed with regard to rebellion and revo-
+lution. Could it be, as some have speculated, that Kant censored himself
+for fear of governmental reprisal? Or was Kant so rationally detached from
+his own philosophy that his near-enthusiasm represents a complete personal
+disconnect? Fortunately, Kant himself did not leave this matter entirely to
+speculation and conjecture. From the Formulation of Universal Law (FUL)
+to the Formulation of the Kingdom of Ends (FKE) to Kant’s own com-
+mentary on the matter of revolution, a number of clues indicate that
+1Kant, xxx.
+Kenneth Pike is a senior majoring in philosophy at Brigham Young University. After gradu-
+ation he will take his wife and daughter to Arizona, where he hopes to pursue a Master of
+Fine Arts in creative writing. This essay won first place in the 2004 David H. Yarn
+Philosophical Essay Competition.
+2 KENNETHR. PIKE
+Kant’s commitment to the immorality of revolution is not as absolute as
+it is often portrayed.2
+Revolution and the Formulation of Universal Law
+The FUL states that one should “act only in accordance with that
+maxim through which you can at the same time will that it become a uni-
+versal law.”3Our first concern, then, must be with the maxim which, when
+acted upon, constitutes a revolutionary or rebellious act. It behooves us,
+however, to take some peremptory action against potential objections by
+beginning with an evaluation of revolutionary maxims according to the
+FUL. This is due to a reportedly common misconception that the
+Categorical Imperative (CI) in its various formulations is the be-all and
+end-all of Kant’s moral theory. There are voluminous evaluations of vari-
+ous maxims according to the FUL, due at least in part to its formulaic pres-
+entation (as opposed to the arguably more nebulous FKE). But as Mark
+Timmons notes:
+In some cases a maxim will fail one of Kant’s tests (yielding a
+negative verdict about the corresponding action) but the action
+is not morally wrong (false negatives), and in other cases a
+maxim that features a wrong action will pass Kant’s tests, yield-
+ing a mistaken positive verdict about the act (false positives).4
+Does this completely invalidate the FUL? No—but it serves as a stern warn-
+ing to those who would build complete ethical systems from this single for-
+mulation. Timmons goes on to suggest two caveats under which we must
+operate in applying the FUL. First, we must apply the FHE to strip maxims
+2 We shall assume for our purposes that the Formulation of Humanity as an End in Itself (FHE)—“So act
+that you use humanity, whether in your own person or in the person of any other, always at the same time
+as an end, never merely as a means”—would be applied when evaluating howone may conduct a revolu-
+tion, not ifone may do so (Ibid. 80).
+3Kant 73.
+4Timmons 171.
+ONKANTIANETHICSANDREVOLUTION 3
+down to their morally relevant components before applying the FUL, elim-
+inating false positives.5 Second, we must consider the FUL evaluation a
+sort of “decision procedure” not for declaring maxims moral but for weed-
+ing out clearly immoral maxims, thus accounting for false negatives.6So we
+will analyze revolutionary maxims according to the FUL only in order to
+establish the possibility that they are moral.
+With that in mind, we are in need of a maxim for analysis. The sim-
+plest revolutionary maxim, it would seem, is “I will overthrow the current
+government.” Can this maxim be universalized? According to Christine
+Korsgaard, maxims may be tested against the FUL in two ways:
+A maxim which cannot even be conceived as a universal law
+without contradiction is in violation of a strict and perfect
+duty, one which assigns us a particular action or omission. A
+maxim which cannot be willed as universal law without con-
+tradicting the will is in violation of a broad and imperfect duty,
+one which assigns us an end, but does not tell us what or how
+much we should do towards it.7
+It should be obvious that our initial maxim cannot survive such tests, but
+lest we be accused of deciding the matter by fiat, we shall elaborate. Very
+simply, if everyone were always committed to overthrowing the current
+government, no one would form governments and there would be none
+to overthrow; this contradiction reveals our initial maxim to violate a per-
+fect duty. Furthermore, it seems contradictory to will that any govern-
+ment—even one that benefits or protects oneself—should be overthrown;
+our initial maxim also violates an imperfect duty.
+5Ibid. 174.
+6Ibid. Whether or not the scholars here consulted have the “correct” interpretation is an argument
+beyond the scope of this paper; thus for our purposes we shall rely upon their reasoning without further
+discussion.
+7Korsgaard 135.
+4 KENNETHR. PIKE
+Can we save our maxim with any morally relevant additions? Indeed,
+Kant himself gives us a model for doing so. He writes, “There is a categor-
+ical imperative, Obey the authority who has power over you (in whatever
+does not conflict with inner morality).”8Now if we consider the addition
+in parentheses a sort of caveat, then it is an exception to the statement and
+the statement becomes a hypothetical imperative rather than a categorical
+imperative. So, integral to the imperative, inner morality must be morally
+relevant in the case of obeying authority. Can the same be said for maxims?
+If we revise our initial maxim accordingly, we get: “I will overthrow the cur-
+rent government when it is evil.” Nothing here may be stripped away
+through application of the FHE, so the maxim stands as containing only
+morally relevant information.
+Using Kant’s definition of evil (“an object of aversion in the eyes of
+everyone”), this maxim is also easily universalized.9If everyone always acted
+to overthrow an evil government, by definition the only government left
+would be good government; there is no contradiction in conception. And
+again by definition, eliminating an object everyone is averse to cannot pos-
+sibly be a contradiction of will. For even if evil people desire an evil gov-
+ernment, as Jeffrie Murphy notes, a difference exists between what one
+wills and what one desires:
+[It may be argued that] no man desires to suffer punishment for
+wrongdoing. Thus, since I would not desire to suffer punish-
+ment for wrongdoing, I would be willing inconsistently and
+thus immorally if I ever willed punishment for others. . . . [But
+it follows from Kant that] a rational man can willhis own pun-
+ishment even if he does not desireit.10
+Similarly, it may be argued that evil people desire an evil government, but
+that does not mean they necessarily will such a government. So in the case
+8Kant 505.
+9Ibid. 189.
+10 Murphy 163, emphasis added.
+ONKANTIANETHICSANDREVOLUTION 5
+of revolution and the FUL, it would appear Korsgaard’s suggestion that
+“Kant’s conclusions can be blocked by his own procedures” was an accurate
+one; our revised maxim may be successfully universalized.11
+Revolution in the Kingdom of Ends
+That our revised maxim, “I will overthrow the current government
+when it is evil,” may be universalized, however, indicates only that it might
+be moral and that it bears further consideration. Now we must consider
+the FKE, which demands that we “act in accordance with the maxims of a
+member giving universal laws for a merely possible kingdom of ends.”12
+This formulation of the CI presents some interesting issues not revealed by
+the FUL. Specifically, it does not lend itself to formulaically generating a
+system of ethics from raw maxims. Neither does it offer any concrete
+boundaries for such a system. Instead the FKE presents an “admittedly
+ideal” description of a society in which the CI is practiced.13
+Though it may not be immediately obvious, this creates a problem for
+our revised maxim. For so long as it is first “asked what is laid down as right
+(where principles stand firm a priori and no empiricist can bungle them),
+then the idea of the social contract would remain in its incontestable
+authority . . . as a rational principle for appraising any public rightful con-
+stitution.”14 In other words, once created from rational principles, gov-
+ernment authority is absolute and inviolable. If we lived in a kingdom of
+ends—and according to the FKE, we should act as though we do—then of
+course the government would be founded upon rational principles. But
+does this invalidate our maxim? Or would our maxim be acceptable as
+merely moot due to the impossibility of an evil government in the king-
+dom of ends?
+11Korsgaard 134.
+12Kant 88.
+13Ibid. 83.
+14Ibid. 301.
+6 KENNETHR. PIKE
+Of course, it is a logical impossibility (and thus irrational) for any gov-
+ernment, no matter how despotic, to tolerate revolution. “For, that the
+constitution should contain a law . . . authorizing the overthrow of the
+existing constitution, from which all particular laws proceed . . . is an obvi-
+ous contradiction.”15 But there is a much larger concern here. Not only
+must the government not provide for its own overthrow, but it would seem
+that we ourselves must not act upon our revolutionary maxim by virtue of
+the fact that in an ideal world it would clearly be either immoral or impos-
+sible to do so.
+Or so Kant’s critics might have us think. For at this point they can lay
+out the heavy philosophic artillery—whether through casuistry or conse-
+quentialism, it is easy to assail a position as idealistic as this. Even
+Korsgaard concludes that “morality itself sometimes allows or even requires
+us to do something that from an ideal perspective is wrong.”16 But in the
+very act of introducing empirical examples, Kant’s critics lose their ability
+to meaningfully discuss pure reason of any kind, including the CI and its
+formulations. Pure reason is transformed into practical reason at such a
+juncture. This is not to say that the CI is “impractical” and devoid of mean-
+ing in applied ethics—only that “reason would overstep all its bounds if it
+took upon itself to explain how pure reason can be practical.”17
+But now we have digressed somewhat and perhaps muddied the
+waters with sundry objections to what initially seemed a straightforward
+matter: whether Kant’s ethics and his attitude concerning revolution can
+be rationally reconciled. The idealism, practicality, moral content, and true
+meaning of the CI all appear relevant, on one hand, to our discussion.
+After all, no summary of Kant’s ethics could be considered complete with-
+out an explanation of the all-pervasive CI—and an ethics devoid of all prac-
+ticality would of course be moot. On the other hand, Kant makes it very
+clear that in the instant the ideal meets the practical, “explanation ceases”
+15Ibid.
+16Korsgaard 135.
+17Kant 104.
+ONKANTIANETHICSANDREVOLUTION 7
+and “nothing is left but defense.”18This seems to preclude further (explana-
+tory) discussion.
+A brief recap may help us to connect these loose ends and return to
+the primary issue. We have established the possibility that a revolutionary
+maxim, “I will overthrow the current government when it is evil,” is a
+moral maxim. We have also established that in the ideal society, the king-
+dom of ends, our maxim would be either immoral or impossible to act
+upon. We have also seen that Kant advocated both acting as if the ideal
+were present and acting according to practicality, both empirical and oth-
+erwise. But at this point the ability to explain is lost and one must rely
+solely upon defense. In order to proceed, then, we must turn to a slightly
+more practical discussion of revolution, in which we will see just how
+defensible our maxim is.
+Revolution, Empirically Speaking
+We shall begin with the evaluation of Kant scholar Wolfgang
+Schwarz, who argues that revolution is indeed morally wrong without
+regard to the circumstances. According to Schwarz:
+What about a state which inflicts injustice, wrong, and even
+arbitrary death on its citizens? Can it enjoy such far-reaching
+inviolability? If we speak of a state as an institution capable of
+externally and internally protecting its citizens generally and of
+uniting them, the constitutive civil foundation is accepted as in
+force and forbids any reversal. Where a state exists, in whatever
+crude beginnings or degenerate forms, its laws, and they alone,
+determine all relations of public life. Otherwise there is anar-
+chy, and nobody will find himself concerned with the problem
+of a right of resistance.19
+18 Ibid. 105.
+19Schwarz 129.
+8 KENNETHR. PIKE
+Were it not for Kant’s comment concerning the French Revolution, this
+interpretation (and others like it) might pass wholly unquestioned.
+Certainly it seems to echo the comments Kant himself made. For when he
+speaks of revolution, Kant does not seem the least bit concerned with
+oppressive governments or what have you. At one point he goes so far as
+to claim that “if a people now subject to a certain actual legislation were to
+judge that in all probability this is detrimental to its happiness, what is to
+be done about it? Should the people not resist it? . . . On the part of the
+people, there is nothing to be done about it but to obey.”20
+Note a few key differences, however. Nowhere in his evaluation does
+Schwarz mention happiness, which seems to be the key “deprivation” in
+Kant’s statement. Conversely, Kant does not mention injustices while
+Schwarz focuses on them. We have already seen that Kant’s kingdom of
+ends supposes a government with something much more refined than
+“crude beginnings.” Furthermore, if we look to a footnote on the same
+page, we see a most interesting caveat. Kant notes that “if [an unjust law
+were passed] it is easily seen that a whole people could not agree to a law of
+this kind, and it is authorized at least to make representations against it.”21
+“At least” is an interesting choice of words. That Kant did not instead
+write “at most” is particularly revealing, especially considering the other-
+wise limiting nature of his discussion. Of course, “at least” gives only a low-
+side boundary; where one meets the upper limit is simply not stated. In
+addition, this footnote specifically references an unfair taxation situation
+resulting in an imbalance of responsibility; how much more reason to “at
+least make representations” against unjust laws resulting in, for instance,
+arbitrary deprivation of life? The longer one dwells on the possibilities
+introduced by this particular footnote, the more one must wonder why
+Kant has been interpreted so narrowly with regard to the matter of revolu-
+tion. But if we are to admit any sort of consistency between Kant’s feelings
+for the French Revolution and his philosophy as written, it seems probable
+20 Kant 297.
+21 Ibid.
+ONKANTIANETHICSANDREVOLUTION 9
+that the list of acceptable actions against unjust governments includes not
+just the making of representations, but, where necessary, revolution.
+But we cannot leave the argument there. For Kant clearly does con-
+demn revolution in enough cases that his focus is on the immorality of
+revolt while he merely footnotes the possibility of a moral revolution.
+Kant’s declaration that people have no right to revolt specifies that they
+ought not revolt against that which appears detrimental to their happiness.
+For of happiness Kant states, “One cannot . . . act on determinate princi-
+ples for the sake of being happy, but only on empirical counsels.”22As the
+empirical counsels that deal with happiness cannot trump the “legislative
+will and . . . freedom” from which the legal state originates, revolution can-
+not be justified by a people seeking some greater happiness—but it can be
+justified by a people seeking justice and rationality.23
+Might not a revolution involve both motivations? Quite possibly—
+indeed, from a historical perspective, while revolutions are instigated by
+idealists, they are won or lost depending on which side appears to promise
+the greater happiness to the masses. Clearly, arbitrary executions, bur-
+densome taxation, or any other unjust governmental practice will naturally
+contribute to general unhappiness. Consequently, it might under certain
+circumstances be difficult or even impossible to determine whether a revo-
+lution were moral, because it appears that the morality of a revolution
+depends upon its being conducted for the right reasons. But this should
+sound familiar to any student of Kantian ethics. For one of Kant’s most
+basic statements regarding morality is that moral actions must be per-
+formed “not from inclination but from duty.”24 An act done from incli-
+nation and not from duty is, for Kant, immoral. In short, one’sintentions
+make all the difference in any given situation—even revolution.
+22Ibid. 71.
+23Schwarz 129.
+24Kant 53.
+10 KENNETHR. PIKE
+Conclusion
+Clearly Kant spoke in support of revolution in some form. What
+more faithful interpretation of a system of ethics than the one given by its
+author? We may only speculate as to why Kant chose the focus he did,
+devoting significantly more time to the evils of revolution than to its pos-
+sible moral justifications. Certainly the political climate during his lifetime
+would not have favored a more revolutionary attitude. And there is always
+the concern that license given to those who are justified is often claimed
+by those who are not. But further discussion must be relegated to histo-
+rians or, perhaps, the realm of speculation; we simply have no knowledge
+of Kant’s motivation in this matter. But whatever his reasons, where Kant
+chose to focus his discussion of revolution does not justify overlooking
+those passages in which he indicates the possibility of a moral revolution
+and hints at the requirements for such a movement. For once such passages
+have been acknowledged, it becomes easier to see how the CI in all its for-
+mulations supports everything Kant said (instead of merely what he wrote).
+In retrospect, this should not be surprising. Of the Kantian ideal, the
+kingdom of ends, Korsgaard writes, “it is not feasible always to live up to
+this ideal, and where the attempt to live up to it would make you a tool of
+evil, you should not do so.”25 This is exactly in line with Kant’s assertion
+that we ought to obey authority insofar as it does not conflict with moral-
+ity. It seems clear that failing to rise against an evil government that enacts
+unjust laws would make one a tool of evil. In the end, it becomes clear that
+one of Kant’s most basic principles held the answer all along.
+“Understanding, wit, judgment . . . are undoubtedly good and desirable
+for many purposes, but they can also be extremely evil and harmful if the
+will which is to make use of these gifts of nature . . . is not good.”26Once
+one has established a good will, actions and consequences fail to be in
+themselves morally significant—their moral content is provided by the good
+25Korsgaard 153.
+26Kant 49.
+ONKANTIANETHICSANDREVOLUTION 11
+will, not the other way around. Had Kant’s participation in the French
+Revolution ever graduated beyond the category of “wishful,” perhaps he
+would have made this more explicit with regard to the subject. But as it is,
+an appeal to the text shows us that for Kant, anything, revolution included,
+is justified when it springs from a good will.
+References
+Kant, Immanuel. Practical Philosophy. Trans. by Mary J. Gregor. New York:
+Cambridge University Press, 1996.
+Korsgaard, Christine. “The Right to Lie: Kant on Dealing with Evil.”
+Philosophy & Public Affairs15.4 (1986): 325–349.
+Murphy, Jeffrie G. “Kalin on the Categorical Imperative.” Ethics 79.2
+(1969): 163–164.
+Schwarz, Wolfgang. “The Right of Resistance.” Ethics 74.2 (1964):
+126–134.
+Timmons, Mark. Moral Theory: An Introduction.Lanham, MD: Rowman &
+Littlefield Publishers, 2002.

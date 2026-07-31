@@ -1,0 +1,408 @@
+AporiaVol. 13 number 1—2003
+Aquinas on Intellect, Will, and Faith
+J. A. WEST
+T
+he acquisition of faith in the thought of St. Thomas Aquinas is a
+process best understood in terms of the relationship between the
+human intellect and the will. Recent work in Aquinas’s religious
+epistemology has led some scholars to categorize Aquinas as a sort of
+volitionalist, i.e., one who holds that our personal beliefs can be changed
+through acts of the will or that “willing” beliefs is possible. Others have
+argued against this interpretation by claiming that any volitional theory
+of belief leads to both logical and phenomenological problems and that
+such a method of acquiring beliefs is epistemically irresponsible. In this
+paper I will seek to answer the following questions: What role, according
+to Aquinas, does the will play in the acquisition of faith? and Is Aquinas
+correct in believing that agents can will to believe certain propositions? In
+answering these questions, I shall argue that there is indeed a place for
+the will in our assent to certain propositions or beliefs, and that the will
+plays a crucial role in acquiring Christian faith. Finally, I will defend
+Aquinas’s volitionalism against objections.
+I. The Relationship between the Intellect and the Will
+In order to arrive at a satisfactory answer to the above questions, it
+will prove beneficial to provide a general explanation of the relationship
+J. A. West, a senior majoring in philosophy at Brigham Young University, will
+attend Yale University Divinity School this fall. This essay won first place in the
+2003 David H. Yarn Philosophical Essay Competition.
+2 J. A. WEST
+between the intellect and the will in Aquinas’s philosophy. For Aquinas,
+the intellect and the will are the two great powers of the mind.1The intel-
+lect, simply put, is the capacity for understanding and thought, or a power
+of apprehension and knowing. The intellect is “the rational agent’s cogni-
+tive power.”2On the other hand, the will is “an innate positive inclination
+towards the good. It is that aspect of a rational agent which disposes her to
+pursue what she considers good.”3 Thus, the will can be understood as a
+natural appetite or inclination for goodness. The goodness that the will
+seeks is not any particular good thing, but rather goodness in general. The
+act of determining which particular good to seek is the job of the intellect,
+which produces evaluative judgments about certain things, events, or
+states of affairs, and then presents these to the will as good. After particu-
+lar objects have been presented to the will as good, the will, in turn, seeks
+these objects because the will is a natural appetite for the good. So with
+regard to particulars that are judged to be good, “the will is the power to
+have wants which only the intellect can frame.”4In this sense, the intellect
+does not move the will as an efficient cause, but rather as a final cause,
+since whatever is perceived by the intellect as good moves the will as an
+end.5
+Nevertheless, Aquinas also holds that the will can move the intellect by
+efficient causation.6Each power of the soul is basically a disposition to be
+moved by a certain group of objects. For example, the power of sensory
+appetite is the inclination to seek pleasure and avoid pain; the power of
+hearing is an inclination to be affected or moved by sounds; and the intel-
+lect is an inclination towards knowledge or truth. Whenever a particular
+power of the soul is moved, the object that moves the power must neces-
+1It should be noted that for Aquinas the intellect and the will are not entirely distinct entities. As
+Claudia Eisen-Murphy states, “The only real agent, Aquinas recognizes, is the whole agent.” See Eisen-
+Murphy 575.
+2Eisen-Murphy 576.
+3Ibid.
+4Kenny 59.
+5Aquinas, Summa Theologica(hereafter STh), I, q. 82, a. 4, c.
+6See Ibid.
+AQUINASONINTELLECT, WILL, ANDFAITH 3
+sarily be a good that is proper to that power. In other words, to be a cer-
+tain power’s good, an object must belong to the set of things that natural-
+ly move that power. In explaining how the will can be said to move the
+intellect, Aquinas states, “[W]herever we have order among a number of
+active powers, that power which regards the universal end moves the pow-
+ers which regard particular ends.”7 Since the will is a disposition to be
+moved towards the universal good, whereas other powers are only moved
+towards particular goods, the will can, in some instances, move the other
+powers of the soul.
+In most cases, there is no need for the will to move the other pow-
+ers of the soul because the other powers are usually moved by their
+proper objects. When the power of sight is moved by light and color, the
+will plays no part in this movement because the power’s proper object (light
+or color) is alone sufficient to move the power. Yet Aquinas believes that
+there are cases in which the object of the power is not sufficient to move
+the power: “The sufficient mover of a power is none but that object that
+in every respect presents the aspect of the mover of that power. If, on the
+other hand, it is lacking in any respect, it will not move of necessity.”8
+Aquinas provides an example of this in which the sight is confronted
+with an object of sight that is not completely colored; even though the
+object of sight is part of the class of things that move the power of sight,
+it is possible that an agent will only look at the part of the object that is
+not colored, and then the agent will not see the object.9When such a sit-
+uation occurs in which a power’s proper good is not sufficient to move the
+power, “the will can intervene by inclining to the proper good of the
+power as a particular good.”10 When an agent cannot hear a particular
+sound because of faintness or distance, a volition causes the agent to strain
+or concentrate, or when an agent cannot see something because of dark-
+ness, the will intervenes and a volition causes the agent to squint. It must
+7Ibid.
+8SThI–II, q. 10, a. 2.
+9See Ibid.
+10Eisen-Murphy 577.
+4 J. A. WEST
+be noted, however, that while the will can command the intellect to the
+exercise of its act, it cannot lead the intellect to form specific judgments
+about specific objects. For instance, the will cannot cause the power of sight
+to see a color that is not actually present. The will can only command a
+power to perform certain kinds of acts in pursuit of the power’s proper
+object (such as truth in the case of the intellect).11
+II. Aquinas’s Volitionalism
+Now that we have examined the relationship between the intellect
+and the will, we are in a position to see how these two powers interact in
+the formation of beliefs. That Aquinas thinks acts of coming to believe
+may be voluntary can be shown by his use of the verb ‘to believe’: “As
+Aquinas uses it, ‘to believe’ (credere) designates an intellective act of assent
+to a proposition where (a) the assent is caused not by the evidentness of
+the object itself but by a volition, and (b) the assent is firm and unwaver-
+ing.”12According to this definition all beliefs are voluntary, a claim which
+can be clarified by contrasting a belief with an act of non-voluntary intel-
+lective assent. Aquinas differentiates between voluntary and non-volun-
+tary acts of intellective assent in the following passage:
+If, therefore, that which the reason apprehends is such that it naturally
+assents thereto, e.g. the first principles, it is not in our power to
+assent or dissent to the like: assent follows naturally, and consequent-
+ly, properly speaking, is not subject to our command. But some
+things which are apprehended do not convince the intellect to such
+an extent as not to leave it free to assent or dissent, or at least sus-
+pend its assent or dissent, on account of some cause or other; and in
+such things assent or dissent is in our power, and is subject to our
+command.13
+11See Eisen-Murphy 575–579.
+12Ibid., 579. See also Quaestiones de veritate(QDV) q. 14, a. 1, c.
+13SThI–II, q. 17, a. 6, c.
+AQUINASONINTELLECT, WILL, ANDFAITH 5
+As Aquinas states, there are certain propositions to which the intel-
+lect “naturally assents” and to which the intellect is not free to dissent.
+The intellect has been created in such a way that propositions of a certain
+kind or structure automatically compel its assent. Aquinas provides two
+examples of propositions to which the intellect cannot refrain from assent-
+ing. The first example is given in the passage quoted above: propositions
+involving self-evident first principles.14 The second example occurs when
+the intellect uses first principles as premises in constructing a valid
+demonstrative argument in support of a proposition.15 In either case,
+an agent’s belief is not voluntary since assent is compelled by the evident-
+ness of the first principles.
+At this point it may be objected that there are a number of non-nec-
+essary propositions that still compel our assent. For example, the proposi-
+tion ‘the sun is shining today’ is neither a self-evident first principle nor
+an analytic truth, yet I seem compelled to assent to it if the sun is indeed
+shining. Aquinas’s reply to this objection can be found in his notion of
+necessity. Aquinas holds that propositions referring to states of affairs or
+events in the past or present are necessarily true. Thus, both propositions
+involving first principles and those involving accurate representations
+of actual states of affairs or events are believed non-voluntarily.16
+Despite our focus up to this point on involuntary belief, it is vol-
+untary belief that is of the most importance in explaining Aquinas’s voli-
+tionalism. According to Aquinas scholar Claudia Eisen-Murphy, a belief
+bis voluntary “if and only if when the agent came to believe b, she could
+have done otherwise.”17An agent could have done otherwise if she could
+have disbelieved bor if she could have suspended judgment about b. Even
+though an agent usually assents to a proposition on the basis of its apparent
+truth or on the basis of evidence, Aquinas nevertheless believes the agent’s
+14Examples of such first principles could be the three basic laws of logic: The Law of Identity, The
+Law of Non-Contradiction, and The Law of Excluded Middle.
+15See SThII–II, q. 1, a. 4, c.
+16See Eisen-Murphy 583.
+17Ibid., 585.
+6 J. A. WEST
+freedom to withhold assent or to dissent from the proposition is pre-
+served. In speaking of voluntary assent, he states:
+Now, that the will moves the intellect to assent, may be due to two
+causes. First, through the will being directed to the good, and in this
+way, to believe is a praiseworthy action. Secondly, because the intel-
+lect is convinced that it ought to believe what is said, though that
+conviction is not based on objective evidence.18
+Thus, voluntary assent can come about either (1) because the will is
+inclined towards some good to which belief is a means, or (2) because the
+intellect judges the truth of the proposition to be very likely, although the
+available evidence is not strong enough to compel assent. In either case, as
+Aquinas points out, the will is the force behind the intellective assent. It
+is this claim—that the will plays a role in belief acquisition—that identifies
+Aquinas as an advocate of volitionalism.
+The next step in our discussion of Aquinas’s volitionalism is to
+determine exactly what kind of volitionalist Aquinas is. Volitionalism, in
+its most extreme form, holds that we can get ourselves to believe any
+proposition by merely “willing” to do so. However, as we have seen, the
+will only plays a part in someof our belief forming processes, and even then
+the will is not the only power involved. Indeed, Aquinas’s thought can be
+understood as advocating a brand of volitionalism much weaker than the
+extreme form, and, as we shall discuss now, less direct.
+Aquinas asserts that the will is inclined towards the general good
+and that the will can intervene or “fill the gap” when the object of the
+intellect is not sufficient to compel assent. One way in which this hap-
+pens is that the will can lead the intellect to assent to a certain proposition
+“because it perceives assent to this proposition as a means of acquiring a
+true belief, and therefore as a good.”19Irrespective of the will’s inclination
+towards the good represented by the proposition, the agent still remains
+18SThII–II, q. 5, a. 2, c.
+19Eisen-Murphy 589.
+AQUINASONINTELLECT, WILL, ANDFAITH 7
+free to assent or dissent from the proposition. Assent is therefore still a
+choice the agent makes, and thus it can be said in this case that the belief
+is voluntary. However, the question of exactly how the will intervenes
+remains. In order for the will to move the intellect to assent, and in order
+to preserve the truth basis of an agent’s set of beliefs, the will must get the
+intellect to somehow judge that the proposition in question is more likely
+to be true than not. Consequently, the will gets the intellect to arrive at
+the likely truth of the proposition by working through other acts of the
+intellect, such as focusing on one kind of evidence over another, paying
+attention to certain kinds of facts and disregarding others, or giving more
+weight to some pieces of the evidence and less to others. In doing so, the
+will gets the intellect to judge that the proposition is most likely true and
+thus the will is able to command the intellect to assent. From this perspec-
+tive, Aquinas can be seen as advancing a type of indirectvolitionalism.
+To further qualify Aquinas’s volitionalism, we shall make use of the
+following schema devised by Louis Pojman in The Logic of Subjectivity:
+Direct Indirect
+Descriptive 1. I will to believe p, 2. I will certain actions
+and, by doing so, and life policies, and
+acquire the belief these cause the beliefs
+that-p directly. I eventually acquire.
+Prescriptive 3. I ought to will to 4. I ought to set myself a
+acquire a belief that-p specific course of action
+by directly willing to in order to acquire a
+do so. specific belief, p, which
+the evidence alone does
+not cause.20
+20Pojman 105.
+8 J. A. WEST
+Pojman notes that one could be a descriptivist without being a pre-
+scriptivist; that is, one might believe that it is possible to attain beliefs
+directly through willing to do so, but that we ought not attain them in that
+way. On the other hand, it is not possible to be a prescriptivist without
+being a descriptivist; that is, if one is to have some duty to acquire beliefs
+by willing to do so, then it must be possible for one to attain beliefs in
+such a way.21
+Aquinas, I believe, can best be classified as an indirect descriptive
+volitionalist. Indirect because, as we saw earlier, the will plays an indi-
+rect role in belief formation, and descriptive rather than prescriptive
+because an agent does not consciously set out to acquire beliefs through
+the will; the intervention of the will is simply a natural functioning of the
+agent’s power, which automatically follows its innate inclination towards
+the good.
+III. Volitionalism and Faith
+Not only does the will play an important role in the acquisition of
+ordinary beliefs, but Aquinas also believes that the will is essential to
+faith. The proper object of faith is God himself, but since human know-
+ers, in this life, cannot comprehend God directly or immediately, the
+object of faith is not God but propositions about him.22 Assent to the
+propositions of faith (such as the proposition ‘God exists’) is a case in
+which the assent is not generated by the intellect’s being sufficiently
+moved by its object. The assent of faith is produced by the will being
+moved sufficiently by the object of faith and therefore the intellect is
+brought to assent. Faith, however, is different from opinion. Opinion also
+results from the will moving the intellect to assent, but in the case of opin-
+ion, the agent recognizes that there is evidence both for and against the
+proposition and hence the agent must admit that the knowledge is not
+21See ibid.
+22See SThII–II, q. 1, a. 2
+AQUINASONINTELLECT, WILL, ANDFAITH 9
+completely certain. Faith, unlike opinion, holds to its object with certain-
+ty, and in this sense is like knowledge.23
+The contribution of the will to the intellectual assent in faith occurs
+because of the will’s natural inclination for goodness. The will is moved
+by considerations of the willer’s happiness andby considerations of God,
+who is himself the true good. When an agent is presented with the propo-
+sitions of faith, she sees that these propositions represent the combination
+of the two ends mentioned above, namely, the eternal life and happiness
+of the willer in union with God. Even though these propositions are not
+sufficient to command assent on the part of the intellect, the will recog-
+nizes the great good offered by assent to these propositions, and the will
+thus influences the intellect to assent.24 As Eleonore Stump points out,
+that the will can have such an influence over the intellect is attested to by
+the fact that scientific experiments are often designed “to rule out just this
+kind of influence,”25 where the desire to have the results turn out a
+certain way may affect the conclusions of the researchers.
+IV. A Defense of Aquinas’s Volitionalism
+A number of objections have been raised against Aquinas’s views on
+the role of the will in assent and the implications that this theory has on
+our understanding of faith. Since the scope of this paper does not allow
+for a complete treatment of these objections, I shall focus my discussion
+on a few of the most common objections to Aquinas’s volitionalism.
+Another reason for narrowing the focus of my defense of Aquinas is that
+most of the contemporary criticism leveled against volitionalism tends to
+attack the notion of direct voluntary belief. Aquinas, however, as I have
+shown, advances an indirect brand of volitionalism that is able to escape
+the objections to direct voluntary volitionalism. Aquinas does not argue
+23See SThII–II, q. 1, a. 4; q. 2, a. 1, 2.
+24See Stump 187–88.
+25Ibid., 188.
+10 J. A. WEST
+that the will can command the intellect to assent to a proposition that
+is patently false, and Aquinas undoubtedly recognizes the fact that we
+often enough assent to propositions that we passionately wish were not
+true. Nevertheless, there are still objections that can be raised against
+Aquinas’s weaker version.
+Objection 1. Perhaps the most common and most obvious objection
+to Aquinas’s notion of voluntary belief is that it seems to imply that faith
+is without epistemic justification. Stump states: “If a believer’s intellectual
+assent to the propositions of faith results primarily from her will’s being
+drawn to the good represented in those propositions, there seems to be no
+reason for supposing that the propositions of faith are true or that her
+belief in them is justified.”26After all, we have a propensity to think of our
+beliefs as propositional attitudes that are caused by the reality that sur-
+rounds us. Beliefs, we suppose, are caused by evidence, and not our voli-
+tions. In other words, it is contrary to the nature of beliefs to acquire
+them by anything other than truth/evidence considerations.
+Objection 2. If the object of faith is not sufficient to move the intellect,
+and if the acquisition of faith is based largely on the act of the will, how
+can Aquinas say that faith is held with certainty? Aquinas states that faith,
+as a form of belief, is not caused by the evidentness of the object itself, but
+nevertheless is “firm and unwavering.”27 Recognition of the fact that our
+faith is not based entirely upon truth considerations seems to give rise to
+doubts about how anyone’s faith could be said to be certain.
+Aquinas’s answers to both of the above objections can be found in
+his account of “being” and “goodness.” On Aquinas’s view, the terms
+“being” and “goodness” are basically synonymous. More accurately, these
+terms refer to the same thing but with different senses (Stump exemplifies
+26Ibid., 191–92.
+27See Eisen-Murphy 579, and Quaestiones disputatae de veritateq. 14, a. 1, c.
+AQUINASONINTELLECT, WILL, ANDFAITH 11
+this by stating that the expressions “being” and “goodness” are analogous
+to the expressions “morning star” and “evening star,” which refer to the
+same thing but under two different descriptions).28However, for the pur-
+poses of our discussion, we will simply equate these two terms.
+Objection 1, that the propositions of faith are unjustified, and objec-
+tion 2, that one cannot truly have a sense of certainty with regard to faith,
+can be answered by using an example of such a proposition of faith.
+Take for instance the proposition ‘God exists’. Now, for Aquinas, where
+there is being there is also goodness, and conversely, where there is good-
+ness there is also being. In the case of God, who we think to be perfect-
+ly good, Aquinas holds that this perfect goodness must correspond to per-
+fect being, and perfect being not only exists but exists necessarily.29 In the
+case of ordinary beliefs, where the will may be inclined towards an imper-
+fect or limited good, the assent may be unjustified. Yet with regard to the
+propositions of faith, the will seeks perfect and unlimited goodness since
+the object of faith is First Truth—God himself—and this perfect goodness
+assures the existence or being of the will’s object. Belief, then, in proposi-
+tions such as ‘God exists’ is justified since the object of faith must neces-
+sarily exist.
+Objection 3. Why should Aquinas believe that faith should be
+obtained through the will’s hunger for the good rather than the intellect’s
+being sufficiently moved by the propositions of faith? An omnipotent and
+omniscient God could have made the propositions of faith manifest in
+such a way that the intellect could be sufficiently compelled on account of
+the evidence. There seems to be something inappropriate about obtaining
+faith through the will’s attraction to the good when God could have made
+it possible to obtain it based on considerations that alone move the intel-
+lect. Aquinas’s account of faith, one might contend, is analogous to “using
+a sewing machine to join two pieces of cloth by gluing the two pieces of
+28See Stump 192.
+29See Ibid., 197.
+12 J. A. WEST
+cloth together and using the machine as a weight to hold them in place
+as the glue dries.”30 Why opt for a substitute method of acquiring faith
+when God could have easily provided a better, more compelling method
+involving the intellect alone?
+This objection will likely seem absurd to most Christians, for the
+whole idea of faith is that it is not intellectual certainty, but a kind of risk
+in which the truth of our beliefs is something hoped for. Most Christians
+would claim that God’s fully manifesting himself to all people would con-
+tradict his desire to have people freely enter into relationships with him.
+Nonetheless, it could still be argued that God is perhaps guilty of not pro-
+viding enough evidence as it is. Aquinas’s reply to this objection is
+found in his understanding of the purpose of faith.
+Objection 3 might have more force if Aquinas agreed that the most
+important aspect of faith was its influence on the intellect, but Aquinas
+affirms that the most significant feature of faith is its influence on the will
+of the believer. The changes brought about in an agent by the acquisition
+of faith are, more than anything, changes in the will of the agent. When
+an agent begins to have faith through the will’s attraction to perfect good-
+ness, God is then able to work on the will of that believer in order to pro-
+duce a true change of heart and align her will in other aspects with the
+righteous desires of the heart that a true Christian should possess. The
+changes that take place after the assent of faith which are of the most
+importance in making the agent a true disciple are changes in the will
+of the agent to love goodness and hate sin. It is this change that constitutes
+the notion of justification by faith, in which inherent defects in the
+human will (in the form of desiring that which is evil or gives immediate
+pleasure) are corrected and the heart and will of the believer are brought
+into line with God’s will. Thus, Aquinas holds that the method of acquir-
+ing faith through the will, as opposed to a purely intellectual approach, is
+better because it involves the will in the search for faith and places the will
+30Ibid., 192.
+AQUINASONINTELLECT, WILL, ANDFAITH 13
+in a position to be further corrected and purified. While it should be
+noted that whatever affects the will must have first operated on the intel-
+lect, the purpose of the change that the intellect experiences through gain-
+ing faith has to do with the resulting change in the will.
+V. Conclusion
+In this paper I have argued that Aquinas presents a brand of voli-
+tionalism in which the will has an indirect and descriptive role in the
+acquisition of faith. To show this, I have explained Aquinas’s account of
+the relationship between the intellect and the will, and how these come
+together when one assents to the propositions of faith. I have also
+defended Aquinas’s view against the objections that (1) assent to the
+propositions of faith is unjustified, (2) the believer cannot be said to real-
+ly hold to her faith with certainty, and (3) God should have instituted a more
+intellectually based approach to faith acquisition. While perhaps the most
+persuasive evidence that our religious beliefs must be arrived at voluntar-
+ily is the fact that God appears to hold people accountable for their
+beliefs, Aquinas still manages to offer a coherent account of how and why
+this is so.
+References
+Aquinas, Thomas. Summa Theologica. Fathers of the English Dominican
+Province, 1947. New Advent, URL = http://www.newadvent.org/
+summa.
+Eisen-Murphy, Claudia. “Aquinas on Voluntary Beliefs.” American
+Catholic Philosophical Quarterly, Fall 2000, 74(4): 569–97.
+Kenny, Anthony. Aquinas on Mind. New York: Routledge, 1993.
+Pojman, Louis. The Logic of Subjectivity: Kierkegaard’s Philosophy of
+Religion. University, AL: University of Alabama Press, 1984.
+Stump, Eleonore. “Aquinas on Faith and Goodness.” In Being and
+Goodness: The Concept of the Good in Metaphysics and Philosophical
+Theology. Ithaca, NY: Cornell University Press, 1991. 179–207.

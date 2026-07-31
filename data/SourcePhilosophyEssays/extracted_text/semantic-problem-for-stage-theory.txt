@@ -1,0 +1,594 @@
+Ergo
+ANOPENACCESS
+JOURNALOFPHILOSOPHY
+emantic roblem
+A S P
+or tage heory
+F S T
+MATTHEW MCKEEVER
+Isubjectthesemanticclaimsofstagetheorytoscrutinyandshowthatit’sunclearhow
+tomakethemcomeouttrueforasimpleanddeepreason: thestagetheoristneeds
+tensed elements to semantically modify the denotations of referring expressions to
+enableustotalkaboutpastandfuturestages. Butinthesyntaxofnaturallanguage,
+expressionscarryingtensemodifyverbsandadjectivesandnotreferringexpressions.
+Thismismatchbetweenwhatthestagetheoristneeds,andwhatlanguageprovides,
+makesithardtoseehowthestagetheorist’ssemanticclaimscouldbetrue.
+1.Introduction
+Stage theory is the metaphysical view that everyday objects like you and the
+Eiffel tower are stages—instantaneous temporal parts. Existing defenses of stage
+theory by Katherine Hawley (2001) and Ted Sider (1996; 2001) quite explicitly
+include certain semantic claims. Thus Sider says that stages are
+the referents of ordinary terms, members of ordinary domains of quan-
+tification, subjects of ordinary predications, and so on. (2001: 60)
+In the same vein, Hawley says,
+The two accounts [perdurantism and stage theory] differ over what we
+talk about when we use phrases like ‘the tennis ball’, and about which
+objects satisfy sortal predicates like ‘is a tennis ball’ ... according to stage
+theory, it is stages themselves which are tennis balls (or bananas, or hu-
+man beings, as the case may be). (2001: 42)
+Not only that, both agree, in broad outline, about the stage-theoretic truth
+conditions of sentences. A sentence like
+Contact: MatthewMcKeever<mipmckeever2@gmail.com>
+https://doi.org/10.3998/ergo.12405314.0004.024 693
+·
+694 Matthew McKeever
+(1) John was happy
+will be true for the stage theorist provided there’s some stage which is suitably
+related to the stage picked out, at the time of utterance, by ‘John’, such that it
+is prior to the time of utterance, and it possesses the property of being happy
+(Sider 2001: 193; Hawley 2001: 54–57). Sider and Hawley disagree slightly about
+the nature of suitable relatedness; it is unimportant for this paper, but I will on
+occasion use ‘I-relation’ to denote the relation.
+My aim here is to examine the cogency of these claims, in light of what our
+best theories of the compositional semantics of natural language, and in partic-
+ular tense, tell us. Having briefly reviewed the theory of tense, I will present a
+verysimplesentencewhichIclaimthestagetheoristwillnotbeabletodealwith
+and show that this failure arises from a deep mismatch between what the stage
+theorists need of a semantics of tense and what natural language supplies. The
+conclusion will be that there’s good reason to doubt that the stage theorist will
+be able to make good on their semantic claims, and thus, to the extent that these
+claims are an important part of stage theory, good reason to think stage theory
+false.
+2.The Semantics of Tense
+My aim in this paper is to consider to what extent the stage theorist’s semantic
+claimsfitwiththemainviewsaboutthefunctioningoftenseinnaturallanguage
+found in the literature. In this section, I will provide a brief overview of these
+views.
+There are two main views about the semantics of tense. On the one hand,
+there is the view which has its roots in Priorean tense logic (see, e.g., Prior
+1968, or Goranko & Galton 2015 for an overview) according to which expres-
+sions which carry tense marking introduce temporal operators. As a first pass,
+this would be to say that a sentence like
+(2) Carrie swam
+is well represented in tense logic as
+(3) P (Carrie swim)
+where ‘P’ is a past tense modal operator, the meaning of which could be glossed
+as ‘it has at some time been the case that’. This functions like a possibility oper-
+ator in alethic modal logic: it operates on an intension (a function from points
+of evaluation to truth values; in the alethic case these points are worlds and in
+the temporal case times) and maps it to true provided there is a time prior to
+· ·
+Ergo vol. 4, no. 24 2017
+·
+A Semantic Problem For Stage Theory 695
+the utterance time such that the intension maps it to true, which is to say pro-
+vided there is some time in the past at which the sentence is true. It thus has the
+force, in the metalanguage in which the tense language is interpreted, of existen-
+tialquantificationoverpasttimes(otheroperatorsareassociatedwithexistential
+quantificationoverfuturetimes,andyetotherswithuniversalquantificationover
+past and future times).
+We could then say that there are temporal operators in natural language, so
+that the syntactic logical form of our sentence would be (simplifying massively)
+(4) [ [P [Carrie swim]]
+s
+In symbols, the semantic value of ‘P’ would be that of a modal operator as so:
+P =λp<s,t>.λs. at some time before s, p(s)=1
+(cid:74) (cid:75)
+Using ‘s’ as a variable standing for times, this says that ‘P’ denotes something
+which takes a function from times to true values (a temporal proposition) and
+returns another temporal proposition which maps a time to true provided the in-
+putpropositionmapssomepasttimetotrue. Onthisview,theobjectofsemantic
+interpretation would be, essentially, a formula of Priorean tense logic.
+There’s another way to go, though. We are familiar in formal semantics and
+syntax with the idea of unprounced elements in a sentence. Thus, for example,
+to account for natural language quantification in a neat, compositional way, we
+assume that a sentence like
+(5) Everybody swims
+has a syntactic logical form like
+[ [ Everybody] [ λ1. [t swims]]]
+s np vp 1
+That is, we assume that there is a covert element, a trace (in this case ‘t ’), in
+1
+the logical form of the sentence, which gets bound by the lambda term, so that
+the VP denotes a function from objects to truth values (a property), and can then
+serveastheinputtothesemanticvalueof‘everybody’, whichdenotesafunction
+from properties to truth values.
+But once one has made that move of allowing unpronounced elements into
+the logical form to account for quantifier phrases, the option of doing the same
+for tense arises. After all, there’s a sense in which just as ‘everybody’ quantifies
+over people, so the past tense morphology ‘–ed’ in ‘jumped’ quantifies (existen-
+tially) over past times. If we had covert time denoting variables, just as we have
+covert object denoting variables, then we could account for the difference by
+positing a logical form as so:
+· ·
+Ergo vol. 4, no. 24 2017
+·
+696 Matthew McKeever
+∃t <u.λ1. Carrie jump(t )
+1 1
+Here ‘u’ stands for the utterance time, and—with a slight abuse of notation—
+‘∃t <u’ here a function from properties of times to truth values (just as ‘every-
+1
+body’ denotes a function from properties of individuals to truth values).
+Onewaytogetatthedistinctionistonotethatthereisaquestion,atthelevel
+of logical form which serves as the object of semantic interpretation, of whether
+the quantification over times is overt or covert. According to the quantifier ap-
+proach, it’s overt, in the sense that there are temporal variables in the syntax
+which get bound. According to the operator approach, it’s covert—there are no
+such variables, but the truth conditions of the sentence involve quantification.
+One might, for all that has been said so far, think that this is a distinction
+without a difference. If all it comes down to is the positing or not of an anyway
+unpronounced piece of syntax, one might think that we don’t have a very deep
+or important issue on our hands.
+But there’s more to it than that. Operators and quantifiers behave differently.
+Notably, a quantifier can semantically affect a variable even if another quantifier
+stands in its way, whereas modal operators, as standardly construed, affect the
+formula they immediately scope over (Schlenker 2006: 507). Compare these two
+formulas:
+∀x∃y.F(x)
+(cid:3) ♦
+p
+The former is true provided everything in the domain of quantification is
+F; the presence of the vacuous existential quantifier makes no difference to the
+interpretation of the formula. However, the same doesn’t hold for the second
+formula: we can’t treat the diamond as if it were vacuous, in which case the
+sentence would be true provided p was true at every world. That’s just not an
+available reading, and it’s not available because a formula is always affected by
+the modal which first scopes over it. Accordingly, here is a difference between
+modal operators, as standardly conceived, and quantifiers.
+We can then ask, how do temporal expressions fit in here? Do they exhibit
+modal-like or quantifier-like behaviour? The linguistic data suggests the latter.
+There are a range of constructions involving tense well captured in terms of
+quantifiers but not well captured in terms of operators. Most relevant given the
+aboveistheexistenceofsentencesinwhichatensedoesn’taffecttheintepretation
+of an expression in its scope. The classical example in the literature comes from
+Cresswell (1991):
+(6) Some day, each of my students will be on the board of Linguistics And
+Philosophy
+· ·
+Ergo vol. 4, no. 24 2017
+·
+A Semantic Problem For Stage Theory 697
+Standard assumptions about scope would lead us to think that there are two
+disambiguations of this sentence—a temporal de dicto one, in which the tense
+expression ‘will’ scopes over the quantifier, and a temporal de re one, on which
+the quantifier scopes over the ‘will’. Using ‘F’ for the operator which has future
+existential truth conditions, we get
+F (each of my students be on the board of Linguistics And Philosophy)
+Each of my students F (x be on the board of Linguistics and Philosophy)
+Theproblemisthatneitherofthesedisambiguationscapturethemostsalient
+reading of the sentence. The most salient reading is that at some one point in
+the future, each of the speaker’s current students will be on the board of the
+journal—the speaker is imagining a situation in which his school rules supreme
+by capturing the editorial board. Neither of the two readings above give us
+this, however. The first reading gets us that at some time in the future, each
+of the speaker’s then students will be on the board. That is, it talks about the
+wrong students—the future ones, which are not necessarily the current ones.
+The second reading has it that each of the speaker’s students are such that in the
+future they’ll be on the board—but it doesn’t mean that all the students will be
+on the board together: one could be on the board at t and only t , one at t and
+2 2 3
+only t , and so on. This doesn’t secure the editorial board domination reading
+3
+we’re looking for.
+Ontheotherhand,ifoneweretoholdthattenseprovidesquantifiersbinding
+temporal variables, then the situation is straightforward. We would have
+∃t1>u. λ1. Each of my students(x) be on the board (t ) of Linguistics and
+1
+Philosophy
+Ifxisatemporalvariableoccurringfree,thenitcangetitsvaluefromcontext,
+so that the sentence is true provided at some future time, each of my current
+students is on the board of Linguistics and Philosophy then. This is the correct
+reading, and suggests that that the tenses behave like quantifiers rather than
+operators (further reading here, in addition to the paper about to be mentioned,
+is Schlenker 2006; Schaffer 2012; Kusumoto 2005; and references therein).
+It only suggests it, however. Already in Cresswell (1991) it was realised that
+with sufficient complexification, one can get something like an operator view
+which will account for all the facts. Such a view requires the positing of a range
+of new and suspiciously quantifier-looking temporal operators. In the face of
+this, King has been lead to say,
+Ifthecomplextemporalfactspresentinnaturallanguagearemostreadily
+and easily represented by viewing tenses as involving explicit quantifica-
+tion over time and as expressing relations between times, that is a good
+reason for thinking that tenses really work this way. (2003: 218)
+· ·
+Ergo vol. 4, no. 24 2017
+·
+698 Matthew McKeever
+I agree with this. For that reason, I will mostly concentrate on quantifica-
+tional analyses of tense. However, both in the interests of exhaustiveness and
+because at least Sider, at least sometimes, seems to be assuming an operator
+analysis (1996: 450), I will discuss the operator theory as well. And I’ll consider
+one other view, which is not to be found in the linguistics literature on tense but
+which has been suggested to me by several people, including a referee for this
+journal, and which indeed one can also find at Sider (1996: 450). 1
+3.Against the Quantificational Analysis
+Initially, things look good for the stage theorist. I’ll begin by showing how a
+simplemodificationofthequantificationaltheoryoftensecancaptureasentence
+like 1 from a stage-theoretic perspective.
+We’ve already seen what the basic quantificational analysis of tense looks
+like. Our sentence will have the logical form like so:
+∃t <u.λ1. John be happy(t )
+1 1
+Now let’s see how to modify this in the spirit of the stage theorist. The key
+thought behind stage theory is that a name like ‘John’ denotes different stages at
+different times. On the other hand, the stage theorist doesn’t say that a predicate
+like ‘happy’ has different extensions over time: they don’t need to, because it
+can just stand for all the happy stages, past, present and future. So an obvious
+thought is to say that it’s names which, contrary to appearances, have a place
+for a variable. On this understanding, they would denote not objects, but non-
+constant functions from times to stages. We’ll have
+∃t <u. λ1. John(t ) be happy
+1 1
+Our sentence will be true provided there’s some time prior to the time of utter-
+ance, such that applying it to the function denoted by ‘John’ gives a stage which
+belongs in the set denoted by ‘happy’. And this captures the correct truth con-
+ditions: the function applied to a past time will yield a past stage of John as is
+required, and the sentence will be true if that stage possesses the property of
+happiness.
+The stage theorist can appeal to a simple and well motivated modification of
+the semantics of tense to get the right results for basic tensed sentences. Next
+we’ll see, however, that this modification can’t account for even slightly more
+difficult sentences.
+1.IthankarefereeforpointingoutthatSiderseemstopartiallyendorsethisview.
+· ·
+Ergo vol. 4, no. 24 2017
+·
+A Semantic Problem For Stage Theory 699
+3.1.A Problem
+Consider the following sentence:
+(7) Kant was born and died in Königsberg.
+The first observation to make about this sentence is that the two verbs, roughly,
+talk about different times: we’re not asserting that there’s some time such that
+Kantwasbornanddiedthen. Rather,whatwe’resayingisthatthere’ssometime
+in the past when we was born, and some other time in the past when he died.
+In stage theory talk, that is to say that there’s some past stage of Kant which
+was born, and some different past stage of Kant which died. So the sentence
+is really talking about two past stages. My claim is that the stage theorist can’t
+account for this, and for a very simple reason: there’s only one occurrence of
+‘Kant’ in the sentence, so the sentence can only talk about one stage. Slightly
+more technically, because there’s only one occurrence of ‘Kant’, there’s only one
+unbound temporal variable in the sentence, which can only be bound by one of
+the two past tense quantifiers. But that means the one which doesn’t do any
+binding will be semantically inert, and so the sentence will not be able to talk, as
+it needs to, about two different Kant stages.
+Andthisreflectsafundamentalwayinwhichthetruthconditionsdemanded
+by the metaphysics of stage theory don’t fit with the semantics of natural lan-
+guage. For the stage theorist, the semantic point of tensed elements is to allow
+us to talk about past and future stages, and not, as common sense might first
+suggest, past and future events or states. But this is just not reflected in the
+syntax, in which tensed elements form syntactic constituents with adjectives and
+verbs, as in the adjectival phrase ‘was happy’ or the verb phrase ‘lived’, and do
+not form syntactic constituents with names (there’s no such word as ‘Kanted’).
+A consequence of this is that every finite verb must co-occur with some tense
+expression, and so when we conjoin two finite verbs, we must have two tensed
+elements. And this is where the problem arises, because there may be only one
+name for it to semantically modify.
+Let me first note that there’s no problem for the (unmodified) theory of tense
+I’ve given. We’ll have the syntactic form, omitting brackets and labels to aid
+parsing
+∃t <u λ1.∃t2<u. λ2. Kant be born(t ) and die(t )
+1 1 2
+But now consider the stage theorist. The logical form must be something like
+∃t <u λ1.∃t <u. λ2. Kant(?) be born and die
+1 2
+Thequestionmarkmustbereplacedwithatrace(eithert ort ),butit’sclear
+1 2
+that whatever quantifier we index it to, we’ll get the wrong result. Neither of the
+two following truth conditions are correct:
+· ·
+Ergo vol. 4, no. 24 2017
+·
+700 Matthew McKeever
+∃t ,t <u. Kant(t ) be born and die
+1 2 1
+∃t ,t <u. Kant(t ) be born and die
+1 2 2
+TheybotharetruejustincasethesamestageofKantpossessesboththeproperty
+of being born in Königsberg and of dying in Königsberg. This is not the result
+we were looking for.
+3.2.An Attempted Solution
+The problem arises because we don’t have enough names to go around: we need
+two, which can be saturated by two different temporal variables, which can then
+each be bound by a quantifier. A natural thought is that we could resolve this
+issue by positing another referring expression in the syntax. The most natural
+thought is that it be a variable-like element which could semantically depend on
+the name, and in particular which could inherit the function the name denotes.
+That is, we could posit a syntactic form like so:
+∃t <u λ1.∃t <u. λ2. Kant(t ) be born and o(t ) die in Königsberg
+1 2 1 2
+where the variable ‘o’ anaphorically refers back to the function denoted by
+‘Kant’. This would yield truth conditions equivalent to
+∃t ,t <u. Born(Kant(t )) and Died(Kant(t ))
+1 2 1 2
+Which would secure the correct result. But there are solid syntactic and
+semantic reasons to doubt that this approach can work. From the point of view
+of syntax, it’s a familiar point that one can conjoin expressions of any syntactic
+category,asthefollowinglistindicatesfornames,adjectives,auxiliaryverbs,and
+adjectives:
+(8) Kant and Hegel were philosophers
+(9) The table was heavy and blue
+(10) You can and must do it
+(11) He danced skillfully and gracefully
+There is thus good reason to take the surface form of 7 seriously and hold that it
+is indeed a conjunction of tensed verbs. It would be surprising if one could not
+conjoin them, as the stage theorist seems to demand. In the same vein, it seems
+that we must hold this to be a case of verb conjunction to make sense of cases
+like
+(12) Kant caught and ate a deer.
+· ·
+Ergo vol. 4, no. 24 2017
+·
+A Semantic Problem For Stage Theory 701
+The reason there is pressure to hold that we have a conjunctive verb phrase
+rather than a sentential conjunction is that both the verbs ‘caught’ and ‘ate’ are
+transitive and thus look for an object. But the object of ‘caught’, on this view,
+would be in a completely different sentence, and so the sentence should be as
+anomalous as
+(13) #Kant caught. He ate a deer.
+Butitisn’t. Beforegoingon,letmewardoffanobjection. Theabovesentence
+is bad because the syntactic object of ‘caught’ is not close enough for its denota-
+tion to semantically interact with the denotation of ‘caught’. But it’s familiar to
+syntacticians that there are constructions like this which are nevertheless accept-
+able: this is the phenomenon of right node raising introduced into the literature
+by Postal (1974), and exemplified by:
+(14) John hates, but Mary loves, model theoretic semantics.
+Weherehaveanintransitiveverbtheobjectofwhich,‘modeltheoreticsemantics’,
+is in the wrong place, but the sentence is okay. One might think that the fact that
+such constructions are okay gives the stage theorist an out: they could say that
+what’s going on here is something like right node raising. But this isn’t hugely
+convincing: most notably, it doesn’t seem like a case of right node raising. Our
+example 12 doesn’t have the commas or intonation pattern distinctive of such
+constructions.
+But even if that were an acceptable response to this syntactic issue, there still
+remains a more serious, semantic problem with the stage theorist’s position: the
+strategy invoked here will get quantificational cases wrong. To see this, consider
+(15) Everybody arrived and left safely.
+In fact, to make things simpler, let’s consider a tenseless example (or rather pre-
+tend that this is a tenseless example):
+(16) Everybody grows and shrinks.
+On the view we’re considering, this is equivalent to the following, where the
+subscripts indicate binding:
+(17) Everybody grows and t shrinks.
+1 1
+Butthere’saproblemhere. Inordertogetthereadingwhichwewant, itmustbe
+the case that the quantifier ‘everybody’ binds the trace element t . But—at least
+1
+according to orthodoxy— a universal quantifier in one sentence cannot bind a
+variable in another. The following is no good:
+· ·
+Ergo vol. 4, no. 24 2017
+·
+702 Matthew McKeever
+(18) #Every girl arrived. Then she left.
+If the covert trace strategy were correct, then we would also predict 15 to be no
+good. Since we don’t, that’s a reason to doubt the covert trace strategy, and thus
+the viability of the stage theorist’s response to our problem.
+Here’s a response to the worry I just raised. There are some purported exam-
+ples of cross-sentential binding of a pronoun by a universal quantifier. Here’s
+one, from Barbara Partee via Roberts (1987):
+(19) Every player choses a pawn. He puts it on square one.
+One might try to argue that since such sentences are okay, we shouldn’t
+overly worry about the fact that we’re forced to posit cross-sentential binding.
+My response to this is to say that I doubt such sentences are okay—certainly
+they’re much more marked and infrequent than more standard cases of binding.
+And I think that’s sufficient to make it doubtful that the stage theorist can ap-
+peal to such cases to motivate her view: if cross sentential binding of pronouns
+by universal quantifiers is infrequent and marked, then sentences like 15 should
+be infrequent and marked, but they are neither: they are both common and very
+natural.
+Accordingly, it appears that the semantic claims of stage theory cannot be
+made to cohere with the quantificational view of tense. To the extent that we
+follow linguists and philosophers of language who back that theory, we should
+reject the semantic claims of stage theory. In the next sections, I will strengthen
+the argument for this conclusion by showing that the semantic claims of stage
+theory can’t be made to cohere with other views of tense.
+4.Against the Modal Operator Analysis
+Thefirststagesindevelopingamodaloperatoranalysisareclear. Wemakeasim-
+ilar move to the one we made above, only now couched in terms of intensions.
+Thus a standard analysis, as we’ve seen, would have it that names denote con-
+stant functions from times to objects, and predicates denote non-constant func-
+tions from times to extensions. The stage theorist’s analysis, on the other hand,
+would modify this so that names denote non-constant functions from times to
+stages, and predicates constant functions from times to the set of all the stages,
+past, present or future, which satisfy the predicate.
+But I think trying to develop the view any further, as in the quantificational
+case, will cause problems. Indeed, I think the view will be subject to a problem
+very similiar to the one faced by the quantificational theory. Firstly, think about
+whatthelogicalformmustbelike. Inparticular,considerthecontributionwhich
+‘was born and died’ makes to the logical form. There are two options—either it
+· ·
+Ergo vol. 4, no. 24 2017
+·
+A Semantic Problem For Stage Theory 703
+contributes one tense operator, or it contributes two.
+If it contributes one, we have something like
+P (Kant be born and die in Königsberg)
+This clearly gets the wrong result, as requiring that there be some one time
+at which Kant both was born and died. On the other hand, if it contributes two,
+things are not any better:
+P(P(Kant be born and die in Königsberg)
+Thisisn’ttherighttruthconditionseither: thisistrueprovidedthere’sapast
+time such that there’s a time before it when Kant lived and died. It still requires
+thattherebesomeonetimeatwhichKantbothlivedanddied,whichisnotwhat
+we want.
+Can we get past this problem? It seems what we would need is that the
+two temporal operators each target one and only one verb. But since temporal
+operators operate on the closest expression in their scope, we’d need to have one
+of the operators be in the conjunction following ‘and’. That is, as a first pass
+P(Kant be born and P(die in Königsberg))
+But that’s no good—syntactically, it doesn’t make sense because ‘P’ is a sen-
+tential operator, but what follows it is not a sentence but a verb phrase. What
+would we need is to make what follows ‘P’ be a sentence, and indeed a sentence
+which is at least truth conditionally equivalent to
+Kant be born and P(Kant die in Königsberg)
+Thiswillwork,atleastinallowingthepossibilityofspeakingoftwodifferent
+Kantstages,butitfacesexactlythesameproblemwe’vegoneintoindetailabove:
+there is no good reason to think that that is the structure of the sentence given to
+us by syntax. In particular, the conjunction that occurs in ‘Kant lived and died
+in Königsberg’ is a verb phrase conjunction and not, as required, a sentential
+conjunction. Ultimately, then, I think the modal operator analysis is no better
+than the quantificational one.
+5.Against the Predicate Analysis
+If the semantic claims of stage theory were true, then given what we know about
+the semantics of tense, we should expect that they could be spelled out in terms
+either of the operator or the quantifier theory of tense. Given that this is not so,
+we should lower our credence in the semantic claims of stage theory.
+· ·
+Ergo vol. 4, no. 24 2017
+·
+704 Matthew McKeever
+However, it remains possible that such claims could be made true in a dif-
+ferent way, with a different view about the semantics of tense. In this section I
+want to consider a view which several people, including reviewers for this jour-
+nal, have suggested has potential. Indeed, it can arguably found in Sider’s (1996:
+450) comments on de re temporal predication. He considers a sentence like
+(20) Clinton was once governer of Arkansas.
+and suggests that we should analyse it as a predicating, of Clinton, the property
+of previously being governer of Arkansas. That is, the tense in ‘was’ functions to
+form a complex predicate, and does not, as on the other analyses, contribute
+either a quantifier or an operator, with a semantic value that looks as so:
+was governer of Akarkansas = λs. there’s a past stage I-related to s
+(cid:74) (cid:75)
+which possesses the being the governer of Arkansas
+The name ‘Clinton’, in turn, when uttered at any given time, picks out the
+stage of Clinton at that time.
+On this view, it’s not that there are tenseless verbs which get acted upon by
+either being associated with bound temporal variables (on the quantifier view
+of tense) or by being in the scope of temporal operators (on the operator view).
+Rather, Ithinkthebestwaytounderstandthisviewisthattensecarryingexpres-
+sions like ‘was’ or the past tense morpheme ‘–ed’ are predicate modifiers, that is,
+expressions which take a predicate to yield a predicate.
+This view, it should be clear, will resolve the problem which this paper is
+centred around. The truth conditions of 7 will be that it’s true provided Kant
+has a past stage which was born in Königsberg, and a past stage which died in
+Königsberg, and this is exactly the right result.
+So far, so good. But I think a little attention will show us why this is ul-
+timately not a viable account of how temporal information gets expressed in
+natural language. The crucial observation that will enable us to see this is that
+thetenseofaverbsystematicallyaffectsotherelementsofthesentence,butpred-
+icate modifiers don’t behave like this.
+An example will show this. I’m a warden talking about a prison break that
+happened this morning. Consider two scenarios: in the first, the prisoners who
+tried to escape were caught. I describe this situation by saying,
+(21) Every fugitive was recaptured.
+In the second scenario, I have been less successful: I didn’t recapture any
+prisoners. I utter,
+(22) Every fugitive was born in Toronto.
+· ·
+Ergo vol. 4, no. 24 2017
+·
+A Semantic Problem For Stage Theory 705
+Thesearebothperfectlyfine, naturalsentences. Butthey’renotablydifferent.
+In the first, we are talking about former fugitives who have now been caught.
+That is to say, we are using an expression ‘fugitives’ to pick out not the current
+fugitives, but past fugitives. By contrast, in the second scenario, we are talking
+about current fugitives. Any theory of tense must respect the fact that we can
+get both readings.
+Now the reader’s first thought would be that we can explain this in terms
+of scope. In our first sentence, the tense introduced by ‘was’ scopes over the
+universal quantifier, and in the second, the quantifier scopes over the tense.
+But I just don’t see how to make sense of that on this view without collaps-
+ing it into either an operator or a quantificational theory. The key reason why
+the quantificational and operator theory can appeal to scope is because on such
+views tenses, although apparently predicative, actually introduce expressions
+which apply to sentences, namely either quantifiers with times in their domain
+or operators which operate on temporal propositions. If the predicate view is
+to be different—and it needs to be, because the other two views don’t work—it
+can’t say anything like this.
+But then it won’t be the case that we can account for both sentences. In
+particular, 21 will be the problem. The truth conditions we can get for it is
+that every fugitive is such that they have a past temporal part which possesses
+the property of being recaptured. But this is—absent any further story—talking
+about the current fugitives. That’s not what we want—we want to talk about the
+people who were fugitives at the time the verb is, intuitively speaking, ‘about’,
+namely the time of the recapturing. That is to say, we want the interpretation of
+the verb to affect that of the noun phrase ‘every fugitive’. I just don’t see how
+this can be if ‘was recaptured’ simply expresses the property of having previously
+been captured. 2 Accordingly, I don’t think the predicate analysis is viable.
+Before finishing, let me say something about David Lewis’s counterpart the-
+ory of modality. A referee suggested the following worry with my paper: if my
+argumentisright,thenitshouldapplyalsotocounterparttheory. Inparticular,if
+we were to try to develop a formal semantics for natural language in the spirit of
+counterpart theory, a sentence like ‘Kant could have been a musician and could
+have been a singer’ would run into exactly the same problem I presented above:
+we would need to look to two counterparts, but there is only one occurrence of
+the name ‘Kant’ in the sentence. Given this, it might seem strange that I didn’t
+urge this as an objection to counterpart theoretic semantics more generally, be
+they temporal or alethic.
+There are several reasons why I wrote the paper I did. The main one is that
+2.AndnotethatintheSiderpassagejustmentioned,todealwithanessentiallysimilar
+issue,heexplicitlyintroducessententialpasttenseoperators;we’veseenabovethatthatmove
+won’twork.
+· ·
+Ergo vol. 4, no. 24 2017
+·
+706 Matthew McKeever
+I felt less sure about the data in the case of alethic modality: while it’s beyond
+doubt that ‘Kant lived and died in Königsberg’ is a fine sentence, ‘Kant could
+have been a musician and could have been a singer’ is a bit clunky. Second,
+the syntax is also cleaner in the temporal case: it’s again beyond doubt that
+tensed elements like ‘–ed’ operate directly on verbs, and while I think it’s also
+clear that modal auxilaries like ‘could’ or ‘might’ do so too, it’s more open to
+doubt (we might be tempted to say that there’s a covert big PRO somewhere,
+for example). For these reasons I concentrated on stage theory. Nevertheless, I
+am tempted to think that the line of argument developed here does apply also to
+modal counterpart theory; but that’s work for another paper.
+6.Conclusion
+The stage theorist, then, can’t deal with our simple sentence. One might think
+that I haven’t conclusively shown this—that it’s possible that with sufficient in-
+genuity, the friend of stages will be able to come up a theory of tense that can
+avoid the problem I’ve posed. But I think there’s good reason to be pessimistic
+about this. For stage theory’s inability to deal with our sentence derives from a
+deepandfundamentalfactaboutlanguage,namely,andaswe’veseen,thattense
+elementsmodifyverbsandnotnounphrases. Butthestagetheoristiscompelled
+to say that such elements semantically work on noun phrases, to enable us to
+talk about past and future stages of objects. This mismatch between what stage
+theorists require of the semantics of tense, and what natural language actually
+delivers, rendersstagetheoryvulnerabletoproblemsliketheoneI’vesuggested,
+and supplies a good reason to disbelieve it.
+Acknowledgements
+I would like to thank Herman Cappelen, Josh Dever, Derek Ball, Ofra Magidor,
+audiences at the 2015 SPA in Glasgow, the 2016 Joint session in Cardiff, Arché,
+and CSMN, and several anonymous referees and the Ergo area editor for helpful
+comments on the material in this paper. I would also like the thank the AHRC
+and the Royal Institute Of Philosophy for funding this research.
+References
+Cresswell, M. J. (1991). Entities and Indicies. Kluwer.
+Goranko, Valentin and Antony Galton (2015). Temporal Logic. In Ed-
+ward N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Winter 2015
+ed.). Retrieved from https://plato.stanford.edu/archives/win2015/entries/
+· ·
+Ergo vol. 4, no. 24 2017
+·
+A Semantic Problem For Stage Theory 707
+logic-temporal/
+Hawley, Katherine (2001). How Things Persist. Oxford University Press.
+King, Jeffrey C. (2003). Tense, Modality, and Semantic Values. Philosophical Per-
+spectives, 17(1), 195–246.
+Kusumoto, Kiyomi (2005). On the Quantification Over Times in Natural Lan-
+guage. Natural Language Semantics, 13(4), 317–357.
+Postal, Paul Martin (1974). On Raising: One Rule of English Grammar and Its Theo-
+retical Implications. MIT Press.
+Prior, A. N. (1968). Papers on Time and Tense. Oxford University Press.
+Roberts, Craige (1987). Modal Subordination, Anaphora, and Distributivity (Unpub-
+lished doctoral dissertation). University of Massichusetts Amherst.
+Schaffer, Jonathan (2012). Necessitarian Propositions. Synthese, 189(1), 119–162.
+Schlenker, Philippe (2006). Ontological Symmetry in Language: A Brief Mani-
+festo. Mind and Language, 21(4), 504–539.
+Sider, Theodore(1996). AlltheWorld’saStage. AustralasianJournalofPhilosophy,
+74(3), 433–453.
+Sider, Theodore (2001). Four Dimensionalism: An Ontology of Persistence and Time.
+Oxford University Press.
+· ·
+Ergo vol. 4, no. 24 2017

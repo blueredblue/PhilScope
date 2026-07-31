@@ -1,0 +1,464 @@
+Aporia vol. 10 no. 2—2000
+Consciousness as a HOT Addition
+Brooke Bentley
+What makes a person conscious? Debates are raging: some argue
+that consciousness is merely phenomenal experience. Others
+say that consciousness must include an intentional aspect also.
+This paper will explore two requirements for the existence of state con-
+sciousness, both of which are necessary but not alone sufficient.1 In fact,
+although one side argues that the only requirement for a conscious mental
+state is the sensing of a stimulus, we will see that what actually makes a
+state conscious is the addition of a higher-order thought (HOT) to that
+sense experience.
+A simple thought experiment fleshes out this relationship between
+the HOT and the mental state sensing the stimulus. Suppose I have a
+nervous habit. Suppose that whenever I think intently about something, I
+bite my nails. Although I consistently bite my nails, the biting is not severe,
+so people have not commented on it. I therefore do not introspect my nail-
+biting habit. Suppose that I begin thinking intently about my future plans
+and I automatically bite my nails. Is my mental state conscious?
+Of course, I am thinking about my plans, so the intentional mental
+state of thinking and planning (or worrying) is conscious. Technically,
+some people might argue that I am also having the experience of biting my
+nails, and so my sensory mental state is also conscious. But I do not con-
+sciously feel how the nail grates against my teeth, or the particular taste of
+the nail in my mouth; I am completely absorbed in my thinking. I am not
+aware of my nail-biting state. The nail-biting is not conscious. Therefore,
+the mental, or sensing, state of biting my nails is also not conscious.
+1 The inquiry of this paper is state consciousness, as opposed to creature consciousness. While
+creature consciousness is merely the ability of a creature to have conscious mental states,
+state consciousness will be those mental states in which the subject is conscious, or aware, of
+something.
+2 Brooke Bentley
+However, suppose that in the midst of my worrying, I spontaneously
+notice, “I have been biting my nails again,” and think, “well, that’s okay;
+it’s not doing much damage.” At this point in time, my mental state has
+become conscious. I was previously oblivious to aspects of my experience
+in the physical world that are now conscious. How is it that this mental
+state has suddenly become conscious?
+Rosenthal, the main representative of the higher-order thought
+(HOT) theory, presents an accommodating explanation. He argues that
+my higher-order thought “oh, I am biting my nails” makes my nail-biting
+mental state conscious. However, Browne, using Dretske’s distinction
+between object and fact awareness, argues that Rosenthal’s theory fails
+because the fact awareness of the HOT is not sufficient to make my state
+conscious. In other words, Browne argues that the addition of the HOT to
+the sense experience is not sufficient, and even unnecessary, for a mental
+state to be conscious. I will argue that fact awareness is insufficient to
+make a state conscious, but it is nevertheless necessary. Although Browne’s
+arguments lead to incorrect conclusions about what is necessary and suf-
+ficient for consciousness, I will show that both object and fact awareness
+are necessary, though not independently sufficient, to make a mental state
+conscious. Nevertheless, the addition of a HOT, or fact awareness, to a pre-
+existing object-aware state (which is the common case) is often the deciding
+factor for whether state consciousness obtains: consciousness is a HOT
+addition.
+1. Rosenthal’s Higher-Order Thought Theory
+Rosenthal would say that my nail-biting mental state becomes
+conscious when I become aware of it. In this case, I cannot become aware
+of the state perceptually, because the content of the state exists percep-
+tually, although unconsciously, all along. I have the mental state that is
+entailed by my nail-biting the whole time, even though I am not aware of
+it. Instead, I become aware of the content of my mental state by virtue of
+the thought “I am biting my nails again.” This thought is a higher-order
+thought (HOT) about the lower-order mental state.
+Because this HOT is about the occurrent lower-order mental state,
+it makes me transitively conscious of that mental state. The HOT is being
+conscious of the state, thereby making me conscious of the state. The
+mental state, on the other hand, is what is conscious. I am made aware of the
+content, and therefore the mental state becomes intransitively conscious.
+Thus, according to Rosenthal, the mental state becomes conscious by
+virtue of the HOT.
+ConsCiousness as a Hot addition 3
+The general rule for state consciousness may be stated as the
+following: mental state M is conscious if and only if 1) subject S is in M,
+and 2) S has a suitable HOT about M. This rule, however, says nothing
+about the consciousness of the HOT. Because the HOT makes the subject
+transitively conscious of something else, and not the HOT itself, it follows
+that S will not become aware of the HOT itself. S will only become
+aware of that which the HOT is about, the content of the mental state.
+Because the HOT, itself, is unconscious, S will seem directly conscious of
+the mental state. The relation between the HOT and the mental state is
+non-inferential and nonobservational. Therefore, although consciousness
+is conferred by the HOT, it is direct and immediate. Such consciousness
+consists in such a relation explains the transparency of consciousness.
+However, if S introspects, then she becomes aware of her HOT,
+because a third-order thought makes her transitively conscious of her
+second-order thought. The mental state of her initial HOT would then
+become an intransitively conscious state. In the nervous habit example, I
+would thus become aware that I was aware that I was biting my nails, in
+that I recognize that I had before been oblivious to the state. Nevertheless,
+the third-order thought remains unconscious, because it is what makes me
+conscious of the second-order HOT, thus conferring consciousness upon
+the second-order mental state of the HOT.
+That HOTs can relationally confer consciousness does not entail that
+all HOTs are transitively conscious. That is, the presence of a HOT and the
+presence of a certain mental state do not entail each other. I could sponta-
+neously think, “I am biting my nails,” but not be biting my nails at all. In
+such a case, the thought would not have content. It would not make me
+transitively conscious or make any particular state intransitively conscious.
+Also, I could bite my nails and never have a HOT, never realizing that I was
+doing it. But my mental state would not be conscious.
+2. Browne’s Criticism (from Dretske)
+Browne, using a distinction of Dretske, argues that HOT theory
+does not sufficiently explain how a state becomes conscious. Dretske
+makes the distinction of the two kinds of awareness: object awareness
+and fact awareness. One is object-aware when one is directly conscious of
+something. Object awareness demands that the subject be aware of the
+mental state’s content by direct acquaintance. According to Browne, the
+moment I bite my nails, I am conscious of them. I feel them in my teeth, I
+hear the crunch, and I taste the peculiar texture. I am immediately aware
+of those sensations, which are the content of my mental state, and am
+4 Brooke Bentley
+therefore conscious of them. For Dretske and Browne, if I am thus directly
+acquainted with the content of my mental state, then the mental state is
+conscious. Therefore, object awareness is sufficient to confer consciousness
+upon a mental state.
+In this way, Browne contradicts Rosenthal’s claim that a mental state
+is made conscious by virtue of a HOT. According to Browne, a subject
+is naturally aware of her mental states, and thus acquainted with the
+content of those states; they are inherently intransitively conscious. Object
+awareness is sufficient for consciousness, and therefore states for which the
+subject is object-aware do not need anything extra in order to make them
+conscious.
+Browne explains that fact awareness, on the other hand, is when one
+is conscious that something is such and such a way. Fact awareness is not the
+awareness of actual acquaintance, but the awareness that a certain experi-
+ence exists. It does not make the subject acquainted with the content of the
+mental state, but only points to the fact that there is a particular state. For
+example, one might imagine an instance in which someone informed me
+that I was indeed biting my nails (and that there was a certain experience
+associated with the biting), at a time in which I was completely unaware of
+my upper body. Then I would only be fact-aware that I was biting my nails.
+Browne argues that this knowledge would not be sufficient to make my
+mental state conscious. Indeed, this information would not be sufficient
+to make me aware of the content of the associated mental state, because I
+would not be acquainted with that content. I would only know intellectu-
+ally that the state existed, albeit unconsciously. I would not have any more
+access to it.
+Book knowledge, or fact awareness, has a different epistemological
+virtue than experience, or object awareness. They are two different ways
+of conferring consciousness. Browne argues that fact awareness cannot
+confer the same kind of consciousness as object awareness because of their
+different epistemological access. Where object awareness is awareness of
+the content of a mental state, Browne wants to assert that fact awareness
+is only awareness that a state exists. While object awareness is directly and
+immediately associated with the content, fact awareness can only point to
+it.
+Browne argues that in Rosenthal’s theory, HOTs only make the
+subject fact-aware. Because they lack the directness and content of object
+awareness, they cannot sufficiently inform the subject about the content
+of the mental state. The fact awareness of HOTs makes a subject only ar-
+tificially transitively conscious; they cannot make the subject sufficiently
+aware of the mental state to make the mental state intransitively conscious.
+Consciousness that a certain mental state exists can never inform the
+ConsCiousness as a Hot addition 5
+subject of the content of that state. Therefore, fact awareness that a mental
+state exists is not sufficient to make the mental state conscious, but only
+informs the subject about the existence of some unconscious state.
+Browne offers two examples as support. First, subject S is told she
+has an unconscious desire. This thought does not make her mental state
+conscious. Second, thinking about technical brain processes does not make
+the corresponding mental states conscious. In both cases, fact awareness is
+not sufficient to confer consciousness on a mental state.
+Browne rightly recognizes that fact awareness can never give a subject
+object awareness. Fact awareness alone is not sufficient to confer conscious-
+ness upon a mental state. However, Browne wants to take this claim one
+step further. He claims that fact awareness is not even necessary for a
+mental state to be conscious. He argues that my knowing that you have
+a sore knee does not make your pain conscious. Similarly, my knowing
+that I have a sore knee does not make mine conscious. What makes me
+conscious is my object awareness, my immediate acquaintance with my
+sore knee. Thus, fact awareness is not necessary.
+Browne thus presents two points in opposition to Rosenthal. He
+argues that object awareness is sufficient for consciousness and that fact
+awareness is not necessary. However, both of these claims are inaccurate.
+I will argue that while object awareness is necessary to make a mental
+state conscious, it is not sufficient. I will also argue that fact awareness is
+necessary but not sufficient to make a state conscious. Both of these claims
+are consistent with Rosenthal’s theory.
+3. Object Awareness is Necessary but Not Sufficient.
+As Browne has shown, object awareness is necessary in order for a
+mental state to be conscious. A mental state cannot be conscious without
+object awareness because the mental state would lack content. The content
+of the object awareness is the mental state. Without it, there would be
+nothing for us to be conscious of. By saying that the mental state is
+conscious, we are essentially saying that we are object-aware of the content
+of that state. Thus, object awareness is necessary for a state to exist, and for
+a state to be conscious.
+Granted that object awareness is necessary, is it also sufficient
+to make a state conscious? Sufficiency does not follow logically from
+necessity, but in this case, Browne argues that it does. He argues that
+“object awareness, not fact awareness, is what makes the difference” about
+whether I am conscious of the pain in my knee. He argues that, to make
+a state conscious, only object awareness is capable of placing me in the
+6 Brooke Bentley
+required relation to that state. Only the object awareness of the mental
+state, the awareness of having the sore knee, can make the state conscious,
+and it does. My object awareness of the sore knee makes the corresponding
+mental state conscious. Therefore, Browne concludes that object awareness
+is sufficient to make a mental state conscious.
+However, two counter examples show that Browne’s conclusion
+cannot be right—object awareness is not sufficient to make a state conscious.
+These two counter examples present instances in which the subject is
+object-aware, but the corresponding mental state is not conscious. First,
+consider subliminal perceptions and blindsight cases. For example, blind-
+sight patient P cannot see in a certain visual field: she is blind in that field.
+In an experiment, she is shown vertical and horizontal mail slots in the
+blind field and then asked to deposit an imaginary letter in an imaginary
+slot. The remarkable result is that she often posts the letter in a slot that
+is vertical or horizontal, corresponding to the slot that she did not see in
+her blind field. Similar results from many experiments clearly show that
+subjects process information from their unconscious or blind fields.
+In these cases, subject S processes information, which entails the
+involvement of some mental state. She is even able to access the informa-
+tion of these mental states, although unconsciously, for related activities.
+In each case, S is acquainted with the content of the mental state, and
+therefore object-aware of the state. But S is not aware of her acquaintance
+with the content of the state because the state itself is unconscious. So, S
+is object-aware of the content of mental state, although the state is uncon-
+scious. Therefore, object awareness does not entail that a mental state is
+conscious; it is not sufficient to make a mental state conscious.
+Second, consider an instance in which a person drives to a destina-
+tion completely absorbed in his thoughts. Upon arrival, he wakes up and
+realizes that he cannot recall anything about the trip. He completed the
+process unconsciously, but he must have had some awareness in order to
+successfully maneuver the car to his destination. During the drive, he must
+have had rather extensive object awareness. He must have been aware of
+his car, the road, the way to get to the destination, unexpected or unusual
+elements along the way, etc. The content of his mental state must have
+been extensive and quite complex, and yet he cannot recall anything about
+it. He was object-aware of the content of the mental state, and yet com-
+pletely unconscious of that state. Therefore, the object awareness was not
+sufficient to make the mental state conscious.
+These two examples are representative of all the mental states that
+object awareness does not make conscious. Therefore, object awareness
+cannot be sufficient to make another mental state conscious. Object
+ConsCiousness as a Hot addition 7
+awareness is thus necessary, but not sufficient, to make a mental state
+conscious.
+4. Fact Awareness is Necessary but Not Sufficient.
+As Browne has shown, fact awareness is not sufficient. A mental state
+with only fact awareness is not conscious. For example, Browne argues
+that if someone tells subject S that she has an unconscious desire, S would
+not thereby become conscious of that mental state. The thought, or being
+only fact-aware about her desire, does not make her mental state conscious.
+Therefore, fact awareness cannot make mental states conscious. Similarly,
+Browne argues that thinking about technical brain processes does not
+make the corresponding mental states conscious. Being fact-aware of the
+physical processes does not make conscious the mental state that has those
+processes as content. Therefore, fact awareness is not sufficient to make a
+mental state conscious.
+However, Browne then makes an invalid inference, and concludes
+that since HOTs are not sufficient for consciousness, they are also not
+necessary. He argues that they are not needed in any way to make a mental
+state conscious. Fact awareness alone of a sore knee, or only knowing that
+I have a sore knee by virtue of a HOT, does not make the mental state of
+having the sore knee conscious. He argues that only the sore knee itself is
+sufficient to make the state conscious.
+Nevertheless, Browne does not argue for this conclusion, he merely
+asserts the claim. Rosenthal’s theory conceptually proves why this claim
+is false. As previously discussed, when we become aware of a mental state,
+then the state is intransitively conscious. Something is required to make
+us thus aware of the mental state; we are not inherently aware. This is
+demonstrated by the examples in which the subject is object-aware, but the
+states are nevertheless unconscious. In such cases, the subject is acquainted
+with the content of the mental state, but unaware that she has the state.
+Therefore, object awareness is not sufficient to make a state conscious.
+Something else is required to put the subject in the necessary relation to
+the mental state to make her thus aware.
+That something, in Rosenthal’s theory, that is required to make the
+subject aware, is the HOT. Intransitive state consciousness comes from a
+relation between the subject and the HOT that makes the subject aware of
+the state. Only through the relation of the HOT to the mental state, can
+the state become conscious. So, while fact awareness is not sufficient, it is
+necessary to make the mental state conscious. Consciousness, or sufficient
+awareness of the state, is not possible otherwise.
+8 Brooke Bentley
+So, for Rosenthal, object awareness of the sore knee is not sufficient
+to make the mental state conscious. The soreness could exist without it
+being conscious. But, when I have a HOT that “my knee is sore,” and am
+thus fact-aware of the knee’s condition, then I am sufficiently aware of
+the mental state associated with having a sore knee—the mental state is
+conscious.
+Similarly, when I unconsciously bite my nails, I am directly acquaint-
+ed with the content of that mental state, even though I am not consciously
+aware of it. However, when I spontaneously have the HOT, “I am biting
+my nails again,” then this fact awareness makes the mental state conscious.
+Therefore, in both examples, the fact awareness is necessary to make the
+mental state conscious. In both cases, the state would not have otherwise
+been conscious. Fact awareness is thus not sufficient, but necessary, to
+make a mental state conscious.
+5. A Rosenthalian Defense
+Object awareness and fact awareness are each necessary to make a
+mental state conscious. Without either one, the state cannot be conscious.
+Rosenthal’s theory is consistent with this claim. It specifically points
+out the necessity of fact awareness. But Browne misinterprets Rosenthal
+when he assumes that Rosenthal denies that object awareness is necessary
+to make a state conscious. Rosenthal assumes the necessity of object
+awareness. Only when the subject is object-aware does the possibility exist
+for the state to become conscious. Only a HOT that is an addition to a
+mental state that already has object awareness can sufficiently make the
+state conscious. So, Rosenthal grants the necessity of object awareness,
+along with the necessity of fact awareness.
+One might argue against the necessity of either object or fact
+awareness by arguing that one or the other is sufficient in itself. Upon
+examination, however, every such claim ignores the actual presence of the
+other awareness. As shown, when Browne claims that object awareness is
+sufficient, he ignores the essential role of fact awareness that makes the
+state conscious. The necessity of fact awareness to make the state conscious
+proves that object awareness is not sufficient.
+One might also argue that fact awareness is sufficient to make a state
+conscious. For example, one might argue that fact awareness can make one
+conscious of a difference or change in mental states, thereby making the
+mental state conscious. Even though a subject is not directly acquainted
+with the content of a state, she detects that a change has occurred; she is
+ConsCiousness as a Hot addition 9
+fact-aware that the content of the state is different. Therefore, the state is
+conscious, and fact awareness is sufficient to make the state conscious.
+However, this cannot be completely accurate. Fact awareness seems
+sufficient because one ignores the implicit object awareness. In order for the
+subject to be fact-aware that a change has taken place in the mental state,
+she must have had some awareness of the content of that state. Therefore,
+she must have also had object awareness, no matter how unspecified, in
+order to discern the change. Thus, although fact awareness appears to be
+sufficient, this case presupposes object awareness, which is also necessary.
+Browne interprets Rosenthal as making this kind of incorrect claim.
+He argues that, in the special case of introspection, Rosenthal claims
+that the third-order, pure fact awareness of the second-order HOT makes
+the second-order HOT conscious. According to Browne, the conscious-
+ness appears to arise from only fact awareness and no object awareness.
+Browne says that this is like the invalid claim that because I have a thought
+about the moons of Jupiter (thus being fact-aware about the moons) I am
+conscious of the moons (thus being object-aware of the moons). However,
+both Browne’s interpretation and analogy of Rosenthal’s argument are
+inaccurate.
+Rosenthal argues that when a second-order HOT becomes conscious
+by virtue of a third-order thought, the second-order thought becomes the
+content of the intransitively conscious mental state. So, the third-order
+thought makes the subject fact-aware that there is a mental state with the
+content of the specific second-order thought. But the second-order thought
+is the content of this mental state in a special way: knowing that the second-
+order thought exists is knowing the second-order thought by acquaintance,
+because the thought is so specific. In introspection, the subject becomes
+object-aware of the second-order thought because the third-order thought
+necessarily gives the subject fact and object awareness of that mental state.
+Therefore, although fact awareness seems to be sufficient to make a mental
+state conscious, the fact awareness also entails (and produces) an object
+awareness in the subject. Both awarenesses make the state conscious. Fact
+awareness is not sufficient, because object awareness is also necessary.
+Browne argues that Rosenthal claims that introspection (misin-
+terpreted to be a third-order thought that produces only fact awareness)
+makes the second-order HOT conscious. We have seen how this is inac-
+curate in two respects: 1) the third-order thought also makes the subject
+object-aware, so Rosenthal is not claiming that fact awareness is sufficient
+for the state to be conscious, and 2) it is the mental state which contains
+the HOT, not the HOT itself, that is conscious. Browne argues that this
+(misinterpreted) argument is like saying that thinking about the moons of
+10 Brooke Bentley
+Jupiter makes me object-aware of them (and therefore conscious of them).
+This analogy fails in two ways.
+First, Rosenthal’s introspection argument is not analogous to
+Browne’s example. The introspection instance is qualitatively different
+from any other instance; the content of the second-order state is quali-
+tatively different from the content of the third-order state. Second-order
+states can have a wide variety of contents, but third-order states can only
+have the highly specified mental states that contain only a HOT that
+makes another state conscious. This distinction is not maintained in
+Browne’s analogy because the second-order state does not contain a HOT
+that makes another state conscious. It merely contains thoughts about the
+moons of Jupiter.
+Second, Rosenthal would not even claim that the mere fact awareness
+of thinking about Jupiter’s moons would confer object awareness about
+them. The thoughts are not suitable HOTs, only thoughts. However, while
+the content of this kind of thought cannot make a person object-aware,
+the thought itself is the content of some other mental state. The subject
+is automatically object-aware of having the thought. So, if the subject
+had a thought about having the thought, thereby becoming fact-aware of
+the second mental state (the object awareness already existing), then the
+mental state about the thought would become conscious. The thought
+about the moons of Jupiter is not conscious, but the mental state of having
+the thought would be conscious. The mental state of the thoughts is inde-
+pendent of the subject’s actual experience of the moons.
+Rosenthal argues that fact awareness is not sufficient for a mental
+state to become intransitively conscious, because object awareness is also
+necessary. A subject becomes conscious of a mental state when she has
+both fact and object awareness.
+6. Consciousness is Often a HOT Addition.
+The addition of a suitable HOT is often what makes conscious the
+state that has object awareness. The positive existence of the HOT, and
+not the existence of object-awareness, is the determining factor of whether
+a state becomes conscious. The presence of the HOT reflects a difference
+between fact and object awareness. While a subject is acquainted with
+the content of a mental state, the state is nevertheless often unconscious.
+The deciding relation that makes the state conscious is lacking. But, with
+the addition of a HOT to an already existing object awareness, the state
+becomes conscious.
+ConsCiousness as a Hot addition 11
+However, the HOT must be a suitable one. Browne argues that
+thinking about one’s physical brain processes does not make one’s mental
+state conscious. Although one has fact awareness that the processes do
+exist, one lacks object awareness or direct acquaintance with them.
+However, Browne is once again missing the point. If one is thinking about
+physical brain processes (or the moons of Jupiter), then one’s mental state
+does not contain the information about the processes but contains the
+thoughts. So, no HOT is going to make one directly conscious of, or ac-
+quainted with, the brain processes. But, a HOT about the thinking about
+the processes would be sufficient to make the mental state conscious. One
+is already directly acquainted with the thoughts. The addition of a suitable
+HOT would make the state conscious.
+Similarly, Browne argues that my knowing that you have a sore knee,
+or my being fact-aware that you have a sore knee, does not make my mental
+state conscious. This is true, not because fact awareness cannot make a
+person’s mental state conscious, but because that knowledge is not the
+content of my mental state. Again, the content of my mental state would
+be the thinking or knowing. To make that state conscious, I would need
+a HOT about that thinking or knowing. The HOT (if it is one) that your
+knee is sore is not sufficient to make my mental state conscious.
+Browne also argues that my knowing that I have a sore knee is not
+sufficient to make conscious my mental state of having a sore knee. Again,
+this is also true, not because fact awareness is not necessary, but because
+object awareness is also required. If someone were to tell me that I had a
+sore knee, but I did not feel pain, the mental state of feeling pain would
+not be conscious (or perhaps even existent). However, if someone informed
+me that my knee was sore and then punched it really hard, the mental
+state of that pain would immediately become conscious. If I am object-
+aware of the soreness, then the additional HOT makes my mental state
+conscious. Otherwise, the possibility still remains that I would not notice
+the soreness, because the object awareness is not sufficient to make a state
+conscious. In both of these instances, the addition of the suitable HOT is
+the final requirement needed to make the mental state conscious.2
+While cases exist where object awareness is added to an already
+existing HOT to make a state conscious, they are unusual. For example, in
+2 One might object that a suitable HOT might not exist for every mental state, even if the subject
+is already object-aware. For example, even though the blindsight patient is object-aware of the
+content of her mental state, no HOT might make that state conscious. This only means that
+while object and fact awareness seem to be generally sufficient to make a mental state conscious
+when they are combined, they are not always sufficient.
+12 Brooke Bentley
+a case of mental illness, a person could have a genuine HOT about a mental
+state but not have the mental state. A hypochondriac might think that he
+has a serious illness but have none of the physical symptoms. Nevertheless,
+in his mental illness, he might physically feel that he has the actual illness.
+From his false fact awareness, he creates the mental state associated with
+his nonexistent sickness and is thus object-aware (although falsely so) of
+that state. The mental state associated with his sickness thereby becomes
+conscious, although not genuine. Therefore, object awareness that is added
+to fact awareness can make a mental state conscious, although in a peculiar
+way.
+The far more common occurrence in making a mental state conscious
+is the addition of a HOT. So, contrary to Browne’s claim, consciousness is,
+in part, is derivable from a HOT. That is, consciousness is often the result
+of adding a HOT to a mental state. While object or fact awareness alone
+is not sufficient to make a mental state conscious, they are both necessary.
+So, when I am absorbed in my thoughts, chewing on my nails, I am truly
+oblivious to the world. But, given my object awareness, albeit unconscious,
+of my nail-biting state, when the fact awareness of the HOT comes along,
+informing me that I am biting my nails, my state is made conscious. Then
+maybe I can do something about it—consciousness is a HOT addition.
+Works Cited
+Browne, Derek. “Consciousness is not HOT.” http://www.phil.canterbury.
+ac.nz/derek_browne/hot.html.
+Rosenthal, David. “A Theory of Consciousness.” In The Nature of
+Consciousness: Philosophical Debates, edited by Ned Block, et al., MIT
+Press, 1997.

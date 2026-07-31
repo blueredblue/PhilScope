@@ -1,0 +1,336 @@
+Aporia, Vol.1, No. 1 (FaU 1991)
+Husserl and Meaning
+Karl Shurts
+Edmund Husserl's phenomenology is an attempt to explain the
+relationship between consciousness and the world. Using the
+concept of noema, he articulates a theory of perception accounting not
+only for visual perception, but for all other acts ofc onsciousness as well.
+In this theory, all acts of consciousness are intentional and therefore
+interpretations. Because of this, his theory has some interesting impli
+cations in meaning theory, specifically textual interpretation. Husserl
+escap)es radical relativism by linking acts of consciousness to inten
+tional objects through noemata, or intensional entities. There may be
+many interpretations of an object, or a text in this case, however each
+will always be in some way related to the text Not just anything
+someone says about a text will be an actual interpretation of that text.
+This will become clearer as we examine Husserl's theory of intention-
+ality.
+The fundamental concept in Husserl's theory of intentionality is
+the noema. In order to gain a general understanding of the noema, we
+will first define it in terms of visual perception, keeping, in mind that
+perception for Husserl is not restricted to sight. Aron Gurwitsch defines
+the noema as' "the object as it is intended', i.e., as the object in question
+appearing in a certain manner of presentation... an object capable... of
+appearing in different manners of presentation"( 1982,65). The noema
+is not itself the object,b ut it is the object as it is perceived,i .e., perceived
+in one manner rather than another. Because an object can be perceived
+in different ways, from different points of view, there will be many
+noemata referring to the same object. For example, although there is
+only one tree standing before me, there are many different ways of
+looking at it, e.g., from the north side, from the south side, from the air,
+etc.
+These several ways of looking at the tree, these noemata, are
+grouped around a central core-stratum to which they all relate. This
+core-stratum is not itself the object, rather the relations between the
+multiplicity of noemata involved in viewing a single object (Husserl
+43
+1982,218 & §97). By stating this, Husserl is able to account for several
+different acts of perception involving the same object. For example,
+though I may see the tree from the north and later the south side,t hereby
+experiencing different perceptual acts with different noemata,1 can still
+say that I see the same tree by virtue of this core-stratum. This complex
+structure is the unity of consciousness.
+Having distinguished between the noema and the actual object, we
+must now mention a third distinction, the act ofp erception itself. For
+every perceptual act there is one and only one noema.T he noema is not
+itself the act, nor is it ontologically dependent upon the act. Visual
+perception exists in space and time; when I see,I always see some thing,
+some where,s ome time. However,t he noema is an ideal, abstract entity
+existing neither spatially nor temporally. For example, if the tree I am
+looking at is destroyed, the noema involved in the perceptual act will
+continue to exist (237).
+Up until now we have used the term 'perception' in the usual sense
+to gain a basic understanding of the noema. However, as we mentioned
+earlier, Husserl does not restriet his definition of perception to sight.
+Rather, he uses the term acts of consciousness to include all other
+perceptions:f orexample,r emembering,i magining,h allucinating,d ream
+ing.
+The structure ofc onsciousness is critical to Husserl's system.E ach
+act of consciousness, like the perceptual act, has a noema, therefore, it
+is intentional. It is intended, or directed toward an object. This object
+need not be a tree or any physical object, it could be a memory, an
+abstract thought, a fictional story, etc. In each case, the object is called
+the intentional or intented object because it is intended by someone,b y
+a consciousness,s o to speak. Consciousness,f or Husserl,i s intentional,
+i.e., it is always conscious of something. This is the fundamental
+structure of consciousness for Husserl.
+Another important aspect of consciousness, specifically involv
+ing visual perception,i s its ability to make sense of,o r objectivate" raw
+sense data," or hyle by referring them to their object. Husserl wants to
+distinguish between non-intentional sti^, and acts of intention or
+perceptioa The hyle are more or less moments,o r phases in a perceptual
+act that are given sense, or meaning by virtue of the noematic structure
+of consciousness:
+We find such concrete really immanental Data as components in more
+44
+inclusive concrete mental processes which are intentive as wholes;
+and, more particularly, we find those sensuous moments overlaid by
+a stratum which, as it were," animates," which bestows sense... —a
+stratum by which precisely the concrete intentive mental process
+arises from the sensuous which has in itself nothing pertaining to
+intentionality. (Husserl 1982,203)
+This idea ofc onsciousness giving meaning to sense data is reminis
+cent of Kant and his a priori categories. How does Husserl's account
+differ from Kant's? Kant posits the "thing-in-itself," or the noumenon
+that is then filtered through the a priori categories oft he mind producing
+a phenomenon.T he "thing-in-itself'i s never experienced. However,i n
+Husserl's case, there is no noumenon, nor are there a priori categories
+to be imposed upon it. Our knowledge of the object is transcendental in
+that the object ofi ntention and the actual thing out there in the world are
+not to be distinguished from one another( Smith and Mclntyre [quoting
+Husserl] 1982, 85).
+Nevertheless, Husserl wants to maintain this distinction between
+"sensuous data" and intentional acts, or acts of consciousness. How
+ever,u nlike Kant who maintains thate very perceptual act has a noumenon
+as its foundation, Husserl remains undecided as to whether all acts of
+consciousness must have a hyletic foundation. He leaves this possibil
+ity,o pen continuing to affirm the importance ofh yle in phenomenology:
+On the other hand, we leave it undecided at first if the characteristics
+essentially making up intentionality can have concreteness without
+having sensuous foundation. Be that as it may,t his remarkableduality
+and unity ofs ensuous and intentive plays a dominant role in the whole
+phenomenological sphere Phenomenological considerations and
+analyses which specifically concern stuff [raw sense data] can be
+termed hyletic-phenomenological ones just as, on the other hand,
+those relative to the noetic moments can be termed noetic-phenom-
+enological considerations and analyses. (Husserl 1982,204-7)
+Therefore, acts of consciousness are always directed toward some
+thing, not to an unknowable entity as in Kant. This directedness or
+intentionality is the foundation of phenomenology: "to the things
+themselves." This is clearly Husserl's point of view:" The concept of
+intentionality, apprehended in its undetermined range, as we have
+apprehended it,i s a whoUy indispensable fundamental concept which is
+45
+the starting point at the beginning of phenomenology" (202).
+Before we can see how Husserl's theory applies to textual interpre
+tation, we must further define Husseil's concept of noema. Husserl
+discusses two aspects or components of the noema: Sinn and Gegeben-
+heitsweise. Generally, Sinn is the component that accounts for an act's
+directedness to its object and can be shared by other noemata having the
+same object. This sharing is essential to the core-stratum and the unity
+ofc onsciousness mentioned earlier, which enable us to be conscious of
+an object in different modes, yet still refer the same thing. For example,
+I may look at a tree from one side and later from another, each of these
+acts has a noema which in turn have their Sinns. However,i n this case,
+the two acts ofj )erception share the Sinn by virtue of the intended object
+and the unity ofc onsciousness (Husserl 1982,§ 97). Although the term
+'Sinn' is used by Husserl to denote a component of the noema,i t is also
+used to refer to the whole noema itself.
+Gegebenheitsweise accounts for the way,o r mode,i n which an act
+correlates to its object. It is the aspect that grants the noema its
+individuality in that it is not shared by other noemata with the same
+intentional object This mode, or way of appearance is the act's thetic
+character. For example, referring to the tree mentioned earlier, I may
+actually look at it from several different angles on one day, see it in a
+picture on another, or simply think of it later on. All of these acts have
+different thetic characters. The ways in which they appear are different
+in every case. This Gegebenheitsweise, or "way of givenness," is
+different in each case, thus accounting for the individuality of each act
+ofc onsciousness.T hese noemata are thus related through theirS inn,a nd
+unrelated in their mode of appearance. In this way,n o two noemata wiU
+ever be exactly the same. This distinction wiU be important later in our
+discussion of textual interpretation.
+With respect to meaning theory,t he noema,a s an intentional entity
+is another term for meaning in general. Husserl says: "The noema is
+nothing but a generalization of the idea of meaning( Sinn)t o the field of
+all acts"( Fpllesdal [quoting Husserl] 1982, 74). In German,S inn can
+mean "sense,"" meaning," or even "mind." Sinn, as mentioned earlier,
+can also be a synonym for the whole noema, according to Husserl. It
+need not be restricted to a single component of the noema. The noema,
+then, because it is intentional or directed by someone to something,i s a
+meaning, a volition or willing (Husserl 1982, 233). It is also then, an
+interpretation because it is intending one meaning rather than another.
+46
+For example, in my viewing of the tree from the north side, I interpret
+the tree as a tree seen from the north side and not from some other
+perspective.
+From our discussion oft he noema,i t follows that every intentional
+act of consciousness is a meaning and therefore, an interpretation. In
+other words,e very act of consciousness, with its noema,t hat we intend
+is also an interpretation of an intentional object, or the thing intended.
+Husserl distinguishes here between an inten/ional object,o r the thing in
+actuality, and an intentional entity, or the full noema.
+Husserl believes that these intensional entities can be expressed in
+language. For him,e very linguistic expression is an intensional entity,
+or noema expressed. This meaning expressed in language is called a
+Bedeutung, as opposed to the Sinn of a noema. Both are meanings; the
+former is characterized as expressed, the latter is not defined in terms of
+linguistic expression. Meaning does not lie in the words expressed,
+rather they are an integral part of noemata, which are in tum aspects of
+our mental processes. For Husserl,l anguage serves to make public the
+intentional acts of consciousness: "All expressions in communicative
+speech function as indications. They serve the hearer as signs of the
+"thoughts" of the speaker, i.e., of his meaning-giving (sinngebenden)
+mental processes (psychischen Erlebnisse)" (Smith and Mclntyre
+[quoting Husserl] 1982, 83).
+These meaning-giving mental processes involve consciousness'
+ability to objectivate, give meaning, or make sense of objects toward
+which they are directed. Much like consciousness gives meaning to
+hyletic data, it also gives meaning to words.T he meaning it gives is the
+Sinn or the intensional noema, and the meaning expressed is the
+Bedeutung. Words are animated, so to speak, by virtue of the noematic
+structure of consciousness. Husserl explains:
+In speaking we are continuously performing an internal act of mean
+ing (act of meaning=Meinen), which fuses with the words and, as it
+were, animates them. The effect of this animation is, that the words
+and the entire locution, as it were, embody in themselves a meaning
+(Meinung),a nd bear it embodied in them as their sense( Sinn).[ In] the
+act of meaning (Meinen) ... there is constituted ... the meaning
+(Meinung)—that is, the Bedeutung, the Sinn—expressed in the
+locution.( Smith and Mclntyre [quoting Husserl] 1982, 85)
+Although Husserl says that every linguistic expression is a noematic
+47
+Sinn expressed, the Gegebenheitsweise or thetic character the other
+component of the noema, is not expressed in language. In fact, it can
+never be expressed except within a different" speech-act"m entioning or
+describing the thetic character other. The latter act always takes place
+earlier than the former in time. For example,i fI say" That man is a good
+writer," the thetic character is the unsaid "I judge that..." aspect. This
+aspect can only be expressed by saying another sentence:" Ij udged that
+this man is a good writer." However,w e note that even this last sentence
+has itself a thetic character: "Ij udge that I judge that..." which is not
+expressed in the words. Husserl maintains that although the thetic
+character of a noema is not expressed, it remains an essential part oft he
+noema and therefore the linguistic expression as well. The thetic
+character is, as it were," understood," and essential to the meaning given
+to the linguistic expression.
+Another important point should be mentioned here regarding
+meaning. Although Bedeutung is a noematic Sinn expressed linguisti
+cally, it remains essentially part of the noema, which is an ideal entity.
+Therefore, we might ask at this point how we could ever know this ideal
+meaning in order to express it in language. To answer this question,
+Husserl discusses what he calls phenomenological reduction. The
+ability to bridge the gap between this ideal entity and language rests in
+the noema's close relationship to consciousness. Phenomenological
+reduction is consciousness' ability to know noemata and thereby be able
+to express them linguistically. Although acts of consciousness and
+noemata remain ontologically different, as stated earlier, their exis
+tences coincide so closely that we never find an act of consciousness
+without a noema to accompany it.
+This point has many implications in meaning theory. Meaning is
+not a part of the words expressed, rather it is a part of the underlying
+noema which animates those words. This noema is or comes to be in
+conjunction with an act of consciousness; one is never found without
+the other. Furthermore, this act is always directed toward an intentional
+object as such. Thus, meaning and interpretation do not exist outside of
+this intimate, complex relationship between noema, act of conscious
+ness and intended object.
+Specifically, how does all this relate to textual interpretation? For
+Husserl,l ike anything else, a text can also be an intentional object.T hus,
+a text does not itself have meaning,s ince meaning lies in the noema of
+the act ofr eading,i nterpreting,e tc. If this is the case, and meaning does
+48
+not lie in the text, how does Husserl's theory avoid radical relativism, if
+at an? How does his theory prevent anyone from saying that anyone's
+and everyone's interpretation of a text is correct since the text itself
+cannot serve as a criterion for verification?
+First ofa U, Husserl's theory is not itself concerned with the idea of
+"correctness"o r" verification." For him,t here are simply different acts
+ofc onsciousness having different noemata, which are in turn composed
+of both common and imshared components. His main point is that each
+noema is an interpretation, a meaning.T o generate a theory ofi nterpre
+tation from his philosophy is not an easy task. However,a n answer to the
+question of relativism asked earlier may be found within the relationship
+between noema, act and intentional object
+As mentioned earlier it is possible for me to have several acts of
+consciousness with equal or differing thetic characters directed toward
+one intended object. It is consciousness' ability to unify that enables me
+to say that I "perceive" the same object This is the noetic core-stratum
+ofc onsciousness.T herefore,i t follows that I may have several different
+interpretations, meanings,o r noemata of a text yet still refer to the same
+text.T he interpretations will be different in terms oft hetic character and
+perspective, so to speak. However, it may be that because of this core-
+stratum and the fact that my interpretations are always directed toward
+a specific object, i.e. the text, that I am not able to say just anything. All
+my interpretations have something in common:a noematic relationship
+with the object to which they are intended. Granted, interpretations are
+relative to each person's perspective in an act of interpretation, but not
+radically relative to anything that anyone would want to say.
+Husserl's point is that each perspective is related not only to the act
+ofi nterpretation,b ut also to the text itself. In this way each interpretation
+will always be related and thus grounded in the relationship it has with
+the text
+This may account for differing interpretations within one person's
+consciousness, however, how do we account for differing interpreta
+tions among different people? The answer seems to be linked with
+linguistic expression. According to Husserl's theory, two people could
+be intending the same object, but from the same or different perspec
+tives. Whether their thetic characters correspond to each other or not is
+not important: e.g., I could think of an object and someone could be
+looking at it directly, yet the intentional object would essentially be the
+same.T he difference would lie in the intentionality, in that I perceive it
+49
+in this manner, and he perceives it in this other manner.
+Husseil might say that it is through language that we come to
+understand that we both intend the same object by virtue of the noema,
+or Sinn of each act of consciousness that can be expressed in language.
+Therefore, in terms of textual interpretation, I can know through
+language whether someone is intending the same text that I am. In this
+case,i f someone were to say that this essay talks about chicken soup,I
+could construe either that he is wrong, or that he is intending another
+object,i maginary,a bstract or whatever. Husserl would probably say that
+the latter is the case.
+Therefore,i t appears that the boundaries or parameters that enable
+Husserl to escape radical relativism are the objects of intention them
+selves by virtue oft heir being intended by a consciousness coupled with
+their noematic Sinn expressed in language. These parameters are not at
+all sharp and distinct as they are in an objective theory of interpretation
+where a single meaning is inherent in the text. Meanings are there, but
+they are not in the text, nor are they solely in consciousness. Rather they
+exist in the relationship between the text and the person in the form of
+intentionality.
+One final point should be made about Husserl's theory of meaning.
+Although he does state that every noematic Sinn can be expressed in
+language, he does not say that every Sinn has found expression or that
+the human mind has the capability to express them all:
+There is... no intrinsic connection between the ideal unities which in
+fact operate as meanings( Bedeutungen),a nd the signs to which they
+are tied.... We cannot therefore say that all ideal unities of this sort are
+expressed meanings. Wherever a new concept is fonned, we see how
+a meaning becomes realized that was previously unrealized. As
+numbers—in the ideal sense that arithmetic presupposes—neither
+spring forth nor vanish with the act of enumeration,... so it is with
+... meanings... to which being thought or being expressed are alike
+contingent. There are therefore countless meanings which ... are
+merely possible ones, since they are never expressed, and since they
+can, owing to the limits of man's cognitive powers, never be ex
+pressed. (Smith and Mclntyre [quoting Husserl] 1982,88)
+Therefore, not only can there be several interpretations of a given
+text, but there also remains many potential interpretations of the same
+text.T hus,n ot only can we have several interpretations of,s ay the Bible,
+50
+but we will continually be able to discover new interpretations that have
+not as of yet been expressed. This theory seems to pull the rug out from
+under anyone who would claim to have the final and definitive interpre-
+ation of any given text
+T0 conclude,H usserl's theory ofi ntentionality is powerful not only
+in that it allows for many interpretations of a text, but it avoids radical
+relativism by grounding acts of consciousness, or interpretations in the
+text itself as an intentional object and in the noema,t he text interpreted
+as such. This relationship binds aU textual interpretations to the text in
+question, eliminating claims that any interpretation whatsoever is valid.
+Bibliography
+Husserl,E dmund.I deas Pertaining to a Pure Phenomenology and to a
+Phenomenological Philosophy, First Book: General
+Introduction to a Pure Phenomenology, trans, by Kersten F
+London: Martin Nijhoff Publishers, 1982.
+Gurtwitsch,A ron."Husserl's T heory ofthe Intionality ofC onsciousness."
+inHusserl,I ntentionality and Cognitive Science,e d. by Hubert
+L. Dreyfus. Cambridge: MIT, 1982.
+F0llesdal,Dagfina"HusserrsNotionofNoema."in//itfjer/,/n/enriomz/-
+ityandCognitiveScience, ed.b y HubertL.D reyfus. Cambridge:
+MIT, 1982.
+Smith,D avid Woodruffa nd Ronald Mclntyre.H usserl andIntentionality:
+A Study ofMind,M eaning,a nd Language. Holland: D. Reidel
+Publishing Company, 1982.
+51

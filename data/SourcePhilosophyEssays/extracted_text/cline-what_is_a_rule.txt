@@ -1,0 +1,349 @@
+Aporia vol. 10 no. 2—2000
+What Is a Rule? An Analysis of Rules and
+Music in Wittgensteinian Thought
+Erin M. ClinE
+Even in music, the art for which Wittgenstein had the
+greatest feeling, he showed above all a great understand-
+ing . . . When he played music with others . . . his interest
+was in getting it right, in using his acutely sensitive ear
+to impose upon his fellow musicians an extraordinary
+exactitude of expression. One could even say that he was
+not interested in creating music, but in re-creating it.
+(Monk 240)
+The tremendous affinity Ludwig Wittgenstein exhibited for music is
+undeniable. His interest in re-creating music is an expression of the
+blending of this affinity and the concept of rules within his philo-
+sophical work. It is evident from the manner in which he integrated music
+into the body of his work that music not only occupied a primary position
+within his life, but also was present in his thought process. Wittgenstein
+insisted upon the fact that there had been six great composers: Haydn,
+Mozart, Beethoven, Schubert, Brahms, and Labor, and their music
+permeated his life and his mind (Monk 8). Wittgenstein’s work regarding
+rules illustrates the presence of music within his philosophy. Wittgenstein’s
+discussion of how one learns a rule is indicative not only of what a rule is,
+but of the impossibility of providing an analytic definition for it, and the
+necessity of the use of examples both in learning rules and in understand-
+ing what they are. Furthermore, the implications of this discussion can
+be accurately depicted using examples from the compositions of Haydn,
+Mozart, Beethoven, Schubert, and Brahms, and within the music of these
+composers, Wittgenstein’s manner of doing philosophy is embodied.
+The introduction of music into Wittgenstein’s philosophical explora-
+tion of language is justifiable not only as a result of its intricate involve-
+ment in his life, but also due to the evidence of it in Wittgenstein’s work.
+16 Erin M. ClinE
+“Understanding a musical phrase may also be called understanding a
+language,” he wrote (RPP2 par. 503). Wittgenstein exhibited his belief in
+this principle through repeated utilization of music as a device with which
+to describe the concept of language. Wittgenstein approaches language
+primarily through the notion of a language-game, in which he finds the
+analogy of the rules of language and the rules of games particularly produc-
+tive. The concept of a rule, in Wittgenstein’s work, is a family-resemblance
+concept, which indicates that there is no essence to rules, only common
+features or resemblances (PG 116–17). Thus, the pursuit of a definition of
+a rule is futile, but the discovery of a rule’s features is best displayed by the
+process in which we learn those rules.
+The comparison of speaking language to playing a game is funda-
+mental to the apprehension of the manner in which rules are learned.
+Wittgenstein compares the game of chess to the speaking of language:
+speaking to playing chess, words to chess pieces, explanations of words
+to the rules of chess, and meanings of words to the powers of chess pieces
+(Baker 154). In consideration of Wittgensteinian musical tendencies, this
+concept can be productively employed musically: speaking is like playing
+a Beethoven sonata, words are notes, explanations of words are the rules
+of music (largely the relationship of notes in a score to hand movement,
+according to Wittgenstein) and meanings of words are the powers of
+symbols indicating such things as dynamics and tempo. They are put to
+use both in deciding and recognizing how to play the composition and in
+playing it, and so they are in a sense transparent to the musician.
+Due to the fact that an analytic definition cannot be provided for a
+family-resemblance concept, Wittgenstein asserted that rules are a concept
+best explained by examples (Glock 324). Parallel to this is the fact that
+individual rules are learned primarily by example. Wittgenstein states that
+we learn the meaning of a word by example, and the grammatical position
+of words is provided by such examples (PG 118). He says, “For doesn’t the
+technique (the possibility) of training someone else in following it belong to
+the following of a rule? To be sure, by means of examples . . . How do you
+follow the rule?—’I do it like this; . . . ‘ and now there follow general explana-
+tions and examples” (RFM 418). Wittgenstein provides another example:
+“a gesture, a tone of voice, as in which the teacher uses in a particular
+way in giving instruction, and which the pupils imitate” (RFM 348). In
+addition, he points to instances in which one is not actually told the rules
+but learns the rule “by watching others play” (PI pars. 31, 54).
+The use of the phrase “do the same” is a function of teaching a rule
+by example: “I shall teach him to use the words by means of examples . . . I
+do it, he does it after me; and I influence him by expressions of agreement,
+rejection, expectation, encouragement” (PI par. 208). Wittgenstein
+What is a rulE? 17
+describes the use of the words “rule” and “same” as interwoven because
+the rule is the determining factor for what is considered “doing the same”
+in this instance (PI par. 225 and RPP2 par. 408. ). The student has learned
+the rule when she is able to follow the example and “do the same.”
+If a musical instructor is teaching a student the rule of dynamics
+using Brahms’ “Waltz in A Flat,” the instructor may best impart the rule
+by playing the crescendo for the student, progressing from pianissimo to
+forte and then back again to pianissimo. The student will learn the rule
+of dynamics by concurrently following the dynamic notation in the text
+visually, and aurally noting the corresponding volume change in the notes.
+Regarding the analysis of the manner in which one learns a rule, it
+is essential to ascertain that one has, in fact, learned the rule. How does
+the instructor confirm that the student has learned the rule? Wittgenstein
+addresses this in reference to the consequent action taken by the student:
+“he exclaims ‘Now I can go on!’—So this capacity, this understanding, is
+something that makes its appearance in a moment” (PI par. 151). He also
+evaluates the significance of this ability: “my being so certain of being able
+to go on is naturally very important” (RFM 37). One who is able to “go
+on” has been trained to take the same step their instructor took when he
+encounters a scenario in which the rule is present. Thus, the student’s
+understanding is “manifest in his actions” (Baker and Hacker 97).
+“The word ‘agreement’ and the word ‘rule’ are related,” according to
+Wittgenstein: “The phenomena of agreement and of acting according to
+a rule hang together” (RFM 344). The fact that the student’s actions are
+in agreement with the instructor’s exemplary actions is an indication that
+the student has learned the rule. However, Wittgenstein is careful to point
+out that “one does not learn to obey a rule by learning the use of the word
+‘agreement.’ Rather, one learns the meaning of ‘agreement’ by learning to
+follow a rule.” Wittgenstein says this process is “the phenomenon of a kind
+of instruction, of shewing how and of imitation.” True to his focus upon
+the implications of language, he points to the use of the term “and so on,”
+saying it can only be used “when the other is as capable of going on as I
+am, i.e., does go on just as I do” (RFM 405, 345, 349). It would be nonsensi-
+cal for the instructor to use the term “and so on” unless the student had
+learned the rule.
+Wittgenstein says, “the pupil shews that he is using the rule we have
+given him to pass from the printed to the spoken words” (PI par. 162).
+Likewise, in music the student shows that he has learned the rule when he
+uses it to pass from the printed rule in a score to playing the music in ac-
+cordance with the rule. Beethoven’s Sonata in C Minor Op. 13 “Pathetique,”
+the most famous of his early piano sonatas, applies one of Haydn’s compo-
+sitional practices in the employment of the brooding, slow introduction.
+18 Erin M. ClinE
+It is recalled twice in later stages of the first movement and requires a
+keen understanding of tempo. In this case, the student displays the fact
+that he has learned the rule of tempo by playing the introduction at the
+slow tempo each time it is recalled. The student has thus learned to apply
+the rule of playing the correct tempo in the same way it was applied by
+Beethoven when he composed Pathetique. This is further supported by a
+statement Wittgenstein made in regard to the meaning of a word during a
+1939 lecture in Cambridge: “To know its meaning is to use it in the same
+way as other people do” (Malcolm 171).
+A proper analysis of the Wittgensteinian concept of rules requires a
+determination of what “following a rule” is. Wittgenstein emphasizes the
+importance of the learning process in regard to this: “What the correct
+following of a rule consists in cannot be described more closely than by
+describing the learning of ‘proceeding according to the rule’” (RFM 392).
+Wittgenstein also articulates the fact that rule-following is related to ability
+(PG 188 and PI par. 495). To comprehend a rule, one must be able to
+determine what acts are in accord with it and be capable of defending his
+behavior if called upon to make it intelligible. The conclusion that one
+is capable of following a rule, or of guiding himself by reference to a rule
+can be drawn when he explains his actions by citing the rule, conducts a
+self-evaluation when he fails to follow the rule and corrects himself accord-
+ingly. Thus, “to understand a rule is to be master of the technique of its
+application” (Baker and Hacker 159, 45, 161).
+Schubert’s “Moment Musicaux No.3,” with an expansive melody and
+evocative harmony typical of Schubert’s piano sonatas, requires a particu-
+larly acute understanding of the rule of staccato notes.26 In order to play
+the composition correctly, the student must recognize the symbol that
+denotes this rule in the written notation and exhibit understanding of its
+meaning in his playing. By displaying the ability to do this, the student
+exemplifies a mastery of the technique of following a rule.
+Comprehension of the relationship between one’s understanding of
+a rule and the action in which one follows it is particularly significant
+to Wittgenstein’s conception of a rule. Wittgenstein writes, “Only in the
+practice of a language can a word have meaning” (RFM 344). Likewise,
+only in the practice of following a rule can one understand its meaning.
+This concept is somewhat confusing to comprehend, because in scenarios
+in which the scientific method is applied, the opposite is true. One can
+gather and understand data without accepting or understanding the hy-
+pothesis. However, one’s understanding of a rule is not independent of
+how it is applied in one’s actions (Baker and Hacker 97). If one is mistaken
+about what a rule is, one is also mistaken about what following a rule is.
+What is a rulE? 19
+An excellent illustration of this relationship is exemplified in the
+student’s understanding of the rule of time signatures within Haydn’s
+“Andantino,” a composition exhibiting Haydn’s inexhaustible originality.
+If the student does not comprehend the implications of having six beats
+in a measure with the eighth note getting the beat, she will be mistaken in
+the way she plays the piece. It would be incorrect to assert that the student
+could follow the rule and play in 6/8 time if she did not understand the
+rule of 6/8 time.
+The connection between understanding and following a rule
+supports Wittgenstein’s assertion that a word’s meaning is its use in the
+language (PI 43). The application of a rule embodies its meaning, like the
+application of a word embodies its meaning. In search of a definition for
+a rule, one may attempt to look further, not realizing that the rule is un-
+derstood in the process by which it is followed. Wittgenstein’s comments
+regarding the function of a rule illustrate this:
+But how can I explain the nature of a rule to myself? The difficult
+thing here is not, to dig down to the ground; no, it is to recognize the
+ground that lies before us as the ground. For the ground keeps on giving
+the illusory image of a greater depth, and when we seek to reach this, we
+keep on finding ourselves on the old level. Our disease is a disease of
+wanting to explain. (RFM 333)
+In reference to the question of what a rule is, Wittgenstein’s comments
+support the learning-based inquiry: “Once you have described the
+procedure of this teaching and learning, you have said everything that can
+be said about acting correctly according to a rule” (RFM 392). He further
+expounds upon this view using a specific example: “What ‘determining
+the length’ means is not learned by learning what length and determining
+are; the meaning of the word ‘length’ is learnt by learning, among other
+things, what it is to determine length” (PI 225). Applying this specifically
+to the question of a rule, one could conclude that what a rule is cannot
+be learned by searching for the essence of “rule,” for it does not possess
+an essence, nor can it be clarified by formulating an analytic definition.
+Rather, the meaning of “rule” is learned by learning what it is to follow a
+rule. By this standard, the line of inquiry exploring the process of learning
+rules by examples and the meaning of following a rule is productive.
+When Wittgenstein describes the process of teaching one to follow a
+rule, he describes teaching by example, and elaborates on the description
+with the following remarks: “Does this mean that ‘following a rule’ is inde-
+finable? No. I can surely define it in countless ways. Only definitions are of
+no use to me in these considerations” (RFM 321). One could define a rule
+as “a standard of correctness,” or “a standard which governs a multiplicity
+of occasions,” but as Wittgenstein points out, these definitions serve no
+20 Erin M. ClinE
+purpose. The question “What is a rule?” is best answered in the analysis
+of examples because the rule “speaks through my application of it” (Pears
+441). Not only are individual rules best taught by example, but the concept
+of a rule is best taught by example.
+As with almost every topic he addresses, Wittgenstein saw strong
+correlations between the rules of language and music: “Verbal language
+contains a strong musical element,” he stated (RPP1 par. 888). After an
+analysis of the concept of understanding through its manifestation in a
+picture, Wittgenstein again found music a primary tool for the examina-
+tion of language: “Understanding a sentence is much more akin to un-
+derstanding a theme in music than one may think . . . Why is just this
+the pattern of variation in loudness and tempo? . . . In order to ‘explain’
+I could only compare it with something else which has the same rhythm”
+(PI par. 527). In his discussion of change of aspect, music is used again as
+an illustration: “ ‘You have to hear this bar as an introduction’; ‘You must
+hear it in this key’; ‘You must phrase it like this’” (PI 202).
+Wittgenstein’s analysis of a rule has far-reaching implications for the
+field of philosophy. It was Wittgenstein’s view that the analysis of language
+use could clarify concepts, ultimately leading to the solutions of philo-
+sophical problems, and that the concept of a rule is central to achieving
+these ends. By asserting that a rule cannot be analytically defined, but
+must be understood by example, Wittgenstein embraces the technique of
+description, as opposed to explanation, which he believes is of tremendous
+importance: “We must do away with all explanation, and description alone
+must take its place. And this description gets its light, that is to say its
+purpose, from the philosophical problems . . . solved . . . by looking into
+the workings of our language” (PI par. 109).
+It is his contention that philosophers lay down rules, and when they
+follow them, “things do not turn out” as they had assumed. Thus, philoso-
+phers are entangled in rules of their own making: “This entanglement in
+our rules is what we want to understand.” Proper understanding of a rule
+helps the philosopher get untangled and leaves everything “open to view”
+so that “there is nothing to explain” (PI par. 125–26 and Suter 22, 94). In
+this sense, rules are both the source of and the solution to philosophical
+problems.
+In addition to the implications Wittgenstein’s analysis of a rule has
+for the big picture of philosophy, it also impacts his own body of work.
+The concept of a rule reinforces Wittgenstein’s analysis of many other
+concepts. In the private language argument, one of his contentions is
+that private language is an impossibility because rule-following presup-
+poses the existence of regular practices (PI par. 258, 265). Also in the
+private language argument, his assertion that it is impossible to obey a
+What is a rulE? 21
+rule privately is supported by the distinction between following a rule and
+thinking one is following a rule (PI par. 202).
+As discussed previously, the concept that a word’s meaning is its use
+in language is illustrated by the presentation of a rule as a concept best
+defined by examples; the meaning of a rule is found in its use (PI par. 43).
+Perhaps most obviously, the family resemblance concept is illustrated by
+rules, supporting his assertion that language has no essence (PI par. 66).
+“In my father’s house there were seven grand pianos,” Wittgenstein
+once remarked—a reflection of his love of music and the influence it had
+upon his character, both of which in turn contributed to the manner
+in which he engaged in doing philosophy (Monk 278). Though in fact
+there is said to have been only three or four grand pianos at the house,
+Wittgenstein’s extensive knowledge and deep connection to music is
+evident. The six composers whom he considered “great” were the only ones
+he considered great, a fact confirmed by his behavior when he attended a
+concert featuring the music of Brahms, Strauss, Beethoven, and Bach. A
+friend in attendance with him reported that Wittgenstein “enjoyed the
+Brahms, refused to go in for the Strauss, and left the hall as soon as the
+Beethoven had finished” (Monk 61).
+Wittgenstein’s philosophy manifests some of the most unique char-
+acteristics of their music. Brahms concerned himself largely with creating
+music of “inherent unity” while utilizing unusual effects to enhance the
+internal structure of his compositions. Wittgenstein’s concepts do have
+unity, and his unusual technique of presenting them in aphorisms ulti-
+mately strengthens their viability. The compositions of Schubert tend
+to establish a balance between the intellectual and emotional levels of
+interpretation while displaying bold, free forms instead of set patterns.
+Likewise, the writing of Wittgenstein along with his style of teaching
+is indicative of both the intellectual and emotional aspects of human
+thought, and certainly is possessive of a bold, free format. Haydn’s balance
+of directness and bold experimentation in his compositions transformed
+instrumental expression in the eighteenth century, just as Wittgenstein’s
+work has transformed philosophical expression in the twentieth century.
+Perhaps the characteristics one encounters in a study of Wittgenstein’s
+philosophy are most effectively illustrated by Mozart’s Rondo alla Turca,
+with its lively and dramatic contrasts in tempo and tone. In reference to
+change of aspect, Wittgenstein wrote, “The reinterpretation of a facial
+expression can be compared to the reinterpretation of a chord in music,
+when we hear it as a modulation first into this, then into that key” (PI
+par. 536). The repeated modulations between minor and major keys in
+Rondo embody not only Wittgenstein’s words here, but the multiple layers
+of thought and understanding that must be examined in his work.
+22 Erin M. ClinE
+The composer he held in highest esteem is of particular importance
+in this illustration, for Wittgenstein argued that “if he is to behave like
+Beethoven, he ought, like Beethoven, to produce really great work” (Monk
+89). In addressing the concept of the dawning of an aspect, Wittgenstein
+says: “I have a theme played to me several times and each time in a slower
+tempo. In the end I say ‘Now it’s right’, or ‘Now at last it’s a march’, ‘Now
+at last it’s a dance’” (PI par. 206). Beethoven’s early piano sonatas have
+a forceful, bold quality indicative of the extensive process of refinement
+they underwent. The manner in which Wittgenstein repeatedly refined
+his work and progressed through a concept with clarity of vision is a sign
+of the same boldness and determination. Like the theme in Wittgenstein’s
+example, both Beethoven and Wittgenstein presented their work repeat-
+edly to themselves until, “Now at last”—it became a great work.
+Wittgenstein’s work indicates that a rule is not to be understood by
+definition, but by examples. The rules of music illustrate this process in
+the concepts of learning a rule and following a rule, and in the relation-
+ship between understanding and following rules. Brahms and dynamics,
+Beethoven and tempo, Schubert and staccato, and Haydn and time
+signature serve as examples that not only are indicative of these concepts,
+but also illustrate what a rule is. The compositions of Wittgenstein’s “great”
+composers also illustrate his philosophy, in which the concept of a rule has
+provided far-reaching implications both within his own body of work and
+for the entire field of philosophy. Music is a powerful tool for analysis in
+regard to these implications, because it forms a bridge between Ludwig
+Wittgenstein and his philosophy.
+Wittgenstein once described to his mentor, Bertrand Russell, the ad-
+miration he had for Russell’s monumental work, Principia Mathematica. He
+spoke of its beauty with tremendous feeling, “and said—what was probably
+the highest praise he could give it—that it was like music” (Monk 44). In
+conclusion, the likeness of Wittgenstein’s work to music is inherently clear,
+for in his words, “Uttering a word is like striking a note on the keyboard
+of the imagination” (PI par. 6).
+WWoorrkkss CCiitteedd
+Works by Ludwig Wittgenstein (With Abbreviations)
+PG Philosophical Grammar. Translated by Anthony Kenny, edited by Rush
+Rhees, Basil Blackwell, 1974.
+PI Philosophical Investigations. 3rd ed., translated by G.E.M. Anscombe,
+Prentice-Hall, 1999.
+RFM Remarks on the Foundations of Mathematics. Revised ed., translated by
+G.E.M. Anscombe, edited by G.H. von Wright, et al., MIT Press,
+1994.
+RPP1 Remarks on the Philosophy of Psychology. Vol 1, translated by G.E.M.
+Anscombe, edited by G.E.M. Anscombe and G.H. von Wright. Basil
+Blackwell, 1980.
+RPP2 Remarks on the Philosophy of Psychology. Vol. 2, translated by G.E.M.
+Anscombe, edited by G.E.M. Anscombe and G.H. von Wright. Basil
+Blackwell, 1980.
+Other Works
+Baker, G.P. and P.M.S. Hacker. Wittgenstein: Rules, Grammar, and Necessity.
+Basil Blackwell, 1985.
+Glock, Hans-Johann. A Wittgenstein Dictionary Oxford. Blackwell Publishers,
+1996.
+Malcolm, Norman. Wittgensteinian Themes: Essays, 1978–1989. Cornell UP,
+1995.
+Monk, Ray. Ludwig Wittgenstein: The Duty of Genius. Penguin Books, 1990.
+Pears, David. The False Prison: A Study of the Development of Wittgenstein’s
+Philosophy, Vol. 2. Clarendon Press, 1988, pp. 441.
+Suter, Ronald. Interpreting Wittgenstein: A Cloud of Philosophy, a Drop of
+Grammar. Temple UP, 1989.

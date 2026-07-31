@@ -1,0 +1,470 @@
+Aporia Vol. 9, 1999
+The Possibility of the Existence of an
+Actual Infinite
+Shane Hopkins
+In a work entitled The Mormon Concept of God, evangelical Christians
+Francis Beckwith and Stephen Parrish criticize the Latter-day Saint
+(hereafter LDS) concept of God. Their philosophical arguments that
+the LDS concept of God contains philosophical flaws are based mainly
+on Mormon eternalism—the idea that individuals, matter, space, and
+time have always existed. Their central criticism stems from an argument
+by William Lane Craig that it is impossible for an actual infinite number
+of things to exist in the real world. 1 intend to show that the argument
+from the impossibility of an actual infinite is fallacious, and that
+Beckwith and Parrish neither understand the nature of LDS doctrine
+nor argue effectively that it is incoherent.
+First, 1 will assess the philosophical arguments surrounding the
+actual infinite. TTien, 1 will discuss several scientific arguments that are
+relevant to the discussion of whether time could have begun. Finally, 1
+will conclude that Beckwith and Parrish's work is ineffective in dis
+crediting the LDS understanding of God.
+There are numerous statements by LDS leaders that support the
+claim that an actual infinite is included in the LDS view. To support this
+view, Beckwith and Parrish cite Joseph Fielding Smith, Heber C.
+Kimball, and Bruce R. McConkie—each a general authority in the LDS
+church (54). For example, Heber C. Kimball explains that "we shall go
+back to our Father and God, who is connected with one who is still far
+ther back; and this Father is connected with one still further back, and
+Shane is a senior studying phibsophy at Brigham Young University. He will
+graduate with honors this April and thereafter plans to go to medical school.
+70 SHANE HOPKINS
+SO on" (19). It is hard to imagine that any consistent LDS view could
+avoid referring to an actual infinite.
+The Existence of an Actual Infinite
+In Theism, Atheism, and Big Bang Cosmology, William Lane Craig
+and Quentin Smith debate whether there was a beginning of time and
+whether God caused it. Craig's argument that the universe had a begin
+ning centers on the impossibility of an actual infinite (4). He claims
+that since an actual infinite is impossible, the universe must have begun
+to exist. Beckwith and Parrish rely mainly on Craig's arguments to sup
+port their objections to LDS etemalism. They also attack other
+instances of an actual infinite that they claim are part of the LDS view.
+Craig offers four arguments against the possibility of an actual
+infinite, two philosophical and two scientific. The philosophical argu
+ments attempt to refute the idea of an actual infinite by reducing the
+idea to an absurdity. I challenge Craig's reductio refutation on two
+grounds: first, Craig shows that, at best, an actual infinite is counter
+intuitive, not that it is impossible; second, the counter-intuitive
+inferences that Craig draws from the idea of an actual infinite are a
+result of his faulty conceptualization of it.
+"Infinity" can mean a variety of things. A "potential infinite"
+refers to a magnitude that can be indefinitely divided or extended. This
+is the infinity of Zeno's paradoxes and is also called a "variable finite" by
+Cantor. An "actual infinite" represents the number of all the numbers in
+{I, 2, 3, . . .}. It is not becoming infinite; it is a complete, deterministic
+whole.
+Craig begins by emphatically asserting that the existence of an
+actual infinite cannot be inferred from the well-defined mathematical
+concept alone. Craig says Cantor "won for the actual infinite the status
+of legitimacy that it holds today" (6). However, after acknowledging
+that the mathematical concept of an actual infinite is a generally
+accepted idea, Craig is quick to point out that it does not necessarily fol
+low that it ontologically exists. Indeed, even the mathematical integrity
+of an actual infinite has been doubted, which makes its ontological
+instantiation even more unlikely.
+Craig's argument does not assert that the existence of an actual
+infinite is impossible, only that its possibility cannot be directly inferred
+THE POSSIBILITY OF THE EXISTENCE OF AN ACTUAL INFINITE 71
+from the coherence of the mathematical concept alone. For this reason,
+I only consider his argument that the assumption of an actual infinite
+produces absurdities to be significant in drawing the conclusion that an
+actual infinite cannot exist in the real world. Craig's first argument may
+be summarized as follows:
+1. An actual infinite cannot exist.
+2. An infinite temporal regress of events is an actual infinite.
+3. Therefore an infinite temporal regress of events cannot exist.
+Both Aristotle and Aquinas have disputed premise two, claiming
+that beginningless time is actually infinite (Craig 25). They held that
+the past was only potentially infinite since only the present moment
+actually exists. Craig, however, feels this analysis is inadequate: "the fact
+remains that since past events, as determinate parts of reality, are definite
+and distinct and can be numbered, they can be conceptually collected
+into a totality" (25). For this reason, Craig concludes that a beginning-
+less past necessarily entails the existence of an actual infinite.
+If the conditions just quoted are all that is required to constitute
+an actual infinite, the future must either be an actual infinite or must
+come to an eventual end. Craig contends that the future differs from the
+past because it is not actual, while the past is already realized. However,
+it seems that Beckwith and Parrish cannot consistently maintain this
+position, for they hold that God is both timeless and omniscient. As
+such, the future is already actual to God and thus certainly can be con
+ceptually collected into a totality. Therefore, Beckwith and Parrish must
+either allow for the existence of an actual infinite number of future
+events, or accept that time will end at some point.
+Perhaps Beckwith and Parrish would be willing to concede that
+time will end. In that case, they may successfully avoid this problem and
+consistently maintain their position that an actual infinite is impossible.
+However, it makes humanity's future look pretty bleak (since no individ
+ual can ever be permanent or immortal), unless a person can somehow
+be removed from time. Regardless, there are other reasons for believing
+that Craig's argument against the actual infinite is inadequate.
+Craig supports premise one of the above argument by saying:
+"While the actual infinite may be a fruitful and consistent concept in
+the mathematical realm, it cannot be translated from the mathematical
+72 SHANE HOPKINS
+world into the real world, for this would involve counter-intuitive
+absurdities" (9). The rest of this section will discuss this claim.
+Craig demonstrates absurdities that arise by attempting to per
+form arithmetic operations on an actual infinite. For example, Craig
+proposes a library with an infinite collection of books as an example of
+an actual infinite in the real world. The collection becomes no larger
+in number after adding another infinite collection of books. No matter
+what happens at the circulation desk, no matter how many books are
+checked in or out, the library will almost always keep an infinite
+number of books on its shelves. The only exception is when certain
+infinite combinations of books are checked out—but even checking out
+an infinite number of books could leave the library full or empty
+depending on the circumstances. Adding a new book to the library
+causes other problems. Every natural number has already been used to
+identify an already included volume, so there is none left for additional
+books! After citing dozens of similar examples, Craig draws the conclu
+sion that these absurdities sufficiently support his claim that an actual
+infinite is impossible.
+Craig also mentions Hilbert's Hotel, a notable illustration of an
+instantiated infinite by David Hilbert (13). In this example, there are
+an infinite number of hotel rooms rather than infinite books in a library,
+but the absurdities drawn are all analogous. Imagine that every room in
+the hotel is occupied. Surprisingly, moving every current guest down the
+hall a room or two can always accommodate more guests. There will
+always be enough rooms for the current guests and an infinite number of
+new ones as well.
+Virtually every example Craig and Hilbert offer can be simplified
+to just one central absurdity: the number of objects in an actual infinite
+never changes no matter what kind of finite mathematical operation is
+performed on it. In these simplified terms, their examples offer no more
+absurdity than that which follows from the mathematical definition of
+infinity itself. Zermelo-Fraenkel axiomatic set theory defines an infinite
+set as one that is equinumerous with some of its proper subsets (Craig 8).
+Indeed, the definition itself seems counter-intuitive.
+A proper subset is a subset that does not have every member of the
+original set. For example, the set {2, 4, 6,. . .} is a proper subset of {1, 2,
+3,...} because the second set includes members not in the first. The odd
+thing is that every member of the first is in the second, and yet they have
+THE POSSIBILITY OF THE EXISTENCE OF AN ACTUAL INFINITE 73
+the same number of members! This is strangely contrary to Euclid's
+maxim that the whole is greater than the parts. We know these two sets
+must have the same number of members because the Principle of
+Correspondence states that if the members of the two sets can be drawn
+into a one-to-one correspondence then they are equinumerous. Craig
+eventually clarifies that his absurdities all relate to the Principle of
+Correspondence, which is indispensable in the definition of infinity (24).
+There is certainly something strange about a set that can have
+proper subsets equinumerous with itself, but this strangeness is straight
+forward in the definition of infinity. If Craig's collection of books were
+divided in half by removing every second book, and afterward it con
+tained fewer books than it did before, that would be an absurd result
+according to set theory. Then we would have to say that the set must not
+have been infinite at all. If it were infinite, by definition it would have
+to have still been equinumerous with the proper subset formed by
+removing every second book.
+John Mackie has argued that an actual infinite's strange properties
+fail to make it unbelievable (Craig 98). For example, the impossibility
+of accommodating a new book with its own unique natural number is
+not absurd. Whether a new book can be numbered with a natural number
+is irrelevant since it can always be distinguished in some other way,
+labeled and included in the collection. There are infinitely many real
+numbers available to accommodate any new book at any sequential
+position in the collection.
+Other absurdities cited by Craig stem directly from the counter-
+intuitiveness of reversing Euclid's maxim. In an actual infinite, the
+whole is actually not greater than a part. It is a surprising result that an
+infinite number of books behaves so strangely, but in principle it is not
+necessarily an impossible result. In general, humans have neither
+experience nor intuition regarding the infinite. Without experience to
+verify what is or is not possible (or what is "absurd") when dealing with
+infinity, Craig's examples may only verify that examples of an actual infi
+nite in daily life are just as counter-intuitive as the mathematical infinite.
+Although creating an infinite collection of books is impossible, pre
+dictable results (although strange) following from the assumption that
+one exists do not demonstrate impossibility.
+Beckwith and Farrish anticipate the argument that an actual infinite
+is not absurd because its properties are clearly expected from its definition.
+74 SHANE HOPKINS
+However, in their rebuttal they commit a straw man fallacy. They compare
+the defensive claim that the actual infinite's strange properties are not
+absurd to an apologetic for square circles (67). Square-circle apologists
+say that a thing that is internally contradictory by definition cannot be
+faulted for not being internally consistent. They offer no compelling
+reason that we should accept the validity of square circles while expecting
+us to disregard our basic intuitions about reality. However, although
+Beckwith and Parrish fail to acknowledge them, there may be especially
+compelling reasons in LDS theology to grant that an actual infinite is
+possible.
+In philosophy, accepting an unlikely proposition without evidence
+is usually not allowed. However, in religion, faith allows for and neces
+sitates acceptance of incompletely supported propositions. If an actual
+infinite is truly implied by LDS doctrine and if the actual infinite obeys
+a different set of counter-intuitive rules than finite sets, accommodations
+in the LDS world view can be justifiably made. Further, the inadequacy
+of limiting all existing entities (including time and space) to a finite
+magnitude seems greater than the stretch of intuition required to allow
+for an actual infinite.
+I have shown that it is not clear whether an actual infinite is
+absurd. Regardless, absurdity is not sufficient for impossibility. Craig's
+examples only verify that counter-intuitive results are achieved from
+arithmetic manipulations. This point is anticipated by the definition
+of infinity, and should be expected since infinity is not an intuitive
+concept in general. For these reasons, Craig's first argument fails to
+prove the impossibility of either an actual infinite or beginningless
+time.
+Craig's second philosophical argument is that an actual infinite
+can never be formed by successive addition. However, Smith answers
+this thus; "although [an infinite series] can never be completely synthesized
+in a finite time, it can be completely synthesized in an infinite time"
+(Craig 89). It appears that Smith is willing to concede that successive
+addition can never form an actual infinite if the process has a beginning
+or if time is finite. Only in the case of infinite time is an actual infinite
+possible from successive addition. Craig contends that Smith begs the
+question in his reply by assuming infinite time. However, Smith's argu
+ment only shows that the concept of an actual infinite is self-consistent.
+Craig can be just as readily accused of question begging by requiring an
+The possibility of the existence of an actual infinite 75
+initial assumption of finite time in his argument about successive
+addition.
+As previously shown, many absurdities suggested by Craig stem
+from the faulty manner in which the infinite is understood or described
+(for example, conceptually imagining a beginning to infinite successive
+addition). These absurdities do not reflect as much on the possibility of
+an actual infinite as they emphasize errors in the way in which it is con
+ceptualized. They tell us what can and cannot be done with an actual
+infinite, and they prompt us to make distinctions in our conceptual
+understanding. There are other examples of this as well. For instance,
+Craig imagines a finite person removing every second book in an infinite
+library by a successive process. Such a task is impossible if one concedes
+that successive addition to an already begun process is impossible.
+Absurdities derived from some concept involving an actual infinite may
+show the concept itself to be problematic without telling us anything
+about the possibility of an actual infinite. An infinite library and an
+infinite hotel are impossible from the outset, but not because they are
+infinite. They are impossible because they must have always existed to
+exist at all, and because infinite successive changes in them (like shift
+ing rooms or checking out infinite amount of books) are impossible.
+Other objections to an actual infinite refer to an infinite value. It is
+a mistake to conceive of infinity as a number because this definition
+invites one to project unfounded numeric qualities onto it without even
+realizing it. Every specific number is finite, and when infinity is called a
+number merely because it defines a mathematical relationship, the issue
+becomes ambiguous. This fact is important because it clarifies arguments
+involving reference to the "infinitieth" member of an infinite set( Mackie
+93). There is no such member, and absurdities stemming from it are
+nonsense.
+There are no past moments infinitely distant, and a traversal of the
+infinite must never have begun, but always have been. Projecting finite
+conceptions on infinity (like a furthest point or a beginning of traversal)
+is likely to produce absurdities. However, such absurdities say nothing
+about the infinite itself, merely the misconception with which it may be
+held.
+To review, the absurdities Craig draws from the concept of an
+actual infinite are merely counter-intuitive results, not impossibilities
+or self-contradictions. Furthermore, all genuine problems in the concept
+76 SHANE HOPKINS
+of a real actual infinite can be understood as errors in mixing up infinite
+and finite processes, operations, attributes, etc. Craig has yet to show
+that any impossibility is entailed in a correctly characterized infinite.
+Therefore, whether an actual infinite is possible remains an open question.
+Craig does offer scientific evidence that the universe must have
+begun, but the theories he cites to defend this thesis are based on scien
+tific methods and theories, with all the accompanying limitations. 1 will
+now discuss Big Bang Cosmology in order to refute Craig's latter argu
+ments. Without compelling scientific support, both Craig's scientific
+and philosophical arguments for time's beginning are inconclusive.
+The Problem of Science and Religion
+Beckwith and Parrish cite Craig's scientific arguments to support
+their claim that an actual infinite is impossible and that the LDS con
+cept of God is incoherent. However, it is a mistake to use science in a
+discussion of religious coherency since science never makes necessary
+claims about truth, and can therefore never definitively show the impos
+sibility of a particular point of view. Despite this fact, science would still
+have evidential value to the current discussion if it were not the case
+that LDS cosmology seems to deny its fundamental assumptions. Many
+inconsistent results can be derived by combining two systems with con
+flicting assumptions. Big Bang Cosmology offers a perfect example of
+why a discussion involving both science and religion can easily suffer
+from fallacious reasoning.
+The Big Bang Theory is the most widely recognized scientific
+explanation of the origin of the universe. Tracing time backwards, all
+matter in the universe converges on one point. This point is a singularity
+with neither spatial nor temporal extension. According to the Big Bang
+Theory, it was from this point that everything in our universe originated.
+This theory relies on at least two very important assumptions. First
+of all, it assumes that there must be uniformity tbroughout time and
+space except in rare, temporary instances. This means that the physical
+laws science observes are true everywhere and at all times. This assump
+tion is consistent with experience accumulated during mankind's short
+history, but more importantly, this assumption is justified because theories
+based on it have been successful in making accurate predictions about
+the universe.
+THE POSSIBILITY OF THE EXISTENCE OF AN ACTUAL INFINITE 77
+The second fundamental assumption science makes is that the
+universe behaves naturalistically. That is, all phenomena can be explained
+in terms of natural laws and causes without referring to a supernatural
+agent. It can be understood as minimally allowing for a mechanistic,
+determinate understanding of the universe independent of whether God
+is the one who created it.
+Without the assumptions of uniformity and naturalism, it is difficult
+to imagine how scientific theories could be formulated and what purpose
+they could serve. The ultimate statement that these assumptions make
+about the universe is that it is ordered and predictable (within a certain
+scope). Although scientific theories may not be able to predict all
+experimental outcomes, their capability and limits are understood in
+most cases. When theories are unable to make definitive predictions,
+they often establish probabilities that have just as much value.' Without
+being able to rely on the continuation and integrity of natural laws,
+society could not function the way it does. Therefore, for the purposes
+of science, the assumptions of naturalism and uniformity are not only
+convenient but also necessary, regardless of whether they are ultimately
+true.
+The Big Bang Theory makes verifiable predictions and explains
+otherwise puzzling data. For example, the red shift of light from other
+galaxies, background microwaves bathing the universe, and increasing
+entropy are all explained by the Big Bang Theory. Few other current
+theories explain such a large amount of data. However, the Big Bang
+Theory has severe limitations as well.
+In 1970, Stephen Hawking and Roger Penrose, two prominent
+theoretical physicists, demonstrated that a space-time singularity was
+necessarily included in the Big Bang Theory (66). A singularity is an
+infinitely small point with a very large mass—in this case, the mass of
+the entire universe. The density at this point is infinite because the
+dimensions are infinitely small. Although mathematics has shown that
+space-time singularities are unavoidable if we accept Einstein's theory of
+relativity, science cannot determine the properties of such a singularity.
+'The Heisenberg uncertainty principle guarantees that not all experi
+mental outcomes are predictable. However,q uantum mechanics uses probabilities
+to make predictions where absolute calculations are impossible (Hawking 81).
+78 SHANE HOPKINS
+General relativity and all other physical laws fail to hold at the space-
+time singularity (Hawking 157).
+Some assume that this means physical events and time are possible
+before the Big Bang—we would just be unable to determine what the
+universe would be like before the singularity, and anything in the for
+mer universe would be irrelevant to us. However, this is not the case.
+Quentin Smith summarizes why the definition of a singularity precludes
+this possibility.
+Furthermore, it belongs analytically to the concept of the cosmo-
+logical singularity that it is not the effect of prior physical events.
+The definition of a singularity that is employed in the singularity
+theorems entails that it is impossible to extend the space-time
+manifold beyond the singularity. The definition in question is
+based on the concept of inextendible curves ... if there is some
+point p beyond which it is possible to extend the space-time manifold
+beyond which geodesies or time-like curves can be extended, then
+p by definition is not a singularity. (Craig 120)
+In other words, it is built into the mathematics that the singularity is an
+absolute beginning of time, not just an unpredictable anomaly in our
+naturalistic universe. With no prior events leading to it, this singu
+larity seems to have been either caused by a timeless God, or not
+caused by anything. Either way, it did not have a cause in conven
+tional time.
+If the universe was uncaused then it must be self-existent or have
+spontaneously come into being from nothing. The latter option, accord
+ing to Craig, runs contrary to "the strongest support experience affords"
+(121). Granting this, we must admit that many things about the Big
+Bang run contrary to experience (no prior time, infinite density, break
+down of all natural laws)! Paul Draper contends that any criticism of
+the idea of uncaused creation stems from acceptance of the metaphysical
+intuition, "something can't come from nothing" (47). Draper notes
+that metaphysical intuitions are notorious for being false. However, if
+something can come from nothing, it seems that the universe must nec
+essarily be a very arbitrary place indeed. To be consistent with science's
+assumption of naturalism, we must assume that there are non-arbitrary
+reasons why the universe came to be. Therefore, the proposition that
+THE POSSIBILITY OF THE EXISTENCE OF AN ACTUAL INFINITE 79
+the universe began uncaused seems inadequate for science as well as
+religion.
+Craig quotes Fred Hoyle, a contemporary scientist: "Hoyle realizes
+that an absolute beginning of the universe points beyond the universe
+to a reality more ultimate than itself, since to say it simply sprang into
+being for no reason out of nothing is 'unsatisfactory'" (45-46). It is
+unsatisfactory because it denies the assumption of naturalism. Craig
+draws from this some support for the notion that God must have created
+the Big Bang. He criticizes Hoyle for his fruitless pursuit of a "steady
+state" theorem against all odds and even after most scientists had
+already given up. Indeed, Craig claims that Hoyle's work was motivated
+by a desire to avoid the theistic implications of a reality more ultimate
+than the universe.
+Actually, such implications may be avoided without contradicting
+the assumption of naturalism. There is a version of the Big Bang Theory
+that includes the idea that the universe is self-existent. Stephen
+Hawking, who first influenced the scientific community to accept space-time
+singularities, afterward decided that he did not believe that singularities
+were real. He believes that space-time is finite, yet has no boundary or
+edge. Rather, its curvature becomes greater and greater until, in effect,
+it folds back on itself. If one were to travel in one direction toward the
+edge of the observable universe, one would eventually arrive back at one's
+starting place. TTiis sounds ridiculous, yet has surprising support:
+Thus the no boundary proposal is a good scientific theory in the
+sense of Karl Popper: it could have been falsified by observations
+but instead its predictions have been confirmed. . .. All the com
+plicated structutes that we see in the universe might be explained
+by the no boundary condition for the universe together with the
+uncertainty principle of quantum mechanics.( 180)
+Hawking does not feel that this entails the existence of God. In the case
+of the no boundary proposal, the universe is both finite and boundless.
+Its existence is in need of no further explanation—it just is.
+However, there is a much simpler and more intuitive method of
+understanding these issues. It is easy to forget that the assumptions of uni
+formity and naturalism, on which we base so much of our thinking, are
+only assumptions. LDS scripture actually seems to contradict or at least
+80 SHANE HOPKINS
+qualify them. In LDS theology there are references to different "orders"
+of time,^ ultimate laws outside the scope of science,^ and spiritual
+influences unexplained by science"*—each of which is an exception to
+naturalism. Religious people already accept a spiritual reality more
+fundamental than that suggested by naturalism. It should not be too
+much of a stretch to understand that man's theories—both scientific
+and religious—are not infallible for this reason.
+Theories about the origin of the universe are ultimately weak.
+"Unless and until we achieve an understanding of the Planck epoch [the
+period prior to 10'"^^ seconds after the big bang], it is hardly more than sci
+entific bravado even to speculate about the origin of the universe. It may
+well be that this question is beyond science. Still, we cannot resist"
+(Hawley 459-60). The limitation of science results because the assump
+tion of uniformity becomes increasingly less likely as time approaches
+the Big Bang.
+If scientists are compelled to admit that uniformity may break
+down at certain points in the past, scientific theories must then be lim
+ited to a particular scope of time. For this reason, no scientific evidence is
+ultimately compelling in denying the existence of infinite time. Because
+in an LDS view any apparent properties of our temporal universe may
+merely be part of a mortal "sphere" of existence (D&.C 93:30), 1 have
+now shown that there are both scientific and religious reasons for dis
+regarding Craig's scientific arguments.
+To conclude, Beckwith and Parrish fail to show in The Mormon
+Concept of God: A Philosophical Analysis that the LDS view is internally
+incoherent. Although they do show contemporary notions of the actual
+infinite to be counter-intuitive, they do not demonstrate the existence
+of an actual infinite to be impossible. The LDS world view is capable of
+Tor example, Abraham was shown relative orders of planets and time
+(Abraham 3; 3, 4, 9). Joseph Smith has also observed that past, present and
+future are all "one etemal 'now'" to God (220).
+'Considering the LDS view that God became God (Smith 345), he must
+have done so by obeying moral laws prior to himself.
+"•The description of the "light of Christ" in D&.C 88: 7-13 refers to a type
+of influence on the physical world unacknowledged and unexplained by the
+physical sciences.
+THE POSSIBILITY OF THE EXISTENCE OE AN ACTUAL INFINITE 81
+accommodating counter-intuitive conclusions because of its dynamic
+doctrinal structure. Science and philosophy can he interesting in evalu
+ating religious positions, hut are subject to the common limitations of all
+academic human endeavors—they are limited by a mortal paradigm.
+The LDS view of eternalism is internally coherent, although it may not
+he readily compatible with traditionally held beliefs and assumptions
+about God or the nature and origin of the universe.
+82 SHANE HOPKINS
+Works Cited
+Beckwith, Francis J., and Stephen E. Parrish. The Mormon Concept of
+God: A Philosophical Analysis. New York; The Edwin Mellen Press,
+1991.
+Craig, William Lane, and Quentin Smith. Theism, Atheism, and Big Bang
+Cosmology. New York: Oxford University Press, 1993.
+Hawking, Stephen. The Illustrated A Brief History Of Time. New York:
+Bantam Books, 1996.
+Hawley, John E, and Katherine A. Holcomb. Foundations of Modem
+Cosmology. New York: Oxford University Press, 1998.
+Kimball, Heber C. "Temple And Endowments—Raising Grain And
+Building Storehouses—Dedication." Journal of Discourses 4.19
+(1856): 224-27.
+Pojman, Louis P. Philosophy of Religion: An Anthology. New York:
+Wadsworth Publishing Company, 1998.
+Smith, Joseph, Jr. Teachings of the Prophet Joseph Smith. Ed. Joseph
+Fielding Smith. Salt Lake City: Deseret Book Press, 1938.

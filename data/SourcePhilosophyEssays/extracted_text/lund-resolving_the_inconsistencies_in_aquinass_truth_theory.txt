@@ -1,0 +1,305 @@
+Aporia - Resolving the Inconsistencies in Aquinas's Truth Theory - Lund Page 1 of 7
+Resolving the Inconsistencies in Aquinas's Truth Theory
+Julie Lund
+Although Thomas Aquinas does not explicitly formulate a truth theory, it is possible to extract one from
+his discussion of truth in the Summa Theologiae. However, his discussion contains contradictory
+elements of correspondence theory, Pre-Socratic relativism, and Christian platitudes such as “God is
+Truth.” To complicate the picture further, there are two different kinds of truth: human truth and divine
+truth. Yet this dichotomous nature of truth, properly understood, is actually the key to resolving the
+contradictions in his theory. In this paper I will discuss human truth and divine truth and how they
+interrelate. I will argue that an understanding of the respective roles of human truth and divine truth
+allows one to see that the two different aspects of Aquinas’s theory work for their limited ranges of
+application and together create a cohesive whole that preserves our common notion of truth and the
+eternal nature of truth.
+1
+Question 16 of the Summa Theologiae, “On Truth,” provides ample evidence of a type of
+correspondence theory in Aquinas’s thought. Generally, a correspondence theory of truth asserts that
+2
+“for a proposition to be true is for it to correspond with the facts." That Aquinas believed in a type of
+correspondence theory is evidenced by at least two passages: “truth is in the mind as conformed to the
+3 4
+thing understood," and “truth is defined as conformity between intellect and thing.” The conformity
+Aquinas speaks of is not the conformity suggested by a Tarskian T-sentence, which indicates that a
+statement is true if and only if the facts it describes actually exist in the world. For example, “‘Snow is
+5
+white’ is true if and only if snow is white.” Aquinas’s idea of conformity is not simply correspondence
+between a statement and the states of affairs in the world. Rather, “the thing [itself] corresponds to the
+6
+form of the thing which [the mind] apprehends." For example, an apple is true because it corresponds
+to our concept of “apple.” Thus, truth is correspondence between an object and the form of the object in
+the mind.
+The correspondence theory of truth, including the one espoused by Aquinas, naturally leads to
+relativism, in the sense that truth is relative to a knower. If truth depends on the relation of mind to
+object and on the mind judging that relation, then it depends on the mind and cannot exist without it.
+Article Six of Question 16 shows that Aquinas believes such truths as “this paper is white” do not exist
+independently of a mind. In response to the question, “Is there one only truth by which all things are
+7 8
+true?” Aquinas answers “no,” for “there are many truths in many created intellects.” Therefore the
+type of truth that exists in the intellect admits of relativism. Yet Aquinas sees danger in relativism: if
+truth is different for each knower, as Protagoras holds, the purpose of philosophy is defeated. Aquinas
+turns to God to check this relativism and preserve the eternal nature of truth. Although the true statement
+“This paper is white” cannot exist outside our intellects, its truth is not ultimately dependent on our
+individual intellects, but on God’s intellect. Aquinas declares, “The truth whereby all things are true is in
+a certain sense one” because everything is ultimately true in relation to the divine intellect, which is
+one.
+9
+In addition to correspondence and relativism, Aquinas’s truth theory also contains elements of theology.
+10
+Question 16, Article Five asks, “Is God truth?” The three objections assert that God is not truth and
+11
+Aquinas counters these assertions with John 14:6, “I am the way, the truth, and the life.” Using this
+scripture as a starting point for his argument, Aquinas goes on to demonstrate that God is truth. To have
+truth in the mind is to apprehend something as it is, and truth in the thing is being conformable to the
+12
+mind. God’s being goes beyond mere conformability to his intellect, for his being is his act of
+file://P:\00OLD\old_aporia_site\volumes\vol122\jules.html 8/25/2006
+Aporia - Resolving the Inconsistencies in Aquinas's Truth Theory - Lund Page 2 of 7
+knowing. Since God is his own being and his own act of knowing, truth not only resides in God, but “he
+is the supreme and original truth.”
+13
+The combination of correspondence theory, relativism, and theology is confusing without a proper
+understanding of the different kinds of truth. When Aquinas refers to truth he does not always refer to
+the same truth. The major distinction he makes is between human truth and divine truth, though these
+14
+are closely related. Human truth is many, finite, and changeable, while divine truth is one, eternal, and
+unchangeable. In the reply to Article 1 of question 16, he divides human truth into intellectual truth and
+truth in things, the latter being divided into man-made things and natural things. Aquinas ascribes truth
+to things themselves (both man-made and natural), propositions or statements about things, and God.
+The truth of al of these depends on some sort of correspondence. For example, Aquinas would attribute
+truth to both a building and God. A true building is one that conforms to our concept of a building, while
+God is true because his being corresponds perfectly to his intellect, since his being is equivalent to his
+knowing. The difference is the truth of the building can change because it is relative to man, but the
+truth of God cannot change.
+Human truth is defined as conformity between an object and the concept in man’s intellect, and is thus
+dependent on man. It includes both truth in the human intellect and truth in things. Since human truth is
+dependent on man, it is neither eternal nor unchangeable, since human beings possess neither
+characteristic. When Aquinas speaks of conformity of mind to thing, he is using correspondence theory
+to illustrate the nature of human truth. This makes even the truth of things relative to our intellects,
+because things are not true but in virtue of their relation to man’s intellect. Aquinas sees this relativism
+as a further demonstration of the finitude of man as compared with the majesty of God. Although we are
+created in God’s image and share with him the ability to create truth, we can never create eternal,
+unchangeable truth. Human truth, because it is relative, is changeable.
+Properly speaking, truth is only in the intellect. However, Aquinas grants that things also possess a type
+15
+of truth. Truth is “secondarily in things, by virtue of a relation to intellect as to their origin.” Things
+are true because they possess an essential relation to the mind, either human or divine. A relation is
+essential if the thing depends on the mind for its existence, while a relation is incidental if the thing can
+be known by the mind, but it still exists without the mind’s knowledge of it. “Thus we might say that a
+house has an essential relation to the architect’s mind but an incidental one to a mind on which it does
+16
+not depend.” Man-made things are dependent on human minds and natural things are dependent on the
+divine mind. A thing is said to be true because its existence depends on either the divine mind or the
+human mind.
+All natural things, like trees and mountains and rocks, are true because they “bear a likeness to the types
+17
+in the divine mind.” Aquinas gives the example of a stone being true when it has the qualities that
+stones should have, according to God’s conception of a stone. So perhaps a grain of sand is not a true
+stone because God’s conception of stone includes being at least big enough to hurt when hurled from a
+slingshot at your face. But this does not mean the grain of sand is essentially false. Although the grain of
+sand is not a true stone, it is a true grain of sand, because it has the qualities God thinks are essential to a
+grain of sand. For example, the essence of a grain of sand might include causing pain when it gets in
+your eye. The conformability to this essence becomes obvious if you put the grain of sand in your eye.
+The truth of natural things ultimately depends on the divine intellect and not the human intellect because
+natural things were created by God, not man. Natural things still bear an incidental relation to man’s
+intellect for man can know natural things, but man’s knowledge of the thing is not necessary to the
+thing’s existence. Thus a stone miles beneath the earth’s surface that no human has ever thought of is
+still true because it bears a relation to the divine mind. The truth of natural things is not relative to
+humans but to God.
+file://P:\00OLD\old_aporia_site\volumes\vol122\jules.html 8/25/2006
+Aporia - Resolving the Inconsistencies in Aquinas's Truth Theory - Lund Page 3 of 7
+It is easier for man to judge the truth of man-made things, since their existence depends on our minds.
+For example, we might define a sock as an article of clothing one wears on one’s feet, which seems to
+leave out wind socks. Our definition is contingent because a sock is a man-made object. We can judge
+that a wind sock is not a true sock, according to our definition and conception of a sock. The truth of
+man-made objects is dependent on our conception, which makes this truth relative. People in different
+cultures and ages have different uses for similar objects, and so have different truth conditions for them.
+For example, an American would say a black ankle sock was a true sock, but perhaps someone from a
+different country, where everyone only wears red, knee-high socks, would disagree. The truth of man-
+made objects is relative and changeable.
+This mutability also applies to language, which Aquinas considers to be a man-made object. His brief
+discussion of the truth of language could easily fit into contemporary truth/language debates. Aquinas
+speaks of the truth of propositions in two ways. The first way a proposition is true is in the same sense
+any other thing is true, by fulfilling what is determined for it by the divine intellect. For propositions,
+this means it must be grammatical, well-formed, and thus meaningful. “Asdiuo noiuet nviso ewsn” is
+not a true proposition in this sense. Thus, Aquinas says, any well-formed, grammatical combination of
+18
+words is true, even if it fails to represent a conformity between human intellect and thing. The second
+way a proposition is true is if it does in fact indicate a conformity between intellect and thing. Aquinas
+illustrates this distinction with the following example:
+When Socrates is seated the proposition “Socrates is seated” is true with the truth that
+belongs to things, as a formula of words with meaning; and also with truth that belongs to
+meaning, as indicating a true opinion. When Socrates rises, its truth in the first sense
+remains, but its truth in the second sense changes.
+19
+Thus a well-formed, grammatical statement is always true in the first sense, even if it does not conform
+to reality. But in the second sense, in reference to its meaning, the truth of a statement changes when it
+no longer conforms to reality.
+Most contemporary discussions on truth are centered on the truth of propositions. Either they claim that
+propositions are eternally true or they claim that “propositions about creatures are not eternally true, but
+20
+begin to be true when things come to be and lose their truth when things perish.” Frege claimed that
+propositions are eternally true when supplemented by a time-indication. A sentence like ‘this tree is
+covered with green leaves’ uttered in June does not become false in November. Rather, it is eternally
+21
+true that the tree is covered with green leaves in that particular month of June. Aquinas disagrees with
+this. In Question 16, Article 8, Aquinas explains that the truth of a statement does change when the
+relation between intellect and object changes. This relation can change if either the intellect changes or
+the object changes. A person can change his opinion about something that remains the same, or an
+object can change while the opinion someone holds of it remains the same. This is seen in the above
+example of Socrates standing up, which makes the formerly true statement, “Socrates is seated,” false.
+Either a change in opinion or a change in the object can cause shifts from truth to falsity because the
+mind and the object no longer conform.
+But what about statements we call eternally true, such as tautologies or arithmetic truths? It seems like
+“2+2=4” bears an incidental relation to the human intellect, since it is true whether we think it is or not.
+This would mean its truth is not relative to our mind and thus has independent existence. Aquinas
+addresses this issue in Article Seven of Question 16, “Is Created Truth Eternal?” Tautological
+statements possess truth because they are well-formed and grammatical. But they also possess truth
+because they indicate truth in our intellect by bearing a relation to our minds. “Hence, if no intellect
+were eternal, no truth would be eternal. But since the divine intellect alone is eternal, truth has eternity
+file://P:\00OLD\old_aporia_site\volumes\vol122\jules.html 8/25/2006
+Aporia - Resolving the Inconsistencies in Aquinas's Truth Theory - Lund Page 4 of 7
+22
+in it alone.” Our mind can have the thought of a “necessarily true” statement, but since our minds are
+not eternal, neither is the true statement, relative to us. Necessarily true statements exist independently
+of us, but not of God. Their eternal truth comes from their relation to God’s intellect.
+Once Aquinas shows that propositions can change, it follows that the truth of theories, such as the
+Ptolemaic system, can also change. During the time that the Ptolemaic system was generally accepted, it
+would have been said to be true in relation to our minds, since it was a man-made theory. It bore an
+essential relation to the human mind. However, it would not have possessed divine truth, since it could
+not have conformed to an idea in God’s intellect. This is because God would have then possessed a false
+idea, which is impossible. But now it is not even true in relation to our minds because our minds no
+longer conform to that idea. This is a more satisfactory explanation than the one offered by James,
+which states that Ptolemy’s system was and is, even now, “relatively true, or true within those borders of
+23
+experience.” It seems wrong to call it true in any sense at this time, when we know that it is false. It is
+more intuitive to say that it possessed human truth and not divine truth before, and possesses neither
+now. Since God can never be mistaken, the truth of his mind is unchangeable, which means there is an
+immutable truth.
+Immutable truth is necessary to philosophy. Philosophers draw from past philosophers. They accept,
+reject, or modify past arguments according to their strengths and weaknesses. We often speak of
+philosophers in terms of their contributions to philosophy, which implies that philosophy is a timeless
+pursuit in which all can participate regardless of the time or place in which they personally exist. This is
+possible because philosophers, for the most part, believe themselves to be engaged in the search for
+truth, a universal truth that transcends the constraints of time. With few exceptions, philosophers from
+the Pre-Socratics to Descartes and Leibniz adhered to this idea. However, recent deflationists claim that
+there is nothing interesting to say about truth in general. Simmons and Blackburn point out that “if there
+is nothing to say about truth in general, this may seem to imply that there is nothing to say about the
+relationship between mind and world in general. And if that topic is denied us, then much of philosophy
+24
+seems to disappear with it.” Unlike the recent deflationary theorists, Thomas Aquinas affirms that one
+can say something about truth: that it does in fact exist, and moreover exists eternally. He calls this truth
+divine truth.
+25
+26
+Aquinas “refers the whole eternity of truth to the divine mind.” This precludes the independent eternal
+truth of necessary propositions, which seems odd, but this issue was addressed above. Aquinas teaches
+that there is only one eternal truth, the truth of God’s intellect. Maurer outlines Aquinas’s argument for
+one eternal truth:
+This follows from the fact that truth is being, and the conformity of mind to being. Hence
+anything is related to truth as it is related to being...Now only the divine being and the mind
+are eternal. The conclusion is inevitable: only the divine truth is eternal; and since there is
+only one divine mind, there is only one eternal truth.
+27
+28
+So, divine truth is one, eternal, and immutable. Also, “it is at once the origin and goal of human truth.”
+It is what humans aim at in their pursuit of truth.
+How can divine truth be both the origin and goal of human truth? God cannot be the origin of human
+truth in the sense of him creating human truth, for human truth is created by men. Nevertheless, human
+truth would not exist without God, since he created humans, the objects they encounter and to which
+they relate, and the manner of that relation as correspondence. And divine truth is the standard of
+judgment that determines the truth of the relations between the object and the mind. As stated before,
+file://P:\00OLD\old_aporia_site\volumes\vol122\jules.html 8/25/2006
+Aporia - Resolving the Inconsistencies in Aquinas's Truth Theory - Lund Page 5 of 7
+objects are true in virtue of their relation to the divine mind, and so are also true if their relation to a
+human mind is faithful to the divine truth. So, divine truth is the origin of human truth. It is also its goal,
+in a certain sense. We cannot ever achieve or fully know divine truth, but we seek to have the greatest
+possible understanding of it so that we may better judge human truth. We do not know if we are relating
+to the world correctly unless we know how God relates to the world, which is the divine truth. Thus,
+divine truth is both the origin and goal of human truth.
+There are both weaknesses and strengths of Aquinas’s theory. It seems odd to be speaking of Aquinas’s
+theory of truth in the midst of the generally accepted deflationary theories. Aquinas believes it is not
+only worthwhile to discuss truth, but that it is actually possible to define it. His theory may seem a bit
+antiquated, but it has strength. Most importantly, Aquinas preserves eternal truth by equating it with
+God. This is comforting to those who believe that God is not dead. Further, it preserves the very object
+of philosophical pursuit. Along with this, Aquinas defines truth in a way that is natural for us to think
+about it. One does not objectively compare statements and thoughts to facts to see if they correspond.
+For example, if someone says to us, “snow is white,” we do not look out the window to assess the facts
+and see if they correspond to the statement. The truth of the idea is immediately present to us because
+we think of snow as being white. Aquinas also allows for the falsity that we experience when our
+judgments or the things we judge change. We are never naturally tempted to think that “Socrates is
+seated” and “Socrates is standing” can both be true at the same time, or that “The geocentric theory is
+true” and “The heliocentric theory is true” can both be true, since they are contradictory.
+However, there are also weaknesses in Aquinas’s argument. Those who believe God does not exist will
+not accept the concept of divine truth. Once divine truth is eliminated, one is left with a basic
+correspondence theory and the accompanying problems, such as relativity, mutability, and the notorious
+problem of how an idea corresponds to an object. Also, it seems imprecise to call so many different
+types of truth by the same name. Aquinas’s only justification for doing this is that we do the same thing
+by calling different things true, and so it conforms to the way we naturally speak of truth. By working
+with so many different types of truth, it seems he fails to capture the essence of truth. But in fact, he
+succeeds in capturing truth’s essence better than most philosophers, for he recognizes that truth’s
+essence is not limited to just the truth of propositions or just to God as truth, or just to the truth of
+existent things. He encompasses all of these aspects of truth in his theory.
+Nevertheless, this broad discussion of truth leads to lack of clarity in his argument, another weakness.
+Sometimes Aquinas seems like a traditional correspondence theorist, like when he says, “Truth is
+29
+defined as conformity between intellect and thing.” Other times he seems like a Heideggerian, such as
+when he says, “You find truth in the mind when it apprehends the thing as it is, and truth in the thing
+30
+when it possesses being conformable to the mind.” This does not suggest traditional correspondence,
+but rather Heidegger’s idea of truth as uncovering, as appropriated from Pre-Platonic philosophy.
+Confusion also arises because Aquinas says the truth of things can change because their truth is
+dependent on our apprehension of it, which varies from person to person. Then he says the truth of
+things cannot change because their truth is dependent on its relation to the divine intellect, which is
+unchangeable and all-knowing. This lack of clarity is understandable, though. Aquinas’s truth theory
+would naturally be unclear, since he never explicitly sets it forth as a theory of truth. One must formulate
+his theory of truth based on his discussion of truth, which is not systematic by our standards.
+Aquinas’s theory of truth could be described with the motto “Divide and conquer.” He divides truth into
+human truth and divine truth and addresses them separately. He uses correspondence theory to explain
+human truth, both in our intellect and in things. This makes human truth many, finite, and changeable.
+But divine truth compensates for these “failings” because it is one, infinite, and unchangeable. The
+correspondence theory seems intuitive and it describes how we normally think of truth and how we use
+file://P:\00OLD\old_aporia_site\volumes\vol122\jules.html 8/25/2006
+Aporia - Resolving the Inconsistencies in Aquinas's Truth Theory - Lund Page 6 of 7
+it in our lives. At the same time, Aquinas’s use of theology maintains the other aspect of truth that we
+normally think of: its eternal, immutable nature. Aquinas offers a truth theory that encompasses the best
+of both worlds to offer a complete picture of truth.
+Notes
+1. The "common notion" of truth spoken of here is the idea that true thoughts and statements are those
+that correspond to the facts.
+2. Simon Blackburn and Keith Simmons, Truth (Oxford: Oxford University Press, 1999) 1.
+3. St. Thomas Aquinas, Summa Theologiae, Volume 4: Knowledge in God (Great Britain: Eyre and
+Scottiswood Limited, 1964) 77.
+4. Aquinas 81.
+5. All correspondence theories state that true statements correspond with the facts, but Alfred Tarski is
+responsible for devising the T-sentence formulation to express this correspondence.
+6. Aquinas 81.
+7. Aquinas 89.
+8. Aquinas 91.
+9. Aquinas 91.
+10. Aquinas 87.
+11. Aquinas 87.
+12. Though we normally ascribe truth to statements and propositions, Aquinas does assert that truth also
+resides in things.
+13. Aquinas 89.
+14. Aquinas 89.
+15. Aquinas 81.
+16. Aquinas 77.
+17. Aquinas 77.
+18. Aquinas 99.
+19. Aquinas 99.
+20. Armand Maurer, C.S.B., St. Thomas and Historicity (Milwaukee: Marquette University Press, 1979)
+file://P:\00OLD\old_aporia_site\volumes\vol122\jules.html 8/25/2006
+Aporia - Resolving the Inconsistencies in Aquinas's Truth Theory - Lund Page 7 of 7
+25.
+21. Gottlob Frege, "The Thought: A Logical Inquiry," trans. A.M. and Marcelle Quinton. Reprinted in
+Truth, Simon Blackburn and Keith Simmons (Oxford: Oxford University Press, 1999), 103.
+22. Aquinas 93.
+23. William James, "Pragmatism's Conception of Truth," printed in Truth, Blackburn and Simmons, 63.
+24. Blackburn and Simmons 3.
+25. Maurer 21-24.
+26. qtd. in Maurer 25.
+27. Maurer 26.
+28. Maurer 36.
+29. Aquinas 81.
+30. Aquinas 89, italics added.
+file://P:\00OLD\old_aporia_site\volumes\vol122\jules.html 8/25/2006

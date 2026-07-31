@@ -1,0 +1,367 @@
+Aporia Vol. 10 number 1,2000
+A Move to More Fruitful Ground?
+Analyzing the Challenge of Compromise
+Platonism in the Philosophy of Mathematics
+DAVID]. ANDERSON
+W. V. Quine, Hilary Putnam, and Kurt Godel present arguments for
+mathematical realism that have come to dominate Platonist philosophies of
+mathematics. More recently,P enelope Maddy has argued that mathematics
+as understood in Quine/Putnam Platonism and Godel Platonism stands in
+contrast to actual mathematical practice. In Realism in Mathematics, Maddy
+seeks to reconcile this tension— presenting a" compromise Platonism" that
+purports to incorporate the best of both Quine/Putnam Platonism and
+Godel Platonism. To this end, she provides a compelling naturalistic
+account of mathematical intuition and extrinsic justification that accurately
+reflects the practice of mathematics. Most important, because Maddy
+allows for such varied extrinsic and intrinsic forms of mathematical
+support,s he leaves as a challenge the task of determining exactly how we
+should evaluate conflicting forms of justification.
+However,i n my opinion Maddy's compromise Platonism leaves us ill
+equipped to face this challenge. More specifically, it is difficult to see how,
+when intrinsic and extrinsic supports disagree, we can proceed without
+falling subject to the same criticisms that motivated compromise
+Platonism in the first place. We begin with a discussion of
+Quine/Putnam Platonism and Godel Platonism.
+Quine/Putnam Platonism argues that mathematics and the physical
+sciences are inextricably linked. Truly, the physical sciences are littered
+with mathematical references. From the Law of Universal Gravitation to
+the structure of DNA,t he physical sciences use mathematical language to
+describe physical phenomena. But could we form a physical theory of
+the world without the use of mathematics? Quine and Putnam argue no:
+David Anderson is aj unior in philosophy at Stanford University.
+74 DAVID J.ANDERSON
+the physical sciences' use of mathematics is more than superficial; rather,
+mathematics provides the framework that makes possible description and
+prediction of physical phenomena that wouldn't be possible otherwise.
+As such,Q uine/Putnam Platonism takes knowledge of mathematical
+entities to be justified by the role they play in the physical sciences not by
+self-evidence or intuition. For Quine/Putnam Platonism, mathematical
+objects must exist because they are indispensable for our best theory of
+the world. It is this ability, then, of an area of mathematics to provide a
+successful framework for the physical sciences that justifies our belief in
+this area of mathematics' truth. Putnam writes:
+A mathematical theory that has become the basis of a successful and
+powerful scientific system, including many important empirical
+applications, is not being accepted merely because it is 'intuitive',
+and if someone objects to it we have the right to say 'propose some
+thing better!'( "Mathematics"3 03)
+Thus, for Quine/Putnam Platonism, the application of mathematics
+to physical science is its only justification.
+The Quine/Putnam version of Platonism draws three notable
+objections, the first of which observes that under the Quine/Putnam view,
+mathematics loses its a priori and non-empirical status. As discussed
+above,Q uine/Putnam Platonism sees mathematics as justified by its role in
+our physical theory of the world. However, as any empirical scientist will
+tell you, these physical theories are, at best, working hypotheses, not a priori
+truths. Thus, if mathematics is justified by its usefulness in a hypothesis
+that is subject to change, then the basic mathematical "truths" we take
+as a priori are also subject to change. In all, Quine/Putnam Platonism is,
+at once, troublesome for mathematicians who believe they are discov
+ering necessary truths about the world. Indeed, if Quine/Putnam
+Platonism is correct then, like the empirical theories, a mathematical
+theory is "essentially a working hypothesis in one form or another...the
+sands are constantly shifting, one never finds absolutely solid ground on
+which to stand"( Geroch 92).
+Second, Quine/Putnam Platonism fails to account for areas of
+mathematics that seem obvious, immediately self-evident. In the empiri
+cal sciences, the use of even the most elementary mathematics comes at a
+high theoretical level. The most basic physical statements make little or
+A MOVE TO MORE FRUITFUL GROUND 75
+no use of mathematics. At higher theoretical levels, physical statements
+gain more mathematical content. However, if even the most elementary
+mathematics is not "useful" for basic physical statements, then facts like
+2+5=7 should become apparent to us only when we begin to investigate
+these higher theoretical physical statements. But as any schoolchild will
+tell you, that 2+5= 7 was obvious way before s/he ever began making
+highly theoretical physical statements. Thus, Quine/Putnam Platonism
+fails to harmonize with the obviousness ofe lementary mathematics.
+Third, under Quine/Putnam Platonism, unapplied mathematics is
+entirely unjustified. In the actual practice of mathematics, mathemati
+cians do not develop mathematics only for its direct application to empir
+ical science (though many certainly do). Unapplied mathematics is just as
+"true" as applied mathematics. Thus, in the practice of mathematics, the
+application of mathematical theory to empirical science is certainly stroke
+ofg ood fortune, but never an absolute necessity. Quine/Putnam Platonism
+fails to respect this reality of the practice of mathematics.
+Godel Platonism takes a substantially different stance, drawing an
+analogy between mathematics and the empirical sciences. Godel posits
+the faculty of mathematical intuition as a "psychological fact... sufficiently
+clear to produce the axioms of set theory" (484). This intuition, then,
+allows us to discover those basic mathematical truths (from set theory in
+particular) that are self-evident. For Godel,t his intuition for mathematics
+is analogous to perception for physical science. Indeed,G odel does not" see
+any reason why we should have less confidence in this kind of perception,
+i.e., in mathematical intuition, than in sense perception...[for] physical
+theories"( 484).I n all, exactly the obviousness ofe lementary mathematics
+that was so troublesome under Quine/Putnam Platonism is justified under
+Godel Platonism by this faculty of intuition.
+Extending this analogy, Godel also argues that some mathematical
+postulates, if not intuitable, can still be justified on account oft he postulate's
+(1) intuitively evident consequences, (2) usefulness in the physical sci
+ences, or( 3)f ruitfulness within mathematics. For Godel, the truths estab
+lished by the intuition are not the only mathematical axioms we are justi
+fied in accepting. Axioms in the first category( I)a re justified because they
+explain or systematize our intuitive data. Just like our model of electrons,
+protons, and neutrons systematizes and explains physical phenomena
+observable using perception, an axiom is justified when it systematizes or
+explains some mathematically intuitive truth. Quine/Putnam-style
+76 DAVID J.ANDERSON
+indispensability justifies axioms falling under( 2). Perhaps most interesting,
+Godel insists that an axiom may he justified (3) if it yields powerful and
+elegant tools within mathematics. In particulat, Godel argues that a
+new axiom is justified if it has "consequences demonstrable without the
+new axiom, whose proofs with the help of the new axiom, however, are
+considerably simpler and easier to discover" (477). In all, Godel's sys
+tem has bipartite supports: an area of mathematics is justified by either
+its self-evidence to the intuition or its fruitfulness in mathematical or
+empirical science.
+Like the Quine/Putnam Platonism before it, Godel's Platonism is
+subject to some common objections. First, Godel Platonism fails to give
+an account of exactly how this "mathematical intuition" operates. Even
+more basic, Godel needs to give a cogent argument for this intuition's
+existence and uniformity in humans. Second, the variety of methods for
+justifying an axiom deserve a more careful analysis. For example,s hould a
+new axiom really be justified because of its aesthetic value in simplifying
+a proof? After all, Godel provides no argument demonstrating that mathe
+matical objects like sets are more likely to have tidy elegant properties. In
+all, both Quine/Putnam Platonism and Godel Platonism are open to some
+cogent criticism.
+Maddy's own contribution, compromise Platonism, attempts to
+avoid such criticisms by taking parts from both Quine/Putnam Platonism
+and Godel Platonism. To this end, compromise Platonism argues that we
+do have a faculty of mathematical intuition along similar lines to what
+Godel proposed; however, this intuition is formed through the cognitive
+process of visual perception of sets in the physical world. In allowing
+intrinsic support, Maddy hopes to avoid Quine/Putnam Platonism's
+unfaithfulness to mathematical practice. At the same time, Maddy adopts
+the Quine/Putnam indispensability arguments as an alternative form of
+justification for mathematical postulates. Justification from intuition
+Maddy calls intrinsic. Justification from indispensability Maddy calls
+extrinsic. In the end, Maddy argues that extrinsic justification gives us reason
+to believe mathematics is a science on par with natural sciences. Intrinsic
+justification, though, accounts for the unique practice of the mathematics.
+Let's take a moment to spell out compromise Platonism in more detail.
+Maddy begins with a naturalized account of intuition in perception.
+Cognitive scientists note that the ability to recognize a triangle, say, is not
+inborn. Rather,d uring the first few days ofs ight for newly sighted humans,
+A MOVE TO MORE FRUITFUL GROUND 77
+subjects need to carefully count edges. However, after some time subjects
+leam to perceive that the figure is a triangle quickly. Obviously,s omething
+different happens when the subject originally looks at the triangle and
+needs to count sides and when the subject identifies the triangle immedi
+ately. Maddy cites work by D. O. Hebb (Hebb 122—24) in showing this
+learned ability to perceive the triangle immediately is characterized by sets
+of nerve cells becoming more efficacious to their neighbors firing. Thus,
+without getting into the details, we can say that in the process of learning
+to immediately recognize a triangle, the subject gains a measure ofi ntuition
+about triangles in general. This intuition is, physically, the pattern ofc ells
+that fire when encountering triangle-like objects in the field of vision—
+nerve cells that have become efficacious to one another.
+By asserting that we perceive sets, Maddy argues, certain properties
+of sets (and their corresponding axioms in set theory) become cognitively
+intuitive. Under the traditional Platonist view, mathematical objects like
+sets are non-spatial and non-temporal. Thus, they cannot be directly
+perceived. Maddy argues that we perceive sets when we look into an egg
+carton, say, and see twelve eggs. Sets are all around us and we directly
+perceive them. More, in the process of perceiving sets we form a sort of
+intuition about sets. We notice, or rather our nerve-cells configure
+themselves such that we notice, that sets can be combined into new
+sets. We notice that sets with the same members have the same size. In
+short, Maddy argues that we perceive sets directly, and in the process form
+an intuition about the properties of sets. Further, this intuition forms the
+intrinsic support for some of the axioms ofs et-theory.
+At the same time, compromise Flatonism observes intuition does
+not fully support all of the set-theoretical axioms; rather, extrinsic justifi
+cations play an important role. Maddy cites the Axiom of Choice as a
+set-theoretical axiom with extrinsic support. Zermelo's Axiom of Choice
+does not immediately come across as intuitive. However, the axiom has
+fruitful consequences. Firstly, the Axiom of Choice is necessary to prove
+Cantor's well-ordering hypothesis. Second, without the Axiom of
+Choice entire areas of mathematics are unjustified. Indeed, in diverse
+fields of mathematics the Axiom of Choice was tacitly assumed; thus, to
+deny the Axiom of Choice would be to disqualify large portions of classi
+cal mathematics. In allowing extrinsic support, compromise Flatonism
+agrees with Zermelo in noting "unprovability...is in no way equivalent
+to nonvalidity"( Zermelo 187).
+78 DAVID]. ANDERSON
+For compromise Platonism, these extrinsic supports come in many
+forms. Maddy lists seven types of extrinsic support; verifiable consequences,
+powerful new methods for solving open problems, simplifying and systemiz-
+ing theory, implying previous conjectures, implying intuitive or aesthetic
+truths, and strong intertheoretic connections. In identifying these seven
+types of extrinsic support,c ompromise Platonism recognizes that extrinsic
+support comes in a wider variety than supposed hy either Quine/Putnam
+Platonism or Godel Platonism.
+At this point we have seen how Maddy's compromise Platonism
+characterizes both intrinsic and extrinsic support. Further we have seen
+how accepting both intrinsic and extrinsic support seems to avoid some of
+the objections that plagued Quine/Putnam Platonism and Godel
+Platonism. Maddy even defines another type of support, rules of thumb,
+which cannot be intrinsic because they are not based in direct perception
+but are nonetheless an "intuitive feeling." How, then, do we weigh all
+these different types ofj ustification when they are in disagreement?
+This is the challenge Maddy proposes for compromise Platonism—
+to provide a way to weigh different types of support for theoretical axioms
+in set theory and mathematics as a whole. Maddy remarks, we are left with
+"a fundamental problem, the problem of describing, explaining, and
+evaluating non-demonstrative arguments in mathematics"( 148). We can
+precLsely formulate this challenge; given a prospective axiom, describe
+how we can determine the truth-value for this axiom given its differing
+levels of intrinsic and extrinsic support. In framing this challenge, Maddy
+hopes to have shifted the Platonist dialogue to more fruitful ground.
+In my opinion,c ompromise Platonism necessarily leaves us ill-equipped
+to meet this challenge. More precisely, 1 believe that under certain circum
+stances, it appears highly unlikely that we can meet this challenge without
+falling subject to the same criticisms ofQ uine/Putnam and Godel Platonism
+that inspired compromise Platonism in the first place.T o demonstrate my con
+cern, consider two "prospective" mathematical axioms, one from set theory
+(the Axiom ofC hoice)a nd one from geometry (the parallel postulate).
+As discussed above,t he Axiom ofC hoice has strong extrinsic support.
+The axiom is necessary for parts of important areas of mathematics like
+analysis. For example, without the Axiom of Choice we cannot form the
+Least Upper Bound axiom for real numbers. What's more, the axiom is "in
+principle necessary for science"( Zermelo 187). Clearly, the Axiom ofC hoice
+is strongly supported by several different forms ofe xtrinsic evidence.
+A MOVE TO MORE FRUITFUL GROUND 79
+However, because the Axiom of Choice leads to extremely
+counter-intuitive results like the Banach-Tarski paradox,t he negation oft he
+Axiom ofC hoice has strong intrinsic support. The Banach-Tarski theorem
+shows that if we accept the Axiom of Choice,t hen all spheres are congruent
+by finite decomposition. Most counter-intuitively, the unit ball. A, is
+equivalent by finite decomposition to the union of two copies of itself.
+Obviously,s uch a result clashes with our common-sense intuition concerning
+three-dimensional volumes. Namely, the amount of water I can fit in one
+ball cannot fill two balls. Even Hilary Putnam saw the Banach-Tarski
+theorem as a plausible justification for rejecting the Axiom of Choice
+("Models" 429). In all, the Axiom of Choice is clearly well supported
+extrinsically and well refuted intrinsically.
+Our second example, the parallel postulate, has strong intrinsic
+support. To be sure, the parallel postulate is not, when simply stated aloud,
+immediately intuitive. However, this venerable postulate is necessary to
+form the geometric theorems that mirror common-sense geometric intu
+ition. Indeed, without the parallel postulate triangles can consist of three
+right angles. Given our substantial intuition concerning geometric
+shapes, this seems (intuitively) obviously impossible. Without going into
+many examples,I believe it is fairly easy to convince oneself that the parallel
+postulate does have substantial intrinsic support.
+However, the parallel postulate is outright refuted by extrinsic
+evidence. Modem physical observation of light under the influence of
+gravity has shown that the actual structure ofo ur universe is non-Euclidean.
+Indeed, our universe if filled with warps, bumps, and holes. As such, the
+parallel postulate is certainly not true of the physical universe in which
+we live. Putnam points to the parallel postulate as an example showing
+that "our notions of what is 'self-evident' have to be subject to revision...
+in the light of new [physical] theories"( "Mathematics" 302). In all, while
+the intrinsic evidence for the parallel postulate is strong, the extrinsic
+evidence outright denies the parallel postulate.
+Before us we have two cases where the intrinsic and extrinsic evidence
+tend to disagree. Maddy's challenge commands us to make a decision
+concerning these two axioms. We have three options: (1) side with the
+intrinsic evidence,( 2) side with extrinsic evidence, or (3) decide that
+the axiom/postulate is neither true nor false.
+The first option,s iding with the intrinsic view, leaves us open to the
+same criticism of Quine/Putnam Platonism that we purported to avoid in
+80 DAVID J.ANDERSON
+compromise Platonism. If we honor the intrinsic evidence regarding the
+Axiom of Choice, we must reject the Axiom of Choice. Unfortunately,
+this implies that entire areas of mathematics (those areas that require the
+Axiom of Choice) are unjustified. However, we criticized Quine/Putnam
+Platonism for precisely the same reason—that it left large areas of( unapplied)
+mathematics unsupported. Thus, if we side with intrinsic evidence we
+make ourselves vulnerable to the same criticisms that motivated our use
+of intrinsic evidence in the first place. We run into a similar problem with
+the parallel postulate. Honoring the intrinsic evidence means affirming
+the parallel postulate and rejecting non-Euclidean geometry. However,
+this seems to imply that all the work done in non-Euclidean geometry is
+not justified and not mathematics. Once again we are subject to the same
+criticism that motivates our use of the intrinsic view in the first place.
+The second option, siding with the extrinsic view, suggests we are
+open to the same criticisms that motivated our use of extrinsic evidence in
+the first place. Honoring the extrinsic evidence requires that we deny the
+parallel postulate and justify only non-Euclidean geometry. In rejecting
+Euclidean geometry, though, we reject one of the most well-studied areas
+of classical mathematics. If non-Euclidean geometry is true, then Euclid
+was not studying mathematics. Perhaps even more disconcerting, in
+abandoning Euclidean geometry it seems that we are not accurately
+reflecting the practice of mathematics. When mathematicians discover
+that a new area of mathematics is more physically useful, we do not simply
+abandon the old domain of mathematics as "wrong." Choosing option
+two, commits us to just such a view. Similarly, in honoring extrinsic
+evidence we affirm the Axiom of Choice. However, extrinsic evidence is,
+presumably, justified by its ability to approximate the truth about mathe
+matical entities. However, as Maddy's naturalism dictates, mathematical
+entities are "present" in the structure of the world we perceive. But the
+world we perceive does not include balls that behave as the Banach-Tarski
+paradox would suggest. In short, if our intuition and extrinsic support
+approximate the truth oft he same mathematical objects, then how can we
+account for their divergence on this matter? We criticized Godel
+Platonism for not providing an account of exactly how the different cate
+gories of extrinsic support work. In affirming the Axiom of Choice, we
+make ourselves vulnerable to the same criticism.
+What seems like the best option, assigning neither true nor false to
+the axiom/postulate, runs counter to the fundamental realist view. Given
+A MOVE TO MORE FRUITFUL GROUND 81
+that both non-Euclidean and Euclidean geometry seem to have a place in
+our mathematics and that the Axiom of Choice has counter-intuitive
+consequences, we might consider not assigning any truth value to these
+axioms. Perhaps the question of whether the Axiom of Choice is true is
+like asking whether my Honda is red or blue when I don't even own a car.
+Indeed, it would be convenient to say that in situations like these, the
+mathematician is justified in working in a model with the Axiom of
+Choice or without the Axiom of Choice—likewise for the geometer and
+the parallel postulate.
+Nevertheless, Maddy and her predecessor Godel contend that this is
+not an option. Godel observes that "Cantor's conjecture," speaking about
+the Continuum Hypothesis but the comment applies for all postulates,
+"must either be true or false"( 476). Maddy likens taking the third option
+to the "physicist[ solving] the question oft he free quark by adopting a phi
+losophy of physics according to which it is not longer a problem"( 129)
+which is simply contrary to the spirit of science. This, at once, seems
+hypocritical. Maddy takes as almost a Golden Rule, that" the philosopher's
+job is to give an account of mathematics as it is practiced, not to recommend
+sweeping reform"( 23). Nevertheless, the practice of mathematics clearly
+indicates that mathematicians see Euclidean and non-Euclidean geometry
+as equally true, or at the very least equally mathematical. In rejecting this
+third option, as most realist positions including Maddy's require, its seems
+that we fail to describe a fundamental aspect of mathematical practice—and
+describing and justifying mathematical practice is precisely Maddy's goal.
+Thus, it seems highly likely that for certain types of possible axioms,
+we are necessarily ill equipped to meet to the challenge of compromise
+Platonism. In at least two cases where the intrinsic support disagrees with
+the extrinsic support (parallel postulate and Axiom ofC hoice),t here is no
+available option for successfully meeting compromise Platonism's chal
+lenge. Indeed, based on these two examples, it seems highly likely that
+other possible axioms may encounter the same difficulties. TTus, with
+respect to at least these two axioms, it appears that when 1 take Maddy's
+challenge, I inevitably make myself vulnerable to the traditional criti
+cisms of Quine/Putnam Platonism and Godel Platonism that compromise
+Platonism sought to avoid.
+In closing, certainly compromise Platonism identifies the parts of
+Quine/Putnam Platonism and Godel Platonism that resonate to a large
+extent with the actual practice of mathematics. Further, compromise
+82 DAVID] ANDERSON
+Platonism provides a much more convincing account of mathematical
+intuition than was ever presented in Godel's writing However, we should
+not jump to the conclusion that compromise Platonism picks apart Godel
+and Quine/Putnam Platonism in precisely the way necessary to avoid
+traditional criticisms Rather, it seems that compromise Platonism may
+simply avoid these criticisms in the short run, but ultimately become
+vulnerable in meeting Maddy's challenge
+A MOVE TO MORE FRUITFUL GROUND 83
+Works Cited
+Geroch, Paul. Relativity from A to B. Chicago: U ofC hicago P, 1978.
+Codel, Kurt. "What is Cantor's Continuum Problem?" Philosophy of
+Mathematics: Selected Readings. Ed. Paul Benacerraf and Hilary
+Putnam. Cambridge: Cambridge UP, 1983.470-85.
+Hebb, D. O. Essay on Mind. Hillsdale, NJ: Lawrence Erlbaum Assoc.,
+1980.
+Maddy,P enelope. Realism in Mathematics. Oxford: Oxford UP, 1990.
+Putnam, Hilary. "Mathematics Without Foundations." Phibsophy of
+Mathematics:Selected Readings. Ed. Paul Benacerraf and Hilary
+Putnam. Cambridge: Cambridge UP, 1983. 295-314.
+." Models and Reality." Philosophy of Mathematics: Selected Readings.
+Ed. Paul Benacerraf and Hilary Putnam.C ambridge: Cambridge UP,
+1983.42 M6.
+Zermelo, Ernst." A New Proof of the Possibility of a Well-ordering." From
+Frege to Gddel: a Source Book in Mathematical Logic. Ed. Jean van
+Heijenoort. Cambridge: Harvard UP, 1967.183-98.

@@ -1,0 +1,344 @@
+Ergo
+an open access
+journal of philosophy
+Is Everything Revisable?
+PE tER Baumann
+Swarthmore College
+Over the decades, the claim that everything is revisable (defended by Quine and
+others) has played an important role in Epistemology and Philosophy of Science.
+Some time ago, Katz (1988) argued that this claim is paradoxical. this paper does not
+discuss this objection but rather argues that the claim of universal revisability allows
+for two different readings but in each case leads to a contradiction and is false.
+Keywords: Revisability; universal revisability; rationality
+Q
+uine influentially claimed that “no statement is immune to revision”
+(Quine 1961: 43). But what does it mean to say that “every statement is re-
+visable”? Let us assume that some subject S is revising some statement express-
+ing some proposition p at some time t just in case S has accepted or held true
+or believed the statement up to t but is, at t, not accepting it or holding it true
+or believing it any more; furthermore, S’s dropping of the statement is based
+on good reasons (otherwise the claim of universal revisability would be trivial,
+given that people can give up views for all kinds of motives, including very ir-
+rational ones). the notion of revisability used here is omissive rather than com-
+missive: Revising the statement that p involves giving it up but not necessarily
+adopting the statement that not p (in other words, it involves “contracting” one’s
+views with respect to p). there is also the question what the unit of revision is:
+statements, sentences, utterances, or propositions? Fortunately, nothing much
+depends on which answer we choose here. We can choose propositions as the
+units of revision, with “p” ranging over them. this is for the sake of simplicity;
+choosing one of the other candidates above as units of revision will only make
+the exposition more convoluted. Hence, one can say this: One is revising some
+(belief that) p at some time t just in case one has believed that p up to t but is, at
+Contact: Peter Baumann < pbauman1@swarthmore.edu>
+http://dx.doi.org/10.3998/ergo.12405314.0004.012 349
+350 • Peter Baumann
+t, not believing that p any more; furthermore, the dropping of one’s belief that p
+is based on good reasons.1
+Is this claim of universal revisability true? Jerrold Katz (1988: 72–7 4), for in-
+stance, argued that it is paradoxical. I will not discuss any objection like that
+here; my argument differs from Katz’s and similar ones.2 It is also not the aim
+of this paper to give an interpretation or discussion of either Quine or Katz.3
+Rather, I will argue that, given plausible assumptions, the claim of universal re-
+visability (as explained above) turns out to be false and leads to contradictions.4
+1. Wide Revisability
+two main readings of the revisability claim can be distinguished.5 First, a wide-
+scope reading: It is possible to revise everything simultaneously. Dropping (for
+the sake of simplicity only) the reference to time, we can also put it the following
+way (with “Rev” for “is being revised”):6
+(1) ◊ p Rev p.
+∀
+If (1) is true, then it is also true that: ◊ Rev (1).
+Second, there is a narrow- scope reading according to which each proposition
+1. One such reason could be that one discovers that one’s sources of evidence are not reliable
+and leave it open whether p or whether not p. Quine and others were or are strongly opposed to
+accepting the existence of propositions (as well as the use of modal notions: see below) but these
+debates won’t be taken up here.
+2. Katz focuses on the role of constitutive principles of belief revision (especially logical prin-
+ciples) and their role as premises in an argument leading to their rejection.
+3. See adler (2008: especially 285–2 86) for a defense of Quine against Katz. See also Resnik
+and Orlandi (2003: 301– 309), and in particular Colyvan (2006) for a more direct critique of Katz.
+For a modified Katzian argument see Elstein (2007). For Quine on revisability see, e.g., Ebbs (2016).
+4. I will use principles here which are axioms or theorems in S5 but not in some other systems
+of modal logic like, e.g., S4. I do find that these principles capture our ordinary notions of and in-
+ferences about the modalities very well but this is not the place to defend them in any detail; such
+an attempt would require a very different paper. Similarly, a discussion of the claim of universal
+revisability given other systems of modal logic would be very interesting but, again, require a dif-
+ferent paper. I am happy to admit that in this sense this paper is restricted to the likes of S5.
+5. I am leaving aside the interpretation of the claim as not truth- apt; see tamminga and Ver-
+haegh (2013). the revisability claim is usually not being presented and not interestingly taken in
+this way.
+6. “Rev (x)” is thus an ordinary predicate (like, e.g., “three feet tall (x)”). It is not an opera-
+tor and certainly not a modal operator. One might wonder whether “revisability” is a normative
+predicate, given that what is meant is revisability for a good reason. We can leave this question
+open here because even if the predicate is a normative one this would not affect the logic of the
+argument (it would not require the use of principles of epistemic or of deontic logic).
+Ergo • vol. 4, no. 12 • 2017
+Is Everything Revisable? • 351
+can be revised at some point. Even if we cannot give up everything in one fell
+swoop, no single proposition is immune to revision:
+(1*) p ◊ Rev p.7
+∀
+If (1*) is true, then it is also true that: ◊ Rev (1*).
+Let us first look at
+(1) ◊ p Rev p.
+∀
+Could this be false? many find this suggestion plausible. Suppose that
+(2) ◊ False (1).
+From (2) it follows that8
+(3) ◊ not ◊ p Rev p.
+∀
+One does not have to accept the alethic modal logic S5 (see, e.g., Hughes &
+Creswell 1996: 52, 59) to accept the plausible claim that whatever is possible is
+necessarily possible. Given this (plus the definitions of the box- and diamond-
+operator) (1) entails
+(4) not ◊ not ◊ p Rev p.
+∀
+Since (3) and (4) contradict each other, (1) and (2) cannot both be true (given
+the plausible assumptions made above). Either (1) is necessarily true or it is false
+and (2) is true. alternatively one could go from (3) (with the support of S5) to
+(5) not ◊ p Rev p,
+∀
+which contradicts (1). We have to give something up (though not necessarily
+everything). What should be given up then?
+Here is an argument in favor of (2) and against (1). (1) is either necessarily
+7. Leaving aside possible qualms about quantifying into modal contexts; see the classics
+Quine (1966) and Kaplan (1968).
+8. assuming that (a) p is false iff p is not true, and that (b) p is not true iff not p. at several
+points in the text I am going back and forth between object- and meta-l anguage. Since this does not
+pose a problem for my argument, I decided to go with ease of exposition; I trust that there won’t
+be confusion and leave aside more formal representations of the argument.
+Ergo • vol. 4, no. 12 • 2017
+352 • Peter Baumann
+true (a) or false. It is very hard to imagine how it could be merely contingently
+false. If (1) is contingently false, then there is a possible world w in which it is
+contingently true. However, in w it would then be true and also necessarily true
+(see above). Hence, there cannot be a world in which (1) is contingently false.
+Hence, it isn’t. We may then assume that if (1) is false it is necessarily false (b).
+(a) Suppose (1) is true, necessarily true. We may assume that even non-
+ideally rational subjects would come to recognize a necessary truth of this kind
+and recognize it as necessary (when considering it). I, at least, cannot see how
+rational subjects could (when considering a potential revision of their belief in
+such a necessary truth) have a good reason to deny and not affirm such a neces-
+sary truth. One might object that there are empirical necessities which one might
+rationally deny. Suppose mark twain is Samuel Clemens, and necessarily so
+(see, e.g., Kripke 1980: 34– 38). Someone might then receive misleading informa-
+tion from, say, an English Literature professor and reasonably come to believe
+that mark twain was a different person than Samuel Clemens. Wouldn’t such a
+person have a good reason to deny such a necessary truth? In reply, one could
+even concede this particular point but also insist that our claim (1) is very differ-
+ent from empirical identity statements (like “Samuel Clemens = mark twain” or
+also “Water = H O”). But what then about a different case? Consider an a priori
+2
+necessary truth like Fermat’s conjecture. Couldn’t, for instance, some mathema-
+tician of the 18th century have had good reasons to deny or not affirm the truth
+of the conjecture? to be sure, under certain circumstances they might have been
+epistemically blameless to do so but even that wouldn’t turn their reasons to do
+so into good reasons. What about a necessary truth that is so complex that even
+a highly rational human being could not grasp it? this is not a problem here be-
+cause a highly rational human being would not be able to adopt, revise or even
+entertain that belief in the first place (see above on the notion of revision).9
+Since revisability is revisability for good reasons, we should conclude that
+there is no good reason, even for non-i deally rational subjects, to revise (1). In
+other words, (1) is not revisable. Hence, (1) is false if it is true (which is our as-
+sumption for reductio). Hence, (1) is false. Since (1) is also true if it is true, it is
+both true and false if it is true. Hence, (1) is false and leads to a contradiction.
+(b) Suppose now that (1) is false. then it is, of course, also possibly false and
+(2) is thus true. In both cases (a, b) we have to conclude that (1) is false and (2) is
+true: not everything is revisable (in the sense of (1)).
+9. If reasons are factive (see, e.g., Littlejohn 2012), then one cannot have reasons to hold a be-
+lief in a (necessary) falsehood or to deny any (necessary) truth (though one might have factive rea-
+sons to suspend belief). I don’t want to discuss, adopt or even defend this controversial view here.
+Ergo • vol. 4, no. 12 • 2017
+Is Everything Revisable? • 353
+2. Narrow Revisability
+But perhaps we should rather choose the narrow- scope reading:
+(1*) p ◊ Rev p.
+∀
+If we assume, paralleling the above, that this could be false, we get
+(2*) ◊ False (1*).
+Reformulated, this turns into
+(3*) ◊ not p ◊ Rev p.
+Given uni ∀ versal instantiation (uI)10 and given the unproblematic assump-
+tion (unproblematic here; see Footnote 1) that there are propositions (Ea), (1*)
+entails a list of its instantiations n of the form
+(4*) ◊ Rev (n/p).
+Call this list “L”.
+(3*) entails that it is possible that there is a proposition that cannot be revised.
+If propositions are—a s can be plausibly assumed—a bstract objects and exist in
+all possible worlds,11 then we can use the following inference rules (with “F” as
+a predicate variable):
+10. For this kind of way of deriving the contradiction in general see the brief passage in Coly-
+van (2006: 7).
+11. What if an actual particular does not exist in some non- actual possible world? Suppose
+moses did exist but would not have existed under certain circumstances. then one could perhaps
+argue that singular propositions involving moses would not exist under such circumstances even
+though they exist in the actual world. See for this, e.g., Kripke (2013: 39), Plantinga (1983), Wil-
+liamson (2002), and Stalnaker (2010). However, we can put these kinds of cases aside here (without
+deciding upon them) because they don’t pose a problem for non-s ingular propositions (and such
+propositions seem paradigmatic for the idea of universal revisability). It is sufficient for present
+purposes to show that universal revisability is not tenable if applied to non- singular propositions.
+Furthermore, it is not obvious that one cannot use, for instance, Fregean resources (see, e.g., Frege
+1997) to argue that all propositions exist in all possible worlds (necessarily). Finally, even though
+we have an idea about the difference between a world containing Socrates and a world not con-
+taining him, we don’t seem to have any halfway clear idea about the difference between a world
+containing a certain proposition and a world not containing it (putting the case of singular propo-
+sitions aside here); we have a good idea of the existence of some proposition but no good idea of its
+non- existence. apart from this, if propositions are sets of possible worlds or functions from worlds
+to truth- values, how could they then not exist in all possible worlds?
+Ergo • vol. 4, no. 12 • 2017
+354 • Peter Baumann
+(IR- a)
+◊ p F(p)
+__________
+p∃ F(p),
+∃
+or even
+(IR- b)
+◊ p F(p)
+__________
+□ ∃ p F(p).12
+∃
+We can also use the following two conditionals:
+(IRa) [◊ p F(p)] p F(p);
+∃ →∃
+(IRb) [◊ p F(p)] □ p F(p).
+∃ → ∃
+all this and (3*) entails that there is a proposition which falsifies its entry
+on L, the list of instantiations based on (1*) (see (4*)). Hence, (3*) is incompat-
+ible with L, the list of form (4*)—t hey cannot both be true. So, (1*) and (2*) from
+which they were derived cannot both be true.
+We can recapitulate the above argument in the following way. (1*) entails
+(via (uI) and based on (Ea)) a list of the form of (4*), L:
+(5*) ( p ◊ Rev p) L.
+∀ →
+Hence, we get the following argument:
+(1*) p ◊ Rev p
+∀
+(5*) ( p ◊ Rev p) L
+∀ →
+(6*) L [(1*), (5*)]
+12. thanks to a referee here.
+Ergo • vol. 4, no. 12 • 2017
+Is Everything Revisable? • 355
+the argument from (2*) can be summarized in the following way (with (3*)
+standing in for (2*) as its reformulation):
+(3*) ◊ not p ◊ Rev p
+∀
+(7*) ◊ p not ◊ Rev p [(3*)]
+∃
+(8*) (◊ p not ◊ Rev p) p not ◊ Rev p [(IRa)]
+∃ →∃
+(9*) ( p not ◊ Rev p) not L
+∃ →
+(10*) not L [(7*), (8*), (9*)]
+(11*) not p ◊ Rev p [(5*), (10*)].
+∀
+this gives us the incompatibility of (1*) and (2*). alternatively, one could refor-
+mulate (3*) as saying that there is a possible world in which there is an unrevis-
+able proposition. Given that propositions exist in all possible worlds, one can
+then infer
+(11*) not p ◊ Rev p.
+What sho∀uld we give up then? We can indeed argue for (2*) and against
+(1*). If (1*) is necessarily true, then we can make an argument parallel to the one
+above for the wide reading of the revisability claim and conclude that (1*) is
+false.13 If (1*) is false, then it is, of course, false. Could (1*) be contingently true?
+It couldn’t because then (2*) would be true; and if (2*) is true then (1*) is false.
+alternatively, one could argue that for some particular proposition q (1*) entails
+that it is possible to revise q. Given S5, it is then also necessarily possible to revise
+q. We can then infer that each proposition is necessarily revisable (since q is arbi-
+trarily chosen). Furthermore, given that propositions exist in all possible worlds,
+we can infer that necessarily each proposition can be revised. In other words, (1*)
+is necessarily true.14
+Hence, if (1*) is true, then it is false. Given that it is true if true, we can, again
+develop a contradiction from (1*). (1*) is false and should be rejected while (2*)
+turns out to be true.
+13. I am sparing the reader the repetitiveness of going through the details of the parallel argu-
+ment here.
+14. thanks to a referee here.
+Ergo • vol. 4, no. 12 • 2017
+356 • Peter Baumann
+3. What Then?
+Both the wide and the narrow universal revisability claim are false and lead
+to contradictions. So, in case we held (1) or (1*), we should give them up. We
+should “revise revisability”.15
+Where does all this leave us? a “mild” way of rejecting (1) or (1*) consists in
+restricting the claim (see also Resnik & Orlandi 2003: 305):
+(X) Everything except (X) is revisable.
+However, (X) seems ad hoc, at least prima facie. One would have to say
+something more substantial about kinds of claims that are revisable and kinds
+of claims that are not (which might even result in a “contra-Q uinean” way back
+from issues of revisability and confirmation to analyticity; see Ebbs 2016 on this).
+Lacking anything like this, we should be very skeptical of anything like (X) and
+rather: radically revise radical revisability.
+Acknowledgments
+I started writing this paper a few years ago, immediately after a (then) student
+of mine, mitchell Slapik, visited me in my office to ask questions about universal
+revisability. I am very grateful to mitchell for his questions as well as for discus-
+sions and remarks on earlier versions of this paper. I am also indebted to Darrell
+15. Colyvan (2006: 7– 8) very briefly discusses the type of argument made here. He holds that
+such an argument does not go through because the principles of modal logic used here have no
+equivalent in the relevant epistemic logic we should rather use. the conclusion can be derived
+“only if the access relation is transitive and symmetric – logics such as S5” (Colyvan 2006: 7). and:
+“there are well-k nown and compelling arguments as to why the appropriate system for episte-
+mology cannot be as strong as S5. the appropriate logic is usually thought to be a non-s ymmetric
+logic . . . the contradiction can only be derived if we adopt a fairly strong modal system – one that’s
+inappropriate as an epistemic logic.” (Colyvan 2006: 8) there are two points one can make in reply
+here. First of all, epistemic logic is not needed here to derive the above results because the notion
+of revisability does not bring with it any problematic epistemic operators at all and all the logical
+work done here by operators is done exclusively by the modal operators. (See along the same lines
+Chase 2012: 359: “the world-s hifting in Colyvan’s proof . . . is being carried out by way of the box
+and diamond operators. these seem to be the standard alethic operators, rather than epistemic or
+doxastic operators. Worries about S5 as an epistemic logic are therefore rather by the way.”) Sec-
+ond, even if an epistemic logic were relevant here and should in general not include the assump-
+tion that the accessibility relation is transitive or symmetric, one would still have to show that in
+this particular case, the case of revisability, transitivity or symmetry of the accessibility relation is
+violated. this seems implausible. Even if epistemic logic in general does not allow for a symmetric
+and transitive accessibility relation, the alleged logic of revisability (which, again, I don’t think is
+called for here) can or could.
+Ergo • vol. 4, no. 12 • 2017
+Is Everything Revisable? • 357
+Rowbottom for very helpful comments and suggestions. Finally, I am grateful to
+several referees for their very instructive remarks.
+References
+adler, Jonathan (2003). the Revisability Paradox. Philosophical Forum, 34(3–4 ), 383–3 89.
+https://doi.org/10.1111/1467- 9191.00145
+Chase, James Kennedy (2012). the Logic of Quinean Revisability. Synthese, 184(3), 357–
+373. https://doi.org/10.1007/s11229- 010- 9819- y
+Colyvan, mark (2006). naturalism and the Paradox of Revisability. Pacific Philosophical
+Quarterly, 87(1), 1– 11. https://doi.org/10.1111/j.1468- 0114.2006.00244.x
+Ebbs, Gary (2016). Reading Quine’s Claim that no Statement Is Immune to Revision. In
+Frederique Janssen-L auret and Gary Kemp (Eds.), Quine and His Place in History
+(123– 145).
+Elstein, Daniel Y. (2007). a new Revisability Paradox. Pacific Philosophical Quarterly,
+88(3), 308– 318. https://doi.org/10.1111/j.1468- 0114.2007.00294.x
+Frege, Gottlob (1997). thought. In michael Beany (Ed.), the Frege Reader (325– 345).
+Blackwell.
+Hughes, George Edward and max John Creswell (1996). a new Introduction to modal
+Logic. Routledge. https://doi.org/10.4324/9780203290644
+Kaplan, David (1968). Quantifying in. Synthese, 19(1– 2), 178–2 14. https://doi.org/10.1007/
+BF00568057
+Katz, Jerrold J. (1988). Realistic Rationalism. mIt Press.
+Kripke, Saul a. (1980). naming and necessity. Harvard university Press.
+Kripke, Saul a. (2013). Reference and Existence. the John Locke Lectures. Oxford uni-
+versity Press. https://doi.org/10.1093/acprof:oso/9780199928385.001.0001
+Littlejohn, Clayton (2012). Justification and the truth- Connection. Cambridge univer-
+sity Press. https://doi.org/10.1017/CBO9781139060097
+Plantinga, alvin (1983). On Existentialism. Philosophical Studies, 44(1), 1– 20. https://doi.
+org/10.1007/BF00353411
+Quine, Willard Van Orman (1961). two Dogmas of Empiricism. In From a Logical Point
+of View (2nd ed., 20–4 6). Harvard university Press.
+Quine, Willard Van Orman (1966). Quantifiers and Propositional attitudes. In the Ways
+of Paradox and Other Essays (183–1 94). Random House.
+Resnik, michael D. and nicoletta Orlandi (2003). Holistic Realism: a Response to
+Katz on Holism and Intuition. Philosophical Forum, 34(3– 4), 301– 315. https://doi.
+org/10.1111/1467- 9191.00140
+Stalnaker, Robert (2010). merely Possible Propositions. In Bob Hale and aviv Hoffmann
+(Eds.), modality: metaphysics, Logic, and Epistemology (21– 32). Oxford university
+Press. https://doi.org/10.1093/acprof:oso/9780199565818.003.0002
+tamminga, allard and Sander Verhaegh (2013). Katz’s Revisability Paradox Dissolved.
+australasian Journal of Philosophy, 91(4), 771–7 84. https://doi.org/10.1080/00048402
+.2013.772648
+Williamson, timothy (2002). necessary Existents. In anthony O’Hear (Ed.), Log-
+ic, thought and Language (233–2 51). Cambridge university Press. https://doi.
+org/10.1017/CBO9780511550287.012
+Ergo • vol. 4, no. 12 • 2017

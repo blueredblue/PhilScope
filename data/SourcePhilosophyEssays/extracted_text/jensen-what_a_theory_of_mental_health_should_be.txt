@@ -1,0 +1,544 @@
+Aporia Vol. 6, 1996
+What a Theory of Mental Health
+Should Be but Cannot Be
+David A. Jensen
+Introduction
+In the debate over the relevance and success of current mental health
+theory (and practice), Christopher Boorse argues, in his paper "What
+a Theory of Mental Health Should Be," that mental health should be
+modeled on the paradigm of physiological medicine. Indeed, his ambi
+tious project promises a revolution in mental health, one similar to
+that of physiological medicine following the development of the germ
+theory. However, can Boorse's recommendations for a new theory of men
+tal health hold up? In fact, the very Davidsonian principles on which
+Boorse grounds his project, those of mental causation and mental auton
+omy, also render such a theory impossible.
+In this essay, 1 will first explain Boorse's proposal for a new theory
+of mental health. Second, 1 will show how Davidson's principle of the
+anomalism of the mental, which follows from the same premises that
+Boorse explicitly accepts, essentially eliminates the efficacy of his pro
+ject for mental health. TTiird, 1 will address one criticism of Davidson's
+argument which, if correct, would refute my critique of Boorse.
+Boorse's Project for Mental Health
+Boorse's proposal for a new theory of mental health stems from a
+debate among mental health theorists. While some theorists advocate
+David is a senior majoring in philosophy at Brigham Young University. He
+intends to begin graduate studies this fall in philosophy. This essay was awarded first
+place in the 1996 David H. Yam Philosophical Essay Competition.
+2 D AVID A. JENSEN
+abandoning the very idea of mental "health," others, who are not so
+inclined, nevertheless disagree greatly about the definition and goals of
+mental health care (29).' The root of the problem, Boorse notes, arises
+from basing mental health only partially on the paradigm of physiolo
+gical health and medicine (29). From physiological medicine, mental
+health has borrowed the notion of health as well as other important
+assumptions (29-30). However, mental health theory has not accepted
+all the implications of physiological theory. Specifically, it has failed to
+adopt a strict notion of causal agents as both the cause of, and means of
+treatment for, a mental disease.
+There are two directions, then, that can be taken in response to
+the current problems. On the one hand, we could completely aban
+don the physiological vocabulary and reestablish our understanding of
+mental health on some other model (30). Or we could maintain our use
+of the physiological model, but accept all its features and implications.
+Boorse argues for the latter option.
+Building his theory of mental health on the physiological model,
+Bootse clarifies exactly what that model is. One crucial notion is that of
+health itself. Boorse defines a healthy organism as one that is not dis
+eased. Then, he defines disease as a "type of internal state of the organ
+ism" which "interferes with the performance of some natural function"
+and is not "in the nature of the species" (30). This notion of disease, he
+stresses, is value free.^
+'I consider the problems of mental health care to be a given. Boorse
+notes: "In most respects, our institutions of mental health are recent offshoots
+from physiological medicine, and their nature and future are under continual
+controversy. ... It seems an open question whether current applications of the
+health vocabulary to mental conditions have any justification at all" ("On
+the Distinction" 50). Also, he recognizes the views of some, such as Szasz, who
+consider the idea of mental illness as "scientifically worthless and socially
+harmful" (Boorse," What a Theory" 29).
+^As Boorse notes in another paper, this notion of disease as something
+that interferes with natural functions is very Platonic ("On the Distinction"
+58); that is, it is Platonic in that it defines a thing's goodness or wellness by how
+well it functions. This same notion of a thing's excellence (virtue or arete) being
+how well it performs its function is also developed significantly by Aristotle.
+WHAT A THEORY OF MENTAL HEALTH SHOULD BE 3
+Disease, however, must be distinguished from illness. A disease is
+an illness "only if it is serious enough to be incapacitating" and is thus
+"undesirable for its bearer, ... a title to special treatment,. .. and a valid
+excuse for normally criticizable behavior" (30-31).^ Boorse notes that
+he will focus on a theory of mental disease (not illness).
+Based on this paradigm of health and disease, Boorse argues that
+mental health, theoretically speaking, does not differ from physical
+health (31). That is, disease occurs in the mind in the same cause-effect
+manner that it exhibits in the body. To support this claim, two condi
+tions must be satisfied. One, there must be mental causation. Although
+philosophers disagree on this issue, Boorse appeals to Davidson and his
+arguments in favor of mental causation.^ Two, mental functions must
+be uniform across the species. Boorse appeals to Chomsky and Piaget for
+this point (31).
+'It will be difficult to be objective with the notion of illness, especially in
+mental health. In fact, in his paper "On the Distinction between Disease and
+Illness," Boorse states that the application of this distinction to mental illness
+is problematic. These difficulties contribute to the problems of current mental
+health paradigms which 1 shall mention later (paradigms that Boorse himself
+criticizes in advancing his project for a new theory). Boorse does mention, how
+ever, that his new theory of mental health is specifically concerned with the
+concept of disease, not illness. For example, most people experience a regular
+amount of tooth decay. This is certainly a disease, and a causal agent can be
+identified. However, as regular brushing prevents serious incapacitation, or
+"normally criticizable behavior," we would not want to label it an illness.
+When a disease should be considered an illness is, it appears, another issue,
+for societal discretion. But Boorse need not at this time worry ahout which
+diseases should be considered illnesses, just that disease in the mental realm can
+exhibit the same features as disease in the physical realm (specifically causality).
+''Boorse appeals to Davidson's influential paper "Actions, Reasons and
+Causes" (1963). The notion of causation Davidson defends here later becomes
+one of the three principles he tries to reconcile in "Mental Events" (1970), an
+essay to which both Boorse and 1 shall refer. And it is significant to note that
+Davidson's argument that mental causation does not contradict the anomalism
+of the mental, as elaborated in "Mental Events," is indicated, though not fully
+developed, in "Actions, Reasons and Causes" (see 15-16).
+4 D AVID A. JENSEN
+Critics of Boorse's project argue that it involves a sort of Cartesian
+dualism, which, consequently, would result in positing "disease entities
+within this immaterial soul" (32).^ The criticism essentially states that
+if there is no dualism, then the "mind" is entirely physical, and there is
+no need for a mental health apart from physiological health (32). But,
+if there is a dualism, even of beliefs and desires as opposed to the hrain
+and body, hence justifying a distinct mental theory, then we are left
+with all the ptoblems of traditional Cartesian dualism. Boorse tesponds
+to this accusation by another appeal to Davidson. If every mental event
+is a physical event then we can assume that every mental state (such as
+a mental disease) is a physical state (33). But, following Davidson, men
+tal states are "dated conditions of specific persons, rather than univer
+sal, i.e. types of conditions" (33). As such, type-to-type statements are
+not valid. That is, a mental phenomenon will not always have the same
+corresponding physical phenomenon. He states: "There is no guarantee
+that a mentalistically defined disease-type will coincide with any physio
+logically defined disease-type" ( 33). Essentially, he is asserting Davidson's
+principle of anomalous monism (which 1 shall address below).
+Because the mental withstands reduction to the physical, a disease
+must be classified not accotding to some corresponding physical state,
+but on the basis of "feelings, beliefs, and experiences" (34).^ Hence,
+'Boorse actually states the criticism in terms of two objections. The first
+is that it results in Cartesian dualism. The second is that it posits "disease enti
+ties within this immaterial soul" instead of determining disease based on rule
+following, social factors, and so forth. The first part of the second objection is
+really only a consequence of accepting the first objection. And the second part
+of the second objection is not really an objection, but rather an affirmation of
+the status quo, which Boorse shall argue against later. Hence, it seems that there
+is only one real objection here, that of Cartesian dualism.
+®This may sound as though Boorse is denying physically induced mental
+disease. 1 do not think he is. He would certainly recognize physical problems
+which cause mental disease. But then, 1 think he would argue that that would
+be an issue of physiology, and such diseases should not be defined as mental in
+the first place. His concern is with strictly mental disease. Although there has
+been great progress in the treatment of some mental disease with physiological
+remedies (for example, drugs), this progress by no means guarantees that all can
+be so treated, nor does it imply strict reduction.
+WHAT A THEORY OF MENTAL HEALTH SHOULD BE 5
+Boorse determines that the problem of dualism has been resolved.
+According to Davidson's argument, every mental act is physical; thus,
+there is no dualism. However, because the causal chain of (mentalistic)
+explanation cannot be reduced to physical causes, an autonomous sci
+ence of mental health is justified.
+Given that an independent field of mental health is justified,
+Boorse then examines and rejects current theories of mental health.
+One such theory bases a person's mental health on his or her fulfilling a
+set of (arbitrarily chosen) personality traits. A second theory abstracts
+conditions for mental disease from a set of already agreed upon instances
+of disease (36). A third favors examining behavior based on predeter
+mined criteria of normal behavior. This also leads to a related method of
+using the norms of the social or cultural system as a standard (38). The
+various problems of each method are obvious, and Boorse carefully
+examines and rejects each one. They all share one noteworthy feature.
+Each theory defines and treats mental disease symptomatically rather
+than causally. This practice constitutes a rejection of a significant aspect
+of the physiological model. Thus mental health theory (and practice)
+remains in a state similar to that of physiological medicine before the
+development of the germ theory.
+Boorse notes that the poor progress in mental health theory and
+practice is best explained by its reliance on early physiological medicine
+(which lacked the causal germ theory). Even as physiological medi
+cine matured, its lack of an explicit theory made the model of disease
+causation less available to mental health theory (41). However, by hav
+ing shown that the mental is both autonomous and causal, Boorse
+hopes to have shown that mental health is capable of fully adopting the
+physiological paradigm. Only the determination of a correct theory of
+mind, itself a formidable task, remains. Boorse recommends psychoana
+lytic theory (though not psychoanalytic practice) as the best model of
+mind that we have (42-43).
+Davidson's Principle of the Anomalism of the Mental
+Boorse's project, though obviously desirable, cannot be main
+tained in light of the very Davidsonian principles from which he draws
+support. He appeals to Davidson for two key points: establishing men
+tal causation, and overcoming the charge of Cartesian dualism (thus
+6 D AVID A. JENSEN
+establishing the independence of the mental). By establishing these two
+principles, he can argue that certain mental states cause mental disease.
+Then, by discovering these "bad" mental states (as with discovering a
+germ, or a bad gene in physiological medicine), one would have identi
+fied the causal agent of the mental disease. Knowing the causal agent,
+one could attempt a "cure." The implications of Boorse's appeals to
+Davidson, however, effectively render his project impossible.
+In Davidson's influential paper "Mental Events," he explains his
+position which makes compatible three otherwise seemingly contra
+dictory propositions. These propositions are as follows. First, mental
+events interact with physical events (the principle of causal interac
+tion). Second, events are related causally under strict deterministic laws
+(the principle of the nomological character of causality). Third, there
+are no strict deterministic laws on the basis of which mental events
+can be predicted and explained (the principle of the anomalism of the
+mental)( 208). The three principles appear contradictory, then, because
+if mental events are causal, and all causation is related by a law, then
+there are mental laws. Principle three explicitly rejects this.
+Davidson's argument which allows these propositions to obtain
+without contradiction is a version of the identity theory he names
+"anomalous monism." Davidson agrees with materialists that all mental
+events are, ontologically, physical events (hence "monism"). However,
+he disagrees that mental events can be correlated with their physi
+cal counterparts on a type-to-type basis (hence "anomalous"). Brian
+McLaughlin explains this by saying that "such mental-physical token
+identities do not imply mental-physical type-type identities since event
+tokens can fall under many types" (335).' Hence, no physical predi
+cate can be coextensive with a mental predicate. Although descriptions of
+events instantiate a law, the same is not true of singular statements
+of causal events (215).
+Given anomalous monism, the anomalism of the mental does not
+contradict the other two principles. Because the mental is too complex
+to be reduced to the physical, it is also too complex (for a variety of
+'Brian McLaughlin's essay "Anomalous Monism and the Irreducibility of
+the Mental" is very helpful as an aid to better understanding Davidson's paper
+"Mental Events" and his position regarding anomalous monism.
+WHAT A THEORY OF MENTAL HEALTH SHOULD BE 7
+reasons) to be reduced to laws. Regarding this latter principle, Davidson
+states, "There may he true general statements relating the mental and
+the physical, statements that have the logical form of a law; hut they
+are not lawlike (in a strong sense . . . )" (216). He thus distinguishes
+between what he calls homonomic laws and heteronomic laws. Homo-
+nomic laws are generalizations which give us reason to believe that the
+generalization could he improved upon with further conditions added.
+Heteronomic laws, however, are generalizations which give us reason to
+believe there is a precise law at work, hut such a law could only he spec
+ified in a different vocabulary (219). Davidson limits psychology (and
+the social sciences or any science dealing with prepositional attitudes)
+to heteronomic laws.
+Before returning to Boorse, 1 shall examine some of the arguments
+in Davidson's influential paper "Psychology as Philosophy," in which
+he elaborates and defends more fully the implications of anomalous
+monism. Intentional behavior cannot he explained or predicted in the
+same manner as other phenomena because of the holistic nature of
+the mental (230). Davidson states: "When we attribute a belief, desire,
+goal, intention or meaning to an agent, we necessarily operare within a
+system of concepts in part determined by the structure of the beliefs
+and desires of the agent himself" (230). Thus, the more we wish to
+increase the accuracy (lawlikeness) of a theory of behavior, the more
+we must bring into account a person's beliefs, motives, desires, and
+so forth. But in doing this, we necessarily impose conditions of coher
+ence and rationality in order to understand the person in the first place.
+Because we must to a degree arbitrarily impose ever increasing con
+ditions of coherence and rationality, we forfeit the increased accuracy
+we seek.
+Davidson argues that we can never give necessary and sufficient
+conditions to explain intentional actions using only belief, desire,
+and cause (232). Because we can never (granted the holistic nature of
+the mental) give an account of how decisions are reached in lighr
+of conflicting evidence, beliefs, desires (and all other sorts of inten
+tional attitudes and behavior), we cannot make psychological laws
+(232). Explanation by reason is useful. It allows us to single out a cause
+which explains behavior. However, it also limits the formation of any
+strict laws. Hence Davidson concludes: "The limit placed on the social
+sciences is set not by nature, hut by us when we decide to view men
+8 D AVID A. JENSEN
+as rational agents with goals and purposes, and as subject to moral
+evaluation" (239).®
+Returning to Boorse, how do Davidson's arguments frustrate the
+former's project? Davidson is concerned with the sciences and the social
+sciences. Boorse's discussion is concerned with physiological medicine
+and mental medicine. However, physiology draws upon features of the
+sciences, most notably in this discussion, the notion of causation. A
+theory of mental health, based on physiology, as Boorse advocates, then,
+would have to have this same notion of causality. Boorse does not object
+to this, but hinges his theory on it. But, following Davidson, causation
+in the mental cannot be generalized into strict laws. Because Boorse
+appeals to Davidson for his notions of mental causation and mental
+autonomy, he can hardly reject this conclusion lightly.
+Because there cannot be strict laws, Boorse's project is doomed. It
+is impossible, in his envisioned autonomous and causal mental realm, to
+say that mental state x will cause mental disease y. Unfortunately, with
+out such laws, treatment and identification of a mental disease based on
+its cause, based on the causal physiological model, is impossible. For
+example, we know what reaction various bacteria will cause in a human.
+Hence, once symptoms are linked with the bacteria, or the specific bac
+teria is in some way identified, treatment can begin.' In contrast, we
+**1 do not wish to simplify Davidson's arguments. There are more argu
+ments at work here, but 1 am able to review only some of them.
+'One might argue that often we do not know the effect a "germ" will have
+on the body; it may react differently in different people. This is not, however, a
+problem with Davidson's argument as applied to this situation. The argument
+merely holds that genetalizations of the physical realm can be further specified,
+while those generalizations of the mental/intentional tealm cannot be further
+specified, or at least they will teach an a priori limit. Thus, though in many cases
+we operate with "laws" in physiology which are merely generalizations, there is
+at least reason to believe that these laws can be made more specific. Professor
+K. Codell Carter has also brought to my attention the fact that bacteria, as in
+this example, are only necessary causes of disease, but not sufficient. In light
+of this my example is to a degree inaccurate. Nevertheless, in the treatment of
+a disease it is the case that one would want to eliminate a necessary cause,
+though there be other conditions which must obtain. Thus the example still
+illustrates the essential point of treating disease from a causal standpoint.
+WHAT A THEORY OF MENTAL HEALTH SHOULD BE 9
+cannot say (at least not in the way physiology does) how a person will
+react to belief x or desire y and so forth. It seems impossible to link symp
+toms of mental disease to certain mental states since there are no laws
+governing mental states. That is, different people often react differently
+to the same belief or desire. Of course, if we could understand all the
+beliefs, desires, and other intentional attitudes influencing a person,
+then perhaps we could predict and explain behavior (in a lawlike fash
+ion). But it is the very impossibility of the former that creates the
+problem in the first place. Although the examples 1 have offered are
+simple, I think a more complicated example (given that the argument
+rests on the holism of the mental) would serve only to prove the point
+more cogently.'"
+Criticism of the Anomalism of the Mental
+Using the notion of ceteris paribus ("all things being equal or con
+stant"), Robert Klee argues that if the anomalism of the mental holds,
+then not only are there no psychological laws, but also no physical
+laws. Since there clearly are physical laws, he asserts, then Davidson's
+anomalism of the mental cannot be correct. Klee restates Davidson's argu
+ment according to his own terminology and I think it is essentially
+compatible with Davidson's (393-94). Though he makes minor criti
+cisms in laying out his argument, I will address only his main criticism
+via ceteris paribus.
+Klee notes that Davidson's argument against psychological laws
+follows from the holistic nature of the mental and the subsequent need
+to maximize rationality (396). Davidson's position, Klee argues, assumes
+that there is a categorical difference in the operation of ceteris paribus
+clauses in the physical domain and the need to maximize rationality in
+the mental (intentional) realm (392). Klee translates ceteris paribus as
+"all things being equal" and cites Lakatos for support that ceteris paribus
+'"Davidson does note briefly, in his replies to "Psychology as Philosophy,"
+that he does not intend an attack on psychology, though his position may so
+appear. However, as Alexander Rosenberg points out in his essay "Davidson's
+Unintended Attack on Psychology," intended or not, Davidson's position
+severely limits the claims psychology can make.
+10 DAVID A. JENSEN
+is more the rule than the exception in scientific inference (397). Klee
+states that
+ceteris paribus clauses thus allow one to fix background states and
+conditions so as to rule out theoretically irrelevant factors:
+factors which either lack a sufficiently direct causal connection
+to the foreground state, or else have a direct causal connection to
+the foreground state but one which is of no theoretical interest
+to us. (397-98)
+Then Klee asks, "Is not maximizing rationality in the organism's behav
+ior basically a means of minimizing interference by theoretically
+irrelevant causal factors in the total behavior of the organism?" (398).
+Thus, Klee argues that maximizing rationality and minimizing irrel
+evant interference are the same, that there is no categorical difference
+between the two.
+Klee uses the following "classical experiment" as a case example.
+Biochemical secretions known as interferons have the ability to kill
+viruses (398). We attribute to these interferons, he notes, lawlike capa
+city." Mice which have been injected with an interferon suppressant die
+from several hundred times less viruses than are normally needed to kill
+mice not injected with the interferon suppressant. Klee notes that this is
+a clear case of ceteris paribus at work because other things must be
+assumed as being "i nactive or irrelevant in causing the observed capacity
+to kill viruses" (399)." In other words, if the drug that inactivates the
+"It is not clear that one would want to call the causal relations in physi
+ology "laws," or "lawlike" as Klee does. In fact, the laws that Davidson is con
+cerned with in "Mental Events" seem to be only the laws of physics—strict
+quantitative laws (see McLaughlin 342—48). This may thus constitute a first
+objection to Klee's use of this example. But, as Klee wants to talk about "laws"
+in physiology, and relate this to Davidson's laws, 1 will go ahead, assuming
+that the more formal and quantitative laws of Davidson have some connection
+to the "laws" of Klee.
+"The nature of ceteris paribus laws is itself an issue of debate. Klee recog
+nizes this. Thus, although 1 do realize that ceteris paribus could be formulated
+differently, 1 am using Klee's definitions here.
+WHAT A THEORY OF MENTAL HEALTH SHOULD BE 11
+interferons also causes a deadly allergic reaction in the mice, then this
+would already make them more susceptible to the virus in the first place.
+Or, as Klee notes, it must be assumed that the capacity of interferons to
+kill viruses does not turn on and off (399). Otherwise, it may simply be
+that the interferons belonging to the group injected with the supposed
+suppressant had simply shut off at that time. Klee concludes;
+just as the attribution of a psychological state is tremendously
+sensitive to a plethora of background beliefs and desires, so the
+attribution of an immunological state is tremendously sensitive
+to a plethora of background states involving millions of other
+effector cells, soluble molecular factors, and genetically controlled
+regulatory mechanisms.( 400)
+Interestingly, Klee's argument relates especially to this discussion
+inasmuch as he applies ceteris paribus to an issue in physiology. We might
+say, to restate and apply his argument, that if we cannot make laws
+of mental causation for mental disease, then we cannot make laws of
+physical causation for physiological disease. But, since we do attribute
+physiological disease to specific causes (germs, bad genes, and so forth)
+we must he capable of fixing psychological laws. His argument fol
+lows, at this level, and as he states, from a simple modus tollens (402),
+and would serve to eliminate my argument (from Davidson) against
+Boorse's project.
+Klee's argument, however, presents at least two problems: a
+degree of circularity, and a misunderstanding of Davidson. I shall first
+address his circularity. First of all, he argues that ceteris paribus (hereafter
+CP) is the equivalent of Davidson's thesis of the holism of the mental
+and the ensuing necessity to maximize rationality. Already this seems to
+be an oversimplification of Davidson's position, and one that I do not
+think follows. However, in order to continue with Klee's argument I will
+allow it; that is, I will allow CP to be equated to maximizing rationality
+(in the mental realm) and thus to be the feature that prevents psycho
+logical laws.
+Klee thus makes the following assertions:
+(1) if X (for example, a belief that causes an action) belongs to
+the intentional realm, then x relies on CP for prediction and
+explanation.
+12 DAVID A. JENSEN
+(2) If X (for example, a physical phenomenon) belongs to the
+physical realm, then x relies on CP for prediction and explanation.
+(3) If X belongs to the intentional realm and x relies on CP, then
+we can make no strict laws predicting and explaining x.
+(4) If X belongs to the physical realm and x relies on CP, then we
+can make no laws predicting and explaining x.
+(5) X can belong to the physical realm, rely on CP, and we can
+make strict laws predicting and explaining x.
+What I have stated above is Klee's argument (see 401-02 for his layout
+of it). Obviously, there are some unstated assumptions. But consider first
+the justifications for each.( 1) is justified by Davidson's thesis about the
+holism of the mental and the necessity of CP (= maximizing ration
+ality) in explaining and predicting intentional events. (2) follows from
+Klee's appeal to Lakatos. (3) follows from Davidson's principle of the
+anomalism of the mental.( 4) is what Klee wants to argue is implied by
+(3). (5), which appears obviously correct to Klee, rejects both (4) and,
+according to Klee, (3). However, how is it that one can move from (3)
+to (4), and then reject (3) based on (5)? This can be done only with the
+addition of this premise:
+(11) CP's function and effect in the intentional realm = CP's func
+tion and effect in the physical realm.
+It is this claim that I shall dispute in my second criticism of Klee. And
+this claim seems to imply, or assume, a second identity, that is:
+(12) the function and effect of features in the intentional realm =
+the function and effect of features in the physical realm.
+The second identity is more doubtful, and implies further that the
+two realms are the same. But the first assumption (II) at least completes
+the argument that Klee makes above, that is, it allows the inference
+from (3) to (4). The problem with circularity enters in (5). The circu
+larity is quite simple: the question at issue is the nature of laws in both
+the intentional and physical realms. For Klee to make his appeal, as he
+does in (5), that there are laws in the physical realm begs the question.
+He has already insisted that the generalizations or "laws" formed by CP
+in the mental (intentional) in no way differ from the "generalizations"
+or laws formed in the physical. If this is so, then why should one accept
+Klee's presumption that, because they are called "laws" in the physical,
+they should be called laws in the intentional? Why not instead move
+in the opposite direction and conclude that since we know that the
+WHAT A THEORY OF MENTAL HEALTH SHOULD BE 13
+mental only has generalizations and that the mental equates to the
+physical, then the physical has only generalizations? 1 am not arguing,
+and 1 do not think Davidson is arguing (or would argue), that such a
+move should be made. But by equating the two realms and then appeal
+ing to an intuitive notion of laws in the physical, when the nature of
+those laws is just what is at issue, Klee gives no reason for concluding as
+he does. And thus as he draws the conclusion, he begs the question.'^
+Klee's equating the effect of CP in the physical with the effect of
+CP in the intentional (ll) brings about the next criticism. Though sci
+entific inference, as with intentional speech and behavior, may have a
+host of background stuff, the nature of this background is different. Klee
+states, as I have noted earlier, that ceteris paribus "clauses fix background
+initial conditions in order to rule out theoretically irrelevant causal
+factor" (401, italics added). Though this may be the solution in scien
+tific inference, at least as Klee has argued, it is the very problem in
+intentional interpretation. When we fix conditions, we rule out causal
+factors that are relevant! Davidson's very point (which Klee seems to
+miss) is that although the physical can rule out background factors as
+"Davidson starts and concludes "Mental Events" by quoting lengthily
+from Kant's Groundwork. He quotes Kant as stating that because there must
+he freedom on the one hand, and determinism in the physical world on the
+other, we must somehow reconcile the two, hut without reducing one to
+the other. This is essentially Davidson's project, to keep the mental and the
+physical vocabularies separate. As such, Davidson will allow laws in the phys
+ical realm, hut not in the mental. And, as Davidson describes the mental, it
+generates only generalizations. Thus, when Klee argues that the physical oper
+ates just as the mental, then one is first of all inclined to think that this implies
+that there are no laws in the physical, only generalizations. Yet Klee wants to go
+in the other direction. But to go the other direction he must assume a strict
+notion of laws in the physical, and it is far from clear, as he has argued, that
+there are such laws when he has stated that ceteris paribus indeterminacy is the
+rule in the physical realm. Thus, his appeal to the physical laws that "we all
+know really exist" not only begs the question, hut is unjustified next to the free
+dom of the mental realm that "we all know really exists." This is not a problem
+for Davidson, or Kant, since they keep the two vocabularies separate.
+"See footnote 12.
+14 DAVID A. JENSEN
+irrelevant, the intentional cannot because the background factors are
+necessarily relevant. This is the whole point of Davidson's thesis as to
+the holism of the mental; beliefs, desires, and so forth are holistically
+related, and so they cannot be counted as irrelevant, or noninterfering.
+Klee is right, in a sense, that imposing rationality on a person in order
+to interpret speech and behavior is somewhat like CP. But whereas CP,
+in scientific inference, truly can rule out factors which are irrelevant, at
+least according to Klee, imposing rationality must overlook factors
+which are potentially very relevant. Thus a limit is placed on the for
+mation of psychological laws. Thus Klee's criticism fails.
+Emphasizing the same point, in his essay "P aradoxes of Irration
+ality" Davidson notes that only by imposing coherence and rationality
+can we understand another's beliefs, desires, and other propositional
+attitudes (302). However, Davidson notes, people often act irrationally.
+Although imposing inconsistency leads to unintelligibility, we must
+allow enough inconsistency in order to explain irrational behavior
+(303). In contrast to "all things being equal," imposing rationality is, as
+Davidson notes, "a matter of degree" (303). Davidson states:
+The underlying paradox of irrationality is this: if we explain it too
+well, we tum it into a concealed form of rationality; while, if we
+assign it incoherence too glihly, we merely compromise our ability
+to diagnose irrationality by withdrawing the background of ratio
+nality needed to justify any diagnosis at all. (303)
+The example of irrationality demonstrates the difficulty of interpreting
+intentional behavior, and the ensuing impossibility of strict psychologi
+cal laws. Hence, the imposing of rationality for the interpretation of
+speech and behavior, contrary to what Klee believes, is not simply a
+form of ceteris paribus.
+Conclusion
+In conclusion, I have argued that Boorse's project, which draws on
+Davidsonian principles for crucial support, is also limited by the impli
+cations of those very principles. The holism of the mental, as I have
+argued against Klee, is sufficiently different from the physical (at least as
+Klee describes it) sucb that it inhibits the establishment of strict laws.
+WHAT A THEORY OF MENTAL HEALTH SHOULD BE 15
+Although Boorse's project cannot achieve its aim of modeling mental
+health after physiology, such a direction (for mental health) may never
+theless be more effective then the current models of mental health
+(which he rejects). Thus in some respects, his project still seems like a
+promising direction to take mental health theory, though our expecta
+tions for such a project, as now constituted, must be severely limited.
+In other respects, the requirement of rationality, in order to explain
+behavior, seems difficult to reconcile with the depth of mental illness
+and irrationality that mental health care often seems to encounter.
+Works Cited
+Boorse, Christopher." On the Distinction between Disease and Illness."
+Phibsophy and Public Affairs 5.1 (1975): 49-68.
+." What a Theory of Mental Health Should Be." Psychiatry and
+Ethics. Ed. Rem. B. Edwards. Buffalo: Prometheus Books, 1976.
+29-48.
+Davidson, Donald. "Actions, Reasons and Causes." Essays on Actions
+and Events. Oxford: Clarendon P, 1980. 3-19.
+. " Mental Events." Essays on Actions and Events. Oxford:
+Clarendon P, 1980. 207-27.
+. "Paradoxes of Irrationality." Phibsophical Essays on Freud. Ed.
+Richard Wollheim and John Hopkins. Cambridge: Cambridge UP,
+1982. 289-305.
+. " Psychology as Philosophy." Essays on Actions and Events.
+Oxford: Clarendon P, 1980. 229-44.
+Klee, Robert. "Anomalous Monism, Ceteris Paribus and Psychological
+Explanation." British Journal of the Phibsophy of Science 43 (1992):
+389-403.
+McLaughlin, Brian P. "Anomalous Monism and the Irreducibility of the
+Mental." Actions and Events: Perspectives on the Phibsophy of
+Donald Davidson. Ed. Ernest LePore and Brian P. McLaughlin.
+Oxford: Basil Blackwell, 1985. 331-65.
+Rosenberg, Alexander. "Davidson's Unintended Attack on
+Psychology." Actions and Events; Perspectives on the Phibsophy of
+Donald Davidson. Ed. Ernest LePore and Brian P. McLaughlin.
+Oxford, Basil Blackwell, 1985. 399-407.

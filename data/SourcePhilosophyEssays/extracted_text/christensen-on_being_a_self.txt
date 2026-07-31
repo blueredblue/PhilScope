@@ -1,0 +1,488 @@
+AporiaVol. 12 number 1—2002
+On Being a Self:
+The Individuality of Possibility and the
+Possibility of Individuality
+RYAN G. CHRISTENSEN
+Part of Kant’s reason for writing the first Critiqueis to show the lim-
+its of theoretical reason; one of these limits is its inability
+to experience transcendence, to cognize supersensible objects, to
+intuit the sublime. But Kant doesn’t thereby want to make these experi-
+ences impossible—indeed, part of his reason for writing the second and
+third Critiques, along with such works as Religion within the Limits of
+Reason Alone, is to show how such experiences are possible. Kant locates
+the possibility of transcendence within his discussions of practical rea-
+son: Transcendence, impossible from a speculative point of view,
+becomes possible from a practical point of view. It is Kant’s analysis into
+this possibility that allows him to link the two halves of his dualistic self,
+and shows that transcendence, far from being impossible, is necessary to
+individuate a self.1
+18:142–43; see also A640/B668–A642/B670. References to Kant’s works will be to the page num-
+bers in the AkademieEdition. References with Aor Bfollowed by a page number indicate refer-
+ences to the first Critique; references beginning with the numeral 4 are to the Groundwork of the
+Metaphysics of Morals, those with 8 are to “What Does it Mean to Orient Oneself in Thinking?”
+and those with 9 are to the Jäsche Logic. Both the second and third Critiquesare in volume 5 of the
+AkademieEdition, so references to these works will also be indicated by CRand CJ, respectively.
+Ryan Christensen studies philosophy at Brigham Young University, and will begin
+his Ph.D. this fall at Stanford. This essay was awarded second place in the 2002
+RYANG. CHRISTENSEN
+I
+Kant assumes that it might be possible to have an experience of the
+divine:
+If I come across an immediate intuition of such kind that
+nature…could not provide that intuition, then a concept of God
+must serve to gauge whether this appearance agrees with all the char-
+acteristics required for a Deity.… Rational faith must come first, and
+then certain appearances or disclosures could…provide the occasion
+for investigating whether we are warranted in taking what speaks…to
+us to be a Deity.2
+Even in the first Critique, Kant makes it clear that practical reason is
+capable of intuiting the supersensible: “There is an absolutely necessary
+practical use of pure reason (the moral use), in which reason unavoidably
+extends itself beyond the boundaries of sensibility.”3
+Jean-Luc Marion also argues for the possibility of our experience of
+transcendence, but tries to locate that possibility within speculative rea-
+son. Marion calls this experience a “saturated phenomenon,” a phe-
+nomenon not bound by the normal phenomenological limitations.
+According to Marion, Husserl’s “principle of all principles” is too
+restrictive to allow for supersensible or saturated phenomena.4 Instead
+of ignoring the limits of the Husserlian principle, Marion wishes to
+examine the possibility of a phenomenon at the borders of these limits.
+Thus, the possibility of a saturated phenomenon might allow a new
+analysis of possibility and so question some of the foundations of phe-
+nomenology.
+Marion suggests that such a saturated phenomenon sheds light
+above all on possibility:
+By subjecting the phenomenon to the jurisdiction of possibility, phi-
+losophy in fact brings fully to light its own definition of naked possi-
+All italics are in the original.
+28:142–43.
+3Bxxv. Kant uses the term transcendent because such experiences transcend speculative reason:
+“In a word, these three propositions [freedom of the will, immortality of the soul, and existence of
+God] always remain transcendent for speculative reason....Their importance must really concern
+only the practical” (A799/B827–A800/B828).
+ONBEINGASELF
+bility. The question concerning the possibility of the phenomenon
+implies the question of the phenomenon of possibility.5
+Marion begins with a definition of ‘possibility’ he gets from Kant:
+“Whatever agrees with the formal conditions of experience (in accordance
+with intuition and concepts) is possible.”6Marion focuses on formal adher-
+ence to the concepts and to intuition, and not, thereby, intuition itself. He
+concludes his discussion with his working definition of ‘possibility’, one
+he seems to hold as a paraphrase of Kant: “Any phenomenon is possible
+that grants itself to the finitude of the power of knowing and its require-
+ments.”7But in this definition, Marion seems to ignore important points
+of Kant’s analysis of possibility.
+For Kant, as for Marion, possibility is determined by the formal con-
+ditions of experience. But for Marion, these conditions are limited solely
+to the concepts and to intuition, where for Kant the formal conditions
+include both the “theoretical” sources (intuition and concepts) and the
+“practical” sources (the moral law). In his preface to the second edition,
+he clarifies that theoretical reason is not uniquely constitutive of possibil-
+ity:
+To cognizean object, it is required that I be able to prove its possi-
+bility.… [And] in order to ascribe [real possibility] to such a con-
+cept…something more is required. This “more,” however, need
+not be sought in theoretical sources of cognition; it may also lie in
+practical ones.8
+By trying to locate experience of the supersensible within theoretical
+possibility, Marion seems doomed to failure. Kant says as much repeat-
+edly: “All attempts of a merely speculative use of reason in regard to theol-
+ogy are entirely fruitless and by their internal constitution null and
+4This principle limits the givenness of the phenomenon by making it reducible to the Iand
+always inscribed within a horizon of meaning.
+5Marion 177.
+6A218/B265; see Marion 177–78.
+7Marion 178.
+8Bxxvi. Likewise, the Jäsche Logicstates, “We have…certain cognitions, and in fact completely a
+priori, in practical laws, but these are grounded on a supersensible principle…and in fact in us our-
+selves, as a principle of practical reason” (9:68n). Elsewhere Kant withholds the name ‘cognition’
+RYANG. CHRISTENSEN
+nugatory.”9 But Marion’s failure to acknowledge Kantian practical possi-
+bility is not extraordinary. Since Kant’s most extended philosophical treat-
+ments of possibility are within his Critique of speculative reason, most of
+his discussions of possibility focus on speculative possibility.10Paul Guyer
+comes close to recognizing the importance of practical possibility, drawing
+an “analogy” between the logical/real distinction and Kant’s proof for the
+possibility of the categorical imperative in the Groundwork for the
+Metaphysics of Morals.11
+In the second Critique, Kant seems unclear how to talk about practi-
+cal possibility, making some confusing and seemingly contradictory asser-
+tions. For example, in a parenthetical remark meant to clarify the meaning
+of ‘postulate of pure practical reason’, Kant says, “By [this] I understand a
+theoreticalproposition, though not one demonstrable as such, insofar as it
+is attached inseparably to an a priori unconditionally valid practicallaw.”12
+A few pages later, Kant seems to distinguish speculative reason from theo-
+retical reason, though he elsewhere uses the terms synonymously:
+Because practical reason unavoidably requires the [postulates of prac-
+tical reason, which are the existence of freedom, immortality, and
+God]...theoretical reason is justified in assuming them. But this
+extension of theoretical reason is no extension of speculation, that is,
+no positive use can be made of it for theoretical purposes.… Hence this
+disclosure does not help us in the least for speculative purposes,
+although with respect to the practical use of pure reason it does help
+us to extend this cognition of ours.13
+What Kant means when he distinguishes an “extension of theo-
+retical reason” from an “extension of speculation” is unclear, for he
+immediately again uses the terms as synonymous. It may be that he is
+here confused; certainly a species of pure reason is justified in assuming
+the practical postulates, but not pure theoretical (or speculative) reason.
+Hence he is saying that pure reason must assume the practical postulates,
+from practical reason: “Rational faith, which rests on a need of reason’s use with a practical
+intent…is not inferior in degree to knowing, even though it is completely different from it in
+kind” (8:141).
+9A636/B664.
+10See particularly A218/B266–A224/B272.
+ONBEINGASELF
+but this extension of pure reason is not an extension of theoretical reason;
+no use can be made for theoretical purposes, though for practical pur-
+poses the postulates are essential.
+Kant concisely describes “practical cognition of reason” as “making
+the object actual.”14That the objects must be made actual implies that they
+are only practically possible. For example, the kingdom of ends “is a prac-
+tical idea for the sake of bringing about...that which does not exist but
+which can become real by means of our conduct.”15
+Kant divides practical from speculative reason, but seems uncom-
+fortable with the gap he thus creates. He needs practical possibility in his
+discussions of speculative possibility, and he often depends on speculative
+possibility in his practical proofs. One of the purposes of the third Critique
+is to connect speculative and practical reason through teleological judg-
+ment. Regardless of the success of this argument, practical and speculative
+reason are connected through Kant’s conception of the self and personal
+identity. This makes room for some rich investigations into what it means
+to be a self.
+II
+With this discussion of practical reason, Kant acknowledges the tra-
+dition of philosophical possibility begun by Aristotle. For Aristotle, possi-
+bility (dynamis) is essentially active: its primary meaning is “a source of
+movement or change [kinesis],”16and it is derived from the word dynasthai
+(“being able”). Aristotle is the first to see the connection between being
+and possibility: “Being is...distinguished in respect of possibility and actu-
+ality [energeia].”17
+Aristotle’s dynamis is a complex notion; he acknowledges that
+11Guyer 180–84.
+12CR5:122.
+13CR5:134–35. Commenting on this passage, Guyer says, “The unexpected concession he grants
+with one hand is immediately taken back with the other” (338n).
+14Bx.
+154:437n.
+161019a15.
+RYANG. CHRISTENSEN
+“dynamis and dynasthai have several senses.”18 Graham identifies three:
+dynamis-action (DA), dynamis-power (DP), and dynamis-substance (DS).19
+Aristotle himself often conflates DA and DP,20 and the distinction is not
+important to our discussion here.
+But Aristotle seems to think dynamis in this sense to be somewhat
+philosophically uninteresting: “Let us first explain dynamis in the strictest
+sense, which is, however, not the most useful for our present purpose. For
+dynamis and actuality extend beyond the cases that involve a reference to
+kinesis.”21 Aristotle equates dynamis (DS) with matter and actuality with
+substance or form.22 Thus he maps his early ontology of the categories
+onto a new metaphysics of possibility and actuality,23 making actuality
+identical with being.24This leads him to say that “actuality is prior to pos-
+sibility [dynamis].”25
+Like Aristotle, Heidegger focuses on active possibility, but unlike
+Aristotle he affirms that “higher than actuality stands possibility.”26 Like
+Kant, he recognizes logical possibility, but dismisses it as “empty.” He like-
+wise dismisses “modal possibility,” which he characterizes as “contingency
+of something objectively present,” and defines as “what is not yet real and
+not alwaysnecessary.”27In this sense, according to Heidegger, possibility is
+really a form of actuality; thus, as with logical possibility, this is not the pri-
+mary sense. Heidegger is most concerned with possibility as an existential:
+“possibility as an existential is the most primordial and the ultimate posi-
+tive ontological determination of Dasein.”28Being is identified with possi-
+171045b34–36, translation altered. Plato presents, in the mouth of the Stranger in the Sophist,
+the following definition of being: “I offer it as a definition of beings [ta onta] that they are pos-
+sibility [dynamis], and nothing else” (247e4, translation altered). But it is controversial whether
+this is actually a definition that either the Stranger or Plato would accept (see Owen 229–30n).
+181046a4.
+19 See Graham 183, 199–200. Ross counts five in his translation of Aristotle’s lexicon in
+Metaphyicsv (1019a15–33). Aristotle, however, sees some of these as “equivocal” (1046a6). Ross
+reduces the five definitions to two primary senses (see Graham 200). It is probably Ross’s identi-
+fication of DA and DP that leads him to translate dynamisas “potency.”
+20See Graham 205.
+211045b37–1046a3.
+22See 1050b2.
+23This is what, according to Graham, causes the inconsistencies of Metaphysicsvii. See Graham
+207ff.
+24Cf. 1028b3, 1050b2.
+251049b5, translation altered.
+ONBEINGASELF
+bility: “Dasein is not something objectively present which then has as an
+addition the ability to do something, but is rather primarily being-possi-
+ble. Dasein is always what it can be and how it is its possibility.”29
+Kantian practical possibility is thus like Heidegger’s existential possi-
+bility and Aristotle’s dynamis-A in that it is essentially active. But the focus
+of the first Critique is on speculative possibility, the brand of possibility
+more suited to Kant’s epistemological and metaphysical claims, and, it
+seems, to Marion’s phenomenology. These two concepts of possibility
+might seem almost completely unrelated—as separate, in fact, as meta-
+physics and epistemology are from ethics and aesthetics. Surely we equivo-
+cate in confusing the possibility of an object with the possibility of an
+action. Surely, that is, when I say, “It is possible for me to go to the store”
+(which may involve notions of free will), I use possibility in a different
+sense than when I say, “A three-sided plane figure is possible” (which
+involves only appearings).
+Many philosophers, including Kant, are uncomfortable with this
+division. Guyer sees the practical postulates as “part of the moral psychol-
+ogy that Kant was developing in all the major works of his final decade of
+philosophical activity.”30 Marion likewise may be relying on the slogan of
+his predecessor Emmanuel Lévinas that ethics precedes metaphysics.
+While Kant would certainly not say that ontology is reducible to
+ethics, his metaphysics is motivated by his concern for morality: “I had to
+deny knowledgein order to make room for faith; [because] the dogmatism of
+metaphysics…is the true source of all unbelief conflicting with morality.”31
+The relationship between practical and speculative possibility, as with
+practical and speculative reason, is complex, but essential to make this
+connection between metaphysics (of nature) and morality.
+26Heidegger 38. References to Being and Timerefer to the page numbers in the original German
+edition. I use Stambaugh’s translation throughout, but do not hyphenate Dasein.
+27Heidegger 143. Kant characterizes possibility as “the synthesis of various representations with
+the conditions of time in general,” and necessity as “the existence of an object at all times”
+(B184/A144–B184/A145).
+28Heidegger 143–44. Heidegger contrasts the term existential with category: “We shall call the
+characteristics of being of Dasein existentials. They are to be sharply delimited from the determi-
+RYANG. CHRISTENSEN
+III
+For Kant, possibility is always individual. Kant speaks of “the sum
+total of all possibility,” but then asserts that this is only an “idealof pure rea-
+son.”32 Possibility must be individual—according to Kant, for example,
+light and darkness are not possibilities to a blind person.33Even if the cat-
+egories are universal (as Kant claims), experience and (thus) intuition are
+not. Likewise with practical reason: though the moral law is the same for
+everyone, adherence to the moral law is not so universal. This is according
+to the very nature of ethics, insofar as it treats not how people act but how
+they ought to act. Thus, according to both the theoretical and practical
+conditions for cognition, possibility is not universal but individual.
+Marion quotes part of a passage in which Kant acknowledges the
+individual nature of possibility. The full quotation is as follows: “The cate-
+gories of modality [including possibility] have this peculiarity: as a deter-
+mination of the object they do not augment the concept to which they are
+ascribed in the least, but rather express only the relation to the faculty of
+cognition.”34This language is similar to that which Kant uses in his argu-
+ment that being is not a predicate: “Being is obviously not a real predicate,
+i.e., a concept of something that could add to the concept of a thing.”35
+Thus possibility is, like being, not a predicate—that is, not the property of
+an object or phenomenon.
+Any attribute can serve as a logical predicate if a complete and exclu-
+sive list can be constructed of its membership. This is why logical possibil-
+ity cannot be a predicate. As Cantor proved, such a set would have to be
+both larger (have greater cardinality) and smaller than its power set. So no
+set of all logical possibilities can be constructed, as the membership of
+such a set is indeterminate.
+Real speculative possibility fails to be a determinate set for quite
+another reason. Because possibility is based on experience, the list of pos-
+sibilities cannot be complete as long as one could have further experi-
+nations of being of those beings unlike Dasein which we call categories” (44). Thus, possibility as
+an existential means possibility defined otherwise than in terms of the categories (as is Kantian
+speculative possibility).
+29Heidegger 143.
+30Guyer 336–37.
+ONBEINGASELF
+ences. Here the Kantian and Heideggerian concepts of possibility merge,
+since, according to Heidegger, the items in a determinate list of possibili-
+ties are no longer real possibilities, but “something objectively present.”36
+Thus, to make a determinate set of possibilities is just to make possibility
+impossible, to deny there is real possibility.
+For example, if I could list all the really possible things that could
+happen to me tomorrow, I would have to be omniscient. I might be able to
+list all the things I am likely to do (go to the grocery store, write a philoso-
+phy paper, eat pancakes), but there are bound to be (at least) a few things I
+miss. The list will be (at least countably) infinite—it is certainly within the
+limits of real possibility for me to be hit, for example, by any of the aster-
+oids in the universe. But if I really am omniscient, then I will know what
+will happen to me tomorrow. There really won’t be any possibilities: just
+one as-yet unrealized actuality. That is, I would have no real possibility.
+Thus, even on a purely logical analysis, Kantian speculative possibil-
+ity intersects active, practical possibility. My ability to experience objects
+depends on the indeterminacy of my being, which relates to my ability to
+act. One cannot speak of universal possibility, only of the possibility of an
+individual self. An individual is thus surrounded by a halo of possibility, a
+halo which, in defining the individual’s possibilities, defines the individ-
+ual.
+Individuation does not occur merely on the basis of the transcen-
+dental ego—the ego is necessary but not sufficient for the creation of indi-
+viduals. Kant argues that the move by which we empirically determine the
+existence of external objects is also the move by which we empirically
+determine the existence of an enduring self: “The determination of my
+existence in time is possible only by means of the existence of actual things
+that I perceive outside myself.”37That is, the self is determined empirically
+and in relation to the external world.
+This is the thrust of Kant’s distinction between inner sense and
+apperception—inner sense is a kind of sensibility and hence a form of intu-
+ition: “Through inner sense we intuit ourselves only as we are internally
+affected by our selves, i.e., as far as inner intuition is concerned we cognize
+our own subject only as appearance but not in accordance with what it is
+31Bxxx.
+RYANG. CHRISTENSEN
+in itself.”38Kant sees that we cannot observe our inner state without in the
+same act changing our state—when I pause to examine the content of my
+thoughts, that act in itself changes the content of my thoughts, at least by
+introducing that examination among my thoughts. Through the transcen-
+dental unity of apperception, on the other hand, “I am conscious of
+myself not as I appear to myself [as with inner sense], nor as I am in myself,
+but only thatI am.”39Apperception involves the recognition of persistence
+of the subject through changes in the object; it recognizes the self as a self
+only because it is essentially other than the objects of the world: “The con-
+sciousness of my own existence is at the same time an immediate con-
+sciousness of other things outside me.”40
+This conclusion is similar to one of the major points of Marion’s
+argument. Marion begins by investigating the possibility of an object that
+does not comply with Kant’s requirements of speculative possibility—that
+the object agree with the concepts and intuition.41 He acknowledges that
+within the scope of mathematics and physics, an object that does not meet
+these requirements would truly be impossible: “This phenomenon quite
+simply would not appear; or better, there would not be any phenomenon
+at all.”42 He defines the saturated phenomenon as identical with the “aes-
+thetic idea” of Kant’s third Critique: “an intuition…
+for which an adequate concept can never be found.”43Just as Kant speaks
+of the sublime as being absolute,44Marion says, “Intuitive saturation, pre-
+cisely inasmuch as it is…absolute (unconditioned), imposes itself in the
+capacity of a phenomenon that is exceptional by excess, not by defect.”45If
+a saturated phenomenon were to appear, it would not be reducible to an
+object. Conversely, if there is an appearance that is not objectifiable, that
+32A573/B601–A574/B602.
+33A575/B603.
+34A219/B266. Insofar as intuition forms part of it, the faculty of cognition is individual. Thus, the
+possibility of, say, an object comes from its having a certain relation to an individual’s categories
+and intuition.
+35A598/B626.
+36Heidegger 143.
+37B275–76.
+38B156.
+39B157.
+40B276.
+ONBEINGASELF
+appearance is a saturated phenomenon.
+The excess of intuition prohibits the self from mastering the appear-
+ance, from reducing it to concepts. Because of this, Marion says, “Far from
+being able to constitute this phenomenon, the Iexperiences itself as con-
+stituted by it.”46 That is, “It becomes a me rather than an I.”47 The self is
+more than a transcendental ego; it is always also an immanent me. But this
+is a familiar point: in one sense it is nothing more than the idea that the
+self is both noumenal and phenomenal, an idea in which Kant locates his
+discussion of free will.
+In another sense, however, Marion’s claim may be new. He seems to
+ignore the necessarily individual nature of possibility, asking only if a satu-
+rated phenomenon is possible, never asking for whom it might be possi-
+ble.48 But, since it is the saturated phenomenon that constitutes the I,
+endowing a transcendental ego with the power of possibility, of change,
+and hence of selfhood, this saturated phenomenon must by definition
+appear within every halo of possibility. Marion does not, in the end,
+ignore Kant’s discussion of the individual nature of possibility, but is only
+concerned with what is by definition within the halo of possibility of every
+individual—that without which there are no individuals.
+Guyer also resolves the difficulties in Kant’s discussions of the possi-
+bility of the practical postulates on Kant’s conception of the self:
+The possibility of believing in the actual existence of theoretically
+indemonstrable conditions…lie[s] at the deepest level of the dualistic
+conception of human nature that underlies Kant’s moral psychol-
+ogy.… The postulates of pure practical reason, like the aesthetic
+experience of beauty as a symbol of the morally good, are products of
+human psychology that can be used by the moral will.49
+By “dualistic conception of human nature,” Guyer means primarily
+the idea that we are all both sensible and rational beings, and this dualism
+41Marion, of course, does not distinguish speculative and practical possibility.
+42Marion 209. Marion goes on to say that, instead of a phenomenon, there would be an “object-
+less perceptive aberration.” This, however, cannot be what he really means, as it assumes that all
+intuitions are perceptive (which is not the case with mathematical objects, those which Marion
+calls “poor” phenomena). It also begs the question of appearance: nothing, not even an aberra-
+tion, appears with a truly impossible object. To assume there is an aberration is already to assume
+there is something which is not reducible to an object.
+RYANG. CHRISTENSEN
+forces reason to “nurture every means to the performance of our duty that
+sensibility affords, such as the natural feelings of beauty and the sub-
+lime.”50It is experience of the beautiful and the sublime that unite the two
+halves of the self, in which the philosophical notions of possibility also
+merge.
+The saturated phenomenon can only be a condition of individua-
+tion if it is not prohibitively uncommon. Marion thus wants to reverse
+what he sees as Kant’s giving “privilege” to “logical and mathematical phe-
+nomena,” claiming, “it is not self-evident that this marginal poverty could
+serve as a paradigm for phenomenality as a whole.”51Instead, he asserts,
+The saturated phenomenon must not be understood as a limit case,
+an exceptional, vaguely irrational, in short, a “mystical,” case of phe-
+nomenality. On the contrary, it indicates the coherent and concep-
+tual completion of the most operative definition of the
+phenomenon.… And—we insist on this—here it is purely and simply a
+matter of the phenomenon taken in its fullest meaning.52
+Marion thus wants to take the saturated phenomenon as the most
+basic experience. It is the saturated phenomena that give meaning to our
+everyday experiences, not the reverse.
+I have consciousness of myself as an individual only back as far as my
+earliest memories. Marion classifies “pure historical [that is, memorable]
+events” as the first type of saturated phenomenon.53 Insofar as an experi-
+ence is remembered, it is not fully objectified; it is thus by definition satu-
+rated. My dawning consciousness as a child coincided with my acquisition
+of concepts and thus experiences that transcended those concepts. These
+early transcendent experiences, and all that have followed, together make
+me who I am.
+In addition to pure historical events, Marion calls Descartes’s idea of
+infinity by the name of the saturated phenomenon. He also cites Kant’s
+notion of the sublime and adds experiences of art, love, and the divine
+to the list of saturated phenomena.54 These experiences endow an indi-
+vidual with a halo of possibility, and thus with selfhood. As Kant says,
+43CJ5:342; see Marion 195–96.
+44CJ5:248.
+45Marion 209.
+ONBEINGASELF
+“True sublimity must be sought only in the mind of the judging per-
+son.”55
+The purpose of practical reason is to make the possible actual.
+Thus, whereas inner sense only cognizes the self as appearance, appercep-
+tion, which is direct intuition of the self, “self-actively” makes the self
+actual.56Both practical and speculative reason are involved in the identity
+of the self.
+Kant’s division of speculative from practical possibility leads to sev-
+eral problems that he can only resolve by combining the two notions. But
+the division goes right to the heart of Kantian dualism, and is thus only
+resolved by the union of the dualism of the self. It is among Kant’s cen-
+tral concerns in his work on ethics, aesthetics, and politics near the end
+of his life to examine what it is to be a self and thus how to reconcile the-
+oretical and practical reason.
+46Marion 210.
+47Marion 211.
+48Kant, on the other hand, is very concerned with this individuality: “A pure rational faith is
+RYANG. CHRISTENSEN
+therefore the signpost or compass by means of which the speculative thinker orients himself in his
+rational excursions into the field of supersensible objects; but a human being who has common
+but (morally) healthy reason can mark out his path” (8:142).
+49Guyer 336.
+50Guyer 366.
+51Marion 189.
+52Marion 212–13.
+53Marion 215.
+54Marion 213–15.
+55CJ5:256.
+56B68.
+RYANG. CHRISTENSEN
+References
+Aristotle. Metaphysics. Trans. W. D. Ross. The Basic Works of Aristotle. Ed.
+Richard McKeon. New York: Random House, 1941. 681–926.
+Graham, Daniel. Aristotle’s Two Systems. Oxford: Clarendon Press, 1987.
+Guyer, Paul. Kant on Freedom, Law, and Happiness. Cambridge: University
+Press, 2000.
+Heidegger, Martin. Being and Time. Trans. Joan Stambaugh. Albany: State
+University of New York Press, 1996.
+Kant, Immanuel. Critique of Judgment. Trans. Werner S. Pluhar.
+Indianapolis: Hackett, 1987.
+———.Critique of Practical Reason. In Practical Philosophy, 133–272.
+———. Critique of Pure Reason. Trans. Paul Guyer and Allen W. Wood.
+Cambridge: Univesity Press, 1997.
+———. Groundwork of the Metaphysics of Morals. In Practical Philosophy,
+37–108.
+———. The Jäsche Logic. Trans. J. Michael Young. Lectures on Logic.
+Cambridge: University Press, 1992. 521–642.
+———. Practical Philosophy. Ed. Mary J. Gregor. Cambridge: University Press,
+1996.
+———. “What Does it Mean to Orient Oneself in Thinking?” Religion
+within the Boundaries of Mere Reason and Other Writings. Trans.
+Allen Wood and George di Giovanni. Cambridge: University
+Press, 1998. 3–14.
+Marion, Jean-Luc. “The Saturated Phenomenon.” Trans. Thomas A.
+Carlson. Dominique Janicaud et al. Phenomenology and the
+“Theological Turn”: The French Debate. New York: Fordham University
+Press, 2000. 176–216.
+Owen, G.E.L. “Plato on Not-Being.” Plato I: Metaphysics and Epistemology.
+Ed. Gregory Vlastos. New York: Anchor Books, 1971. 223–267.
+Plato. The Sophist & The Statesman. Trans. A. E. Taylor. London: Dawsons
+of Pall Mall, 1971.
