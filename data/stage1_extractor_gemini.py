@@ -11,8 +11,6 @@ from google.genai import types
 client = genai.Client()
 
 # Choose your model:
-# - "gemini-2.5-flash" (or "gemini-1.5-flash"): Extremely fast, cheap/free, and highly capable
-# - "gemini-2.5-pro" (or "gemini-1.5-pro"): Deep reasoning power for complex academic prose
 GEMINI_MODEL = "gemini-2.5-flash"
 
 # =====================================================================
