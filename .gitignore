@@ -10,6 +10,7 @@ __pycache__/
 .venv/
 venv/
 env/
+.env
 
 # VS Code settings (optional — remove these lines if you want to share editor config)
 .vscode/
