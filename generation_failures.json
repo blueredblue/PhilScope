@@ -104,37 +104,37 @@
   "dix-should_the_government_be_your_friend_qwen3.7-plus": {
     "essay_id": "dix-should_the_government_be_your_friend",
     "model_label": "qwen3.7-plus",
-    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
-    "timestamp": "2026-08-06 15:28:08"
+    "last_error": "litellm.NotFoundError: NotFoundError: DashscopeException - Error code: 404",
+    "timestamp": "2026-08-06 16:30:37"
   },
   "andersen-heidegger_and_theology_qwen3.7-plus": {
     "essay_id": "andersen-heidegger_and_theology",
     "model_label": "qwen3.7-plus",
-    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
-    "timestamp": "2026-08-06 15:28:32"
+    "last_error": "litellm.NotFoundError: NotFoundError: DashscopeException - Error code: 404",
+    "timestamp": "2026-08-06 16:30:49"
   },
   "hendricks-the_realization_of_theory_qwen3.7-plus": {
     "essay_id": "hendricks-the_realization_of_theory",
     "model_label": "qwen3.7-plus",
     "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
-    "timestamp": "2026-08-06 15:28:58"
+    "timestamp": "2026-08-06 16:20:38"
   },
   "dix-should_the_government_be_your_friend_qwen-plus": {
     "essay_id": "dix-should_the_government_be_your_friend",
     "model_label": "qwen-plus",
     "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
-    "timestamp": "2026-08-06 15:20:54"
+    "timestamp": "2026-08-06 16:31:14"
   },
   "andersen-heidegger_and_theology_qwen-plus": {
     "essay_id": "andersen-heidegger_and_theology",
     "model_label": "qwen-plus",
     "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
-    "timestamp": "2026-08-06 15:21:06"
+    "timestamp": "2026-08-06 16:31:27"
   },
   "hendricks-the_realization_of_theory_qwen-plus": {
     "essay_id": "hendricks-the_realization_of_theory",
     "model_label": "qwen-plus",
     "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
-    "timestamp": "2026-08-06 15:21:18"
+    "timestamp": "2026-08-06 16:31:39"
   }
 }

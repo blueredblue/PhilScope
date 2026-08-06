@@ -3,13 +3,16 @@ import json
 import time
 import threading
 from typing import List, Dict
-from litellm import completion
+from dotenv import load_dotenv
 
 try:
-    from dotenv import load_dotenv
     load_dotenv()
 except ImportError:
     pass
+
+from litellm import completion
+
+
 
 # 1. MODEL CONFIGURATION
 
@@ -25,7 +28,7 @@ MODELS_TO_RUN: List[Dict[str, str]] = [
 RATE_LIMITS_RPM: Dict[str, int] = {
     "gemini": 15,
     "groq": 15,
-    "dashscope": 15,
+    "openrouter": 30,
 }
 DEFAULT_RPM = 15  # fallback for any provider not listed above
 
