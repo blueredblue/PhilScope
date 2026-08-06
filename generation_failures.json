@@ -1,0 +1,140 @@
+{
+  "dix-should_the_government_be_your_friend_gptoss_120b_groq": {
+    "essay_id": "dix-should_the_government_be_your_friend",
+    "model_label": "gptoss_120b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 8394, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-06 14:52:59"
+  },
+  "dix-should_the_government_be_your_friend_qwen36_27b_groq": {
+    "essay_id": "dix-should_the_government_be_your_friend",
+    "model_label": "qwen36_27b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.6-27b` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 8321, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-06 14:05:16"
+  },
+  "dix-should_the_government_be_your_friend_groq_compound": {
+    "essay_id": "dix-should_the_government_be_your_friend",
+    "model_label": "groq_compound",
+    "last_error": "litellm.BadRequestError: GroqException - {\"error\":{\"message\":\"Request Entity Too Large\",\"type\":\"invalid_request_error\",\"code\":\"request_too_large\"}}\n",
+    "timestamp": "2026-08-06 14:06:08"
+  },
+  "dix-should_the_government_be_your_friend_deepseek_chat": {
+    "essay_id": "dix-should_the_government_be_your_friend",
+    "model_label": "deepseek_chat",
+    "last_error": "litellm.BadRequestError: DeepseekException - {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+    "timestamp": "2026-08-06 14:06:17"
+  },
+  "andersen-heidegger_and_theology_gptoss_120b_groq": {
+    "essay_id": "andersen-heidegger_and_theology",
+    "model_label": "gptoss_120b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 8428, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-06 14:53:29"
+  },
+  "andersen-heidegger_and_theology_qwen36_27b_groq": {
+    "essay_id": "andersen-heidegger_and_theology",
+    "model_label": "qwen36_27b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.6-27b` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 8359, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-06 14:06:47"
+  },
+  "andersen-heidegger_and_theology_deepseek_chat": {
+    "essay_id": "andersen-heidegger_and_theology",
+    "model_label": "deepseek_chat",
+    "last_error": "litellm.BadRequestError: DeepseekException - {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+    "timestamp": "2026-08-06 14:07:50"
+  },
+  "hendricks-the_realization_of_theory_qwen36_27b_groq": {
+    "essay_id": "hendricks-the_realization_of_theory",
+    "model_label": "qwen36_27b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.6-27b` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 8351, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-06 14:08:25"
+  },
+  "hendricks-the_realization_of_theory_groq_compound": {
+    "essay_id": "hendricks-the_realization_of_theory",
+    "model_label": "groq_compound",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per minute (TPM): Limit 30000, Used 24851, Requested 7562. Please try again in 4.826s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"compound\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-06 14:09:27"
+  },
+  "hendricks-the_realization_of_theory_deepseek_chat": {
+    "essay_id": "hendricks-the_realization_of_theory",
+    "model_label": "deepseek_chat",
+    "last_error": "litellm.BadRequestError: DeepseekException - {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+    "timestamp": "2026-08-06 14:09:35"
+  },
+  "dix-should_the_government_be_your_friend_qwen3.7-max": {
+    "essay_id": "dix-should_the_government_be_your_friend",
+    "model_label": "qwen3.7-max",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 14:53:08"
+  },
+  "dix-should_the_government_be_your_friend_deepseek-v4-pro": {
+    "essay_id": "dix-should_the_government_be_your_friend",
+    "model_label": "deepseek-v4-pro",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:28:21"
+  },
+  "andersen-heidegger_and_theology_qwen3.7-max": {
+    "essay_id": "andersen-heidegger_and_theology",
+    "model_label": "qwen3.7-max",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 14:53:39"
+  },
+  "andersen-heidegger_and_theology_deepseek-v4-pro": {
+    "essay_id": "andersen-heidegger_and_theology",
+    "model_label": "deepseek-v4-pro",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:28:46"
+  },
+  "hendricks-the_realization_of_theory_gptoss_120b_groq": {
+    "essay_id": "hendricks-the_realization_of_theory",
+    "model_label": "gptoss_120b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 8426, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-06 14:54:00"
+  },
+  "hendricks-the_realization_of_theory_qwen3.7-max": {
+    "essay_id": "hendricks-the_realization_of_theory",
+    "model_label": "qwen3.7-max",
+    "last_error": "litellm.InternalServerError: InternalServerError: DashscopeException - Missing credentials. Please pass an `api_key`, `workload_identity`, `admin_api_key`, or set the `DASHSCOPE_API_KEY` or `DASHSCOPE_ADMIN_KEY` environment variable.",
+    "timestamp": "2026-08-06 14:49:36"
+  },
+  "hendricks-the_realization_of_theory_deepseek-v4-pro": {
+    "essay_id": "hendricks-the_realization_of_theory",
+    "model_label": "deepseek-v4-pro",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:29:11"
+  },
+  "dix-should_the_government_be_your_friend_qwen3.7-plus": {
+    "essay_id": "dix-should_the_government_be_your_friend",
+    "model_label": "qwen3.7-plus",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:28:08"
+  },
+  "andersen-heidegger_and_theology_qwen3.7-plus": {
+    "essay_id": "andersen-heidegger_and_theology",
+    "model_label": "qwen3.7-plus",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:28:32"
+  },
+  "hendricks-the_realization_of_theory_qwen3.7-plus": {
+    "essay_id": "hendricks-the_realization_of_theory",
+    "model_label": "qwen3.7-plus",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:28:58"
+  },
+  "dix-should_the_government_be_your_friend_qwen-plus": {
+    "essay_id": "dix-should_the_government_be_your_friend",
+    "model_label": "qwen-plus",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:20:54"
+  },
+  "andersen-heidegger_and_theology_qwen-plus": {
+    "essay_id": "andersen-heidegger_and_theology",
+    "model_label": "qwen-plus",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:21:06"
+  },
+  "hendricks-the_realization_of_theory_qwen-plus": {
+    "essay_id": "hendricks-the_realization_of_theory",
+    "model_label": "qwen-plus",
+    "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
+    "timestamp": "2026-08-06 15:21:18"
+  }
+}
