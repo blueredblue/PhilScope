@@ -1,0 +1,227 @@
+# Individual Judgment and Collective Objectivity: The James–Rudner–Douglas Thesis
+
+## Introduction
+
+Science is often imagined as the institutional form of rationality. Its methods are designed to discipline personal prejudice, private interest, and idiosyncratic judgment. Scientists are expected to proportion belief to evidence, submit claims to public testing, and revise their views in response to criticism. In this sense, scientific rationality appears to demand convergence: given the same evidence, competent investigators should ultimately arrive at the same conclusion.
+
+Yet scientific practice also depends upon individual judgment. Researchers must decide whether an anomalous result is a discovery or an error, whether a statistical signal is strong enough to warrant publication, whether a hypothesis deserves further investigation, and whether the costs of a false positive are greater than those of a false negative. In such cases, identical evidence may rationally lead different scientists to different beliefs or different practical decisions. One researcher may regard the evidence as sufficient for provisional acceptance, while another may regard it as insufficiently secure. Both may be intellectually responsible.
+
+This apparent conflict can be examined through what may be called the **James–Rudner–Douglas thesis**. The thesis is not a single doctrine formulated jointly by William James, Richard Rudner, and Heather Douglas. Rather, it names a line of thought connecting three claims. First, James argues that there are circumstances in which belief is not fixed by evidence alone and in which a person may legitimately allow practical or moral considerations to influence commitment. Second, Rudner argues that scientists, when accepting or rejecting hypotheses, must take account of the consequences of error. Third, Douglas develops this point into an account of **inductive risk**, according to which values inevitably enter decisions about how much evidence is enough for scientific acceptance, rejection, or further inquiry.
+
+Taken together, these ideas suggest that rational scientific judgment involves the management of multiple kinds of risk. There is the risk of believing what is false, failing to believe what is true, accepting a theory too readily, rejecting it too cautiously, acting on an unreliable result, or withholding action when action is urgently needed. Because individuals may reasonably assign different weights to these risks, they may rationally form divergent beliefs or commitments despite possessing identical evidence. This does not imply that evidence is irrelevant, that truth is merely a matter of preference, or that science collapses into relativism. It implies instead that scientific rationality operates at several levels: the level of individual judgment, the level of methodological decision, and the level of collective inquiry.
+
+The central philosophical task is therefore to explain how divergent individual judgments can coexist with the scientific community’s demand for objectivity. The apparent conflict is resolved once we distinguish truth-directed belief from action-guiding acceptance, personal rationality from institutional rationality, and convergence in procedures from immediate convergence in conclusions. The scientific community does not require every scientist to possess identical risk preferences or identical judgments at every moment. It requires that individual judgments be exposed to shared standards of criticism, publicly assessable evidence, reproducible methods, and institutional processes capable of correcting error. Collective rationality is not the elimination of individual judgment. It is the organized use of individual disagreement in the pursuit of reliable knowledge.
+
+## I. The Structure of the James–Rudner–Douglas Thesis
+
+The basic intuition behind the thesis is that evidence does not always determine a single rational response. Suppose a scientist has evidence \(E\) bearing on hypothesis \(H\). The evidence may raise the probability of \(H\), but it may not settle whether the scientist should accept \(H\), publish a claim about \(H\), use \(H\) as a basis for policy, or devote further research to testing \(H\). These decisions involve different standards and different consequences.
+
+James’s contribution concerns the limits of evidential determination. In “The Will to Believe,” he argues that certain options are “live,” “forced,” and “momentous.” Where evidence is insufficient to decide between them, and where refusing to choose is itself a form of choice, practical and moral considerations may legitimately influence belief. James is not simply saying that one may believe anything one wants. His point is more restricted: when the evidence underdetermines a decision and the issue matters deeply, a person may be entitled to commit herself in light of her broader intellectual and practical situation.
+
+Applied to scientific belief, this suggests that rationality is not exhausted by a mechanical comparison between evidence and proposition. Scientists may differ in background assumptions, tolerance for uncertainty, judgments about future evidence, or assessments of the importance of inquiry. Such differences can shape what they reasonably believe when evidence is incomplete.
+
+Rudner’s contribution is more specifically scientific. He argues that a scientist’s decision to accept a hypothesis depends partly on the consequences of being wrong. A hypothesis should not be accepted on a given degree of evidence without considering whether the errors resulting from acceptance would be serious. If a false positive could lead to widespread harm, the scientist may rationally require especially strong evidence. If a false negative would prevent an important discovery or delay a lifesaving intervention, the scientist may rationally accept a greater risk of error.
+
+Douglas generalizes this argument through the idea of inductive risk. Scientific inference is not only a matter of calculating probabilities. Scientists must determine when evidence is strong enough to warrant a conclusion, when a result is robust enough to publish, and when an observed effect should count as real rather than as noise. These are decisions under uncertainty. They inevitably involve judgments about the relative costs of different kinds of error. Values therefore enter science not only through the choice of research topics or applications, but also through the interpretation and acceptance of evidence.
+
+The synthesis can be stated as follows:
+
+1. Evidence often underdetermines belief or acceptance.
+2. Scientific decisions involve risks of different kinds of error.
+3. The costs of these errors may vary across persons, contexts, and social roles.
+4. Therefore, rational individuals may respond differently to identical evidence.
+5. Nevertheless, scientific communities can remain rational if they organize disagreement through public methods, criticism, replication, and procedures for revising collective judgment.
+
+The thesis thus rejects two extreme positions. It rejects the idea that rationality always requires a unique response to a body of evidence. But it also rejects the idea that any response is equally rational merely because individuals have different values. Divergence is permissible only within a structured space of evidence, coherence, epistemic responsibility, and publicly defensible risk assessment.
+
+## II. Why Identical Evidence May Rationally Produce Divergent Beliefs
+
+The most serious challenge to the thesis is straightforward. If two scientists have the same evidence, and if both are rational, should they not assign the same probability to the same hypothesis? In a simple Bayesian model, the answer might seem to be yes. If two agents have identical prior probabilities and update on identical evidence, they will arrive at identical posterior probabilities. Divergence would then indicate either a difference in evidence, a difference in priors, or an error in reasoning.
+
+This objection has force, but it depends upon a simplified picture of scientific belief. In actual inquiry, “identical evidence” is rarely sufficient to determine a unique judgment. Scientists may agree about the data while differing about the reliability of the instruments, the adequacy of the model, the plausibility of background assumptions, or the likelihood that an apparent anomaly has an as-yet-undetected alternative explanation. These are not necessarily irrational disagreements. They concern how the evidence should be interpreted.
+
+More importantly, a posterior probability is not itself a decision threshold. Even if two scientists agreed that the probability of \(H\), given \(E\), is 0.90, they could rationally disagree about whether that is enough to accept \(H\). One may be deciding whether to use the hypothesis in a high-stakes medical intervention; the other may be deciding whether to pursue a low-cost research program. A probability appropriate for one decision may be inadequate for another.
+
+This can be represented through a simple expected-loss framework. Let there be two possible errors:
+
+- **Type I error**: accepting \(H\) when \(H\) is false.
+- **Type II error**: rejecting or withholding acceptance of \(H\) when \(H\) is true.
+
+The rational threshold for acceptance depends not only on the probability of \(H\), but also on the relative costs of these errors. If the cost of a false positive is extremely high, acceptance may require a posterior probability close to certainty. If the cost of a false negative is extremely high, a lower probability may justify provisional acceptance or action.
+
+Consider a new vaccine candidate. Scientist A works in a context where premature approval could expose millions of people to serious harm. Scientist B works in a context where delaying approval could prolong an epidemic causing comparable or greater harm. They review the same trial data. A may rationally demand further evidence; B may rationally support conditional use while additional evidence is gathered. Their divergent judgments need not reflect different standards of honesty or competence. They may reflect different assessments of the relevant decision problem and the costs attached to error.
+
+The same point applies within a single institutional setting. A scientist deciding whether to publish a preliminary finding may rationally use a lower threshold than a regulator deciding whether to authorize a public intervention. Publication can invite further scrutiny; authorization can expose an entire population to risk. The evidence is the same, but the epistemic and practical stakes are different.
+
+There is also a distinction between **belief** and **acceptance**. To believe that \(H\) is more probable than not is one thing. To accept \(H\) for the purposes of calculation, experimentation, communication, or policy is another. Rudner’s argument is most compelling when applied to acceptance. A scientist can believe that a hypothesis is probably true while refusing to accept it as a basis for action because the cost of error is too high. Conversely, a scientist can provisionally accept a hypothesis for research purposes while acknowledging substantial uncertainty. Such acceptance is not necessarily full personal conviction. It is a practical stance adopted under specified conditions.
+
+The thesis therefore permits several forms of divergence:
+
+- divergence in credence;
+- divergence in confidence;
+- divergence in whether a hypothesis is accepted for a particular purpose;
+- divergence in whether evidence is sufficient for publication;
+- divergence in whether a result warrants policy or intervention.
+
+These forms should not be collapsed into one another. Much apparent disagreement disappears once we ask what exactly the scientists are disagreeing about.
+
+## III. Risk, Value, and the Meaning of Epistemic Rationality
+
+The phrase “epistemic rationality” is often used to refer to conformity with evidence rather than to practical success. If so, allowing error costs to influence belief may appear illegitimate. The truth of a proposition does not change because a false belief would be expensive. Why should values have any bearing on what one ought to believe?
+
+This objection identifies an important boundary. Values cannot make a false proposition true. Nor can the usefulness of a belief, by itself, justify representing it as evidentially established. Douglas is not committed to the idea that a scientist may inflate the probability of a favored hypothesis because the hypothesis would have beneficial consequences. The relevant role of values enters at the point where the scientist must decide whether the available evidence is sufficient for a particular epistemic or practical purpose.
+
+The distinction can be put in terms of two questions:
+
+1. **What does the evidence support?**
+2. **What should I do, assert, or accept given that support and the consequences of error?**
+
+The first question is truth-directed. The second is action-directed. Values should not replace evidence in answering the first question. But they are relevant to the second. The difficulty is that scientific practice frequently requires movement from the first question to the second. Scientists must say not merely “the evidence gives this result a probability of 0.95,” but also “this result is sufficiently secure to publish,” “this treatment is sufficiently safe to recommend,” or “this effect is sufficiently established to guide regulation.”
+
+In practice, even the first question may involve evaluative judgments because evidence is not self-interpreting. Scientists decide which models are adequate, which anomalies are serious, what level of measurement error matters, and which alternative explanations deserve attention. Still, acknowledging this does not erase the difference between evidence and values. It means that the evidential relationship is mediated by assumptions, standards, and purposes that should be made explicit.
+
+The notion of **epistemic risk** helps clarify the issue. Epistemic risk is the risk of getting things wrong in one’s claims or commitments. But it is not a single, uniform risk. A scientist may be more concerned with the risk of asserting a false claim, while another may be more concerned with the risk of overlooking a genuine phenomenon. A journal editor may prioritize the reliability of published findings; a research funder may prioritize the discovery of potentially transformative ideas; a clinician may prioritize patient safety. Each role has a legitimate epistemic orientation, though each may also be distorted by institutional incentives.
+
+The rationality of divergent judgment therefore depends upon whether the relevant risks are responsibly assessed. A scientist cannot simply invoke “high stakes” as an excuse for arbitrary skepticism or credulity. She must identify:
+
+- the proposition at issue;
+- the evidence supporting and opposing it;
+- the possible errors;
+- the consequences of each error;
+- the reversibility of the decision;
+- the availability of further evidence;
+- the relation between the decision and the scientist’s role.
+
+This makes rationality more demanding, not less. It requires reflective judgment about both evidence and consequences.
+
+## IV. James and the Problem of Commitment Under Uncertainty
+
+James’s contribution becomes especially important when scientific inquiry cannot remain indefinitely suspended. Scientific work frequently involves forced choices. A researcher must decide whether to pursue one hypothesis rather than another, whether to invest resources in a line of investigation, whether to treat an anomaly as significant, or whether to join a controversial research program. Refusing to decide may result in lost opportunities, premature abandonment, or the quiet preservation of an existing orthodoxy.
+
+James’s view helps explain why commitment can sometimes be rational even where evidence is incomplete. Inquiry is not conducted from nowhere. Scientists possess limited time, limited resources, and finite attention. If they await conclusive evidence before committing to a research direction, they may never generate the evidence that would justify commitment. Exploratory science often requires a willingness to act on possibilities before they are fully confirmed.
+
+This does not mean that scientists should substitute faith for investigation. The Jamesian point is that some beliefs are self-involving: the decision to trust a research strategy, collaborate with an unfamiliar investigator, or pursue an unpopular hypothesis may help determine whether the hypothesis receives the testing necessary for its eventual confirmation or refutation. In such contexts, an individual’s willingness to take an epistemic risk can contribute to the growth of collective knowledge.
+
+James also provides a framework for understanding disagreement without immediately pathologizing it. If evidence is incomplete and different investigators have different intellectual histories, temperaments, and practical commitments, their judgments may diverge. A cautious scientist may be rationally disposed to preserve error-avoidance; an adventurous scientist may be rationally disposed to pursue discovery. Both orientations have epistemic value. Excessive caution can suppress innovation; excessive boldness can generate false leads and wasted resources.
+
+The danger, however, is that James’s emphasis on the will to believe can be misunderstood as a license for motivated cognition. Scientific belief is constrained by the obligation to remain answerable to evidence. The Jamesian permission applies only where the evidence does not settle the issue, where the option is significant and live, and where commitment does not involve evading relevant criticism. Once evidence decisively turns against a belief, persistence is no longer justified merely because the belief is inspiring or useful.
+
+## V. Rudner, Douglas, and Inductive Risk in Scientific Practice
+
+Rudner’s famous question is whether a scientist, as a scientist, may accept a hypothesis when the probability of its truth is less than one. Since certainty is rarely available, scientific acceptance necessarily involves a threshold. Rudner argues that the threshold cannot be fixed by probability alone. The seriousness of being wrong matters.
+
+Douglas extends this insight by locating inductive risk throughout scientific practice. The risk occurs whenever evidence must be interpreted as sufficient or insufficient. It is present in choosing significance levels, classifying results as positive or negative, deciding whether a model is adequate, determining whether a measurement is anomalous, and judging whether an effect has been replicated. Statistical methods can discipline these decisions, but they do not eliminate the need for judgment. A significance threshold, for example, embodies a trade-off between false positives and false negatives. Selecting a threshold is not purely a mathematical act; it is a judgment about which errors are tolerable in a particular context.
+
+This has two implications for individual scientific rationality.
+
+First, there is no universal threshold that applies equally to every claim. The appropriate level of evidence depends partly on the consequences and context of acceptance. A preliminary finding in basic research may reasonably be reported with explicit uncertainty and invited for replication. A claim used to justify an irreversible environmental intervention may demand much stronger support.
+
+Second, scientific values should be distinguished from personal preferences. Some values are broadly epistemic, such as accuracy, explanatory power, coherence, and predictive success. Others are ethical or social, such as protecting vulnerable populations, avoiding discrimination, or preventing environmental harm. Douglas’s claim is not that every private preference should influence scientific inference. It is that where the evidence leaves room for a threshold judgment, relevant values cannot be excluded entirely.
+
+The scientific community should therefore ask not whether values are present, but whether they are appropriate, transparent, and open to criticism. A researcher who adopts a stringent threshold because false positives could harm a vulnerable population may be acting responsibly. A researcher who adopts the same threshold merely to obstruct an inconvenient result may not be. The difference lies in whether the reasoning is connected to legitimate epistemic and ethical considerations and whether it can withstand public scrutiny.
+
+## VI. The Apparent Conflict with Collective Scientific Rationality
+
+If individual scientists may rationally disagree, how can science function as a collective enterprise? Scientific communities seem to require common standards. Journals need editorial policies, laboratories need protocols, research groups need shared assumptions, and institutions need decisions. Persistent disagreement can produce paralysis, fragmentation, or the simultaneous promotion of incompatible claims.
+
+The apparent conflict arises from treating collective rationality as if it required psychological unanimity. But a scientific community need not be rational in virtue of every member holding the same belief. It can be rational in virtue of the ways it manages disagreement. Indeed, disagreement can improve collective inquiry by exposing hidden assumptions, testing the robustness of conclusions, and preventing premature consensus.
+
+The community’s demands are therefore better understood as demands concerning **public accountability** rather than uniformity. A scientist may hold a minority view, but she must disclose her evidence, methods, assumptions, uncertainty, and reasons for assigning a particular threshold. She must permit others to examine her work and must remain responsive to criticism. Scientific objectivity is achieved not by removing all perspective from individual judgment, but by creating procedures through which perspectives can confront one another.
+
+Several communal mechanisms are especially important.
+
+### 1. Public standards of evidence
+
+Scientific claims must be expressed in ways that allow others to assess them. Private conviction is insufficient. The scientist must specify how data were collected, how analyses were conducted, what alternatives were considered, and what would count against the claim. This requirement limits the role of personal values by making their effects visible.
+
+### 2. Replication and independent confirmation
+
+If one scientist adopts a low threshold and another a high threshold, independent replication can help determine whether the disagreement reflects legitimate uncertainty or an individual error. Replication does not mechanically settle every dispute, but it distributes epistemic responsibility across investigators with different assumptions and risk tolerances.
+
+### 3. Division of epistemic labor
+
+Different scientists can occupy different roles. Some pursue bold hypotheses; others stress-test them. Some develop exploratory models; others demand stringent validation. Some focus on discovery; others focus on safety, measurement, or reproducibility. This division of labor converts individual differences into a collective resource. The community need not decide in advance that one orientation is universally correct.
+
+### 4. Provisionality and staged commitment
+
+Scientific claims can be accepted for limited purposes and periods. A result may be treated as promising, publishable, or policy-relevant without being treated as conclusively established. Staged procedures allow communities to act under uncertainty while preserving opportunities for correction.
+
+### 5. Institutional safeguards
+
+Peer review, preregistration, data sharing, conflict-of-interest disclosure, statistical review, and independent oversight do not eliminate values or judgment. They constrain their arbitrary use. They make it more difficult for personal interests to masquerade as epistemic reasons.
+
+On this account, collective scientific rationality is not a demand that all individuals have the same risk profile. It is a demand that individual judgments enter a system capable of detecting and correcting error. The community’s rationality is procedural, historical, and distributed.
+
+## VII. Resolving the Conflict: Different Norms at Different Levels
+
+The conflict between the individual scientist and the scientific community can now be dissolved by distinguishing the relevant normative levels.
+
+At the **individual level**, a scientist must form beliefs and make decisions responsibly given her evidence, background knowledge, role, and assessment of error costs. It may be rational for her to withhold belief, adopt a provisional commitment, or favor one hypothesis over another when the evidence is underdetermining. She is not required to pretend that uncertainty has disappeared merely because the community would prefer a single conclusion.
+
+At the **communicative level**, the scientist has additional obligations. She must distinguish confidence from acceptance, disclose uncertainty, identify relevant value judgments, and avoid presenting a context-dependent decision threshold as if it were a purely evidential conclusion. A scientist may rationally act as though a hypothesis is true for research purposes while acknowledging that its truth is not established.
+
+At the **collective level**, the community must establish norms that make disagreement productive. It should encourage criticism, reward accurate correction, protect dissenting views, and distinguish methodological disagreement from bad faith. It must also decide when coordination is necessary. Public-health policy, for example, may require a common recommendation even when experts disagree. Such coordination does not prove that one expert had no right to dissent. It reflects the practical necessity of collective action.
+
+The alleged conflict persists only if we assume that a norm appropriate at one level automatically governs the others. The community may demand a standardized protocol for a clinical trial, while individual scientists may still differ in their private credences. An editor may require a certain evidential threshold for publication, while a researcher may reasonably regard a result as promising enough to investigate. A regulatory agency may refuse to authorize a treatment, while scientists may continue to believe that the treatment is probably effective. These are not contradictions because the relevant acts and standards differ.
+
+The key distinction is between **belief rationality** and **decision rationality**. Belief rationality concerns how strongly one should represent a proposition as true. Decision rationality concerns what one should do in light of uncertainty and consequences. The James–Rudner–Douglas thesis is strongest when it respects this distinction. It does not say that a person’s values alter the evidential probability of a proposition. It says that values can rationally affect what level of confidence is sufficient for a particular commitment or action.
+
+Even when the word “belief” is used broadly, the same resolution applies if we understand scientific belief as involving a posture toward inquiry rather than a bare mental representation. To “believe” a hypothesis in scientific practice may mean to treat it as worthy of pursuit, to use it in explanation, or to rely on it provisionally. These postures can rationally vary with risk and purpose.
+
+## VIII. Objections and Limitations
+
+The thesis nevertheless faces significant objections.
+
+### The threat of relativism
+
+If values influence acceptance thresholds, one might conclude that there is no objective scientific standard. Any scientist could defend a preferred conclusion by claiming to have a different risk tolerance.
+
+The response is that permissibility is not arbitrariness. Different thresholds may be rational only when they are connected to defensible assessments of error, evidence, and consequences. Moreover, the scientific community can criticize the relevance or proportionality of the values invoked. A risk assessment that ignores obvious harms, exaggerates remote possibilities, or selectively applies skepticism is defective. Objectivity consists partly in the availability of such criticism.
+
+### The problem of hidden values
+
+Scientists may claim that their judgments are purely evidential even when social values have shaped the threshold. This can conceal bias and make decisions harder to challenge.
+
+This objection supports, rather than undermines, the James–Rudner–Douglas thesis. If inductive risk is unavoidable, then pretending that values are absent is more dangerous than acknowledging them. Transparency enables scrutiny. Scientists should state what kinds of error they are prioritizing and why.
+
+### The danger of institutional capture
+
+If values enter science, powerful groups may attempt to manipulate evidential thresholds to serve commercial or political interests. Industry may demand weak standards for favorable findings and strong standards for unfavorable ones. Governments may suppress inconvenient evidence by declaring that the costs of error are too high.
+
+Here the solution cannot be to remove values from science, since that is impossible. The solution is institutional independence, plural review, disclosure of interests, open data, and procedures that expose asymmetrical standards. The community must distinguish legitimate concern about consequences from strategic obstruction.
+
+### The demand for convergence
+
+Some philosophers may argue that rational agents with the same evidence should converge, at least ideally. This norm has genuine importance. Shared evidence and shared methods should make disagreement narrower over time. The James–Rudner–Douglas thesis should not celebrate permanent divergence as an epistemic virtue.
+
+The proper conclusion is more moderate. Convergence is a regulative ideal, not an immediate requirement. Rational disagreement is most defensible when evidence is incomplete, models are contestable, or decision thresholds vary. As evidence accumulates and background assumptions are clarified, rational agents may be expected to update and converge. A scientist who refuses all possible correction is not protected by the thesis.
+
+### The moralization of scientific roles
+
+One might also worry that assigning different values to different scientific roles creates a hierarchy in which some scientists are expected to be cautious and others adventurous. This could reinforce institutional inequalities or permit certain actors to evade responsibility.
+
+The answer is that role differentiation must not become moral exemption. Every role requires evidential accountability. Exploratory scientists must report uncertainty; cautious scientists must recognize the costs of excessive skepticism; regulators must remain open to new evidence; innovators must consider downstream harms. Division of labor is valuable only when the roles interact through criticism and review.
+
+## IX. A More Adequate Conception of Scientific Objectivity
+
+The James–Rudner–Douglas thesis invites a reconstruction of scientific objectivity. Objectivity should not be conceived as the absence of values or the absence of individual perspective. Such an ideal is psychologically and historically implausible. Nor should objectivity be identified with the immediate agreement of all competent investigators. Scientific disagreement is often a condition of discovery.
+
+A more adequate conception is **critical objectivity**. On this view, a claim is objective to the extent that it is supported by methods and reasons that are publicly assessable, independently testable, and responsive to correction. Individual values may influence where a scientist sets a threshold, but they do not exempt her from public justification. The relevant question is not “Did values influence this judgment?” but “Were the values relevant, proportionate, disclosed, and open to criticism?”
+
+This conception also recognizes the temporal character of rationality. An individual scientist may be rational at one stage of inquiry in assigning a high probability to a hypothesis and rational at a later stage in revising that judgment. A community may be collectively rational even while holding a mistaken belief, provided that its procedures are capable of detecting and correcting the mistake. Rationality is not identical with infallibility. It concerns the quality of the processes by which belief is formed and revised.
+
+Collective objectivity is therefore a form of **organized fallibility**. Scientific institutions assume that individuals can err, that methods can mislead, and that consensus can be premature. They respond by creating redundancy, criticism, replication, and records of changing belief. Individual divergence supplies the raw material for these corrective mechanisms. If everyone were forced into conformity too early, the community might achieve agreement at the cost of suppressing evidence against its dominant view.
+
+This point is especially important in cases involving marginalized perspectives or neglected research questions. A community’s prevailing risk assessment may reflect the interests of dominant groups. Scientists who assign different importance to certain harms or possibilities may initially appear unreasonable because they challenge established priorities. Yet their divergence can reveal that the community’s supposedly neutral standards were themselves value-laden. Collective rationality sometimes advances through the articulation of previously excluded risks.
+
+## Conclusion
+
+The tension between individual epistemic rationality and collective scientific rationality arises from an overly simple picture of what evidence requires. If evidence were always complete, interpretable without background assumptions, and connected to action by a single universal threshold, then rational disagreement would indeed be difficult to defend. But scientific inquiry is conducted under uncertainty. Evidence must be interpreted, hypotheses must be accepted or rejected for particular purposes, and decisions must be made despite the possibility of error.
+
+The James–Rudner–Douglas thesis captures this condition. James shows that where evidence underdetermines a significant choice, commitment may be rationally influenced by practical and moral considerations. Rudner shows that scientific acceptance depends upon the consequences of error. Douglas shows that inductive risk is pervasive and that values inevitably shape judgments about when evidence is sufficient. Together, these ideas explain how individual scientists may rationally form divergent beliefs or commitments in response to identical evidence.
+
+The thesis does not imply that truth is relative to personal preference. Error costs do not alter the truth of hypotheses, and values cannot substitute for evidence. Rather, they influence the thresholds governing acceptance, action, publication, and further inquiry. Rational divergence is therefore constrained by evidence, coherence, openness to criticism, and responsible attention to the relevant risks.
+
+There is consequently no necessary contradiction between the demands of the scientific community and the requirements of individual rational agents. The individual scientist must reason responsibly from her evidence and circumstances. The community must create shared procedures through which different judgments can be compared, criticized, tested, and revised. Its goal is not to abolish all difference but to transform disagreement into a resource for inquiry. Scientific rationality is collective not because scientists think alike, but because their different judgments are coordinated within practices aimed at discovering and correcting error.
+
+The proper resolution is thus a division of epistemic labor between individual and collective rationality. Individuals contribute judgment, imagination, caution, criticism, and willingness to take risks. Communities contribute standards, replication, transparency, and correction. Neither level is sufficient alone. Individual rationality without communal accountability becomes private conviction; collective rationality without individual independence becomes conformity. Science requires both: the freedom to judge differently and the obligation to submit those judgments to a common world of evidence.

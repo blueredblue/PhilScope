@@ -1,0 +1,161 @@
+# Grace, Effort, and the Calculus of Petition: Evaluating Scott Hill’s Desertist Solution to the Puzzle of Petitionary Prayer
+
+## Introduction
+
+The philosophy of religion is continually haunted by the structural tensions that arise when omni-attributes intersect with human agency. Among the most intractable of these tensions is the puzzle of petitionary prayer. The puzzle can be stated as a trilemma, or at least a severe disjunction, involving divine sovereignty, immutability, and the efficacy of human request. If God is omniscient, God already knows our needs before we articulate them (Matthew 6:8). If God is omnibenevolent and perfectly providential, God has already, from eternity, disposed the absolute best distribution of goods, graces, and states of affairs for creation. 
+
+To suggest that a human petition can alter this eternal, perfect decree seems to imply either that God’s initial plan was deficient—requiring human reminders or promptings to achieve optimality—or that human beings can coerce, persuade, or manipulate an immutable deity into changing His mind. Conversely, if petitionary prayer changes nothing in the divine economy, the practice appears utterly pointless, reducible to a psychological coping mechanism or a purely expressive ritual devoid of causal traction in the fabric of reality.
+
+To resolve this, philosophers have proposed various accounts: prayers as instruments of spiritual transformation, as relational acts that deepen communion, or as secondary causes woven into the deterministic or libertarian tapestry of providential foreknowledge (such as the Molinist model). Yet, many of these solutions threaten to reduce petitionary prayer to a charade—an act commanded by God that lacks genuine efficacy regarding the distribution of the requested goods. 
+
+Into this theoretical impasse steps Scott Hill with what can be termed the *desertist solution* to the puzzle of petitionary prayer. Hill argues that while God’s providential distribution of goods is eternally fixed, petitionary prayer generates a minuscule, yet morally real, quantity of *desert*. By humbly and respectfully petitioning God, an agent introduces a new moral factor into the evaluative landscape. This small increment of desert bridges the gap between what God has disposed to give and what the agent can be said to *deserve*, thereby rescuing petitionary prayer from pointlessness without violating divine immutability or sovereignty.
+
+This essay will evaluate Hill’s desertist solution, placing it in dialogue with the classical metaphysical frameworks of Thomas Aquinas and Gregory the Great. While Hill’s proposal offers an ingenious reconciliation of divine sovereignty and human agency, it invites profound philosophical scrutiny—particularly concerning the nature of desert bases. 
+
+By analyzing the mechanics of Hill’s proposal through the lenses of Thomistic efficient and final causality, and confronting it with the formidable Rawlsian objection that desert-based frameworks are fatally undermined by their dependence on unearned traits and arbitrary circumstances, I will defend a qualified thesis: While Hill’s model successfully rescues petitionary prayer from functional pointlessness, it ultimately destabilizes classical conceptions of divine grace unless reconceptualized not as a mechanism of commutative justice, but as an instantiation of what Aquinas terms *congruent merit* operating within a purely gratuitous matrix of divine love.
+
+---
+
+## 1. The Puzzle of Petitionary Prayer and the Thomistic-Gregorian Backdrop
+
+To understand the novelty of Hill’s desertist intervention, one must first map the contours of the puzzle as it emerged in classical Christian philosophy, specifically within the works of Gregory the Great and Thomas Aquinas. For both thinkers, the efficacy of prayer cannot be understood as a localized renegotiation of divine decrees. God’s will is identical with His essence; it is eternal, simple, and unchanging. 
+
+In his *Moralia in Job*, Gregory the Great confronts the apparent contradiction between divine immutability and the responsiveness of God to human supplication. Gregory famously suggests that prayer is designed not to alter the immutable counsel of God, but to render human beings capable of receiving what God has eternally willed to bestow upon them. The temporal act of petition changes the *subject*, not the *sovereign*. Through the humility and desire expressed in prayer, the human vessel is expanded, purified, and aligned with the divine will, making it apt to receive the grace that was always prepared for it.
+
+Thomas Aquinas synthesizes and sharpens this intuition within his grand metaphysical architecture. In the *Summa Theologiae* (II-II, q. 83, a. 2), Aquinas asks whether we ought to ask God for what we need, given that God already knows our needs and has ordained the course of providence. Aquinas responds by affirming that prayer is not intended to change the divine disposition, but to achieve something by way of request that has been ordained by God to be achieved through request. 
+
+For Aquinas, secondary causes do not restrict divine power; rather, they are the very means by which divine power manifests its goodness. God ordains not only that certain effects shall occur, but that they shall occur *through specific secondary causes*, including human acts of will, cooperation, and petition. Thus, Aquinas writes:
+
+> "We need to ask things of God, not in order to make our wants known to Him, but that we may realize our dependence on Him, and that we may place ourselves in a receptive state to receive what He has already prepared to give."
+
+However, while the Thomistic and Gregorian accounts successfully protect divine immutability and integrate prayer into the order of secondary causality, modern analytic philosophers often find them psychologically or metaphysically unsatisfying regarding the *actual utility* of the request. If the grace is given because God willed it from eternity, and the prayer is merely the divinely ordained psychological symptom of that impending grace, the agent may still feel that their specific petition lacks independent causal efficacy. It feels like a script being played out: the actor must say the lines (pray), not because saying the lines alters the plot, but because saying the lines is part of the pre-written script that leads to the already-guaranteed denouement.
+
+It is precisely this feeling of fatalistic redundancy that Scott Hill seeks to dispel by introducing the concept of *desert*.
+
+---
+
+## 2. Scott Hill’s Desertist Solution: Mechanics and Metaphysics
+
+Scott Hill’s solution pivots on the moral category of *desert*—specifically, the idea that certain actions or states of affairs render it fitting, just, or morally appropriate for an agent to receive a specific good. Hill’s central thesis can be broken down into several foundational propositions:
+
+1. **Eternal Provision:** God has, from eternity, disposed a set of goods $G$ to be distributed to agent $A$.
+2. **The Evaluative Gap:** Prior to $A$’s petition, $A$ may or may not independently deserve $G$ on the basis of broader moral actions, but there exists a distinct class of goods whose distribution is contingent upon human relational engagement.
+3. **The Generation of Prima Facie Desert:** When $A$ offers a respectful, non-demanding petitionary prayer to God, $A$ performs an act of humility, dependency, and relational honor. This act generates a minuscule, yet non-zero, amount of *prima facie desert* ($\delta$).
+4. **Actualization of the Gift:** This minuscule increment of desert is sufficient to tip the moral scales, enabling $A$ to *overall deserve* the good $G$ that God had already disposed to give. 
+
+Crucially, Hill’s model does not commit the heresy of making God a debtor to human beings in a strict commutative sense (a notion explicitly rejected by Aquinas, who argues that no creature can place God in debt, as all human capacities are themselves gifts). Instead, Hill operates within a framework where God, in His sovereign freedom, establishes a moral norm: *I choose to distribute this class of goods only to those who formally request them in a spirit of humble dependency.* 
+
+By making the request, the agent satisfies the condition for this norm. The act of petition is not merely a psychological exercise in self-expansion (as Gregory and Aquinas might lean); it is a *moral input*. It introduces a new variable into the ethical calculus that makes the bestowing of the good fitting rather than arbitrary.
+
+To formalize Hill’s intuition: Let $G$ be a prayed-for good. Let $D$ be the set of conditions under which God eternally decrees to grant $G$. Hill proposes that for a vast array of contingent goods, $D$ includes the condition: *Agent $A$ petitions for $G$ with appropriate respect and non-demandingness.* When $A$ fulfills this condition, the act of petition generates $\delta$ (a minuscule amount of desert). Because God’s eternal decree was conditional upon this moral input, the prayer becomes the actualizing bridge. It is not that God changes His mind; rather, the condition stipulated in the eternal decree is met *in time* through the agent’s free, desert-generating act.
+
+This elegantly circumvents the puzzle of pointlessness. Petitionary prayer is not pointless because it is *genuinely efficacious* at the micro-level of moral desert. Without the prayer, the condition $D$ is unmet, the minuscule desert $\delta$ is absent, and the good $G$ is justly withheld (or directed elsewhere). With the prayer, the condition is met, desert is generated, and the good is rightfully bestowed.
+
+---
+
+## 3. The Philosophical Tension: Effort as a Valid Desert Base
+
+Despite its elegance, Hill’s model immediately runs into a formidable philosophical hurdle concerning the nature of desert bases. What, precisely, is a *desert base*? In moral philosophy, a desert base is the feature of an agent—an action, an intention, an effort, or a character trait—that makes it the case that the agent deserves a specific treatment or outcome.
+
+Hill specifically identifies the act of offering a *respectful and non-demanding petition* as the desert base. The agent exerts cognitive, emotional, and volitional effort to turn toward God, acknowledge dependence, and formulate a request without arrogance or entitlement. But this brings us to a deep philosophical tension: *Can minimal effort, or indeed any effort within a theistic framework, function as a valid desert base?*
+
+To evaluate this, we must examine the ontological status of effort. When an agent prays petitionarily, where does the capacity to make that effort come from? Within orthodox theism—and certainly within the Thomistic framework—every act of the human will, every movement toward the good, and every cooperative motion is ultimately dependent upon *gratuitous divine grace*. Aquinas articulates this through the doctrine of *pre-motion* (or physical premotion): God is the primary cause of every act of secondary causes, including the free acts of the human will. 
+
+If God is the ultimate cause of the agent’s capacity to pray, and even of the actual movement of the will in praying, in what sense can the agent claim *desert* for the act? If I give a beggar a dollar using money I stole from him, I deserve no praise. More profoundly, if God gives me the grace to pray, and then rewards that prayer because it generates desert, are we not caught in a form of circular accounting? God provides the coin (the prayer-capacity), the agent spends the coin (prays), and God rewards the agent with the good (and calls it "desert"). 
+
+Hill must navigate this metaphysical tightrope. If desert requires *ultimate responsibility*—the kind of libertarian ultimacy where the agent is the sole author of the action without deterministic or primary-causal inputs from another—then theistic desertism faces a severe internal contradiction. Human agents cannot generate ultimate desert before God because every positive moral act is a collaborative work in which the primary partner is the divine sustainer.
+
+However, a defender of Hill can respond by distinguishing between *strict desert* (commutative justice, where one gives an equivalent value for a value received) and *congruent desert* (a concept developed extensively by medieval scholastics, including Aquinas and the later Scotist and Molinist traditions). 
+
+*Condign desert* (meritum de condigno) is desert based on an intrinsic proportion between the work done and the reward received, rooted in justice. Aquinas firmly maintains that *no* human creature can achieve condign desert before God, because God owes us nothing; our very existence is a gift. 
+
+*Congruent desert* (meritum de congruo), on the other hand, is based on friendship, fittingness, and divine generosity. It is when an agent performs an act that is morally fitting, and God, out of His own self-imposed covenantal commitment or benevolence, decides to attach a reward to that act. The act does not create an absolute moral debt in strict justice; rather, it creates a moral *fittingness* within a framework of grace.
+
+If Hill’s "minuscule amount of *prima facie* desert" is understood not as condign desert (which would collapse under the weight of divine primacy), but as *congruent desert*, the Thomistic framework can accommodate it. The petitionary prayer generates a tiny drop of moral fittingness. God, having bound Himself by His own decree to honor such relational acts, responds to this fittingness. Yet, this immediately forces us to confront a second, even more trenchant critique: the egalitarian and anti-desertist objections derived from modern political philosophy, most notably associated with John Rawls.
+
+---
+
+## 4. Confronting the Rawlsian Objection: Unearned Traits and Arbitrary Circumstances
+
+In *A Theory of Justice*, John Rawls launched a devastating critique of the concept of moral desert, arguing that even if an agent acts virtuously or works hard, the capacities that enable that virtuous action—natural talents, psychological constitution, neurotypicality, stable upbringing, and favorable environmental circumstances—are morally arbitrary. They are distributed by the "genetic lottery" and social contingencies for which the agent can claim no personal credit. Therefore, Rawls argued, we cannot truly *deserve* the fruits of our efforts, because the very ability to exert effort is itself a product of unearned advantages.
+
+If we apply the Rawlsian critique to Hill’s desertist solution to petitionary prayer, the model faces a profound challenge. Let us trace the implications:
+
+1. Agent $A$ offers a respectful, non-demanding petitionary prayer.
+2. Hill claims this prayer generates a minuscule amount of *prima facie* desert ($\delta$).
+3. But *why* did Agent $A$ offer this prayer while Agent $B$ did not? 
+
+Agent $A$ may possess a temperament naturally inclined toward humility, a religious upbringing that fostered prayer habits, freedom from agonizing depression that makes prayer feel impossible, or a life crisis that uniquely jolted $A$ into receptivity. Agent $B$, conversely, may suffer from a psychological block against petition, an intellectual skepticism instilled by trauma, or a disposition of stubborn self-reliance. 
+
+If these underlying psychological traits, cognitive frameworks, and situational catalysts are unequally distributed—and if they are ultimately unearned (either through genetic luck, environmental conditioning, or divine grace)—then the generation of desert $\delta$ appears fundamentally arbitrary. Why should God distribute eternal goods based on a moral input ($\delta$) that is itself the downstream product of unearned advantages?
+
+This objection cuts to the core of any desert-based theology. If grace is truly *unmerited* (as the Pauline and Augustinian traditions insist), then introducing desert—even *minuscule* desert—into the mechanics of prayer threatens to smuggle meritocracy into the sanctuary. It suggests that those who manage to pray respectfully get the goods because they *deserve* them (even minutely), while those who fail to pray respectfully (perhaps due to psychological incapacities or spiritual aridity) miss out justly. This threatens to turn prayer into a performance-based merit badge system, sharply contradicting the unconditional nature of divine grace famously championed by figures like Augustine, Aquinas, and Calvin.
+
+How might Hill respond to the Rawlsian objection? A plausible defense would argue that Rawlsian anti-desertism assumes a secular, naturalistic framework where agents are either self-made or products of blind luck. Within a robustly theological framework, however, the playing field is radically equalized and transcended by *universal prevenient grace*. 
+
+If God offers sufficient grace to *every* human being to engage in basic acts of relational turning—such as a simple petition—then the differential ability to pray is not merely a function of genetic or environmental luck, but of how each agent responds to the universal, accessible promptings of the Holy Spirit. Even if psychological hurdles exist, a compassionate God takes them into account. Thus, the "effort" expended in a petitionary prayer is not evaluated by an absolute, cold standard of output, but is judged in relation to the agent’s unique, situated capacities. 
+
+Yet, even with this theological caveat, a lingering tension remains. If the capacity to cooperate with grace is itself a gift (as Thomism explicitly maintains, teaching that even the initial movement of the free will toward God is caused by God), then calling the resulting act "desert-generating" seems terminologically slippery. Does the agent genuinely generate desert, or is God simply rewarding His own gift in us (as Augustine famously wrote: *Deus coronat dona sua, non merita tua*—"God crowns His own gifts, not your merits")?
+
+---
+
+## 5. Re-evaluating the Desertist Framework: Congruent Merit vs. Strict Justice
+
+To resolve this tension and rescue Hill’s insight from the Rawlsian critique without abandoning classical theology, we must rigorously distinguish between two ways of interpreting Hill’s use of "desert."
+
+If Hill means *desert* in the strict, modern secular sense—where an agent generates an intrinsic moral credit entirely from their own autonomous resources, making God morally obligated to pay out the reward in commutative justice—then the model fails. It collapses under both Thomistic metaphysics (which denies that any creature can place God in debt) and Rawlsian critique (which exposes the arbitrariness of underlying capacities).
+
+However, if Hill’s "desert" is understood through the medieval scholastic lens of *congruent fittingness*—what we might call *relational grace-desert*—then the model is not only defensible, but deeply illuminating. 
+
+Let us reformulate Hill’s thesis in light of this distinction. God, in His infinite love, desires to enter into a genuine, reciprocal, personal relationship with human beings. A relationship of pure unilateral bestowal, where the human partner is a totally passive pipe through which gifts flow without relational engagement, is less personal than a relationship characterized by communication, asking, listening, and receiving. 
+
+In a personal relationship, *asking* is not a mechanism of commercial transaction or coercive extraction; it is the structural expression of trust and vulnerability. When a child asks a loving parent for bread, the child does not "deserve" the bread in the sense of having earned a wage. Rather, the act of asking enacts the filial bond. It actualizes the relational dynamic that the parent values for its own sake.
+
+If we substitute "moral desert" with "relational fittingness," much of the Rawlsian sting is removed. Rawlsian anti-desertism targets the injustice of distributing socioeconomic goods (like wealth, power, and status) based on arbitrary natural talents. But prayer is not a socio-economic competition for scarce resources; it is an interpersonal communion. 
+
+When Hill speaks of petitionary prayer generating a "minuscule amount of *prima facie* desert," he can be read as saying that the act of respectful petition introduces a *relational appropriateness*. It is fitting that a good be given to one who has enacted humility and trust through petition, just as it is fitting that a gift be handed to a friend who has opened their hands to receive it, rather than tossed at someone who crosses their arms and refuses to speak.
+
+---
+
+## 6. Defending a Position: Rescuing Petitionary Prayer Without Controversial Metaphysics
+
+The prompt requires us to defend a position on whether incorporating this desert-based (or fittingness-based) framework successfully rescues petitionary prayer from pointlessness *without relying on controversial theological or metaphysical premises*. 
+
+Here, we must face a critical methodological test. Can Hill’s solution—or our revised, fittingness-based version of it—work without smuggling in heavy-duty, highly controversial metaphysical baggage such as Thomistic physical premotion, Molinist middle knowledge, or rigid Calvinist decrees of reprobation?
+
+My defended position is this: **Hill’s framework, when translated from the strict language of "moral desert" into the relational language of "fittingness," successfully rescues petitionary prayer from pointlessness while remaining compatible with a minimalist, non-controversial metaphysical baseline.** However, if maintained strictly in the language of *desert*, it relies on premises that are either philosophically untenable or inextricably bound to controversial theological dogmas.
+
+### Why the Strict Desert Model Fails the Minimalist Test
+If we insist that petitionary prayer generates *true moral desert* ($\delta$), we immediately plunge into deep, highly controversial waters. We must answer:
+* What is the ontological makeup of desert?
+* How can a finite creature generate desert before an infinite, self-existent Creator?
+* How do we reconcile desert with determinism or divine sovereignty?
+* How do we answer the Rawlsian challenge regarding unearned psychological capacities?
+
+These questions require adopting contentious systematic theological and metaphysical systems (such as libertarian free will combined with a specific account of divine-human cooperation). For a philosopher seeking to defend petitionary prayer in a broad, religiously neutral, or minimally committed philosophical arena, these controversial commitments make the desertist solution too heavy to lift.
+
+### Why the Relational-Fittingness Model Succeeds
+If, however, we modify Hill’s core insight by replacing "desert" with **relational fittingness**, the solution becomes remarkably robust while shedding unnecessary metaphysical baggage. 
+
+Consider the minimal premises required for the relational-fittingness model:
+1. **Personal Theism:** God is a personal agent who values relationship, trust, and communication with human persons.
+2. **Openness and Agency:** Human beings possess sufficient agency to perform meaningful communicative acts (such as asking).
+3. **Providential Flexibility:** God’s providential plan is not a rigid, deterministic clockwork that bypasses human relational responses, but a dynamic, responsive matrix that incorporates human interaction as a condition for the distribution of certain goods.
+
+These premises are far less controversial within philosophy of religion than the dense machinery of scholastic desert theory or modern egalitarian anti-desertism. 
+
+Under this modified framework, the puzzle of petitionary prayer is solved as follows: God has eternally decided to distribute certain goods *dialogically*. Just as a wise teacher decides to give certain opportunities only to students who articulate their curiosity through questions—not because the question forces the teacher's hand, but because the question is the pedagogical medium through which the learning happens—so God ordains that certain graces are given *in and through* the act of petition.
+
+The petition is not pointless because it is the designated relational conduit for the good. Without the request, the relational context necessary for the optimal reception and appreciation of the good is missing. The prayer does not manipulate an immutable God, nor does it earn a wage in strict justice; rather, it enacts the humility, trust, and openness that makes the bestowing of the gift congruous with the divine character.
+
+---
+
+## Conclusion
+
+Scott Hill’s desertist solution to the puzzle of petitionary prayer is a bold and intellectually stimulating contribution to the philosophy of religion. By attempting to bridge the gap between eternal divine providence and temporal human action through the moral category of desert, Hill moves beyond passive psychological accounts (such as those of Gregory the Great and early Aquinas) and grants petitionary prayer genuine moral efficacy.
+
+Yet, as we have seen through our engagement with Thomistic metaphysics and the Rawlsian critique, framing this efficacy strictly in terms of *desert* invites severe philosophical perils. It threatens to entangle theism in untenable meritocratic accounting and founders upon the rocks of unearned psychological and circumstantial disparities. 
+
+By translating Hill’s insight from the courtroom language of *desert* into the interpersonal language of *relational fittingness*, we preserve his most valuable contribution—the idea that prayer is a true moral and relational input that actualizes eternally disposed goods—while stripping away the controversial metaphysical baggage that makes strict desert untenable. 
+
+Petitionary prayer, thus understood, is neither a futile whisper into an immutable void nor an attempt to coerce a reluctant deity. It is the humble, beautiful grammar of creaturely dependence—the communicative bridge ordained by infinite love, whereby we participate in the very distribution of the graces we receive.

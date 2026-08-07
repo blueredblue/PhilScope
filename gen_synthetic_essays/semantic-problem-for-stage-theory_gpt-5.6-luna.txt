@@ -1,0 +1,320 @@
+# Stage Theory, Tense, and the Limits of a Singular Referring Expression
+
+## Introduction
+
+Stage theory is a metaphysical theory of persistence according to which ordinary objects are not four-dimensional worms extended through time, nor wholly present objects that endure from one moment to another. They are instantaneous temporal stages. The thing that is now sitting, the thing that was once a child, and the thing that will later be elderly are numerically distinct stages related by a temporal counterpart relation. On this view, what common sense calls one persisting object is, strictly speaking, a succession of momentary objects.
+
+Ted Sider and Katherine Hawley have developed influential versions of this view. Their accounts are not identical, and each offers different proposals concerning the semantics of names, tense, and temporal predication. Yet both face a fundamental pressure. The metaphysics requires ordinary referring expressions to be interpreted in a way that allows them to pick out different temporal stages on different occasions of temporal evaluation. Natural-language syntax, by contrast, gives us singular referring expressions whose occurrences are syntactically single, whose argument position is ordinarily filled once, and whose semantic contribution is normally expected to remain stable across the predicates with which they are composed.
+
+This tension is especially vivid in sentences such as:
+
+> Kant was born and died in Königsberg.
+
+The sentence contains one occurrence of the name “Kant,” but it attributes two temporally separated events to Kant. Kant’s birth and death are not simultaneous, and under stage theory the stage that was born is not the stage that later died. The sentence therefore appears to require the single name to supply two distinct stages within one compositional structure. This is not merely an incidental difficulty. It reveals a conflict between the syntax of natural language and a central semantic commitment of stage theory.
+
+The problem arises under both major approaches to tense. If tense is treated quantificationally, then different tensed predicates may quantify over different times or stages, but the single referring expression must still provide the relevant subject for both predicates. If tense is treated as an operator that shifts the time of evaluation, then either the one occurrence of “Kant” remains fixed, in which case it cannot designate the different stages required by stage theory, or the occurrence is interpreted differently under different operators, in which case the semantic theory must covertly duplicate or temporally index a syntactically unduplicated expression.
+
+The stage theorist can respond by appealing to counterpart relations, hidden logical structure, semantic flexibility, or a distinction between linguistic reference and metaphysical identity. These responses may preserve the ontology of instantaneous stages. But they do so only by weakening the straightforward semantic claim that ordinary names refer directly to stages. If stage theory insists not merely that stages are the basic objects, but also that ordinary referring expressions straightforwardly refer to individual stages, then the sentence about Kant presents a serious, perhaps intractable, problem. The central issue is not whether stage theory can be made compatible with some semantics. It is whether it can preserve its distinctive semantic claims while respecting the compositional resources that natural language actually provides.
+
+## I. The Metaphysical and Semantic Commitments of Stage Theory
+
+The stage theorist’s metaphysical thesis is that persistence is not endurance. An enduring object is wholly present at each time at which it exists. A perduring object has temporal parts spread across time. A stage theorist instead identifies ordinary objects with momentary entities. A persisting person is not a single entity that exists at many times. Rather, there are many person-stages, each existing at one time, standing in a suitable temporal counterpart relation.
+
+Suppose a person has stages \(s_1, s_2,\) and \(s_3\), respectively corresponding to childhood, adulthood, and old age. The ordinary claim that one person was first a child and later an adult is analyzed as the claim that \(s_1\) is a child, \(s_2\) is an adult, and \(s_1\), \(s_2\), and \(s_3\) are appropriately related. There is no numerically identical person wholly present at each of these times. Identity across time is replaced by a relation among stages.
+
+This metaphysical analysis immediately generates a semantic question: What does a name such as “Kant” refer to? If “Kant” refers to an ordinary persisting object, then stage theory appears to be false, since there are no such persisting objects in the fundamental ontology. If “Kant” refers to a particular stage, then ordinary tensed discourse becomes difficult. Which stage does it refer to? The stage at the time of utterance? The stage at the time being discussed? A historically salient stage? Or a stage selected by contextual and linguistic conventions?
+
+Sider’s stage theory is commonly understood as assigning a name to a current stage, or at least as treating names and demonstratives as capable of referring to stages at the contextually relevant time. Tense then allows us to speak about temporal counterparts of the stage referred to. A sentence such as:
+
+> Ted was once a child
+
+does not say that the present stage of Ted is identical with a past child. It says, roughly, that a past temporal counterpart of the present Ted-stage was a child.
+
+This strategy enables the stage theorist to preserve the ordinary truth of many tensed sentences. The present stage can be related to an earlier stage that has the relevant property. What is expressed by “was” is not literal predication of a past property of one enduring object, but a relation between the stage selected by the name and an appropriate past counterpart.
+
+Hawley’s discussions of stage theory similarly emphasize the importance of a semantic mechanism connecting stages across time. A stage theory cannot simply assign all ordinary names to isolated instantaneous entities and leave tense untouched. It must explain how one can truthfully say that the named thing was once different, underwent a change, or will later have a property that the current stage lacks. Temporal counterpart relations therefore play a central role.
+
+The difficulty is that these solutions require referring expressions to be temporally sensitive in a way that ordinary syntax does not visibly encode. A referring expression appears to occupy one subject position. It is not ordinarily a quantifier over stages, nor is it a plural expression denoting a collection of stages. Yet the stage theorist needs the expression to be associated with different stages when different temporal predicates are evaluated.
+
+This mismatch is easiest to see by contrasting two claims:
+
+1. A single name contributes one object to the semantic composition of a sentence.
+2. The same name must contribute different stages when conjoined predicates concern different times.
+
+The first claim is a general feature of compositional semantics. The second is demanded by stage theory in cases involving temporal change and multiple tensed predicates.
+
+## II. The Syntactic Structure of Conjoined Tensed Predicates
+
+Consider again:
+
+> Kant was born and died in Königsberg.
+
+The sentence contains one noun phrase, “Kant,” and two predicates, “was born” and “died.” The natural syntactic structure is approximately:
+
+\[
+[\text{Kant}] [\text{was } [\text{born and died in Königsberg}]]
+\]
+
+There are variations in the precise syntactic analysis. One might treat the sentence as coordination of two clauses:
+
+\[
+[\text{Kant was born in Königsberg}] \text{ and } [\text{Kant died in Königsberg}]
+\]
+
+Alternatively, one might treat the subject as shared by a coordinated verbal phrase. Either way, the overt syntax contains only one occurrence of “Kant.” The subject is not repeated. It is understood as the subject of both predicates through coordination.
+
+In ordinary object semantics, this creates no difficulty. The name denotes Kant, and both “was born” and “died” are predicated of that same individual. Tense supplies different temporal parameters or relations, but the subject remains numerically identical. If birth occurs at \(t_1\) and death at \(t_2\), the truth conditions may be represented as something like:
+
+\[
+\exists t_1 \exists t_2 \bigl(Born(Kant,t_1) \,\&\, Died(Kant,t_2)\bigr),
+\]
+
+with \(t_1\) earlier than \(t_2\), and with the relevant place relation to Königsberg.
+
+The sentence does not require two Kant-like entities. It requires one individual who bears two temporally distinct relations. A standard endurance theory can therefore treat the shared subject straightforwardly.
+
+For a stage theorist, however, the stage that bears the birth relation and the stage that bears the death relation cannot be numerically identical. A birth-stage is located at or around the beginning of a life; a death-stage is located at or around its end. Since stages are instantaneous, no single stage can literally be both the stage that was born and the stage that died. The stage theorist must therefore replace the ordinary subject interpretation with something like:
+
+\[
+\exists s_1 \exists s_2 \bigl(
+Born(s_1,t_1) \,\&\, Died(s_2,t_2) \,\&\, R(s_1,s_2)
+\bigr),
+\]
+
+where \(R\) is the temporal counterpart relation and where \(s_1\) and \(s_2\) are appropriately connected stages.
+
+But where does this pair of stage variables come from? The syntax provides one referring expression, not two. The name “Kant” does not appear once as a term referring to \(s_1\) and again as a term referring to \(s_2\). Nor does the syntax contain an overt quantifier ranging over a sequence of stages. The semantic theory must introduce this multiplicity covertly.
+
+This is the fundamental mismatch. Stage theory requires the semantic subject of each temporally distinct predicate to be a different stage, while the syntax presents a single shared subject. The problem is not simply that the stage theorist needs a more complicated truth condition. Any theory may assign complex truth conditions to a simple sentence. The deeper issue is whether the required complexity can be generated compositionally from the actual syntactic constituents and their ordinary semantic types.
+
+## III. The Problem for a Quantificational Analysis of Tense
+
+On a quantificational analysis, tense is treated as quantification over times, or sometimes over temporal stages. The past tense in a sentence such as:
+
+> Kant was born in Königsberg
+
+may be analyzed as existential quantification over a past time:
+
+\[
+\exists t \bigl(t < t_0 \,\&\, Born(Kant,t,\text{Königsberg})\bigr).
+\]
+
+The same analysis can be applied to “Kant died in Königsberg.” When the two clauses are conjoined, the result is approximately:
+
+\[
+\exists t_1 \exists t_2 \bigl(
+t_1 < t_0 \,\&\, t_2 < t_0 \,\&\,
+Born(Kant,t_1,\text{Königsberg}) \,\&\,
+Died(Kant,t_2,\text{Königsberg})
+\bigr).
+\]
+
+This is entirely natural for an endurance theorist. The name contributes Kant, while the two existential quantifiers permit different times for the two events.
+
+The stage theorist has two possible strategies, neither of which is entirely satisfactory.
+
+The first is to let “Kant” denote one stage and treat the predicates as relating that stage to other times. But if “Kant” denotes the birth-stage, the death predicate cannot be true of that same stage. If it denotes the death-stage, the birth predicate cannot be true of it. If it denotes a stage at the time of utterance, neither predicate may apply to it. A single stage cannot play all the subject roles required by the sentence.
+
+The stage theorist might modify the predicates. Instead of treating “born” and “died” as properties of the stage denoted by “Kant,” the theory could treat them as properties of stages related to the denoted stage. Thus:
+
+\[
+Born^*(s) \leftrightarrow \exists s' (R(s,s') \,\&\, Born(s')),
+\]
+
+and similarly for “died.” The sentence would then be true of a current stage \(s\) if some temporal counterpart of \(s\) was born in Königsberg and some, perhaps later, counterpart of \(s\) died there.
+
+This is a coherent proposal, but it changes the semantic contribution of the predicates. “Was born” no longer straightforwardly predicates being born of the subject supplied by the name. It predicates the existence of a counterpart with a certain property. The stage theorist has effectively built temporal counterpart quantification into the lexical or compositional semantics of the tensed predicate.
+
+That move may be acceptable if independently motivated. Yet it creates a problem concerning the coordination of predicates. The two predicates may quantify over different counterpart stages, but the shared subject must be the stage from which both counterpart searches begin. If the name refers to an instantaneous stage, what determines which stage is the anchor? In the case of a deceased historical figure, there may be no stage at the utterance time. If the name is instead associated with an arbitrary or contextually salient stage, the truth of the sentence may depend on a choice that ordinary language does not appear to make.
+
+The second strategy is to let the name itself be quantificational. “Kant” could be treated as shorthand for something like “a Kant-stage” or “a stage in the Kantian counterpart chain.” The two predicates would then select different stages from the relevant collection. But this abandons the ordinary semantic category of a referring expression. A name is no longer functioning as a singular term. It becomes a predicate, a quantifier, or a device for introducing a variable over stages.
+
+That possibility is not logically forbidden. Natural language contains expressions whose apparent singularity masks quantificational structure. Definite descriptions, for example, may be analyzed as quantificational. But “Kant” is generally treated as a proper name and behaves differently from an ordinary description. The stage theorist therefore incurs a substantial semantic cost by analyzing a name as a hidden quantifier over temporally related stages.
+
+The quantificational approach also faces a scope problem. Suppose the past tense in each conjunct introduces its own temporal quantifier:
+
+\[
+\exists t_1\, Born(Kant,t_1) \,\&\, \exists t_2\, Died(Kant,t_2).
+\]
+
+The two times can differ, as required. But the name remains the same term in both conjuncts. In standard semantics, this means it has the same denotation in both places. The temporal quantifiers vary the times at which the predicates hold, not the individual supplied as their argument. The stage theorist needs both the times and the individual stages to vary.
+
+One might introduce stage variables within the scope of each temporal quantifier:
+
+\[
+\exists t_1 \exists s_1 \bigl(Born(s_1,t_1) \,\&\, Kant(s_1)\bigr)
+\]
+and
+\[
+\exists t_2 \exists s_2 \bigl(Died(s_2,t_2) \,\&\, Kant(s_2)\bigr).
+\]
+
+But then “Kant” behaves as a predicate true of multiple stages. The result preserves the metaphysics but no longer preserves the ordinary syntax-semantics of a name as a referring expression.
+
+The quantificational analysis thus reveals the core dilemma. If the name is genuinely singular, its denotation is too stable to supply different instantaneous stages. If it ranges over stages, it is not genuinely singular. The stage theorist can choose either horn, but cannot retain both an ordinary referring expression and a straightforward stage-referring semantics.
+
+## IV. The Problem for an Operator Analysis of Tense
+
+An operator analysis treats tense not as a quantifier over times within the proposition, but as an operator that changes the temporal parameter of evaluation. A past operator \(P\), for example, may be understood as saying that the embedded proposition is true at some earlier time:
+
+\[
+P\varphi
+\]
+
+is true at \(t_0\) just in case \(\varphi\) is true at some \(t<t_0\).
+
+This analysis seems initially promising for stage theory. If names are interpreted relative to the time of evaluation, then the past operator might cause “Kant” to refer to a past Kant-stage. A present-tense occurrence could refer to the current stage, while a past-tense occurrence could refer to a past counterpart-stage. Tense would do exactly the work that stage theory requires.
+
+However, the sentence involving coordination exposes two problems.
+
+First, the syntactic position of the tense operator is uncertain. If the past operator has scope over the entire coordinated predicate, the logical form might be:
+
+\[
+P(Born(Kant) \,\&\, Died(Kant)).
+\]
+
+This says that there is a past time at which Kant was both born and died. That is not the intended reading. Birth and death are normally separated by a lifetime, so they cannot be evaluated at one and the same time.
+
+The operator analysis must therefore distribute tense over the conjuncts:
+
+\[
+P(Born(Kant)) \,\&\, P(Died(Kant)).
+\]
+
+This permits the birth and death predicates to be evaluated at different past times. Yet it raises the question of how the single subject occurrence is interpreted. If “Kant” is evaluated relative to the local temporal index, then the two semantic copies of the subject must refer to different stages. But the syntax contains only one occurrence of the name. The semantic representation has duplicated an expression that syntax did not duplicate.
+
+Such duplication is sometimes possible. Semantic interpretation may involve movement, ellipsis resolution, or other forms of covert structure. But a theory that uses silent duplication here must explain why this is the correct interpretation of coordination generally. It must also specify whether the shared subject is copied before or after tense operators are inserted, and how identity of reference across the conjuncts is represented. If the copies are simply independent names, the sentence may fail to say that the birth-stage and death-stage belong to one life. If their connection is guaranteed by a counterpart relation, that relation must be added as part of the semantic composition.
+
+Second, if names are rigid across temporal indices, the operator analysis does not solve the problem. Let “Kant” refer to a particular stage \(s\) at every index. Then:
+
+\[
+P(Born(s)) \,\&\, P(Died(s))
+\]
+
+still predicates both properties of the same stage. Temporal operators shift the time of evaluation, but they do not change the denotation of a rigid singular term. The stage theorist therefore needs names to be temporally non-rigid or indexical.
+
+Yet temporally flexible names raise their own difficulties. If “Kant” refers to whichever Kant-stage exists at the time of evaluation, the name does not have a single stable referent. Its different occurrences in the two conjuncts refer to different stages. What makes them occurrences of the same name, and what explains the intuition that the sentence concerns one individual rather than two unrelated stages? The answer must be the temporal counterpart relation. But then the name itself does not secure the unity of reference. A separate metaphysical or semantic relation does.
+
+This point matters because stage theory is often presented as preserving the ordinary semantics of names while revising the metaphysics of persistence. The name is supposed to refer directly, just as ordinary speakers take it to do, except that the object directly referred to is a stage rather than a temporally extended individual. But in a sentence such as “Kant was born and died in Königsberg,” direct reference to a single stage is insufficient. Direct reference must either be supplemented by counterpart quantification or replaced by a context-sensitive method of selecting multiple stages.
+
+The operator analysis can therefore work only if one of several controversial assumptions is accepted:
+
+1. Tense causes hidden semantic duplication of the subject.
+2. Names are evaluated relative to temporal indices and therefore shift their referents.
+3. Names denote a counterpart-connected plurality rather than a single stage.
+4. The predicates themselves incorporate counterpart quantification.
+
+Each option is possible, but none is a straightforward implementation of the ordinary syntax of a singular referring expression.
+
+## V. The Special Significance of “Kant Was Born and Died in Königsberg”
+
+The Kant sentence is not merely a troublesome example involving two verbs. It reveals three distinct semantic requirements.
+
+First, the two events occur at different times. The sentence must therefore support multiple temporal evaluations. A theory that assigns one shared temporal index to the whole coordination will fail.
+
+Second, the subject of the two predicates is intuitively one person. The sentence is not naturally understood as saying that one stage was born in Königsberg and another unrelated stage died there. It expresses historical continuity.
+
+Third, under stage theory, the birth and death subjects cannot be numerically identical. They must be distinct stages linked by the counterpart relation.
+
+The sentence therefore requires a semantic structure with the following form:
+
+\[
+\exists s_1 \exists s_2 \exists t_1 \exists t_2
+\bigl[
+R(s_1,s_2) \,\&\,
+Born(s_1,t_1,\text{Königsberg}) \,\&\,
+Died(s_2,t_2,\text{Königsberg})
+\bigr].
+\]
+
+The natural-language syntax, however, supplies something closer to:
+
+\[
+\text{Kant} \; [\text{was born and died in Königsberg}].
+\]
+
+There is one DP, one name, and a coordination of predicates. The semantic interpretation must transform this into a structure involving two stage variables, two temporal variables, and a relation of continuity. Nothing in the overt syntax transparently supplies all of these elements.
+
+The problem becomes even more acute when the sentence is embedded in other constructions:
+
+> Kant was born and died in Königsberg, although he spent much of his life in another region.
+
+Or:
+
+> Kant was born in Königsberg, died there, and never left the city for long.
+
+Natural speakers effortlessly understand the subject as one historical person across multiple predicates, even when the predicates concern temporally separated events. The syntax uses subject sharing, an ordinary and highly productive device. A satisfactory semantics must explain how subject sharing works. It cannot simply treat each predicate as receiving an independently selected stage, since that would lose the unity of the subject. But it cannot treat the shared subject as one stage, since that would make the predicates false or category-inappropriate.
+
+An endurance theorist has a simple answer: the subject is one individual, and the predicates are temporally distributed properties or relations of that individual. A stage theorist needs a more complex answer: the subject is one stage in the semantic representation but two or more counterpart stages in the metaphysical analysis. This can be achieved, but only if the semantics allows a singular expression to function as an anchor for a temporally distributed family of objects.
+
+That anchor is no longer a referent in the ordinary singular sense. It is more like a representative, index, or counterpart source. The stage theorist may say that “Kant” refers to one stage and that tense quantifies over its counterparts. But then the sentence’s truth depends not simply on what stage the name denotes, but on what other stages stand in the counterpart relation to it. The name’s semantic role is therefore indirect and relational.
+
+## VI. Possible Stage-Theoretic Responses
+
+The stage theorist has several available replies.
+
+### 1. Hidden duplication at logical form
+
+The first reply is that natural language syntax need not display every element of logical form. The sentence may have an underlying representation equivalent to:
+
+> Kant was born in Königsberg and Kant died in Königsberg.
+
+At this level, the subject is duplicated. Each occurrence can be interpreted under its own temporal operator, and the two occurrences can be linked by the counterpart relation.
+
+This response has some plausibility. Coordination often involves ellipsis and reconstruction. The fact that a subject is pronounced once does not prove that it is represented only once at every level of grammatical analysis. A semantic theory may posit a silent copy of “Kant” in the second conjunct.
+
+Nevertheless, the response does not eliminate the fundamental difficulty. It relocates it. The theory must explain why the two occurrences count as referring to one historical individual while denoting different stages. If each copy directly refers to a stage, then the relation between the two references must be supplied independently. Moreover, hidden duplication threatens to make the interpretation of ordinary coordination highly stipulative. It is not enough to posit copies whenever stage theory needs them; the theory must give principled syntactic and semantic grounds for the copies.
+
+The problem is particularly serious for constructions in which the shared subject is syntactically unambiguously single, such as:
+
+> Kant both was born and died in Königsberg.
+
+The semantic theory may still posit two stages, but it cannot claim that the syntax itself provides two referring expressions. It must treat the one expression as semantically distributive in a way that is not evident from its syntactic category.
+
+### 2. Counterpart-based interpretation of tensed predicates
+
+The second reply is to preserve one stage as the denotation of the name while defining tensed predicates through counterpart quantification. “Kant was born” becomes something like:
+
+> A past temporal counterpart of the Kant-stage was born.
+
+The sentence about Kant then has the truth conditions:
+
+\[
+\exists s_1 \exists s_2
+\bigl[
+R(s,s_1) \,\&\, R(s,s_2) \,\&\,
+Born(s_1) \,\&\, Died(s_2)
+\bigr],
+\]
+
+where \(s\) is the stage denoted by “Kant.”
+
+This solution preserves the singular syntax. The name still denotes one stage. The multiplicity arises from the semantics of tense. It also explains why the two events belong to one person: both stages are counterparts of the anchor stage.
+
+The cost is that ordinary tensed predication is no longer ordinary predication. The sentence “Kant was born” does not predicate being born of Kant, even in a temporally qualified sense. It says that a counterpart of Kant had that property. This may be acceptable if the stage theorist is explicit that the surface grammar is systematically misleading. But it weakens the claim that names and predicates retain their ordinary semantic roles.
+
+There is also a problem with anchoring. Which stage does the name denote in historical discourse? If it must denote a stage at the time of utterance, then names of dead people lack a present stage. If it denotes a contextually selected stage, the interpretation may be unstable. If it denotes an abstract representative stage, then that representative is doing some of the work traditionally assigned to the enduring object or temporal worm.
+
+### 3. Names as temporally distributed predicates
+
+A third reply treats a proper name as a predicate true of all stages belonging to the relevant historical individual. “Kant” might then express a condition such as “is a Kant-stage.” The sentence could be interpreted as saying that some Kant-stage was born in Königsberg and some counterpart Kant-stage died there.
+
+This approach solves the reference problem by abandoning singular reference. It fits the stage ontology naturally: many stages satisfy the name-predicate. But it conflicts with the grammatical and semantic behavior of proper names. Names can occur in identity statements, as arguments of attitude reports, and in contexts where speakers appear to track one object rather than quantify over many stages. A predicate analysis would require a broad revision of the semantics of names, not merely a special treatment of tense.
+
+Hawley’s willingness to distinguish metaphysical and semantic notions of object may make such a proposal less damaging than it would otherwise be. Still, the theory would no longer say that ordinary names directly refer to stages. They would classify stages as belonging to a counterpart-connected series. That is a significant departure from the direct-reference picture.
+
+### 4. Ordinary-language reference to worms, stage-theoretic metaphysics underneath
+
+A fourth reply is to distinguish the semantics of ordinary language from the fundamental ontology. On this view, “Kant” semantically refers to a temporally extended individual or worm, even though, metaphysically, the worm is not fundamental. It is a construction or derivative entity composed of stages. “Kant was born and died” can then be interpreted in the ordinary way, because the referring expression denotes the whole temporally extended object, while the metaphysics explains that object in terms of stages.
+
+This is arguably the cleanest solution to the semantic problem. It respects compositionality and the syntax of singular terms. The shared name denotes one entity, and different tensed predicates can be true of that entity at different times. The stage theorist can insist that the temporal worm is not fundamental, but merely a derivative object or semantic aggregate.
+
+However, this solution abandons the stronger semantic thesis that everyday objects just are stages. It also makes stage theory less distinctive as a theory of ordinary reference. The metaphysical view remains available, but the semantic claim that names refer to instantaneous stages has been relinquished. The theory becomes a metaphysics of the objects referred to by ordinary language only indirectly, rather than a direct account of ordinary reference.
+
+## VII. Can the Tension Be Resolved Without Abandoning Stage Theory?
+
+The answer depends on what counts as the core thesis of stage theory.
+
+If the core thesis is purely metaphysical—the fundamental entities are instantaneous stages, and persistence is grounded in temporal counterpart relations—then the tension can be resolved. The stage theorist may adopt a derivative-worm semantics, a counterpart-based semantics, or a context-sensitive semantics for names. Nothing in the ontology of instantaneous stages logically prevents ordinary language from referring to temporally extended constructions. The semantic mismatch is therefore not a refutation of stage metaphysics as such.
+
+If, however, the core thesis includes the stronger claim that ordinary singular referring expressions directly refer to instantaneous stages, then the Kant sentence is devastating. A single referring expression cannot straightforwardly refer to both the birth-stage and the death-stage. Tense can introduce different times, but it cannot by itself turn one singular denotation into two numerically distinct stages. An operator can shift the evaluation time, but a rigid term remains rigid. A quantifier can range over times, but it does not automatically vary the individual argument supplied by a name.

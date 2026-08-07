@@ -1,0 +1,160 @@
+# The Topology of the Eternal: William Lane Craig, Cantorian Set Theory, and the Metaphysics of LDS Eternalism
+
+## Introduction
+
+Within contemporary analytic philosophy of religion, few intersections of theology and metaphysics have generated as rigorous an engagement as that between William Lane Craig’s defense of temporal finitism and the distinctive theological framework of Latter-day Saint (LDS) eternalism. Craig, a prominent champion of the *Kalam* cosmological argument, has consistently argued that the actual infinite cannot exist in the concrete world. His philosophical armature relies heavily on *reductio ad absurdum* arguments—most notably the paradoxes of Hilbert’s Hotel and the Infinite Library, underpinned by the Principle of Correspondence—to demonstrate that any conceptualization of a beginningless past or an actual infinite collection of concrete entities results in logical and mathematical incoherence.
+
+If Craig’s arguments are sound, they pose a formidable threat to LDS theology. Mormonism, in its classical expressions derived from the teachings of Joseph Smith, Brigham Young, and subsequent theologians, rejects creatio ex nihilo in favor of an ontology of radical eternalism. In this view, not only are intelligent agents ("intelligences") and unorganized matter eternal and beginningless, but time itself is an unbounded, beginningless medium within which divine progression occurs. 
+
+This essay evaluates whether Craig’s philosophical arguments against the actual infinite successfully demonstrate the impossibility of LDS eternalism and beginningless time. I will argue that Craig’s arguments fail to establish a genuine *logical* impossibility. Instead, they rely on a category mistake: they conflate the structural properties of Cantorian transfinite arithmetic with physical or metaphysical absurdities, and they project the constraints of finite human spatial-temporal intuition onto non-spatial, non-perceptual metaphysical realities. Furthermore, I will contend that LDS eternalism can robustly accommodate an actual infinite by adopting an appropriate philosophy of mathematics and recognizing that the successive addition of temporal increments does not entail the traversal of an actual infinite, but rather the manifestation of an open, unexhausted temporal series.
+
+---
+
+## 1. The Ontological Stakes: Craig’s Finitism and LDS Eternalism
+
+To appreciate the gravity of the philosophical collision between Craig and LDS metaphysics, one must map out the core commitments of both positions. 
+
+William Lane Craig’s philosophy of time and infinity is anchored in a neo-Lorentzian A-theory of time (presentism) combined with a robust finitism regarding the past. Craig contends that if the universe had no beginning, an actual infinite number of past events must have elapsed prior to the present moment. Drawing heavily upon the pioneering work of mathematician Georg Cantor, Craig distinguishes between the *potential* infinite and the *actual* infinite. A potential infinite is a collection that is growing endlessly toward an unachievable limit—it is always finite at any given moment, though indefinitely extensible. An actual infinite, by contrast, is a collection whose number of elements is actualized as a completed totality, possessing a transfinite cardinality ($\aleph_0$, $\aleph_1$, etc.).
+
+Craig insists that while the potential infinite is mathematically and conceptually coherent, the actual infinite cannot exist in the actual, mind-independent world. His arguments proceed by demonstrating that the instantiation of an actual infinite in concrete reality generates paradoxes so severe that they amount to metaphysical and logical impossibilities. Therefore, the past must have had a beginning, and *creatio ex nihilo* (or at least a temporal inception of the universe) is metaphysically required.
+
+Latter-day Saint eternalism stands in stark opposition to this framework. As articulated systematically by early apostles and modern thinkers like David L. Paulsen and Blake T. Ostler, LDS ontology posits that:
+1. **Uncreated Matter and Intelligence:** The fundamental constituents of reality—both physical matter and conscious, moral agents (intelligences)—are uncreated, beginningless, and indestructible.
+2. **The Rejection of Absolute Creationism:** There was no metaphysical "first moment" of reality, nor was there a state of absolute nothingness from which being emerged. God (Elohim) is an embodied, exalted human being who organized the present cosmos out of pre-existing, co-eternal materials.
+3. **Beginningless Temporality:** Time is real, objective, and beginningless. History is an infinite regression of past events, epochs, and creative cycles.
+
+For the Latter-day Saint, eternity is not merely an unending future (*sempiternity*), but an infinitely extended duration stretching backward as well as forward. If Craig’s arguments against the actual infinite are sound, this foundational pillar of Mormon metaphysics collapses. If an actual infinite past is logically incoherent, then the universe—and by extension, the uncreated elements of LDS ontology—must possess a temporal beginning, forcing LDS theology into a rapprochement with traditional classical theism and *creatio ex nihilo*.
+
+---
+
+## 2. Craig’s *Reductio* Arsenal: The Mechanics of the Objection
+
+Craig’s case against the actual infinite relies on a series of thought experiments designed to show that applying the arithmetic of transfinite numbers to the real world results in absurdities that violate basic metaphysical principles, most notably the Principle of Correspondence.
+
+### The Principle of Correspondence
+Formulated explicitly by Georg Cantor and deployed by Craig as an ontological touchstone, the Principle of Correspondence states that two sets have the exact same number of elements (cardinality) if and only if a one-to-one correspondence (bijection) can be established between the members of the two sets. In finite sets, this principle aligns with our basic intuition: the whole is greater than the part (Euclid’s Fifth Common Notion). 
+
+However, when applied to infinite sets, the Principle of Correspondence yields results that deeply flout finite intuition. For example, the set of all natural numbers ($\mathbb{N} = \{1, 2, 3, 4, \dots\}$) can be placed in a one-to-one correspondence with the set of even natural numbers ($\mathbb{E} = \{2, 4, 6, 8, \dots\}$) by the mapping $f(n) = 2n$. Thus, an infinite set can be put into a one-to-one correspondence with a proper subset of itself. 
+
+### Hilbert’s Hotel
+To bring out the ontological absurdity of this mathematical reality, Craig frequently appeals to David Hilbert’s famous thought experiment of the Grand Hotel. Imagine a hotel with a countably infinite number of rooms, all of which are currently occupied by guests. The hotel is, in the strictest sense, "full"—no additional guest can be accommodated by normal means. 
+
+Now, suppose a new guest arrives and asks for a room. The ingenious manager simply moves the guest in Room 1 to Room 2, the guest in Room 2 to Room 3, and so on *ad infinitum*. Room 1 is now vacant, and the new guest is accommodated. Yet, the number of guests in the hotel remains exactly the same ($\aleph_0$). 
+
+Things become stranger still. Suppose an infinite number of new guests arrive, each wanting a room. The manager instructs every current guest to move from Room $n$ to Room $2n$. Rooms 1, 3, 5, 7, etc., are now completely vacant, perfectly accommodating the infinitely many new arrivals. The total number of guests has doubled, yet the cardinality remains $\aleph_0$.
+
+Craig pushes the paradox further by imagining subtraction: suppose all the guests in the even-numbered rooms check out. How many guests remain? Infinitely many ($\aleph_0$). But suppose all the guests in rooms greater than 3 check out. Only three guests remain. Yet, in both cases, the hotel was fully occupied prior to the checkout, and in both cases, an infinite number of guests departed. Craig argues that a real-world scenario where subtracting infinity from infinity leaves either infinity or three—or where adding infinity to a full hotel results in no increase in occupancy—describes a state of affairs that is metaphysically impossible. It reduces reality to a contradiction.
+
+### The Infinite Library
+Complementing Hilbert’s Hotel is the thought experiment of the Infinite Library. Imagine a library with an actual infinite number of books. Suppose the books have alternating covers: every odd-numbered book has a red cover, and every even-numbered book has a black cover. How many red books are there? An actual infinite ($\aleph_0$). How many black books are there? An actual infinite ($\aleph_0$). The total number of books is $\aleph_0$. 
+
+Now, suppose we take away all the black books. We are left exclusively with the red books. How many books remain in the library? An actual infinite ($\aleph_0$). But how many books were removed? An actual infinite ($\aleph_0$). Craig argues that it is absurd to think that you can subtract an infinite number of items from an infinite collection and still leave behind an infinite collection of the exact same size, with no change in the total inventory. In the physical world, subtraction diminishes quantity; the fact that transfinite arithmetic permits $X - \aleph_0 = X$ (for $X = \aleph_0$) shows, according to Craig, that actual infinites are purely abstract, conceptual entities that cannot be instantiated in concrete reality.
+
+---
+
+## 3. Evaluating the *Reductio*: Logical Impossibility vs. Cantorian Counter-Intuition
+
+Do Hilbert’s Hotel and the Infinite Library demonstrate genuine *logical* impossibilities, or do they merely shock our finite, evolutionary psychology-trained intuitions? To answer this, we must subject Craig’s *reductio* arguments to rigorous philosophical scrutiny.
+
+### The Fallacy of Transposing Abstract Properties to Concrete Entities
+A central weakness in Craig’s methodology is his transition from the *mathematical* properties of transfinite sets to *ontological* claims about concrete reality. Craig argues that because these mathematical scenarios violate our intuitive grasp of quantity, they are metaphysically impossible. 
+
+However, as critics like Graham Oppy and Robin Collins have pointed out, what Craig labels "absurdities" are simply the defining, axiomatic properties of transfinite arithmetic. Cantor did not discover contradictions in infinity; he discovered a consistent, highly rigorous mathematical system that operates under rules distinct from finite arithmetic. 
+
+In finite arithmetic, the axiom "the whole is greater than the part" holds universally. In transfinite arithmetic, Dedekind-infinite sets (sets that can be put into a one-to-one correspondence with a proper subset of themselves) are *defined* by the exact property that Craig finds absurd. To say, "An actual infinite cannot exist in reality because if it did, a proper subset could equal the whole in cardinality," is logically equivalent to saying, "A circle cannot exist in reality because if it did, all points on its circumference would be equidistant from its center." The latter is not an absurdity; it is the definition of circularity. Craig is smuggling the axioms of finite arithmetic into a domain where they do not apply, and then declaring the resulting friction to be a logical contradiction.
+
+### What Constitutes a Genuine Logical Impossibility?
+In formal logic, a contradiction occurs when a proposition of the form $P \land \neg P$ is affirmed. Do Hilbert’s Hotel or the Infinite Library entail formal contradictions?
+
+Let us analyze the Hilbert’s Hotel scenario under the rules of transfinite arithmetic. 
+* Let $S_1$ be the set of guests at time $t_1$ (cardinality $\aleph_0$).
+* Let $S_2$ be the set of guests at time $t_2$ after one new guest arrives (cardinality $\aleph_0$).
+* Is there a contradiction in asserting $|S_1| = |S_2| = \aleph_0$? 
+
+There is no formal contradiction ($P \land \neg P$) here unless one assumes the hidden premise: *"All collections must obey the arithmetic of finite sets."* But that premise is precisely what is at issue. Craig’s argument commits the informal fallacy of begging the question (petitio principii). He assumes that the behavior of finite collections must govern infinite collections, finds that infinite collections violate this assumption, and concludes that infinite collections are logically impossible. 
+
+When a guest arrives at Hilbert’s Hotel and all rooms remain occupied, no logical law is violated. The "absurdity" is purely psychological: we project our experience of finite motels onto an infinite architecture. We feel that "more guests should mean more total rooms occupied." But this intuition is grounded in the linear constraints of finite spatial economies, not in the laws of logic.
+
+---
+
+## 4. Finite Human Intuition vs. The Metaphysics of the Infinite
+
+Craig’s defense of his argument often appeals to intuition. He suggests that if an actual infinite were possible, we would witness bizarre, counter-intuitive states of affairs in the physical world—such as people walking out of a beginningless past who have completed an infinite number of tasks, or libraries where removing half the books leaves the inventory unchanged. Because these scenarios strike us as bizarre, Craig claims they are metaphysically absurd.
+
+### The Limits of Evolutionary Epistemology
+This reliance on intuition is epistemologically suspect. Human cognitive faculties—our spatial reasoning, our perception of time, our arithmetic heuristics—evolved in a strictly finite mesocosmic environment. We interact with medium-sized dry goods moving at slow speeds. Our brains are hardwired for survival in a world of bounded resources, discrete objects, and linear causality. 
+
+To take the cognitive software designed for hunting gatherer survival and use it as a supreme arbiter of transfinite metaphysics is a profound error in philosophical methodology. As Immanuel Kant argued in the *Critique of Pure Reason*, human intuition (*Anschauung*) is bound to the forms of space and time. When reason attempts to deploy these intuitive categories beyond the limits of possible sensory experience into the realm of the absolute or the infinite, it inevitably generates antinomies. 
+
+However, unlike Kant—who viewed these antinomies as proof that the unconditioned cannot be known—Craig treats the friction between finite intuition and infinite reality as proof that the infinite cannot *exist*. This is a failure of metaphysical imagination. It assumes that reality must conform to what is easily imaginable by a human brain. 
+
+### The Distinction Between Epistemic Imaginability and Metaphysical Possibility
+In contemporary modal epistemology, a crucial distinction is drawn between what is *imaginable* (or intuitively comfortable) and what is *metaphysically possible*. 
+* Quantum mechanics presents us with entities that can be in multiple states simultaneously (superposition) and particles that are instantaneously correlated across vast distances (entanglement). These phenomena are deeply counter-intuitive and impossible to accurately *imagine* in terms of classical Newtonian mechanics. Yet, they are physically and metaphysically real.
+* General relativity presents us with a space-time fabric that is curved, where time dilation occurs depending on velocity and gravity. This, too, violates everyday intuition.
+
+If the physical universe at the micro and macro levels routinely flouts our intuitive grasp of space, time, and causality, why should we expect the topology of eternity to bow to the comfort of finite human imagination? The fact that an actual infinite defies visualization does not make it logically impossible; it merely highlights the inadequacy of human visualization when confronted with the boundless.
+
+---
+
+## 5. LDS Eternalism, Successive Addition, and the Passage of Time
+
+We must now turn to a more specific challenge that Craig directs not just against the actual infinite in general, but against beginningless temporal series in particular: the problem of successive addition.
+
+### The Argument from Successive Addition
+Craig argues that an actual infinite cannot be formed by *successive addition*. A collection formed by successive addition is one that grows by adding elements one after another (e.g., counting: 1, 2, 3...). 
+1. The future is a potential infinite; it is formed by successive addition, growing toward an unachievable limit.
+2. The past, however, is often conceived by eternalists as an actual infinite that has been traversed or completed.
+3. Craig argues that it is logically impossible to *traverse* or *form* an actual infinite by successive addition, because no matter how many finite increments (days, years, events) you add, you will always be at a finite distance from infinity. To claim that an infinite past has elapsed to reach the present is to claim that an infinite collection has been formed by successive addition—which Craig likens to trying to count down all the negative numbers to reach zero, a task that has no starting point and can never be completed.
+
+### The LDS Response: Re-envisioning Temporal Infinity
+How can LDS eternalism reconcile beginningless time with the objection of successive addition? There are two primary avenues of philosophical defense available to the Mormon metaphysician.
+
+#### 1. Rejecting the "Traversal" Paradigm of the Past
+Craig’s objection assumes that the past is a journey that *started* at negative infinity and *traveled* forward to the present. This is a spatialized, directional metaphor applied improperly to time. 
+
+In a beginningless temporal series, there is no "starting point" at infinity, nor is there a moment at which the infinite series was "completed" or "traversed" from a beginning. Rather, every distinct moment in the past is finite in its distance from the present, yet the series of past moments has no first member. 
+* To use a spatial analogy: consider a straight line extending infinitely in both directions. Pick any point $P$ on the line. The distance from $P$ to any other point in either direction is finite. Yet the line as a whole has no endpoints. 
+* Similarly, in a beginningless time, the present moment is separated from any past event $E$ by a finite duration (e.g., $10^9$ years). The fact that there is no *first* event does not mean that an infinite duration had to be "crossed" or "jumped over" to get here. The present is simply the latest tick in an uncreated, beginningless temporal continuum.
+
+#### 2. Adopting a Tenseless (B-Theory) or Open-Series Metaphysics of Time
+Craig’s argument relies heavily on A-theoretic presentism—the view that only the present moment exists, that the past is non-existent, and that time flows by the successive ontological accretion of moments. If presentism is true, and the past is infinite, then an infinite number of non-existent moments have somehow accumulated to reach the present.
+
+However, many philosophers (and some LDS thinkers, such as Blake Ostler) have explored B-theoretic or relational models of time within Mormon metaphysics. On a relational view, time is not an ontological container filled by successive drops of present moments, but the metric of change and relation between enduring or persisting entities. 
+* If intelligences and unorganized matter have co-existed changelessly or changingly in an open-ended matrix, the "passage" of time is not a process of traversing an abyss of nothingness, but the continuous actualization of novelty within a beginningless framework.
+* Furthermore, if we adopt a tenseless view of time (where past, present, and future are equally real in a four-dimensional block universe, though LDS theology traditionally modifies this to preserve libertarian free will), the problem of "forming" an infinite past by successive addition vanishes entirely. The past is not formed; it simply *is*, structurally laid out in its infinite array.
+
+---
+
+## 6. Arithmetic Operations and the Infinite in LDS Ontology
+
+A final technical challenge raised by critics of the actual infinite concerns arithmetic operations within an infinite domain. If LDS doctrine posits that intelligences progress endlessly into the future (eternal progression) and that they emerged from an infinite past, we encounter questions regarding the arithmetic of divine growth.
+
+### The Paradox of Infinite Progression
+LDS theology teaches that human beings can progress eternally, becoming like God and gaining knowledge, power, and glory without end. This is a commitment to the *future* infinite as a potential-becoming-actualized reality (or a sempiternal trajectory). 
+
+If a person progresses for an infinite amount of time, have they achieved an actual infinity of knowledge or experience? 
+* If knowledge is infinitely extensible, an individual can always acquire *more* knowledge. Thus, at any given moment in eternity, the amount of knowledge possessed is *finite* (a potential infinite), even though the process continues without limit.
+* What about the past? If an intelligence has existed for an infinite amount of time prior to mortality, did they already possess an infinite amount of experiences? 
+
+Critics like Craig argue that performing arithmetic operations on actual infinities yields paradoxical results (e.g., $\infty + 1 = \infty$, or $\infty - \infty$ is undefined). If an intelligence adds new experiences to an already infinite stock of past experiences, does the total increase? 
+
+### Resolving the Arithmetic Objection
+The resolution lies in understanding that transfinite numbers do not behave like finite integers under addition. In Cantorian set theory, $\aleph_0 + 1 = \aleph_0$. In the context of an eternal intelligence, acquiring a new experience does not increase the cardinal cardinality of the set of past experiences (it remains countably infinite, $\aleph_0$), but it *does* change the ordinal structure or the specific content of the set. 
+
+Cardinality measures the "size" of a set in terms of one-to-one correspondence, whereas ordinality measures the order type. In an infinite progression, an intelligence’s experiential set undergoes continuous ordinal expansion and enrichment without needing to exceed the cardinality of $\aleph_0$. There is no mathematical contradiction here; it is simply the natural consequence of operating within the transfinite domain. The fear that eternal progression "breaks" arithmetic is born of an insistence on applying the rules of finite addition ($\text{finite} + 1 > \text{finite}$) to infinite sets.
+
+---
+
+## Conclusion: The Viability of LDS Eternalism
+
+William Lane Craig has constructed a formidable and philosophically sophisticated case against the actual infinite, deploying Hilbert’s Hotel, the Infinite Library, and the Principle of Correspondence to argue that actual infinities are metaphysically absurd. If these arguments were successful, they would deal a fatal blow to the beginningless temporal ontology of LDS eternalism.
+
+However, as we have demonstrated, Craig’s arguments do not succeed in establishing a genuine logical impossibility. They rest upon:
+1. **A Category Mistake:** Treating the counter-intuitive axiomatic properties of Cantorian transfinite arithmetic as ontological contradictions.
+2. **Epistemic Provincialism:** Confusing the limits of finite human spatial-temporal intuition with the boundaries of metaphysical possibility.
+3. **Spatialized Temporal Fallacies:** Mischaracterizing a beginningless past as a "traversed" journey starting from negative infinity, thereby misapplying the concept of successive addition.
+
+LDS eternalism can consistently accommodate an actual infinite and a beginningless past. By embracing Cantorian set theory, rejecting presentist assumptions about the traversal of time, and recognizing that time in a beginningless universe is an open, uncreated continuum rather than a completed spatial expanse, Mormon metaphysics remains logically coherent. 
+
+The eternal progression of intelligences, the uncreated nature of matter, and the boundless vista of beginningless and endless time are not undermined by the paradoxes of the infinite. Instead, they invite us to expand our philosophical imagination beyond the pedestrian confines of finite arithmetic, recognizing with the poet and the prophet that eternity has neither beginning of days nor end of years, and that the human mind, made in the image of the infinite, is capable of comprehending—or at least reverently inhabiting—the boundless topology of the real.

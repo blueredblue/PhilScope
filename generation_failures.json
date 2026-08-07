@@ -136,5 +136,179 @@
     "model_label": "qwen-plus",
     "last_error": "litellm.AuthenticationError: AuthenticationError: DashscopeException - Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error",
     "timestamp": "2026-08-06 16:31:39"
+  },
+  "metcalf-art_and_the_saving_power_llama33_70b_groq": {
+    "essay_id": "metcalf-art_and_the_saving_power",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 97365, Requested 8403. Please try again in 1h23m3.552s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 14:58:07"
+  },
+  "madsen-gods_sovereignty_llama33_70b_groq": {
+    "essay_id": "madsen-gods_sovereignty",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96909, Requested 8390. Please try again in 1h16m18.336s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:04:41"
+  },
+  "isaac-socrates_and_the_public_laws_of_athens_llama33_70b_groq": {
+    "essay_id": "isaac-socrates_and_the_public_laws_of_athens",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96684, Requested 8337. Please try again in 1h12m18.144s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:07:56"
+  },
+  "schwenkler-property_indexing_and_problems_of_identity_llama33_70b_groq": {
+    "essay_id": "schwenkler-property_indexing_and_problems_of_identity",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96278, Requested 8402. Please try again in 1h7m23.52s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:13:46"
+  },
+  "kenny-socratic_knowledge_and_the_daimonion_llama33_70b_groq": {
+    "essay_id": "kenny-socratic_knowledge_and_the_daimonion",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95617, Requested 8386. Please try again in 57m38.592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:23:18"
+  },
+  "semantic-problem-for-stage-theory_llama33_70b_groq": {
+    "essay_id": "semantic-problem-for-stage-theory",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95432, Requested 8364. Please try again in 54m39.744s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:25:57"
+  },
+  "science-and-rationality-for-one-and-all_llama33_70b_groq": {
+    "essay_id": "science-and-rationality-for-one-and-all",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 94377, Requested 8323. Please try again in 38m52.8s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:41:09"
+  },
+  "schwartz-disowning_mutual_identity_llama33_70b_groq": {
+    "essay_id": "schwartz-disowning_mutual_identity",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 94189, Requested 8355. Please try again in 36m38.016s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:43:52"
+  },
+  "andersen-the_philosophical_task_of_writing_llama33_70b_groq": {
+    "essay_id": "andersen-the_philosophical_task_of_writing",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 94022, Requested 8382. Please try again in 34m37.056s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:46:16"
+  },
+  "nielson-the_one_beside_the_many_llama33_70b_groq": {
+    "essay_id": "nielson-the_one_beside_the_many",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 93091, Requested 8317. Please try again in 20m16.512s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 15:59:40"
+  },
+  "spencer-plato_among_and_against_the_postmodernists_llama33_70b_groq": {
+    "essay_id": "spencer-plato_among_and_against_the_postmodernists",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 91980, Requested 8379. Please try again in 5m10.176s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 16:15:40"
+  },
+  "lund-resolving_the_inconsistencies_in_aquinass_truth_theory_llama33_70b_groq": {
+    "essay_id": "lund-resolving_the_inconsistencies_in_aquinass_truth_theory",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 91718, Requested 8346. Please try again in 55.296s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 16:19:27"
+  },
+  "bentley-consciousness_as_a_hot_addition_llama33_70b_groq": {
+    "essay_id": "bentley-consciousness_as_a_hot_addition",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99741, Requested 2114. Please try again in 26m42.72s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 16:29:59"
+  },
+  "ward-conscience_in_kantian_ethics_llama33_70b_groq": {
+    "essay_id": "ward-conscience_in_kantian_ethics",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99474, Requested 8306. Please try again in 1h52m1.919999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 16:33:50"
+  },
+  "tallent-sartres_radicalization_of_husserlian_phenomenology_llama33_70b_groq": {
+    "essay_id": "tallent-sartres_radicalization_of_husserlian_phenomenology",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98703, Requested 8398. Please try again in 1h42m15.264s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 16:44:57"
+  },
+  "schwartz-transcendence_over_cultural_politics_or_why_i_disagree_with_rorty_llama33_70b_groq": {
+    "essay_id": "schwartz-transcendence_over_cultural_politics_or_why_i_disagree_with_rorty",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98206, Requested 8421. Please try again in 1h35m25.728s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 16:52:06"
+  },
+  "christensen-on_being_a_self_llama33_70b_groq": {
+    "essay_id": "christensen-on_being_a_self",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 97981, Requested 8346. Please try again in 1h31m6.528s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 16:55:20"
+  },
+  "leavitt-the_moral_limits_of_state_action_llama33_70b_groq": {
+    "essay_id": "leavitt-the_moral_limits_of_state_action",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 97656, Requested 8364. Please try again in 1h26m41.28s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:00:01"
+  },
+  "brownson-how_predictable_are_we_llama33_70b_groq": {
+    "essay_id": "brownson-how_predictable_are_we",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 97394, Requested 8385. Please try again in 1h23m13.056s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:03:47"
+  },
+  "anderson-a_move_to_more_fruitful_ground_llama33_70b_groq": {
+    "essay_id": "anderson-a_move_to_more_fruitful_ground",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 97090, Requested 8379. Please try again in 1h18m45.216s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:08:10"
+  },
+  "faulconer-founding_an_environmental_ethic_llama33_70b_groq": {
+    "essay_id": "faulconer-founding_an_environmental_ethic",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96844, Requested 8347. Please try again in 1h14m45.023999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:11:42"
+  },
+  "brough-misinterpretation_in_augustines_confessions_llama33_70b_groq": {
+    "essay_id": "brough-misinterpretation_in_augustines_confessions",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96625, Requested 8381. Please try again in 1h12m5.184s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:14:52"
+  },
+  "cline-what_is_a_rule_llama33_70b_groq": {
+    "essay_id": "cline-what_is_a_rule",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96300, Requested 8356. Please try again in 1h7m2.783999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:19:32"
+  },
+  "macgregor-socrates_god_and_piety_llama33_70b_groq": {
+    "essay_id": "macgregor-socrates_god_and_piety",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96055, Requested 8374. Please try again in 1h3m46.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:23:05"
+  },
+  "stewart-the_two_freedoms_llama33_70b_groq": {
+    "essay_id": "stewart-the_two_freedoms",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95838, Requested 8303. Please try again in 59m37.824s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:26:12"
+  },
+  "Kao-law_in_platform_society_llama33_70b_groq": {
+    "essay_id": "Kao-law_in_platform_society",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95588, Requested 8382. Please try again in 57m10.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:29:48"
+  },
+  "stannard-theism_atheism_dialogue_llama33_70b_groq": {
+    "essay_id": "stannard-theism_atheism_dialogue",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95358, Requested 8408. Please try again in 54m13.824s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:33:06"
+  },
+  "hughes-the_role_of_happiness_in_kants_ethics_llama33_70b_groq": {
+    "essay_id": "hughes-the_role_of_happiness_in_kants_ethics",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95045, Requested 8349. Please try again in 48m52.415999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:37:37"
+  },
+  "Jedam-paradox_of_fiction_llama33_70b_groq": {
+    "essay_id": "Jedam-paradox_of_fiction",
+    "model_label": "llama33_70b_groq",
+    "last_error": "litellm.RateLimitError: RateLimitError: GroqException - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kz7vvr4qeq1spdctwpdt548j` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 94792, Requested 8348. Please try again in 45m12.959999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+    "timestamp": "2026-08-07 17:41:16"
   }
 }

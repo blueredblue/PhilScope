@@ -1,0 +1,173 @@
+# The State, Beneficence, and Freedom in Kant’s Metaphysics of Morals
+
+## Introduction
+
+Whether the state has an independent moral duty of beneficence is one of the most difficult questions in Kantian political philosophy. The difficulty arises from a tension internal to Kant’s *Metaphysics of Morals*. On the one hand, Kant sharply distinguishes justice from beneficence. Justice concerns enforceable rights and the external conditions under which the freedom of each can coexist with the freedom of all. Beneficence, by contrast, concerns the voluntary adoption of the ends of others and belongs primarily to the sphere of ethics rather than law. This distinction might suggest that the state has no independent obligation to assist the needy. If the state may legitimately coerce only to prevent or remedy violations of rights, then taxation for welfare purposes could appear to be an impermissible invasion of individual liberty.
+
+On the other hand, Kant’s discussion of public right expressly authorizes the state to tax citizens for the support of the poor, the establishment of hospitals, and similar public purposes. Allen D. Rosen interprets this feature of Kant’s political philosophy as evidence that Kantian justice cannot be reduced to a narrowly protective function. According to Rosen’s interpretation, the state may possess a juridical responsibility to secure the material and institutional conditions necessary for citizens to exercise their freedom. In that sense, state support for the needy is not merely an optional act of charity. It may be required by justice itself.
+
+The central issue is therefore not whether helping the needy is morally valuable. Kant clearly recognizes duties of beneficence. The issue is whether those duties can be transformed into public, coercively enforceable obligations without contradicting the principles of freedom. The problem becomes especially acute when the state acts through taxation. Taxation takes property from some individuals under threat of legal sanction and transfers resources to others. A state committed to individual rights might regard such taxation as forced labor or partial expropriation. A state committed to the Kantian idea of a united public will, however, might regard taxation as an expression of equal freedom rather than its negation.
+
+This essay argues that Kant’s theory supports a limited but genuine independent duty of public beneficence. The state may legitimately provide assistance to the needy when such assistance is necessary to preserve the equal status and civic freedom of all persons. Rosen’s interpretation is therefore stronger than a purely libertarian reading that confines the state to protection against force and fraud. Nevertheless, Rosen’s position must be qualified. The state’s duty is not an unlimited mandate to promote welfare according to shifting substantive ideals or popular preferences. It is constrained by the Categorical Imperative, by the principles of equality and liberty, and by the requirement that public coercion be authorized by a united will rather than by the mere power of a numerical majority. Positive welfare measures are not inherently violations of freedom under Kant’s *Metaphysics of Morals*, but they become violations when they are imposed paternalistically, arbitrarily, or in ways that subordinate some citizens to the private purposes of others.
+
+## I. Kant’s Distinction Between Right and Beneficence
+
+Kant’s moral philosophy distinguishes between duties of right and duties of virtue. The distinction is not simply between important and unimportant duties. It concerns the different forms of obligation and the different kinds of coercion that may properly support them.
+
+Duties of virtue require individuals to adopt certain ends. The duty of beneficence, for example, requires a person to make the happiness or well-being of others an end when doing so is consistent with the person’s own legitimate ends. Because such duties concern the inner adoption of ends, they cannot ordinarily be externally enforced. A person may be morally blameworthy for being selfish, but the state cannot compel the inner disposition of benevolence. It may sometimes regulate conduct associated with beneficence, but it cannot make citizens virtuous by force.
+
+Duties of right are different. They concern actions insofar as those actions affect the external freedom of others. Kant’s basic principle of right holds that an action is right if it can coexist with everyone’s freedom according to a universal law. The state may use coercion to prevent one person from interfering with the freedom of another, because coercion that blocks wrongful interference is itself compatible with universal freedom. If someone steals, assaults, or defrauds another, legal coercion does not contradict freedom. It restores the conditions under which equal freedom can exist.
+
+This framework creates an apparent barrier to state welfare. If beneficence belongs to ethics and not to right, then the state, whose defining function is the administration of public right, may seem unable to compel it. Forced charity appears morally paradoxical: the state takes from one person to assist another, and in doing so may treat the first person merely as a means to the second person’s welfare. The individual taxpayer may reasonably object that his property and labor are being commandeered for purposes he has not chosen.
+
+Yet Kant’s distinction does not imply that the state must be indifferent to material deprivation. It implies only that the state’s authority must be grounded in right rather than in benevolent sentiment. The relevant question is whether social conditions of severe poverty can themselves undermine the external freedom and equal standing of citizens. If they can, then measures that address poverty may be justified not as compulsory virtue but as requirements of public justice.
+
+This is the central interpretive opening exploited by Rosen. The state need not be imagined as a benevolent personality that feels compassion and distributes resources according to a moral ideal of happiness. Rather, it can be understood as the institutional expression of the united will of citizens who require a legal order capable of maintaining their independence. Public assistance can therefore be juridical when it protects the conditions under which persons can remain free and equal members of a common political order.
+
+## II. Rosen’s Interpretation of Kantian Justice
+
+Allen D. Rosen’s interpretation emphasizes that Kant’s conception of justice is broader than a minimal prohibition against direct interference. It includes the institutional conditions necessary for the consistent exercise of freedom. Kant does not treat property, citizenship, or civil independence as natural facts existing before the state. They are juridical statuses constituted within a public legal order. Since the state establishes and maintains the system of public right, it may have responsibilities that do not arise merely from isolated acts of wrongdoing.
+
+The importance of this point becomes clear in Kant’s treatment of property. In the state of nature, an individual may possess something physically, but possession is not yet secure property in the full juridical sense. Property rights become determinate and enforceable only through a public authority capable of resolving disputes and guaranteeing reciprocal recognition. The state therefore does not merely protect a prepolitical distribution of holdings. It creates the legal framework within which holdings count as property at all.
+
+If property is constituted within a public system of right, then taxation cannot be judged simply as an external seizure of what individuals independently own. The state may claim resources as part of the very system that makes secure ownership possible. This does not mean that all taxation is automatically legitimate. It means that the moral status of taxation must be considered in relation to the public legal order and the freedom that order establishes.
+
+Kant’s explicit statement that the government may tax citizens for the support of the poor is particularly significant. He writes that the state may require contributions from the people for such purposes as maintaining the poor, supporting public institutions, and addressing common needs. This passage is difficult to reconcile with the claim that the state has no independent moral responsibility beyond protecting negative rights. Kant appears to recognize that a civil condition has obligations to those who would otherwise be unable to sustain themselves within that condition.
+
+Rosen’s interpretation can be reconstructed through three connected claims.
+
+First, the state has a duty to maintain the juridical conditions of equal freedom. These conditions include not only protection from physical interference but also access to the basic institutional structures through which persons can act as independent citizens.
+
+Second, extreme poverty can compromise those conditions. A person who lacks the means to sustain bodily existence, participate in civil society, or exercise legally recognized independence may be formally free but substantively vulnerable to domination. Such a person may become dependent on private employers, landlords, patrons, or charitable benefactors in ways inconsistent with civic equality.
+
+Third, because the state is responsible for maintaining the public order in which freedom and property are possible, it may be authorized to impose general taxation for public relief. The tax is not a gift from the wealthy to the poor, nor a punishment imposed on the successful. It is a contribution to the common legal structure, including the preservation of a civic condition in which all members can count as free and equal.
+
+On this view, state beneficence is not simply the moral duty of private individuals magnified to a larger scale. The state does not have feelings, personal projects, or a private stock of wealth. Its duty is institutional. It must establish and preserve the external conditions of a rightful condition. Assistance to the needy is justified when it prevents the collapse of those conditions.
+
+Rosen’s interpretation is especially persuasive because it avoids a false dichotomy. Either the state is restricted to protecting negative rights, or it must be authorized to maximize social welfare without principled limits. Kant permits a third possibility: the state may take positive measures when they are necessary to secure the equal freedom that makes rights meaningful, while remaining prohibited from coercively imposing a comprehensive ideal of happiness.
+
+## III. The Categorical Imperative and the Limits of Public Coercion
+
+The Categorical Imperative constrains both the ends and the methods of state action. Its formula of universal law asks whether the principle of an action can be willed as a universal law. Its formula of humanity requires that humanity, in oneself and others, always be treated as an end and never merely as a means. Applied politically, these principles prohibit the state from treating citizens as instruments of collective advantage.
+
+A welfare policy therefore cannot be justified merely by showing that it produces beneficial consequences. The fact that taxation increases aggregate happiness, reduces inequality, or satisfies the preferences of a majority is not sufficient. The policy must be consistent with the equal rational agency of every citizen subject to it.
+
+This requirement has two implications.
+
+First, the state may not sacrifice some persons for the welfare of others. A tax system that deliberately treats a minority as a permanent resource for the majority, or that extracts from particular groups without regard to their equal status, would violate the humanity principle. It would use citizens as means to purposes they could not reasonably regard as compatible with their status as co-legislators.
+
+Second, the state may adopt coercive rules if those rules can be willed as universal laws by free and equal citizens. A general tax that supports institutions required by the public legal order may be universalizable. Each citizen contributes according to a public rule, and each is entitled to the protections and benefits of the system. The rule is not based on the private will of one person dominating another but on a common law applying to all.
+
+The distinction between universalizable taxation and impermissible exploitation is not always easy to draw. Progressive taxation, for example, may be defended on the ground that those with greater resources can contribute more without losing the conditions of independence, while the poor may require assistance to retain civic status. But the same policy could be criticized if it treats wealth itself as a public resource subject to unrestricted redistribution. Kant’s principles do not establish a single tax rate or welfare budget. They establish standards of justification: generality, reciprocity, non-arbitrariness, respect for persons, and necessity for a rightful condition.
+
+The formula of humanity also constrains the manner in which assistance is provided. Welfare recipients must not be treated as passive objects of state benevolence. A system that humiliates, surveils, or infantilizes the needy may provide material benefits while violating their dignity. If the aim is to preserve independence, then assistance should be structured to support agency rather than create political dependence. The state must not replace one form of domination with another.
+
+The Categorical Imperative thus supports public beneficence only under a juridical description. The state may not say: “We will take your property because doing so will make society happier.” It may say: “We will establish general rules of contribution because a public system of equal freedom requires that no citizen be excluded from the conditions of civil independence.” The first rationale makes welfare a project of aggregate welfare maximization. The second makes it an aspect of public right.
+
+## IV. Equality and Liberty as Principles of the State
+
+Kant’s principles of freedom can be expressed through the ideas of equality and liberty. These principles are not competing values that the state may balance according to preference. They are mutually dependent aspects of a rightful condition.
+
+### 1. Equality
+
+Kantian equality means that all citizens possess equal standing under public law. No one may be born into a legally superior class, subjected to hereditary political privilege, or placed under the personal authority of another. Equality is therefore primarily juridical rather than material. Kant does not require identical possessions or identical life outcomes.
+
+Nevertheless, formal legal equality can be undermined by material conditions that make some persons effectively dependent on others. If one group possesses the means to control the basic opportunities of another, the latter may remain legally free while lacking the independence associated with citizenship. A starving person may formally be free to refuse an exploitative contract, but the practical significance of that freedom is diminished if refusal means death. A person without access to basic education, healthcare, or legal assistance may have rights in theory while being unable to exercise them in practice.
+
+This does not mean that every inequality is unjust. Kant’s framework is not a demand for equal distribution. Inequalities may arise from choice, effort, talent, or legitimate exchange. The relevant question is whether the legal and social order permits inequalities that are compatible with the equal independence of all. Public assistance is justified when it prevents material inequality from becoming a relation of juridical or civic subordination.
+
+In this respect, taxation for the needy can be understood as an expression of equality. It does not necessarily deny the taxpayer’s freedom. It may instead recognize that the taxpayer’s property rights exist within a legal order whose legitimacy depends on the equal standing of all. The state collects resources not because one person’s happiness has greater intrinsic value than another’s, but because the common system of right must remain accessible to every citizen.
+
+### 2. Liberty
+
+Kantian liberty is not mere noninterference. It is independence from being constrained by another’s choice. A person is free when he can act according to laws he gives himself, subject only to laws compatible with the freedom of all. This conception permits coercion against private domination. If an individual uses force to impose his will on another, state coercion can restore freedom rather than oppose it.
+
+The same logic can apply to economic dependence. Private power can be coercive even when it does not involve explicit physical force. A person who must accept arbitrary conditions imposed by another because he lacks any minimally viable alternative may be subject to another’s choice in a manner inconsistent with independence. The state may therefore have reason to provide a floor of support that reduces conditions of extreme dependency.
+
+The argument must be stated cautiously. Economic disadvantage is not automatically equivalent to legal coercion, and every difficult choice is not a violation of freedom. If the state treated all forms of dependence as wrongful, it would acquire unlimited authority to regulate social life. Kantian liberty requires room for voluntary exchange, personal projects, and unequal outcomes. But when deprivation makes citizens incapable of functioning as independent participants in the public order, positive measures may be necessary to secure liberty in its juridical sense.
+
+Thus equality and liberty jointly support a limited duty of public beneficence. Equality requires that no citizen be excluded from the status of a co-legislator. Liberty requires that citizens not be reduced to instruments of the private will of others. Welfare measures are legitimate when they protect these principles, not when they simply equalize conditions for their own sake.
+
+## V. The Individual-Rights Alternative
+
+The strongest challenge to Rosen’s interpretation comes from an alternative framework centered on individual rights. On this view, each person has a domain of authority over his body, labor, and legitimately acquired property. The state’s role is to protect this domain against force, theft, fraud, and breach of contract. It may also provide courts and defense, since these are necessary to protect rights. But it may not take from one individual for the purpose of benefiting another.
+
+This framework draws support from Kant’s insistence that persons are ends in themselves and that coercion must be justified as a response to coercion. If the state taxes a citizen to feed someone else, the taxpayer may claim that he has not violated anyone’s rights and therefore cannot permissibly be coerced. His property is not a public fund simply because others need it. To force him to labor for another’s benefit may be to treat him as a means.
+
+The rights-based objection also emphasizes Kant’s distinction between ethics and right. Individuals have duties of beneficence, but those duties are imperfect and cannot be enforced according to a determinate schedule. One may choose whom to help, how much to give, and which projects to support. State welfare converts this discretionary ethical duty into a compulsory legal demand. Such conversion appears to erase the boundary between morality and law.
+
+This alternative framework has significant force. It guards against paternalism, bureaucratic overreach, and the tendency to transform every social problem into a justification for coercion. It also reminds us that the needy possess rights against the state no less than taxpayers do. A government that claims unlimited authority to redistribute can become a threat to precisely the independence it claims to promote.
+
+Nevertheless, the individual-rights framework faces difficulties when applied to Kant’s theory of property and public right. If property rights are fully defined only within a public legal order, then taxation for maintaining that order cannot straightforwardly be described as taking what the state has no claim to regulate. The state must determine the rules of acquisition, transfer, inheritance, contract, and enforcement. It must also address circumstances in which the operation of the legal order leaves some citizens unable to maintain themselves as independent members of the community.
+
+Moreover, the rights-based position may rely on an overly narrow conception of coercion. It identifies coercion only with direct interference by the state, while overlooking the ways in which legal structures distribute vulnerability and dependence. A system of property and contract is not morally neutral simply because its rules are formally general. If the state enforces a system under which some citizens are left without the means of basic independence, it may be implicated in their condition. Public nonintervention can itself sustain relations in which private persons exercise dominating power.
+
+The alternative framework is therefore most compelling as a constraint on Rosen, not as a complete refutation of him. It establishes that welfare cannot be justified by need alone, that taxation must respect property and agency, and that state action must remain limited and general. But it does not establish that the state has no duty to provide assistance. A Kantian theory of rights must account for the public conditions that make rights meaningful.
+
+## VI. The United Will and the Problem of Majority Consent
+
+The legitimacy of taxation also depends on Kant’s conception of the united will. Kant does not identify the rightful will with whatever a majority happens to prefer. A majority can act unjustly. If fifty-one percent vote to enslave or dispossess forty-nine percent, the result cannot be a legitimate public law merely because it reflects numerical consent.
+
+The united will is a normative idea. It represents the will of citizens insofar as they are considered free and equal co-legislators. A law is legitimate when every citizen could regard it as compatible with his freedom under a system of laws that applies universally. The united will is therefore not an empirical aggregation of private desires. It is the public standpoint from which citizens legislate for a common legal order.
+
+This distinction is decisive for the welfare question. A majority cannot authorize any welfare measure simply by voting for it. Suppose the majority imposes a tax on a religious or ethnic minority solely to fund benefits for the majority. Such a law would not express a united will, even if enacted through proper procedures. It would make one group serve as a means for another and would violate equal citizenship.
+
+Nor can majority consent legitimate paternalistic laws that force citizens to pursue a particular conception of happiness. The state may not compel individuals to become morally virtuous, healthy, prosperous, or content according to the majority’s preferred ideal. Public laws must be directed toward the conditions of external freedom, not toward the perfection of private lives.
+
+At the same time, the absence of unanimous individual consent does not invalidate taxation. In a civil condition, laws must be general and binding. If each citizen could veto every tax or public institution to which he objected, no common legal order could exist. The relevant standard is not actual consent but the possibility of rational consent under conditions of equal citizenship. A tax may be legitimate if every citizen could will the general principle behind it, even if some individuals oppose the particular rate or allocation.
+
+The united will therefore mediates between two extremes. Against simple majoritarianism, it insists that public laws respect the rights of every citizen. Against strict individual veto power, it recognizes that public right requires common and coercively enforceable rules. Taxation for the needy is legitimate when it is structured as a general contribution to the preservation of equal civil independence, not when it is an instrument of partisan redistribution.
+
+## VII. Does Positive Welfare Violate Freedom?
+
+The dilemma can now be stated directly: if the state forcibly taxes individuals to support the needy, does it necessarily violate their freedom?
+
+A negative answer follows from Kant’s account of rightful coercion. Coercion is not wrongful merely because it limits an individual’s immediate range of choice. The question is whether the coercion can coexist with equal freedom under a universal law. A tax law restricts what a citizen may do with part of his property, but so do laws defining property, contract, inheritance, and public infrastructure. The existence of a restriction does not settle the question of its legitimacy.
+
+Positive welfare measures can be compatible with freedom in at least four circumstances.
+
+First, they may secure the minimum conditions of civic independence. If citizens unable to meet basic needs become dependent on private persons or excluded from public participation, assistance can preserve rather than diminish freedom.
+
+Second, they may correct structural defects in the system of public right. Since property and economic relations operate within a legal framework established by the state, the state may have duties to prevent that framework from producing conditions of domination incompatible with equal citizenship.
+
+Third, they may be enacted through general laws that apply to citizens as equals. The policy must not arbitrarily target particular persons or groups. Its justification must be public and accessible to all.
+
+Fourth, they may respect the agency and dignity of recipients. Welfare should not turn citizens into wards of the state. It should aim at restoring or maintaining independence, using the least intrusive means compatible with that aim.
+
+Positive welfare violates freedom when these conditions are absent. It is illegitimate when the state uses citizens as resources for maximizing aggregate welfare, when it imposes a controversial moral ideal, when it distributes benefits through arbitrary political favoritism, or when it creates permanent dependency and administrative domination. It is also illegitimate when the tax burden becomes so extreme that taxpayers lose the material independence the state is supposed to protect.
+
+The phrase “support the needy” is therefore underdetermined. It could refer to a modest system of public relief directed toward basic subsistence and civic inclusion. Or it could refer to comprehensive economic management aimed at equalizing all outcomes. The former is defensible within Kant’s framework; the latter requires additional arguments and may conflict with Kantian property and liberty.
+
+## VIII. Is the Duty Truly Beneficence?
+
+A further conceptual question remains. If the state assists the needy in order to preserve equal freedom, is this really beneficence? Or is it simply justice under another name?
+
+Kant’s categories suggest that it is primarily a duty of right when the state acts coercively. The state is not entitled to compel citizens to adopt the end of another’s happiness as an end. It is entitled to establish conditions under which each person can exercise external freedom. Assistance may therefore have a beneficent effect while being justified by a juridical purpose.
+
+This distinction matters because it limits the state’s competence. Private individuals may permissibly engage in expansive beneficence. They may support art, religion, education, medicine, or personal causes according to their ethical judgments. The state, however, must justify its actions in terms of public right. It cannot simply claim that some citizens deserve assistance because their lives would be happier or morally better if they received it.
+
+Rosen’s claim that the state has an independent moral duty of beneficence should therefore be interpreted institutionally rather than psychologically. The state has an independent duty to provide certain forms of support because it is responsible for the public conditions of freedom. This duty is “beneficent” in the sense that it positively assists persons rather than merely refraining from harm. But its legal justification remains grounded in justice.
+
+Such a hybrid position explains why Kant can maintain both that beneficence is generally an ethical duty and that the state may tax for the poor. The apparent contradiction disappears once one distinguishes private beneficence from public assistance. Private beneficence proceeds from an individual’s chosen moral ends. Public assistance proceeds from the requirements of a rightful civil condition. The same outward act—giving resources to the needy—can therefore have different normative foundations depending on who performs it and under what authority.
+
+## IX. The Proper Scope of State Beneficence
+
+The state’s duty should be understood as limited in scope but real in character. It includes, at minimum, the preservation of conditions necessary for basic civil independence. This may justify emergency relief, public health measures, support for persons unable to maintain themselves, and institutions that prevent exclusion from legal and political participation.
+
+Whether it justifies universal education, extensive healthcare, housing guarantees, or broad income redistribution depends on how these policies relate to freedom and equality. Kant’s framework does not yield a simple list. Education may be required because citizens cannot exercise juridical independence without the capacity to understand and assert their rights. Public health may be necessary because disease can destroy the physical basis of agency and civic participation. Housing assistance may be justified when homelessness makes legal independence impossible. But each policy must be assessed by its relation to public right, not by its contribution to social welfare in the abstract.
+
+The principles of necessity and proportionality are especially important. The state should use no more coercion than is needed to secure equal freedom. It should prefer general rules over discretionary commands, transparent institutions over arbitrary administration, and assistance that promotes independence over assistance that entrenches dependence. Taxation should be predictable, publicly justified, and distributed according to principles that citizens could accept as free and equal members of the commonwealth.
+
+A Kantian welfare state would therefore differ from both a minimal night-watchman state and a comprehensive paternalistic state. It would not regard poverty as purely a private misfortune irrelevant to justice. Nor would it regard every inequality as a public injustice requiring correction. Its focus would be the preservation of a civil condition in which no citizen is placed outside the practical enjoyment of freedom.
+
+## Conclusion
+
+The question of whether the state has an independent moral duty of beneficence cannot be answered by simply repeating Kant’s distinction between ethics and right. That distinction is essential, but it does not entail that the state must be morally passive toward poverty. Kant’s account of public right, property, equal citizenship, and taxation indicates that the state may have positive responsibilities to maintain the conditions of a rightful condition.
+
+Allen D. Rosen’s interpretation captures this dimension of Kantian justice. The state is not merely a protective agency standing outside social relations. It constitutes and maintains the legal order within which property, freedom, and citizenship exist. When citizens lack the material conditions of independence, public assistance may be necessary to secure the equal freedom that the state is charged with protecting.
+
+The individual-rights alternative nevertheless provides an indispensable warning. Coercive taxation is not justified simply because the needy have urgent needs or because a majority prefers redistribution. The state must respect the taxpayer as an end, preserve the sphere of individual agency, and avoid converting public power into an instrument of arbitrary social control. Welfare measures must be general, non-paternalistic, proportionate, and connected to the requirements of public freedom.
+
+The Categorical Imperative supplies the decisive standard. A public law is legitimate when it can be willed as a universal law by citizens regarded as free and equal co-legislators, and when it treats every person as an end rather than as a resource for others. The united will, not mere majority consent, authorizes coercive taxation. A majority may enact a law, but only a law compatible with equal freedom can count as a rightful public law.
+
+Positive state welfare therefore does not inherently violate individual freedom under Kant’s *Metaphysics of Morals*. It violates freedom only when it is grounded in domination, arbitrary preference, or the pursuit of welfare detached from right. When properly limited, taxation to support the needy can express freedom rather than negate it: the freedom of citizens to live under laws they can regard as their own, within a public order that refuses to abandon some of its members to dependence and exclusion. Kantian justice thus supports neither unrestricted redistribution nor absolute state minimalism. It supports a public authority whose positive duties are justified by the equal freedom of all.

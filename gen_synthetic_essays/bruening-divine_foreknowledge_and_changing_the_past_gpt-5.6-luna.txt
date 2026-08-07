@@ -1,0 +1,219 @@
+# Divine Foreknowledge, Human Freedom, and the Possibility of Changing the Past
+
+The apparent conflict between infallible divine foreknowledge and human libertarian freedom is often formulated as an argument from the fixity of the past. Suppose that, yesterday, God infallibly believed that a person would freely perform some action tomorrow. If God’s belief was infallible, the action cannot fail to occur. Yet yesterday is now past, and no one has the power to alter the past. It therefore seems that the person cannot refrain from the action. If libertarian freedom requires the genuine ability to do otherwise, divine foreknowledge appears to rule it out.
+
+Blake Ostler develops a particularly forceful version of this argument. His concern is not merely that God knew the future, but that God possessed a past belief whose content was necessarily true. Since neither the past belief nor its truth can now be changed, the future act appears fixed in a manner incompatible with freedom. On this view, the free agent would need to possess a remarkable power: the power to bring it about that God had previously held a different belief. But this seems absurd. Human actions cannot reach backward and revise divine cognition. The argument therefore concludes that infallible foreknowledge and libertarian freedom are incompatible.
+
+This essay argues that Ostler’s argument identifies a genuine pressure point but does not establish incompatibilism. Its central error is to move too quickly from the inalterability of the past, understood from a human temporal perspective, to the impossibility of a different past being actualized through a free future action. Once the distinction between temporal alteration and counterfactual dependence is maintained, and once the difference between human temporal experience and the divine mode of knowing is taken seriously, the alleged contradiction loses its force. There is no logical impossibility in the thesis that, had the agent freely chosen differently, God would have held a different belief. In such a case, the agent does not alter an already settled past from within the same history. Rather, the agent’s action is part of the total history that includes the corresponding divine belief. The actual world contains one coherent relation between God’s knowledge and the creature’s choice; a counterfactual world contains another.
+
+The defense of compatibility requires attention to several issues: the nature of libertarian freedom, the logic of divine foreknowledge, the A-theory and B-theory of time, the problem of memory, and the possibility of causal loops. None of these issues is simple. But they do show that the alleged impossibility of changing God’s past beliefs depends on ontological assumptions that are not forced upon us by logic.
+
+## I. Ostler’s Argument from the Fixity of the Past
+
+A standard foreknowledge argument can be represented as follows:
+
+1. In the past, God infallibly believed that an agent \(S\) would perform action \(A\) at time \(t\).
+2. If God infallibly believed that \(S\) would perform \(A\), then \(S\) cannot fail to perform \(A\).
+3. The past is now fixed and cannot be altered.
+4. Therefore, \(S\) cannot now refrain from \(A\).
+5. If \(S\) cannot refrain from \(A\), then \(S\) is not libertarianly free with respect to \(A\).
+6. Therefore, infallible divine foreknowledge is incompatible with libertarian freedom.
+
+Ostler’s formulation strengthens this argument by emphasizing the necessary truth of divine belief. Let \(G\) be the proposition:
+
+> God believed yesterday that \(S\) would freely perform \(A\) today.
+
+If God is infallible, then \(G\) is true, and its truth entails that \(S\) performs \(A\). But \(G\) is a proposition about the past. If the past is unalterable, no present action can make \(G\) false. The agent therefore cannot perform the alternative action, not because of a present coercive force, but because the past belief has already settled what will happen.
+
+The argument is powerful because it avoids a simplistic claim that God’s belief causes the human action. Even if divine foreknowledge is causally passive, it seems to impose necessity. God’s belief does not push the agent toward \(A\; nevertheless, if the belief was infallible, the agent cannot act otherwise without making God’s past belief mistaken. The difficulty is therefore logical rather than causal.
+
+The incompatibilist can express the essential intuition as follows:
+
+> If an agent is free to do otherwise, the agent must have the power to bring about either of two genuinely possible alternatives. But if God’s past belief is already true and unalterable, the agent would need the power to bring about the falsity of that belief. Since no one can alter the past, the agent lacks the relevant power.
+
+This argument relies on a principle often called the fixity of the past:
+
+> No presently free action can make it the case that some past event did not occur or that some past proposition was not true.
+
+The principle seems nearly undeniable when applied to ordinary events. I cannot now make it the case that yesterday’s rain did not fall, that Caesar did not cross the Rubicon, or that I did not have a particular thought ten minutes ago. Why should divine beliefs be different?
+
+The answer is not that divine beliefs are ordinary events that can be rewritten by temporal magic. Rather, the relevant relation between the divine belief and the human action is not one in which a later event modifies an independently completed earlier event. The later action and the earlier belief are mutually related elements of a single history. The fact that the action is later than the belief does not by itself imply that the belief is metaphysically independent of the action. Temporal priority and explanatory or counterfactual priority are distinct.
+
+## II. What Does Libertarian Freedom Require?
+
+The force of the argument depends partly on how libertarian freedom is understood. Libertarian theories typically hold that an action is free only if it is not determined by antecedent conditions sufficient to make the action unavoidable. In a familiar formulation, at the moment of choice, the agent must possess the power to perform either \(A\) or not-\(A\), with all relevant conditions held fixed.
+
+This formulation creates an immediate problem for foreknowledge. If “all relevant conditions” includes God’s past belief, then the agent cannot vary the action while keeping the past belief fixed. If the belief is infallible, a world in which God believed \(A\) but the agent refrained is impossible. Thus, the agent’s alternatives appear to be unavailable.
+
+Yet there is a question about what must be held fixed in a libertarian ability claim. Consider a person deciding whether to accept a job. It may be true that she could have declined, but if she had declined, many surrounding facts would have been different: her later schedule, her emotional state, perhaps even what her friends believed. The claim that she could have done otherwise does not normally mean that every fact in the entire history of the world could remain unchanged while the action changes. It means that the agent had an open alternative in the relevant sense: the action was up to her, and a different choice would have issued from her practical agency.
+
+If God’s belief is logically dependent on the free act—not causally dependent in time, but necessarily correct because it tracks the act—then a different choice entails a different divine belief. The alternative is not:
+
+> God believed \(A\), and the agent nevertheless does not perform \(A\).
+
+That combination is impossible. The relevant alternative is:
+
+> Had the agent freely chosen not-\(A\), God would have believed not-\(A\).
+
+This does not deprive the agent of freedom unless libertarian freedom is defined as the ability to hold the entire past fixed while changing the future. That definition is unnecessarily strong and, in the case of divine foreknowledge, question-begging. It treats God’s belief as a fixed condition external to the action rather than as a necessarily accurate representation of what the agent freely does.
+
+The incompatibilist may reply that this makes the agent’s power merely conditional or hypothetical. The agent cannot actually bring about a different divine belief, because God did in fact hold the belief that the agent would perform \(A\). But this objection assumes that the actual past is fixed in precisely the way under dispute. The agent’s actual power is not the power to make the actual past both occur and not occur. It is the power, in the relevant circumstances of deliberation, to choose among alternative acts. In a world where the alternative act is chosen, the corresponding past divine belief is also different. The agent’s choice determines which complete history is actual, even though, within the actual history, no one later edits a completed earlier event.
+
+The distinction can be put in terms of counterfactual dependence:
+
+- If \(S\) chooses \(A\), God believed that \(S\) would choose \(A\).
+- If \(S\) chooses not-\(A\), God believed that \(S\) would choose not-\(A\).
+
+The divine belief varies across possible histories with the agent’s free choice. This is not the same as saying that, within one fixed history, \(S\) changes God’s belief from one content to another. The former is a claim about the structure of alternatives; the latter is a claim about temporal alteration. Incompatibilism follows only if these claims are confused.
+
+## III. Can an Agent Bring It About That God Held a Different Past Belief?
+
+The central question can now be stated precisely. Suppose God actually believed at \(t_1\) that \(S\) would perform \(A\) at \(t_2\), and at \(t_2\), \(S\) performs \(A\). Could \(S\), at \(t_2\), have brought it about that God held at \(t_1\) the belief that \(S\) would perform not-\(A\)?
+
+Taken literally as a claim about the actual history, the answer is no. If God in fact held the belief that \(S\) would perform \(A\), then \(S\) cannot make it the case that God did not hold that belief while leaving the actual history intact. But this is not the freedom claim that must be defended. The relevant claim is that \(S\) could have acted otherwise, and in the corresponding alternative history God would have held the other belief.
+
+The difference resembles the distinction between changing a proposition’s truth and making a different proposition true in a different possible world. If I actually chose to attend the lecture, I cannot now make it true that I did not attend while preserving every fact about the actual world. But this does not show that my attendance was unfree. If I was free to attend or not attend, then there is an accessible alternative history in which I did not attend. In that history, facts dependent on my attendance differ accordingly. My later choice does not “rewrite” the actual past; rather, the actual past of the alternative history includes the facts that make it the history in which I chose differently.
+
+The case of divine foreknowledge is more puzzling because the varying fact is located before the choice. But temporal location does not determine logical dependence. A past belief can be counterfactually dependent on a future free action without being causally caused by it. God’s belief is not a prior condition that produces the action. It is a prior truth-bearing state whose content is fixed by the action it infallibly knows.
+
+This may be described using a “dependence without backward causation” model. Let \(C\) be the creature’s free choice and \(K(C)\) be God’s belief that the creature will make \(C\). Then:
+
+\[
+C=A \rightarrow K(C)=\text{God believes } A
+\]
+
+and
+
+\[
+C=\neg A \rightarrow K(C)=\text{God believes } \neg A.
+\]
+
+The arrows express a necessary relation of truth and knowledge, not a temporal causal process. God does not first believe \(A\), thereby force \(A\), and then leave the agent no choice. Rather, God’s belief is infallible because it corresponds to what the agent freely does. The divine perspective encompasses the whole temporal order, and so the truth of the belief can depend on the act known even if the belief is located earlier in human time.
+
+Ostler’s argument becomes persuasive only if one adds the premise:
+
+> If a past belief is infallibly true, its content is fixed independently of any later free act.
+
+But that premise is not a logical truth. It is a substantive metaphysical assumption about the independence of past states from future actions. If the divine belief is a state of an atemporal or eternally comprehensive knower, its relation to the free act need not resemble the relation between an ordinary human belief and a later event.
+
+## IV. A-Theory, B-Theory, and the Ontology of the Past
+
+The debate is deeply shaped by assumptions about time. On an A-theory, temporal becoming is real. Events are genuinely future, then present, and finally past. The future is open in a robust sense, while the past is settled. On a B-theory, all events are ordered by relations of earlier than, simultaneous with, and later than. There is no objective moving present; past, present, and future are equally parts of a four-dimensional temporal reality.
+
+The fixity argument naturally draws strength from an A-theory. If the future is genuinely open and the past genuinely settled, then a future free action seems unable to affect a past divine belief. The action comes into existence after the belief has already occurred. The past has become fixed, while the future has not yet been realized. How could the later act determine the earlier belief?
+
+One response is to adopt a B-theory. On the B-theory, the complete temporal series is a spacetime whole. God’s knowledge is not fundamentally a prediction from an earlier point but an awareness of the entire temporal order. God does not “wait” for the future to occur and then learn what happened. The divine cognition is not temporally indexed in the same way as human cognition. From this perspective, the fact that God’s belief is located at an earlier time does not mean that it is epistemically prior to the later choice. The divine act of knowing encompasses both.
+
+The B-theory makes compatibility especially intelligible, but it is not essential. An A-theorist could maintain that God knows future free acts through a special form of divine cognition, perhaps because God is outside temporal succession or because God’s knowledge of future contingents is direct and non-inferential. The point is not that the B-theory must be true. It is that the A-theory does not automatically entail the strong thesis that the past is independent of the future in every possible respect.
+
+Even on an A-theory, one can distinguish two notions of “fixedness.” The past may be fixed in the sense that it cannot be altered once it has occurred. But it does not follow that every past fact is independent of every future fact. A past event may be historically fixed while its content or significance is relationally determined by later events. For example, the status of an earlier action as an act of betrayal may depend on a later revelation, promise, or response, even though the physical movement constituting the earlier action cannot be undone. More strongly, in a world with retrocausal relations or divine timeless knowledge, the occurrence of a past state may depend on a future event without being subject to subsequent revision.
+
+The A-theorist may object that this introduces backward causation. But logical dependence need not be causal dependence, and even backward causation is not obviously contradictory. It may be metaphysically strange, but strangeness is not impossibility. The relevant issue is whether a coherent model can be given. If the model does not generate contradictions, the mere violation of ordinary temporal intuitions cannot refute it.
+
+Furthermore, the divine perspective may not be temporal at all. Classical theism often conceives God as eternal rather than merely everlasting: God does not exist at every successive moment but possesses the whole temporal order in a single, non-successive act of knowing. If this conception is adopted, the phrase “God previously believed” is already metaphorical or creature-relative. God’s knowledge does not arise at an earlier time and persist while waiting for the future. Rather, God knows the complete history, including the free action, in one timeless act. What humans describe as God’s “past belief” is the temporal manifestation or relation of that timeless knowledge to a particular event.
+
+This does not by itself solve every problem. If God timelessly knows that the creature will choose \(A\), the creature still cannot choose not-\(A\) without making the divine knowledge erroneous. But the timeless model clarifies why divine knowledge should not be treated as an independent past condition. It is not a causal antecedent that closes the future. It is an omniscient grasp of whichever free history is realized.
+
+## V. The Problem of Memory
+
+The idea that the past could depend on a future free action appears to threaten memory. If an agent chose \(A\), but could have chosen not-\(A\), then in the alternative history God would have held a different belief. Would the agent also remember a different past? Would people remember God’s having believed something else? If the past can be “changed,” why would memories not become unstable? And if memories do not change, does that show that the past is genuinely fixed?
+
+The problem reveals the need to distinguish two senses of changing the past.
+
+The first is **intra-history alteration**: an event occurs, is remembered as occurring, and then some later act causes it to have not occurred or to have had a different content. This would be a revision of one established history. It would create serious difficulties for ordinary memory, records, and causal explanation. If I remember that God believed \(A\), and then my choice causes God to have believed not-\(A\), what happens to my memory? Was my memory false? Was it erased? Did the causal traces that supported it also change? Without a carefully specified model, this picture risks contradiction.
+
+The second is **inter-history variation**: different complete histories contain different past events, beliefs, memories, and records. In one history, God believed \(A\), the agent chose \(A\), and everyone’s memories and records correspond to that history. In another, God believed not-\(A\), the agent chose not-\(A\), and the memories and records correspond to the other history. Nothing within either history changes. There is no point at which an observer remembers one past and then discovers that the past itself has been replaced. The alternatives are complete histories, not successive revisions of one history.
+
+The compatibility thesis requires only the second model. When it says that the agent could have brought it about that God held a different past belief, it means that the agent’s alternative choice would have been part of a history whose past included the different belief. It does not mean that, after God’s belief occurred and was remembered, the agent would later edit the belief while leaving all traces untouched.
+
+This distinction also applies to the truth of propositions. The proposition “God believed that \(S\) would perform \(A\)” is true in the actual history. In a counterfactual history where \(S\) performs not-\(A\), the proposition “God believed that \(S\) would perform \(A\)” is false, while “God believed that \(S\) would perform not-\(A\)” is true. The truth values differ across histories, not by a miraculous alteration within one history. Since modal reasoning routinely compares worlds with different pasts, there is nothing incoherent in this structure.
+
+The memory objection would be decisive against a theory claiming that the agent literally rewrites the actual past while retaining unchanged memories of the original past. But no such theory is required. Memory remains reliable within each history. The issue is not that memory is continuously overwritten. It is that the agent’s freedom is evaluated by reference to accessible alternative histories, and those histories may differ in their past divine beliefs.
+
+## VI. Causal Loops and the Threat of Contradiction
+
+A natural worry is that if a future free action can make a past divine belief different, the theory generates a causal loop. Suppose God believes at \(t_1\) that an agent will choose \(A\) at \(t_2\). At \(t_2\), the agent chooses \(A\) partly because God’s belief makes the choice inevitable. God’s belief is then explained by the choice, while the choice is explained by God’s belief. Is this a vicious circle?
+
+The answer depends on whether the relation is causal. If God’s earlier belief causes the later choice, and the later choice causes the earlier belief, then a genuine causal loop may arise. Such loops are not automatically logically contradictory, but they can be explanatorily troubling. The action and the belief would mutually sustain one another without an external source.
+
+The defender of compatibility need not accept this causal model. Divine foreknowledge can be understood as epistemic rather than productive. God’s belief does not cause the action; it tracks it. The agent chooses \(A\) for reasons internal to the agent’s deliberation—perhaps because \(A\) seems worthwhile, obligatory, or desirable. God knows this choice because God’s knowledge is perfectly accurate. The relation between the choice and the belief is therefore analogous to the relation between a fact and a true representation of that fact, even though the representation is temporally earlier from the human viewpoint.
+
+But can a representation be dependent on a future fact without causal influence? Yes, if the representation is part of a larger structure whose elements are linked by necessary truth relations. Consider a fictional story written from beginning to end. The author’s statement in an earlier chapter that a character will later act courageously is true because of what happens in the later chapter. The later chapter does not causally alter the earlier sentence, but the sentence’s truth depends on the whole narrative. This analogy is imperfect, especially because fictional characters are not free agents and authors are temporal beings. Still, it illustrates the distinction between temporal order and semantic or structural dependence.
+
+A more relevant analogy may be a complete four-dimensional object. The spatial parts of a statue are mutually related within one whole, although one part is not temporally prior to another. If time is treated similarly, an earlier divine belief and a later free act can be jointly fixed by the total structure without either causing the other. The B-theory makes this model natural, but an atemporal God can also be understood in this way while an A-theory remains true of the created order.
+
+There is also a distinction between **self-consistency loops** and **originating loops**. A self-consistency loop may contain information that has no first temporal source but nevertheless yields no contradiction. For example, a time traveler might receive a mathematical proof from the future and later deliver the same proof to the past, creating a loop in which the proof has no external origin. This is philosophically controversial, but not formally contradictory if the loop is consistent. A causal loop would be more troublesome if it required an event to cause itself in a contradictory way, such as an agent both choosing and not choosing the same action under identical conditions. Divine foreknowledge does not require such inconsistency. It requires only that the divine belief and the free act be coordinated across the temporal order.
+
+Still, it is preferable not to describe divine foreknowledge as a causal loop at all. The divine perspective is not a mechanism transmitting information backward through time. God’s knowledge is not produced by a future event in a temporal process. Rather, God knows the whole order in which the event occurs. The language of “bringing it about that God believed differently” is thus a counterfactual idiom, not a claim about a physical causal intervention into the past.
+
+## VII. Truth Propositions and the Alleged Necessity of the Past
+
+Ostler’s argument also appeals to the inalterability of truth propositions. Once it is true that God believed \(A\), it cannot become false. This is correct as a claim about the actual world under ordinary semantics. But it does not follow that the proposition is necessary in every possible world.
+
+Here a distinction between **temporal necessity** and **logical or metaphysical necessity** is crucial. A proposition may be accidentally fixed relative to a time without being necessary in itself. “God believed yesterday that \(S\) would perform \(A\)” may be settled now because the history is complete, yet it is not necessary in the sense that no alternative history could contain a different divine belief. The fact is necessary given the actual history, but not necessary simpliciter.
+
+The incompatibilist may insist that if the proposition was true yesterday, then it was already necessary that it be true. But the inference confuses necessity of consequence with necessity of the consequent. From
+
+\[
+\Box(G \rightarrow A)
+\]
+
+and
+
+\[
+\Box G
+\]
+
+one may infer \(\Box A\), but the crucial question is whether \(\Box G\) is warranted. The fact that \(G\) was true in the past does not establish that \(G\) was necessary independently of the agent’s action. If God’s belief is infallible but responsive to what the agent freely does, then the necessity is conditional:
+
+\[
+\Box(G \rightarrow A),
+\]
+
+not:
+
+\[
+\Box G.
+\]
+
+God could not believe \(A\) while the agent performed not-\(A\), because that would be an error. But it does not follow that God had to believe \(A\) rather than not-\(A\) before the agent chose. The content of God’s belief is fixed by the truth of the free action, even if God knows that truth eternally.
+
+This point can also be expressed using the distinction between **necessity of the past** and **necessity of the consequence**. The past fact “God believed \(A\)” is necessary relative to the actual world’s history: given that it occurred, it cannot now be undone. But the agent’s inability to undo it does not show that the agent could not have acted differently before the history was settled in its actual form. The alternative possibility includes a different past belief. To rule out freedom, one must show that the belief was fixed independently of the choice, not merely that it is unchangeable once the actual choice and belief are part of the completed history.
+
+## VIII. Divine Perspective and Human Intuitions About Time
+
+Human intuitions strongly favor the incompatibilist argument because human cognition is temporally situated. We remember the past, deliberate about an uncertain future, and encounter beliefs as states produced by earlier experiences. If someone believed yesterday that I would perform \(A\), then that belief seems like an already completed fact standing behind my present deliberation. I cannot reach into yesterday and alter it.
+
+But extending this model to divine cognition may be illegitimate. God’s knowledge, on many theological accounts, is not acquired through observation, inference, memory, or prediction. God does not occupy a temporal location from which the future is epistemically hidden. The divine perspective is not like a human observer who forms a belief at \(t_1\) on the basis of evidence and then waits for \(t_2\). God knows the agent’s act without needing to infer it from prior conditions and without causing it by knowing it.
+
+This perspective does not make the agent’s choice less real. It changes the epistemic relation between knowledge and event. A perfect knower’s belief is necessarily aligned with what the agent does, but alignment is not determination. If God knows that an agent will choose freely, the agent’s freedom explains why the content of divine knowledge is one proposition rather than another—not by causing a temporal change in God, but by being the act known.
+
+One might object that if the divine perspective is genuinely outside time, the phrase “God knew beforehand” becomes misleading. That is true, but the argument from foreknowledge depends on the misleading temporal picture. If God’s knowledge is timeless, then there is no earlier divine mental event that functions as a settled causal or modal barrier. There is an eternal fact about God’s knowledge, indexed by its relation to the temporal act. The creature encounters this fact as a past prediction, but God does not encounter the act as future in the creature’s sense.
+
+The human perspective remains important. Human beings deliberate under conditions of uncertainty and experience alternatives as open. Does divine omniscience undermine this openness? Not necessarily. The openness relevant to libertarian agency is not epistemic uncertainty for God; it is the absence of causal determination in the agent’s exercise of practical power. A choice can be epistemically certain from God’s perspective and still be free in its origin from the agent’s perspective, provided certainty does not entail causal necessity.
+
+The analogy with an observer watching a replay is imperfect but useful. The observer knows that the player chose a particular move, but the observer’s knowledge does not cause the move. God’s case differs because God’s knowledge is not acquired after the event, and because God is the creator of the temporal order. Yet the basic lesson holds: certainty of knowledge does not by itself impose coercion. The harder issue is the apparent fixity of a prior belief, and that issue is resolved by refusing to treat the divine belief as an independent condition that must remain constant across alternative choices.
+
+## IX. Remaining Costs and Limits of the Compatibility Thesis
+
+The compatibility position is not cost-free. It requires a relatively sophisticated account of possible worlds, divine eternity, or counterfactual dependence. It must explain how a free act can be genuinely open when there is already an infallibly true proposition about it. It must also resist the temptation to define freedom merely as acting according to one’s desires. Libertarian freedom requires more than uncoerced action; it requires that the agent be a source of the choice in a way not reducible to prior determining conditions.
+
+The compatibility thesis therefore cannot simply say that the agent is free because the agent does what God knew the agent would do. That would be insufficient. The crucial claim is stronger: the divine knowledge does not function as a determining antecedent, and alternative choices correspond to alternative complete histories in which God’s knowledge has different content. The agent’s action is not free because it conforms to a fixed prediction; rather, the prediction is correct because it conforms to the agent’s free action.
+
+Some philosophers will regard this as an evasion. They may argue that the agent still lacks the categorical ability to do otherwise. Given the actual past, including God’s belief, the agent cannot perform the alternative. The compatibility theorist must answer that libertarian freedom should not be analyzed by holding fixed a fact whose content is logically dependent on the action under evaluation. To demand that the agent alter God’s actual past belief is to impose an impossible test generated by the foreknowledge argument itself.
+
+There is also an important distinction between **can do otherwise** and **could have done otherwise under a different total history**. If libertarian freedom requires the first, then compatibility is difficult. If it requires the second, compatibility is available. The debate may therefore partly concern the correct modal analysis of freedom. But the second analysis is not obviously illegitimate. Human abilities are commonly evaluated in relation to a range of nearby circumstances rather than the unchangeability of every fact in world history. If the agent’s deliberation genuinely settles the action, and if no coercive or determining condition necessitates the choice, then the existence of an infallible divine perspective need not eliminate agency.
+
+Finally, one should avoid overstating the conclusion. It is not necessary to prove that human beings can literally travel backward in time or physically alter earlier events. Nor is it necessary to endorse unrestricted retrocausality. The claim is narrower: there is no logical contradiction in saying that a future free action is such that, had it been different, God’s past belief would have been different. The “change” is modal and relational, not necessarily an intervention that revises an already lived history.
+
+## Conclusion
+
+Ostler’s argument for incompatibilism captures a serious and enduring intuition: the past cannot be changed, God’s infallible beliefs cannot be false, and therefore a person cannot now act in a way that would make a past divine belief mistaken. If freedom requires the power to hold God’s actual past belief fixed while choosing otherwise, then infallible foreknowledge and libertarian freedom are indeed incompatible.
+
+But that requirement is not self-evident. It confuses two distinct ideas. The first is the power to alter the actual past within a single history. The second is the power to perform an alternative action in a corresponding alternative history whose past includes a different divine belief. The first may be impossible; the second is precisely what a robust account of libertarian freedom can require.
+
+Once divine knowledge is understood from the divine perspective rather than modeled on human memory and temporal prediction, the relation between God’s belief and the free act can be seen as one of necessary truth and counterfactual dependence, not causal determination. God’s belief that the agent will choose \(A\) is not an independent past condition that forces \(A\). It is the infallible divine apprehension of the choice the agent freely makes. Had the agent chosen differently, God would have held a different belief—not because the agent later rewrote God’s mind, but because the alternative choice would belong to a different, internally coherent history.
+
+The A-theory of time can make this difficult to imagine, since it emphasizes the settled character of the past and the openness of the future. Yet even an A-theorist need not infer that every past truth is independent of every future act. The B-theory, or a doctrine of divine timelessness, makes the compatibility more transparent by locating God’s knowledge outside the succession that structures human experience. The problem of memory is avoided by distinguishing alteration within a history from variation across complete histories. And the danger of causal loops is avoided by treating divine knowledge as non-causal and structurally dependent on the free act rather than as a force that produces it.
+
+Thus, human intuitions about the fixity of time should not be mistaken for logical necessities governing the divine mode of cognition. There is no contradiction in the idea that an agent’s free choice is related to a different divine belief in an alternative history, even when the divine belief appears “past” from the human standpoint. The agent does not possess the power to make the actual past both what it was and what it was not. The agent possesses, rather, the power to be the source of one action rather than another, with God’s infallible knowledge corresponding perfectly to whichever action is freely realized. On this account, foreknowledge is not a chain binding the will. It is the divine vision of the free act the agent actually performs.

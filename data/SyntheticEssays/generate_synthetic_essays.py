@@ -19,7 +19,9 @@ from litellm import completion
 MODELS_TO_RUN: List[Dict[str, str]] = [
     {"model_id": "gemini/gemini-3.5-flash-lite", "label": "gemini-3.5-flash-lite"},
     {"model_id": "groq/llama-3.3-70b-versatile",  "label": "llama33_70b_groq"},
-    {"model_id": "openrouter/inclusionai/ling-3.0-flash:free", "label": "ling-3.0-flash-free"},
+    {"model_id": "openrouter/inclusionai/ling-3.0-flash:floor", "label": "ling-3.0-flash-free"},
+    {"model_id": "openrouter/openai/gpt-5.6-luna:floor", "label": "gpt-5.6-luna"},
+    {"model_id": "openrouter/deepseek/deepseek-v4-flash-0731:floor", "label": "deepseek-v4-flash-0731"},
 ]
 
 # 2. RATE LIMITING (per provider, requests-per-minute)
@@ -28,7 +30,7 @@ MODELS_TO_RUN: List[Dict[str, str]] = [
 RATE_LIMITS_RPM: Dict[str, int] = {
     "gemini": 15,
     "groq": 15,
-    "openrouter": 30,
+    "openrouter": 100,
 }
 DEFAULT_RPM = 15  # fallback for any provider not listed above
 
@@ -216,5 +218,5 @@ def process_benchmark_prompts(
 
 if __name__ == "__main__":
     # For a quick test on just 3 prompts, use:
-    process_benchmark_prompts(max_prompts=3, output_dir="gen_synthetic_essays_test")
-   # process_benchmark_prompts()
+ #   process_benchmark_prompts(max_prompts=3, output_dir="gen_synthetic_essays_test")
+     process_benchmark_prompts()

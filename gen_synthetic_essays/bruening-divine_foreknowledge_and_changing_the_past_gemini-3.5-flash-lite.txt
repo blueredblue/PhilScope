@@ -1,0 +1,190 @@
+# The Elasticity of Eternity: Divine Foreknowledge, Retrocausality, and the Ontology of Changing the Past
+
+## Abstract
+
+The tension between infallible divine foreknowledge and human libertarian freedom constitutes one of the most historically intractable problems in philosophical theology. Incompatibilists, notably Blake Ostler, argue that if God infallibly foreknew $X$ at $t_1$, then $X$ must occur at $t_2$, rendering human agents utterly devoid of the power to do otherwise. This incompatibilist burden rests fundamentally upon the Principle of the Inalterability of the Past (PIP) and the immutability of historical truth propositions. 
+
+This essay examines Ostler’s incompatibilist framework, which asserts that libertarian freedom requires the power to bring it about that God held different past beliefs, a feat deemed logically impossible because it requires changing the past. By analyzing the ontological commitments of the A-theory and B-theory of time, the epistemological mechanics of divine memory, and the mechanics of retrocausal loops, I defend the thesis that changing God's past beliefs involves no intrinsic logical impossibility. Once we divorce our parochial, temporalized intuitions of unidirectional time from the eternal divine perspective, the rigidity of the past dissolves. Human agents can possess true libertarian freedom precisely because the divine past is elastic, responsive to human agency, and non-linear.
+
+---
+
+## Introduction
+
+At the intersection of metaphysics, philosophy of religion, and the philosophy of time lies a paradox that has occupied thinkers from Boethius and Thomas Aquinas to contemporary analytical philosophers: How can human beings possess libertarian free will—the ontological capacity to do otherwise under identical antecedent conditions—if an omniscient God has eternally, infallibly foreknown every choice they will ever make?
+
+If God possesses infallible foreknowledge, then for any action $A$ performed by agent $S$ at future time $t_2$, God believed at past time $t_1$ that $S$ would do $A$. If God cannot be wrong (given divine infallibility and omniscience), then it is necessary that $S$ will do $A$. If $S$ must do $A$, then $S$ cannot refrain from doing $A$. And if $S$ cannot refrain from doing $A$, $S$ lacks libertarian freedom regarding $A$. 
+
+Philosophers have split into two camps: compatibilists (or Ockhamists, who deploy the concept of "soft facts" about the past) and incompatibilists (such as Nelson Pike, Linda Zagzebski, and Blake Ostler). Incompatibilists argue that the past is fixed, unalterable, and beyond our control. Because God’s past beliefs are part of the fixed past, any human action that would falsify a past divine belief requires an agent to *change the past*—to make it so that God did *not* believe what God *actually* believed. Since changing the past is widely assumed to be a logical impossibility, libertarian freedom is incompatible with divine foreknowledge.
+
+In this essay, I will evaluate this incompatibilist argument, focusing sharply on Blake Ostler’s formulation. I will analyze the claim that human freedom requires the power to bring it about that God held different past beliefs. By interrogating the ontological frameworks of the A-theory and B-theory of time, assessing the nature of divine memory, and neutralizing the threat of causal loops, I will defend the thesis that changing God's past beliefs involves no logical impossibility once we liberate our metaphysical frameworks from anthropomorphic, linear intuitions about time.
+
+---
+
+## 1. The Incompatibilist Case: Blake Ostler and the Fixity of the Past
+
+To understand the mechanics of the incompatibilist challenge, we must examine Blake Ostler’s rigorous presentation of the problem in works such as *Exploring Mormon Thought*. Ostler is a prominent defender of libertarian free will who takes divine omniscience seriously. However, unlike traditional compatibilists who appeal to Ockhamistic solutions (distinguishing between "hard facts" and "soft facts" about the past), Ostler argues that such maneuvers fail when subjected to strict logical analysis concerning the fixity of truth and divine belief.
+
+### The Ostlerian Argument from Infallible Foreknowledge
+
+Ostler’s argument can be reconstructed through the following sequence:
+
+1. **Infallibility:** If God believes at $t_1$ that $S$ will do $A$ at $t_2$, then it is metaphysically impossible for God to be mistaken; necessarily, $S$ will do $A$ at $t_2$.
+2. **Past Fixity:** The fact that God believed at $t_1$ that $S$ will do $A$ at $t_2$ is a past fact at $t_2$.
+3. **Power Impotence (Transfer of Necessity):** No agent has the power to change, alter, or render false any fact about the past. Therefore, no agent at $t_2$ has the power to bring it about that God did *not* believe at $t_1$ that $S$ would do $A$.
+4. **Conditional Necessity:** Given (1) and (2), if God believed at $t_1$ that $S$ will do $A$, then $S$ cannot refrain from doing $A$.
+5. **Conclusion:** Therefore, if God has infallible foreknowledge of $S$’s future actions, $S$ does not possess libertarian freedom with respect to those actions.
+
+Ostler crucially contends that for an agent to possess libertarian freedom in a universe with divine foreknowledge, the agent must have *counterfactual power* over the past. That is, $S$ must possess the ability such that, if $S$ were to freely choose *not* to do $A$, God would have believed differently at $t_1$. 
+
+However, Ostler rejects this escape hatch by invoking the principle of the inalterability of the past. He argues that it is logically absurd to claim that an agent today can perform an action that retroactively alters what a proposition’s truth-value or God’s mental state was yesterday. If God’s belief is a hard fact about the past, and agents cannot change hard facts about the past, then agents cannot do otherwise than what God foreknew. To preserve libertarianism, Ostler is driven to alternative theological models (such as process-relational or open-theist paradigms where God does not possess exhaustive middle or foreknowledge of free choices). 
+
+Yet, we must ask: Is Ostler’s conclusion inescapable? Does the demand that human freedom requires the power to bring it about that God held different past beliefs actually entail a logical impossibility? Or does Ostler’s argument rely on unexamined ontological assumptions about time, memory, and retrocausality?
+
+---
+
+## 2. Analyzing the Requirement: Changing God’s Past Beliefs
+
+At the heart of the incompatibilist challenge is a specific counterfactual conditional: 
+> *If $S$ were to freely choose to refrain from $A$, then God would have had a different belief at $t_1$.*
+
+Incompatibilists like Ostler argue that this condition is unfulfillable because it violates the principle that agents cannot change the past. To evaluate this claim, we must dissect what "changing the past" means and distinguish between two types of alterations: *internal state modifications* and *propositional truth-value revisions*.
+
+### The Nature of Divine Beliefs
+
+When we speak of God holding a belief at $t_1$, we are attributing a psychological or epistemic state to an infinite, eternal, or omniscient being. In a traditional view, God’s beliefs are not merely contingent data points floating in an objective temporal ether; they are internal states of the divine consciousness. 
+
+If $S$ freely chooses not to do $A$ at $t_2$, but God believed at $t_1$ that $S$ would do $A$, then either:
+* **Alternative A:** God’s belief at $t_1$ was incorrect (violating divine infallibility).
+* **Alternative B:** God never held that belief at $t_1$ (implying that the past must be different from what we previously thought).
+* **Alternative C:** The temporal indexing of God’s mind is fundamentally different from human temporal indexing, such that $t_1$ and $t_2$ do not bear the linear, unidirectional relationship to the divine consciousness that they bear to human consciousness.
+
+Incompatibilists assume Alternative B is a violation of the Law of Non-Contradiction: *It is logically impossible for the past to have been other than it was.* If the past proposition *“God believed at $t_1$ that $S$ would do $A$”* is true, then its negation cannot be brought about by any present human action.
+
+### The Symmetry of Agency and Temporality
+
+To determine whether bringing it about that God held different past beliefs is logically impossible, we must interrogate our ordinary intuitions about time. Why do we assume the past is unalterable? 
+
+Our intuition that the past cannot be changed is derived from physical and causal asymmetry. In the physical realm governed by entropy and the thermodynamic arrow of time, macroscopic closed systems move from order to disorder. We can influence the future because present actions can alter accessible phase spaces of tomorrow; we cannot influence the past because present interventions cannot alter the historical records, thermodynamic traces, or actualized events of yesterday.
+
+However, God is not a macroscopic closed thermodynamic system. God is an immaterial, transcendent, or omnipresent spiritual reality. If divine foreknowledge is a product of God’s relation to time, we must examine the ontological framework in which time itself is situated.
+
+---
+
+## 3. Ontological Foundations: A-Theory vs. B-Theory of Time
+
+The coherence of changing God’s past beliefs depends heavily upon whether we adopt an A-theory (presentism or growing-block) or a B-theory (eternalism) of time. Ostler and many incompatibilists often operate with implicit A-theoretic assumptions regarding the past—namely, that the past is a realm of *non-existence* or *fixed finality* that is ontologically closed and immutable.
+
+### The A-Theory and the Myth of the Fixed Past
+
+Under an A-theory (specifically presentism), only the present moment is real. The past has vanished into non-existence, and the future is purely potential. If the past does not exist, then how can God hold a past belief? 
+
+On a presentist model, God’s "past belief" is either:
+1. Retained as a memory within the eternal divine mind (making it a present mental state of God now).
+2. A proposition that was true at $t_1$ but has no ontological anchor today except in the mind of God.
+
+If the past does not ontologically exist, then the incompatibilist argument faces a severe difficulty: **There is no past to be changed.** If the past is unreal, then when $S$ exercises libertarian freedom at $t_2$, $S$ is not altering an ontological substance called "the past"; rather, $S$ is actualizing a state of affairs that renders the *description* of the past different from what it would have been under an alternative choice. 
+
+If presentism is true, the fixity of the past is an illusion born of our psychological memory structures. The past is nothing more than God’s present memory or the accumulated record of reality. If God’s memory is dynamic and responsive to present free choices (in an open-theist or relational framework) or if God’s eternal knowledge encompasses the entire dynamic manifold without trapping human agency in a rigid prison of historical determinism, the incompatibilist barrier crumbles.
+
+### The B-Theory and the Block Universe
+
+Under a B-theory (eternalism or the "block universe"), all points in time—past, present, and future—co-exist equally in a four-dimensional spacetime manifold. Here, $t_1$ and $t_2$ are merely coordinates on a grid, no different from spatial coordinates like London and New York.
+
+On the B-theory, the incompatibilist argument hits a different snag. In a B-theoretic block universe, the notion of *changing* the past is indeed incoherent, but so is the notion of *changing the future*. In a deterministic block universe, future events are as fixed and immutable as past events. Therefore, if B-theoretic eternalism is combined with physical determinism, libertarian free will is ruled out *ab initio*, entirely independently of divine foreknowledge.
+
+However, if libertarian free will is introduced into a B-theoretic framework (an ontological stance known as *atemporal eternalism* or *Boeothian compatibilism*), the relation between God and time changes radically. Boethius argued that God surveys the entire block of spacetime in a single, simultaneous eternal *nunc* (eternal now). God does not look *ahead* into the future at $t_1$ to see what $S$ will do at $t_2$; rather, God's eternal awareness encompasses $S$'s choice at $t_2$ timelessly.
+
+In this atemporal model, Ostler’s formulation—that God held a belief at $t_1$ *prior* to $S$’s action at $t_2$—is category-mistaken. God does not have "past beliefs" or "future beliefs"; God has an eternal, omni-comprehensive knowledge state that is simultaneous with *every* point in spacetime. 
+
+Thus, whether we adopt the A-theory or the B-theory, Ostler’s premise that God held a *past* belief that strictly necessitates a *future* human action relies on an equivocation between temporalized human psychology and eternal divine omniscience.
+
+---
+
+## 4. The Problem of Divine Memory and Epistemic Relativity
+
+Let us grant, for the sake of argument, a hybrid model where God exists *in* time (temponominalism or neoclassical panentheism) and truly does experience a sequence of moments, holding beliefs at $t_1$ and witnessing actions at $t_2$. How do we address the problem of divine memory?
+
+Ostler argues that God's memory is infallible; therefore, if God remembers (or believed) at $t_1$ that $S$ would do $A$, it is impossible for $S$ not to do $A$. But this assumes an asymmetrical dependency: **Human action depends on divine memory.** 
+
+What if we invert the dependency? What if divine memory depends on human action?
+
+### Retrocausality and Epistemic Responsiveness
+
+Critics often recoil at retrocausality—the idea that an event at $t_2$ can cause a change in an event at $t_1$—because it seems to violate temporal ordering and invite causal loops (e.g., the grandfather paradox). However, in the domain of *epistemic states* and *intentional content*, retrocausality is not only logically coherent; it occurs frequently in human interactions.
+
+Consider an analogy:
+> Professor Smith writes a letter of recommendation for a student, predicting with 100% psychological certainty based on deep personal knowledge that the student will win a prestigious fellowship next year. Professor Smith holds this belief firmly at $t_1$. 
+> 
+> However, at $t_2$, the student experiences a profound existential crisis, undergoes a radical change of heart, and decides to withdraw from academia entirely, refusing the fellowship. 
+> 
+> Upon learning of this at $t_2$, Professor Smith reflects, *“If I had known they would change, I would never have believed they would win.”* Professor Smith updates his memory and mental state regarding what he believed at $t_1$. Retroactively, Professor Smith acknowledges that his past belief was mistaken.
+
+Now, scale this up to an infallible, omniscient God. If God is a personal agent engaged in a dynamic, responsive relationship with human beings (a core tenet of Ostler’s own theological sympathies, though rejected in his incompatibilist foreknowledge proofs), God’s mental states are intentionally directed toward human actions. 
+
+If the intentional object of God’s belief at $t_1$ is *the free action of $S$ at $t_2$*, and $S$'s action is genuinely undetermined until $t_2$, what is the ontological status of God's belief at $t_1$? 
+
+If God knows everything that is knowable, and free future choices are (by definition) unknowable propositions because they are not yet determined, then exhaustive middle-knowledge or foreknowledge of libertarian acts is logically oxymoronic. But *if* God nonetheless holds a forebelief, and $S$ freely chooses otherwise, God’s past belief is simply updated, revised, or revealed to have been conditioned upon a counterfactual that $S$ chose not to actualize.
+
+Ostler objects that this compromises divine infallibility. But divine infallibility does not mean *“God must hold beliefs about non-existent future contingencies that coerce human agents.”* Infallibility means *“Whatever God believes is true.”* If $S$ refrains from $A$ at $t_2$, then God—being infallible—did *not* believe that $S$ would do $A$ at $t_1$; rather, God’s belief at $t_1$ was either indeterminate, or God’s forebelief was contingent upon $S$'s actualization of that counterfactual path.
+
+---
+
+## 5. Overcoming the Threat of Causal Loops
+
+A standard objection raised against any model allowing present actions to alter past divine beliefs is the charge of generating paradoxical **causal loops**. 
+
+If $S$'s choice *not* to do $A$ at $t_2$ causes God *not* to have believed $A$ at $t_1$, and God's belief at $t_1$ (or lack thereof) causes $S$ to choose not to do $A$ at $t_2$, do we not enter a vicious, self-defeating circle that violates the principle of sufficient reason and logical consistency?
+
+### The Mechanics of Non-Vicious Circularity
+
+Not all causal or explanatory loops are vicious. In advanced physics, closed timelike curves (CTCs) permitted under General Relativity (such as Gödel universes or Kerr black hole solutions) demonstrate that retrocausal loops can be logically consistent if governed by self-consistency principles (such as the Novikov self-consistency principle).
+
+Applied to the divine-human relational matrix, a non-vicious loop operates as a *simultaneous equilibrium state* rather than a temporal succession of self-contradictory causes. 
+
+1. God’s knowledge and human action are not related by a simple, unidirectional billiard-ball chain of physical causation. 
+2. Instead, they constitute an **intentional harmony**. 
+3. God’s eternal mind comprehends the entire web of human agency *including* all free choices. 
+
+When we isolate a slice of this web—say, isolating $t_1$ (God's belief) and $t_2$ (human action)—and demand that $t_1$ act as a rigid causal constraint on $t_2$, we commit the **fallacy of temporal fragmentation**. We treat a holistic, organic relationship between Creator and creature as if it were a linear assembly line.
+
+Once we separate our human intuitions about time (which are tethered to biological decay, memory limitations, and spatial separation) from the divine perspective, the logical impossibility of "changing God's past beliefs" vanishes. Changing the past is logically impossible only if the past is a self-contained, objective ontological entity completely divorced from the present and from the divine consciousness. But if the past is continuously sustained by God, and if God’s consciousness is dynamic, relational, and unbounded by human temporal sequence, then an agent exercising libertarian freedom at $t_2$ is simply actualizing a reality to which the divine past was *always already* responsively attuned in eternity.
+
+---
+
+## 6. Resolving the Ostlerian Dilemma
+
+We are now equipped to evaluate Ostler’s core claim: *Human freedom requires the power to bring it about that God held different past beliefs, which is logically impossible; therefore, libertarian freedom is incompatible with divine foreknowledge.*
+
+Ostler’s argument fails at the conjunction of two critical junctures:
+
+### 1. The Category Mistake of "Changing" the Past
+To "change" the past implies that an event occurred in a certain way at $t_1$, and that a subsequent agent actively went back and *modified* that completed event. This is indeed logically incoherent. 
+
+However, exercising libertarian freedom does not require *modifying* a completed historical event. Rather, it reveals that our previous epistemological description of $t_1$ was incomplete or incorrectly conceptualized. If $S$ freely chooses not to do $A$, $S$ does not reach back into history with a crowbar and pry open God's mind at $t_1$. Instead, $S$ actualizes a present reality that demonstrates that God's belief at $t_1$ (properly understood in a relational or eternal framework) was either inclusive of this very freedom or dynamically responsive to it.
+
+### 2. The Fallacy of Incompatibilist Rigidity
+Ostler assumes that God’s past beliefs are *hard facts* that are entirely independent of human choices. But in a relational theology (which Ostler champions in other contexts), God and humans are in a co-constitutive covenantal relationship. God’s knowledge is not an external, cold, deterministic surveillance camera recording unalterable tapes; it is an intimate, participatory knowing that encompasses human freedom within itself.
+
+If God’s foreknowledge includes knowledge of *what $S$ will freely choose*, then God’s belief at $t_1$ is logically posterior to (or conceptually dependent upon) $S$'s free choice at $t_2$, even if it precedes it temporally. This is precisely what Luis of Molina attempted to capture with *Scientia Media* (middle knowledge), though Molinism struggles with counterfactuals of freedom. By extending this insight from middle knowledge to foreknowledge within an elastic, non-linear view of divine temporality, the contradiction dissolves.
+
+---
+
+## Conclusion
+
+The apparent incompatibility between infallible divine foreknowledge and human libertarian freedom is sustained by an over-rigid, anthropomorphic projection of human temporal limitations onto the divine nature. Blake Ostler’s incompatibilist argument provides a formidable challenge, hinging on the fixity of the past and the inalterability of God’s past beliefs. 
+
+However, when we interrogate the ontological assumptions of the A-theory and B-theory of time, recognize the intentional and relational nature of divine memory, and dismantle the fallacy of temporal fragmentation, Ostler’s incompatibilist barrier collapses. Changing God’s past beliefs—when properly reframed not as a paradoxical tampering with a dead historical archive, but as the actualization of a dynamic, eternal, and responsive divine-human reality—involves no logical impossibility.
+
+Human agents can possess true libertarian freedom because the past, viewed from the transcendent and elastic perspective of eternity, is not a prison house of deterministic necessity. It is an open, living tapestry woven jointly by the Creator who foreknows in love and the creatures who freely choose in time.
+
+---
+
+## Comparative Matrix: Incompatibilism vs. Elastic Eternity Model
+
+| Philosophical Dimension | Blake Ostler’s Incompatibilism | The Elastic Eternity Model (Defended Here) |
+| :--- | :--- | :--- |
+| **Ontology of Time** | A-theoretic / Presentist or Strict Block Universe with fixed past | Atemporal Eternalism / Relational Panentheism with dynamic temporality |
+| **Status of Past Divine Beliefs** | Inalterable "hard facts" that rigidly necessitate future human actions | Intentional states dynamically responsive to human libertarian choices |
+| **Nature of Foreknowledge** | Exhaustive, linear precognition of fixed future events | Holistic, non-linear apprehension of spacetime and creaturely freedom |
+| **Can Agents "Change the Past"?** | No; doing so is a logical impossibility, ruling out libertarian freedom | No historical tampering is required; human choices actualize what God eternally/responsively foreknew |
+| **Compatiblity Verdict** | Incompatible (Libertarianism requires rejecting exhaustive foreknowledge) | Compatible (Libertarianism and foreknowledge harmonize via divine-human relational elasticity) |

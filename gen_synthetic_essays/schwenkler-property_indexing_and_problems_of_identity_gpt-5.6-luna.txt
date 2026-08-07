@@ -1,0 +1,221 @@
+# Property-Indexing, Leibniz’s Laws, and Identity Through Time and Across Possible Worlds
+
+Leibniz’s Laws are among the most powerful and most easily misunderstood principles in the philosophy of identity. The first, usually called the Indiscernibility of Identicals, says that if two things are identical, then they share all their properties. The second, the Identity of Indiscernibles, says that if two things share all their properties, then they are identical. The first principle appears almost indisputable, while the second has generated persistent controversy. The difficulties become especially acute when identity is considered through time and across possible worlds. A person changes posture, an object survives material replacement, and an individual might have existed under radically different conditions. In such cases, it can seem that one thing has incompatible properties, or that two distinct things are indistinguishable.
+
+One proposed solution is to index properties to times and worlds. Instead of saying simply that Bobby is sitting or that an object is made of a particular lump of clay, we say that Bobby is sitting at time \(t_1\), or that an object has a certain history in world \(w\). Property-indexing appears to preserve Leibniz’s Laws by preventing accidental differences across times or worlds from being mistaken for contradictions in the properties of one object. It also seems to distinguish objects that are qualitatively identical at a particular moment but differ in their modal or temporal profiles, such as a statue and the lump of clay composing it.
+
+This strategy is philosophically important, but its success is limited. Property-indexing clarifies the logical form of many apparent paradoxes. It shows that a change in a property is not necessarily a violation of the Indiscernibility of Identicals and that coincident objects may differ in modal or temporal properties. Alvin Plantinga’s account of essential, world-indexed properties and Saul Kripke’s conception of possible worlds provide resources for developing this solution. Yet property-indexing does not, by itself, tell us which properties are essential, which cross-world continuities count as identity, or which objects exist in which worlds. If every individual can be assigned an index-sensitive property that uniquely identifies it, the Identity of Indiscernibles may become formally true only because identity has been built into the properties. The paradoxes are therefore not eliminated so much as relocated: from the logic of predication to the metaphysics and epistemology of essential properties and trans-world reference.
+
+## I. Leibniz’s Laws and the problem of changing properties
+
+The Indiscernibility of Identicals may be stated as follows:
+
+\[
+x=y \rightarrow (F(x) \leftrightarrow F(y)).
+\]
+
+If \(x\) and \(y\) are one and the same thing, then whatever is true of one is true of the other. The principle is often understood as a consequence of the meaning of identity. If “Bobby” and “the person who is sitting” refer to the same object, then Bobby is sitting.
+
+The Identity of Indiscernibles reverses the direction:
+
+\[
+\forall F(F(x) \leftrightarrow F(y)) \rightarrow x=y.
+\]
+
+If there is no property that distinguishes \(x\) from \(y\), then they are not two things but one. This principle is more contentious because it depends on what counts as a property. If only qualitative properties are included, two particles could perhaps be perfectly alike while remaining numerically distinct. If relational, historical, modal, or haecceitic properties are included, it becomes much easier to distinguish any two objects.
+
+The issue of change over time arises because ordinary predicates are often used without specifying a temporal parameter. Suppose Bobby is sitting at 10:00 and standing at 10:05. If Bobby at 10:00 is identical with Bobby at 10:05, then the Indiscernibility of Identicals appears to imply:
+
+1. Bobby-at-10:00 is sitting.
+2. Bobby-at-10:05 is standing.
+3. Bobby-at-10:00 = Bobby-at-10:05.
+4. Therefore, Bobby-at-10:05 is sitting and standing.
+
+This conclusion is not a genuine contradiction if “Bobby” refers to the enduring person and the predicates are understood tenselessly or without temporal qualification. Bobby is not simply sitting and not sitting in the same respect at the same time. He is sitting at one time and standing at another. The apparent contradiction results from suppressing the temporal argument.
+
+The natural repair is to replace ordinary properties with time-indexed properties:
+
+- being-sitting-at-\(t_1\);
+- being-standing-at-\(t_2\).
+
+The revised principle of the Indiscernibility of Identicals becomes:
+
+\[
+x=y \rightarrow \forall t \forall F(F(x,t) \leftrightarrow F(y,t)).
+\]
+
+If Bobby at \(t_1\) is identical with Bobby at \(t_2\), then the same object bears the relevant time-indexed properties at the relevant times. Identity does not require that the object possess every property at every time. It requires only that identicals agree concerning whether they possess the property at each specified index.
+
+This reformulation prevents a mistaken comparison between “being sitting at \(t_1\)” and “being standing at \(t_2\).” Those are different properties. There is no requirement that an individual’s complete temporal profile be constant. On the contrary, the temporal profile of an enduring object may include both sitting-at-\(t_1\) and standing-at-\(t_2\).
+
+A similar point applies to the Identity of Indiscernibles. The relevant version is not that two objects must have exactly the same properties at every moment in an undifferentiated sense. Rather, if two objects have all the same time-indexed properties, including all their historical and relational properties, then they are identical:
+
+\[
+\forall t \forall F(F(x,t) \leftrightarrow F(y,t)) \rightarrow x=y.
+\]
+
+On this formulation, two objects that merely resemble each other at one time need not be identical. Their complete temporal histories may differ. One may have been created earlier, or may continue after the other ceases to exist, or may have participated in different relations. The apparent counterexample arises only if one restricts the comparison to a single temporal slice.
+
+Property-indexing therefore supports a distinction between *temporary qualitative similarity* and *complete diachronic indiscernibility*. Bobby’s change does not refute the Indiscernibility of Identicals because the relevant predicates are indexed to different times. Two objects that are alike at one time need not be identical because their time-indexed properties can diverge elsewhere in their histories.
+
+## II. The swapped lumps of clay
+
+The case of the swapped lumps of clay presents a more serious challenge. Imagine a statue made from a lump of clay. Call the statue “S” and the lump “L.” At a particular time, S and L occupy exactly the same place, have the same shape, consist of the same matter, and appear to have all the same ordinary intrinsic properties. Yet they seem to be distinct objects. The statue may cease to exist when it is squashed, while the lump of clay may continue to exist in a different shape. The statue has the property of being statue-shaped essentially or at least necessarily relative to its identity, whereas the lump does not. Conversely, the lump may have a history of existing before the statue was formed, while the statue does not.
+
+This is the classic problem of coincident objects. If S and L have all their properties in common, the Identity of Indiscernibles seems to imply that S = L. But if S = L, then they should have the same modal and temporal properties. Since S can survive only certain changes while L can survive others, they appear not to be identical.
+
+Property-indexing allows the distinction to be expressed more precisely. At the actual time \(t_0\), S and L may share properties such as:
+
+- being located at place \(p\);
+- having a certain shape;
+- having a certain mass;
+- being composed of the same clay particles.
+
+But they may differ in time-indexed properties concerning their histories:
+
+- L existed before \(t_0\);
+- S did not exist before \(t_0\);
+- L exists after the statue is destroyed;
+- S does not exist after that event.
+
+They may also differ in world-indexed modal properties:
+
+- L exists in a world in which it is reshaped into a ball;
+- S does not exist in that world, or does not exist as a statue there;
+- S exists in a world in which the statue is preserved;
+- L may exist in worlds in which the same clay is used in an entirely different artifact.
+
+The relevant property is not merely “being reshaped,” which might be ambiguously understood as an actual or possible event. It is something like:
+
+- being such that it exists in world \(w_1\) after being reshaped;
+- being such that it exists at \(t_1\) after the destruction of the statue;
+- being such that it has a certain origin or persistence history.
+
+If these are genuine properties, then S and L are not indiscernible in the unrestricted sense. Their coincidence at one time does not entail their identity. They share a temporal slice but not a complete temporal or modal profile.
+
+This solution depends upon a distinction between *qualitative properties at a time* and *properties of persistence*. The statue and the lump may be qualitatively indistinguishable in the present while differing in what they could survive or how they came into existence. The Identity of Indiscernibles is preserved only if properties are understood broadly enough to include these modal and historical features.
+
+However, this response raises a metaphysical question. Are modal properties genuine properties of objects, or are they merely facts about how we describe them? If the statue and the lump differ only because we associate different persistence conditions with their concepts, then the appeal to world-indexed properties may not establish that there are two objects. It may only show that one object can be described under two concepts. The defender of coincident objects must therefore claim that the statue and lump have distinct persistence conditions as real features of the objects themselves.
+
+A further complication concerns material constitution. If the statue and lump are constituted by exactly the same matter, what makes them two objects rather than one object with two descriptions? One answer is that they have different origins, kinds, or modal essences. A statue is essentially a statue, or at least essentially the artifact that it is, while a lump of clay is essentially a particular mass of material with different survival conditions. The difference is therefore not visible in the present-time intrinsic qualities of the objects. It is revealed by their indexed histories and possibilities.
+
+Property-indexing thus makes the argument more rigorous, but it does not settle the metaphysics of constitution. It tells us how distinctness could be represented if there are distinct objects. It does not prove that the statue and lump are distinct rather than identical. The underlying issue remains whether persistence conditions and modal profiles are objective features of things or merely consequences of our classificatory practices.
+
+## III. Trans-world identity and the cases of Adam and Noah
+
+The same difficulties arise more dramatically when identity is considered across possible worlds. Suppose Adam exists in the actual world but could have been very different. Perhaps he could have been taller, born in another place, or raised by another family. How far can such variation go before the individual in the other world is no longer Adam? If there is a possible world in which Adam has all of Noah’s properties, are Adam and Noah identical in that world? If Adam could have been Noah and Noah could have been Adam, does the distinction between them collapse?
+
+Roderick Chisholm’s thought experiments dramatize this problem. In one familiar form, Chisholm considers a sequence of possible situations in which Adam and Noah differ by increasingly small changes. In each successive world, one person has a slightly altered set of properties, while the other is altered in a corresponding way. The sequence can be arranged so that, at the beginning, the two individuals are clearly distinct, but at the end, their properties have been exchanged or nearly exchanged. The concern is that trans-world identity appears to be both flexible and unstable. If each small change preserves identity, then a sufficiently long sequence may lead to the conclusion that Adam could have been Noah.
+
+The problem is not simply that people can have different properties in different worlds. That much is uncontroversial. The deeper issue is whether there is a determinate fact about which individual in a nonactual world is Adam. If identity across worlds is fixed only by qualitative similarity, then sufficiently similar individuals may be interchangeable. If it is fixed by an underlying individual essence, then the essence may be inaccessible or indistinguishable from a stipulation.
+
+World-indexing offers a formal way to separate these issues. Instead of saying that Adam simply has property \(F\), we can introduce:
+
+\[
+F(x,w)
+\]
+
+meaning that \(x\) has \(F\) in world \(w\). More complex properties can also be indexed to both times and worlds:
+
+\[
+F(x,t,w).
+\]
+
+Then the Indiscernibility of Identicals becomes:
+
+\[
+x=y \rightarrow \forall w \forall t \forall F(F(x,t,w) \leftrightarrow F(y,t,w)).
+\]
+
+If Adam and Noah are identical, they must share every indexed property in every world and at every time. Conversely, the world-indexed Identity of Indiscernibles says:
+
+\[
+\forall w \forall t \forall F(F(x,t,w) \leftrightarrow F(y,t,w)) \rightarrow x=y.
+\]
+
+This prevents a limited resemblance in one world from implying identity. Adam and Noah may have the same properties in one world while differing in other worlds, or their complete modal histories may differ. For example, one may have the property of being Adam in world \(w_1\), while the other does not. Or one may have an origin property that the other lacks across all relevant worlds.
+
+World-indexing also reveals a limitation of Chisholm’s argument. A series of worlds can establish that there are worlds in which Adam differs gradually from the actual Adam. It does not by itself establish that identity is transitive across the series in the way required for the final conclusion. The relation “is qualitatively similar to” need not be transitive. Likewise, “is a permissible continuation of” may be vague or context-sensitive. If Adam in \(w_1\) is sufficiently similar to Adam in \(w_2\), and the individual in \(w_2\) is sufficiently similar to the individual in \(w_3\), it does not follow that the individual in \(w_3\) is Adam. Identity is transitive, but similarity and counterpart relations need not be.
+
+This point is central. Chisholm’s paradox often exploits a slide from a nontransitive relation of resemblance or counterparthood to the transitive relation of identity. Property-indexing blocks the slide only if the indexed properties include a principled account of identity-preserving features. If the only criterion is increasing qualitative similarity, the problem remains.
+
+The case of Adam and Noah also exposes the difference between *trans-world identity* and *counterpart relations*. On a strict trans-world identity view, Adam is the same individual in every world in which Adam exists. The question is which individual in each world is Adam. On a counterpart-theoretic view, especially associated with David Lewis, individuals in different worlds are never literally identical; instead, an individual in one world has counterparts in other worlds. Chisholm’s thought experiments are especially troubling for the former view because they demand a criterion for choosing the same individual across worlds. World-indexing can describe candidate continuities, but it does not independently select one.
+
+Kripke’s account of possible worlds provides an important corrective. For Kripke, possible worlds are not necessarily concrete parallel universes populated independently of the actual world. They are ways things might have been. A rigid designator such as “Adam,” if it refers to a particular individual, refers to that individual in every possible world in which he exists. The semantics therefore does not identify Adam by comparing his qualitative description from world to world. The name fixes its referent, and modal claims are evaluated with respect to that referent.
+
+This approach blocks certain forms of Chisholm’s argument. The fact that there is a person in another world who resembles Adam does not imply that this person is Adam. Nor does the fact that Adam could have had Noah-like properties imply that Adam could have been Noah. The modal claim “Adam could have been different” concerns the same individual under a different way things might have been. It does not follow that Adam could have been numerically identical with another actual individual.
+
+Nevertheless, Kripke’s view does not provide a simple epistemic method for identifying Adam across worlds. Rigid designation secures reference semantically, but it does not tell us which properties Adam has essentially. If a world is described as containing “the individual who resembles Adam in every respect except origin,” the description may not determine whether that individual is Adam. Reference is fixed by the name and the relevant historical or causal context, not by unrestricted qualitative resemblance.
+
+## IV. Plantinga and essential world-indexed properties
+
+Alvin Plantinga’s modal metaphysics provides one way of explaining how an individual can have a determinate identity across worlds. Plantinga emphasizes the notion of an essence: a property that an object has necessarily and that no other object has. An individual essence can be represented as a property uniquely instantiated by a particular object. The property of being identical with Socrates, for example, is a paradigmatic haecceitic property. Socrates has it necessarily, and nothing other than Socrates has it.
+
+Plantinga’s framework helps explain why world-indexing need not be limited to ordinary qualitative properties. An object can have a property of the form:
+
+- being such that it exists in world \(w\);
+- being such that it has origin \(O\) in world \(w\);
+- being identical with \(x\);
+- being the individual who occupies a certain role in a specified world.
+
+Such properties can distinguish Adam from Noah even if there is a world in which they are qualitatively indistinguishable. They also distinguish the statue from the lump of clay even if the two share all present-time intrinsic properties.
+
+This move is especially useful against the claim that possible worlds permit arbitrary permutation of individuals. If Adam has an individual essence, then a world can contain Adam with very different qualitative properties without containing Noah in Adam’s place. The world-indexed property “being Adam in \(w\)” is not reducible to a list of ordinary qualitative features. The identity of the individual is preserved by the essential property.
+
+Yet Plantinga’s solution creates an epistemological challenge. If each object has a unique individual essence, how do we know which properties are essential? We often know that a person could have been taller or lived elsewhere, but it is much harder to know whether a person could have had a different biological origin, different parents, or a radically different psychological history. The distinction between essential and accidental properties cannot be read directly from the object’s actual observable features.
+
+This objection matters because property-indexing can otherwise become a merely formal device. For any two objects \(x\) and \(y\), one could define a property such as “being identical with \(x\)” or “being the object that is actually \(x\).” That property will distinguish \(x\) from \(y\), but it does not explain identity. It presupposes the very distinction it is supposed to establish. If world-indexed properties are allowed without restriction, the Identity of Indiscernibles becomes trivially true: every object has a unique identity property. But trivial truth is not philosophical explanation.
+
+Plantinga’s view is therefore strongest when combined with a distinction between *having* an essence and *knowing* that essence. The fact that an individual has an essential property does not imply that we can identify it by a complete qualitative description. Nor does it imply that all essential properties are epistemically accessible. Essentiality is a metaphysical notion, not necessarily a property that can be discovered by inspection.
+
+This distinction also helps with the epistemological objection. The challenge is not that property-indexing is incoherent because we cannot always identify essential properties. Rather, the challenge is that property-indexing does not by itself provide a method for determining which indices and properties are metaphysically legitimate. We may know that identity is necessary once established, while remaining uncertain about the conditions under which an individual would or would not exist.
+
+Kripke’s work reinforces this point. Kripke argues that some necessities are discovered empirically. For example, once it is established that a particular substance is water and that water is H₂O, it is necessary that water is H₂O, even though the necessity was not known a priori. Similarly, the origin of an object may be essential even though this is learned through empirical investigation rather than conceptual analysis. Essential properties need not be obvious, nor need they be encoded in a purely qualitative description available before experience.
+
+Kripke also distinguishes rigid designation from description. A proper name refers rigidly to the same object in every possible world in which that object exists, but the description associated with the name may be false in another world. The individual named “Adam” could lack many properties by which we identify him in the actual world. What remains fixed is not a descriptive bundle but the reference of the name and the metaphysical identity of the object.
+
+Property-indexing fits naturally with this view if it is treated as a semantic representation of modal facts rather than as a substitute for a theory of reference. “Adam has property \(F\) in world \(w\)” is meaningful only if we already have some account of how Adam is represented in \(w\). Indexing does not itself create trans-world identity; it records how an already selected individual fares across worlds.
+
+## V. Does indexing preserve nontrivial identity?
+
+The central philosophical question is whether property-indexing solves the apparent paradoxes without making identity trivial. There are two ways it can fail.
+
+First, indexing may be too weak. If only actual, time-local, qualitative properties are indexed, then the statue and lump may remain indiscernible, and Adam and Noah may be interchangeable across worlds. Indexing merely labels the same problematic properties without adding a genuine distinction.
+
+Second, indexing may be too strong. If every object is assigned an individual essence or a property of being identical with itself, then no two objects can share all properties. The Identity of Indiscernibles becomes true by stipulation. But this threatens to empty the principle of explanatory content. Instead of explaining why two objects are distinct, the theory simply assigns each object a distinguishing property.
+
+A nontrivial account must occupy the middle ground. It must allow genuine temporal and modal properties while avoiding arbitrary identity predicates. Several constraints are important.
+
+First, indexed properties should not be restricted to momentary intrinsic qualities. Complete temporal histories, causal origins, relations, and persistence conditions may be relevant. This allows the statue and lump to differ despite present-time coincidence.
+
+Second, the indices must be metaphysically disciplined. A world-indexed property should not be generated merely by any description we happen to formulate. Possible worlds must represent genuine ways things could have been, constrained by logic, metaphysics, and the essential natures of objects. Kripke’s conception of worlds as stipulated possibilities helps here, but stipulation must still respect reference and necessity.
+
+Third, identity should not be reduced to similarity. A person can vary widely while remaining the same individual, and two individuals can be qualitatively identical while remaining distinct. Indexed properties can represent the facts about identity, but they cannot replace the primitive notion entirely unless one accepts a robust reductionist theory.
+
+Fourth, one must distinguish identity properties from ordinary properties. The property of being identical with Adam is a perfectly legitimate formal property in some systems, but it is a haecceitic property. It does not provide a qualitative criterion by which we could recognize Adam in a world. If the Identity of Indiscernibles quantifies over such properties, it is nearly guaranteed to hold. If it quantifies only over qualitative properties, it may fail. The debate cannot be resolved merely by saying “all properties”; one must explain the ontology of properties included in the quantifier.
+
+Finally, time-indexing does not by itself resolve the metaphysics of persistence. It is compatible with endurance, perdurance, and stage theory. On an endurantist view, the whole object is present at each time, bearing different indexed properties. On a perdurantist view, an object is a four-dimensional entity composed of temporal parts. On a stage view, “Bobby at \(t_1\)” and “Bobby at \(t_2\)” may be distinct stages related by a counterpart relation. The formal indexing can accommodate each theory, but it does not decide among them.
+
+This is particularly important in the Bobby case. If Bobby is an enduring object, “Bobby is sitting at \(t_1\)” and “Bobby is standing at \(t_2\)” are properties of one persisting individual. If Bobby is a series of temporal stages, then the identity between the stages is not primitive in the same way. The temporal-indexed formulation prevents contradiction in either framework, but it does not answer whether the stages are parts of one object or merely related individuals.
+
+## VI. What property-indexing does and does not accomplish
+
+Property-indexing succeeds at the level of logical diagnosis. The Bobby case is not a counterexample to the Indiscernibility of Identicals because the predicates “sitting at \(t_1\)” and “standing at \(t_2\)” are not contradictory properties. The swapped-lumps case does not show that identicals can differ if the statue and lump differ in their temporal histories or modal persistence conditions. The Adam-and-Noah cases do not establish that resemblance across a sequence of worlds is identity, because resemblance and counterpart relations need not be transitive.
+
+The reformulation also clarifies the scope of the Identity of Indiscernibles. Two things need not be identical merely because they are indistinguishable at one moment or in one world. They must share all relevant properties across all relevant times and worlds. Once modal and temporal properties are included, many apparent counterexamples disappear.
+
+But property-indexing does not solve every problem. It does not tell us whether modal properties are intrinsic or relational. It does not decide whether coincident objects exist. It does not determine the essential properties of persons, organisms, artifacts, or material substances. It does not provide a noncircular criterion for selecting the trans-world continuation of an individual. And it does not eliminate the possibility that different metaphysical theories will assign different properties to the same scenario.
+
+The epistemological objection is therefore decisive against an overly optimistic interpretation of the strategy. We cannot simply assume that every difference in possible persistence is an essential property, or that every world-indexed distinction corresponds to an objective difference in objects. Plantinga shows how individual essences could secure trans-world distinctness, but he does not make those essences transparent to us. Kripke shows that rigid reference and necessary identity can be understood without reducing individuals to qualitative descriptions, but his semantics likewise does not furnish an infallible test for essentiality.
+
+The result is a layered view. Leibniz’s Laws remain valid when properties are indexed appropriately. What changes is not the logic of identity but the ontology of predication. Properties must be understood as capable of being temporary, historical, modal, relational, and perhaps haecceitic. Once this richer conception is adopted, the apparent contradictions are largely dissolved. Yet the price is that the hard philosophical questions move to the background: Which properties are real? Which are essential? Which worlds are genuine possibilities? How is an individual tracked across them?
+
+## Conclusion
+
+Property-indexing is a powerful but incomplete response to the problems of identity over time and across possible worlds. It successfully reformulates the Indiscernibility of Identicals so that an object may change without violating identity. Bobby can be sitting at one time and standing at another because these are different time-indexed properties. It also explains how the statue and the lump of clay may coincide spatially and materially while differing in their histories and modal persistence conditions. Finally, it blocks a crucial step in Chisholm’s Adam-and-Noah constructions by distinguishing identity from similarity and by emphasizing that counterpart relations or qualitative resemblance need not be transitive.
+
+Plantinga’s account of essential world-indexed properties offers a metaphysical basis for maintaining distinct identities across worlds, even where qualitative properties are exchanged or radically altered. Kripke’s account of possible worlds and rigid designation supports the idea that an individual’s identity is not constituted by a contingent descriptive profile. Together, these views show why trans-world identity need not collapse into mere resemblance.
+
+Nevertheless, indexing does not entirely eliminate the paradoxes. If arbitrary haecceitic properties are admitted, the Identity of Indiscernibles becomes trivial. If only observable qualitative properties are admitted, it may be false. The real issue is therefore not whether properties can be indexed, but which indexed properties genuinely belong in the theory of identity. Essential properties may exist without being epistemically transparent, and possible worlds may secure determinate modal truths without providing a simple recipe for discovering them.
+
+Property-indexing consequently resolves the apparent logical contradictions while leaving the deeper metaphysical and epistemological questions intact. It preserves the nontriviality of identity only when it is constrained by an independently motivated account of essence, reference, persistence, and possibility. Its achievement is not to abolish the problems of diachronic and trans-world identity, but to show precisely where those problems lie.

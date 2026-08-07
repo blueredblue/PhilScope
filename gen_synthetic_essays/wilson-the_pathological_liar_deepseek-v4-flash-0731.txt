@@ -1,0 +1,23 @@
+**Title: The Pathological Liar: How Semantic Exclusion Renders Kirkham’s Criteria Obsolete**
+
+**Introduction**
+
+The Liar Paradox—encapsulated in the sentence “This sentence is false”—has haunted philosophy for over two millennia. Its seemingly simple structure yields a devastating logical collapse: if the sentence is true, then it is false; if it is false, then it is true. This circularity has prompted a vast literature of proposed solutions, from Tarski’s hierarchy of languages to Kripke’s fixed-point semantics, from paraconsistent logics to dialetheism. In his influential work *Theories of Truth*, Richard Kirkham articulated a set of five criteria that any satisfactory solution to the Liar Paradox must meet. These criteria—specificity, completeness, non-ad hocness, avoidance of overkill, and preservation of intuitions—have become a standard yardstick for evaluating proposed resolutions.
+
+In this essay, I will argue that Kirkham’s criteria, particularly the demands for *specificity* and *avoidance of ad hoc postulations*, are fundamentally misguided when we correctly identify the Liar Paradox as a *pathological case* within natural language semantics. The Liar is not a normal sentence that requires a tailored theoretical fix; rather, it is a semantic anomaly analogous to division by zero in arithmetic or the Weierstrass function in calculus. These mathematical pathologies are not “solved” by assigning them values or altering the underlying systems; they are recognized as structural defects and excluded from the domain of well-formed operations. Once we adopt this pathological analogy, the criteria of specificity and non-ad hocness become invalid—they presuppose that the Liar is a legitimate truth-bearer in need of a special solution, when in fact it is a defective construction that falls outside the scope of truth evaluation altogether.
+
+I will then defend an *exclusionary approach*—a policy that denies truth values to self-referential contradictions. I will demonstrate that this approach, when properly understood, satisfies Kirkham’s remaining criteria of *completeness*, *avoidance of overkill*, and *preservation of bivalent intuitions*, all without requiring the construction of a comprehensive formal system for natural language. The conclusion will be that the Liar Paradox is not a crisis for truth theory but a boundary marker, indicating precisely where the concept of truth ends, just as division by zero indicates the boundary of arithmetic.
+
+**Section 1: Kirkham’s Five Criteria and the Nature of the Problem**
+
+Richard Kirkham, in his survey of theories of truth, proposes that any adequate solution to the Liar Paradox must satisfy five distinct criteria. While the exact formulation can vary, the standard list is as follows:
+
+1.  **Specificity**: The solution must address the Liar Paradox specifically. It cannot be a mere side effect of a broader, unrelated theoretical commitment. For instance, if one rejects the law of non-contradiction for independent reasons, that might incidentally resolve the Liar, but it would not be a *specific* solution to the paradox itself. The solution must target the unique features of self-referential truth claims.
+
+2.  **Completeness**: The solution must resolve *all* versions of the paradox, including the strengthened Liar (“This sentence is not true”) and contingent variants (“The next sentence is false; the previous sentence is true”). A solution that only handles the simple Liar but fails on its strengthened counterpart is incomplete.
+
+3.  **Non-ad hocness**: The solution must not be an arbitrary rule invented solely to avoid the paradox. It must have independent justification, grounded in a broader theory of language, logic, or truth. A solution that simply says “we will not allow sentences to refer to themselves” is ad hoc unless it can be shown that self-reference is independently problematic.
+
+4.  **Avoidance of overkill**: The solution must not reject more than is necessary to solve the paradox. It should not, for example, reject bivalence globally, reject the T-schema (T(“P”) ↔ P) for all sentences, or reject the law of non-contradiction. Overkill solutions are considered unattractive because they sacrifice too much of our ordinary logical and semantic machinery.
+
+5.  **Preservation of intuitions**: The solution should preserve, as much as possible, our pre-theoretic intuitions about truth. This includes the intuition that every meaningful declarative sentence is either true or false (bivalence), that the T-schema holds for ordinary sentences, and that truth is a substantive property we can predicate

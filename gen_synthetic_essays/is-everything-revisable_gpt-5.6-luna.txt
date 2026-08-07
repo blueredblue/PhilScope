@@ -1,0 +1,453 @@
+# Universal Revisability, Necessary Truth, and the Limits of Quine’s Slogan
+
+Quine’s famous claim that “no statement is immune to revision” expresses a central feature of his holism. Against the traditional distinction between propositions that are revisable in light of experience and propositions that are secured independently of experience—especially logical and mathematical truths—Quine maintains that our total theory of the world confronts experience as a corporate body. Any sentence, including a logical sentence, may in principle be abandoned if doing so contributes to a sufficiently advantageous reorganization of the whole theory. The point is not that we ordinarily revise logic or arithmetic. It is that no sentence is protected by an absolute epistemic barrier.
+
+The philosophical force of this thesis is considerable. It challenges foundationalism, the analytic–synthetic distinction, and the idea that some truths function as permanent conditions of rational thought rather than as components of a revisable conceptual scheme. Yet the thesis also generates a serious formal problem when it is interpreted through the resources of alethic modal logic. If “revisable” is understood to mean that a statement could be false, or that its negation is possible, then universal revisability appears to conflict with necessary truths. In modal logic S5, that conflict can be represented in particularly sharp form. Both wide-scope and narrow-scope interpretations of the thesis seem to yield either contradiction or falsehood once necessary truths are admitted.
+
+The central issue, however, is not simply whether Quine’s thesis is inconsistent. It is whether the thesis has been translated into the wrong modal vocabulary. The notion of revisability is fundamentally epistemic and normative: it concerns what a rational inquirer may abandon on the basis of good reasons. Alethic necessity, by contrast, concerns what could not have been false. To confuse the two is to turn a doctrine about belief revision into a doctrine about the modal status of propositions. Nevertheless, the formal arguments remain philosophically illuminating. They show what follows if universal revisability is given an alethic reading, and they explain why attempts to preserve the thesis by adding ad hoc exceptions are unsatisfactory.
+
+This essay distinguishes wide-scope and narrow-scope readings of universal revisability, reconstructs the relevant arguments in S5, examines the significance of necessary truths, and argues that the best resolution is not to exempt selected statements from revision but to distinguish epistemic revisability from alethic contingency. Quine’s thesis can survive, but only in a suitably qualified epistemological form.
+
+## 1. What Does “No Statement Is Immune to Revision” Mean?
+
+The natural-language slogan is ambiguous. At least three different claims can be extracted from it.
+
+First, it might mean that no proposition is necessarily true:
+
+\[
+\text{UR}_{1}: \forall p(S(p) \rightarrow \Diamond \neg p).
+\]
+
+Here \(S(p)\) means that \(p\) is a statement, and \(\Diamond \neg p\) means that it is possible for \(p\) to be false. By the duality of necessity and possibility in normal modal logic, this is equivalent to:
+
+\[
+\forall p(S(p) \rightarrow \neg \Box p).
+\]
+
+This is the strongest and most obviously alethic interpretation. It treats revisability as the possibility of falsity.
+
+Second, the thesis might mean that there is no statement whose immunity is itself necessary:
+
+\[
+\text{UR}_{2}: \forall p(S(p) \rightarrow \Diamond \neg I(p)),
+\]
+
+where \(I(p)\) means “\(p\) is immune to revision.” This version does not directly say that \(p\) can be false. It says only that the status of \(p\) as unrevisable is not itself fixed in every possible world.
+
+Third, the thesis might be understood as a claim about belief:
+
+\[
+\text{UR}_{3}: \forall p(S(p) \rightarrow \Diamond \neg B(p)),
+\]
+
+where \(B(p)\) means “the agent believes \(p\).” This says that for every statement, there is some possible revision scenario in which the agent no longer believes it. It does not say that \(p\) itself becomes false. A necessary truth can remain necessary while the agent ceases to believe it, perhaps because of cognitive error, loss of evidence, or a radical change in conceptual framework.
+
+Quine’s actual philosophical position is closest to the third formulation, although his discussions sometimes invite the first. He is concerned with the revisability of sentences within a theory, not with the metaphysical possibility that the propositions expressed by those sentences might be false. The trouble begins when the epistemological notion of revision is represented by the alethic operator \(\Diamond\).
+
+The distinction between wide and narrow scope concerns how the modal operator interacts with the universal quantifier. Let \(R(p)\) mean “\(p\) is revisable,” and consider:
+
+\[
+\text{Narrow Scope: } \forall p(S(p) \rightarrow \Diamond R(p)).
+\]
+
+This says: for each statement \(p\), it is possible that \(p\) be revised.
+
+The wide-scope reading is:
+
+\[
+\text{Wide Scope: } \Diamond \forall p(S(p) \rightarrow R(p)).
+\]
+
+This says: there is a possible world or possible situation in which every statement is revisable.
+
+The difference is important. Narrow scope allows different statements to be revised in different possible worlds. Wide scope requires one possible world in which all statements are revisable together. In ordinary modal semantics, the wide-scope thesis is stronger. If the thesis is understood as revision into falsity, then the two forms are:
+
+\[
+\text{NR}: \forall p(S(p) \rightarrow \Diamond \neg p)
+\]
+
+and
+
+\[
+\text{WR}: \Diamond \forall p(S(p) \rightarrow \neg p).
+\]
+
+Neither formula is a mere stylistic variation on the other. The narrow version asserts a separate possibility for each statement; the wide version asserts a single possibility encompassing all statements.
+
+## 2. The Narrow-Scope Argument in S5
+
+Suppose that statements include at least one necessary truth. Let \(T\) be a necessary truth, such as a logical truth:
+
+\[
+\Box T.
+\]
+
+In any normal modal logic, including S5, the duality principle gives:
+
+\[
+\Box T \rightarrow \neg \Diamond \neg T.
+\]
+
+The reason is straightforward. If \(T\) is true in every accessible world, there is no accessible world in which \(\neg T\) is true. Thus:
+
+\[
+\Box T \vdash \neg \Diamond \neg T.
+\]
+
+Now instantiate the narrow-scope version of universal revisability with \(T\):
+
+\[
+\forall p(S(p) \rightarrow \Diamond \neg p).
+\]
+
+Assuming \(S(T)\), universal revisability yields:
+
+\[
+\Diamond \neg T.
+\]
+
+We therefore obtain both:
+
+\[
+\Box T
+\]
+
+and
+
+\[
+\Diamond \neg T.
+\]
+
+Since \(\Box T\) entails \(\neg \Diamond \neg T\), the set is inconsistent:
+
+\[
+\Box T,\ \Diamond \neg T \vdash \bot.
+\]
+
+The result does not depend on the special features of S5. Any normal modal logic with the standard duality between \(\Box\) and \(\Diamond\) will generate the contradiction. S5 becomes especially relevant because it makes the modal structure highly transparent. In S5, every accessible world accesses every other accessible world, and the familiar principles
+
+\[
+\Diamond \Box p \rightarrow \Box p
+\]
+
+and
+
+\[
+\Box \Diamond p \rightarrow \Diamond p
+\]
+
+hold. Necessary truths are therefore not merely stable from the current perspective; their truth is invariant throughout the entire S5 cluster of accessible worlds.
+
+The narrow-scope thesis can thus be described in two ways. If asserted alongside the existence of necessary truths, it is contradictory. If necessary truths are accepted independently, the thesis is simply false. The difference between “contradiction” and “falsehood” depends on whether universal revisability is treated as an axiom or merely evaluated as a proposed claim. The formula itself does not produce a contradiction in isolation. It produces a contradiction when conjoined with the modal fact that at least one statement is necessary.
+
+This qualification matters philosophically. The argument does not establish that modal logic is inconsistent, nor that the concept of revisability is incoherent. It establishes that the following three claims cannot all be maintained:
+
+1. There are necessary truths.
+2. Necessary truth excludes the possibility of falsity.
+3. Every statement is possibly false.
+
+A defender of the alethic reading must reject one of these. Quine’s own position should not be interpreted as requiring rejection of the first two, for he need not deny that logical truths are necessary in a given logical framework. Rather, he should reject the translation of revisability into possible falsity.
+
+There is also a more subtle self-application problem. If the universal revisability thesis is itself a statement, then the thesis says that it too is revisable. On the narrow interpretation this yields:
+
+\[
+\Diamond \neg U,
+\]
+
+where \(U\) is the thesis of universal revisability. This does not by itself produce a contradiction. A contingent proposition can consistently assert that it might be false. Nor does the possibility of \(\neg U\) entail \(\neg U\) in the actual world. The thesis is therefore not a simple liar paradox. Its central problem comes from its application to necessary truths, not merely from its application to itself.
+
+Still, self-application reveals a tension. If \(U\) is intended as an unrestricted, exceptionless principle of rationality, then treating it as revisable means that one may rationally give it up. But giving it up does not entail that it is false; it may simply cease to function as a governing methodological commitment. Once again, this points toward epistemic rather than alethic revision.
+
+## 3. The Wide-Scope Argument in S5
+
+The wide-scope reading has the form:
+
+\[
+\Diamond \forall p(S(p) \rightarrow \neg p).
+\]
+
+It asserts the possibility of a world in which every statement is false, or, more charitably, a world in which every statement can be revised into its negation. The claim is difficult to make coherent even before considering the special properties of S5. If \(T\) is a necessary truth, then:
+
+\[
+\Box T.
+\]
+
+S5 validates the characteristic principle:
+
+\[
+\Box T \rightarrow \Box\Box T.
+\]
+
+More importantly, necessity entails truth at every accessible world. If \(w\) is the actual world and \(v\) is accessible from \(w\), then \(T\) is true at \(v\). Consequently, there is no accessible world in which all statements are false. In particular, there is no accessible world in which \(\neg T\) is true.
+
+Formally, from the necessity of \(T\) we derive:
+
+\[
+\neg \Diamond \neg T.
+\]
+
+Since the wide-scope thesis entails that there is a world at which \(\neg T\) holds, we have:
+
+\[
+\Diamond \forall p(S(p) \rightarrow \neg p)
+\vdash \Diamond \neg T.
+\]
+
+Together with \(\Box T\), this yields contradiction.
+
+The wide-scope thesis is stronger than the narrow-scope thesis. Narrow scope requires only:
+
+\[
+\Diamond \neg p
+\]
+
+for each \(p\), possibly at different worlds. Wide scope requires a single world at which all such revisions occur. If even one statement is necessary, wide scope fails immediately. Indeed, the wide-scope formula seems to demand not merely that our theory could be revised in many ways, but that there is a coherent total state in which no statement retains truth. Such a state is not just epistemically unusual; it is modally impossible if the domain includes necessary truths.
+
+A slightly more sophisticated wide-scope formulation might avoid saying that every statement is false and instead say:
+
+\[
+\Diamond \forall p(S(p) \rightarrow R(p)),
+\]
+
+where \(R(p)\) means “\(p\) is revisable.” If \(R\) is interpreted as a purely epistemic predicate, this formula may be coherent. There could be a possible state of inquiry in which every accepted sentence is open to revision. But if \(R(p)\) is defined as \(\Diamond \neg p\), then the formula collapses into the impossible claim just examined. The contradiction is therefore not generated by the mere placement of the modal operator. It is generated by identifying revisability with alethic contingency.
+
+The scope distinction nevertheless sharpens the diagnosis. The narrow reading produces a local conflict whenever the universal quantifier reaches a necessary truth. The wide reading produces a global conflict: it requires a possible world in which even the necessary truths fail. In S5, where modal accessibility is especially strong and necessity is invariant throughout an entire equivalence class, that global requirement is plainly impossible.
+
+One might try to interpret the wide-scope thesis temporally rather than modally:
+
+\[
+\Diamond_t \forall p(S(p) \rightarrow R(p)),
+\]
+
+where \(\Diamond_t\) means “at some future stage of inquiry.” This would say that there might be a future state in which every sentence is vulnerable to revision. But even this interpretation requires care. A future stage of inquiry need not be a possible world in the alethic sense, and “vulnerable to revision” need not mean “possibly false.” Temporal or epistemic possibility can be wider than metaphysical possibility. Once these modalities are distinguished, the apparent contradiction disappears—but so does the strictly alethic reading of the thesis.
+
+## 4. Why S5 Makes the Problem Especially Clear
+
+It would be misleading to suggest that S5 alone is responsible for the paradox. The basic conflict between \(\Box T\) and \(\Diamond \neg T\) follows in any normal modal system. Nevertheless, S5 illuminates several features of the issue.
+
+First, S5 treats accessibility as an equivalence relation. Accessibility is reflexive, symmetric, and transitive. This means that the possible worlds relevant to a given world form a modal sphere within which necessity is completely stable. If \(T\) is necessary at the actual world, it remains necessary at every accessible world. There is no hidden accessible perspective from which \(T\) becomes contingent.
+
+Second, S5 validates the collapse of iterated modal distinctions. For example:
+
+\[
+\Diamond\Box p \rightarrow \Box p.
+\]
+
+If it is possible that \(p\) is necessary, then \(p\) is already necessary. This blocks a strategy according to which a statement might become necessary only in some possible revision-world. In S5, if necessity is attained within the relevant modal space, it is not a temporary or local status.
+
+Third, S5 encourages a sharp separation between necessity and possibility. A proposition is necessary if true throughout the entire accessible cluster; it is possible if true at least somewhere in that cluster. Thus any necessary truth automatically excludes the possibility of its negation. Universal revisability, if modeled as universal possible falsity, directly collides with this structure.
+
+One might object that Quine was not discussing metaphysical modality at all. He was discussing the relation between sentences and sensory evidence, not accessibility relations between possible worlds. This objection is correct, but it does not make the formal analysis irrelevant. It tells us what the formal analysis has demonstrated: namely, that a particular modal translation of Quine’s thesis is untenable. It does not show that the original epistemological thesis is untenable.
+
+## 5. Necessary Truths and Rational Belief Revision
+
+The most important philosophical issue concerns the role of necessary truths in belief revision. Does the revisability of belief in \(p\) require the revisability or falsity of \(p\) itself? It does not.
+
+Consider a necessary logical truth such as:
+
+\[
+P \lor \neg P.
+\]
+
+Under classical semantics:
+
+\[
+\Box(P \lor \neg P).
+\]
+
+An agent may nevertheless cease to believe this sentence. The agent may suffer a cognitive failure, adopt a nonclassical logic, misunderstand the sentence, or encounter reasons to revise the logical framework within which the sentence is formulated. None of these possibilities makes \(P \lor \neg P\) false under classical semantics. They concern the agent’s doxastic state and conceptual practices.
+
+This distinction can be represented by using an epistemic or doxastic operator \(B\), rather than the alethic necessity operator \(\Box\):
+
+\[
+\Box T
+\]
+
+does not entail:
+
+\[
+\Box B(T),
+\]
+
+nor does it entail:
+
+\[
+B(T) \rightarrow \Box B(T).
+\]
+
+A necessary truth need not be necessarily believed. Indeed, there may be worlds in which a person does not believe a necessary truth, even though the truth remains necessary. The relevant revision claim is therefore:
+
+\[
+\forall p(S(p) \rightarrow \Diamond \neg B(p)),
+\]
+
+not:
+
+\[
+\forall p(S(p) \rightarrow \Diamond \neg p).
+\]
+
+The former is epistemically intelligible; the latter is incompatible with necessary truths.
+
+The phrase “on the basis of good reasons” introduces a normative dimension. Rational revision is not just any change in belief. An agent can abandon a belief arbitrarily, through fatigue or confusion, without having revised it rationally. A robust version of universal revisability would say:
+
+\[
+\forall p(S(p) \rightarrow \Diamond G(\neg B(p))),
+\]
+
+where \(G(\neg B(p))\) means that there could be good reasons for no longer believing \(p\). This claim is stronger than mere psychological fallibility but weaker than possible falsity.
+
+Can there be good reasons to stop believing a necessary truth? There are several possibilities.
+
+One possibility is that the agent receives a defeater for the belief without receiving evidence that the proposition is false. For example, the agent may discover that the apparent proof depended on an invalid inference. The appropriate response may be suspension of judgment rather than belief in the negation. This is belief revision in a broad sense, even though the proposition remains true.
+
+A second possibility is a change in logical or conceptual framework. Quine’s point about logic is not necessarily that classical logical truths become false within classical semantics. Rather, a theorist may revise the logical apparatus used to formulate and organize theories. Such a change can alter which inferential principles are accepted as governing the theory. Again, the revision concerns the role of a sentence or rule within a conceptual scheme, not its metaphysical falsity under a fixed interpretation.
+
+A third possibility is that the sentence is ambiguous, context-sensitive, or theory-laden. What appeared to be a necessary truth may have expressed a principle whose content depends on an underlying language or formal framework. In that case, revising the framework may change what is being asserted. The original proposition need not become false; the sentence may cease to express the same proposition.
+
+Belief revision theory helps clarify the point. In a classical AGM framework, a belief set \(K\) is typically deductively closed. Since all logical truths belong to every classically closed belief set, logical truths are not ordinarily removed by standard revision. If an agent receives information inconsistent with a logical truth, the problem is not resolved by ordinary revision within classical logic. One must either reject the incoming information, revise the background logic, weaken deductive closure, or permit inconsistency.
+
+This does not refute Quine. It shows that different revision frameworks encode different commitments about logical truths. Standard AGM revision often treats logical truths as maximally entrenched. Quine’s holism challenges the philosophical necessity of that entrenchment, but a change in logic is more radical than a routine update of empirical belief. There is a hierarchy of revisions: changing a peripheral empirical claim is different from changing a central physical law, and changing logic is different again. Universal revisability need not deny these differences. It denies only that any sentence is absolutely beyond criticism.
+
+Good reasons therefore operate within a structure of comparative entrenchment. A proposition may be revisable in principle while being extremely difficult to revise rationally. “Not immune” does not mean “equally likely to be abandoned,” “easily revisable,” or “permanently unstable.” The distinction between absolute immunity and practical entrenchment is indispensable. Logical truths may be held with the highest degree of confidence while remaining, in a broad methodological sense, open to revision.
+
+## 6. Does Universal Revisability Generate a Paradox?
+
+It is useful to distinguish three different charges: inconsistency, falsehood, and paradox.
+
+The alethic narrow-scope thesis is inconsistent with the existence of necessary truths. If both are asserted, the theory contains a proposition \(T\) such that:
+
+\[
+\Box T
+\]
+
+and:
+
+\[
+\Diamond \neg T.
+\]
+
+The wide-scope thesis is likewise inconsistent with necessary truths, because it entails a possible world in which \(\neg T\) holds.
+
+If necessary truths are independently accepted and universal revisability is offered as a substantive hypothesis, then the hypothesis is false rather than logically self-contradictory in isolation. A false statement is not automatically paradoxical. The paradoxical appearance arises because the thesis presents itself as an unrestricted methodological principle while its unrestricted form is refuted by the modal structure it presupposes.
+
+There is also a pragmatic or methodological paradox. If every statement is revisable, then the thesis itself is revisable. But if one has good reasons to revise it, must one continue to accept it? No. A methodological principle need not be self-exempting. Fallibilism is often self-applicable: the claim that all beliefs are fallible may itself be fallible. That does not create a formal contradiction. It creates a condition of intellectual modesty.
+
+The real danger is not self-reference but equivocation. “Revision” can mean at least four things:
+
+1. abandoning belief in a proposition;
+2. suspending judgment about it;
+3. changing the sentence’s meaning or theoretical role;
+4. accepting its negation.
+
+Only the fourth straightforwardly implies that the proposition is treated as false, and only the fourth conflicts directly with necessary truth. Quine’s thesis is plausible under the first three readings and implausible under the fourth. The formal paradox is thus generated by an overly strong interpretation.
+
+## 7. Can Ad Hoc Exceptions Solve the Problem?
+
+A common response is to restrict universal revisability by exempting certain statements. One might propose:
+
+\[
+\forall p((S(p) \land \neg N(p)) \rightarrow \Diamond \neg p),
+\]
+
+where \(N(p)\) means that \(p\) is necessary. Alternatively, one might exempt logical truths, analytic truths, identity statements, or the principles of the relevant modal logic.
+
+This move blocks the contradiction. If necessary truths fall outside the scope of the universal quantifier, the thesis no longer implies \(\Diamond \neg T\). The resulting principle is consistent:
+
+\[
+\forall p(S(p) \land \text{contingent}(p) \rightarrow \Diamond \neg p).
+\]
+
+But the price is substantial. The restricted thesis no longer says that no statement is immune. It says that no contingent statement is immune. That is a much weaker and more traditional doctrine. It leaves untouched precisely the class of truths Quine intended to challenge.
+
+Moreover, an exception for necessary truths can appear ad hoc if its sole purpose is to avoid the contradiction. Why should logical truths be exempt from revision while empirical laws are not? If the answer is that logical truths are necessary, then the proposal has simply abandoned the alethic version of universal revisability. If the answer is that they are maximally entrenched, then the exception is epistemological rather than logical, and it requires an independent account of why their entrenchment is absolute.
+
+There are also self-application problems. If the restricted principle is itself a statement, is it exempt? If it is not exempt, then it may be revised, perhaps in favor of an even more restricted principle. If it is exempt, the theory contains at least one immune statement, and the original universal thesis is false. A principle that declares itself uniquely unrevisable is especially unattractive, since it seems to violate the spirit of the view it articulates.
+
+Ad hoc exceptions can nevertheless be legitimate if they arise from a principled theory. For example, a philosopher might argue that logical truths are constitutive rules rather than ordinary propositions, or that the modal framework itself is not one more statement within the framework. Such distinctions could explain why certain items are treated differently. But this would not preserve Quine’s original unrestricted slogan. It would produce a structured theory of revision with different classes of commitment and different standards of vulnerability.
+
+A more sophisticated revisionist position might replace immunity with degrees of entrenchment. Let \(E(p)\) represent the epistemic entrenchment of \(p\). Instead of saying that some propositions are unrevisable, one could say:
+
+\[
+\forall p(S(p) \rightarrow E(p)<\infty),
+\]
+
+while allowing some propositions to have extraordinarily high entrenchment. This captures the idea that no proposition is absolutely beyond criticism, without requiring every proposition to be equally easy to abandon. Logical truths may have the highest entrenchment available in the system while remaining revisable under sufficiently radical reasons.
+
+The difficulty is that if the system is classically closed, logical truths may function as structural constraints rather than ordinary members of the belief set. To revise them, one may need to revise the logic or semantics governing the system. That is not an ad hoc exception; it is a principled distinction between internal and framework-level revision. But again, the thesis becomes one about the possibility of changing frameworks, not about the possible falsity of every proposition within one fixed framework.
+
+## 8. The Better Resolution: Separate Modalities
+
+The most convincing resolution is to distinguish at least three modalities:
+
+- alethic necessity, represented by \(\Box\);
+- epistemic possibility, represented perhaps by \(\Diamond_E\);
+- doxastic or rational revisability, represented by an operator such as \(R_G\).
+
+The invalid translation is:
+
+\[
+R_G(p) \equiv \Diamond \neg p.
+\]
+
+The more plausible translation is:
+
+\[
+R_G(p) \equiv \Diamond_E \text{(there are good reasons to cease believing \(p\))}.
+\]
+
+Or, using a doxastic operator:
+
+\[
+\forall p(S(p) \rightarrow \Diamond_E \neg B(p)).
+\]
+
+There is no contradiction in asserting both:
+
+\[
+\Box T
+\]
+
+and:
+
+\[
+\Diamond_E \neg B(T).
+\]
+
+The first says that \(T\) is true in every metaphysically possible world. The second says that there is an epistemically possible situation in which an agent does not believe \(T\), perhaps rationally because the agent’s evidence or conceptual scheme has changed. The modalities have different accessibility relations and different standards of evaluation. S5 principles governing \(\Box\) do not automatically govern \(\Diamond_E\) or \(R_G\).
+
+This distinction also makes sense of Quine’s holism. A sentence’s role in a theory can be altered by changes elsewhere in the theory. Even logical principles can be reconsidered as part of a revision of the total conceptual scheme. Yet the fact that a sentence can be removed from a theory does not entail that the proposition expressed by it can be false. What is revised may be the sentence’s acceptance, inferential role, meaning, or theoretical function.
+
+The price of this resolution is that Quine’s slogan must be reformulated. Instead of:
+
+> No statement is possibly false only in the sense that every statement is alethically contingent,
+
+we should say:
+
+> No statement is beyond rational reconsideration, where reconsideration may involve suspension, reinterpretation, altered inferential role, or rejection within a revised framework.
+
+This version is less dramatic but philosophically more defensible. It preserves the anti-foundational insight that our commitments form a revisable network. It also recognizes that the network contains structural commitments whose revision is more difficult and more transformative than ordinary empirical revision.
+
+## Conclusion
+
+Universal revisability generates a genuine formal difficulty when interpreted within alethic modal logic S5. On the narrow-scope reading,
+
+\[
+\forall p(S(p) \rightarrow \Diamond \neg p),
+\]
+
+every statement is possibly false. If \(T\) is a necessary truth, then \(\Box T\) entails \(\neg \Diamond \neg T\), while universal revisability entails \(\Diamond \neg T\). The result is contradiction.
+
+On the wide-scope reading,
+
+\[
+\Diamond \forall p(S(p) \rightarrow \neg p),
+\]
+
+there is one possible world in which every statement is false or revisable into falsity. A necessary truth again blocks this possibility. The wide-scope reading is even stronger and produces a global version of the same conflict. S5 makes the incompatibility especially clear because necessary truths remain invariant throughout the relevant accessibility structure.
+
+These arguments demonstrate that universal revisability cannot coherently mean that every proposition is alethically contingent. But they do not refute Quine’s epistemological thesis. Necessary truths can remain necessary while beliefs in them are abandoned, suspended, or reinterpreted. Good reasons for revision may undermine an agent’s justification, expose a defective proof, reveal an ambiguity, or motivate a change in logical framework without making the necessary proposition false.
+
+Restricting the thesis by ad hoc exceptions can avoid contradiction, but it does so by abandoning its unrestricted form. Exceptions for logic, mathematics, or the thesis itself are legitimate only if supported by a principled account of their special status. Otherwise they merely conceal the problem. The preferable solution is not to declare some statements absolutely immune, but to distinguish alethic necessity from epistemic revisability and to recognize degrees of rational entrenchment.
+
+Quine’s slogan is therefore defensible only after a modal and epistemological clarification. No statement need be absolutely immune from rational reconsideration. But it does not follow that every statement could be false. Universal revisability is a thesis about the fallibility and holistic organization of belief, not a denial of necessary truth. Once that distinction is respected, the apparent paradox dissolves: the necessary truth remains necessary, while the thinker remains capable—sometimes rationally capable—of revising the belief.

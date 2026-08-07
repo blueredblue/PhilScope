@@ -1,0 +1,149 @@
+# The Ontological Threshold and the Scandal of Faith: Nathan Andersen’s Critique of Heideggerian Theology
+
+## Introduction: The Threshold of Philosophy and Faith
+
+In his 1927 lecture course *Phenomenology and Theology*, Martin Heidegger staked out a programmatic and provocative claim: theology, as a positive science of the Christian faith, requires an ontological foundation that it cannot provide for itself. For Heidegger, theology is an *ontic* science, dealing with a specific, historically conditioned domain of beings—namely, the Christian event of faith and the reality of the Christian as such. Yet, like all positive sciences, theology operates within a conceptual framework that remains blind to the horizon of Being itself. To attain genuine scientific rigor, theology must ground its fundamental concepts not in its own dogmatic assumptions, but in a pre-theological ontology: the analytic of *Dasein*. 
+
+This methodological subordination of theology to philosophy immediately sparks a profound tension. If philosophy, in its radical interrogation of Being, is fundamentally *atheism*—as Heidegger famously declared—how can it serve as the handmaid to a discipline whose very lifeblood is the living relation to God? Can an explicitly non-faithful, secular ontological analysis of *Dasein* as "thrown projection" and essential "Being-guilty" (*Schuldigsein*) account for the deeply personal, relational, and vertical realities of theological phenomena, such as creaturely guilt before a holy God and the transformative, creative event of the divine Word? 
+
+In his critical engagement with Heidegger, philosopher Nathan Andersen interrogates this precise intersection, challenging the legitimacy of Heidegger’s ontological corrective. Andersen highlights the profound risk that Heidegger’s project poses to theology: by translating the existential categories of faith into the formal-indicative structures of a secularized *Dasein*, Heidegger arguably flattens the vertical transcendence of the divine into the horizontal finitude of human existence. 
+
+This essay will evaluate Nathan Andersen’s critique of Heidegger’s claim that theology must ground its conceptual understanding in a pre-theological ontology. By examining the structural dynamics of *Dasein*, the nature of Heideggerian "Being-guilty," and the status of philosophy as methodological atheism, we will assess whether an explicitly non-faithful ontology can truly capture theological phenomena without domesticating faith, and whether theology can ever borrow its conceptual tools from a philosophy that denies its foundational premise.
+
+---
+
+## Part I: The Heideggerian Propaedeutic—Ontic Science and Ontological Correction
+
+To understand Heidegger’s provocation, one must first grasp his rigorous taxonomy of knowledge in the late 1920s. In *Phenomenology and Theology*, Heidegger distinguishes between philosophy and the positive sciences. A positive science is characterized by its regional focus; it investigates a circumscribed realm of beings (e.g., nature in physics, history in historiography, language in linguistics). Theology, in this schema, is a positive science. Its ontic domain is Christianity—not as a timeless essence, but as a specific mode of human existing that has been historically disclosed through the event of the cross and the proclamation of the kerygma. 
+
+Theology investigates this domain not to produce neutral historical data, but to articulate the Christian event of faith from within faith itself. Because it is a science, it must conceptualize its object. But here lies the epistemological crisis: where does theology get its fundamental concepts? Historically, theology has borrowed its conceptual frameworks from prevailing metaphysical systems—Platonism, Aristotelianism, Kantianism, or Hegelianism. For Heidegger, this borrowing is disastrous. Metaphysics operates on the level of beings (*ontically*) rather than the level of Being (*ontologically*). Metaphysics conceives of God as the *causa sui*, the highest being, or the ground of beings, thereby missing the radical alterity of Being and reducing the divine to an object within the ontic horizon.
+
+Heidegger’s solution is the phenomenological destruction of the history of ontology and the subsequent construction of the fundamental ontology of *Dasein*. *Dasein* is that entity for which, in its Being, that Being is an issue. It is the entity characterized by understanding Being. Therefore, before theology can articulate what it means to be a "Christian," it must first understand what it means to be *human*—or more precisely, what it means for *Dasein* to exist. 
+
+This is where the pre-theological ontology of *Dasein* enters as a corrective. The ontological structure of existence—comprising thrownness (*Geworfenheit*), projection (*Entwurf*), falling (*Verfallen*), and anticipation unto death—forms the formal framework within which any ontic phenomenon must be understood. Faith, for Heidegger, is an existing possibility of *Dasein*. It is a modification of existence. Consequently, the theological concepts of sin, grace, justification, and salvation are ontic transformations of fundamental existential structures. For instance, sin is not merely a moral transgression against an abstract law; it is an ontic modification of *Dasein’s* ontological structure of "Being-guilty." 
+
+Heidegger argues that philosophy, as fundamental ontology, remains radically *atheism*. By this, he does not necessarily mean a militant denial of God's existence, but a methodological suspension of ontic theological claims. Philosophy must perform its work without presupposing the reality of God, revelation, or faith. It must remain purely within the horizon of finitude, interrogating the a priori structures of *Dasein* as it is thrown into the world and faces its ownmost death. 
+
+It is precisely this methodological atheism that creates the foundational friction with theology. If philosophy is methodologically atheistic, can it adequately interpret a reality—faith—whose entire coherence depends upon the living, transcendent God?
+
+---
+
+## Part II: Nathan Andersen’s Critique and the Vulnerability of Theology
+
+Nathan Andersen’s critique of Heidegger cuts to the heart of this methodological maneuver. Andersen explores the profound difficulty that arises when a secularized ontology attempts to legislate the conceptual terms of a faith-based existence. The central danger, as Andersen diagnoses it, is that Heidegger’s ontological corrective does not merely purify theology of bad metaphysics; it surreptitiously *substitutes* the vertical, transcendent reality of God with the horizontal, immanent finitude of *Dasein*.
+
+### The Immanentization of Transcendence
+
+In Heidegger’s analytic, every existential structure is rigorously tethered to the horizon of temporality and finitude. *Dasein* is characterized by being-towards-death (*Sein zum Tode*). Death is the ownmost, non-relational, unsurpassable possibility of *Dasein*. When theology attempts to utilize this framework, it must translate its concepts into this existential-ontological language. 
+
+Andersen points out that this translation risks a fatal reduction. In Christian theology, the horizon of existence is not merely death, but God. The ultimate definition of the human being is not simply a creature thrown into mortality, but a creature created in the *imago Dei*, standing before a living Creator, redeemed by a historical incarnation, and oriented toward an eternal communion that transcends earthly finitude. By insisting that ontology must precede theology, Heidegger demands that theology view its central mysteries through a lens that structurally excludes the transcendent. 
+
+If ontology is "atheistic" by method, then any theological concept translated into ontological terms is stripped of its vertical dimension. Grace ceases to be an unmerited, supernatural intervention of a transcendent God and becomes an ontological modification of *Dasein’s* self-understanding—a shift from inauthentic dispersion to authentic resoluteness. Sin ceases to be a cosmic rebellion against divine holiness and becomes the ontic expression of *Dasein’s* constitutive "not" (*Nichtigkeit*) and entanglement in the "They" (*das Man*). 
+
+Andersen argues that this is not a neutral, pre-theological foundation; it is a substantive philosophical commitment that carries its own metaphysical (or anti-metaphysical) baggage. By adopting Heidegger’s ontology, theology does not escape philosophy; rather, it submits to a specific philosophical anthropology that is inherently secular and finite. 
+
+### The Circularity of Faith and Reason
+
+Furthermore, Andersen addresses the complex epistemological loop this creates. Theology, beginning and ending in faith, finds its origin in the kerygma—the proclamation of the Gospel. This proclamation is an event that addresses *Dasein* from the outside, shattering its immanent self-understanding and calling it into a new creation. 
+
+If theology must ground its conceptual understanding in a pre-theological ontology, it appears to invert the proper order of Christian witness. It makes philosophy the master and theology the servant, subordinating the living voice of faith to the silent, structural a priori of human finitude. Andersen questions whether a theology that performs this submission can retain its necessary relation to faithful existence. Can a believer pray to, worship, and love an ontological structure? Can a soul find redemption in a "formal indication"? 
+
+The scandal of faith is precisely that it breaks through the immanent possibilities of *Dasein*. Faith is not merely a heightened state of authentic self-understanding; it is the reception of an alien righteousness (*justitia aliena*), a gift given *extra nos* (outside of us). Andersen’s critique suggests that Heidegger’s ontology is fundamentally unequipped to handle this *extra nos*, because *Dasein* is radically turned inward upon its own being, even in its transcendence. Even when *Dasein* projects itself onto possibilities, those possibilities are *its own*. The theological category of revelation, however, introduces a possibility that *Dasein* could never project, anticipate, or conceptualize from its own ontological constitution.
+
+---
+
+## Part III: The Crucial Test Case—"Being-Guilty" (*Schuldigsein*) and Creaturely Guilt
+
+To evaluate the weight of Andersen’s critique, we must examine a specific point of contact between Heideggerian ontology and Christian theology: the concept of "Being-guilty" (*Schuldigsein*). This concept serves as one of the most brilliant intersections of Heidegger’s *Being and Time* and traditional Christian theological anthropology. Yet, it also reveals the profound chasm separating secular ontology from theology.
+
+### Heideggerian *Schuldigsein*
+
+In Division Two of *Being and Time*, Heidegger undertakes a phenomenological destruction of the concept of guilt. Ordinarily, guilt is understood ontic-juridically: someone is guilty if they have violated a moral law, a social norm, or an interpersonal obligation, thereby owing a debt or deserving punishment. 
+
+Heidegger strips away this ontic, moralistic crust to reveal the ontological structure of guilt. *Dasein* is essentially guilty at the root of its being, quite apart from any specific moral transgression. Why? Because *Dasein* is thrown into existence without its own consent. It is the ground of a nullity (*Grundsein einer Nichtigkeit*). *Dasein* is not the ground of its own Being; it finds itself already here, burdened with possibilities it did not choose, and tasked with projecting itself into a future that is fraught with limitation. 
+
+Furthermore, in choosing one possibility, *Dasein* necessarily suppresses or passes over myriad other possibilities. This constitutive inability to realize all potentials, combined with the fact that *Dasein* is fundamentally responsible for a Being that it did not author, constitutes the ontological condition of *Schuldigsein*. Guilt, in this sense, is not an infraction against a lawgiver; it is the very structure of finite existence. To be authentic is to resolutely face up to this Being-guilty, to take over one’s thrownness, and to exist as a designated-for-death.
+
+### The Theological Divergence: Sin and Grace
+
+How does this ontological "Being-guilty" relate to the theological phenomenon of man’s guilt before God? At first glance, the parallels are striking. Rudolf Bultmann and other existential theologians seized upon Heidegger’s analysis to revitalize Christian preaching, arguing that Heidegger had uncovered the formal structure of what the New Testament calls "sin" (*hamartia*). 
+
+However, Nathan Andersen, following the grain of deeper theological resistance, exposes the radical discontinuity hidden beneath this structural similarity. 
+
+1. **The Direction of the Relationality:** In Heidegger, *Schuldigsein* is an immanent relation of *Dasein* to *itself* and its own possibilities. The "nullity" at the heart of *Dasein* is a structural lack within human finitude. In contrast, Christian guilt is fundamentally *relational and vertical*. It is not merely an awareness of finitude or an inability to actualize all potentials; it is an offense against a personal, holy God. The psalmist cries out, "Against you, you only, have I sinned and done what is evil in your sight" (Psalm 51:4). This is an ontic, personal accountability to an absolute Thou, not an ontological realization of a structural "not."
+2. **The Source of the Debt:** In Heideggerian ontology, *Dasein* owes nothing to an external Creator; its debt is to the very condition of having been thrown into a finite existence. In theology, human guilt is compounded by willful rebellion against a benevolent Creator. It is moral and spiritual transgression, not merely ontological finitude. To conflate creaturely finitude with moral sin is, from a theological perspective, to excuse human responsibility and blame God (as the author of thrownness) for human wickedness.
+3. **The Resolution:** For Heidegger, the resolution of *Schuldigsein* is authentic resoluteness (*Entschlossenheit*). *Dasein* faces its death, accepts its thrownness, and resolutely takes up its existence. Salvation is a self-achieved transformation of attitude. In Christian theology, however, human guilt cannot be resolved by human resoluteness. No amount of authentic self-projection can bridge the infinite qualitative distinction between a holy God and a sinful human being. Guilt can only be resolved by divine forgiveness, propitiation, and the unmerited grace of the cross—a reality that originates *extra nos*, entirely outside the structural capacities of *Dasein*.
+
+Andersen’s critique thus illuminates the violence done to theology when it adopts Heidegger’s "Being-guilty." By translating sin into *Schuldigsein*, theology is forced to abandon the personal God who judges and redeems, replacing Him with an impersonal horizon of Being that merely demands authentic resoluteness in the face of death.
+
+---
+
+## Part IV: The Word, Proclamation, and the Limits of "Thrown Projection"
+
+A similar tension emerges when we examine the theological phenomenon of the Word—specifically the divine Word of proclamation, revelation, and creation—in relation to Heidegger’s concept of *Dasein* as "thrown projection" (*Geworfener Entwurf*).
+
+### The Heideggerian Word (*Rede* and *Logos*)
+
+In *Being and Time*, language (*Sprache*) and discourse (*Rede*) are grounded in the existential analytic of *Dasein*. *Rede* is the existential-ontological foundation of language. It is the articulation of intelligibility. Things matter to *Dasein* beforehand within a totality of significance (*Bedeutsamkeit*), and discourse articulates this prior understanding. 
+
+Crucially, language for Heidegger is an expression of *Dasein’s* thrown projection. *Dasein* uses language to articulate its world, to share its state-of-mind (*Befindlichkeit*), and to project its possibilities. Even when language addresses us, within the Heideggerian framework, it operates within the horizon of human meaning-making and historical disclosure.
+
+### The Theological Word: Creation *Ex Nihilo* and Kerygma
+
+In contrast, the theological Word—the Word of God—fundamentally reverses this directionality. In the biblical tradition, the Word does not emerge from the linguistic capacities or projective horizons of human *Dasein*. Rather, the Word creates *Dasein*. "By the word of the Lord the heavens were made" (Psalm 33:6). The Word of God is an event of absolute transcendence that breaks into the closed economy of human immanence.
+
+In the kerygma—the proclamation of the Gospel—the Word addresses human beings not as a confirmation or clarification of their pre-understandings, but as a radical judgment and a completely new beginning. It says to the sinner: "You are forgiven," and to the dead: "Lazarus, come forth." This Word calls into existence things that do not exist (*Rom. 4:17*).
+
+If theology accepts Heidegger’s framework, where language is always an articulation of *Dasein’s* thrown projection, how can it account for the radically objective, unprojectable character of the divine Word? 
+
+Nathan Andersen’s critique suggests that an explicitly non-faithful ontological analysis of *Dasein* as thrown projection is structurally incapable of accounting for the creative existence of the Word. For Heidegger, a "projection" is always an extrapolation of *Dasein’s* own possibilities. Even when *Dasein* encounters the unexpected, that unexpectedness is encountered on the basis of a prior understanding of Being. 
+
+The divine Word, however, shatters all prior understandings of Being. It introduces a possibility that is not latent in human existence, nor is it an authentic modification of mortal finitude. It is an alien invasion of grace. When theology attempts to conceptualize the Word through the Heideggerian lens of *Rede* as the articulation of thrown projection, the Word is inevitably reduced to a subjective event of human self-disclosure—a moment where the human being achieves a profound realization of authenticity through language. The living God who speaks from the burning bush, from the whirlwind, and from the empty tomb is silenced, replaced by the silent, brooding mystery of Being itself.
+
+---
+
+## Part V: Can Theology Achieve Conceptual Understanding Through Philosophy While Remaining Within Faith?
+
+We have arrived at the core philosophical and theological question that animates Andersen’s critique: **Can theology achieve conceptual understanding through philosophy while remaining within faith?**
+
+To answer this, we must navigate between two extremes: 
+1. **Fideism**, which rejects all philosophy as hostile to faith and insists on an insulated, purely biblical vocabulary.
+2. **Rationalism/Reductionism**, which subjects theology entirely to a philosophical master-system, dissolving the transcendent mysteries of faith into immanent categories of human existence.
+
+Heidegger claimed that his ontology was not a master-system that dictates theological content, but a *formal indication* (*Formale Anzeige*). A formal indication is a methodological tool that points toward a concrete domain of experience without prescribing its specific, ontic details. Heidegger argued that his analytic of *Dasein* merely clears the formal clearing (*Lichtung*) in which theological phenomena can show themselves in their proper ontological rigor, without smuggling in obsolete Greek metaphysics.
+
+Can we defend Heidegger against Andersen by appealing to this notion of the "formal indication"? 
+
+### The Defense of Formal Indication
+
+Proponents of a Heideggerian-informed theology (such as early Bultmann, or later post-liberal and postmodern theologians who engage with continental thought) argue that philosophy is an unavoidable necessity. Every time a theologian opens their mouth, they use concepts, grammar, and categories that are historically situated and philosophically conditioned. To refuse philosophy is not to be purely biblical; it is to remain unconscious of one’s own philosophical presuppositions.
+
+From this perspective, Heidegger’s ontology does not dictate *what* faith believes; it merely provides the grammar of *how* human existence receives that belief. Just as modern physics does not dictate what a theologian believes about creation, but provides the cosmological framework, so too fundamental ontology provides the existential framework. If faith happens to *Dasein*, then understanding *Dasein* is the indispensable propaedeutic for understanding how faith takes hold of a human life. 
+
+### Andersen’s Counter-Strike: The Inherent Bias of Formal Categories
+
+Nathan Andersen’s critique, however, exposes the profound limits of this defense. A formal indication is never truly empty or neutral. The formal structures of *Dasein*—thrownness, anxiety, being-towards-death, and resoluteness—are already heavily weighted with a specific metaphysical narrative: the narrative of absolute finitude.
+
+When Heidegger formally indicates existence, he indicates an existence bounded by nothingness, unredeemed by any transcendent horizon, and closed off from the supernatural. To pour theological content into these formal categories is like pouring new wine into old wineskins that have a pre-existing structural leak. The ontological categories of *Dasein* are calibrated to a secular, post-Christian horizon where "God is dead" (in the ontic-cultural sense) or where the question of God is suspended.
+
+Therefore, when theology borrows these tools, it inevitably imports the secular presuppositions embedded within them. Theology cannot utilize Heidegger’s analysis of *Dasein* and essential "Being-guilty" without undergoing a profound conceptual mutation. The vertical, personal, and gracious dimensions of faith are flattened into horizontal, impersonal, and immanent structures of human self-understanding.
+
+### Resolving the Tension: A Critical Retrieval
+
+Can theology achieve conceptual understanding through philosophy while remaining within faith? The answer, mediated through Andersen’s rigorous critique, is a qualified **yes, but only through a posture of radical suspicion and subversion, rather than passive submission.**
+
+Theology cannot dispense with philosophy; conceptual labor is inherent to the theological task (as Augustine, Aquinas, and Barth all recognized, albeit in vastly different ways). But theology must exercise a sovereign discernment regarding which philosophies it employs. 
+
+If theology engages with Heidegger, it must do so not by submitting to his fundamental ontology as a neutral foundation, but by recognizing Heidegger’s thought as a powerful diagnostic tool for the *fallen, immanent condition of human existence*. Heidegger’s *Dasein* does not describe the human being as created in the image of God; rather, *Dasein* brilliantly describes human existence *fallen into the world*, estranged from its Creator, trapped in the "They," and desperately facing the abyss of its own mortality without God. 
+
+In this sense, Heideggerian ontology can function for theology not as a foundational *ground*, but as a mirror of human misery—an articulation of what existence looks like *apart* from grace. But when theology attempts to build its doctrine of redemption, faith, and the Word upon that same ontological foundation, it commits a category mistake. It builds a cathedral on a seismic fault line.
+
+---
+
+## Conclusion: The Impossibility of Neutral Ground
+
+Nathan Andersen’s critique of Martin Heidegger’s theological propaedeutic reminds us that there is no view from nowhere. Philosophy is never a neutral, pre-theological clearing that simply waits for theology to populate it with pious content. Heidegger’s fundamental ontology is deeply marked by its own commitments to finitude, temporality, and methodological atheism.
+
+The tension between Heidegger’s philosophical program and Christian theology is insurmountable if theology permits philosophy to define its horizons. When theology adopts the Heideggerian analysis of *Dasein* as thrown projection and essential "Being-guilty," it risks domesticating the radical transcendence of God, reducing creaturely sin to structural finitude, and transforming the creative, life-giving Word of divine grace into an immanent event of human authenticity.
+
+Yet, Andersen’s critique does not merely invalidate philosophical theology; it rescues true theological integrity. It forces theology to remember its unique starting point: faith begins and ends not in the existential a prioris of human *Dasein*, but in the living, self-revealing God who speaks *extra nos*. While theology can utilize philosophical concepts as critical instruments, it can never allow philosophy to be its master. For the God of Christian faith is not an ontological structure to be uncovered by phenomenological destruction, but the living Lord who shatters all our ontological frameworks, calling us out of our self-enclosed projections and into the marvelous light of His unmerited grace.

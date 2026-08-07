@@ -1,0 +1,163 @@
+# The Necessity of the Ground: Armstrong, Higher-Order Truthmaking, and the Non-Necessitarian Dilemma
+
+## Abstract
+Truthmaker necessitarianism, famously championed by David M. Armstrong, asserts that if something is true, there must exist some entity in the ontological inventory whose very existence entails that truth. While intuitively compelling for atomic positive predications, necessitarianism faces severe pressure when confronted with negative existentials and universal generalizations. Non-necessitarians reject this strict entailment, seeking to accommodate truth without ontological over-commitment. However, this essay argues that non-necessitarians face a fatal dialectical vulnerability regarding the truthmakers of *higher-order truthmaking facts*. If the fact that $T$ makes $P$ true is itself a truth, what makes *that* fact true? By tracing the mechanics of higher-order truthmaking, I demonstrate that non-necessitarians are forced into a vicious, infinite regress of contingent truthmakers unless they abandon their anti-necessitarian scruples, thereby collapsing into ontological commitments equivalent to those of the necessitarian orthodoxy.
+
+---
+
+## 1. Introduction: The Architecture of Truthmaking
+
+The core intuition behind the truthmaker principle is remarkably simple: truth is not free. Propositions do not hover in a semantic vacuum; for a proposition to be true, the world must cooperate. It must contain that in virtue of which the proposition is true. Formally stated, Truthmaker Maximalism posits that every truth has a truthmaker—some entity $t$ in the ontological inventory such that the existence of $t$ necessitates the truth of $P$. 
+
+Yet, the precise modal strength of the relation between truthmaker and truth has served as the primary fault line in contemporary metaphysics. David M. Armstrong, the high priest of contemporary truthmaker theory, insisted upon *Truthmaker Necessitarianism*:
+
+$$\Box (\exists t(t = \text{TM}(P)) \rightarrow P)$$
+
+In words: necessarily, if $t$ is a truthmaker for $P$, then the existence of $t$ entails $P$. 
+
+While Armstrong’s necessitarianism provides a tidy, robustly realist framework for atomic predication, it incurs staggering ontological costs. To satisfy necessitarianism across the board, Armstrong was driven to posit controversial entities: totality states of affairs to ground negative existentials, and universal properties to anchor universal generalizations. These entities strike many philosophers as *ad hoc* ontological padding—metaphysical epicycles designed merely to save the necessitarian dogma.
+
+Consequently, non-necessitarians have sought to loosen the ties between truth and its makers, arguing that a truthmaker need not *necessitate* its truth. A truthmaker might be sufficient for a truth *in the actual circumstances*, or within a constrained modal range, without entailing it across all possible worlds. 
+
+However, this essay evaluates a neglected dialectical battleground: the problem of *higher-order truthmaking*. It is not enough for a theory of truthmaking to account for first-order truths (such as "Socrates is wise" or "There are no unicorns"). A coherent theory must also account for its own semantic scaffolding—namely, higher-order facts of the form *“$t$ is a truthmaker for $P$.”* 
+
+I will argue that non-necessitarians face a devastating trilemma when confronted with higher-order truthmaking facts. If they treat the truthmaker for the truthmaking relation as contingent, they are immediately snared in a vicious, infinite regress of truthmakers. If they treat it as non-contingent, they violate their own foundational principles. And if they bite the bullet and deny that higher-order truthmaking facts require truthmakers, they abandon the very truthmaker principle they set out to defend. Ultimately, the non-necessitarian cannot escape this regress without collapsing into ontological commitments structurally and quantitatively equivalent to those of Armstrong’s necessitarian orthodoxy.
+
+---
+
+## 2. Armstrong’s Necessitarian Orthodoxy: Mechanics and Motivations
+
+To understand the non-necessitarian deviation, we must first map the precise architecture of Armstrong’s necessitarianism. Armstrong’s motivation is fundamentally *reductive* and *explanatory*. He seeks to anchor semantics in metaphysics, ensuring that truth supervenes upon, and is explained by, being.
+
+For Armstrong, the truthmaker relation ($\text{TM}$) is a strict entailment relation backed by ontological grounding:
+
+$$\text{Necessitarianism (Armstrong): } \forall t \forall P (\text{TM}(t, P) \rightarrow \square(\text{Exists}(t) \rightarrow P))$$
+
+Armstrong defends this position through a battery of thought experiments and combinatorial principles, the most famous of which is the *Pass-the-Buck* argument. If $t$ is a truthmaker for $P$, but the existence of $t$ does not necessitate $P$, then there must be some *additional* factor $Q$ that bridges the gap between $t$’s existence and $P$’s truth. But if $Q$ is required to bridge the gap, then $t$ alone was not the truthmaker; rather, the conjunction $(t \& Q)$ is the true truthmaker. By driving this argument iteratively, Armstrong concludes that any genuine truthmaker must be strong enough on its own to guarantee the truth of the proposition. Anything less is merely a partial ground, an incomplete fragment of a true truthmaker.
+
+The immediate casualties of Armstrong’s necessitarianism are negative existentials and universal generalizations. Consider the proposition $P$: *“There are no blue swans.”* 
+If Armstrong insists that $P$ requires a truthmaker, and that this truthmaker must necessitate $P$, then the mere existence of all actual blue-free things (swans that are white, black, etc.) is insufficient. In some possible world, a blue swan might pop into existence. Therefore, the actual particulars do not necessitate the *absence* of blue swans.
+
+To rescue necessitarianism, Armstrong introduced the *Totality Fact* (or *That’s-All Fact*). The truthmaker for $P$ is not merely the collection of particulars $a, b, c$, but the complex state of affairs: *that $a, b,$ and $c$ are all the particulars there are*. This totality fact—symbolized as $\text{Total}(X)$—does necessitation work. Given the totality fact, it is metaphysically impossible for there to be any other particulars, thereby guaranteeing that no blue swans exist.
+
+Similarly, for universal generalizations (*“All ravens are black”*), Armstrong deploys a conjunction of particular states of affairs conjoined with a totality fact, or he appeals to uninstantiated universal properties standing in structural relations. 
+
+Critics have long argued that Armstrong’s ontology is bloated with spooky entities: totality states of affairs look like Cambridge-style hacks, and uninstantiated universals resemble Platonic forms smuggled into an otherwise naturalistic, immanent framework. It is precisely this ontological bloating that inspires the non-necessitarian rebellion.
+
+---
+
+## 3. The Non-Necessitarian Rebellion: Loosening the Tie
+
+Non-necessitarians—such as D.H. Mellor, Greg Restall, Jc Beall, and more recently, contingent truthmaker theorists—propose to sever the conceptual link between truthmaking and strict entailment. They argue that Armstrong’s demand for necessitating truthmakers rests on an illicit modal imperialism: the unwarranted assumption that all grounding relations must operate with the modal force of logical or metaphysical necessity.
+
+The non-necessitarian framework can be formulated as:
+
+$$\text{Non-Necessitarianism: } \exists t \exists P (\text{TM}(t, P) \land \neg \square(\text{Exists}(t) \rightarrow P))$$
+
+How do non-necessitarians account for negative existentials and universal generalizations without positing Armstrong’s totality facts?
+
+1. **Supervenience-Based Truthmaking:** Non-necessitarians often appeal to global supervenience. A negative existential like *“There are no unicorns”* does not require a positive spooky entity (a totality state of affairs) to make it true. Instead, the truth of the proposition supervenes upon the totality of *positive* facts in the world, without any single positive fact (or conjunction thereof) necessitating the absence of unicorns. The world’s being *just so* makes it the case that there are no unicorns, even though the world *could* have been otherwise (i.e., it could have contained unicorns).
+2. **Entailment via Absence:** Some non-necessitarians argue that absences or negative states of affairs can be truthmakers, but they reject the idea that these truthmakers must be robust, positive existents. Alternatively, they suggest that truthmaking is a relation that holds contingently: $t$ makes $P$ true in world $W$, but $t$ exists without making $P$ true in world $W'$.
+
+By dropping necessitarianism, the non-necessitarian achieves an immediate and seductive ontological economy. They no longer need to populate the universe with totality facts, negative properties, or heavy-duty modal glue. The ontology remains sparse, hewing closer to standard nominalist or sparse-realist intuitions.
+
+Yet, this economy comes at a severe dialectical cost. When the non-necessitarian claims that $t$ makes $P$ true *contingently*, they open themselves up to a profound foundational question: **What accounts for the truth of the claim that $t$ makes $P$ true?**
+
+---
+
+## 4. Higher-Order Truthmaking and the Problem of Metasemantic Grounding
+
+To evaluate this vulnerability, we must examine the phenomenon of *higher-order truthmaking*. 
+
+Every theory of truthmaking operates within a semantic framework. Let us designate our first-order truthmaker relation as $\text{TM}_1$. When a non-necessitarian asserts:
+*   ($\alpha$) $t$ makes $P$ true.
+
+$(\alpha)$ is itself a truth. It is a proposition about the relationship between an entity $t$ and a proposition $P$. Therefore, by the lights of the truthmaker principle itself, $(\alpha)$ must have a truthmaker. If Truthmaker Maximalism is correct—and both Armstrong and non-necessitarians accept some version of it—then *every* truth has a truthmaker, including truths about truthmaking.
+
+Let us designate the truthmaker for $(\alpha)$ as $t^*$. This gives rise to a second-order truthmaking fact:
+*   ($\beta$) $t^*$ makes it true that $t$ makes $P$ true ($\text{TM}_2(t^*, \text{TM}_1(t, P))$).
+
+Now, we must ask the pivotal question: **Is the higher-order truthmaking relation between $t^*$ and $(\alpha)$ necessitating or contingent?**
+
+### Case A: The Non-Necessitarian Applies Their Own Doctrine to Higher-Order Truths
+Suppose the non-necessitarian remains consistent. They insist that just as first-order truthmaking is contingent, higher-order truthmaking is *also* contingent. The existence of $t^*$ does not strictly entail $(\alpha)$; $t^*$ makes $(\alpha)$ true in the actual world, but in some counterfactual scenario, $t^*$ exists and yet fails to make $(\alpha)$ true.
+
+If higher-order truthmaking is contingent, then $(\beta)$—the proposition that $t^*$ makes $(\alpha)$ true—is *itself* a truth. Consequently, $(\beta)$ requires *its own* truthmaker, $t^{**}$, leading to a third-order truthmaking fact:
+*   ($\gamma$) $t^{**}$ makes it true that $t^*$ makes it true that $t$ makes $P$ true ($\text{TM}_3(t^{**}, \text{TM}_2(t^*, \text{TM}_1(t, P)))$).
+
+We are instantly launched into an infinite hierarchy of truthmaking facts:
+
+$$\text{TM}_1(t, P) \leftarrow \text{TM}_2(t^*, \text{TM}_1(t, P)) \leftarrow \text{TM}_3(t^{**}, \text{TM}_2(t^*, \text{TM}_1(t, P))) \leftarrow \dots$$
+
+Is this infinite regress vicious? To answer this, we must distinguish between benign (infinitely ascending) regresses and vicious ones. An infinite regress is vicious if it fails to perform the explanatory work it was summoned to do. The entire motivation of truthmaker theory is *explanatory reduction*: to explain *why* a proposition is true by pointing to what makes it true. 
+
+If explaining the truth of $P$ requires positing $t$, and explaining the truth of *“$t$ makes $P$ true”* requires positing $t^*$, and explaining *that* requires $t^{**}$, and so on *ad infinitum*, the theory offers no ultimate metaphysical anchor. The explanatory debt is perpetually deferred to the next level of the hierarchy. We have an infinite chain of contingent bridges, but no solid ground beneath our feet. The non-necessitarian wanted to avoid Armstrong’s ontological bloat at the ground floor, but they have done so by generating an infinite vertical explosion of ontological commitments. Each level requires a new truthmaker for the truthmaking relation of the level below, preventing the truth about truth from ever being fully grounded.
+
+### Case B: The Non-Necessitarian Retreats to Necessitarianism for Higher-Order Truths
+To avoid this infinite regress, the non-necessitarian might be tempted to draw a distinction: first-order truthmaking is contingent, but *higher-order* truthmaking is necessitating. That is, once we have $t^*$ and $(\alpha)$, the existence of $t^*$ *necessitates* $(\alpha)$. 
+
+This move is dialectically catastrophic. It is entirely *ad hoc*. Why should the grounding relation between the world and first-order truths be a loose, contingent affair, while the grounding relation between the world and higher-order semantic truths becomes a rigid, ironclad necessity? 
+
+More deeply, if higher-order truthmaking requires strict necessitation to avoid the regress, it concedes the core metaphysical intuition of Armstrong: that genuine grounding *demands* modal robustness. If necessitarianism is required to make sense of the semantics of truthmaking, the non-necessitarian motivation evaporates. If modal entailment is acceptable at the higher level to secure semantic coherence, rejecting it at the first level looks like an arbitrary gerrymander rather than a principled metaphysical view.
+
+---
+
+## 5. The Structural Collapse into Armstrongian Commitment
+
+Let us press the dialectic further. Suppose the non-necessitarian attempts to halt the infinite regress not by invoking higher-order necessitarianism, but by claiming that higher-order truthmaking facts are *self-grounding* or *internal relations*.
+
+A classic move in relational metaphysics is to argue that certain relations are internal—they supervene entirely upon the intrinsic natures of their relata. For instance, the relation of *being taller than* between two objects $A$ and $B$ does not require a third, distinct relational entity (a "taller-than-ness" trope or fact) to hold between them; it is grounded entirely in the intrinsic heights of $A$ and $B$. 
+
+Could the non-necessitarian argue that $\text{TM}(t, P)$ is an internal relation? If $\text{TM}$ is internal to $t$ and $P$, then the fact that $t$ makes $P$ true requires no *distinct* truthmaker $t^*$. The truthmaker for $(\alpha)$ is simply $t$ and $P$ themselves, taken together (or the state of affairs of $t$ standing in that relation to $P$).
+
+This move appears promising, but it triggers a fatal collision with the non-necessitarian’s initial rejection of Armstrong. 
+
+Consider what it means for $\text{TM}$ to be an internal relation whose holding is strictly determined by the natures of $t$ and $P$. If $t$ and $P$ *internally* determine that $\text{TM}(t, P)$ holds, then in any possible world where $t$ and $P$ exist, $\text{TM}(t, P)$ holds. But this means that the relation between the truthmaker and the truth is *necessary* after all! If the nature of $t$ and $P$ suffices to guarantee the truthmaking relation across all possible worlds, we have covertly reintroduced necessitarianism through the back door of semantic reflexivity.
+
+Furthermore, if we apply this internal relation strategy to Armstrong’s problem children—negative existentials and universal generalizations—the collapse becomes total. 
+*   If *“There are no unicorns”* is made true by the actual particulars $a, b, c$, and the truthmaking relation between $\{a, b, c\}$ and the negative existential is an internal relation, then the intrinsic nature of $\{a, b, c\}$ must *internally necessitate* the absence of unicorns. 
+*   But as we established earlier, a collection of positive particulars cannot internally necessitate the absence of a kind unless their natures somehow include or entail a *totality constraint*—precisely Armstrong’s totality state of affairs.
+
+Thus, to prevent the infinite regress of higher-order truthmaking, the non-necessitarian must treat truthmaking relations as internal and necessitating. But doing so collapses their ontology back into Armstrong’s: to provide internal grounds for negative and universal truths, their ontology must expand to include the very structural facts, totality constraints, and modal linkages they sought to reject. The non-necessitarian ontology becomes indistinguishable from the necessitarian orthodoxy it opposed.
+
+---
+
+## 6. Objections and Counter-Defenses
+
+A sophisticated non-necessitarian will not surrender easily. Let us examine three primary counter-defenses available in contemporary metaphysics and test their robustness against the higher-order regress.
+
+### Objection 1: The "No-Truthmaker" Defense for Higher-Order Truths
+A radical non-necessitarian might bite the bullet and abandon Truthmaker Maximalism *specifically* for higher-order semantic facts. They might argue: *"First-order truths require truthmakers, but higher-order truths—such as truthmaking facts, semantic ascriptions, and modal claims—are 'cheap' or deflationary. They do not require substantial ontological anchors in the world."*
+
+#### Evaluation:
+This defense is internally unstable. Why restrict maximalism? If truth is generally a substantial, correspondence-tied relation that demands ontological grounding, exempting semantic facts is an arbitrary privilege. If semantic facts do not need truthmakers, what prevents *any* troublesome proposition (say, "There are unicorns" or "Moral facts exist") from being declared "cheap" and exempt from truthmaker demands? 
+
+By introducing a dual-regime theory of truth (where some truths need truthmakers and others do not), the non-necessitarian forfeits the austere, systematic elegance that made truthmaker theory attractive in the first place. It turns truthmaker theory from a rigorous metaphysical research program into an ad-hoc triage operation.
+
+### Objection 2: Armstrongian States of Affairs as Relational Complexes
+One might argue that Armstrong’s own system is immune to the higher-order regress because Armstrong treats states of affairs as sui generis, irreducible entities that incorporate their own grounding. For Armstrong, a state of affairs $a$ is F ($\text{Fa}$) is a complex of particular $a$ and universal $F$. Does Armstrong have a ready-made answer for higher-order truthmaking?
+
+#### Evaluation:
+Armstrong is indeed committed to states of affairs comprising truthmakers. For Armstrong, if $t$ makes $P$ true, that very fact is itself a state of affairs: *the state of affairs of $t$ being a truthmaker for $P$*. Because Armstrong is a necessitarian, the existence of this relational state of affairs necessitates both $t$ and $P$. 
+
+Does Armstrong face the infinite regress? Not in a vicious way. For Armstrong, higher-order truthmaking facts are grounded in the same austere, economical manner as first-order states of affairs: they are accepted as part of the fundamental furniture of the world. Because Armstrong embraces necessitarianism at every level of ontological analysis, he does not have to worry about contingent bridges snapping under the weight of higher-order iteration. The non-necessitarian, by contrast, cannot adopt this move without abandoning their central thesis that truthmaking is contingent.
+
+### Objection 3: Williamsonian Necessitarianism and Contingent Truths
+Timothy Williamson has argued that necessitarianism is true not just for truthmakers, but for *all* truths: *everything that is true is necessarily true* (Actualism is false; contingent truths are merely truths from the perspective of a world, but globally necessary). While this extreme necessitarianism is a bridge too far for most philosophers, it highlights a structural truth: modal looseness in metaphysics invariably generates metasemantic instability.
+
+If a non-necessitarian wishes to maintain that $t$ makes $P$ true *contingently*, they must explain the modal variance of the truthmaking relation itself. If $\text{TM}(t, P)$ holds in $W_1$ but fails in $W_2$ (even though $t$ and $P$ both exist in $W_2$), then something in $W_2$ must account for why the relation fails to hold. This forces the non-necessitarian to posit *modal truthmakers*—truthmakers for modal facts—which drags them right back into the ontological maximalism they sought to escape.
+
+---
+
+## 7. Conclusion: The Inescapable Gravity of Necessitarianism
+
+The dialectic between truthmaker necessitarianism and non-necessitarianism is far more than a technical dispute over modal operators and negative facts. It is a fundamental stress-test for the limits of reductive metaphysics.
+
+The non-necessitarian enters the debate bearing an attractive banner: ontological parsimony. By severing the strict tie of necessitarianism, they hope to secure the semantic intuition that the world grounds truth without paying the heavy ontological tax levied by Armstrong—avoiding totality states of affairs, uninstantiated universals, and sprawling structural complexities.
+
+However, when we force the non-necessitarian to account for the semantics of their own theory—specifically, the higher-order truthmaking facts that validate their contingent grounding claims—the facade cracks. 
+*   If they treat higher-order truthmaking as contingent, they are trapped in a vicious, infinite regress of truthmakers that drains the theory of its explanatory power.
+*   If they treat higher-order truthmaking as necessary, their bifurcation of the semantic realm is unjustified and ad hoc.
+*   If they treat truthmaking as an internal relation to escape the regress, they collapse into ontological commitments that structurally mirror Armstrong’s necessitarianism.
+
+Ultimately, the non-necessitarian cannot have it both ways. They cannot use truthmaker theory to anchor semantics in ontology while simultaneously refusing to grant that ontology the robust, necessitating muscle required to bear the weight. The higher-order regress demonstrates that truthmaking, if it is to be a coherent metaphysical relation rather than a loose metaphor, demands modal closure. In seeking to flee Armstrong’s ontological fortress, the non-necessitarian wanders into a desert where truth floats unanchored, and any attempt to build a shelter forces them to reconstruct the very necessitarian architecture they fled. Truthmaker necessitarianism, for all its counter-intuitive extravagances, stands vindicated as the only stable equilibrium for a rigorous metaphysics of truth.
