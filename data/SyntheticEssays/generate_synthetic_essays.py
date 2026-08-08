@@ -18,7 +18,6 @@ from litellm import completion
 
 MODELS_TO_RUN: List[Dict[str, str]] = [
     {"model_id": "gemini/gemini-3.5-flash-lite", "label": "gemini-3.5-flash-lite"},
-    {"model_id": "groq/llama-3.3-70b-versatile",  "label": "llama33_70b_groq"},
     {"model_id": "openrouter/inclusionai/ling-3.0-flash:floor", "label": "ling-3.0-flash-free"},
     {"model_id": "openrouter/openai/gpt-5.6-luna:floor", "label": "gpt-5.6-luna"},
     {"model_id": "openrouter/deepseek/deepseek-v4-flash-0731:floor", "label": "deepseek-v4-flash-0731"},

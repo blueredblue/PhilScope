@@ -1,0 +1,92 @@
+# The Chiasm of the Event: Merleau-Ponty, Psychoanalysis, and the Non-Serial Ontology of Historical Agency
+
+## Introduction
+
+The traditional philosophy of history has long oscillated between two equally untenable alternatives: an unbroken, linear teleology that reduces the future to a predictable unfolding of the present, and a radical atomism that treats historical moments as discrete, self-contained fragments devoid of internal relationality. In both paradigms, the nature of the historical event remains trapped within a chronological framework of seriality. 
+
+However, the late philosophy of Maurice Merleau-Ponty—particularly as articulated in *The Visible and the Invisible* and his lectures on *Nature*—presents a radically different topological orientation. Through his elaboration of "mythical time" (*temps mythique*) and the ontology of the flesh, Merleau-Ponty disrupts the sequential linearity of historical time. He introduces a temporal architecture that is fundamentally retroactive, non-linear, and structurally akin to Sigmund Freud’s conceptualization of trauma (*Nachträglichkeit* or *deferred action*).
+
+This essay evaluates the claim that Merleau-Ponty’s concept of mythical time entails a retroactive structure of the event comparable to Freudian trauma. It addresses whether this temporal framework can rescue Alain Badiou’s militant model of subject-formation from Raphaël Gély’s trenchant critique that Badiou presupposes a pre-existing subject. Finally, by engaging Mauro Carbone’s reading of "wild Being" (*être brut*) and the chiasm of the touching-touched (*le touchant-touché*), this essay demonstrates how Merleau-Ponty resolves the tension between the invisible sediment of historical tradition and the continuous right of rectification. In doing so, it establishes that a non-serial ontology of time can sustain a robust, coherent account of historical agency without collapsing into either structural determinism or absolute voluntarism.
+
+---
+
+## Part I: Mythical Time and the Freudian Retroactive Event
+
+To comprehend Merleau-Ponty’s intervention in the philosophy of time, one must first disengage from the spatialized conception of time inherited from classical empiricism and intellectualism, wherein time is modeled as a line of discrete "nows" succeeding one another like beads on a string. In his earlier work, *Phenomenology of Perception*, Merleau-Ponty approached time through the synthesis of retention and protention, heavily indebted to Edmund Husserl and Martin Heidegger. The subject is temporalized not by being *in* time, but by *being* time. 
+
+Yet, in his final, ontological turn, Merleau-Ponty moves beyond subjective consciousness toward an anonymous, wild ontology of the flesh (*la chair*). It is within this context that the concept of "mythical time" emerges. Mythical time is not a primitive, erroneous stage of human development destined to be superseded by the rigorous chronometry of scientific history. Rather, it is the subterranean, ontological dimension of temporality where past and future interpenetrate without mediation by objective chronology. In mythical time, the origin is not locked safely away in a chronological past; it haunts the present, erupting into it, commanding it, and retroactively receiving its meaning from the future developments it engenders.
+
+This temporal topology bears an unmistakable structural affinity to Sigmund Freud’s concept of *Nachträglichkeit* (translated variously as *deferred action*, *après-coup*, or *retroaction*). In psychoanalytic theory, trauma is never simply constituted by a single, catastrophic historical event at the moment of its occurrence. Instead, trauma possesses a two-tiered structure. An initial event occurs in childhood—often sexual or violent—which the immature psychic apparatus cannot assimilate, integrate, or symbolize. Consequently, this event remains inert, a foreign body within the psyche, functioning as a latent trace. It is only when a second, seemingly innocuous event occurs later in life—an event that bears a metaphorical or metonymical resonance with the first—that the earlier event is retroactively cathected with traumatic significance. The past is not merely remembered; it is *created* as traumatic *after the fact*. The first event is retroactively endowed with a reality and an efficacy it did not possess at the moment of its actual occurrence.
+
+Merleau-Ponty’s mythical time operates on a precisely analogous ontological register. A foundational historical or existential event does not exhaust its meaning in the historical present of its happening. It is inscribed within the carnal fabric of history as an invisible sediment. Just as the Freudian trauma waits for the secondary scene to unlock its repressed significance, the historical event waits for future subjects to take up (*reprendre*) its mantle, thereby retroactively determining what that event "was." 
+
+This structural parallel reveals that for Merleau-Ponty, time is an entangled chiasm. The past is pregnant with a future that alters its very identity, while the future is haunted by a past that it must retroactively institute. There is no pure presence; the present is always a knot where the invisible depth of the past and the invisible horizon of the future fold into one another. History, therefore, is not a sequence of chronological snapshots, but a continuous retroactive rewriting of the flesh of the world.
+
+---
+
+## Part II: Badiou, Gély, and the Paradox of the Subject
+
+This non-linear, retroactive model of temporality provides a crucial testing ground for contemporary political philosophy, particularly the ongoing debate between Alain Badiou’s evental ontology and Raphaël Gély’s critique of the pre-existing subject.
+
+In Badiou’s philosophical architecture—most systematically elaborated in *Being and Event* and *Logics of Worlds*—the subject is not a substance, an ego, or a pre-existing psychological entity. The subject is entirely a product of fidelity to an *Event* (*l'événement*). An event is an ontological rupture—a supplement that tears the fabric of the situation (*la situation*), exposing the void upon which all being is founded. Because the event exceeds the language and laws of the existing situation, it cannot be deduced from it. It is an undecidable, gratuitous irruption. To become a "subject" in Badiou’s sense is to make a decision of fidelity to this event, to traverse the void, and to construct a truth procedure that retroactively alters the state of the situation. 
+
+Crucially, Badiou insists that the subject does not pre-exist the event. The subject is *generated* by the event; it is the localized operator of truth. However, this assertion has drawn severe critique from philosophers like Raphaël Gély. Gély argues that Badiou’s model harbors an internal contradiction or a persistent aporia: if the subject is wholly generated by the event, and the event itself is an abrupt, unmediated rupture that tears through the symbolic coordinates of the situation, how is it possible for any agent to *recognize* the event as an event? 
+
+Gély’s critique contends that Badiou must covertly smuggle in a pre-existing capacity for perception, responsiveness, or symbolic attunement on the part of the subject. If there were no prior sedimentation, no pre-existing carnal openness to the world, an event would simply pass over us like a shadow over stone, leaving no trace, soliciting no fidelity. Gély suggests that Badiou’s radical anti-humanism and anti-phenomenology blind him to the fact that the subject must already be constituted as a "fleshly" being—embedded in sedimented social, historical, and perceptual structures—to even be receptive to the call of the event. Thus, Gély claims that Badiou’s subject is never truly ex nihilo; it parasitically relies on a pre-existing subject formed through sedimentation and intersubjective sedimentation.
+
+Can Merleau-Ponty’s concept of mythical time and his ontology of the flesh resolve this tension? 
+
+If we approach Badiou’s event through Merleau-Ponty’s retroactive temporality, the rigid opposition between the *pre-existing subject* (championed by Gély) and the *ruptural, event-generated subject* (championed by Badiou) begins to dissolve. For Merleau-Ponty, the subject is neither an absolute transcendental ego nor a tabula rasa waiting to be inscribed by an ungrounded event. Instead, the subject is an incarnate intertwining—a chiasm of the visible and the invisible. 
+
+When Badiou speaks of an event rupturing the situation, a Merleau-Pontyguian framework allows us to see that this rupture does not occur in an ontological void devoid of history. Rather, the event erupts within the *invisible sediment* of the flesh of history. It relies upon a pre-existing carnal susceptibility—an embodied latency—precisely because the body-subject is already sedimented with past practices, institutions, and unfulfilled historical promises. 
+
+At the same time, this pre-existence is not a determinate, fixed psychological structure of the kind Gély imagines. It is an open, ambiguous depth. The past is not a rigid set of rules dictating the future, but an indeterminate weight that demands completion. When the event occurs, it does not find a fully formed subject waiting to categorize it; nor does it create a subject entirely out of nothing. Rather, the event awakens the invisible sediment of the past, provoking a *reprise* (taking-up) that retroactively constitutes both the event *and* the subject who bears fidelity to it. 
+
+Thus, Merleau-Ponty rescues Badiou’s model from Gély’s critique: the subject is indeed pre-existing, but only as *fleshly latency* and *anonymous sedimentation*, never as a fully actualized, self-conscious agent. Conversely, the subject is evental and retroactive, but this retroactivity does not emerge from a miraculous ex nihilo creation; it draws its blood and bone from the subterranean depths of mythical time.
+
+---
+
+## Part III: Carbone, Wild Being, and the Chiasm of the Touching-Touched
+
+To deepen this analysis and prevent our ontology of time from sliding into a mystical indeterminacy, we must turn to Mauro Carbone’s rigorous reading of Merleau-Ponty’s later ontology, particularly his expositions on wild Being (*être brut*) and the chiasm of the touching-touched (*le touchant-touché*). 
+
+In his late notes and *The Visible and the Invisible*, Merleau-Ponty develops the concept of the flesh not as a biological substance, but as the elemental medium of being—an interlacing of the seer and the seen, the toucher and the touched. The touching-touched chiasm exemplifies this reversibility: when my right hand touches my left hand, the hand that touches is simultaneously touched. There is an internal reflexivity, a fold within being, which ensures that no term remains purely active or purely passive. 
+
+Mauro Carbone, in his incisive interpretations of Merleau-Ponty, emphasizes that this chiasmic reversibility is not an undifferentiated identity, but an *im-plicity*—a folding together that maintains an internal difference, a spacing (*écart*). It is precisely this *écart* that accounts for time. The touching and the touched never coincide in a single, indivisible punctual present; there is always a minimal temporal deferral, an opening that makes reflection, perception, and historical action possible.
+
+Carbone’s reading of wild Being becomes vital when addressing a profound tension within any retroactive theory of time: how do we reconcile the heavy, invisible weight of historical sediment with what we might call "the continuous right of rectification"? 
+
+If history is governed entirely by retroactive determination—where the present or the future constantly rewrites the meaning of the past—do we risk falling into a form of historical idealism or nihilism, where any past event can be arbitrarily bent to fit the ideological needs of the present? Conversely, if the invisible sediment of historical events exercises an absolute, determining gravitational pull on our present, how can human agency claim a genuine "right of rectification"—the ethical and political capacity to break with injustice, correct historical errors, and forge a genuinely new path?
+
+Carbone’s articulation of the touching-touched chiasm provides the ontological key to resolving this tension. The invisible sediment of historical events is not a dead weight buried in the past; it is the *touched* side of the historical flesh. It is that which has already been inscribed, institutionalized, and sedimented in our languages, institutions, and corporeal habits. Yet, because it is flesh, it is inherently reversible. It is pregnant with a *touching* dimension—the living, active agency of contemporary subjects who encounter this sediment not as an immutable wall, but as an open text.
+
+The continuous right of rectification is rooted in the *écart* (the gap) inherent in the chiasm. Because the touching and the touched never collapse into a totalizing identity, the past never fully possesses or exhausts the present, nor does the present completely master the past. The invisible sediment of historical events exerts a demand upon us—it haunts us, precisely in the manner of Freudian trauma or mythical time. We are addressed by the suffering, the unfinished struggles, and the systemic injustices of our historical predecessors. We cannot simply rewrite them at will, because the carnal weight of their reality resists our sovereign subjectivity. 
+
+At the same time, because our engagement with this sediment is chiasmic, we possess the perpetual right and responsibility of rectification. We take up (*reprendre*) the past, transforming its silent sediment into an articulate demand for justice. Rectification is not the erasure of the past, nor is it passive submission to it; it is the retroactive redemption of historical meaning through present praxis. Wild Being (*être brut*) is precisely this unending genesis where past and future constantly fold into one another, mediated by the incarnate agency of the subject.
+
+---
+
+## Part IV: Historical Agency in a Non-Serial Ontology
+
+We are now positioned to evaluate whether this non-serial ontology of time can sustain a coherent account of historical agency. Traditional historiography and political theory have often assumed that genuine agency requires a linear, serial framework: an autonomous agent initiates an action in the present, which causes effects in the future, leaving the past safely behind as a completed record. If time is non-serial, retroactive, and chiasmic, does historical agency evaporate into a fatalistic swirl of ontological currents?
+
+Far from dissolving historical agency, Merleau-Ponty’s ontology—illuminated by Badiou’s demand for evental fidelity and Carbone’s reading of the chiasm—radicalizes and redeems the concept of agency. 
+
+### 1. Agency as *Reprise* (Taking-Up)
+In a non-serial ontology, agency is not the miraculous production of novelty out of nothing (voluntarism), nor is it the mechanical execution of pre-established historical laws (determinism). Agency is *reprise*—the active, embodied resumption of a sedimented past. When a political agent acts to overturn an oppressive structure, they are not operating as a disembodied rational chooser. They are responding to the invisible sediment of past struggles that has been deposited in the flesh of their society. Their agency consists in taking up this legacy, allowing the past to speak through them while simultaneously transforming its trajectory.
+
+### 2. The Retroactive Constitution of Meaning
+Because of the retroactive structure of the event (akin to Freudian *Nachträglichkeit*), the agent does not know in advance the full historical weight or meaning of their actions. An action performed today may seem minor or ambiguous, yet it can function as the secondary scene that retroactively unlocks, redeems, or shatters the meaning of a prior historical trauma. Historical agency, therefore, operates across a temporal depth. We act in the present, but our actions reach backward into the crypts of history to reconfigure the past, even as they project themselves into an open, unwritten future.
+
+### 3. The Chiasm of Freedom and Situation
+Merleau-Ponty famously argued in the *Phenomenology of Perception* that we are "condemned to meaning" and that freedom is situated. The non-serial ontology of the late work deepens this insight. Freedom is not the absence of sedimentation; it is the capacity to fold that sedimentation back upon itself through the *écart* of the touching-touched. The continuous right of rectification is the political expression of this chiasmic freedom. It is the refusal to accept the given sediment of history as our final destiny, combined with the humility to recognize that our capacity to rectify history is itself made possible only because we are already historically conditioned flesh.
+
+---
+
+## Conclusion
+
+The claim that Maurice Merleau-Ponty’s concept of mythical time entails a retroactive structure comparable to Sigmund Freud’s theory of trauma opens up a profound reimagining of temporality, subjectivity, and history. By moving beyond serial chronology into the ontology of the flesh, Merleau-Ponty provides the missing link in contemporary political debates. 
+
+Through this framework, we can defend Alain Badiou’s model of evental subject-formation against Raphaël Gély’s critique: the subject is neither a pre-existing psychological substance nor a pure miracle *ex nihilo*, but an incarnate emergence rooted in the invisible sediment of mythical time. Furthermore, Mauro Carbone’s reading of wild Being and the touching-touched chiasm resolves the tension between historical sedimentation and the continuous right of rectification. The *écart* within the flesh ensures that history is neither a deterministic cage nor an amorphous field of arbitrary interpretation.
+
+Ultimately, a non-serial ontology of time sustains a deeply coherent, powerful account of historical agency. It reveals that to act historically is to participate in the ongoing, retroactive folding of the past and the future—to be at once the keeper of history’s invisible wounds and the authors of its radical rectification.

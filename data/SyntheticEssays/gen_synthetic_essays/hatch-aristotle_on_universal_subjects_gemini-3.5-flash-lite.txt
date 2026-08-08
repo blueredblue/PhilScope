@@ -1,0 +1,147 @@
+# The Ontological Syntax of Substance: Gyekye, Englebretsen, and the Aristotelian Predicament
+
+## Introduction
+
+The intersection of ancient Greek metaphysics and modern mathematical logic is a notoriously treacherous terrain, fraught with the danger of anachronism. To read modern semantic structures back into the corpus of Aristotle is to risk distorting the Greek understanding of *ousia* (substance or being) through the prism of Fregean or Russellian quantification theory. Yet, comparative historiography of philosophy continually finds itself drawn to these structural parallels. 
+
+Kwame Gyekye’s influential reading of Aristotle’s ontology advances a provocative thesis: that Aristotle anticipates modern predicate logic by treating universal subjects not as self-subsistent entities, but as incomplete symbols that ultimately depend upon primary substances for their ontological grounding. In Gyekye’s view, the categorical framework of the *Categories* and the *Metaphysics* operates with an underlying semantic-ontological economy that mirrors the unsaturated functions of modern logic. 
+
+However, this thesis immediately provokes a sharp dialectical tension. George Englebretsen has launched a sustained critique against such readings, arguing that they commit a fundamental category mistake by conflating a sentence’s semantic meaning with its ontological truth conditions. For Englebretsen, Aristotelian syllogistic and term logic are irreducibly distinct from the modern functional calculus; to interpret Aristotle through the lens of modern predicate logic is to project a post-Fregean semantics onto a subject-predicate syntax that remains strictly tied to natural language and traditional term-containment.
+
+This essay evaluates Gyekye’s thesis through the crucible of Englebretsen’s critique, while pressing further into the structural core of Aristotle’s own system: the prohibition of non-substantial subjects in the *Posterior Analytics*. I will argue that this prohibition—designed to secure epistemic foundationalism and prevent an infinite regress of predication—ultimately destabilizes Aristotle’s theory of definitions and compromises the crucial distinction between synonymous and homonymous predication. 
+
+By tracing the dialectic from Gyekye’s ontologized predicate logic to Englebretsen’s semantic-ontological deflationism, and finally to the internal fractures of the *Posterior Analytics*, we can resolve the conflict between ontological reductionism and the necessity of universal knowledge. This resolution reveals that Aristotle’s ontology cannot neatly anticipate modern logic precisely because its commitment to primary substances generates an unresolved tension between the individual as the bearer of existence and the universal as the object of science.
+
+---
+
+## Part I: Gyekye’s Thesis and the Proleptic Logic of *Ousia*
+
+To understand Kwame Gyekye’s alignment of Aristotle with modern predicate logic, one must first revisit the foundational architecture of the *Categories*. Aristotle famously divides beings into four quadrants based on a two-by-two matrix: what is said of a subject but not in a subject (universals like *Man*); what is in a subject but not said of any subject (individual accidents like *this individual grammatical knowledge*); what is both said of and in a subject (universal accidents like *grammar*); and what is neither said of nor in a subject (primary substances like *this individual man* or *this individual horse*) (*Cat.* 2a11–19).
+
+```
+                      IN A SUBJECT         NOT IN A SUBJECT
+                  +---------------------+---------------------+
+SAID OF A         | Universal Accidents | Universal Subjects  |
+SUBJECT           | (e.g., Grammar)     | (e.g., Man, Animal) |
+                  +---------------------+---------------------+
+NOT SAID OF A     | Individual Accidents| Primary Substances  |
+SUBJECT           | (e.g., This white)  | (e.g., Socrates)    |
+                  +---------------------+---------------------+
+```
+
+Gyekye’s intervention seizes upon the ontological asymmetry of this schema. Primary substances (*prote ousia*) enjoy a privileged ontological status; they are foundational, irreducible, and the ultimate subjects of all predication. Universals—both substantial universals (*secondary substances* like "man") and accidental universals (*attributes* like "white" or "tall")—are derivative. 
+
+Gyekye argues that when Aristotle insists that secondary substances are predicated of primary substances (or that accidents inhere in primary substances), he is establishing an ontological hierarchy that anticipates the distinction in modern predicate logic between objects (or constants) and predicates (or propositional functions).
+
+In modern first-order predicate logic, an expression such as $F(x)$ consists of a singular term $x$ (denoting an individual in the domain of discourse) and a predicate constant $F$ (denoting a property or relation). The predicate, viewed in abstraction as $F(\quad)$, is an "incomplete symbol"—to borrow a phrase from Russell—or an "unsaturated" entity, in Frege’s terminology. It requires an argument to complete it and yield a truth-valuable proposition. 
+
+Gyekye reads Aristotle’s secondary substances and universal attributes along these very lines. For Gyekye, a universal subject such as *Man* is not an independent Platonic Form floating in a transcendent realm; nor is it a fully actualized, self-contained entity in the physical world. It is, rather, an ontological universal whose reality is parasitic upon the primary substances that instantiate it. 
+
+When we say "Socrates is a man," *Man* is not a co-equal substance standing alongside Socrates. Instead, *Man* functions as a predicate-term that characterizes the primary substance, Socrates. Consequently, universal subjects are "incomplete symbols" in the sense that their ontological import is entirely exhausted by, and derivative of, the primary substances that exemplify them.
+
+Gyekye’s thesis thus bridges ancient metaphysics and contemporary philosophy by suggesting that Aristotle’s rejection of separate Forms forced him to treat universals not as subjects in the primary sense, but as predicable forms whose ontological status is relational and dependent. Just as a predicate in modern logic needs a subject to instantiate it, a secondary substance or universal attribute needs a primary substance to ground its existence. 
+
+This interpretation attempts to rescue Aristotle from the charge of ontological inflation—the notion that he populates the universe with countless shadowy universals alongside concrete particulars—by reducing the ontological weight of universals to the primary substances that bear them.
+
+---
+
+## Part II: Englebretsen’s Critique: Semantic Meaning vs. Ontological Truth Conditions
+
+George Englebretsen’s counter-offensive against readings like Gyekye’s is rooted in a rigorous defense of traditional term logic and an insistence on the strict separation of logic from ontology. Englebretsen argues that projections of modern predicate logic onto Aristotle commit a category mistake. They conflate the *semantic meaning* of a sentence (its grammatical and logical structure as analyzed by a given formal system) with its *ontological truth conditions* (the way the world must be configured for that sentence to be true).
+
+Englebretsen’s critique rests on several pillars:
+
+1. **The Nature of Term Logic vs. Functional Logic:** Modern predicate logic is built upon a Fregean foundation that breaks sentences down into functions and arguments, utilizing bound variables and quantifiers ($\forall x, \exists x$) ranging over a domain of discourse. Aristotle’s logic, by contrast, is a term logic. A categorical proposition like "All $A$ are $B$" ($AaB$) relates two terms directly, without the mediation of propositional functions, individual variables, or a distinct ontological division between objects and predicates. In Aristotelian term logic, both $A$ and $B$ are terms that can indifferently occupy the subject or predicate position in different syllogistic premises. To force this syntax into the Procrustean bed of "incomplete symbols" and "unsaturated functions" is to misread the formal machinery of the *Prior Analytics*.
+
+2. **The Confusion of Syntax and Metaphysics:** Englebretsen contends that Gyekye reads the metaphysical doctrines of the *Categories* and *Metaphysics* directly into the logical syntax of propositions. But Aristotle’s logic is ontologically neutral in its formal mechanics. While Aristotle’s metaphysics restricts *what kinds of things* can be primary subjects (only primary substances), his logic of terms governs the relations between concepts regardless of their ontological pedigree. When Gyekye claims that universal subjects are "incomplete symbols" dependent on primary substances, he is smuggling a modern semantic thesis (derived from Russell’s theory of descriptions and Frege’s unsaturatedness) into Aristotle’s metaphysical vocabulary, where it does not belong.
+
+3. **The Semantic Autonomy of Terms:** In Englebretsen’s view, Aristotle treats terms as semantically complete units. A universal term like *anthropos* (man) has a definition, an essence, and a determinate meaning, regardless of whether it is currently being instantiated by a primary substance (a point Aristotle explicitly acknowledges in passages discussing potentiality, eternal substances, or non-instantiated universals, though the latter present well-known difficulties). To call a universal an "incomplete symbol" is to suggest that it lacks semantic integrity on its own, functioning merely as a placeholder or a parasitic form. Englebretsen argues that this ignores the robust reality that universals possess within Aristotle’s epistemology: they are the primary objects of knowledge (*episteme*), which is always of the universal, not the particular (*An. Post.* 81b15).
+
+By driving a wedge between semantic meaning and ontological truth conditions, Englebretsen forces us to ask: Does Aristotle’s claim that secondary substances are predicated of primary substances describe a *logical syntax* (anticipating predicate logic), or does it merely articulate an *ontological asymmetry* (that particulars exist in a way universals do not)? Englebretsen insists it is strictly the latter, and that any attempt to translate Aristotelian metaphysics into the formal idiom of modern logic anachronistically distorts both.
+
+---
+
+## Part III: The Prohibition of Non-Substantial Subjects in the *Posterior Analytics*
+
+To adjudicate between Gyekye’s ontologized predicate logic and Englebretsen’s deflationary term-logic critique, we must examine how this ontological asymmetry operates within Aristotle’s epistemology, specifically in the *Posterior Analytics*. Here, Aristotle sets out the rigorous criteria for demonstrative science (*apodeixis*). 
+
+A central pillar of this demonstrative framework is the prohibition against crossing genera and the strict requirement that attributes must be predicated of appropriate subjects. Most importantly, Aristotle prohibits non-substantial entities from acting as ultimate subjects of demonstration.
+
+In *Posterior Analytics* I.22, Aristotle explicitly considers whether there is an infinite regress of predication. He asks: Can attributes be predicated of attributes *in infinitum*? For example, can we say "The white is musical, the musical is literate, the literate is walking..." ad infinitum? Aristotle answers with a resounding negative. If predication could regress infinitely in upward or downward directions, demonstrative knowledge would be impossible, because there would be no primary, underived starting points (*archai*) from which demonstration must proceed.
+
+To prevent this infinite regress, Aristotle asserts that every chain of essential predication must terminate in a primary substance that is not further predicated of anything else in the essential mode. That is, while primary substances can have accidental attributes predicated of them ("Socrates is white," "Socrates is musical"), an accidental attribute cannot be the subject of an essential definition in a way that floats free of substance. More critically, when we construct scientific demonstrations, the middle term must capture the essential definition of the subject. 
+
+However, this prohibition—designed to secure epistemic foundationalism—creates a profound internal tension within Aristotle’s theory of definitions and his distinction between synonymous (*homonymon*) and homonymous predication.
+
+### The Threat to Definitions
+
+Aristotle’s theory of definition (*horismos*) holds that a definition states the essence of a thing, articulated through its genus and specific difference (e.g., Man is a *rational animal*). If universal subjects (like *Animal* or *Rational*) are dependent on primary substances for their ontological backing—as Gyekye suggests—then the definition itself risks becoming ontologically unstable. 
+
+If *Animal* is an incomplete symbol whose reality is parasitic upon individual animals, how can a definition capture an eternal, unchanging universal essence? Aristotle insists that scientific knowledge (*episteme*) is of universals, because particulars are indefinable and unknowable in their infinite specificity (*An. Post.* 87b28–35). Yet, if universals are ontologically dependent on primary substances—which are perishable, mutable, and coming-to-be—then the stability required for scientific definition threatens to dissolve.
+
+### The Collapse of Synonymy and Homonymy
+
+The tension deepens when we examine the distinction between synonymous and homonymous predication. In the *Categories* (1a1–15), things are called *synonymous* (univocal) when they share both the same name and the same definition of the substance corresponding to the name (e.g., both a man and an ox are called "animal," and the definition of animal is the same for both). Things are *homonymous* (equivocal) when they share a name but their definitions differ (e.g., a real man and a picture of a man are both called "man," but their definitions are not identical).
+
+If universal subjects are merely incomplete symbols dependent upon primary substances (Gyekye), or if terms are strictly bounded without ontological reduction (Englebretsen), how does equivocation get prevented in scientific demonstration? 
+
+If *Animal* has no ontological standing apart from the various primary substances (Socrates, Bucephalus, Fido) that instantiate it, then the universal term "Animal" risks becoming a mere flatus vocis—a nominal convenience—or worse, a homonym whose definition shifts with every distinct primary substance in which it is realized. 
+
+Aristotle escapes this by insisting that the universal *is* a single form realized in many particulars. But this requires the universal to have a robust ontological status of its own—precisely what Gyekye’s reductionist reading and Englebretsen’s strict separation struggle to balance simultaneously.
+
+---
+
+## Part IV: Resolving the Conflict: Ontological Reductionism vs. Universal Knowledge
+
+We are now faced with a stark dialectical impasse. 
+* On one side, **Gyekye** wants to read Aristotle as an early logician who ontologically reduces universals to incomplete symbols parasitic on primary substances. This makes sense of Aristotle’s anti-Platonic rejection of separated forms, but it threatens to undermine the epistemic stability of universals required for science.
+* On the other side, **Englebretsen** insists on a strict term logic that insulates logic from metaphysics, treating terms as semantically autonomous. This preserves the formal integrity of Aristotlelian syllogistic, but it struggles to account for why Aristotle’s metaphysics is so obsessively concerned with the ontological priority of primary substances over universals in the *Categories* and *Metaphysics*.
+* Finally, the **internal demands of the *Posterior Analytics*** reveal that Aristotle’s prohibition against non-substantial subjects creates a severe tension: if universals depend entirely on particulars for their existence, science becomes impossible; yet if universals exist independently, Platonism rears its head.
+
+How do we resolve this conflict between ontological reductionism and the necessity of universal knowledge? The solution lies in recognizing that Aristotle’s ontology is neither a proto-Fregean predicate logic nor a purely formal term logic, but an **hylomorphic metaphysics of immanent realism**.
+
+### 1. The Rejection of Gyekye’s Reductionism via Hylomorphism
+Gyekye is right to emphasize that universals do not exist apart from particulars in a transcendent Platonic realm. However, calling them "incomplete symbols" or treating them as parasitic predicates misconstrues Aristotle’s hylomorphism (*Metaphysics* Z-H). 
+
+For Aristotle, a secondary substance (e.g., *Man*) is not an empty predicate waiting for a primary substance to fill it; rather, it is the *form* (*eidos*) immanent in the matter (*hyle*) of the primary substance. 
+
+```
++--------------------------------------------------+
+|            PRIMARY SUBSTANCE (Socrates)          |
+|  +---------------------+  +-------------------+  |
+|  |     MATTE (Hyle)    |  |    FORM (Eidos)   |  |
+|  |  Particular Flesh   |  | Universal Essence |  |
+|  |     and Bones       |  |     ("Human")     |  |
+|  +---------------------+  +-------------------+  |
++--------------------------------------------------+
+```
+
+The universal *Man* is the intelligible structure of the particular man. It is not an "incomplete symbol" in the Russellian sense because it possesses a determinate, real essence (rational animality). 
+
+It is *ontologically dependent* for its *existence* (its *hoti esti*) on primary substances—there is no humanity walking around without individual human beings—but it is *logically and epistemically prior* in its *whatness* (its *ti esti*). The universal is what the mind grasps through induction (*epagoge*) from the particulars (*An. Post.* II.19). Therefore, Gyekye’s attempt to map this onto modern predicate logic fails because modern logic abstracts from existence to focus on truth-functional satisfaction, whereas Aristotelian ontology is thoroughly committed to the real, immanent presence of form in matter.
+
+### 2. The Nuancing of Englebretsen’s Term Logic
+Conversely, Englebretsen is correct to defend term logic against anachronistic readings, but his radical separation of logic from ontology threatens to turn Aristotle’s logic into an empty formal game. 
+
+Aristotle’s syllogistic is inextricably bound to his metaphysics because terms signify real substances and attributes in the world. When Aristotle prohibits non-substantial subjects in the *Posterior Analytics*, he is not merely laying down a syntactic rule for term-combining; he is mapping the causal and ontological structure of reality. 
+
+An attribute (*white*) cannot be the ultimate subject of an essential demonstration because whiteness does not possess the ontological depth (*ousia*) required to ground causal explanations. Explanation (*to dioti*) requires tracing an attribute back to the substance that acts as its primary bearer and formal cause. 
+
+Thus, Englebretsen’s deflationism misses the vital point that for Aristotle, the validity of a syllogism and the truth of a demonstration are guaranteed by the ontological connectedness of the terms to real hylomorphic substances.
+
+### 3. Resolving the Regress and Protecting Definition
+We can now see how Aristotle successfully resolves the infinite regress of predication without destroying his theory of definition. The prohibition of non-substantial subjects prevents regress because every chain of essential explanation terminates at the primary substance, viewed not merely as a bare particular (this *hoc aliquid*), but as an informed particular—a composite of matter and form. 
+
+Definitions are stable because the form instantiated in the primary substance is identical across all instances of that species. "Man" is not a shifting homonym because the specific form (*eidos*) remains constant in every individual human, even though the individual matter differs. 
+
+The ontological reductionism that Gyekye fears is avoided because the universal form is genuinely real (immanently present in the particulars), while the infinite regress that threatens the *Posterior Analytics* is blocked because the primary substance anchors both the chain of predication and the causal explanation.
+
+---
+
+## Conclusion
+
+The dialogue between Kwame Gyekye and George Englebretsen exposes the profound difficulties of interpreting ancient Greek metaphysics through the conceptual apparatus of modern logic. Gyekye’s thesis—that Aristotle anticipates predicate logic by treating universal subjects as incomplete symbols dependent on primary substances—correctly identifies the deep ontological asymmetry of the *Categories*, but errs in translating this asymmetry into a Fregean framework of unsaturated functions. Englebretsen rightly pushes back against this anachronism, defending the autonomy of Aristotelian term logic, yet he goes too far in severing logic from the metaphysical commitments that animate Aristotle’s syllogistic and demonstrative theory.
+
+When we press further into the prohibition of non-substantial subjects in the *Posterior Analytics*, we find the true engine of Aristotle’s system: a hylomorphic ontology where universal forms are immanent in primary substances. This framework successfully prevents an infinite regress of predication and safeguards the stability of definitions against the threats of equivocation and ontological collapse. 
+
+Ultimately, Aristotle does not anticipate modern predicate logic; rather, he offers an alternative metaphysical paradigm. In this paradigm, existence and essence are inextricably bound together in the concrete substance, uniting the necessity of universal scientific knowledge with the irreducible reality of the individual being.

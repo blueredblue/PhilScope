@@ -1,0 +1,193 @@
+# The Rigidity of the Fleeting: A Kripkean Defense of Instantaneous States
+
+## Introduction
+
+Metaphysics has long wrestled with the paradox of change and persistence. How can an object endure through time while undergoing qualitative alteration, remaining fundamentally *itself* despite losing parts, gaining scars, or shifting locations? The traditional intuition of the macroscopic world relies on enduring substances—entities wholly present at every moment of their existence. Yet, this view faces severe strains under the pressures of modern physics and mereological change. 
+
+Consider an alternative ontological framework: the thesis of instantaneous composition and temporal sequence. On this view, material objects do not endure *whole* through time; rather, they exist only for single instants. What we call a macroscopic object is merely an abstract sequence of momentary physical states, linked by continuity but ontologically distinct at every temporal slice. 
+
+This essay evaluates this radical mereotopological framework by placing it in direct dialogue with Saul Kripke’s semantics of modality, specifically his distinction between rigid and nonrigid designation. By examining a familiar household item—a pencil named "Penny"—we shall explore how Kripke’s insights into proper names, rigid designators, and trans-world identity can be reframed to account for *trans-temporal* persistence. 
+
+At the center of this investigation lies a profound tension: how can a pencil undergo physical transformation, such as being sharpened, while retaining a consistent identity if its constituent parts at $t_1$ and $t_2$ are strictly disjoint instantaneous entities (*object*s)? Furthermore, we must confront the formidable objection that reducing material objects to temporal sequences of distinct momentary states violates the Leibnizian principle of the necessity of self-identity, threatening to dissolve the unified subject of change into a mere nominal fiction.
+
+---
+
+## Part I: The Metaphysics of the Momentary and the Case of Penny
+
+To ground our inquiry, let us introduce Penny. Penny is an ordinary yellow wooden pencil, sitting on a desk. In common-sense ontology, Penny is an enduring three-dimensional (or four-dimensional) object that persists through time. Penny has a certain length, a certain mass, and a sharp graphite point. Over the course of the afternoon, Penny is used, dropped, and sharpened. Common sense insists that the pencil before sharpening and the stub after sharpening are one and the same entity: Penny.
+
+The proposed ontological framework radically revises this picture. It asserts that there is no single, enduring substance called Penny that spans the temporal interval $[t_0, t_n]$. Instead, Penny is an ordered sequence of discrete, instantaneous physical entities. Let us denote an instantaneous physical state of an object at a precise mathematical instant $t$ as an *object*$_t$. Thus, Penny is not a single enduring substance, but the set or sequence:
+
+$$\mathcal{P} = \langle \text{object}*_{t_0}, \text{object}*_{t_1}, \text{object}*_{t_2}, \dots, \text{object}*_{t_n} \rangle$$
+
+Each $\text{object}*_{t_i}$ is a complete, maximal physical state existing solely at $t_i$. It has no temporal duration; its temporal measure is zero. It possesses exact spatial boundaries, specific molecular configurations, and precise mass at that exact flash of reality. Between $\text{object}*_{t_1}$ and $\text{object}*_{t_2}$, there is a metaphysical gap. The entity that existed at $t_1$ has entirely ceased to exist, replaced ex nihilo by a numerically distinct entity at $t_2$, which bears a high degree of physical and causal similarity to its predecessor.
+
+Why adopt such a counter-intuitive framework? The motivations are twofold: physicalist and mereological. 
+
+First, physicalism struggles with the idea of a continuous substance that undergoes continuous micro-structural flux. At the quantum level, particles are exchanged, energy states fluctuate, and electrons shift orbitals continuously. If an enduring object requires strict identity of parts over time, endurance becomes nearly impossible. 
+
+Second, the problem of temporary intrinsics—famously articulated by David Lewis—plagues endurance. If Penny is straight at $t_1$ and bent at $t_2$, how can the single entity Penny possess contradictory intrinsic properties (being straight and being bent) without violating the law of non-contradiction? 
+
+The instantaneous-state framework dissolves this by removing intrinsic properties from enduring substances and relocating them exclusively to *object*s. $\text{object}*_{t_1}$ is strictly straight; $\text{object}*_{t_2}$ is strictly bent (supposing Penny was snapped). There is no contradiction because the properties are instantiated by distinct ontological relata at distinct temporal points.
+
+However, this immediately raises the question: If Penny is just a sequence of discrete, non-enduring flashes of matter, in what sense does Penny *exist*? What makes this disparate sequence of temporal atoms a *single* object rather than a chaotic pile of unrelated momentary flashes? To answer this, we must turn to the philosophy of language and modality, specifically Saul Kripke’s theory of naming.
+
+---
+
+## Part II: Kripkean Semantics and the Logic of Designation
+
+In *Naming and Necessity* (1972), Saul Kripke revolutionized philosophy of language and metaphysics by challenging the descriptivist theories of Gottlob Frege and Bertrand Russell. Descriptivists held that proper names are equivalent to clusters of descriptions (e.g., "Aristotle" means "the pupil of Plato who wrote the *Nicomachean Ethics*"). Kripke argued that proper names are **rigid designators**: terms that designate the same object in all possible worlds in which that object exists.
+
+To appreciate how Kripke’s modal semantics can be translated into a temporal ontology, we must examine his core distinction between **rigid** and **nonrigid (or accidental/descriptive) designation**.
+
+### Rigid vs. Nonrigid Designation
+
+A rigid designator picks out the same individual across every counterfactual circumstance (possible world) in which that individual appears. For example, the proper name "Saul Kripke" designates the flesh-and-blood philosopher in the actual world, and it designates that *same* individual in every possible world where he exists, regardless of whether he ever wrote *Naming and Necessity*, whether he became a baker, or whether he died in infancy. 
+
+Conversely, a nonrigid designator (or definite description) picks out different objects in different possible worlds depending on which object satisfies the description in that world. "The greatest living philosopher of language in 1970" is a nonrigid designator; it picks out Kripke in the actual world, but it would have picked out someone else had history unfolded differently.
+
+Kripke also introduced the mechanism of the **historical causal chain**. How does a proper name successfully anchor to an object across space and time? Through an initial "baptism," followed by a communicative chain wherein speakers intend to use the name with the same reference as the person from whom they heard it. The name's reference is fixed not by satisfying a set of qualitative descriptions, but by historical-causal linkage to the original object.
+
+### Translating Modality to Temporality
+
+Can Kripke’s apparatus—designed for modal space (possible worlds)—be mapped onto temporal space (successive moments)? 
+
+Modality and temporality share a structural isomorphism. A possible world is a complete way things could have been; a temporal instant is a complete way things are at a specific moment in the unfolding universe. Arthur Prior and other temporal logicians have long noted the structural parallels between temporal operators ("it was the case that," "it will be the case that") and modal operators ("it is necessary that," "it is possible that").
+
+Let us apply Kripke’s distinction between rigid and nonrigid designation to our instantaneous-state framework regarding Penny.
+
+1. **The Nonrigid Treatment of Penny:** Suppose we define Penny descriptively: "the yellow wooden cylinder with a graphite core located on the desk at coordinates $(x, y, z)$." This is a nonrigid temporal designator. At $t_1$, it picks out $\text{object}*_{t_1}$. At $t_2$, after the pencil has rolled an inch to the left, that exact description might fail, or it might pick out a slightly different spatial region containing $\text{object}*_{t_2}$. More importantly, if we define Penny by its qualitative states, any change in Penny (e.g., losing a millimeter of length through sharpening) alters the qualitative profile, threatening to break the continuity if we rely on descriptive identity.
+
+2. **The Rigid Treatment of Penny:** What happens if we treat the proper name "Penny" as a **rigid temporal designator**? 
+   Just as "Saul Kripke" rigidly designates the same individual across possible worlds regardless of his qualitative alterations, the name "Penny" rigidly designates the *entire sequence*—or the underlying trans-temporal entity constituted by the sequence—across temporal instants, regardless of the qualitative mutations undergone by the individual $\text{object}*_{t_i}$ slices. 
+
+The proper name "Penny" does not mean "the yellow pencil with a sharp point." Rather, "Penny" is a rigid designator whose reference is fixed by an initial temporal baptism (when the pencil rolled off the factory line at $t_0$) and is propagated through temporal links of physical causation. At every instant $t_i$, when we point to $\text{object}*_{t_i}$ and say "That is Penny," we are using the name rigidly to pick out the temporal part (or instantaneous manifestation) of the trans-temporal sequence $\mathcal{P}$.
+
+Thus, Kripke’s semantics provides a powerful defense against the fragmentation of the object. Even though the physical bearer of properties at $t_1$ ($\text{object}*_{t_1}$) is ontologically distinct from the physical bearer at $t_2$ ($\text{object}*_{t_2}$), the *designation* remains strictly rigid. The name "Penny" tracks the historical-causal lineage of instantaneous states, anchoring them into a unified semantic and metaphysical unit.
+
+---
+
+## Part III: The Paradox of Change—The Case of Sharpening Penny
+
+With the semantic framework established, we must confront the central metaphysical tension of this model: **How can an object undergo physical change while retaining a consistent identity?**
+
+Let us test our framework with a concrete physical operation: sharpening Penny. 
+
+At $t_0$, Penny is a pristine, unsharpened pencil of length $L_1$. The instantaneous state is $\text{object}*_{t_0}$. 
+At $t_1$, Penny is pressed against a mechanical sharpener. Wood is shaved away, graphite is exposed and tapered, and mass is permanently lost. The instantaneous state at this moment is $\text{object}*_{t_1}$. 
+By $t_2$, Penny emerges as a shorter, sharper pencil of length $L_2$. The instantaneous state is $\text{object}*_{t_2}$.
+
+### The Leibnizian Challenge
+
+According to Leibniz’s Law of the Indiscernibility of Identicals (and its temporal corollary), if $A$ and $B$ are identical, they must share all the same properties. But $\text{object}*_{t_0}$ has a length of $L_1$ and a blunt end; $\text{object}*_{t_2}$ has a length of $L_2$ and a sharp point. Since $L_1 \neq L_2$ and "blunt" $\neq$ "sharp," $\text{object}*_{t_0}$ and $\text{object}*_{t_2}$ cannot be strictly identical. 
+
+In a traditional endurantist framework, this forces a dilemma: either Penny is not strictly identical to itself over time (meaning identity is loose and popular, violating strict logic), or change is an illusion (because an object must possess its properties essentially or timelessly).
+
+### The Instantaneous-Sequence Solution
+
+The instantaneous-state framework resolves this dilemma by flatly conceding the Leibnizian point regarding the temporal slices: **$\text{object}*_{t_0}$ and $\text{object}*_{t_2}$ are *not* identical.** They are numerically distinct entities. 
+
+The identity does not reside *within* any single instantaneous slice, nor does it reside in the impossible identity of conflicting qualitative states. Instead, identity resides in the **abstract sequence itself**—in the relational nexus of physical continuity, causal generation, and Kripkean rigid designation.
+
+Let us trace how physical causation bridges the gap between $\text{object}*_{t_0}$ and $\text{object}*_{t_2}$. $\text{object}*_{t_1}$ (the state during sharpening) is not a static picture; it is a dynamic process of particle displacement and energy transfer. The physical laws governing molecular bonds, friction, and shearing dictate that the matter constituting $\text{object}*_{t_1}$ causally generates $\text{object}*_{t_2}$. 
+
+Crucially, $\text{object}*_{t_2}$ inherits the historical-causal lineage of $\text{object}*_{t_0}$ and $\text{object}*_{t_1}$. It is because of this continuous, unbroken chain of physical states—each flowing naturally from its predecessor according to natural laws—that we are justified in grouping these discrete instantaneous entities into a single sequence $\mathcal{P}$, designated by the single proper name, Penny.
+
+### Qualitative Alteration vs. Numerical Identity
+
+Under this view, "change" is re-engineered. In traditional metaphysics, change is an enduring substance $S$ having property $P$ at $t_1$ and property $\sim P$ at $t_2$. As noted, this generates Lewis's problem of temporary intrinsics.
+
+In the instantaneous-state framework, *change is not something that happens to a persisting substance; change is the difference between successive instantaneous states in a sequence.* Penny does not "undergo" change in the active, internal sense of a substance mutating its core; rather, Penny *is* the trajectory of alterations mapped across temporal coordinates. 
+
+To say "Penny was sharpened" is to say:
+1. There exists a sequence of instantaneous states $\mathcal{P}$.
+2. For an earlier state $\text{object}*_{t_0}$ in $\mathcal{P}$, the spatial property of length is $L_1$ and the structural property of the tip is blunt.
+3. For a later state $\text{object}*_{t_2}$ in $\mathcal{P}$, the spatial property of length is $L_2$ ($L_2 < L_1$) and the structural property of the tip is sharp.
+4. The transition between these states is mediated by a continuous causal process of matter removal.
+
+Thus, physical change is fully accommodated without violating logic. The incompatible properties (blunt vs. sharp, $L_1$ vs. $L_2$) are never predicated of the *same* ontological entity at the *same* time. They are predicated of distinct instantaneous entities ($\text{object}*_{t_0}$ and $\text{object}*_{t_2}$) that belong to the same designated sequence.
+
+---
+
+## Part IV: The Principle of Self-Identity and the Anti-Reductionist Objection
+
+Despite the elegance of resolving temporary intrinsics, this framework provokes a severe counter-objection from traditional metaphysicians: **Does defining material objects as temporal sequences of distinct momentary states violate the fundamental principle that a material object must be necessarily self-identical across time?**
+
+Let us unpack this objection in depth.
+
+### The Objection from Necessary Self-Identity
+
+The critic argues that our ordinary concept of a physical object—a pencil, a table, a human body—entails that the object is a *substance* that maintains its self-identity in a robust, non-reductionist manner. To be a physical object is to be an enduring unity that is fully present at every moment of its career. 
+
+If we reduce Penny to an abstract sequence of instantaneous physical states ($\text{object}*_{t_0}, \text{object}*_{t_1}, \dots, \text{object}*_{t_n}$), what are we actually doing? We are dissolving the concrete object into an abstract mathematical construct—a set or sequence. 
+
+1. **Ontological Eliminativism Disguised:** The critic charges that this framework is a form of eliminativism in disguise. By claiming that no single physical object exists for more than an instant, the theory has essentially denied the existence of enduring macroscopic objects altogether. It has replaced them with fleeting micro-events or momentary slices, treating the "pencil" as nothing more than a series of cinematographic frames.
+2. **The Violation of Leibniz’s Law across Time:** If Penny is claimed to *be* the entire sequence, then Penny exists at $t_0$ and Penny exists at $t_2$. But if Penny-at-$t_0$ ($\text{object}*_{t_0}$) and Penny-at-$t_2$ ($\text{object}*_{t_2}$) are strictly distinct, then Penny is not identical with itself across time. Yet, the law of identity states that $\forall x (x = x)$. If Penny is identical to the sequence, but the sequence is composed of non-identical parts, we face a mereological paradox of identity.
+3. **The Loss of Bearer of Predicates:** If there is no enduring substance, what is the bearer of dynamic properties? When we say "Penny is rolling across the table," what is "rolling"? A sequence cannot roll; only a three-dimensional physical substance can roll. If instantaneous states are motionless (since motion requires a temporal interval over which change of place occurs), then motion becomes an insoluble puzzle. A zero-duration snapshot cannot capture motion; it can only capture rest at a point.
+
+### Evaluating the Objection through Kripkean Rigid Designation
+
+How can the instantaneous-state framework answer this formidable critique? We must return to Saul Kripke’s philosophy of language and identity, specifically his treatment of identity statements and rigid designation.
+
+In *Naming and Necessity*, Kripke famously argued that identity statements between rigid designators, if true, are *necessarily* true. When we say "Hesperus is Phosphorus," both names rigidly designate the planet Venus. The identity is necessary, even though it was discovered a posteriori through empirical investigation.
+
+Now, how does this apply to our temporal sequence $\mathcal{P}$?
+
+The proper name "Penny" is a rigid designator that picks out the entire four-dimensional spacetime trajectory—or the ordered sequence of instantaneous states—$\langle \text{object}*_{t_0}, \text{object}*_{t_1}, \dots, \text{object}*_{t_n} \rangle$. When we assert "Penny at $t_0$ is identical to Penny at $t_2$," what kind of identity are we invoking?
+
+We are *not* claiming that $\text{object}*_{t_0} = \text{object}*_{t_2}$. That would be a category mistake, conflating temporal parts (or instantaneous states) with the whole sequence. Rather, we are claiming that $\text{object}*_{t_0}$ and $\text{object}*_{t_2}$ are *temporal constituents* of the single, unified entity designated by the rigid designator "Penny."
+
+Consider an analogy in modal space. Kripke discusses how an individual, say, Richard Nixon, is picked out rigidly across possible worlds. In world $W_1$, Nixon loses the 1968 election; in world $W_2$, he wins. Nixon-in-$W_1$ and Nixon-in-$W_2$ have different properties. Yet, they are parts of the trans-world individual, Nixon. Kripke insists that Nixon’s trans-world identity is not established by matching properties across worlds, but by the fact that the rigid designator "Nixon" anchors to the same individual via origin and causal history.
+
+In temporal space, the exact same principle applies. The trans-temporal identity of Penny is not established by qualitative similarity between $\text{object}*_{t_0}$ and $\text{object}*_{t_2}$. It is established by the *historical-causal continuity* that links the instantaneous states into a continuous sequence, anchored by the rigid designator "Penny."
+
+### Defending the Reality of the Sequence
+
+To the critic's charge that an "abstract sequence" is merely a nominal fiction and not a real physical object, the framework responds by expanding our ontology of persistence: **sequences can be thoroughly physical.**
+
+A four-dimensional spacetime worm (in the tradition of W.V.O. Quine and David Lewis) or an ordered sequence of instantaneous states is not a platonic abstraction floating outside the physical universe. It is a concrete reality distributed across temporal dimensions. To say Penny is a sequence of instantaneous physical states is not to reduce Penny to a set of numbers; it is to recognize that a physical object *is* its temporal extension. 
+
+Just as a spatial object is composed of spatial parts (the wood, the graphite, the metal ferrule, the eraser), a temporal object is composed of temporal parts. The instantaneous state $\text{object}*_{t_i}$ is simply the temporal analogue of a spatial slice. We do not object to a pencil being composed of spatial parts (asserting that the wood is not "the whole pencil"); why should we object to it being composed of temporal parts?
+
+Furthermore, regarding the objection about motion (how can a zero-duration state "roll"?), the instantaneous-state framework adopts a sophisticated kinematics. An instantaneous state $\text{object}*_{t_i}$ does not possess velocity as an intrinsic property of that single flash, just as a single spatial point does not possess a slope by itself. Velocity and motion are relational properties defined across a sequence of instantaneous states ($x(t_2) - x(t_1) / t_2 - t_1$). 
+
+When we say "Penny is rolling," we are predicating a dynamic relational property of the *sequence* $\mathcal{P}$ (or to a continuous interval of states within $\mathcal{P}$), mediated by the physical laws operating between $t_1$ and $t_2$. The subject of motion is the sequence itself, viewed dynamically.
+
+---
+
+## Part V: Comparative Metaphysics—Endurantism, Perdurantism, and the Instantaneous Model
+
+To fully evaluate the viability of our proposed framework, it is illuminating to compare it with the two dominant traditional theories of persistence: **Endurantism** and **Perdurantism (Four-Dimensionalism)**.
+
+### 1. Endurantism (3Dism)
+* **Core Thesis:** Objects are three-dimensional entities that endure through time, being wholly present at every moment they exist.
+* **Problem:** Fails to satisfactorily resolve temporary intrinsics and the paradox of mereological change (e.g., the Ship of Theseus). If all parts change, how is it the same ship?
+
+### 2. Perdurantism (4Dism)
+* **Core Thesis:** Objects are four-dimensional spacetime worms composed of temporal parts (or "time-slices") that extend across a temporal interval.
+* **Relation to Our Model:** Our instantaneous-state framework is a radicalized, fine-grained variant of Perdurantism. While standard perdurantism often speaks of "temporal parts" that may have finite duration (e.g., "Penny during the year 2023"), our framework pushes the reduction down to the limit: **mathematical instants ($t$)**. 
+
+By pushing temporal parts down to instantaneous states ($\text{object}*_t$), our framework avoids arbitrariness. Why should a temporal part be one second long, or one hour long? By defining the base unit as an instantaneous state, we achieve ontological rigor: the fundamental building blocks of macroscopic objects are zero-duration physical states.
+
+### 3. The Kripkean Advantage in Perdurantism
+Traditional perdurantism often struggles with trans-temporal identity and naming. If Penny is just a collection of temporal slices, what makes them *one* object rather than a scattered heap of disconnected time-slices? 
+
+Here, Kripke’s causal theory of reference rescues the perdurantist ontology. The proper name "Penny" is not attached to the arbitrary collection of slices by our linguistic definitions; rather, the name is rigidly affixed to the initial instantaneous state (the baptism) and tracks the physical-causal trajectory forward through time. 
+
+The rigid designator "Penny" guarantees that wherever the historical-causal chain of instantaneous states leads, the name refers to that unified sequence. Kripkean rigid designation provides the semantic glue that binds the discrete instantaneous flashes into a single, cohesive metaphysical object.
+
+---
+
+## Conclusion
+
+The claim that material objects exist only for single instants and maintain identity through time exclusively as abstract sequences of instantaneous physical states initially strikes common sense as bizarre. It asks us to abandon the comforting intuition of the enduring substance—the idea that Penny the pencil remains wholly present, resting on the desk, identical with herself from morning until night.
+
+Yet, when subjected to rigorous philosophical analysis and enriched by Saul Kripke’s semantics of rigid designation, this instantaneous-state framework reveals profound explanatory power. 
+
+* It successfully bypasses the intractable puzzles of temporary intrinsics, avoiding contradictions when Penny transitions from being sharp to being blunt.
+* It aligns our ontology with the dynamic, flux-driven picture of modern physics, where matter and energy are in continuous transformation.
+* It deploys Kripke’s revolutionary insights—moving from modal space to temporal space—to demonstrate how a proper name can rigidly designate a distributed sequence of momentary entities, anchored by historical-causal continuity rather than static qualitative identity.
+
+Against the objection that reducing macroscopic objects to temporal sequences violates the principle of self-identity, we have shown that identity is preserved not within the isolated instantaneous slice, but across the lawful, causal trajectory of the sequence itself. Penny is not a static monolith; she is a dynamic melody composed of instantaneous notes, bound together by the rigorous logic of physical causation and the unyielding anchor of a rigid proper name. 
+
+In the final analysis, the instantaneous-state framework does not destroy the reality of material objects; rather, it deepens our understanding of what it means to persist in a universe where time does not pause for substance, but continuously creates and destroys the world anew at every single mathematical flash of existence.

@@ -1,0 +1,278 @@
+# Penny Through Time: Rigid Designation, Temporal Sequences, and the Identity of Material Objects
+
+## Introduction
+
+Material objects appear to persist through change. A pencil may be manufactured, used, sharpened, broken, repaired, and eventually discarded, yet it seems to remain one and the same pencil throughout these alterations. The persistence of ordinary objects therefore raises a fundamental metaphysical question: what, exactly, makes an object at one time identical with an object at another time? One influential answer is that material objects do not literally endure as wholly present entities across time. Rather, at each instant there exists a distinct instantaneous physical entity, and what we ordinarily call a persisting object is an ordered sequence of such entities. On this view, the pencil named “Penny” is not one numerically identical material thing existing at every moment. It is a temporally extended sequence of momentary objects, or “object*s,” each of which exists only at one instant.
+
+This proposal resembles forms of perdurantism or four-dimensionalism. It promises to explain change without requiring that one and the same object possess incompatible properties. Penny is sharpened because one object* has an unsharpened or less-sharpened condition, while a later object* has a sharpened condition. The apparent contradiction—Penny is both sharpened and not sharpened—is dissolved by treating the predicates as applying to different temporal members of the sequence.
+
+Yet the proposal generates a serious difficulty. If the object*s are genuinely distinct entities, how can the sequence as a whole be Penny rather than merely a succession of related but numerically different things? Moreover, does defining a material object as a sequence of distinct momentary states violate the principle that an object must be necessarily self-identical across time? If Penny is identical with a sequence, and no individual object* persists from one instant to another, perhaps Penny is not really self-identical through time. The framework may seem to preserve change only by abandoning persistence.
+
+Saul Kripke’s distinction between rigid and nonrigid designation provides a useful instrument for examining this issue. A rigid designator refers to the same object in every possible world in which that object exists; a nonrigid designator may refer to different objects in different possible worlds. The name “Penny” can therefore be used to ask whether it rigidly designates a persisting material object, a temporal sequence, or perhaps an object* at a particular instant. Kripke’s views also help distinguish numerical identity from qualitative similarity and clarify why change does not by itself threaten identity. At the same time, Kripke’s framework exposes the limits of the sequence proposal: rigid designation can secure reference to an entity, but it cannot by itself explain why that entity should count as a unified object rather than an arbitrarily constructed aggregate.
+
+The sequence ontology is therefore philosophically defensible, but only if it is formulated carefully. It does not violate self-identity merely because its members are distinct across time. However, it must distinguish the identity of the sequence from the identity of its members, explain the relations that unify the sequence, and clarify how ordinary names such as “Penny” function. Without such an account, the framework risks replacing the mystery of persistence with the equally difficult mystery of temporal composition.
+
+## I. The Puzzle of Persistence Through Change
+
+The traditional puzzle begins with the apparent conflict between identity and change. If an object changes, then it is different after the change from how it was before the change. If it is genuinely different, how can it be the same object? Consider a pencil that is gradually shortened by sharpening. Before sharpening, Penny has a certain length, shape, distribution of graphite, and condition of its wooden casing. After sharpening, it has a different length and shape. If identity requires complete sameness, Penny cannot be identical before and after sharpening. But if Penny is not identical before and after sharpening, then it seems that the pencil ceased to exist and another pencil came into being.
+
+The intuitive solution is to distinguish numerical identity from qualitative identity. Two things are numerically identical when they are one and the same thing; they are qualitatively identical when they share properties. An object can remain numerically identical while changing qualitatively. A child and the adult into which that child develops are not qualitatively identical, but they may be numerically identical. Similarly, a pencil may be numerically the same pencil while having different lengths at different times.
+
+This solution, however, requires a conception of identity that is not reducible to the possession of all the same properties. The principle of identity is ordinarily expressed as:
+
+\[
+x = x.
+\]
+
+It does not say that an object must have exactly the same properties at every time. It says that each thing is identical with itself. The difficulty arises when temporal language is introduced. We say that Penny is three inches long at one time and two inches long at another. If “Penny” refers to one and the same object in both statements, there is no contradiction, because the predicates are time-indexed:
+
+\[
+\text{Penny is three inches long at } t_1
+\]
+
+and
+
+\[
+\text{Penny is two inches long at } t_2.
+\]
+
+The contradiction would arise only if we omitted the temporal qualifications and asserted that Penny is both three inches and two inches long at the same time and in the same respect.
+
+Still, some philosophers find this enduring-object picture metaphysically problematic. If an object is wholly present at every moment of its existence, then how can it have incompatible properties at different times? The enduring object seems to be one thing that is both altered and unchanged, depending on when it is considered. Perdurantism responds by treating the object as extended through time in much the same way that it is extended through space. A physical object has spatial parts located in different places and temporal parts located at different times. The object existing from one time to another is not a momentary entity wholly present at each instant; it is a temporally extended whole composed of momentary or short-lived parts.
+
+The proposed ontology intensifies this idea. It claims that macroscopic objects exist only for single instants and that their apparent persistence is exclusively an abstract sequence of instantaneous physical states. Penny, on this view, is not a substance enduring through time but an ordered series:
+
+\[
+P = \langle p_{t_1}, p_{t_2}, p_{t_3}, \ldots \rangle.
+\]
+
+Each \(p_{t_i}\) is an object* existing only at \(t_i\). Penny is the sequence itself, not any one of its members.
+
+This provides an elegant response to the problem of change. The object* at \(t_1\) is not identical with the object* at \(t_2\), so there is no single instantaneous entity that is both unsharpened and sharpened. Instead, the earlier and later object*s occupy different positions in a temporally ordered structure. The properties of Penny at a time are determined by the properties of its temporal member at that time.
+
+The price of this solution is that persistence becomes derivative. The fundamental entities do not persist. Only the sequence persists, and whether a sequence deserves to be called a material object becomes a central question.
+
+## II. Kripke on Rigid and Nonrigid Designation
+
+Kripke’s distinction between rigid and nonrigid designation is primarily a distinction concerning reference across possible worlds. A rigid designator designates the same object in every possible world in which that object exists. A nonrigid designator designates different objects in different possible worlds.
+
+For example, “the inventor of bifocals” is nonrigid because different individuals might have invented bifocals in different possible circumstances. By contrast, a proper name such as “Aristotle,” according to Kripke, is rigid: it refers to Aristotle in every possible world in which Aristotle exists, even in worlds where Aristotle did not become a philosopher or did not teach Alexander. The name is not equivalent in meaning to a definite description such as “the teacher of Alexander.”
+
+This distinction matters for the case of Penny. Suppose “Penny” is a proper name introduced through a baptismal act or a causal chain of reference. If it is rigid, then Penny refers to the same object across possible worlds, rather than to whichever object satisfies a description such as “the pencil on the desk” or “the pencil that I am currently holding.” The question then becomes: what is the object to which the name rigidly refers?
+
+There are at least three possibilities.
+
+First, “Penny” could rigidly designate an enduring substance. On this interpretation, Penny is one material object that exists at different times and undergoes changes. Its temporal identity is primitive or grounded in some continuity relation.
+
+Second, “Penny” could rigidly designate a four-dimensional sequence or aggregate of object*s. In that case, the name refers to the same sequence in every possible world in which that sequence exists. The sequence may have different properties in different worlds—perhaps Penny is sharpened in one world and never sharpened in another—but the name still rigidly designates the same modal individual, namely that particular temporally ordered object.
+
+Third, “Penny” could designate an object* associated with a particular instant. Then “Penny at \(t_1\)” and “Penny at \(t_2\)” might refer to different entities, each rigidly designated relative to its own temporal location. Ordinary usage, however, would usually treat “Penny” as naming the whole pencil rather than one instantaneous stage. A stage-theoretic version of the view would need an additional relation of counterpartship or a convention that allows a name introduced for one stage to be extended to a temporal series.
+
+Kripke’s distinction helps show that rigidity does not entail endurance. A name can rigidly designate a temporally extended object even if that object has different temporal parts. Rigidity concerns sameness of reference across possible worlds, not the mode of existence of the referent through time. A four-dimensional sequence may therefore be a perfectly legitimate rigid designatum.
+
+This point is important because one might mistakenly reason as follows: if Penny changes, then “Penny” must refer to different things at different times; and if it refers to different things, it is nonrigid. But this inference confuses temporal variation with modal variation. A designator may refer to one object at all times while that object has different temporal parts, or it may refer to one temporally extended object across worlds even though the object’s temporal history differs from world to world. Nonrigidity is not simply a matter of reference changing over time.
+
+However, Kripke’s account also creates pressure for the sequence theory. If “Penny” rigidly designates the sequence, then the sequence must be a genuine entity with determinate identity conditions. It is not enough to say that the name refers to “the sequence of object*s that constitute Penny,” because that description risks being circular. What makes a particular sequence Penny rather than another sequence? Is it the sequence’s physical continuity, causal history, origin, spatial path, functional organization, or some primitive historical fact?
+
+Kripke’s discussion of necessary identity is especially relevant here. If “Penny” and “the sequence of object*s \(\langle p_{t_1}, p_{t_2}, \ldots\rangle\)” rigidly designate the same object, then the identity between them is necessary, assuming both refer to objects. But this does not mean that Penny must possess the same qualitative properties in every possible world. A necessary identity statement does not imply that all properties of the identified object are necessary properties. Penny could have been sharpened differently, or not sharpened at all, while remaining Penny. What is necessary is that if Penny is identical with a particular sequence, then Penny is that sequence, not some other object.
+
+Thus Kripke helps separate three claims:
+
+1. Penny is numerically identical with itself.
+2. Penny is identical with a particular temporal sequence.
+3. Penny has the same qualitative properties in every world or at every time.
+
+The first and second claims may be necessary identity claims. The third does not follow from them.
+
+## III. Penny as an Ordered Sequence of Object*s
+
+The sequence proposal is most plausible when understood as a form of temporal-part ontology. Let an object* be a physical entity whose temporal extent is a single instant. Penny is then an ordered sequence of such object*s:
+
+\[
+P = \langle p_0, p_1, p_2, \ldots \rangle.
+\]
+
+The ordering is temporal. Each object* has a physical condition at its instant: a particular shape, mass distribution, molecular organization, and location. Adjacent object*s are related by laws of physical evolution and by causal continuity. The later object* is not created ex nihilo but arises from the physical development of the earlier state.
+
+On this model, Penny’s properties can be analyzed in two ways. Some properties are properties of the object*s themselves. For example, \(p_0\) has a particular length and \(p_1\) has another. Other properties are properties of the sequence as a whole. Penny has a history of sharpening, a temporal duration, and perhaps a function as a writing instrument. These are not properties of any one instantaneous object* but of the ordered series.
+
+The distinction resembles the relation between a melody and its notes. No individual note is the melody, yet the melody is not something wholly separate from the notes. It is an organized sequence of notes. Similarly, no object* is Penny, but Penny is constituted by the organization of object*s in a temporal order. The analogy is imperfect, since physical objects are causally continuous in a way melodies need not be, but it illustrates how a whole may possess properties not possessed by any single member.
+
+The sequence view also resembles the relation between a road and its spatial segments. No individual segment is the entire road, and the segments may be numerically distinct. Nevertheless, the road is not thereby unreal. It is a spatially extended whole whose identity depends on the ordered arrangement and connection of its parts. Temporal extension can be treated analogously.
+
+The framework must nonetheless specify what counts as the “same” sequence. Mere succession is insufficient. Any arbitrary collection of instantaneous physical objects can be arranged in a temporal order. Consider a sequence beginning with an object* located in London at noon, followed by an object* located on Mars one second later, followed by an object* consisting of a cloud of gas. Such a series is a sequence, but it is not plausibly the history of one pencil. A genuine material-object sequence requires more than order. It requires suitable relations among its members.
+
+Potential unifying relations include:
+
+- **Spatiotemporal continuity:** successive object*s occupy connected or continuously changing regions of spacetime.
+- **Causal continuity:** later states arise from earlier states according to physical processes.
+- **Structural continuity:** the organization of the object changes gradually enough to preserve a stable system.
+- **Functional continuity:** the object continues to perform, or remains disposed to perform, the relevant function.
+- **Historical continuity:** the object has a continuous origin and biography.
+- **Conventional continuity:** ordinary practices treat the sequence as one object under specified conditions.
+
+No single relation is obviously sufficient in every case. A pencil can be broken into two pieces, and each piece may preserve some form of continuity with the original. A repaired pencil may contain many replacement parts. A pencil can be melted down and reconstituted. These cases reveal that identity conditions are not simply given by microscopic continuity.
+
+The sequence ontology can respond by making identity pluralistic or context-sensitive. A sequence counts as one object under some criteria and as several objects under others. Before breaking, the pencil is one sequence; after breaking, two successor sequences may be identified with the original in different respects. Alternatively, the ontology may adopt a stricter criterion, according to which the original Penny ceases to exist once a sufficiently radical disruption occurs.
+
+But these options show that the sequence theory does not eliminate the traditional problem of identity. It relocates it from “How can one object have incompatible properties?” to “Which temporal sequences constitute one object?” This is not necessarily a defect. Philosophical theories often transform an obscure problem into a more tractable one. Yet the proposed framework must acknowledge that sequence membership and sequence unity require explanation.
+
+## IV. Sharpening and the Logic of Change
+
+Sharpening presents a particularly vivid test. Suppose Penny is initially blunt. At \(t_1\), the pencil has a rounded or broad graphite tip. At \(t_2\), after contact with a sharpener, it has a narrow point. If “Penny” designates one enduring object, then we may say:
+
+\[
+\text{Penny is blunt at } t_1
+\]
+
+and
+
+\[
+\text{Penny is sharp at } t_2.
+\]
+
+The predicates are not contradictory because they are temporally indexed. The sequence theory offers a more metaphysically robust interpretation:
+
+\[
+\text{Blunt}(p_{t_1})
+\]
+
+and
+
+\[
+\text{Sharp}(p_{t_2}).
+\]
+
+Penny is sharp at \(t_2\) because its \(t_2\)-object* is sharp. It is blunt at \(t_1\) because its \(t_1\)-object* is blunt. There is no one instantaneous entity with both incompatible properties.
+
+This solution is attractive because it treats change as variation across temporal parts rather than alteration of a wholly present substance. It also permits a clear account of gradual change. If sharpening takes place over a finite interval, there are object*s corresponding to intermediate states: slightly worn, partly exposed graphite, increasingly narrow wood, and so forth. The sequence records a continuous or sufficiently fine-grained physical evolution.
+
+Yet instantaneous states create a further issue. If object*s exist only at single instants, then no object* undergoes change. Change is a relation between different object*s. The object* at \(t_1\) does not become the object* at \(t_2\); it simply exists at \(t_1\), while another exists at \(t_2\). This view can describe change, but whether it explains change is debatable.
+
+A critic may argue that genuine change requires something to persist through the change. If the earlier pencil-stage disappears and a numerically distinct later stage appears, then there is only replacement, not alteration. The theory seems to redescribe a process as a succession of states. The physical laws may connect the states, but the connection is not identity.
+
+The perdurantist can reply that alteration need not involve a single object* changing. It involves a temporally extended object having different temporal parts with different properties. A road does not need each spatial point to change in order for the road to have a changing shape along its route. Likewise, Penny does not need each temporal part to persist in order for Penny, as a whole, to have a history of sharpening. The sequence is the entity whose history is described, even though its members are instantaneous.
+
+This response depends on treating the sequence as more than an abstract representation. If Penny is merely a description or set-theoretic list of states, then it may not be a physical object at all. It would be an abstract object like a function from times to physical states. An abstract sequence does not sharpen, occupy space, or cause marks on paper. The physical work is done by the instantaneous stages and their causal relations, not by the sequence as an abstract entity.
+
+Consequently, the theory needs to distinguish between two senses of “sequence.” In one sense, the sequence is an abstract mathematical representation of the history of Penny. In another, it is a concrete four-dimensional physical whole whose parts are temporally located object*s. The first sense is useful for description but cannot itself be the material pencil. The second sense can be a material object, but then it is not merely abstract. It is a concrete entity extended across time.
+
+The claim that material objects “exist only for single instants” sits uneasily with the second interpretation. If only object*s are fundamental, the whole sequence may be derivative but still concrete. If the sequence is genuinely abstract, then ordinary material objects are not concrete entities but abstract constructions from momentary physical entities. The theory must decide whether it is a metaphysical reduction or a harmless mode of description.
+
+## V. Does the Framework Violate Necessary Self-Identity?
+
+The strongest objection states that an object must be necessarily self-identical across time. If Penny is one object, then Penny at \(t_1\) must be identical with Penny at \(t_2\). But the sequence view says that the object* at \(t_1\) is not identical with the object* at \(t_2\). Therefore, either Penny is not one object or the theory violates the principle of identity.
+
+This objection has force only if the sequence is identified with one of its members, or if “Penny at \(t_1\)” is assumed to refer to the whole object in exactly the same way as “the object* at \(t_1\).” The sequence theory need not make either assumption. It can maintain:
+
+\[
+p_{t_1} \neq p_{t_2}
+\]
+
+while also maintaining:
+
+\[
+P = P.
+\]
+
+There is no formal inconsistency here. A whole can be numerically identical with itself while having distinct parts. The fact that the parts are not identical with one another does not imply that the whole is not self-identical.
+
+Consider a spatial object composed of parts. Let a bicycle consist of a front wheel and a rear wheel. The front wheel is not identical with the rear wheel, but the bicycle is identical with itself. If the bicycle’s parts are replaced, the identity conditions become difficult, but the mere nonidentity of parts does not threaten the identity of the whole. Temporal parts can be treated in the same way. Penny’s earlier object* is not Penny as a whole; it is one temporal part of Penny. Penny is the ordered four-dimensional entity composed of all its temporal parts.
+
+The phrase “necessarily self-identical across time” also needs clarification. The logical principle of identity says that necessarily:
+
+\[
+\forall x(x=x).
+\]
+
+It does not say that if \(x\) exists at multiple times, then every temporal part of \(x\) must be identical with every other temporal part. Nor does it say that all properties of \(x\) remain constant. The principle is not a principle of immutability.
+
+There is, however, a stronger metaphysical thesis:
+
+> If an object exists at two times, it must be the very same object at both times.
+
+The sequence theorist can accept this thesis by identifying the persisting object with the sequence \(P\), while denying that any object* persists. Penny exists at both times because \(P\) has temporal parts at both times. The object* at \(t_1\) and the object* at \(t_2\) are not the same object, but they are parts of the same object.
+
+The critic may respond that this is verbal maneuvering. If Penny is nothing over and above the object*s, then how can the sequence be identical with itself when its constituents are replaced at every instant? The answer is that identity of a composite does not require identity of constituents across time. A river remains one river despite continuous change in its water. A university remains one institution despite changes in its members. A nation remains one political entity despite changes in population. Such examples do not prove that persistence is reducible to temporal sequences, but they show that self-identity does not require constituent identity.
+
+Still, Kripke’s conception of necessary identity highlights a deeper issue. If Penny is rigidly designated by “Penny,” and if Penny is identical with a particular sequence \(P\), then necessarily Penny is \(P\). But a sequence is individuated by its members and their order. If even one object* differs, the sequence may be a different sequence. This appears to make Penny’s entire history necessary. Yet we ordinarily think Penny could have had a different history: it could have been sharpened earlier, or not sharpened at all.
+
+The apparent problem can be addressed by distinguishing the actual sequence from the modal possibilities concerning its properties. If \(P\) is a concrete historical object, then its actual temporal parts are fixed. In another possible world, there may be a counterpart sequence with a different history. But Kripke’s rigid designation would suggest that “Penny” refers to Penny itself, not merely to a counterpart. Thus one must say that Penny exists in worlds where its history differs, while denying that the sequence’s members are essential to it. This is difficult if the sequence is literally individuated by its complete membership.
+
+A four-dimensionalist may instead argue that a persisting object has its temporal parts essentially, much as an ordinary object has its spatial parts essentially under some conception of identity. On this view, Penny could not have had a different history and still have been numerically the same four-dimensional object. This is a form of “necessity of origin” or essential historical structure. It is a coherent metaphysical position, but it conflicts with strong intuitions about what Penny could have undergone.
+
+Alternatively, the theorist can reject the claim that ordinary names rigidly designate complete temporal histories. “Penny” might rigidly designate an underlying physical system or origin, while its temporal sequence varies across worlds. But then the sequence is not the whole referent, and the account must reintroduce some enduring or modal basis for identity.
+
+Kripke’s framework thus does not refute the sequence ontology, but it forces it to confront modal identity. A theory that defines Penny as a complete sequence must decide whether Penny’s exact history is essential. If it says yes, it obtains a clear identity condition at the cost of making many ordinary counterfactuals false. If it says no, it must explain how the same sequence can have different members, since changing the members seems to produce a different sequence.
+
+## VI. Rigid Designation and the Identity of a Sequence
+
+The relation between names and sequences can be developed more carefully. Suppose “Penny” is introduced while a certain pencil is on a desk. The name is then passed through a causal-historical chain. On a Kripkean account, the name rigidly designates the object initially named, provided the reference chain is preserved. If the object is a sequence, the baptism may be understood as naming the entire spacetime worm, even though speakers encounter only one temporal part of it at a time.
+
+This possibility is not absurd. We routinely name entities whose full spatial or temporal extent is not perceptually available. A person’s name refers to the person across the entirety of that person’s life, not merely to the person’s current bodily state. A ship’s name may continue to refer to it through repairs and replacements. The speaker does not need to know the complete history in order to refer to the object.
+
+Nevertheless, ordinary linguistic practice tends to treat Penny as an object that can be reidentified after change. If the sequence account is correct, reidentification is successful because later object*s stand in the right relations to earlier object*s. The name remains rigid because it continues to refer to the same sequence. The word “Penny” does not shift from one object* to another; rather, it refers to the whole sequence, while context determines which temporal part is being discussed.
+
+This analysis makes temporal modifiers semantically important. “Penny at \(t_1\)” refers to a temporal part of Penny, not to a new object that replaces Penny. Similarly, “Penny before sharpening” and “Penny after sharpening” refer to temporal segments or stages of the same four-dimensional object. The sequence is the bearer of the proper name; its stages are parts of the bearer.
+
+A nonrigid description behaves differently. “The pencil currently on the desk” may refer to one pencil in one world and another pencil in another world. “The pencil that was sharpened yesterday” may also be nonrigid, because different pencils could satisfy that description in different circumstances. The name “Penny,” by contrast, can remain fixed even when descriptive properties change. This is precisely what one would expect if Penny survives sharpening: the descriptive content varies, while the reference remains stable.
+
+But if “Penny” rigidly designates a sequence, then the sequence’s identity cannot be grounded solely in a temporary description such as “the object* present at \(t_1\).” That description is nonrigid or incomplete. It could pick out many different object*s in different worlds. What is needed is a historical and causal account of the sequence’s construction: it begins with a particular origin, proceeds through physically connected states, and ends at a particular point. The name is attached to that history as a whole.
+
+This suggests that rigid designation and physical continuity complement one another. Rigidity explains how reference can remain constant despite changing descriptions. Physical continuity explains why the sequence is treated as one object rather than an arbitrary list. Neither component is sufficient alone.
+
+## VII. The Problem of Arbitrary Temporal Segmentation
+
+A further challenge concerns the granularity of object*s. If every material object exists only for a single instant, then what counts as an instant? Physical processes may not divide naturally into discrete stages. Time may be continuous, in which case Penny would contain uncountably many object*s. If time is discrete, the theory must explain the duration of each interval and why one state rather than another is fundamental.
+
+More importantly, if a sequence can be divided into subsequences in many ways, which sequence is the object Penny? Consider the sequence of all instantaneous states from manufacture to destruction. Is Penny the entire sequence? Is Penny also the sequence from manufacture to the first sharpening? Is it the sequence from the moment it was purchased to the moment it was placed in a drawer? These are all temporal sequences associated with the pencil, but they are not identical if identity is sensitive to membership.
+
+The theory may distinguish between maximal and nonmaximal sequences. Penny could be the maximal temporally continuous sequence beginning with its manufacture and ending with its destruction. Temporal segments would then be parts of Penny, not separate objects of the same kind. This resembles the distinction between a whole road and a section of road. It is coherent, but it requires an account of beginnings and endings. If the pencil is repaired, does the sequence continue? If its graphite is replaced, is the later stage part of Penny? If it is broken and one part is preserved, does Penny continue as that part, as both parts, or as neither?
+
+The traditional endurance theory faces analogous questions, but it often appeals to substance, organismic unity, or causal continuity. The sequence theory cannot simply appeal to “the sequence” without specifying the criteria for sequence unity. The order of states is necessary but not sufficient.
+
+One possible answer is to treat object identity as interest-relative. For practical purposes, Penny may be identified with the sequence of states preserving a certain functional and causal organization. For microphysical purposes, the original pencil may be regarded as a constantly changing aggregate of particles. For legal or social purposes, it may continue through extensive replacement. There may be no single metaphysically privileged answer.
+
+Another answer is to adopt a layered ontology. At the fundamental level are instantaneous physical states. At a higher level are concrete sequences unified by causal and structural relations. At an even higher level are ordinary objects identified by human practices and functions. “Penny” can rigidly designate a higher-level object whose physical realization consists in an appropriately unified sequence. This allows the theory to acknowledge that object identity is not simply read off from the inventory of instantaneous microstates.
+
+The danger is that the higher-level object becomes explanatory fiction. If the real entities are only object*s, and Penny is merely a convenient sequence, then claims about Penny may be reducible but not literally true in the ordinary sense. The pencil appears to write, but strictly speaking only instantaneous states and physical processes write. Some philosophers accept this revisionary consequence; others regard it as evidence that the ontology has eliminated too much of ordinary reality.
+
+## VIII. Assessment of the Framework
+
+The sequence ontology has several significant virtues. First, it offers a direct solution to the problem of incompatible properties. Penny is not blunt and sharp in the same temporal respect, because those properties belong to different object*s or temporal parts. Second, it provides a natural account of gradual physical change, since the changing physical configuration can be represented by a temporally ordered series. Third, it is compatible with a scientific picture in which the state of a physical system at a time determines or constrains its subsequent evolution. Fourth, it allows rigid designation to function without requiring qualitative invariance. The name “Penny” can rigidly refer to one temporally extended entity even while the entity changes throughout its history.
+
+The theory also clarifies why identity should not be confused with sameness of properties. A pencil remains the same pencil without remaining the same length, shape, or material configuration. The sequence model makes this distinction explicit.
+
+Its weaknesses are equally important. The framework may appear to explain persistence by stipulating a sequence rather than by identifying a genuine unity. If Penny is merely a list of states, then the list itself does not have the causal powers of a pencil. If it is a concrete whole, then the claim that material objects exist only at single instants is misleading, since the whole object has temporal extension. The ontology must choose between a reductive abstraction and a four-dimensional concrete object.
+
+The theory also faces the “replacement” objection. Since no object* persists, perhaps nothing undergoes change; one state simply succeeds another. The best reply is that change is a property of the temporally extended sequence, not of any individual stage. This answer is coherent, but it depends on granting the sequence genuine ontological status.
+
+Finally, the theory must address modal identity. If “Penny” rigidly designates the complete sequence, then Penny’s exact history may be necessary. That result conflicts with the intuition that Penny could have been sharpened differently. If the sequence can vary across possible worlds, then the theory needs an account of how the same object can have different temporal members. Kripke’s rigid designation does not solve this problem automatically. It makes the question sharper by requiring a distinction between the identity of the referent and the contingent properties of its history.
+
+The objection from necessary self-identity, however, is not decisive. It is false that an object must have identical properties at every time, and it is equally false that a composite object cannot remain self-identical while its parts differ. The sequence view can consistently claim that:
+
+\[
+p_{t_1} \neq p_{t_2}
+\]
+
+while:
+
+\[
+P = P
+\]
+
+throughout the relevant temporal interval. What must be rejected is not the principle of identity but the assumption that a persisting object must be identical with one of its instantaneous stages.
+
+## Conclusion
+
+The claim that material objects exist only for single instants and persist exclusively as abstract sequences of instantaneous physical states offers a powerful but revisionary account of persistence. Applied to Penny, it says that there is no single momentary pencil that survives sharpening. Instead, there are countless object*s, each occupying one instant, and Penny is the temporally ordered unity formed by them.
+
+Kripke’s distinction between rigid and nonrigid designation helps clarify the semantic and metaphysical stakes. “Penny” can rigidly designate the same temporally extended sequence across possible worlds, even though the sequence has different properties at different times. Rigidity does not require immutability, nor does it imply that the name shifts from one stage to another. It concerns the stability of reference across worlds. At the same time, rigid designation places a burden on the theory: the sequence must have genuine identity conditions, and those conditions must explain why this ordered history is Penny.
+
+The sharpening case demonstrates the theory’s principal advantage. Different object*s can possess incompatible properties without contradiction, because the properties are temporally distributed. The framework thereby avoids treating one instantaneous entity as both blunt and sharp. Yet it does not make the problem of identity disappear. It must explain what unifies the object*s into one sequence and why that sequence is a material object rather than an abstract representation.
+
+The objection that temporal sequences violate necessary self-identity ultimately rests on a conflation. The nonidentity of Penny’s temporal parts does not entail the nonidentity of Penny itself. A whole can be self-identical while its parts differ across time. Necessary self-identity is not necessary possession of the same properties, and persistence need not mean that one instantaneous entity remains present at every moment.
+
+Nevertheless, the framework is most convincing when described not as the claim that material objects are merely abstract sequences, but as the claim that ordinary material objects are concrete temporally extended wholes composed of instantaneous physical stages. If the sequence is only abstract, the theory risks denying the reality of the object it seeks to explain. If the sequence is concrete, it offers a coherent form of four-dimensionalism, though one that demands substantive criteria of temporal unity and modal identity.
+
+The deepest lesson is that identity through time cannot be secured by appealing either to complete qualitative sameness or to mere succession. What is required is an account of the structured relations—causal, spatial, temporal, functional, and historical—that make a succession count as the history of one thing. Penny’s identity is therefore neither the identity of one unchanging instantaneous state nor the arbitrary aggregation of unrelated states. It is, if the sequence ontology succeeds, the necessary self-identity of a temporally organized whole whose changing stages constitute rather than destroy its persistence.
