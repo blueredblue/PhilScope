@@ -17,3 +17,11 @@ env/
 
 # Extracted text output (optional — remove this line if you WANT extracted_text/ tracked in git)
 # extracted_text/
+
+# Copyrighted source material
+data/SourcePhilosophyEssays/*.pdf
+data/SourcePhilosophyEssays/extracted_text/
+data/SourcePhilosophyEssays/pdf_word_counts.csv
+
+# Generated/sensitive artifacts
+data/SyntheticEssays/generation_failures.json
