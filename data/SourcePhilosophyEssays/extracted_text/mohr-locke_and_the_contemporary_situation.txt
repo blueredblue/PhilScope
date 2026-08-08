@@ -1,0 +1,351 @@
+A P O R I A
+ASTUDENTJOURNALOFPHILOSOPHY
+Editor
+Jeffrey Johnson
+Associate Editors
+Russell Farr
+Tully Minoski
+Justin Perry
+Justin White
+Aporiais published twice each year by the Department of Philosophy at Brigham
+Young University and is dedicated to recognizing exemplary philosophical work
+at the undergraduate level. The spring issue each year includes the winning essays of
+the annual David H. Yarn Philosophical Essay Competition, which is open to BYU
+undergraduates only, along with other outstanding philosophical essays submitted
+by undergraduate philosophy students from around the world. The winners of the
+Yarn Competition are selected by a faculty committee independent of the student
+editors and staff, who make all other publishing decisions. The fall issue is pub-
+lished online and consists of papers selected by the editorial staff. Submissions are
+welcome from all undergraduate students, both at BYU and elsewhere.
+The Aporia staff is especially grateful to those who support makes this journal
+possible. Special thanks go to Professor Dennis Rasmussen, chair of the Department
+of Philosophy, Professor David Jensen, our faculty advisor, and to Linda Hunter
+Adams of the Humanities Publication Center. Aporiais funded by a generous con-
+tribution from the David H. Yarn Endowment. Those wishing to contribute to this
+fund may do so by contacting the BYU Department of Philosophy.
+Opinions expressed herein are those of the respective authors and do not nec-
+essarily reflect the opinions of the editors, the Philosophy Department, or
+Brigham Young University.
+http://humanities.byu.edu/philosophy/aporia.html
+Aporia Vol. 16 number 2-2005
+Locke and the Contemporary Situation
+TYSON MOHR
+A
+t the time of its writing, the political theory put forth in Locke’s
+Second Treatise of Government was a powerful source for individual-
+ists. However, the nature of society has changed significantly, cast-
+ing doubt on how applicable his theory is for modern individualists. The
+most significant of these changes is the lack of unoccupied land. Since all
+of the land in the world is claimed by some country, people are forced into
+a pre-established society and do not have the option to create their own.
+This also restricts whether people are able to leave their societies. Another
+significant change is the increased number of highly populated states,
+which diminishes the effect that minorities can have on their government.
+These aspects of our contemporary situation serve to diminish the amount
+of freedom an individual would have under Locke’s theory, making it a less
+relevant source for Libertarians and other contemporary individualists.
+Locke’s Theory
+First let us begin with a brief description of the relevant sections of
+Locke’s political theory as put forth in the Second Treatise. In his theory,
+government originates from a need for security. People naturally exist out-
+Tyson Mohr is a senior at Illinois State University majoring in philosophy and mathemat-
+ics. After graduation, he plans to work in business for several years and then attend gradu-
+ate or culinary school.
+2 TYSONMOHR
+side of organized society in the “state of nature” (Locke, Two Treatises of
+Government289).1Although every person has natural rights in the state of
+nature, these rights cannot be consistently protected without a commonly
+recognized judge (291). Everyone has the right to seek reparations for dam-
+ages and to defend her health and property. However, since people some-
+times fail to use reason properly on account of self-interest and emotion,
+they cannot be trusted to always judge calmly and reasonably, especially
+during times when injustices have been done to them (293). This might
+lead them to take more reparations than they should for the injustice that
+was done for them. Also, some people in the state of nature might not be
+strong enough to take the proper reparations. This leads to a great lack of
+security, and, as a result, many injustices occur for which improper repara-
+tions are made. People determine that these unpunished injustices can be
+avoided if common laws are created and enforced by an organized group.
+Additionally, foreign invasion threatens those in the state of nature.
+Without an organized military and the protection of a group, individuals
+are at great risk of being invaded by other organized groups. An effective
+defense against attack can only be implemented by a community. So,
+knowing that security is in their best interests, people congregate in order
+to form a government. This arrangement is carried out for the mutual ben-
+efit of protection against interpersonal conflict and foreign invasion. Thus,
+in Locke’s theory, people are “driven into Society” from the state of nature
+out of a need for security (370).
+However, this security does not come without a price. In order to
+enter into society and reap its benefits, individuals must relinquish certain
+freedoms. More specifically, they must give up some control over their
+affairs and possessions as well as their right to seek reparations for damages
+in whatever way they see fit. These natural rights are given to the judicial,
+legislative, and executive branches of the government with the understand-
+ing that they will be used responsibly in order to provide security and pro-
+tect property (370–71). Perhaps the most important part of this process is
+that individuals’ rights can only be voluntarily relinquished. No person,
+group, or government body can justly force individuals to relinquish free-
+doms they do not wish to relinquish. Herein lies the importance of consent.
+1
+All subsequent references in this paper to John Locke’s Two Treatises of
+Government will be given only by page number.
+LOCKEANDTHECONTEMPORARYSITUATION 3
+Consent must be given by individuals in order for any government
+to have power over them. Locke states that “all Men are naturally in [the
+state of nature], and remain so, till by their own Consents they make them-
+selves Members of some Politick Society” (296). People cannot be forced to
+follow laws without their consent. However, Locke’s understanding of con-
+sent is quite broad. People do not necessarily have to consent officially;
+they give their consent whenever they enter a society’s territory (365). By
+entering such a territory, they benefit from the protection of the society’s
+government and therefore are obliged to reciprocate by temporarily relin-
+quishing the requisite rights. In other words, they must follow the laws of
+that society for the duration of their stay. However, people must also be
+free to leave a society since forcing them to stay would force them to follow
+laws without their consent, something that Locke considers to be unjust.
+In general, the choice to stay in a location protected by a government is
+viewed by Locke as a choice to follow that government’s laws.2
+After the government has been formed, it must begin making poli-
+cies. Since every individual has sacrificed in order to reap certain benefits
+from the community, it is sensible that every individual should have a say
+in the decision-making process. He does not even consider the possibility
+that a minority should rule. Since society is a singular body comprised of
+a number of individuals, he thinks it follows that “the Body should move
+the way whither the greater force carries it, which is the consent of the
+majority” (350). Presumably, Locke would also argue that minority rulers
+have a tendency to act like monarchs by ruling arbitrarily and exploiting
+those not represented in the minority.
+It is clear for Locke that some type of majority must rule. One type
+of majority is unanimous consensus, and it seems reasonable to assume
+that, since everyone relinquished the same rights to enter society, everyone
+should agree to the society’s laws. However, Locke recognizes that attempt-
+ing to achieve a unanimous consensus for every decision is practically
+2
+Locke distinguishes between explicit consent, which is an official commitment
+to a society, and tacit consent, which occurs when someone enters a territory.
+Although Locke is ambiguous about what benefit those who explicitly consent
+have over those who do not and whether those who explicitly consent are ever
+allowed to leave their society, the broad definition of consent described above is
+sufficient.
+4 TYSONMOHR
+impossible (ibid.). There will always be disagreement about any significant
+policy and failing to take this into account in the workings of a government
+will fatally cripple it. Thus it is unreasonable to expect decisions to be
+made by unanimous consensus. The only other option is to have the soci-
+ety be ruled by the majority’s consent. Abiding by majority is not ideal, but
+it is the only way by which a government can function (351). Consequently,
+an individual’s agreement to enter into a society is also an agreement to
+abide by the will of that society’s majority. Though the decision to enter
+into society is the individual’s decision, the decision results in the individ-
+ual becoming part of a community that is, in Locke’s words, “one Body,
+with a Power to Act as one Body, which is only by the will and determina-
+tion of the majority” (349).
+Fortunately, one major restriction affects decisions made by majori-
+ties—they cannot infringe on certain inalienable rights. Although individ-
+uals give up certain rights in order to enter a community, some rights can-
+not be taken away under any circumstances. These rights include the right
+to own property and the right not to be ruled arbitrarily (418). Any law that
+infringes upon inalienable rights, even if imposed by the majority, is unjust
+and consequently should not be followed. These laws break the trust the
+government has with its citizens, giving them the right to overthrow the
+government (433). Majority decisions in a community become law, but
+these laws only have legitimacy if they do not infringe upon an individual’s
+inalienable rights. In summary, Locke argues that government offers pro-
+tection in exchange for individuals’ consent to relinquish certain rights to
+it, and Lock argues that laws should be established based upon the will of
+the majority—provided these laws do not infringe on inalienable rights.
+The Contemporary Situation
+Now that the relevant sections of Locke’s theory have been reviewed,
+the issue of whether it would support individualist views in the contempo-
+rary situation will be examined. The political, social, and technological sit-
+uation in Locke’s time was very different from the contemporary situation.
+During Locke’s time, his theory was considered very individualistic; how-
+ever, it would be considered less individualistic if implemented in contem-
+porary society. Individualists have always believed in increasing personal
+liberty and reducing the ability of government to exert excessive control
+LOCKEANDTHECONTEMPORARYSITUATION 5
+over the populous. Locke’s arguments parallel these individualistic argu-
+ments as Locke argues for private property, against arbitrary rule, and for
+considerable focus on natural rights. In fact, implementing Locke’s theory
+in seventeenth century monarchies would have increased (and in some
+instances actually did increase) personal liberty. However, when consider-
+ing current democracies, implementing his theory would actually do little
+to meet the goals of contemporary individualists.
+Contemporary individualists, such as Libertarians, still argue in favor
+of increasing personal liberty and against excessive government control.
+However, they now do so mainly by arguing that government should be
+minimal and therefore should increase privatization, interfere less in mar-
+kets, lower taxes, and provide fewer government programs. Many individu-
+alists use Locke to support their views. Examples of this trend abound in
+libertarian literature, articles, and websites.3 Although Libertarians may
+indeed have a viable position if supported on other grounds, their attempts
+to appeal to Locke for support fail due to the nature of Locke’s theory. If
+put into place now, Locke’s theory would dictate that people with progres-
+sive individualist views, being a minority, be prepared to live in a society
+which is not aligned with their views without an effective means to bring
+about change. Locke’s theory advocates following the mandates of the
+masses, something that the contemporary individualist typically does not
+promote.
+The most significant effect of the contemporary situation is that
+there is no longer an option under Locke’s theory for those who are not
+3 Examples of such works include books like Robert Nozick’s Anarchy, State, and
+Utopiaand Michael P. Zucker’ts Launching Liberalism:On Lockean Political
+Philosophy. Articles include Michael Otsuka’s “Self-Ownership and Equality: A
+Lockean Reconciliation”; Tibor Machan’s “Libertarian Answers to Conservative
+Challenges”; and Neil Lock’s “How to Pay for Government.” Finally, websites of
+this type include the Ludwig von Mises Institute’s www.mises.org and Reason
+Online (www.reason.com). These works are not intended as the results of a thor-
+ough summary of Locke’s role in Libertarian literature but merely as some exam-
+ples of the trend. From my experience, Libertarian use of Locke’s theory seems
+very widespread and not in need of extensive proof. I will assume this is the case
+without further investigation until I encounter an objection to it.
+6 TYSONMOHR
+willing to join an existing government. In describing the beginning of
+political societies, Locke uses the term in vacuis locis, which means “in
+empty places.” These places, according to Locke, are “free and unpos-
+sessed” by any state (367). It is to these empty places that individuals
+should go if they wish to start a new society rather than accept member-
+ship in any present society. There were such places in Locke’s time, and he
+frequently uses America, presumably meaning North America, as a prime
+example of a continent filled with such areas (311, 314, 318, and 319).
+However, as any American can tell you, there are no longer such places in
+America nor in any inhabitable part of the world. There are some unset-
+tled places, such as deserts or forests, but they are nevertheless annexed by
+some state.4 This presents a large problem for those who do not desire to
+live in any established society. Locke advises creating a new society if you
+disapprove of current one, but there is frankly no land in vacuis locis on
+which to do this. The only option for individuals is to pick the society they
+most prefer and follow the laws established by its majority. The contempo-
+rary situation still gives us a choice, but it is between which group of peo-
+ple we consent to obey rather than between joining some existing society
+or starting our own with which we are guaranteed to agree. Consequently,
+in Locke’s theory, we have to accept the status quo of some current state,
+a definite problem for contemporary individualists who feel that no cur-
+rent state is minimal enough to align with their worldview. Their only
+option is to join the most minimal society available and attempt to bring
+about change. However, this latter option is also not as easy as it may seem.
+Technological advances in transportation and communication have
+dramatically increased not only the territory that governments control but
+4
+Private islands which are currently available for purchase fall into this same cate-
+gory of unoccupied but annexed land. According to www.privateislandsonline.com,
+a website which sells such islands, "Since the early20th century, every square foot
+of dry land on Earth has been claimed by at least one country or another, which
+pretty much rules out…setting yourself up as the local sovereign." Though it is
+very possible that this website could be mistaken, I believe they have a vested
+interest in being informed on this issue. The only way one could set up a new
+government on these islands would be to purchase land from a country or con-
+vince the country which owns it to release it, which no country would be willing
+to do in any normal circumstance.
+LOCKEANDTHECONTEMPORARYSITUATION 7
+also the influence they have over their territory.5 It is now very common
+for single governments to legislate and enforce laws that affect millions or
+even billions of people. One might even argue that, with the rise of global-
+ization, it might not even be economically possible for smaller states to
+have any economic power in the world. Regardless, the population of the
+vast majority of contemporary states creates a situation that diminishes the
+impact individuals can have on the laws governing their lives. Not only do
+their votes carry less individual weight, but it is also difficult to bring about
+change in the popular mentality. In a small community, an individual can
+make her arguments known to the entire community relatively easily. But
+when a community numbers in the millions or billions, the majority is so
+large, diverse, and geographically distant that it is nearly impossible to
+effectively make one’s position known.6 One must then follow the collec-
+tive decisions with little avenue for discussion. This consequence is defi-
+nitely problematic for the contemporary individualists. After being forced
+to enter into a pre-existing society and accept the status quo, she now finds
+herself with the difficult challenge of convincing millions of people to
+change their views. Until she can accomplish this, Locke is clear that she
+must abide by the decisions of the majority on pain of being unjust.
+There remains one option in Locke’s view, rebellion. If individualists
+can determine that the government’s laws are arbitrary or are infringing on
+their inalienable rights, Locke clearly states that they would be justified in
+inciting a revolution. However, this final option isn’t much of an option
+after all. Even though there are no contemporary states minimal enough
+to fit Libertarian standards, there are contemporary states, such as the
+United States of America, Canada, and Western European states, where
+5
+Obviously, there were large groups of people contained under one government
+in the past, such as those in the Roman or British empires. These differ from
+contemporary states, however, in that they were ruled by militant means and
+were undemocratic. The issue of size comes into play when states are democratic
+since the larger number of voters affects the influence one citizen has on poli-
+cies.
+6
+This claim is intended as a generalization. There are indeed places where mil-
+lions of people live in close proximity to each other or where the population is
+not extremely culturally diverse. However, in the vast majority of states, distance
+and diversity play the role discussed.
+8 TYSONMOHR
+rebellion would not be justified under Locke’s view. Such rebellion would
+be unjust because current individualist grievances do not constitute,
+according to Locke, justifiable grounds for rebellion. Take, for instance,
+the Libertarian issue of lower taxation. In the states mentioned above, the
+government does not tax arbitrarily and so the only other option is to
+determine that such tax laws infringe on natural rights. The right to own
+property is indeed a natural right, and a government that takes property
+without consent is indeed tyrannical and should be rebelled against. But
+Locke clearly argues that having to pay taxes is not an infringement on nat-
+ural rights. In fact, he states that “Governments cannot be supported with-
+out great Charge, as ‘tis fit everyone who enjoys his share of the Protection,
+should pay out of his Estate his proportion of the maintenance of it. But
+still it must be with his own Consent, i.e. the Consent of the Majority”
+(380). Taxation is necessary for government, and it is part of the price peo-
+ple pay for security. People cannot be taxed without their consent, but,
+since people in the contemporary situation must consent to join some gov-
+ernment and since every government in the world currently taxes, people
+must give consent to be taxed.7 Similar results can be obtained for other
+Libertarian grievances. The problems Libertarians have with their govern-
+ments may or may not be legitimate, but they are not so extreme as to jus-
+tify revolution based on Locke’s theory.
+It follows, then, that if individualists find themselves in a state that
+is not aligned with their views, rebellion would be justified or unjustified.
+If it is unjustified, they may, within the realm of just actions, only choose
+to leave for another state or obey the established rules while attempting to
+bring about change in the popular mentality. In either case, they must live
+in a society not aligned with their views. If rebellion is justified, the indi-
+vidualist could help bring about the rebellion and overthrow the current
+government. At this point, a new government would be created based on
+the views of the majority of the members of the new society. If it happens
+that these people are Libertarians, then a Libertarian state could be justly
+created. However, it is most likely that the majority of the revolutionar-
+ies would have less individualistic views and decide to create another
+7
+The only country that is known not to tax today is Waveland; however,
+because Waveland's territory is so small and barren, citizens of Waveland must
+live in another country and are therefore still subject to taxation.
+LOCKEANDTHECONTEMPORARYSITUATION 9
+non-minimal state. Provided that this new state is not arbitrary and pro-
+tects natural rights, individualists are again in a situation where they must
+submit to the will of the majority. Thus rebellion offers a chance for the
+creation of a Libertarian state, but the chance is very small. Whether or
+not rebellion is justified under Locke’s view (which, in the modern situa-
+tion, it most likely would not be), rebellion is still the most likely option
+that individualists will be forced to choose when trying to change a non-
+minimal government.
+Thus we see the dilemma that contemporary individualists face if
+they follow Locke’s theory. Since all land is occupied by some state, they
+must choose to consent to a pre-existing state. Upon doing so, they bind
+themselves to following that state’s laws. Since laws are established by
+majority rule, those with minority views must obey laws with which they
+do not agree. The option of rebellion would either be unjust or would very
+likely lead only to the creation of another non-minimal state, both of
+which leave individualists in an undesirable position once again. The only
+other option is to bring about gradual change by convincing the majority
+to change their views. However, since the majority in many states is so
+large, this is an extremely difficult and lengthy process. In the meantime,
+they must follow their society’s laws.
+Conclusion
+Locke’s political system was revolutionary in its treatment of individ-
+ual rights. Society, in Locke’s view, is comprised of a group of consenting
+individuals who bind together for their common prosperity and security.
+Though Locke’s system originally provided much support for individualists
+and resulted in increased political and economic liberty when implement-
+ed, it does not offer much support in our contemporary situation; the lack
+of unoccupied land and number of highly populated states prohibit it from
+doing so. Locke’s theory, if applied to our modern world, would force peo-
+ple to consent to the rules of an existing society and give them little
+recourse for changing policies to be more aligned with their views.
+Works Cited
+Locke, John. Two Treatises of Government. Cambridge: Cambridge
+University Press, 1967.

@@ -1,0 +1,454 @@
+Aporia vol. 21 no. 1—2011
+The Hierarchy of Empirical Defeasibility
+Bryce Gessell
+The last fifty years have seen an explosion in the depth of episte-
+mological inquiry, and even a glance at the literature reveals an
+extensive variety of –isms. This flood of scholarship has come partly
+as a response to Gettier’s 1963 salvo, which awoke epistemology from the
+“dogmatic slumber” of justified true belief. Gettier showed that the tradi-
+tional justified true belief analysis of knowledge was not adequate in many
+common cases; since that time philosophers have expended immense ef-
+fort in trying to assemble a tenable analysis of knowledge, but the resulting
+epicycles have made frustratingly little headway.
+Symptomatic of this standstill is the brief lifespan of many epistemic
+analyses, which are meant to be comprehensive theories but most often
+devolve into general epistemological concepts. New theories of knowledge
+depending on causality, reliability, defeasibility, and other concepts at-
+tempted to answer Gettier, but none really proved sufficient.1 While none
+of these theories won the day entirely, philosophers realized their utility
+and incorporated them into the body of generally accepted epistemological
+concepts. We can therefore speak of the causal ancestry of a belief without
+committing ourselves to a causal theory of knowledge, or of the reliability
+of a belief-producing process without professing reliabilism. While they did
+1 While I realize that these theories still have adherents and defenders, my argument is that they
+are not sufficiently unproblematic as to convince the majority of philosophers to accept them as
+a final analysis.
+Bryce Gessell is a senior majoring in philosophy at Brigham Young University. His
+philosophical interests include epistemology, Plato and Aristotle, and the philosophy
+of cognitive science. He will be applying to philosophy PhD programs in fall 2011.
+This essay placed second in the 2011 David H. Yarn Philosophical Essay Contest.
+26 Bryce Gessell
+not fully analyze knowledge, these theories identified important, previously
+unnoticed epistemic concepts.
+However, even these concepts require significant clarification before
+they can be marshaled in an argument. In this paper, I propose to discuss
+the relationship between perceptually justified beliefs and defeasibility. Be-
+fore I do, however, I must clarify the senses in which I use the terms “defea-
+sibility” and “perceptually justified,” because the strength and importance
+of my argument depend on the way in which I use these concepts.
+Though defeasibility is in fact a single concept, we can speak of it in
+two main ways. The first is as part of a theory of knowledge. Such theories
+usually analyze knowledge as a conjunction of justified true belief and some
+defeasibility condition. The second way is as a general concept, neutral
+toward competing analyses of knowledge. I intend to use defeasibility in
+the second sense. I thus construe defeasibility as the concept according
+to which one justified belief can be defeated by another justified belief.
+Defeaters are either overriding or undermining. An overriding defeater for a
+justified belief P is a justified belief that not-P. An undermining defeater
+for a belief P is a justified belief that the source of the justification for P
+is defective.2 I take this definition and the claim that defeasibility can be
+a general epistemological concept to be relatively noncontroversial, and I
+make no move to argue that the correct analysis of knowledge involves
+defeasibility.
+Explaining the relevant sense of “perceptually justified” is more dif-
+ficult, however, because attempting to define epistemic justification is a no-
+toriously thorny undertaking. Nevertheless, the concept does have a broad,
+intuitive sense, which I will employ here. I choose the broad sense for two
+reasons. The first is that I do not wish to face the minefield of providing my
+own definition. The second is that, by using the broad sense, I can ensure
+that the results of my argument are due to the force of my argument alone
+and not to some anomalous conception of justification. The same is true
+for defeasibility. By using noncontroversial notions of both concepts, I can
+be confident that any results will come solely from my own argument.
+The broad sense of justification characterizes it as a reason or set of
+reasons that support a belief. We therefore say that the justification for a
+belief P is the evidence which we have for P, and that the evidence for P
+justifies P. We also say that a belief P is justified by source A just in case A is a
+set of reasons epistemically relevant to P (Casullo 106). Here, “epistemically
+relevant” means that the set of reasons in A actually give one a good reason
+to believe P. Of course, in merely clarifying the broad sense of justification,
+2 For more on these distinctions, see Casullo 66. Philosophers have proposed other names for
+the two kinds of defeaters, but “overriding” and “undermining” are currently the most common.
+The hierarchy of empirical DefeasiBiliTy 27
+I have introduced several potentially volatile concepts—philosophical rigor
+cries out for articulations of “support,” “evidence,” and “epistemically rel-
+evant to P.” I will forego these articulations, however. The aim of my argu-
+ment is not to analyze knowledge or even to enter that debate directly; I
+wish only to uncover several nonobvious aspects of empirical defeasibility.
+For this purpose our intuitive concepts will be sufficient. Note that per-
+ceptually justified beliefs are a subset of empirical beliefs. Nonperceptual
+empirical beliefs are those justified by testimony, memory, or other nonper-
+ceptual empirical sources.
+The last term in need of clarification is “perceptual justification.”
+Although it is certainly a form of empirical justification, we need to dis-
+tinguish perceptual justification from other empirical justifications such as
+testimony and memory. Therefore, we say that a perceptual justification for a
+belief P is a reason or set of reasons which support P and whose supportive
+content consists of information acquired directly from one or more of the
+five basic sensory modalities. A source whose supportive content consists
+only of information thus acquired perceptually justifies P. We also say that a
+belief P is perceptually justified by a source just in case that source is a set of
+reasons that constitute a perceptual justification for P.3
+The final preliminary question is whether perceptually justified be-
+liefs are inferential—that is, whether they are inferred from some other
+proposition. I will here assume the non-inferential thesis, which states that
+perceptually justified beliefs are direct and not inferred from some other
+proposition. The non-inferential thesis claims, among other things, that
+the beliefs
+(P1) I am appeared to in a chair-like way
+(P2) I see a chair
+are essentially equivalent. This thesis is also fairly noncontroversial. Later
+in my argument I will show that the inferential possibilities from (P2) are
+limited, which exposes similar beliefs to various empirical defeaters.
+Thus settled in, I introduce my argument. I propose to discuss the
+relationship between perceptually justified beliefs and defeasibility. Hap-
+pily, we already see at least one relationship between them—I defined
+defeasibility using the concept of justification. This is exactly the relation-
+ship I wish to explore. More specifically, I wish to examine several exam-
+ples of perceptually justified beliefs and their interaction with empirical
+3 In this definition of perceptual justification, I have left open the possibility that a belief P can be
+epistemically overdetermined—P may be justified both by perceptual and by nonperceptual sourc-
+es. In this paper I am interested only in perceptually justified beliefs and so restrict the domain of
+possible beliefs to those which are only perceptually justified.
+28 Bryce Gessell
+defeaters. Contemporary epistemology seems to have taken these relation-
+ships for granted by relying on apparently intuitive standards of justifica-
+tion when evaluating the strength of empirical defeaters. I hope to more
+thoroughly parse and explain these interactions. However, my argument
+should not be understood as offering a complete theory, which would pro-
+vide a comprehensive list of information types with the experience kinds
+that produce them. It would also give a complete account of the defea-
+sibility relationships between perceptually justified beliefs and other em-
+pirically justified beliefs. This paper, on the other hand, offers only an
+introduction to a more rigorous theory of defeasibility and a direction for
+future research.
+In the course of my argument it will also become clear that epistemic
+categories such as “empirical defeaters” or even “perceptually justified be-
+liefs” may be too broad to be useful. I will offer a new way to organize some
+of these beliefs. My arrangement is based on the unique sensory capacities
+of human beings and the types of information those capacities generate.
+This arrangement classifies perceptually justified beliefs by information
+type, and each information type will both produce and be subject to par-
+ticular epistemic defeaters. The ultimate result is a greater understanding
+of the defeasibility relationships among empirically justified beliefs.
+Visually Justified Beliefs and Defeasibility
+My argument proceeds through three defeasibility cases. By isolating
+one sensory modality, these cases show what is unique about that modality
+and the epistemic ramifications of this uniqueness. The first case deals with
+vision, the second with hearing, and the third with touch.
+To begin, suppose that S is a man with normally-functioning sensory
+capacities which he has no reason to believe are faulty. S stands with eyes
+closed facing an object ω in the center of a room from a particular view-
+point V . Upon opening his eyes, S looks at ω briefly without moving his
+1
+head or making a saccade.4 He seems to see a vase and forms belief (1):
+“I see a vase.” S now moves with eyes closed from V to a different view-
+1
+point—V —and looks at ω again in the same manner. After seeming to see
+2
+a birdbath S forms belief (2): “I see a birdbath.” S moves with eyes closed
+again, this time to V , and looks at ω in the same way. S then forms belief
+3
+(3): “I see a table.”
+Let us analyze this situation. S has formed three beliefs, all of which
+are non-inferential.5 Since the supportive content of each is perceptual
+4 A quick movement of the eye that occurs without moving the head.
+5 I will omit mention of the inferential status of these beliefs in following examples.
+The hierarchy of empirical DefeasiBiliTy 29
+and S’s sensory capacities are functioning normally, all three beliefs are
+perceptually justified according to the criteria I proposed. Now (2) is also
+an overriding defeater for (1) because it justifies a corollary belief that not-
+(1). But (3) is an overriding defeater for (2) since it justifies a similar belief
+that not-(2). S knows that ω cannot be a vase, a birdbath, and a table, so
+S retains (3), rejecting (1) and (2).6 But what reason has S for selecting (3)
+above (1) or (2)?
+Our intuition is that S ought to discard both (1) and (2) because
+they were justified using less information. Belief (3) has the advantage of
+information gained from V and V in addition to V , so it must somehow
+1 2 3
+enjoy a more robust justification. Here we see, for the first time, an intui-
+tive standard according to which we can measure justification. Justification
+seems to strengthen as its content expands. Since the justification for (3)
+incorporates the justifications for (1) and (2), belief (3) seems better justi-
+fied for S, and so he ought to reject (1) and (2).
+At least, that S must retain (3) while rejecting (1) and (2) is our intu-
+ition; however, I argue that the perceptual justifications for (1), (2), and (3)
+are of equal strength and that S has no greater reason to retain (3) than he
+does to retain (1) or (2). Suppose that S moved to a new viewpoint V and
+4
+looked at ω again. Depending on the visual information gained from V , S
+4
+would have either a justification for a new belief (4) or a stronger justifica-
+tion for (1), (2), or (3). The same process would hold for V , V , V , etc. The
+5 6 7
+information gained from each distinct viewpoint would justify a new belief
+or a previously defeated belief. This means that S would have no reason to
+choose (3) over (1) or (2), since the corresponding overriding defeaters are
+such that they can defeat both earlier and later beliefs in the series. The key
+is that, with added information, belief (4) might defeat (3), but S has no way
+of knowing this conclusively.
+Obviously this process cannot continue forever. In the course of S’s
+viewing ω from viewpoints V , V , V . . . V , n would quickly get so large
+1 2 3 n
+that S would see ω from nearly every possible viewpoint. At V S would
+n
+form a terminal belief (N) which integrated all of the visual data from the
+series of viewpoints V –V . (N) would be an overriding defeater for all pre-
+1 n
+ceding beliefs not equivalent to (N), but no preceding belief could be an
+overriding defeater for (N). At this point, our intuition is that S would have
+a good reason to retain belief (N) and to reject all other beliefs justified by
+data from V to V −1. S would indeed have a good reason to retain (N), but
+1 n
+not because of the defeasibility relationships among beliefs (1)–(N). Rather,
+he has good reason because the visual experience S has of ω when looking
+6 Utilitarian considerations about the possibility of using ω as a vase, a birdbath, and a table are
+not at issue here. S is trying to identify the object, not speculate on the variety of its uses.
+30 Bryce Gessell
+from V is different in kind from the visual experience S has of ω when
+1
+looking from all points in the series V –V . Call the kind of visual experi-
+1 n
+ence which justified beliefs (1)–(N−1) flash vision. Further, call the kind of
+visual experience that justified (N) spherical vision.7 (N) is not defeasible by
+any justified belief (1)–(N−1) because beliefs justified by spherical vision
+cannot be defeated by beliefs justified by flash vision. Defeasibility relation-
+ships of this variety cannot cross these particular boundaries.8
+This leads to my first substantive theses. I propose the following:
+(T1) Each sensory modality produces distinct expe-
+rience kinds.
+We have seen that experience kinds are epistemically meaningful because
+of the defeasibility relationships among them. In fact, the defeasibility re-
+lationships are consequences of the different information types produced
+by experience kinds.
+(T2) Each experience kind produces distinct infor-
+mation types.
+Information types form the content of perceptually justified beliefs. They
+can be weak or strong. Consider the information type produced by flash vi-
+sion: one image of an object ω from a single viewpoint. While many objects
+are recognizable with this limited information, many are not. In contrast,
+spherical vision produces a complete visual profile of ω and can lead to one
+of two outcomes—S’s correctly identifying ω or S’s experiencing a new object
+ω. This correct identification would be part of a new belief or, what is more
+likely, it would confirm a previous belief. The information type produced
+by spherical vision is distinct from and stronger than the type produced by
+flash vision. We have already seen this in (N)’s being indefeasible by any
+preceding belief in the series. We can formalize this observation:
+(T3) Certain perceptually justified beliefs are inde-
+feasible by certain others.
+(T3) is noncontroversial and matches our intuition about perceptually justi-
+fied beliefs—later, I will show the more interesting result of which perceptu-
+7 Although these characterizations call to mind J. J. Gibson’s distinction in his book The Ecological
+Approach to Vision, unlike Gibson, I am concerned not with biological capability or psychology,
+but with epistemic consequences.
+8 One might object that spherical vision and flash vision are not different kinds of experience in
+the way that cats and dogs are different kinds of animals. That they are different kinds should not
+be understood so strictly here; the crucial distinction is that the types of information provided by
+these two experiences are different. I use “kind” to refer to an experience that generates a unique
+information type.
+The hierarchy of empirical DefeasiBiliTy 31
+ally justified beliefs are indefeasible by which others. The application of
+(T3) will be relative to the information types contained in the beliefs in
+question, and the two uses of “certain” guarantee this.
+Auditorily Justified Beliefs and Defeasibility
+Are these theses true of other sensory modalities as well? Consider
+hearing, a modality with only one clear experience kind. Auditory experi-
+ences are psychophysically distinct from visual experiences because of the
+interaction between the physical stimulus, the sensory receptors which
+transduce the stimulus, and the cognitive mechanisms which create a pre-
+sentation of the external object.9 These psychophysical distinctions limit
+the information types available from each sensory modality. Hearing there-
+fore produces two information types.10 The first is a general idea of an ob-
+ject’s spatial location. The second is a clue about the identity of the object.
+As we will see, these information types create the defeasibility relationships
+for hearing.
+To show that the above theses hold for hearing, suppose that S still
+possesses his normally functioning sensory capacities. He stands blind-
+folded at position V in a large room. S seems to hear a dog barking and
+1
+forms belief (1): “I hear a dog barking over there.” He now moves to a new
+position V in the same room and then V , forming the same belief in both
+2 3
+locations: “I hear a dog barking over there.”
+Like beliefs justified by vision, beliefs justified by hearing have their
+own intrajustificational defeasibility relationships. These relationships are
+determined by the information types which hearing is capable of produc-
+ing. However, unlike vision, hearing does not produce any information
+type that is indefeasible by other auditorily justified beliefs. Any belief in
+the series (1), (2), (3) . . . above is a potential overriding defeater for any
+other. This defeasibility relationship is unique to hearing. We often miss
+the subtleties of these relationships because of the weight normally given to
+visually justified beliefs.11 However, by isolating each sensory modality, we
+9 The experiences of sight and hearing are different because they provide different information.
+Again, while they may not be different “kinds” of experience in the most technical meaning of the
+term, the experiences are distinct enough to provide different information to the sentiens.
+10 Receiving information through an auditory experience of words spoken in a language which one
+understands is a mix of two experience kinds: hearing, which produces information of the two
+types I have described, and testimony, which produces information of another type.
+11 Most epistemological literature dealing with perceptually justified beliefs considers only visual
+justification.
+32 Bryce Gessell
+see that they are unique in terms of experience kinds, information types,
+and defeasibility relationships. In other words, (T1), (T2), and (T3) hold for
+each sensory modality.12
+Perceptually Justified Beliefs and Empirical Defeaters
+How do defeasibility relationships among nonperceptual empirical
+defeaters work? Let us return to the case of vision. After having V beliefs
+n
+about ω that are justified by flash vision, S now has a spherically justified
+belief: “I see a table.” Call this belief Ω. Now suppose that S is still viewing
+the table when his friend X enters the room. S has been acquainted with
+X for many years and has never known him to lie or be dishonest in any
+way. Furthermore, S knows that X’s sensory capacities function well. X
+tells S, “There is no table in this room.” Call X’s proposition ∼T. ∼T is a
+testimonial defeater for Ω and so is an empirical defeater for Ω. What is the
+defeasibility relationship between Ω and ∼T? Since the perceptual content
+of Ω does not affirm material existence, and since S trusts X, ∼T is an over-
+riding defeater for Ω. The information type produced by spherical vision
+cannot affirm material existence, so it is susceptible to empirical defeaters
+that deny it. In this case, ∼T defeats Ω.13
+But the solution is obvious. S need only extend his hand to check
+whether the table has material existence or if it is an optical illusion.14 Sup-
+pose that, upon extending his hand, S’s finger meets a solid object at the
+point where the table’s edge appears to be. In addition, S touches other
+areas of what he sees and feels that they are real parts of a table. S now has
+a new perceptually justified belief Ω: “There is a table in this room.” Ω
+' '
+affirms the material existence and the identity of the object. This content
+makes Ω very strong, possibly indefeasible by other empirical defeaters.15
+'
+This means that Ω is an overriding defeater for ∼T regardless of S’s trust in
+'
+X, and S would be irrational to accept ∼T in the face of such undeniable
+12 While I grant that the chemical senses (smelling, tasting) are quite different from sight and hear-
+ing, our results here can be generalized because the chemical senses will still only provide distinct
+types of information through their various experiences, and the schema for them will be identical
+to that for vision and hearing.
+13 See the concluding section for a discussion of the challenges of integrating testimonial beliefs
+into the system of one’s other justified beliefs. Clearly, the situation will almost always be more
+complicated than the one I have presented above.
+14 We might say that, for a human being with normally functioning sensory modalities, tactile
+senses confirm material existence inasmuch as this is possible at all.
+15 It is hard to see what empirical defeaters could challenge Ω. Given the circumstances described
+'
+and barring global skepticism, I cannot conceive of an overriding defeater ∼Ω, and an undermin-
+'
+ing defeater for the experience kinds which justify Ω would be very unusual indeed.
+'
+The hierarchy of empirical DefeasiBiliTy 33
+perceptual information to the contrary. The standard against which we
+judge this rationality is the content of each belief, since it seems rational
+for S to affirm the material existence of something in cases where he can
+actually perceive it.
+This example demonstrates two things. The first is that, like vision
+and hearing, touch has experience kinds that produce distinct information
+types. In S’s experience with the table we find at least two experience kinds.
+The first kind is swipe tactility, which is the experience of moving a part of
+one’s body quickly into an object. The information type generated by swipe
+tactility concerns the material existence of the object, and the two possible
+outcomes are confirmation or denial of material existence. The second kind
+is stroke tactility, which is the experience of moving a part of one’s body
+slowly over the contours and edges of an object. The information type gen-
+erated by stroke tactility concerns the physical form of the object and works
+in conjunction with other information types in object identification.
+The Ω example also demonstrates that we cannot evaluate the
+'
+strength of any empirical defeater, perceptual or otherwise, without infor-
+mation about the belief that it purports to defeat. While ∼T is a strong
+empirical defeater, it cannot defeat Ω because of the perceptual content of
+'
+Ω.16 Speaking more generally, concocting situations involving perceptually
+'
+justified beliefs and empirical defeaters makes little sense unless one also
+names the source of the perceptual justifications. Without this informa-
+tion, we cannot know which defeasibility relationships will hold among the
+beliefs. By (T3) we know that certain perceptually justified beliefs cannot
+be defeated by certain others. We also saw earlier that certain perceptu-
+ally justified beliefs cannot be defeated by certain empirical defeaters. This
+means that
+(T4) Certain perceptually justified beliefs are inde-
+feasible by certain empirical defeaters.
+(T4) is a stronger claim than (T3), but by making one more distinction we
+can go even further. Call a belief P a compound perceptually justified belief if
+and only if the content of P consists of two or more discrete information
+types. Ω is a compound perceptually justified belief. This distinction allows
+'
+us to propose something even stronger:
+(T5) Certain compound perceptually justified be-
+liefs are indefeasible by certain empirical defeaters.
+(T5) is strong, but it could be strengthened even more. Until now we have
+qualified our theses with “certain.” In (T5), what are these “certain” beliefs?
+16 Namely, a guarantee of material existence, inasmuch as this is possible.
+34 Bryce Gessell
+We have seen one in Ω: “There is a table in this room.” The content of
+'
+Ω consists of information types which (i) correctly identify the object in
+'
+question and (ii) guarantee its material existence. Now call a belief whose
+content consists of information types that meet conditions (i) and (ii) a
+conclusive empirical belief. From (T5) and the definition of “conclusive em-
+pirical beliefs,” we infer
+(T6) Conclusive empirical beliefs are empirically
+indefeasible.
+In the final section I will explain and defend (T6).
+Objections and Conclusions
+(T6) is a strong claim, but it is perhaps not as strong as it seems. It enu-
+merates a set of indefeasible empirical beliefs of the form “There is a . . .”
+or “There exists a . . .” However, (T6) is restricted to conclusive empirical
+beliefs, which are themselves bound by the criteria given above. In addition,
+(T6) does not cover beliefs justified by induction from multiple observed
+cases, as induction requires its own justification. This means that one can
+have a conclusive empirical belief about the existence and identity of an
+object ω but not about the properties of all such objects ω. If the set of
+beliefs it includes is so epistemically limited, why does (T6) matter?
+The importance of (T6) is not in enumerating a set of beliefs but
+in recognizing the interplay of empirical defeasibility relationships. Our
+intuition is that some empirical beliefs are stronger than others. In this
+paper, I have given one argument for why this is the case. Empirical beliefs
+are justified by experience kinds and experience kinds yield information
+types. The content of some information types is stronger than others. A
+more complete articulation of this theory would provide a complete list of
+information types with the experience kinds that produce them. It would
+also give a complete account of the defeasibility relationships between per-
+ceptually justified beliefs and other empirically justified beliefs. While I do
+not give these here, it is clear that our intuition is correct, and that the rela-
+tive strengths of empirical beliefs are organized into a hierarchy. Moreover,
+we are able to give the reasons why this is so. We also see that broad terms
+like “empirical defeater” and “perceptually justified belief” are difficult to
+make exact sense of. Their precise origin matters. Different origins mean
+different defeasibility relationships. Unless we know the sources of justifi-
+cation for a belief, we cannot adequately evaluate the strength of possible
+defeaters.
+One might object that this account lacks a particular experience kind
+or information type, but this does not affect the substance of my analysis.
+The hierarchy of empirical DefeasiBiliTy 35
+This objection also concerns a point only ancillary to the more important
+thesis. Though the specifics of their enumeration may vary, the more im-
+portant point is that defeasibility relationships are what ground our intu-
+itions about the strength of empirically justified beliefs.
+Another difficulty is the challenge of integrating testimonial defeat-
+ers into a system that includes perceptually justified beliefs. But this is actu-
+ally a psychological rather than a philosophical problem, since the only way
+to measure the relative strength of testimonial defeaters is through one’s
+trust in the giver of the testimony. It seems impossible to assign an “objec-
+tive” strength to defeaters of this kind, and this impossibility makes the
+integration of testimonial defeaters a complicated endeavor. The example I
+have given above should be understood as a basic case of how to integrate
+testimonial defeaters.
+The broader conclusion concerns the sensory modalities as instru-
+ments for gathering information. While the senses excel at presenting reali-
+ty with certainty, the range of beliefs upon which they bestow that certainty
+is quite small. Though this seems as obvious as the intuition that empirical
+beliefs are organized into a hierarchy, I have shown that these conclusions
+are not just intuitions. They follow from the characteristics of human per-
+ceptual organs and the types of information that these provide. Rather
+than relying on intuition in evaluating empirical defeasibility relationships,
+we can outline a system in which those relationships are thoroughly parsed
+and explained. By reflecting on human perceptual capacities, we arrive at
+the points where our intuitions meet justificatory grounds.
+Works Cited
+Casullo, Albert. A Priori Justification. Oxford: Oxford UP, 2003.
+Gettier, Edmund. “Is Justified True Belief Knowledge?” Analysis 23 (1963):
+121–23.
+Gibson, Jerome James. The Ecological Approach to Vision. Boston:
+Houghton Mifflin, 1979.

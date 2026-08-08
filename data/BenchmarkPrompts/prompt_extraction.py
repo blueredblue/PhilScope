@@ -93,6 +93,11 @@ def extract_prompts(
         generated_prompt = generate_prompt_for_essay(essay_text, model=model)
 
         if generated_prompt:
+            # Programmatically append the word count requirement
+            word_count_suffix = "Your essay must be between 3200 and 5200 words long."
+            if not generated_prompt.strip().endswith(word_count_suffix):
+                generated_prompt = generated_prompt.rstrip() + " " + word_count_suffix
+
             prompts_dataset[essay_id] = {
                 "source_file": filename,
                 "extracted_prompt": generated_prompt,

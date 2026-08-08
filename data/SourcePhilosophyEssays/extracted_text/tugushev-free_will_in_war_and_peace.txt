@@ -1,0 +1,372 @@
+Aporiavol. 16 no. 2—2006
+Free Will in War and Peace
+NIKOLAYTUGUSHEV
+I
+n the next to last paragraph of War and PeaceLeo Tolstoy makes the fol-
+lowing rhetorical statement, "true, we are not conscious of our depend-
+ence but if we were to allow that we are free we arrive at an absurdity,
+whereas by admitting our dependence on the external world, on time and
+on causality we arrive at laws" (1444).1The statement is a relatively straight-
+forward summary of a reductio ad absurdumargument graciously given to us
+by the author himself. Yet, given the sheer breadth of the work, a very nat-
+ural question to ask is whether this summary is fair. And more importantly
+does the argument from reductiowork as prescribed? On the one hand, it is
+the author himself who summarizes the argument. So, at the very least,
+Tolstoy intended to demonstrate that assuming the existence of freewill
+leads to an absurd conclusion, and that the opposite assumption must be
+true—that we are governed by deterministic laws. On the other hand, if one
+assumes that the reductioargument is a central argument of the text, then
+surely many more assumptions, postulates, and side arguments went into
+this larger argument than just those regarding freewill. If so, then any one
+of these assumptions might as well have been the source of the 'absurd con-
+clusion'. Hence, we come to the second part of the problem: does Tolstoy's
+reductio argument actually demonstrate that an assumption of freewill is
+erroneous? The intention of the present essay is to argue for a negative
+response to this question, and to show that rejecting another of Tolstoy's
+latent assumptions circumvents the 'absurd conclusion'. Moreover, it is
+1 This book will be cited simply by the page number.
+Nickolay Tugushev is a philosophy student at Temple University. Upon graduation
+he plans to graduate school in philosophy.
+14 NIKOLAYTUGUSHEV
+actually this other assumption that leads Tolstoy to reject freewill and
+embrace determinism throughout War and Peace.
+The presupposition responsible for Tolstoy's erroneous conclusion
+must have been so fundamental to his thinking that doubting it was for
+him impossible. Otherwise, it would be necessary to challenge his reason-
+ing and competence as a thinker. This course, besides being overly ambi-
+tious, would most likely fail. Instead, it will be fruitful to investigate the
+concerns that drive Tolstoy's inquiry and to uncover features of the para-
+digm from which these concerns arise.
+In the explicitly philosophical portions of War and Peace, Tolstoy
+inquires into the unfolding of history and criticizes contemporary histori-
+ans. With regard to the War of 1812 he asks, "What brought about this
+extraordinary occurrence? What were its causes?" (715); and similarly with
+respect to the Battle of Borodino Tolstoy asks, "Why was the battle of
+Borodino fought?" (895). In the epilogue Tolstoy arrives at the conclusion
+that certain laws govern behavior of masses of people. Whether these laws
+are known or even knowable are legitimate questions for Tolstoy, questions
+that he addresses at different parts of the novel (1168). However, at this
+point, it is more important to examine the framework required to pose
+these questions of 'causes' in the way that he does. Whether the answers to
+these questions are the sums of infinitely many causes, laws governing
+human history, or the one cause responsible for reality as such, each ques-
+tion presupposes an answer that simply exists out there in the world. Thus,
+for Tolstoy, there is some actual cause or law or reason responsible for the
+War of 1812. Whatever Tolstoy's answer is, its correctness or incorrectness
+is a function of the actual state of affairs in reality.
+Such a paradigm of thought might be considered a truism, one from
+which the very act of questioning arises. Hence it may be argued that
+Tolstoy is not only justified in adopting this axiomatic stance, but rather
+that he could not avoid adopting it same as anyone else. Yet for Tolstoy,
+postulating a reality that exists in a specific state in its entirety is not merely
+a prerequisite for inquiry, but moreover it is a direct source of some of his
+conclusions. As when he states:
+FREEWILLINWARANDPEACE 15
+The problem lies in the fact that if we regard man as a subject
+for observation from whatever point of view -theological, his-
+torical, ethical or philosophic- we find the universal law of
+necessity to which he (like everything else that exists) is subject.
+But looking upon man from within ourselves -man as the
+object of our own inner consciousness of self -we feel ourselves
+to be free (1427).
+Tolstoy seems to regard it possible to refer to the entirety of what
+exists and to make generalizations about the whole of reality. Further, he
+must think that there is something like an actual state of all existent things
+at any given time—a totality of being. These two axioms are interdependent
+and imply much more than the mere statement that one can be correct or
+incorrect about the state of affairs in the world outside one's body. It is as
+if one could clearly inscribe within a boundary the set of 'all existent
+things'. Otherwise, without this kind of boundary, referring to reality as
+such—in its entirety—seems difficult to comprehend. As when one refers to
+the 'set of all tulips' one has in mind a criterion for discriminating between
+these particular flowers and everything else that isn't a tulip. In that case,
+the criterion itself does meaningful work. However, the set of 'all existent
+things' is a special referent to say the least, primarily because it is hard to
+comprehend its implied criterion for discriminating between members and
+non-members.
+At this point the reader might object that Tolstoy is being dragged
+into an abstract metaphysical debate, one in which he would not want to
+take part. This is not borne out by the text, however, as Tolstoy himself uses
+the phrase 'external world' in his summary of the reductio argument. It is
+possible that he intends to refer to everything that is not us, but again it is
+the entirety of the external world that he does refer to. Therefore, it is safe
+to say that Tolstoy entangles himself in this cumbersome metaphysical
+debate. One clue which might shed light on why this entanglement occurs
+is the subject matter that he begins to address as the metaphysical questions
+begin to mount: freewill and determinism. Quite quickly, in the transition
+from discussion of history and historians to that of free will, Tolstoy is led
+to make difficult and often puzzling statements. He must introduce a
+16 NIKOLAYTUGUSHEV
+distinction between consciousness and reason, which, according to him,
+are separate from each other and can yield independent and often incom-
+patible self-knowledge (1427). Nonetheless, he writes, "man learns from a
+succession of experiments and reflections that he, as the object under
+observation, is subject to certain laws" (1427). These claims seem to be
+dubious, since a man is a conscious entity that cannot become entirely an
+object of his own observation for the simple reason that consciousness is
+itself implicated in the process of observation. Hence, it is difficult to dis-
+cern what being an object of observation really means.
+Even Tolstoy's hypothesized science of history—one that would sum
+up an infinite number of factors contributing to an event—belies a belief in
+a finite limit as well as a general conception of a specific state of all such fac-
+tors at any given moment in time. Consequently, he conceives of reason as
+having limited access to objective knowledge of actual states of affairs.
+Reason of the sort discussed towards the end of War and Peacegoes hand
+in hand with a certain view of science and of physical law—a view which was
+prevalent in Tolstoy's time. Within this philosophical framework laws are
+descriptions of natural phenomena (1427), and through knowledge of
+these laws, the principles that govern objects may be disclosed indubitably.
+In this sense laws are similar to rules that relate the movement of reality
+from some initial state to a subsequent state. Based on such an under-
+standing of science, reality is a necessitated progression of states of all exis-
+tent things, and through reason we become adapt at discovering laws that
+govern this progress of reality. Tolstoy seems to have internalized this view,
+as evidenced by his statement "reason gives expression to the laws of neces-
+sity" (1438). Hence, according to him, questions of 'why' and 'what' with
+respect to events must be resolved by answers given in terms of laws. Causal
+factors are then just conditionals that connect temporally separate states of
+reality.
+Given the outlined network of axiomatic beliefs regarding the nature
+of reality, reason, and laws, it follows necessarily that reality is determinis-
+tic. So much so, in fact, that one who adopts these views may be led to a
+very hard-lined form of determinism: a view that if all of reality is in a par-
+ticular state Nat time t=0, then one and only one state N' will correspond
+to a particular subsequent moment in time t’, so that the initial state of
+FREEWILLINWARANDPEACE 17
+reality Ndetermines all subsequent states. If the following three conditions
+hold: 1) all of reality is governed by laws, 2) the whole of reality is in some
+definite initial state, and 3) human beings are part of this reality; then any
+state of a human being is necessarily determined by the initial state of real-
+ity and the laws that govern its unfolding. Tolstoy comes into very close
+contact with this hard-lined view, and at times he adopts it outright. For
+example he writes about causality:
+The third element influencing our judgment is the degree to
+which we can apprehend that endless chain of causation
+demanded by reason, in which every phenomenon capable of
+being understood (and therefore every human action) must
+have its definite place as a result of what has gone before and as
+a cause of what will follow (1434).
+However, he avoids full commitment to this ultra-determinism when
+he says that, despite our best attempts, it is impossible to "conceive of either
+complete freedom or complete necessity" (1436). Thus, Tolstoy appears to
+be acutely aware of the complexity and indeterminacy of the questions
+regarding freedom that he raises. Despite this intuition the conceptual
+framework within which he operates constantly pulls him in the direction
+of determinism. He is so entrenched in the distinction between reason and
+consciousness that he does not stop to ask what faculty is involved in the
+act of 'conceiving' of man as either free or determined. Is it the limit of our
+reason that prevents us from conceiving of complete necessity or is it our
+consciousness? The uncertainty, which he himself admits and which he
+must face, may itself be the result of an ambiguity in the distinction
+between reason and consciousness.
+Tolstoy's predispositions form a metaphysical bedrock that constrains
+the philosophical approaches available for addressing the problem of
+freewill. His views of reason, laws, and reality spur each other on in such a
+way that one supposition necessitates the others. At the heart of Tolstoy's
+metaphysics lies an unyielding clarity of what 'totality of existence' actually
+means. It stands to reason along these lines that if all of reality is in some
+definite state at any given moment, then all things that constitute this real-
+ity must posses a definite nature. In turn, the definite nature of things
+18 NIKOLAYTUGUSHEV
+dictates that there must be laws governing the way an entity exhibits its
+inherent nature. In other words, the two beliefs—that laws disclose the
+nature of things and that reference to the entirety of existence is in princi-
+ple possible—mutually support and necessitate one another, and Tolstoy
+embodies both. From this position a clear conception of knowledge and
+description of reality sprouts fourth in a natural way. It becomes easy to
+suppose that reason is able to trace the nature of things and subsequently,
+in the limit of infinite reason, to know the future states of all of reality.
+Tolstoy discloses as much about his metaphysical views when he discusses
+infinite summation of causes and taking account of all conditions under-
+lying an event (1437). He imagines that, at least in principle, a complete
+description of reality is feasible.
+It is difficult to understand what justifications are given for accepting
+Tolstoy's metaphysical beliefs. He provides almost no justification for his
+most fundamental metaphysical convictions within War and Piece.
+Instead, they seem to be paradigmatic and indispensable for his thought,
+and so it is likely that in his mind they did not require support at all. Yet,
+these assumptions are the very ideas that push him towards his conclusions
+regarding determinism; however, a reductio ad absurdumargument requires
+that other possible assumptions of the original position are examined as
+well. The most difficult of these assumptions to accept is the idea of the
+totality of being—the capacity to refer to everything that exists. For one,
+there appears to be no good empirical reason to suppose that such a refer-
+ence is meaningful. After all, we always refer to some part of reality in rela-
+tion to some other part, and we ourselves partition the range of possible
+experiences in order to make our discourse meaningful. Hence, we talk of
+experiences of a house or a tree, rather than all the sensory data available
+at a given moment. When one smells a flower it would be distracting and
+absurd to have to mention the feel of the ground as it exerts pressure on
+one's feet. Just taking a closer look at everyday sensory experience demon-
+strates the implausibility of referring to everything that exists. Furthermore,
+such reference involves a logical leap which consists in extrapolating from
+human capacity to refer to particulars, universals, and sets of universals, an
+additional ability to refer to everything that exists. Although such a leap
+may go unnoticed and feel very natural, extending a given capacity out to
+infinity may lead to numerous philosophical traps.
+FREEWILLINWARANDPEACE 19
+In addition, the idea that the entirety of reality can be referenced
+and held in one's mind is not supported by physical science. Neither is it
+supported by the physics of today, nor was this conceptualization any more
+plausible on physical grounds during Tolstoy's own time. One of the better
+attempts along this line lies in conceiving of the totality of all the energy in
+the universe; this would make as reasonable a boundary for physical reality
+as anything else. From the law of conservation of energy, which was
+accepted in Tolstoy's time, it can be supposed that a constant unchanging
+amount of energy is always present in the universe. From this supposition
+we can formulate the boundary of all existent things in terms of this con-
+stant.
+The first difficulty for such an approach is that a circular definition
+underlies the attempt. The concept of energy depends on the conservation
+law for its meaning. In other words, energy is typically defined as the quan-
+tity which is conserved under certain changes. Thus defining the bounds
+of reality in terms of energy depends on the definition of energy, which in
+turn depends on where the boundary of the universe is drawn for which a
+certain value is constant; this is a clear case of circular definition. Not to
+mention, the constant value of total energy is zero according to the leading
+science. Hence, in light of this approach, the state of reality Nat time t=0
+exactly determines all subsequent states of reality for the simple reason that
+the amount of energy in the universe is always the same—mainly zero.
+In any case, the remainder of such a generous attempt to circum-
+scribe 'everything that exists' is nothing like what Tolstoy could use for a dis-
+course on determinism. In fact, referring to everything in terms of energy
+is almost completely uninformative for the issues of history and personal
+freedom addressed in the epilogue of War and Peace. In the epilogue the
+attempt to meaningfully discuss the set of all existing things becomes even
+more perplexing. Tolstoy seems to want to refer to all the people, all the
+bullets, all the cannons as well as all the planets and atoms in one sweep-
+ing shot. Another implication is that he would also need to refer to all
+those things we currently don't even know about. Thus history would need,
+like physics and mathematics, to "set out upon the new process of inte-
+grating the infinitesimal unknown" (1441). This of course assumes that
+history would deal with converging sums. Even with his apparent awareness
+20 NIKOLAYTUGUSHEV
+of the issues' complexities, still Tolstoy believes that "however accessible
+may be the chain of causation of any action we shall never know the whole
+chain, since it is endless, and so again we never get a conception of absolute
+necessity" (1437); a statement that further demonstrates Tolstoy's inability
+to part with the assumption that referring to 'it' as a single chain of causes
+is meaningful and justifiable.
+Throughout the epilogue of War and Peaceno support for this dubi-
+ous assumption is ever attempted. Yet it has several significant implications
+for the discussion presented at the end of the book. Reason, as conceived
+by Tolstoy, must be something that operates in transcendent space where it
+can gaze at all of 'it'—the entire chain of necessitated causality. Though
+human beings don't have full access to such omniscient reason, enough rea-
+son is nonetheless postulated that we can know that reality as a singular
+entity may, if only potentially, be taken up in a single gaze.
+One implication that follows directly from believing that there is
+such a thing as 'totality of reality' is that all events are determined and states
+of all entities are necessitated. Essential to note are those notions that are
+excluded by this assumption. Specifically, it is impossible that spontaneous
+self-caused events can take place. Otherwise the possibility of referring to a
+definite state of affairs of reality would be undermined. At any given
+moment, a spontaneous event—one uncaused by previous states of reality—
+may take place, and then the actual state of reality becomes otherwise than
+the one being considered right at that very moment.
+Furthermore, self-causation would run counter to every acceptable
+conception of law, natural or otherwise. Description and prediction of
+nature in terms of laws would have to cease, since any such prediction
+would be susceptible to erratic alteration and falsification, thereby making
+predictions worthless. As Tolstoy himself points out, "if there is even one
+heavenly body moving freely then the laws of Kepler and Newton are
+negated and no conception of the movement of the heavenly bodies any
+longer exists" (1440). He then goes on to say in the next line, "if there is a
+single human action due to freewill then not a single historical law can
+exist, nor any conception of historical events" (1440). This is a very curious
+yet definitive statement, which unequivocally discloses the meaning of
+freewill as it stands for Tolstoy. He thinks of freewill as a self-caused force
+FREEWILLINWARANDPEACE 21
+arising out of nothingness: "consciousness says: …I am independent of
+cause, since I feel myself to be the cause of every manifestation of my life",
+and "to imagine a man perfectly free and not subject to the law of necessity
+we must imagine him alone, outside space, outside time and outside
+dependence on cause" (1438). At this point the set of claims becomes a bit
+overwhelming. Why should anyone imagine freewill as a self-caused act
+arising out of nowhere? It is unclear why Tolstoy feels that self-conscious-
+ness provides us with a feeling of instantaneous self-causation. On the con-
+trary, as is frequently evidenced by the mental life of the characters in War
+and Peace, people perceive themselves as making decisions for which they
+construct justifications based on past events, future aspirations, and the
+affairs of the world. Never does a feeling of being in a mental vacuum over-
+whelm any one of the characters in the epic. In cases of amnesia due to
+shock of a wound or a paralyzing event, one grasps for memories in order
+to feel oneself back in control. So, if anything, consciousness seems to give
+us a feeling of being in control of ourselves. As Tolstoy skillfully argues, this
+perception of control is most often overestimated, but not because people
+feel themselves in possession of a spontaneously arising force.
+In connection with the question of freewill, another very ancient
+philosophical question is raised. The issue of personal freedom is closely
+tied to the problem of personal identity. Who is Napoleon or Czar
+Alexander? What does it mean to refer to a particular person? These ques-
+tions naturally arise whenever it is debated whether any person exhibits
+freewill; it then must be examined whether memories are parts of a person
+or not. If memories are parts of a person's identity, and hence precedents
+for decisions, then freewill no matter how conceived is not spontaneous
+and unprecedented. Rather, there is a chain of causations and intercon-
+nections among memories, which constitutes another realm of causal inter-
+action. These issues are never taken up explicitly by Tolstoy, and it is hard
+to see how the reductio argument may be convincing without addressing
+such concerns.
+Returning to the reductio argument, it is long overdue to examine
+what 'absurd conclusion' Tolstoy could have in mind, which for him fol-
+lows from the assumption of freewill. Given the larger agenda in War and
+Peaceof discrediting historical methods which rely on powers of individuals
+22 NIKOLAYTUGUSHEV
+for explanation of events, it is likely that Tolstoy means that assuming
+freewill leads to the absurd conclusion that individuals are responsible for
+the development of history. More specifically, if freewill is allowed then
+history does not follow laws, but is erratic, spontaneous, and chaotic. This
+absurd conclusion does follow if freewill is completely severed from the
+unfolding of reality. If man is attributed an unmitigated capacity to cause
+change in the world without himself being affected, then this stands in
+stark opposition to laws of history. In that case, it would be impossible that
+"the number of births or of crimes is subject to mathematical laws" (1442).
+On the contrary, discarding the assumption that reality can be mean-
+ingfully referenced in its entirety undermines determinism while leaving
+room for a possible reinterpreted version of freewill. If the whole of reality
+cannot be meaningfully ascribed a single state at some instant, then laws
+are always a function of other laws which dictate when specific laws are
+applicable. Although laws may be universal, they must always apply to sub-
+sets of reality and never to the whole of reality for the simple reason that
+there is no such thing as all of reality. So, for example, although we have
+laws that dictate the interaction of masses, these laws apply only under
+those conditions where it is masses alone that are being considered. Thus,
+the movement of masses is absolutely determined by laws of mechanics
+under the condition that objects are considered as masses. Similarly,
+whether an apple will fall at a given moment is absolutely determined with
+respect to some state of a tree, but not determined with respect to the gusts
+of wind that will topple the apple at another moment. Analogously, a per-
+son may be absolutely determined with respect to certain specifiable fac-
+tors, but it does not follow that this person is absolutely determined with
+respect to all those factors that can influence his future states. In this sense,
+laws that govern anything from atoms to civilizations are inseparable from
+carefully outlined conditions under which these laws apply. The inade-
+quacy of the notion of 'totality of reality' places doubt on the possibility of
+laws that completely determine a given event.
+After reducing determinism to a local phenomenon, nontrivially
+specified and often too difficult or even impossible to identify, it follows
+that actions and behaviors of human beings are determined in varying
+degree with respect to a multitude of factors. These factors conflict with
+FREEWILLINWARANDPEACE 23
+each other and jostle for influence. Consequently, there isn't a totality of
+all factors that exhaust all the possible influences on a human being. In
+conclusion, by rejecting Tolstoy's metaphysical assumption about reality as
+one conceivable whole, one avoids the absurd conclusion of a sponta-
+neously occurring force of will. Without this axiom it is possible to imag-
+ine people in control of actions to varying degrees. Some more influential
+factors contributing to human action may on occasion fall within the
+boundary which we call 'that person', while on other occasions a person is
+more dependent on those factors that fall outside of him or her.
+The assumption that there is anything like a totality of all relevant fac-
+tors that determine an action or an event is at the very least unjustified by
+Tolstoy. Instead it is more prudent to think that identifying the degrees of
+relevance of any one factor for determining action is always a subjective
+approximation; drawing the boundary of all relevant factors is always arbi-
+trary and in itself as indeterminate as the boundary of reality. In this light,
+contrary to Tolstoy's aspirations, history may be doomed to remain a
+humanistic rather than a natural science, and in turn natural science may
+be doomed to be quite humanistic as well.
+Works Cited
+Tolstoy, Leo. War and Peace. Trans. Rosemary Edmonds. New York:
+Penguin, 1982

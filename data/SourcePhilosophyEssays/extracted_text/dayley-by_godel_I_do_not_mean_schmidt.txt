@@ -1,0 +1,375 @@
+Aporiavol. 16 no. 2—2006
+By Gödel I Do Not Mean Schmidt
+JASONDAYLEY
+I
+n Naming and Necessity, Saul Kripke attacks the descriptivist theory of
+proper names made popular by Gottlob Frege, Bertrand Russell, and
+P.F. Strawson. Kripke proposes several examples that point out weak-
+nesses in the descriptivist theory as well as a more accurate picture of how
+names achieve reference to objects. Among Kripke's examples is a counter-
+factual situation in which Kurt Gödel does not produce the incomplete-
+ness theorem but fools the world into thinking that he has. There is some
+question in the descriptivist theory whether a person who only knows
+Gödel as the author of the incompleteness proof refers, using the name
+"Gödel," to the person Kurt Gödel or to the actual author of the incom-
+pleteness theorem. John Searle, in "Proper Names and Intentionality,"
+responds on behalf of the descriptivists both to Kripke's better picture of
+naming and specifically to the Gödel example. While Searle believes that
+Kripke has mischaracterized the descriptivists and adopted their method
+into his own, Searle himself has misrepresented Kripke's argument and
+given a descriptivist answer that only strengthens Kripke's point against
+such theories. Consequently, Searle's reply to Kripke's Gödel example mis-
+understands the implications of this example for the descriptivist theory,
+and Searle fails to give an adequate reply.
+Advocates of a descriptivist theory of proper names believe that
+names achieve reference by use of a definite description. There is some
+variety of opinions among these advocates as to how this occurs. Frege
+wrote that every name has an associated definite description that is the
+Jason Dayley is a senior majoring in philosophy with a minor in logic at Brigham
+Young University. After graduation in December 2006, he will attend law school.
+2 JASONDAYLEY
+manner or sense in which it refers to the intended object (Frege, "On Sense
+and Nominatum" 200). Russell wrote that names are merely placeholders
+or abbreviations of definite descriptions and that the denoting phrase,
+rather than the object itself, is the constituent of a sentence (Russell, "On
+Denoting" 492–493). Russell did allow that if an object is known by a
+direct acquaintance, its name may simply present the object named, but
+problems with this theory pushed him to later reduce the set of names that
+work in this way to ostensively defined sense data like "red here." So what
+we commonly call a name, at least for Russell's latter theory, is merely a dis-
+guised definite description.
+The example of the name "Plato" may help to clarify the way names
+work according to these theories. "Plato" refers to an object because it con-
+tains or is the abbreviation of a definite description. "The man who was a
+student of Socrates and taught Aristotle," is such a definite description that
+seems to pick out the object we would normally want to refer to by the
+name "Plato." This definite description is the sense in which the name is
+used. A name may have more than one sense, but only one sense can be
+meant in any one use of the name. A descriptive sentence containing the
+name "Plato" asserts that what is referred to by the intended sense of this
+name has the properties indicated by the predicate of that sentence, or if
+the subject is predicated as the referent of a definite description, then the
+sentence asserts that the predicate description picks out the same object as
+the definite description which is the sense of the name used as the subject.
+Take the sentence "Plato is my favorite philosopher." According to Frege's
+theory, this sentence seems to show that the sense of "Plato," "the man who
+was a student of Socrates and taught Aristotle," picks out the same object
+as the predicate description, "my favorite philosopher." Russell's theory
+makes this work more directly. The sentence, according to Russell, should
+be understood as "the object which was a man, learned from Socrates, and
+taught Aristotle, is the same object as my favorite philosopher." So, gener-
+ally, Frege and Russell assert that a name serves only to pick out an object
+by means of an inherent definite description.
+Strawson criticized Russell's understanding of how definite descrip-
+tions work, though he maintained a descriptivist theory of proper names.
+Strawson clarified that a description itself does not refer, but the use of a
+BYGÖDELI DONOTMEANSCHMIDT 3
+description by a person does (Strawson, “On Referring” 326–327). While
+Strawson says little about names specifically, his criticism of Russell seems
+to be relevant to the descriptivist theory. Since Strawson was a descriptivist,
+it follows from his use distinction of descriptions that names also do not
+refer. Only the use of a name by a person refers. The important point here
+is that for Strawson the definite description by which a name achieves ref-
+erence is not part of the name, but is part of the intention of the speaker.
+If my seven-year-old son were named Plato, it is not likely that my com-
+mand "Plato! Come and pick up your toys" would be directed to the stu-
+dent of Socrates who in turn taught Aristotle. This idea, that the definite
+description associated with a name is a reflection of the speaker's intention,
+will be returned to in discussing Searle's response to Kripke.
+Kripke attacks the descriptivists with a number of counterexamples;
+one of which serves as the focus of this paper (Kripke, Naming and
+Necessity).1Kurt Gödel is most often known for producing the incomplete-
+ness of arithmetic theorem. Following the descriptivist theory, when a per-
+son uses the name "Gödel" he is able to pick out a certain person by an
+implied use of the definite description "author of the incompleteness
+proof." When I write the sentence, "Gödel was a mathematician," I mean
+that the author of the incompleteness proof was a mathematician. It may
+seem obvious that the author of the incompleteness theorem was a mathe-
+matician, but if this is what is commonly known about Gödel then my
+original statement is just as obvious. In any case, the descriptivist theory's
+treatment of this situation seems to reflect my intention in using the sen-
+tence.
+To show the problem with this picture, Kripke describes a hypothet-
+ical situation in which the definite description used picks out someone
+other than the person intended. Say, for example, that Gödel was a bril-
+liant man who did everything a biography says he did, except that he did
+not create the incompleteness proof. Suppose instead that his brilliant
+though obscure friend Mr. Schmidt actually came up with the entire proof,
+1 Kripke’s book will hereafter be cited by the author’s name followed by the page number.
+2 There is a problem with circularity when the definite description associated with a name also
+contains a name (Kripke 81–82). For this reason, Kripke writes that a better example would be of
+a person who "actually states a certain theorem, which he attributes to Gödel as the discoverer"
+(Kripke 83). For the purpose of this paper, it should be understood that the name "the incom-
+pleteness proof" inside the denoting phrase associated with Gödel should really be replaced with
+Gödel's proof of arithmetic's incompleteness in its entirety.
+4 JASONDAYLEY
+only discussing the matter with Gödel. Before having a chance to show
+anyone else, Mr. Schmidt mysteriously vanishes and is never found. Gödel,
+who it turns out was not such a good friend, takes Schmidt's manuscript
+and publishes it as his own. Now, when I say "Gödel was a mathematician"
+and mean "the author of the incompleteness proof was a mathematician,"
+do I actually mean to indicate that Schmidt, whom I have never heard of,
+was a mathematician? This may be the case if I am using the name and asso-
+ciated definite description in what Keith Donnellan called the referential
+use; that is, if I mean to say that whoever authored the incompleteness
+proof was a mathematician, but this is not always the case (Donnellan,
+“Reference and Defininte Descriptions” 285). A clearer example may be
+someone saying "I had Gödel's class at Princeton." Clearly this person does
+not mean she had a class from Schmidt; so, there is a problem which the
+descriptivist's must answer.
+A descriptivist may respond to this apparent problem that the per-
+son, who was able to refer to Gödel directly rather than referentially, knew
+more about Gödel than just that he created the incompleteness proof.
+Hence, she could have intended another definite description or only the
+person who fits most of the properties she associates with the name
+"Gödel." Rather than explain why a cluster of properties is no more con-
+sistent in referring than a single property, let us modify the example to
+someone who only knows of Gödel that he authored the incompleteness
+proof and that he was introduced to him once at a party.3The day after the
+party this man may say to his wife, "Last night I was introduced to Gödel."
+Superficially, he could mean, "Last night I was introduced to the author of
+the incompleteness proof," but he could not mean that last night he was
+introduced to Schmidt, whom he has never heard of and certainly never
+met. It may be objected that the reference does not hold in such situations
+because the description is not of a necessary property and should not be
+expected to work in counterfactual situations. However, it is undoubtable
+that such situations, i.e. those in which we are mistaken as to whom a
+description refers, occur in the actual world and we would merely have to
+find one to show that this objection cannot hold. Furthermore, it would be
+impossible to rationally believe that names refer using only necessary
+3Kripke discusses the cluster theory in his book (Kripke 64–68).
+BYGÖDELI DONOTMEANSCHMIDT 5
+properties. Kripke admits that certain properties of a person are necessary
+such as the time in which they lived (Kripke 62), their parents, or their
+identity as a human (Kripke 46). Neither the time period of a person's life
+nor their identity as a human being could ever pick out a unique individ-
+ual;4 hence, such descriptions could never explain how a name is able to
+refer directly to a unique individual. Perhaps if we gave the exact second of
+a person's being born or that person’s birth order relative to the person’s
+parents, i.e. second born of Michael and Susan Jones, we could pick out a
+unique individual by necessary properties, but surely we do not know such
+information about every person to whom we refer using a name.
+One may object that a different type of definite description would
+solve the problem. For instance, the partygoer may refer to Gödel as "the
+man introduced to me as Gödel" rather than by his original knowledge of
+Gödel as "the author of the incompleteness proof," but this at best
+describes the picture Kripke gives for the way names work. The objector
+may say that by "Gödel" I mean "the man called Gödel," but this is blatantly
+circular and hence problematic (Kripke 72). If instead "Gödel" is to mean
+"the person whom I learned from an acquaintance is called Gödel," then
+this becomes an example of the picture Kripke gives. According to the alter-
+native picture of naming given by Kripke, a person or object is ceremoni-
+ously given a name.5It is only important here that there is a first use of the
+name in which it is given to an object. The name is then told to others by
+fixing the referent either by ostensive definition or by use of a definite
+description. So, the partygoer learns the name of a specific object, in this
+case a specific person, by being shown the reference, while in the original
+example the name was learned by being told it refers to the person who
+authored the incompleteness proof. In the first case, it seems obvious that
+the partygoer refers to a certain person whether or not he has any property
+other than being the man to whom I was introduced. In the second case,
+the description used to fix the reference could have been faulty, but I still
+4 While it may be that during a single second, or whatever unit of time one takes to be atomic,
+only a single individual was born, it is epistemically impossible that anyone, even one present at
+the delivery, could know this and use it for the purpose of referring. Since reference occurs as a
+person uses a name or description, and no one could ever know they were picking out someone
+uniquely by specifying the second they were born, the objection that unique reference by time of
+birth may be possible if one were specific enough is erroneous.
+5 While Kripke uses the image of a ceremony, it is unclear wheter he means more than ostensibly
+assigning an arbitrary name.
+6 JASONDAYLEY
+understand Gödel to be Gödel and not Schmidt. Suppose I learned the
+name "Gödel" from a Mr. Smith, who was introduced to the man by those
+who named him, his parents.6Smith knows that I am not acquainted with
+Gödel's parents but that I know something about math, so Smith states the
+result of the incompleteness theorem and then that it was Gödel who
+proved this. If we are all mistaken and Schmidt actually authored the proof,
+then the name still refers, through a causal chain, back to Gödel himself.
+This picture of how names work shows why a person, who was told that
+Gödel is going to give a lecture and who only knows Gödel as the author
+of the incompleteness proof, does not expect upon going to the lecture to
+hear from Schmidt.
+Searle asserts in "Proper Names and Intentionality," that Kripke has
+mischaracterized the descriptivist theory and that his picture seems to only
+work in a descriptivist way. Searle clarifies that the question these theories
+are trying to answer is, "How in the utterance of a name does the speaker
+succeed in referring to an object?" (Searle, “Proper Names and
+Intentionality” 309).7 Searle goes on to characterize the descriptivist
+answer: "The answer given by the descriptivist is that the speaker refers to
+the object because and only because the object satisfies the Intentional con-
+tent associated with the name" (Searle 309). Searle seems to believe, along
+with what was inferred earlier from Strawson, that names are able to refer
+to objects by use of a description which the name's speaker has in mind as
+he uses the name. In other words, when I say the name 'Gödel," it is my
+intention to speak of the person who authored the incompleteness theo-
+rem, and so I am able to refer to that man with use of this name.
+Searle tries to show that the causal theory is not a better picture of
+the way names work by demonstrating that the causal theory relies essen-
+tially on descriptivism in two ways. First, when a name is given in the ini-
+tial naming ceremony, it must be given by description. When a man gives
+an object a name he either gives an ostensive description to what is to
+receive the name, like "this infant in our arms," or he gives a unique
+6It will probably not be the case that most people learn the name Gödel from someone who
+knew his parents, but there must always be some chain back to them. This is especially true
+when one considers that Gödel learned his own name from his parents. In all cases, then, there
+will be a chain of people who heard the name from someone who heard the name etc., until we
+get to those who named the man Gödel.
+7This article will henceforth be cited by the author’s name followed by the page number.
+BYGÖDELI DONOTMEANSCHMIDT 7
+description using known properties, like "the highest peak of that moun-
+tain range." In the latter case, it would not even be important that the man
+were acquainted with the thing named. It seems that Kripke would have to
+admit this point, but this only shows an initial reliance on description, not
+that this description must be in the mind of the person using the name in
+every case. In fact, it surely is not since most uses of the name will not be
+by those aware of the procedure of an object’s naming ceremony. Second,
+Searle tries to show that the causal chain by which names are learned is not
+free from descriptivist intentionality. Kripke mentions that a speaker must
+have the intention to use the name the same way as the person from whom
+he learned it. Hence, to use the name Gödel, which I have learned from
+Mr. Smith, I must have as part of my intention the description "the person
+referred to by Mr. Smith using the name 'Gödel'" (Searle 310).
+We may now understand why Searle believes that Kripke's Gödel
+example cannot be used against the descriptivist theory. Searle admits that
+in the counterfactual situation given when I use the name "Gödel," I am
+"referring to Gödel and not the man who satisfies this description" (Searle
+318). However, Searle believes that the name must still carry the intentional
+content "the person called Gödel by those from whom I have learned the
+name." Now, there are times when the name is used in what Donnellan
+calls the referential sense.8 For example, I may say that I believe Gödel's
+proof was the most important achievement in math since Euclid. In this
+case, it seems clear that by "Gödel" I mean whoever authored the proof of
+incompleteness, whether or not it was actually Gödel. Therefore, whenever
+I use the name Gödel, I have a definite description as part of my intention.
+Thus, Kripke's theory can be reduced to descriptivism; hence, this example
+and the larger picture of naming that it was intended to support cannot be
+used to refute descriptivism.
+Kripke's theory easily defends against Searle's response to the Gödel
+example. It has been established that there are two types of descriptions
+which may be part of a speaker's intention when using a name. First, there
+is the type of descriptions classically used by descriptivists such as "the
+author of the incompleteness proof." If this type of description were the
+way in which a name achieved reference, then names are only used in the
+attributive sense; they can only refer to whomever fits their implied definite
+8Searle calls this "secondary aspect uses of proper names" (Searle 318).
+8 JASONDAYLEY
+description. However, the Gödel example shows that when I use a name, I
+usually want the name to function like a referential definite description; I
+want it to pick out a certain object no matter what descriptions that object
+may actually fit. There may be examples where I want to use a name in an
+attributive sense. In the statement, "Gödel's proof is the greatest achieve-
+ment in math since Euclid," the name "Gödel" seems to mean whoever
+wrote the proof rather than the actual man Gödel whether or not he was
+the author. It should be noted, however, that the subject of this sentence is
+not "Gödel," it is "Gödel's proof." This subject is a definite description
+which functions referentially since it picks out a certain proof whether it
+was actually created by Gödel or not. There may be another example in
+which we look at a version of the incompleteness theorem and say, "Gödel
+was a genius." This does seems to be attributive; it seems to mean that who-
+ever wrote the proof was a genius. If Schmidt wrote the proof, then I mean
+Schmidt was a genius. However, this is not the way I always use a name, nor
+is it the most common way. It cannot, therefore, be said to generally be the
+way in which names achieve reference. Furthermore, it seems that in most
+cases of this last type, rather than saying that the speaker was right and
+merely using the name "Gödel" referentially, we would usually say that the
+speaker is mistaken. Here the Gödel example makes the problems of a
+purely descriptivist theory of names apparent. When I say something like,
+"Gödel taught at Princeton," if we were to understand "Gödel" as func-
+tioning attributively, then it seems I mean that Schmidt taught at
+Princeton. I clearly do not mean this. I mean that a specific person, to
+whom we refer using "Gödel," taught at Princeton. In this case we want to
+use the name referentially as the subject of a sentence, and as I have shown,
+this is usually the case
+Searle proposes another type of definite description which answers
+the Gödel example. An example of this type would be like the partygoer's
+description, "the person who was introduced to me as Gödel." This may be
+stated more generally as "the person called Gödel in my community," to
+avoid the problems of having forgotten where I learned the name Gödel
+(Searle 310). It seems that when I say "Gödel taught at Princeton," I may
+mean "the person called Gödel in my community taught at Princeton."
+BYGÖDELI DONOTMEANSCHMIDT 9
+Kripke admits that a person using a name he has learned must have an
+intention to use the name in the way he heard it used. Searle interprets this
+intention as a definite description of the partygoer's type. It seems that if
+the name requires such a definite description in the intention of the
+speaker to function, then the descriptivist theory is correct (Searle 310). In
+fact, this points out how names could always function attributively, though
+this type of description does not seem to be the type Frege, Russell, and
+Strawson had in mind. Ignoring that this response by Searle seems ad hoc,
+the question remains whether, after admitted that names require inten-
+tionality, Kripke's Gödel example can be used to show that the descrip-
+tivist theory of naming is faulty.
+In explaining their theories, Frege, Russell, and Strawson never make
+reference to a description like, "the person called Gödel in my commu-
+nity." Perhaps this was because such a description is circular; it picks out the
+name Gödel by a description which contains the name "Gödel." There may
+be a question as to why this description seems to work in picking out the
+reference if it is indeed circular. The description has this ability because it
+does not refer to the object named; it refers to the causal chain by which
+the name is learned. The description "the person called Gödel in my com-
+munity" was used in place of "the person whose name I learned from Smith
+was Gödel" to account for the fact that we may use a name when we are not
+sure from whom we learned it. In any case, I, or the members of my com-
+munity, have learned the name from someone and so what is meant in
+this description is, "the person called Gödel by whomever I learned that
+name from." So, what did that person mean when they told me the name
+of the author of the incompleteness proof was Gödel? Normally, Smith
+would mean "the person called Gödel by whomever I learned that name
+from." Recall that in Mr. Smith's case, this means "the person called Gödel
+by the parents of Gödel." Who do the parents mean when they use the
+name Gödel or introduce this name to Gödel himself or to another per-
+son? They mean "the person who, as an infant, I took in my arms and said,
+'I name this infant Kurt Gödel,'" or however they pronounced the cere-
+mony. Therefore, the name Gödel merely presents the person so named
+and only secondarily requires an intention to use the name as it was
+learned. This intention may translate into a definite description, but this
+10 JASONDAYLEY
+definite description is only a secondary requirement and in fact refers to
+the causal chain from which the name was learned, not to Gödel himself
+Kripke repeatedly mentions that this idea of a causal chain of naming does
+not give a new theory of naming; it simply offers a better picture. The
+Gödel example demonstrates that this picture is better. To say that names
+achieve reference by the use of a definite description must be wrong if we
+mean that they use a description like "author of the incompleteness theo-
+rem." To say that names achieve reference by the use of a definite descrip-
+tion is deceptive if we mean that they use a description like "the person
+called Gödel in my community." If this second type were the type of
+description used in the vast majority of cases, to achieve reference, then
+Searle's descriptivist theory, which includes such descriptions, is deceptive.
+The idea that the name "Gödel" presents the object so named directly, and
+that this name was learned through a causal chain is more accurate. A
+description like "the person called Gödel in my community," may still be
+part of our intention, but stating that this description is the primary means
+by which the name Gödel receives reference is problematic.
+Kripke's Gödel example shows that the causal picture of proper
+names is better than the picture given by the descriptivists. If in using the
+name "Gödel," part of my intention is the definite description by which the
+reference was fixed when I learned the name, such as "the author of the
+incompleteness theorem," then there are clearly cases in which it seems I
+should mean Schmidt when I actually mean Gödel. If instead, the only
+description which is part of my intention in using this name is "the person
+who was called Gödel by whoever first taught me that name," then there
+will be no such mistake. Kripke's picture shows that names only rely sec-
+ondarily on intended definite descriptions. While this shows that there is
+some merit in the descriptivist theory, it is clear that saying this theory
+explains how names are able to refer to objects is deceptive. When using a
+name, a person may require a definite description as part of her intention
+if the name is able to achieve reference, or she may require a definite
+description to fix the referent of a new name. However, the Gödel example
+shows that in Kripke's picture names achieve reference only as they are
+learned from a causal chain, giving a better picture of the way names actu-
+ally work.
+Works Cited Or Consulted
+Donnellan, Keith. "Reference and Definite Descriptions." Philosophical
+Review. 75(1966): 281–304.
+Frege, Gottlob. "On Sense and Nominatum." In A.P. Martinich, The
+Philosophy of Language. 4th ed. New York: Oxford University Press,
+2001. 199–211.
+Kripke, Saul. Naming and Necessity. Cambridge, Massachusetts: Harvard
+University Press, 1980.
+Russell, Bertrand. "Mr. Strawson on Referring." Mind. 66 (1957): 385–389.
+Russell, Bertrand. "On Denoting." Mind. 14 (1905): 479–493
+Searle, John. "Proper Names and Intentionality." In A.P. Martinich, The
+Philosophy of Language. 4th ed. New York: Oxford University Press,
+2001. 308–323.
+Strawson, P.F. "On Referring." Mind. 59 (1950): 320–344.

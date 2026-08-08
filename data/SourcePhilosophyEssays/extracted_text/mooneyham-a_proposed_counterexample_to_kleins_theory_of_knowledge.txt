@@ -1,0 +1,256 @@
+Aporia vol. 18 no. 2—2008
+A Proposed Counterexample to Klein’s
+Theory of Knowledge
+B. D. MooneyhaM
+In his essay “A Proposed Definition of Propositional Knowledge,” Peter
+Klein addresses a famous problem in epistemology raised by Edmund
+Gettier. In short, Gettier challenges the traditional definition of knowl­
+edge—justified true belief—by providing counterexamples to the definition.
+Gettier shows that justified true belief is not sufficient for knowledge; in
+other words, there are cases in which someone is justified in believing a
+true proposition, but in which we would not say that the person knows the
+proposition in question. This presents a problem because a good, robust
+definition (of the kind epistemologists desire) ought to provide necessary
+and sufficient conditions of the item being defined. Since Gettier, many
+philosophers have attempted to formulate new definitions that are immune
+to these defeating counterexamples. This is what Klein attempts to do in
+his essay . However, I will offer counterexamples to show that not all the
+ele ments of Klein’s definition are necessary conditions for knowledge; his
+definition is too strong.
+I will first briefly summarize one of Gettier’s famous counter­
+examples. Two people, Smith and Jones, apply for a job. Smith is justified
+in believing that Jones will get the job. Smith is also justified in believing
+that Jones has ten coins in his pocket. On the basis of these beliefs, Smith
+draws a further conclusion which is logically entailed by the first two propo­
+sitions: the man who will get the job has ten coins in his pocket. However,
+Smith turns out to be the one who gets the job, and by coincidence, Smith
+B. D. Mooneyham recently completed a dual degree at Kansas State University,
+majoring in philosophy and economics. In the fall of 2009, he plans to attend law
+school, where he will study regulation and jurisprudence. His philosophical interests
+include epistemology, ethics (especially Kantian ethics), philosophy of law, and the
+history of philosophy.
+32 B. D. MooneyhaM
+also has ten coins in his pocket. On a common understanding of justifica­
+tion, Smith was justified in believing that the man who would get the job
+had ten coins in his pocket because it followed from two statements which
+he was justified in believing. Furthermore, this statement turned out to be
+true. However, it is unclear that Smith had knowledge in this case, so justi­
+fied true belief must not be sufficient for knowledge (Gettier 121–3).
+In his paper, Klein analyzes Gettier­type counterexamples like the one
+above in order to discover a common feature inherent in each one. By iso­
+lating a single aspect of the traditional definition of knowledge that leaves
+it vulnerable to these counterexamples, Klein intends to solve the Gettier
+problem. After examining several examples, Klein holds that knowledge
+does not obtain in these cases (even though justified true belief does
+obtain) because of a relevant true proposition that affects the “evidence”
+for believing another proposition. In the example above, Klein would argue
+that Smith was unaware of the proposition that the employer would hire
+him rather than Jones; had this been evident to Smith, he would no longer
+have been justified in believing that Jones would be hired.
+In addition, Klein identifies a unifying principle illuminated by the
+Gettier­type counterexamples, which he calls the “felicitous­coincidence
+principle.” This principle refers to situations in which the standard condi­
+tions for knowledge hold, but only by chance or coincidence. In Gettier’s
+example, Smith, being unaware of the employer’s real intentions, happened
+to be justified in believing that the man who got the job had ten coins
+in his pocket. This does not seem to be quite enough for knowledge. Klein
+relates the felicitous­coincidence principle to a passage in Plato’s Meno in
+which Socrates argues that knowledge cannot be “true opinion” because
+true opinion can arise by chance, whereas knowledge needs to be grounded
+in something stronger than mere chance accuracy (472). Similarly, the
+felicitous ­coincidence principle stipulates that justified true belief should
+not be attained by chance; otherwise, the belief in question does not quali­
+fy as knowledge. These reflections preface Klein’s proposed solution to the
+Gettier problem.
+Klein rejects one approach to solving the Gettier problem that involves
+strengthening the notion of justification to entail that one can never be
+justified in believing a false proposition. On this interpretation, Smith
+was not justified in believing that Jones would get the job because that
+statement turned out to be false. Neither was he justified, then, in believ­
+ing that the man who would get the job had ten coins in his pocket. So,
+Gettier’s example does not present a genuine case of justified true belief,
+nor does it under mine the traditional definition of knowledge. In spite
+of the simplicity of this response, few epistemologists support this strat­
+egy because it excludes many cases in which knowledge intuitively obtains,
+a ProPoseD CounterexaMPle to Klein’s theory of KnowleDge 33
+even though the evidence for our belief does not strictly guarantee its truth.
+Klein, by contrast, leaves the notion of justification relatively unchanged.
+He instead supplements it in a way that strengthens the traditional defini­
+tion enough to rule out the possibility for a felicitous coincidence. His
+definition includes the following four elements:
+S knows that p at t if and only if
+1
+(i) p is true;
+(ii) S believes p at t;
+1
+(iii) p is evident to S at t;
+1
+(iv) there is no true proposition such that if it became evi­
+dent to S at t p would no longer be evident to S. (475)
+1
+Essentially, Klein adds an extra clause to the traditional definition
+of knowledge. The new clause suggests that knowledge does not depend
+merely on one’s available evidence for a true proposition p, but relies on
+the non­existence of any defeaters for p. A defeater for p (or what Klein calls
+a “disqualifying proposition”) is any true proposition which eliminates the
+evidence for p or offers prevailing evidence against p. By using the word
+“evidence” rather than justification (as in the traditional definition), Klein
+helpfully clarifies his concept of justification:
+A proposition is evident to S at t iff it is more reason­
+1
+able for S to believe p at t (given his evidence for it) than
+1
+to withhold belief in p and there is no more reasonable
+proposition for S to believe at t. A proposition may be evi­
+1
+dent yet false. It may be evident to S but fail to be evident
+1
+to S, because S knows something that S does not know,
+2 1 2
+for example. In that sense evidency is person­relative, but
+it is person­neutral in the sense that, whatever makes p
+evident to S, that and that alone would make p evident
+1
+to S. (476)
+2
+Having provided a clear definition of knowledge, Klein proceeds to
+examine various potential counterexamples which could discredit his defi­
+nition. He quickly establishes that “there can be no counterexamples to
+show that the definition is too weak” (477). In other words, whenever all
+four conditions obtain, one will always have knowledge. I do not wish to
+argue that point here. Instead, I believe Klein too quickly dismisses the
+counterexamples meant to show that his definition is too strong. The last
+example that he considers, which he calls “the strongest that I know of”
+(478), needs further attention than what Klein offers.
+To paraphrase Klein’s example, Mr. Jones goes to M’s house, where
+he is justified in believing that flowers are on the mantel. In fact, Jones
+sees real flowers, but M is a magician who frequently creates the illusion of
+34 B. D. MooneyhaM
+flowers on the mantel. In this case, there is a defeater for Jones’s knowledge
+that p (where p is “there are flowers on the mantel”). The defeater is the
+proposition (I will call it d) that it is highly probable that M is creating
+the illusion of flowers. Klein argues that, even in the absence of any aware­
+ness of d, Jones does not know p. In order to insist that Jones knows that
+p, Klein believes we must 1) reject the felicitous­coincidence principle as a
+defeater for knowledge, and 2) concede an awkward description of Jones’s
+knowledge that p. Since neither of these is a condition we want to accept,
+we should instead deny that Jones knows p.
+The felicitous coincidence principle applies because “in this partic­
+ular case, even though the standard criteria hold, they are not reliable”
+(479). Given M’s nature as a magician, the odds were more likely that M
+would produce illusory flowers that night, which would make p false. If we
+deny that a felicitous coincidence discredits Jones’s knowledge that p, then
+we must also deny the validity of the Gettier­type counterexamples; the
+felicitous­coincidence principle applies in both cases. Moreover, we are left
+with the following “awkward” claim that Jones knew p before he discovered
+that M is a magician; discovering this, d became evident to him, and he
+no longer knew p. Finally, Jones discovered that M was not playing tricks
+on the night of his visit, so Jones came to know p once again (479). Klein
+wants us to question how one could seriously give this account of Jones’s
+knowledge.
+But perhaps the supposed awkwardness of such a description of
+Jones’s knowledge merely reflects the complexity of circumstances in which
+several facts present conflicting evidence for a given proposition. The magi­
+cian counterexample illustrates a situation in which there exists a defeater
+for one’s knowledge that p, but there is also a defeater for the defeater (the
+fact that M was not creating illusions that night). I suggest that such cases
+arise more frequently than Klein realizes, and that when these circum­
+stances do arise, knowledge is still possible. A reworking of the magician
+counterexample clarifies this claim and helps to weaken Klein’s charge
+of awkwardness.
+Consider a case in which Jones believes his wife is at work. He is
+justified in believing this, because his wife told him she was going to work,
+she almost never lies to him, she left at the same time she always leaves for
+work, etc. Moreover, she is in fact at work during the time in which Jones
+holds that belief. However, unknown to Jones, his wife’s sister arrived in
+town that morning, meaning to surprise his wife with a visit and spend the
+day with her. Jones is also unaware that his sister­in­law got a flat tire just
+as she arrived in town and was forced to spend all day finding a mechanic.
+Since Jones knows that his wife and her sister are very close and that they
+drop all their plans to spend time together, then if Jones had known d, that
+a ProPoseD CounterexaMPle to Klein’s theory of KnowleDge 35
+his sister­in­law was in town, he would have probably retracted his belief
+that p, his wife was at work, because p would no longer have been evident
+to him. He would therefore no longer have known p. But then, discovering
+the additional proposition e, “the sister­in­law had car trouble,” he would
+again believe (and know) that his wife spent the day at work.
+Is it really implausible to understand Jones’s beliefs in this way and to
+hold that, without any awareness of d or e, Jones would still have known p
+the whole time? If not, then Klein’s theory is in trouble. Unknown proposi­
+tions like d and e could conceivably occur often, but on Klein’s theory we
+must always deny that one has knowledge in these cases. Consider another
+case in which Jones’s wife works in the State Capitol Building. One morn­
+ing, a bomber plans to call in a threat to the building. State policies dictate
+that the building be evacuated any time such a threat is received, so Jones’s
+wife would have been forced to move across the street until the situation was
+resolved. However, before the bomber’s plans could be realized, the police dis­
+cover his intentions and intervene, preventing the threat. The proposition
+“a bomber plans to threaten the State Capitol Building” could be enough
+to make Jones’s belief p no longer evident to him, but the police depart­
+ment’s intervention prevented this proposition from entering Jones’s mind
+while he was considering whether or not his wife was at work.
+Moreover, these seem like the kinds of circumstances that never would
+enter Jones’s mind, because he does not have access to that kind of infor­
+mation; and yet it seems reasonable to grant that Jones knows his wife is at
+work. Both of the examples with Jones and his wife suggest that there could
+often be possible defeaters for everyday knowledge claims, such that if we
+were made aware of the defeater d by itself, p (the proposition in question)
+would no longer be evident. Yet, in addition to defeaters there are often
+defeaters for the defeaters as well. In order for us to know p, and not merely
+to know that we know, Klein would require that none of these extenuating
+circumstances ever occur without our awareness. But clearly these kinds
+of circumstances do occur without our awareness. It follows that unless
+Jones is omniscient, it will be almost impossible for him to distinguish the
+days that he knows his wife is at work from the days that he does not, even
+when the fact of her being at work does not change.
+This line of argumentation may be unconvincing to Klein. After all,
+is it not the same as saying that Jones will be unable to distinguish the
+days that he knows there are flowers on M’s mantel from the days that he
+does not, without consulting M? Klein would presumably have no problem
+with this statement. He examines a similar objection while responding to
+different forms of skepticism toward the end of his paper. The objection
+claims that “if the definition [of knowledge] were accepted, it would never
+be true that S knows that he knows that p because he could never know
+36 B. D. MooneyhaM
+that the fourth condition held” (480). However, these examples concern­
+ing Jones and his wife are not intended to demonstrate the impossibility of
+knowing that one knows p; rather, they show that Klein is overly optimistic
+in the expectation of how often his conditions for knowledge will obtain.
+His definition leaves out too many cases of knowledge to give us the kind
+of results we expect from a good theory of knowledge. In this sense, Klein’s
+theory should be rejected on the same grounds that Klein himself rejects
+the attempts to retain the traditional definition. These attempts use an
+overly strong sense of justification; here Klein too uses an overly strong
+qualification for knowledge.
+Returning to Klein’s first argument against the magician counterex­
+ample, we are forced to abandon the authority of the felicitous­coincidence
+principle. Any case of a “defeater for a defeater” seems like a felicitous
+coincidence (e.g., the sister­in­law getting a flat tire), and we probably do
+not want to use the principle to dismiss numerous cases of seemingly ordi­
+nary knowledge. But this does not mean we have to reconsider whether the
+Gettier problem is a problem. Perhaps the Gettier­type counterexamples
+can be explained coherently using another common feature that would
+reveal the problems regarding the traditional definition of knowledge.
+Many epistemologists have in fact developed competing theories operating
+under different assumptions about how to fix the traditional definition.
+The fact that there are alternatives shows that we need not cling to the
+felicitous­coincidence principle as an essential explanatory guide.
+In summary, Klein offers two reasons to reject the counterexample
+of Jones and the magician M. The first reason, appealing to the felicitous­
+coincidence principle, can be overcome by showing (as others have done)
+that this principle need not be decisive in solving the Gettier problem. This
+paper has been concerned primarily with Klein’s second reason, which
+holds that accepting the magician counterexample involves the use of an
+awkward and unintuitive conception of knowledge. I have argued that this
+is not the case by recreating the conditions of the magician example with
+more plausible circumstances and showing that such cases are both perfectly
+conceivable and knowledge­preserving. Considering that both arguments
+against the magician counterexample can be overcome, Klein’s theory
+fails to adequately defend against the objection that his criteria for knowl­
+edge are too strong. His fourth condition is not a necessary condition
+for knowledge.
+WWoorrkkss CCiitteedd
+Gettier, Edmund. “Is Justified True Belief Knowledge?” Analysis 23
+(1963): 121–3.
+Klein, Peter. “A Proposed Definition of Propositional Knowledge.”
+The Journal of Philosophy 68.16 (1971): 471–82.

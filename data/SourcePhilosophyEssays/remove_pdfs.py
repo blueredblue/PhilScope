@@ -19,7 +19,6 @@ from pathlib import Path
 
 def main():
     parser = argparse.ArgumentParser(description="Delete PDFs below a word count threshold.")
-    parser.add_argument("folder", nargs="?", default=".", help="Folder containing the PDFs and pdf_word_counts.csv")
     parser.add_argument("--min-words", type=int, help="Delete files with FEWER words than this")
     parser.add_argument("--max-words", type=int, help="Delete files with MORE words than this")
     parser.add_argument("--zero-words", action="store_true", help="Delete only files with exactly 0 words (usually scanned/image PDFs that failed to extract)")
@@ -30,13 +29,17 @@ def main():
         print("Specify --min-words, --max-words, --zero-words, or some combination.")
         sys.exit(1)
 
-    folder = Path(args.folder).expanduser().resolve()
-    csv_path = folder / "pdf_word_counts.csv"
+    # Force directory to data/SourcePhilosophyEssays/extracted_text relative to the script
+    # Note: script is in data/SourcePhilosophyEssays/
+    # Target directory is data/SourcePhilosophyEssays/extracted_text/
+    script_dir = Path(__file__).resolve().parent
+    folder = script_dir / "extracted_text"
 
-    if not csv_path.exists():
-        print(f"Couldn't find {csv_path}")
-        print("Run extract_and_sort_pdfs.py on this folder first.")
+    if not folder.is_dir():
+        print(f"Not a folder: {folder}")
         sys.exit(1)
+        
+    csv_path = script_dir / "pdf_word_counts.csv"
 
     to_delete = []
     with open(csv_path, newline="", encoding="utf-8") as f:
@@ -71,8 +74,10 @@ def main():
     print("\nDeleting...")
     deleted = 0
     for row in to_delete:
-        pdf_path = folder / row["file"]
-        txt_path = folder / "extracted_text" / (Path(row["file"]).stem + ".txt")
+        # Based on new structure, folder is data/SourcePhilosophyEssays/extracted_text/
+        # PDFs were originally in data/SourcePhilosophyEssays/
+        pdf_path = script_dir / row["file"]
+        txt_path = folder / (Path(row["file"]).stem + ".txt")
 
         if pdf_path.exists():
             pdf_path.unlink()

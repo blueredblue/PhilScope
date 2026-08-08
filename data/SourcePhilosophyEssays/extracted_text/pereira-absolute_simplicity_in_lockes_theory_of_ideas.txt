@@ -1,0 +1,487 @@
+A P O R I A
+ASTUDENTJOURNALOFPHILOSOPHY
+Editor
+Jeffrey Johnson
+Associate Editors
+Russell Farr
+Tully Minoski
+Justin Perry
+Justin White
+Aporiais published twice each year by the Department of Philosophy at Brigham
+Young University and is dedicated to recognizing exemplary philosophical work
+at the undergraduate level. The spring issue each year includes the winning essays of
+the annual David H. Yarn Philosophical Essay Competition, which is open to BYU
+undergraduates only, along with other outstanding philosophical essays submitted
+by undergraduate philosophy students from around the world. The winners of the
+Yarn Competition are selected by a faculty committee independent of the student
+editors and staff, who make all other publishing decisions. The fall issue is pub-
+lished online and consists of papers selected by the editorial staff. Submissions are
+welcome from all undergraduate students, both at BYU and elsewhere.
+The Aporia staff is especially grateful to those who support makes this journal
+possible. Special thanks go to Professor Dennis Rasmussen, chair of the Department
+of Philosophy, Professor David Jensen, our faculty advisor, and to Linda Hunter
+Adams of the Humanities Publication Center. Aporiais funded by a generous con-
+tribution from the David H. Yarn Endowment. Those wishing to contribute to this
+fund may do so by contacting the BYU Department of Philosophy.
+Opinions expressed herein are those of the respective authors and do not nec-
+essarily reflect the opinions of the editors, the Philosophy Department, or
+Brigham Young University.
+http://humanities.byu.edu/philosophy/aporia.html
+Aporia Vol. 16 number 2-2005
+Absolute Simplicity in Locke's Theory of Ideas
+JOÃO PAULO ALVES PEREIRA
+I
+ssues pertaining to the distinction between the simple and the complex
+are crucial in philosophy. Philosophers of the early modern period are
+notorious for using this distinction when building their philosophical
+programs. They generally classify certain things as simple and others as
+complex and then explain whatever is complex in terms of whatever is sim-
+ple. What one takes as simple, as fundamental, defines the type of philo-
+sophical program one will build. Sometimes, different choices about what
+is to be considered as fundamental result in radically different philosophi-
+cal programs. For instance, Leibniz starts his Monadology by making the
+simple/complex distinction. He claims that since there are composites,
+they must be composed of simple substances (monads). These substances,
+then, are the basis of explanation for Leibniz. Differing from this view, we
+have Locke’s take on substance. He claims that our ideas of substances are
+inherently complex and that there must be simples which account for such
+ideas. Because Leibniz takes the notion of substance as simple and Locke
+does not, their programs will inevitably be different—for Leibniz substance
+does the explaining whereas for Locke the idea of substance itself must be
+explained. Thus, misunderstandings regarding both what the simples are
+and the nature of those simples can mislead one in the interpretation of a
+João Paulo Alves Pereira is a senior studying philosophy at the California State University
+at Long Beach. Earlier drafts of this paper were written for a British Empiricism class at
+CSULB. This final version would not be possible without the help of Ken Brown, to whom
+the author is both deeply thankful and indebted for hours of conversations about Locke.
+2 JOÃOPAULOALVESPEREIRA
+philosophical system. It is very important, then, that we correctly under-
+stand the nature of the simple.
+When it comes to Locke’s theory of ideas, the nature of the simples
+has proven to be a particularly controversial issue in secondary literature.
+Different interpretations of the nature of the simples lead to different
+interpretations of other aspects of his theory, such as compositionalism.
+“Compositionalism” is a name given to Locke’s classification of some ideas
+as simple (e.g., colors, smells, and sounds) and others as complex (e.g., a
+rose), and his explanation of complex ideas in terms of simple ideas: com-
+plex ideas are composed of simple ideas. For instance, a combination of
+certain colors, a certain smell, and a certain tactile feel composes the idea
+of, say, a rose. However, the extent to which Locke is committed to compo-
+sitionalism is a controversial issue. Some claim that Locke’s program is
+compositionalist in the strong sense. According to this view, there are only
+two types of ideas: simple and complex. Also, these two classes are exclu-
+sive and exhaustive. Let us call this version “strong compositionalism”.
+Others believe that Locke is not fully committed to compositionalism.
+Such commentators claim that after some revisions of the Essay Locke
+came to hold a weakened version of compositionalism in which ideas do
+not have to be so rigidly classified as either simple or complex. According
+to this view, not all non-simple ideas have to be complex. Let us call this
+version “weak compositionalism.”1
+As I suggested above, one of the reasons why this longstanding con-
+troversy about the extent of Locke’s commitment to compositionalism still
+lingers is because commentators have different views about the nature of
+the simple ideas. One such commentator is Nicholas Jolley, who believes
+that Locke holds weak compositionalism. This belief is related to Jolley’s
+understanding of simple ideas. He believes that Lockean simple ideas are
+“relatively” simple; in other words, simple ideas are divisible. We will soon
+see that this interpretation of the simple ideas is consistent with a weak ver-
+sion of compositionalism. The question, though, is whether simple ideas
+are relatively simple or absolutely simple—having no separable parts.
+1
+This weakened version of compositionalism adopted by Nicholas Jolley is sug-
+gested by R. I. Aaron.
+ABSOLUTESIMPLICITYINLOCKE’STHEORYOFIDEAS 3
+Why does Jolley think simple ideas are relatively simple? One of
+Jolley’s main goals in his discussion of Locke’s theory of ideas is to defend
+him against the unfair treatment of other philosophers. Jolley says that
+others have unfairly regarded Locke’s theory of ideas “as a series of mud-
+dles” (Locke: His Philosophical Life29).2In order to save Locke from a dam-
+aging objection raised by another commentator, D. J. O’Connor, Jolley
+attributes to Locke the thesis of relative simplicity, the view that simple
+ideas have parts.
+However, Jolley’s position is problematic because relative simplicity is
+inconsistent with his own views regarding the origin of complex ideas.
+More importantly, the adoption of relative simplicity leads Locke to diffi-
+culties regarding the distinction between simple and complex ideas. Such
+a distinction is essential to a compositionalist system because one must be
+able to distinguish simple and complex ideas before one can explain how
+the former accounts for the latter. In order to avoid these problems, I pro-
+pose the adoption of absolute simplicity, the view that simple ideas do not
+have parts. Absolute simplicity not only avoids confusions regarding the so
+important distinction between simple and complex ideas but is also more
+consistent with Locke’s own claims in the Essay.
+This paper is organized as follows: in Section I, I will discuss both
+Jolley’s view on the origin of complex ideas and his reasons for adopting
+relative simplicity. Then, in the light of this discussion, three arguments
+will be provided that refute the viability of attributing relative simplicity to
+Locke. In Section II, an alternative way of dealing with O’Connor’s objec-
+tion, one that avoids the erroneous adoption of relative simplicity, will be
+provided. In Section III, I will consider the consequences of rejecting rela-
+tive simplicity for Jolley’s account of compositionalism and abstract ideas.
+In Section IV, I will consider some concluding thoughts regarding a pos-
+sible revision of Jolley’s interpretation that would be beneficial.
+2
+Further references to this work will be cited simply as “Jolley”followed by the
+page number. Similarly, all other works will be referred to initially by their full
+title and subsequently by only the name of their author followed by the number
+of the page cited.
+4 JOÃOPAULOALVESPEREIRA
+I. Refutation of the Relative Simplicity Thesis
+Jolley claims that simple ideas are the only ones that are given to us
+directly from either sensation or reflection. All complex ideas are the result
+of the mind processing the simple ideas, the raw materials from sensation
+or reflection, through various operations. In other words, the mind is pas-
+sive with respect to all and only its simple ideas and active with respect to
+complex ideas, which are formed by the various operations of the mind on
+the simple ideas (Jolley 46). The result of this is that all and only simple
+ideas are furnished by sensation. Complex ideas are notgiven in sensation;
+they are the result of the activity of the mind.
+Other commentators, like Vere Chappell, have a different view of
+the origin of complex ideas. Chappell implicitly asserts that there are two
+types of complex ideas: those coming from sensation (e.g., a rose) and
+those coming from reflection (e.g., fictions). He claims that complex ideas
+from sensation come into our minds ready-made and that the mind does
+not have to employ any of its operations to form them. According to
+Chappell, the mind only has to employ its operations in the production of
+complex ideas from reflection. Thus, the mind is passive with respect to
+some complex ideas. Sensation, then, furnishes us with some complex
+ideas (“Locke’s Theory of Ideas” 37–8). As we have seen above, Jolley holds
+the competing view that the mind is active with respect to all of its com-
+plex ideas. Sensation, then, does not furnish us with complex ideas, as
+Chappell claims. Jolley’s view is more compatible with what Locke says in
+the Essayabout the origin of ideas than Chappell’s view, as will be argued
+below.
+Now that we have a better understanding of Jolley’s view on the ori-
+gin of complex ideas, let us see what he means by a relatively simple idea
+in light of what motivated him to attribute relative simplicity to Locke.
+Jolley adopts the thesis of relative simplicity in order to defend Locke
+against a criticism raised by O’Connor. In his objection, O’Connor claims
+that the examples Locke provides for simple ideas do not fit the main cri-
+terion Locke gives us for what a simple idea is. According to Jolley, Locke
+thinks that the main criterion for the classification of ideas into simple
+ones is based on experience: “simple ideas contain in themselves nothing
+but one uniform appearance or conception in the mind” (45). O’Connor’s
+objection not only says that the examples provided by Locke for simple
+ABSOLUTESIMPLICITYINLOCKE’STHEORYOFIDEAS 5
+ideas do not fit this criterion, but, as Jolley himself recognizes, it implies
+that “perhaps nothing in our experience strictly does so” (46). Let us con-
+sider O’Connor’s attack on Locke and Jolley’s response to it, respectively.
+First, O’Connor considers the examples Locke gives when simple
+ideas are first discussed in the Essay. Locke says that the coldness and hard-
+ness of a piece of ice, the smell and whiteness of a lily, the taste of sugar,
+and the smell of a rose are all simple ideas because they have “one uniform
+appearance,” the criterion for simplicity (An Essay Concerning Human
+Understanding II.ii.1). Here is where O’Connor disagrees. O’Connor finds
+that experience shows us that “simple sense data such as these [exam-
+ples]…rarely present one uniform character indistinguishable into parts
+which differ sensibly one from another, be it ever so slightly” (John Locke47).
+Second, O’Connor implies that perhaps nothing, not only Locke’s exam-
+ples, present such a character. He says that even if there was a certain col-
+ored patch completely uniform in hue, which O’Connor probably believes
+cannot be experienced, this patch would not be uncompounded because it
+would be made up of smaller patches and, in that sense, would be spatial-
+ly compounded (47). Jolley focuses on this latter aspect of the objection.
+If O’Connor’s objection holds, Locke’s simple ideas simply do not
+exist. Even ideas that are uniform in appearance are spatially compounded.
+If this were true, it would be devastating for Locke’s position; without sim-
+ples, any compositionalist program becomes fatally jeopardized, as one
+clearly cannot build something (the complex) out of nothing (the nonexist-
+ent simple). As Jolley recognizes, though, compositionalism is extremely
+important for Locke’s program because it enables him to explain how we
+arrive at ideas that are supposedly innate (e.g., triangles). “In terms of [his
+compositionalism Locke] can explain how the mind is not limited to
+receiving what is given in experience…it can frame radically new content
+by combining or otherwise processing its simple ideas” (Jolley 48).
+In order to save Locke from O’Connor, Jolley suggests that perhaps
+Locke does not think that simple ideas are absolutely simple. Perhaps,
+Jolley says, Locke considers simple ideas to be relatively simple. Let us see
+what this relative simplicity amounts to and how Jolley thinks it could save
+Locke from O’Connor’s objection. Absolute simplicity with respect to sim-
+ple ideas would take them to be indivisible, uncompounded, foundational
+units out of which complex ideas are made. Relative simplicity, on the
+other hand, would take them to be divisible and compounded units, but
+6 JOÃOPAULOALVESPEREIRA
+nevertheless units that form complex ideas. As Jolley says, a relatively sim-
+ple idea is to a complex idea as a brick is to a wall. We consider the brick
+to be a unit with respect to the wall even though the brick is composed of
+smaller parts (Jolley 46). Relative simplicity, then, would save Locke from
+O’Connor’s objection because the colored patch could still be considered
+a simple idea even though it is spatially compounded. This solution is
+ingenious, but it is not one without its own difficulties.
+This view is inconsistent with Jolley’s denial of Chappell. In order to
+elucidate this inconsistency, let us consider the following argument: just
+like Chappell’s complex ideas from sensation, any given relatively simple
+idea must be composed of parts (or else it would be absolutely simple).
+According to Jolley, “to speak of a complex idea is to speak of a single, uni-
+fied idea, and Locke is clear that it is the mind which imposes the unity on
+elements which are given in experience” (47). Thus, the mind is active in
+the production of complex ideas. Now, given that Jolley himself claims that
+the mind is passive with respect to all and only its simple ideas, relatively
+simple ideas are multipart ideas that are not unified by the mind. What
+about Chappell’s complex ideas from sensation, what are they? They are
+also multipart ideas that are not unified by the mind in that they come in
+ready-made from sensation. Thus, we can see that Jolley’s relatively simple
+ideas are tantamount to Chappell’s complex ideas from sensation. They
+differ in name alone. Jolley cannot hold the thesis of relative simplicity if
+he wants to reject Chappell’s complex ideas from sensation. The only way
+we can refute Chappell is by adopting the thesis of absolute simplicity. By
+doing so, one can say that the mind is active with respect to ideas that have
+parts (complex ideas) and passive with respect to ideas that do not have
+parts (absolutely simple ideas). Thus, the thesis of relative simplicity and
+Jolley’s rejection of Chappell are incompatible.
+The choice, then, is between refuting Chappell’s view that complex
+ideas come from sensation or keeping Jolley’s idea of relative simplicity.
+The former course of action fits better with certain passages in Locke’s
+Essay. For instance, Locke says that by compounding (which is an opera-
+tion of the mind) “all complex ideas are made” (II.xii.1, emphasis added).
+Additionally, Locke states that “Though the mind be wholly passive, in
+respect of its simple ideas…it is not so in respect of its complex ideas”
+(II.xxx.3, emphasis added). These two passages make it clear that Locke
+holds that the mind is indeed active with respect to all of its complex ideas.
+ABSOLUTESIMPLICITYINLOCKE’STHEORYOFIDEAS 7
+Thus, we see that we should refute Chappell if we have any intentions to
+be truthful to the text, which forces us to give up relative simplicity.
+The second problem with attributing relative simplicity to Locke is
+that it conflicts with a reasonable interpretation of some of what Locke
+says in his discussion of simple ideas. For instance, Locke says that simple
+ideas are “each in itself uncompounded” (II.ii.1, emphasis added). He also
+says that “the ideas [that the qualities that affect our senses] produce in the
+mind, enter by the senses simple and unmixed” (ibid., emphasis added). In
+both passages, the italicized words suggest absolute simplicity. If ideas are
+uncompounded and unmixed, then they do not have parts. Any idea that
+does not have parts cannot be relatively simple. Furthermore, Locke says at
+one point that one’s mind can neither destroy nor invent simple ideas
+(II.ii.2). In saying this, Locke draws a parallel with the physical world. He
+says that man’s “power…reaches no further, than to compound and divide
+the materials, that are made to his hand; but can do nothing towards the
+making the least particle of new matter, or destroying one atomof what is
+already in being” (ibid., emphasis added). This comparison between our
+inability to destroy simple ideas and our alleged inability to destroy atoms
+cries out for absolute simplicity. Simple ideas are to the mind as atoms are
+to the physical world. Our simple ideas are, like atoms—at least as Locke
+understood them—indivisible and uncompounded, and, for this reason,
+they are indestructible by the effect of the mind.
+The third problem created by the adoption of relative simplicity is a
+conceptual problem in Locke’s theory. As we have seen, in order to save
+Locke from the objection that his view does not match how we actually
+experience things, Jolley attributes to him relative simplicity. However, in
+doing so, Jolley leads Locke’s view to an internal conceptual problem. If
+Locke holds relative simplicity, then any given simple idea can be subdi-
+vided into and is composed of an infinite number of smaller ideas, for if
+such subdivision had an end point, then the end point would be absolute-
+ly simple; as a result, we would have absolute simplicity. Now, consider a
+complex idea that has relatively simple ideas as parts. Given that relatively
+simple ideas can be subdivided ad infinitum, this complex idea would be
+composed of an infinite number of ideas. However, any given simple idea
+that composes it would also be composed of an infinite number of ideas.
+How, then, could we differentiate these two ideas in terms of which one com-
+poses which? There would be no criterion for doing so if both contained the
+8 JOÃOPAULOALVESPEREIRA
+same infinite number of ideas. Why should we consider the one idea foun-
+dational with respect to the other? How can the part have the same
+amount of parts as the whole? This would make simple and complex ideas
+indistinguishable. But simple and complex ideas must be distinguishable
+for compositionalism to make any sense.
+As we see, the attribution of relative simplicity to Locke is not a good
+interpretation. First, such a move is inconsistent with another view that
+Jolley himself holds, namely his refutation of Chappell’s claim that some
+complex ideas are given in sensation. Second, relative simplicity conflicts
+with a reasonable interpretation of some of Locke’s claims in the Essay.
+Third, relative simplicity needlessly draws Locke into a conceptual problem
+regarding the distinction between simple and complex ideas. Simple ideas
+must be absolutely simple.
+II. Is Locke Doomed?
+I believe sufficient reasons were provided for attributing the doctrine
+of absolute simplicity to Locke. However, relative simplicity was Jolley’s way
+of saving Locke from O’Connor’s objection. After rejecting Jolley’s solu-
+tion, must we automatically conclude that O’Connor’s objection works?
+Does adopting absolute simplicity entail that Locke is susceptible to
+O’Connor? I think the answer is no. I believe that Jolley needlessly tried to
+solve a pseudo-problem arising from O’Connor’s objection. Consequently,
+a rejection of Jolley does not entail a rejection of Locke.
+O’ Connor says that a patch of red (even if it is uniform in appear-
+ance) cannot be simple because it is spatially compounded. Let us look
+closely at what a patch of red would be in terms of Locke’s distinction of
+ideas. A patch of red is made out of at least two ideas: extension and the
+color red. Thus, we have two ideas forming a new idea: a red patch. Since,
+then, the red patch is formed by at least these two distinct ideas, it cannot
+be simple (in the absolute sense). This idea is instead complex. O’Connor,
+however, asserts that a red patch is a simple idea. If we accept this claim,
+then it seems that the only way we can account for how a red patch can be
+spatially compounded and still be a simple idea is by attributing relative
+simplicity to Locke. However, if one adopts absolute simplicity, one does
+not even have to address this problem. We would say to ourselves: “of
+course a patch of red is compounded; after all, it is a complex idea. It is the
+ABSOLUTESIMPLICITYINLOCKE’STHEORYOFIDEAS 9
+character of complex ideas to be compounded and to be able to be subdi-
+vided. This,” we would say, “is not a real problem.”
+One could say that I should not consider a patch of red as composed
+of two distinct ideas. “If that is the case,” one would say, “we would never
+experience a simple idea of red by itself because we always experience the
+color red spread out in space. A patch of red, then, is better conceived as
+one idea,” the objector would conclude. Let us see what Locke has to say
+about this: “’Tis true, solidity cannot exist without extension, neither can
+scarlet colour exist without extension; but this hinders not, but that they
+are distinct ideas. Many ideas require others as necessary to their existence
+or conception, which yet are very distinct ideas” (II.xiii.11).
+In short, O’Connor erroneously claims that a patch of red is one
+simple idea. Jolley accepts that claim and, in order to account for how it
+is compounded, attributes relative simplicity to Locke. In doing so, Jolley
+draws himself and Locke into problems. If Jolley had not accepted
+O’Connor’s claim that a patch of red is one simple idea, then he would
+not have to go through the pains of attributing relative simplicity to
+Locke. He would rightly refuse to recognize O’Connor’s objection as a
+real problem in the first place.3
+3
+Perhaps one who sympathizes with O’Connor might want to carry his objection
+against Locke to a further level. “Let us agree,” the objector would say, “that a patch
+of red is indeed a complex idea and that O’Connor made a mistake in thinking that
+it is a simple idea. This, however, does not mean that there are simple ideas as Locke
+claims. A patch of red,” he would add, “is composed of the simple idea of extension
+plus that of the color red. Even though extension is taken as simple here, it is spatial-
+ly compounded. As a matter of fact, “ he would notice, “any given portion of exten-
+sion is spatially compounded. Extension, then, cannot be a simple idea since it is
+always compounded. Therefore,” he would conclude, “O’Connor’s objection against
+Locke still holds when applied to extension instead of the patch of red.” Locke pro-
+vides us with an answer to this objection in an important footnote where he discuss-
+es duration and extension. A simple idea is said to be uncompounded. However, the
+term “composition” in this definition means “composition of different ideas in the
+10 JOÃOPAULOALVESPEREIRA
+III. Absolute Simplicity and a Strong Version of Compositionalism
+Upon reading Jolley’s discussion of O’Connor’s objection, one will
+come to realize that Jolley only suggests that Locke might hold the thesis
+of relative simplicity. Jolley does not explicitly assert that he is convinced
+that Locke in fact holds that view. Based on this, one might accuse me of
+arguing against a view to which Jolley is not even fully committed. It seems
+as though I am imposing the thesis of relative simplicity on Jolley just
+because he suggests its possibility. However, I believe that behind what
+appears to be a mere suggestion is a full commitment on Jolley’s part to rel-
+ative simplicity. This is the case because Jolley’s interpretation of other
+issues in the Essay, particularly his account of compositionalism and
+abstract ideas, shows an underlying assumption of relative simplicity.
+Jolley’s interpretation of such issues cannot be maintained unless relative
+simplicity is also maintained. Let us examine his account of such issues
+and why his interpretation must be rejected by those who adopt the thesis
+of absolute simplicity.
+Let us start with the notion of compositionalism. Strong composition-
+alism would maintain that all ideas are either simple or complex, with the
+complex ideas composed of the simple ones. Jolley thinks that Locke held
+this view in the first editions of the Essaybut then gave it up in the fourth
+edition and adopted a weak form of compositionalism (45). As Jolley has it,
+this form of weak compositionalism divides ideas into two categories: sim-
+ple and non-simple. However, not all non-simple ideas are complex, as is the
+mind, and not a composition of the same kind in a thing whose essence consists
+in having parts of the same kind, where you can never come to a part entirely
+exempted from this composition” (Locke II.xv.9). The idea of extension does not
+contain any idea of a different kind in it; it only has parts that are of the same
+kind. Extension, then, is not compounded in Locke’s signification of the word. It
+is, therefore, a simple idea. Even if we consider a portion of extension to be com-
+plex, it does not follow that there are no simples. In this case, Locke says that the
+least portion of extension that we could have a clear and distinct idea of would be
+considered the simple out of which our idea of a bigger portion of extension would
+be made. Even though extension can indeed be conceptually subdivided indefi-
+nitely, it cannot, according to Locke, be so subdivided when it comes to perception
+(Locke II.xv.9).
+ABSOLUTESIMPLICITYINLOCKE’STHEORYOFIDEAS 11
+case in strong compositionalism. Non-simple ideas can be classified as com-
+plex ideas, abstract ideas, or relations. This type of compositionalism, how-
+ever, can only be held if one holds the thesis of relative simplicity. This
+view is not compatible with the thesis of absolute simplicity because, given
+that only the simples are indivisible, any non-simple is necessarily divisible
+and therefore complex. Absolute simplicity necessarily takes any non-sim-
+ple as complex. Thus, we cannot hold absolute simplicity and weak com-
+positionalism at the same time. The adoption of absolute simplicity forces
+us to reject weak compositionalism. We must, then, adopt strong composi-
+tionalism if we are to hold absolute simplicity at all as I have argued.
+Let us now consider Jolley’s account of abstract ideas. Jolley claims
+that “ideas at the highest level of abstraction have something in common
+with simple ideas; they are free from complexity—they are not strictly
+compounded from simpler elements” (54). Jolley makes this assertion
+because, according to him, Locke gives us two different accounts for how
+abstract ideas are formed, the selective attention account and the elimina-
+tion account. In Jolley’s view, the elimination account consists of consid-
+ering a group of objects and forging an idea that represents an element that
+is common among them. For example, from a lion, an elephant, and a
+duck we can forge the abstract idea of animal. In this case, the abstract idea
+is complex since it is “a product, of a number of various particular ideas”
+(Jolley 51). The process of selective attention, according to him, consists of
+focusing our attention on a particular characteristic of a thing, e.g., the
+color white in a piece of chalk, and using that idea (that particular white)
+as a representative for all similar ideas in other objects, e.g., the white in a
+flower. When we use the white of the piece of chalk in this way, we create
+an abstract idea. This shows why Jolley makes the assertion that some
+abstract ideas lack complexity (white, for instance, is simple). If Jolley’s
+account of what he calls “the selective attention account” is correct, then
+it seems that some abstract ideas are in fact similar to simple ideas, at least
+in the sense that they lack complexity. It seems that what determines the
+classification of some ideas as abstract or simple is whether or not they are
+functioning to represent other ideas. In this view, there is no difference of
+the idea asidea. This, however, leads to some problems for those who hold
+the absolute simplicity thesis. As we have seen, we cannot hold weak compo-
+sitionalism if we hold absolute simplicity. Since all ideas must be either sim-
+ple or complex, abstract ideas cannot be considered as a separate category
+12 JOÃOPAULOALVESPEREIRA
+besides these two. If they are to be considered as non-simple as Jolley
+asserts, then they must necessarily be complex.
+What about Jolley’s explanation of the selective attention account? Did
+he not show us that some abstract ideas do in fact lack complexity when they
+are forged by selective attention? Jolley might have overlooked something in
+his interpretation of the selective attention account. I believe that selective
+attention does not result in an abstract idea that lacks complexity. The end
+product of this process is an abstract idea that is complex. Locke gives us an
+important hint that this is the case right after his discussion of the selective
+attention account. There, he considers whether or not animals abstract. He
+says the following: “If it may be doubted, whether beasts compound and
+enlarge their ideas that way, to any degree: This, I think, I may be positive in,
+that the power of abstractingis not at all in them” (II.xi.10). Since this passage
+follows his discussion of abstraction by selective attention, we must believe
+the words “that way” refer to the operation of abstraction. This passage sug-
+gests that abstraction either involves or is itself a type of enlarging and com-
+pounding. This process, then, must produce complex ideas.
+Unfortunately, Locke does not explicitly tell us how compounding
+and enlarging are involved in this process. Nevertheless, there is certainly
+one thing that differentiates simple ideas from abstract ones. An abstract
+idea has a certain relation with the other ideas that it represents—namely,
+the relation of being a representative of such ideas—while a simple idea
+does not have that relation. What differentiates simple and abstract ideas,
+then, is a relation. Thus, it seems reasonable to think that some abstract
+ideas that seem to lack complexity are composed of at least two elements:
+a simple idea plus a relation. This is a reasonable interpretation that is
+compatible with both Locke’s tacit claim that abstraction involves com-
+pounding (which makes abstract ideas complex) and with strong composi-
+tionalism. Abstract ideas, then, are not considered as a separate class.
+Instead, they are classified as complex ideas. However, it is unclear whether
+Locke believed abstract ideas to have other elements besides the ones men-
+tioned above.
+IV. Conclusion
+Jolley is correct in refuting Chappell’s claim that some complex ideas
+come into our minds ready-made from sensation. As Jolley said, Locke is
+ABSOLUTESIMPLICITYINLOCKE’STHEORYOFIDEAS 13
+clear that only simple ideas are given in sensation and that the mind
+imposes the unity of all complex ideas (46–7). For this reason, he should
+change his approach for answering O’Connor’s objection. As we have
+seen, adopting relative simplicity ultimately forces us to agree with
+Chappell’s view. I have demonstrated how Jolley could adopt the thesis of
+absolute simplicity and yet be able to respond to (or, rather, dismiss)
+O’Connor’s objection against Locke. In doing so, however, Jolley would
+have to revise his account of compositionalism and some aspects of his
+account of abstraction. Nevertheless, this revision would be beneficial for
+Jolley because it would allow his objections against Chappell and against
+O’Connor to cohere. Ultimately, Jolley can either keep his views about
+simple ideas, compositionalism, and abstraction as they are and accept
+Chappell’s claim or revise some aspects of his views so he can properly
+refute Chappell. Since certain passages in the Essaymake Chappell’s view
+very unlikely, my recommendation is the adoption of absolute simplicity.
+As we have seen, this adoption settles the controversy about Locke’s com-
+mitment to compositionalism. Ultimately, this better understanding of the
+nature of the simples leads us to a strong compositionalist interpretation
+of the Essay.
+Works Cited
+Chappell, Vere. "Locke's Theory of Ideas." The Cambridge Companion
+to Locke. Ed. Vere Chappell. Cambridge: Cambridge University
+Press, 1994. 26–55.
+Jolley, Nicholas. Locke: His Philosophical Thought. New York: Oxford
+University Press, 1999.
+Locke, John. An Essay Concerning Human Understanding. Ed. Roger
+Woolhouse. New York: Penguin Books, 1997.
+O'Connor, D. J. John Locke. London: Penguin Books, 1952.

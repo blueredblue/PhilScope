@@ -1,0 +1,336 @@
+Aporia vol. 18 no. 1—2008
+Charles Hartshorne and the Ontological Argument
+Joshua Ernst
+T he ontological argument distinguishes itself from the cosmological
+and teleological arguments for God’s existence because it is a priori,
+while the cosmological and teleological arguments are a posteriori.
+One of the first to formulate the ontological argument was St. Anselm, the
+Archbishop of Canterbury, who lived in the late eleventh century. Anselm’s
+argument rests on the idea that God, by definition, is “that than which
+none greater can be conceived” and that this definition, when used in a
+proof created by Anselm, proves God’s existence. Another key point in
+Anselm’s argument is that if God exists, he must exist necessarily, symbolized
+“p ⊃ Np.” According to Anselm, who represents a classical understanding
+of God, it is impossible for God to exist contingently.
+Anselm’s argument has been criticized and critiqued by many philoso-
+phers, one of whom was Immanuel Kant. Kant felt that an ontological proof
+of the existence of God was impossible (Pojman 5). He called into ques-
+tion the use of being or existence as a predicate, which is used throughout
+the ontological argument. Kant argued that existence is not a great making
+property—knowing that something exists does not enhance the thing itself
+(Pojman 7). A century later, Charles Hartshorne revised the ontological
+argument and presented a different interpretation of God’s mode of exis-
+tence or of the way God can and needs to be perfect. Hartshorne argued
+that not only does his version of the argument withstand critiques such as
+Kant’s, it eliminates the fallacy he feels Anselm’s original argument creates:
+rather than prove God’s existence, Anselm’s argument proves the necessity
+of God’s non-existence. I will first outline Anselm’s original argument and
+Kant’s critique of that argument. I will then outline Hartshorne’s version of
+Joshua Ernst is a senior at Brigham Young University studying philosophy, logic,
+and Spanish. His primary interest is philosophy of religion. After graduation he
+plans to attend law school where he will study business litigation. This essay won
+third place in the 2008 David H. Yarn Essay Contest.
+58 Joshua ernst
+the argument and explain in detail the following: the central assumption of
+Hartshorne’s proof, that God is possible, Hartshorne’s defense of that the-
+sis, and that Hartshorne’s defense establishes the validity of his thesis.
+St. Anselm’s Presentation
+Anselm defines God as that than which none greater can be conceived.
+He claims that when someone hears this, “he surely understands what he
+hears; and what he understands exists in his understanding” (Pojman 4).
+However, even though this idea exists in the understanding of an individ-
+ual, that individual may not necessarily realize that it exists in reality as well.
+These two things are obviously different, for as Anselm explained, “When
+a painter, for example, thinks out in advance what he is going to paint, he
+has it in his understanding, but he does not yet understand that it exists,
+since he has not yet painted it” (Pojman 4). However, once the artist paints
+the object, then it exists both in his understanding, and he understands
+that it exists. Anselm continues his argument by claiming that than which
+none greater can be conceived cannot only exist in the understanding, “for
+if it exists only in the understanding, it can be thought to exist in reality as
+well, which is greater” (Pojman 4). This leads to a contradiction, as shown
+in the following proof:
+1. God = that than which none greater can be con-
+df
+ceived.
+2. Some things exist only in the understanding; oth-
+ers exist both in the understanding and in reality.
+3. God exists in the understanding.
+4. All else being equal, that which exists both in
+the understanding and in reality is greater than that
+which exists only in the understanding.
+5. God exists only in the understanding.
+6. It is possible to conceive a God that does not exist
+only in the understanding.
+7. We can conceive of a greater being than God.
+(4) (5) (6)
+8. We can conceive of a greater being than God
+and God is that than which none greater can be
+conceived. (1) (7)
+9. God does not exist only in the understanding.
+(5) (8)
+10. Therefore, he must exist in reality as well.
+Charles hartshorne and the ontologiCal argument 59
+In addition to the conclusion that God exists, according to Anselm it
+is important to understand how he exists. Anselm believed that if God exists,
+he must exist necessarily, “so that the statement he exists is necessarily true”
+(Goodwin 3). God’s existence is either necessary or is impossible, or “the
+statement that God exists is either necessarily true or necessarily false” (4).
+This argument can be symbolized as follows (4):
+“N” for “necessary that”
+“q” for “a perfect being exists”
+1. Nq ∨ N q Anselm’s Principle
+~
+2. N q Assumption
+~ ~
+3. Nq Inference from 1,2
+4. Nq ⊃ q Modal Axiom
+5. q Inference from 3,4
+This argument is central to Hartshorne’s revision of the argument, which I
+will discuss later in greater detail.
+Immanuel Kant’s Objections
+According to Kant, the greatest weakness of the ontological argument
+is its use of existence as a predicate. A judgment has the simple form S is P,
+S being the subject and P being the predicate. A predicate, Kant argues, is
+something that enlarges our understanding of the subject. For example, the
+statement, “every triangle has three angles” is a statement which enlarges
+our understanding of the thing that is a triangle. However, Kant argues that
+this understanding came from “judgments and not from things. But the
+unconditioned necessity of a judgment does not form the absolute neces-
+sity of a thing” (Pojman 6–7). The example of the triangle does not tell
+us that three angles actually exist, but that “upon condition that a triangle
+exists, three angles must necessarily exist—in it” (Pojman 7). In judgments, if
+we were to remove the predicate, then the subject remaining by itself would
+cause a contradiction to occur. It is impossible to think about a triangle
+that does not have three angles—the exclusion of this predicate makes it
+self-contradictory. However, to “suppose the non-existence of both triangle
+and angles” (Pojman 7), would be acceptable because doing so does not
+yield a self-contradiction. Consider the statements “God exists” and “God
+is omnipotent.” To deny the omnipotence of God, while assuming his
+existence, would be contradictory, for God, by definition, is omnipotent.
+60 Joshua ernst
+“But when you say, God does not exist, neither omnipotence nor any other
+predicate is affirmed; they must all disappear with the subject, and in this
+judgment there cannot exist the least self-contradiction” (Pojman 7).
+Consider the following two statements: “cats scratch” and “cats exist.”
+The former can be interpreted two ways: “if there were cats, they would
+scratch” and “there are cats and they scratch.” Following this model, the
+second statement can also be interpreted two ways: “if there were any cats,
+they would exist” and “there are cats and they exist.” The fallacy is clear:
+“Being is evidently not a real predicate, that is, a conception of something
+which is added to the conception of some other thing” (Pojman 8). To say
+that there is something does not create a new predicate; it merely affirms
+the subject with all of its already existing predicates. Kant’s objection to the
+argument contradicts premise four of the argument given earlier: “All else
+being equal, that which exists both in the understanding and in reality is
+greater than that which exists only in the understanding.” Following the
+interpretation of Anselm and the way his argument is presented, Kant’s
+objections adequately show its invalidity. Therefore, what is needed is a
+revision of the original argument: a revision that can withstand Kant’s cri-
+tique of predicated existence.
+Hartshorne’s Revision
+The formalized version of Hartshorne’s proof, which he presented in
+The Logic of Perfection, is as follows:
+“q” for “(∃x)Px,” “there is a perfect being, or perfection exists”
+“N” for “it is necessary (logically true) that”
+1. q ⊃ Nq “Anselm’s Principle”1
+2. Nq ∨ Nq Excluded Middle
+~
+3. Nq ⊃ N Nq Form of Becker’s Postulate2
+~ ~
+4. Nq ∨ N Nq Inference from (2,3)
+~
+5. N Nq ⊃ N q Inference from (1)
+~ ~
+6. Nq ∨ N q Inference (4,5)
+~
+7. N q Intuitive postulate3
+~ ~
+8. Nq Inference from (6,7)
+9. Nq ⊃ q Modal Axiom
+10. q Inference from (8,9)
+1 Perfection cannot exist contingently.
+2 Modal status is always necessary.
+3 Perfection is possible.
+Charles hartshorne and the ontologiCal argument 61
+The central assumption or thesis to Hartshorne’s argument is that
+God’s existence is possible. This assumption is important because the logi-
+cal underpinning of the argument is that to be possible and to be are the
+same thing. In defense of his thesis, Hartshorne offers two main points:
+the inclusion of possibility in the reality of God and that the neoclassical
+conception of God is able to overcome major difficulties the classical concep-
+tion, such as that of Anselm, is not able to overcome. In order to see the
+importance of possibility, first we must understand the differences between
+classical and neoclassical conceptions. Hartshorne did not disagree with
+every aspect of Anselm’s insights: his “argument against Anselm is that,
+while his insight into the logical status of perfection was correct (i.e., that
+perfection is either absolutely necessary or utterly impossible), his interpre-
+tation of what perfection means was inadequate” (Goodwin 52–53). The
+classical conception of God dictated the following: perfection must imply
+changelessness, a perfect being must be wholly actual, there is no potential-
+ity in the reality of God, and God is immutable or wholly necessary; there
+is no distinction between what he is and that he is (53). Hartshorne labeled
+this as actus purus.
+Neoclassicism states that perfection does not need to imply change-
+lessness. By introducing possibility into the reality of God, actus purus
+becomes modal coextensiveness, or “God covers, with complete adequacy and
+comprehensiveness the territory of the actual and the territory of the pos-
+sible” (Goodwin 55). This means that God is both everything that is and
+everything that could be. Modal coextensieveness also implies a certain
+distinction in an individual between its abstract identity, the idea of some-
+thing, and its concrete actual states, how that thing actually is. For example,
+there is a distinction between the fact that you exist, which encompasses you
+as an idea or being, and the fact you exist now reading this paper, or how
+it is that you exist in this moment. God has these two distinctions as well;
+however, the difference between you and God is that “in Him alone it is
+possible to treat existence as not only different, but different modally, from
+actuality, i.e., so that one is necessary, the other contingent” (Goodwin 56).
+God can be necessary (his abstract being) and contingent (his concrete states
+of existence). Under this revision, all the normally attributed properties of
+God do not apply to his whole being, but only to one aspect; they apply
+to his abstract being, not to his contingent and changing states and there-
+fore, the classical definitions of God are not denied. I will now show that the
+neoclassical conception of God is able to overcome the major difficulties
+that the classical conception is unable to overcome. I will follow a defense
+for this thesis outlined by George L. Goodwin in his work The Ontological
+Argument of Charles Hartshorne.4
+4 I have already cited Goodwin various times in the paper, but the information I have cited is not unique
+to his book alone. However, the defense he outlines is specific enough for me to explicitly cite his book.
+62 Joshua ernst
+A Formal Ambiguity in the Notion of Perfection
+Anselm said God is, by definition, that than which none greater can
+be conceived or that there is no greater being than God. However, this
+can be interpreted in two ways. Either God is unsurpassable by all beings,
+or he is unsurpassable by all beings “save self in future states” (Goodwin
+58). If interpreted one way, then the “none” in Anselm’s definition refers
+to all beings, including God himself, and if interpreted the other, then the
+“none” refers to other beings, except for God himself in the future. This
+ambiguity allows for a “neglected alternative” in the realm of perfection
+(58). Goodwin argues that “God is absolutely perfect in all respects” and
+“God is absolutely perfect in no respects” are contradictory, that only one
+can be true, but that they can both be false at the same time. Therefore, all
+the possibilities must be taken into account. The alternative lies between
+“all” and “none,” or “some.” Goodwin formalized the three possibilities
+as follows: “God is in all respects absolutely perfect and is unsurpassable
+by self; God is in some respects absolutely perfect and unsurpassable, and in
+other respects perfectible or surpassable by self; God is in no respects absolutely
+perfect and in all respects perfectible” (Goodwin 59).
+Perfection Requires Potentiality
+There is an important distinction between the neoclassical concept,
+modal coextensiveness, and the classical concept, actus purus. The former
+expresses perfection in terms of becoming, while the latter expresses perfec-
+tion in terms of being. Under the idea of perfection in terms of becoming,
+there exist two modes of reality: “concrete becoming and abstract being”
+(Goodwin 60). In terms of abstract being, perfection will be achieved; it
+will have the static notion that classic theism believes. However, in terms of
+concrete becoming, the being will be maximally perfectible only by him.
+Actus purus, argues Goodwin, removes the distinction between pos-
+sibility and actuality. Because God possesses all values completely, what
+actually is and what could be are the same thing. However, Goodwin offers
+the following example: If the definition of omniscience is “perfect knowl-
+edge,” and a correct knowledge of events which have not yet occurred
+requires temporality in understanding, “then a perfect knower will know
+the future . . . as possible and not as actual. God’s knowledge is perfect
+because he knows all the actuality as actual and all the possibility as pos-
+sible” (Goodwin 62). This understanding is requisite as we consider the
+idea of all possible values. There are values, such as green and not-green,
+that are such that they cannot exist at the same time. A classical concept
+of God requires the actuality of all values, or that all possibilities are actual
+Charles hartshorne and the ontologiCal argument 63
+and complete. However, even a simple contradiction between green and
+not-green shows that this cannot be. Under the classical interpretation,
+such a contradiction would render the argument not only invalid, it would
+be necessarily impossible for God to exist under the classic interpretation
+while considering the notion of perfection. However, in a neoclassical
+interpretation God has all actual values as actual and all possible values as
+possible, thus allowing Hartshorne’s argument to avoid the contradiction.
+Goodwin raises another contradiction within the classical under-
+standing and the idea of infinity and actuality. Goodwin defines actuality
+as “the decision among competitive alternative possibilities” (63) or that
+there is always a choice among possibilities in any situation, and there are
+more possibilities that are not brought about than those that are. If actus
+purus contains the possibilities that are carried out, what of the possibilities
+that are not carried out? By definition, infinity would take into con-
+sideration both those possibilities that are carried out and those that are
+not carried out. However, it is important to remember that infinite, in
+terms of actus purus, cannot mean all possibilities, for I have already shown
+above that all possibilities are not housed within actus purus (green and
+not-green). It would seem, according to Goodwin, that infinity is not the
+totality of actuality, but “the unrestricted disjunction of all possible states
+of affairs” (63). In the modal coextensiveness of God, infinity is contained
+within his potentiality, not within his actuality.
+The final contradiction stems from a critique much like that of
+Kant. Goodwin argues that “nor can the divine reality—conceived as
+wholly actual—be necessary. No actuality . . . can be necessary, and this is
+the insight which has been misstated in the dogma that ‘existence is not a
+predicate.’ . . . God as actual cannot be necessary” (64). Classic interpreta-
+tion, just as Kant argued, cannot carry existence as a predicate because it
+simply states that God exists. However, modal coextensiveness’s existence
+is always a predicate, because modal coextensiveness says that God is con-
+tingent or necessary, which describes how he exists, rather than stating that
+he does. Describing how something exists adds to the thing itself, and thus
+Hartshorne’s argument is able to avoid another objection that the classical
+interpretation cannot.
+The Existence-Actuality Distinction
+Hartshorne once said, speaking of the existence-actuality distinc-
+tion, that it “is so essential I would have little interest in the ontological
+proof apart from it” (Goodwin 65). It is vital to Hartshorne because it is
+the backbone of his potentiality argument—that God’s actual state is not the
+greatest possible state. To approach this subject, Goodwin first considers
+64 Joshua ernst
+the distinction between concrete and abstract. Both actus purus and modal
+coextensiveness share one feature: both are conceptions of perfection that
+are a priori (65). Goodwin asks, “how can a property that is a priori, perfec-
+tion, be distinguished from and yet logically entail an existent being having
+the property? . . . What is the bridge from the abstract concept of perfection
+to the concrete actuality of a perfect being?” (66). The idea of humanity,
+while we understand what is meant, does not necessarily mean that there
+are humans. Goodwin argues that the classical concept fails to answer this
+question, while the neoclassical concept is able to give an answer. The dis-
+tinction between existence and actuality is a distinction between what is
+perfect and what has the property of perfection. In his abstract existence,
+“God is his perfection . . . but God, in his concrete status, embodies perfec-
+tion” or God has the property of perfection and is therefore not identical
+with perfection (66). Here, what connects the abstract with the concrete (like
+the bridge above) is the idea that the abstract perfection and concrete
+instances of perfection must be part of the same individual. God contains
+both abstract perfection and concrete instances of that perfection. Goodwin
+argues that the ontological proof does not prove that there is a necessary
+instance of perfection (as Anselm’s argument purports), but rather that the
+group of possible instances of perfection must have something in it, and
+that everything in that group must belong to one individual.
+Goodwin notes another flaw in actus purus and dimensions of value.
+Under the classical concept, God is without any increase; he possesses the
+maximum of all values. However, there are some values that do not have a
+limit. Take for example knowledge. When compared to “the richness and
+variety . . . of its objects, (knowledge) can have no maximal form” (71). Why
+is this? Because the nature of having a richness of knowledge is that there
+will always be something new to experience, “new actualities for a perfect
+knower to know” (Goodwin 71). However, knowledge, understood as an
+error-free state of knowing, can have a maximum limit. The distinction is
+between concrete values, a knowledge of x, and an abstract value, or hav-
+ing all knowledge. Rather than God’s perfection being the realization of
+maximum values, the question is posed, “must we not proceed more cau-
+tiously and define ‘perfection’ rather as the categorically ultimate form of
+all attributes that admit such form and the categorically superior form of all
+attributes that do not admit an ultimate form?” (Goodwin 72).
+Conclusion
+The idea of proving the existence of God a priori has appealed to phil-
+osophical theologians for centuries. In his presentation of the ontological
+Charles hartshorne and the ontologiCal argument 65
+argument, Anselm felt that he had achieved that very goal. However, impor-
+tant objections raised by later philosophers, such as Kant, clearly showed
+the invalidity of the argument as Anselm had presented it. However, in his
+revision of the argument, Hartshorne strengthened the argument not only
+from critiques like those of Kant (namely that existence is not a predicate),
+but also from the fallacies that occurred within the original argument itself.
+Hartshorne’s modal coextensiveness, which contained abstract and con-
+crete perfection, solved the problems faced by Anselm’s original argument,
+such as those of perfection and infinity. Lastly, the distinction between
+concrete and abstract proved Hartshorne’s original thesis: to be possible
+and to be are indeed the same thing.
+WWoorrkkss CCiitteedd
+Goodwin, George L. The Ontological Argument of Charles Hartshorne. Missoula,
+MT: Scholars Press, 1978.
+Pojman, Louis P. and Michael Rea. Philosophy of Religion: An Anthology. New
+York: Cambridge UP, 2008.

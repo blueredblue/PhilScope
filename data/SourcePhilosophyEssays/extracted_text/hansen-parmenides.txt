@@ -1,0 +1,362 @@
+Aporia vol. 21 no. 1—2011
+Parmenides B6.1–2 without a Modal Fallacy
+Michael J. hansen
+On all accounts, Parmenides makes a marvelous argument in the
+Way of Truth. However, there is no clear consensus among inter-
+preters about how to read it. The only noncontroversial point in
+interpreting the work seems to be that in it, Parmenides did something pro-
+found to philosophy. Despite this collective obligation to acknowledge Par-
+menides’ unique innovation (whatever it may be), it has become popular to
+read Parmenides as relying on a modal fallacy to make his argument. This
+would be an embarrassing mistake for such an influential work, especially
+given the argument’s deductive appearance. In this paper, I will outline the
+modal fallacy that Parmenides is accused of and argue for an interpretation
+that is free of the fallacy.
+I. The Alleged Modal Fallacy
+The critical fragment we must examine to decide the question is
+B6.1–2, in which the fallacy is supposed to occur:
+crhV toV levgein te noei`n t ejoVn e!mmenai e!sti gaVr ei^nai,
+'
+mhdeVn d oujk e!otin . . . (Graham 214)
+'
+Michael J. Hansen is a senior majoring in philosophy at Brigham Young University.
+He is interested in ancient philosophy, the philosophy of mind, epistemology, and
+metaphysics. In the fall, he will be pursuing a PhD in philosophy at the University
+of California–Los Angeles. This essay placed first in the 2011 David H. Yarn
+Philosophical Essay Contest.
+2 Michael J. hansen
+As usual, Parmenides’ language admits of many permissible translations for
+interpreters to quibble over, but this fragment is exceptionally difficult to
+render. T. M. Robinson rightly points out that “the fragment is notoriously
+replete with ambiguities” (627). Let us examine a few translations, then,
+keeping in mind that classicists and linguists can marshal complex argu-
+ments for and against each of them.
+In Early Greek Philosophy, John Burnet translates the fragment in
+this way:
+It needs must be that what can be spoken and
+thought is; for it is possible for it to be, and it is not
+possible for what is nothing to be. (174)
+In their commentary, Presocratic Philosophers, G. S. Kirk and J. E. Raven
+follow Burnet and offer a similar translation:
+That which can be spoken and thought needs must
+be; for it is possible for it, but not for nothing, to
+be.1 (270)
+When these commentaries were published (in 1892 and 1957, respectively),
+they were considered authoritative and widely influenced Presocratic schol-
+arship. Although these translators did not explicitly accuse Parmenides of a
+modal fallacy, one can detect it after formalizing their translations.
+To show the fallacy, I will convert the key phrases from the fragment
+into logical premises (note that the first premise comes from a previous
+fragment (B5)):
+“the same thing exists for thinking and for being”
+(Kirk and Raven 269).
+(1) x can be spoken/thought2 ↔ x can exist.3
+“it is possible for it [what can be thought and spo-
+ken of] to be”
+(2) What can be spoken/thought can possibly exist.
+1 It is significant that when Schofield edited a second edition of Kirk and Raven’s collection, he
+gave a new translation that avoids the fallacy altogether by leaving out the modal qualifiers: “What
+is there to be said and thought must needs be: for it is there for being, but nothing is not” (247).
+2 It is somewhat controversial what Parmenides has in mind here. Some consider it an unassuming
+reference to thinking and speaking, while others consider it more like simple ascertainment. We
+will see below how Robinson uses ascertainment to help avoid the fallacy.
+3 It is very controversial how to construe “is there.” Whether Parmenides intended it to be a verb
+of existence, predication, identity, veridicality, fusion, or speculation is hotly contested. In this
+paper, I have construed it existentially, but it may be productive to examine how each sense bears
+on the fallacy. Mourelatos, in The Route of Parmenides, has argued that a speculative sense will avoid
+the fallacy (60–63).
+ParMenides B6.1–2 without a Modal Fallacy 3
+“it is not possible for what is nothing to be”
+(3) What-is-not can’t possibly exist.
+“what can be spoken and thought is”
+∴ (C1) What can be spoken/thought exists. (2, 1 mo-
+dus ponens)
+∴ (C2) Thus, what-is-not can’t be spoken/thought.
+(3, 1 modus tollens)
+The alleged fallacy is to take premise (3) as a de re statement (i.e., P → □P),
+when it can be read only as a de dicto statement (i.e., □(P → P)). That what-
+is-not is not is a simple de dicto truth—true in the same way that “all bach-
+elors are unmarried men” is true. But the argument requires something
+stronger to effect its conclusion. The scope of this modal operator (whether
+it is a de re or a de dicto statement) means the difference between logical
+tautology and metaphysical necessity.
+If this is a correct translation and interpretation of B6.1–2, Par-
+menides has certainly made a philosophical mistake. There are many con-
+ceptions of possibility (e.g., logical possibility and nomological possibility),
+and the Greek language remained ambiguous even between modal and
+moral operators.4 But we will need to consider only the broadest meaning
+of the terms “possible” and “necessary” to discover the fallacy. There are
+many things that are possible: it is possible that the earth has two moons
+or that I ate spaghetti for dinner last night. Clearly, that these things are
+possible does not imply that they are also actual. That something can be
+does not imply that it obtains, at least not without additional argument.
+However, if we read Parmenides as making this mistake, his argument fol-
+lows smoothly except for its reliance on this fallacious premise.5
+The pieces needed to construct the fallacy have been agreed upon
+since Burnet and were reiterated by Kirk and Raven, but the fallacy took
+some time to gain attention. G. E. L. Owen was the first to explicitly accuse
+Parmenides of this modal fallacy, which he did in his watershed article “El-
+eatic Questions.” Here, Owen follows Burnet’s translation of B6.1–2 with
+some small stylistic differences:
+What can be spoken and thought of must exist; for
+it can exist, whereas nothing cannot. (94)
+This translation carries the same logical troubles for Parmenides’ argument
+that Burnet’s did. Owen describes Parmenides’ fallacy in a footnote:
+4 See Kahn 722 and Robinson 633. e!sti can refer both to what is real and what is true.
+5 This will become more clear when I treat Lewis’s interpretation below.
+4 Michael J. hansen
+A, which can exist, is distinguished from B, which (poor
+thing) cannot: invalid, for to say ‘nothing cannot exist’
+is not to ascribe compulsory non-existence to anything
+but to say that it is necessarily (truistically) true that what
+doesn’t exist doesn’t exist, and this unexciting reformula-
+tion disables the argument. The fallacy is the so-called de
+re interpretation of modal statements. (94)
+Owen’s criticism is identical to the criticism of premise (3) given above: B
+cannot exist, but only in a de dicto formulation, not in a de re formulation,
+and for Parmenides to rule it out as an object of thought or speech requires
+the illegal de re statement.
+Owen gives two reasons to believe that “this celebrated fallacy is the
+point of the lines [B6.1–2]” (94). First, Owen believes this is the only trans-
+lation that saves Parmenides from tautology, and the goddess clearly ex-
+pects something more substantial than a tautology due to her injunction in
+B6.5, “that is what I bid you consider,” and due to her allusions to the first,
+wrong path in B2 (Kirk and Raven 270). Second, this translation fits nicely
+with the point of B3 (which establishes premise (1) above).
+Many scholars have followed Owen in ascribing this modal fallacy to
+Parmenides.6 For example, Frank A. Lewis further presses the fallacy in his
+article, “Parmenides’ Modal Fallacy.” Lewis points out that in the poem, it
+appears that Parmenides presents some ways of inquiry and then argues by
+elimination for one of them: the way of is remains, while the ways of is not
+and of mixed (is and is not) fail. It is often supposed that mixed fails because
+of the law of excluded middle: if either is or is not, then the conjunct of the
+two (mixed) will be false. However, Lewis points out that this common read-
+ing of Parmenides fails to preserve this argumentative structure of elimina-
+tion; Parmenides’ modal upgrades to is and is not (added in B2.3–6) make
+it impossible to eliminate mixed because of the law of excluded middle: “If
+the two ways are represented by their modalized upgrades, the disjunction
+of the two no longer makes an instance of the law of excluded middle” (2).
+The contingent, modal statements “is but can not be; and is not, but can be”
+are both still available, further ruining Parmenides’ argument by elimina-
+tion (Lewis 2–3).
+Hence, instead of relying on the law of excluded middle to eliminate
+mixed, Lewis believes Parmenides’ denial of mixed relies on a modal fal-
+lacy that he calls an “illicit modal shift”: “‘necessarily (is → is)’ becomes
+‘is → necessarily is’” (5). This complaint is identical to the fallacy outlined
+6 For example, in Philosophy Before Socrates, R. McKirahan quotes Owen on the modal fallacy and
+adds, “I assume that Parmenides was unaware of the fallacy” (164). However, McKirahan mistak-
+enly cites Owen to substantiate his own claim that the argument “contains a subtle fallacy, treating
+‘nothing’ as if it could intelligibly, even if falsely, be said to exist” (164).
+ParMenides B6.1–2 without a Modal Fallacy 5
+in premise (3) above. Furthermore, Parmenides could deny the contingent
+modal statements of mixed using this illicit modal shift. Hence, Lewis is
+confident that the argument by elimination can be restored by simply sup-
+posing that Parmenides was unaware of this fallacious modal shift, and the
+rest appears cogent enough.
+II. Possible Escapes from the Fallacy
+Owen and Lewis offer a tidy reading of Parmenides’ poem, but as-
+suming a fallacy is a high price to pay, especially for interpreting an excep-
+tionally deductive argument like Parmenides’. If one is reading charitably,
+one ought to avoid readings that require such ugly fallacies from the outset.
+Not all scholars attribute the fallacy to Parmenides. Still, it may be chal-
+lenging to find a translation that is free of the fallacy and that can compete
+with the otherwise graceful readings of Owen and Lewis. A non-fallacious
+reading must also be philosophically and linguistically compelling.
+Owen M. Goldin has given a possible escape for interpreting Par-
+menides without a modal fallacy. His interpretation is intended to agree
+with Owen’s “Eleatic Questions” with a single departure: Goldin denies
+“Owen’s claim that Parmenides’ argument for the existence of any object
+of reference or thought rests on fallacious modal logic” (19). Goldin points
+out that in Owen’s version, the fallacy springs from the range of the modal
+qualifiers, while in another version, which he argues is superior, the fallacy
+results from the poem’s equivocal language.7 According to this version, the
+fallacy arises because it is possible to read the verb ei^nai as both potential
+and existential without distinguishing them. In this case, the alleged fallacy
+does not concern the scope of the modal qualifier, but involves an equivo-
+cal shift from the potential meaning to the existential meaning. Because
+Goldin cites convincing linguistic arguments to prefer his version, it is nec-
+essary to reevaluate modality’s role in Parmenides’ argument.8
+Goldin points out that the philosophical ambiguity of Parmenides’
+language need not imply that his argument was bad. According to Goldin,
+Parmenides’ argument is safe if his proposition amounts to “the principle
+that what is thinkable is a possible being . . . [Indeed, in this case] we see
+that Parmenides has explicitly considered the status of a possible existent;
+its being is, as an availability, intention or goal” (27–28). If this was his posi-
+tion, Parmenides is free to argue that all possible objects of thought already
+7 See Tugwell.
+8 Specifically, Goldin cites Kahn’s work on the ambiguity of the potential and locative (existential)
+uses of ein^ ai (Kahn argues that they were undistinguished in the Greek mind) and Cordero’s work
+on to Vor te in the manuscripts (he argues that it cannot be construed as Owen’s translation requires).
+6 Michael J. hansen
+exist in some sense without committing any modal fallacy or equivocal
+shift; interpreted this way, Parmenides is saying that thoughts are guaran-
+teed existence by their nature, not by a modal argument from what can
+exist. What is thought and spoken must exist qua thought or utterance.
+Goldin’s reading is attractive, but I believe that it fails to preserve
+large portions of Parmenides’ argument and that it relies on problematic
+anachronisms. First, it is a vital element of the poem that the Way of Truth
+is certain and in no way contingent. But if Parmenides considers thoughts
+themselves to be real beings, he will be forced to embrace a completely
+contingent reality that is at odds with his poem’s central theme. Suppose
+thoughts are things for Parmenides, as Goldin proposes. These thoughts
+either can be created by the mind or they cannot. If minds can actively cre-
+ate, then the resulting aspect of existence is contingent (contra Parmenides’
+salient point) on being thought by a mind. On the other hand, if minds
+cannot create, it makes no sense to follow the goddess’s earnest command
+to reason, nor does it make any sense to censure double-minded men as
+the poem does. Some conceptions of mind may allow all thoughts to be
+necessary products of the mind, but it seems impossible to consider Par-
+menides’ argument in this way since his project presupposes possible mind
+states from the outset. Although treating thoughts as entities is an interest-
+ing ontological position that could be successful on its own and perhaps
+even save Parmenides from a modal fallacy, it cannot exist peaceably within
+Parmenides’ argument.
+Furthermore, Goldin’s reading of Parmenides as a proto-Meinong
+is historically implausible. Although Goldin delineates some fine distinc-
+tions between Meinong and Parmenides in his article, it appears prima
+facie impossible to argue that the Greeks at the time of Parmenides made
+such distinctions. One would expect massive reactions to such an interest-
+ing position, yet no ancient philosopher shows any signs of appreciating
+it. On the other interpretations covered, one can at least find reactions, or
+even misreadings, of Parmenides in the works of Melissus or the Atomists.9
+If Goldin’s interpretation is correct, then Parmenides would have gone
+utterly unappreciated by his immediate readers. Unfortunately, Goldin’s
+interpretation does not cohere with the history of thought any better than
+it fits within Parmenides’ own premises.
+9 It may seem odd, or even circular, to use misreadings as evidence for my preferred interpretation
+here. However, this maneuver has an important place when it is done carefully. Philosophers
+influence their successors deliberately and accidentally, but in both cases their influence is a func-
+tion of attention. A misreading can be especially revealing if one can pinpoint its cause. Correct
+understandings make for straightforward evidence, but misreadings can reveal more about the
+philosophical milieu and the priorities of contemporary readers. Modern interpreters should pay
+attention to both in order to construct a thorough story of developing ideas.
+ParMenides B6.1–2 without a Modal Fallacy 7
+Perhaps Parmenides’ argument can benefit from an alternative trans-
+lation of B6.1–2. In his article, “Parmenides on Ascertainment of the Real,”
+T. M. Robinson gives various translations of key fragments and defends
+them linguistically. Consider his translation of B6.1–2:
+Necessarily, what is there to pick out and ascertain
+is real for it is there to be real, whereas nothing is
+not. (627)
+Notice that in this translation the pronoun “it” no longer refers to
+“what can be spoken or thought of” as it did on previous translations.
+Now “it” refers to “what is there to pick out and ascertain.” This is a major
+shift away from Burnet’s translation. An external world (what is there) has
+supplanted an internal one (products of thought and speech), effectively
+reversing the direction of the argument. On this translation, Parmenides
+does not argue that our thoughts constitute reality, but rather that reality
+supervenes on our thoughts (at least, on our thoughts about ascertaining
+the world). This is important because “Parmenides is at once absolved of
+the elementary modal fallacy to which the translations of Burnet, [Kirk and
+Raven], and Owen appear to commit him” (Robinson 628).
+Consequently, Robinson believes it is impossible to read Parmenides
+as holding that thinking and the real are identical. Instead, “[Parmenides]
+argued for the epistemologically unimpeachable view that there is a neces-
+sary/appropriate nexus between knowledge or ascertainment and the real,
+and in doing so laid firm foundations for the entire future science of episte-
+mology” (Robinson 632). Moreover, the meaning of Parmenides’ conclusion
+is also that, necessarily, real things can be referred to. Although modal and
+moral claims remain grammatically joined in the poem, Parmenides has ap-
+proached the topic with sure first steps under this interpretation. Further,
+his translation of B6.1–2 indicates that Parmenides “is discussing availabil-
+ity, not possibility,” which further discredits accusations of modal fallacies
+(Robinson 633). None of these advancements are traditionally credited to
+Parmenides, but Robinson has shown that they are available in the text.
+In considering interpretations without modal fallacies, I have shown
+how Goldin’s interpretation failed both within Parmenides’ argument and
+within its historical context. Robinson’s translation of B6.1–2, on the other
+hand, offers interesting insights on both fronts. First, within Parmenides’
+own philosophy, it becomes clear that he is not equating thinking with real-
+ity. Rather, Parmenides argues that what is real can necessarily be referred to.
+This position becomes especially intriguing for the remainder of Parmenides’
+philosophy, especially his Way of Opinion. For example, consider the sta-
+tus of Parmenides’ cosmology, often treated as the exemplification of the
+Way of Opinion. With Robinson’s translation, the contingent objects of
+the cosmology have some virtues. Although they remain contingent (unlike
+8 Michael J. hansen
+the necessary propositions in the Way of Truth), they can at least be reliably
+ascertained (thanks to the propositions deduced in the Way of Truth, which
+under this interpretation show that what we ascertain is real). Hence, while
+there is a difference between knowing what must be and knowing what is
+and may not be, on Robinson’s reading the second type of knowledge is not
+worthless, as it is on other readings. Moreover, this position helps us make
+sense of the goddess’s demand to learn the Way of Opinion and account
+for the remarkably useful astronomy that Parmenides discovered. Interpreta-
+tions that completely deny the usefulness of the Way of Opinion fail to ap-
+preciate one of the greatest scientific observers of an era.
+Second, this reading also illuminates Parmenides’ historical influ-
+ence. Robinson shows that under this interpretation, Parmenides’ argu-
+ment gives a structural precedent for Plato’s Timaeus 28c–29a (Robinson
+628). Here, Plato employs an argument that is analogous in structure to
+that of Parmenides B6.1–2. Plato examines a disjunction between created
+and uncreated paradigms of cosmogony. This is similar to the disjunction
+examined by Parmenides: what can exist is comparable to the uncreated
+paradigm, and what cannot exist is comparable to the created paradigm. In
+both instances the second item is ruled out: what is not could not be, and
+the cosmos could not be created, given the nature of the forms. Neither
+is possible, yet they are used as counterbalances to affirm their comple-
+ments. Again, we see Parmenides influencing Plato in Republic 476e–480
+(Robinson 632). Here, Parmenides’ emphasis on the real and what can be
+ascertained appears as Plato discusses what constitutes knowledge, and he
+does so in strikingly Parmenidean terms. Again, the upshot is analogous:
+for Parmenides, this premise supports the One, while for Plato it supports
+his Forms. This interpretation, then, fits the historical picture well.
+In conclusion, it appears that Parmenides’ argument doesn’t need
+a modal fallacy to remain (otherwise) cogent and compelling. The above
+interpretations are strikingly divergent (which is perhaps characteristic
+of interpretations of Parmenides in general). Lewis can be thought of as
+an extension of Owen with a more complete account of Parmenides’ argu-
+ment by elimination, but both interpretations rely on the modal fallacy to
+interpret Parmenides. Goldin’s Parmenides builds his reality from objects
+of thought, whereas Robinson’s Parmenides builds his objects of thought
+from reality, and both avoid the modal fallacy in reading Parmenides. Yet
+Goldin fails to preserve Parmenides’ larger argument and can’t establish
+reasonable historical reactions to his interpretation. If we agree with Rob-
+inson’s translation of B6.1–2, I have shown how one can maintain Par-
+menides’ wider philosophy, particularly his cosmology, as well as his po-
+sition in the history of thought, as seen in works of Plato. This reading
+of Parmenides is as graceful as Owen’s or Lewis’s, and it comes with the
+significant bonus of avoiding the fallacy.
+Works Cited
+Burnet, John. Early Greek Philosophy. 4th ed. New York: Meridian Books,
+1957.
+Cordero, Nestor Luis. “Les Deux Chemins de Parménide dans les
+Fragments 6 et 7.” Phronesis 24.1 (1979): 1–32.
+————. “L’Histoire du Texte de Parménide.” Études sur Parmenide. Ed. P.
+Abenque. Paris: J. Vrin, 1987. 3–24.
+Graham, Daniel W. The Texts of Early Greek Philosophy. Cambridge:
+Cambridge UP, 2010.
+Goldin, Owen M. “Parmenides on Possibility and Thought.” Apeiron: A
+Journal for Ancient Philosophy and Science 26.1 (1993): 19–35.
+Kahn, Charles. “The Thesis of Parmenides.” Review of Metaphysics 22.4
+(1969): 700–724.
+Kirk, G. S. and J. E. Raven. The Presocratic Philosophers. Cambridge:
+Cambridge UP, 1957.
+Kirk, G. S., J. E. Raven, and M. Schofield. The Presocratic Philosophers. 2nd
+ed. Cambridge: Cambridge UP, 1983.
+Lewis, Frank A. “Parmenides’ Modal Fallacy.” Phronesis 54.1 (2009): 1–8.
+McKirahan, Richard D. Philosophy Before Socrates. Indianapolis: Hackett,
+1994.
+Mourelatos, Alexander. The Route of Parmenides. New Haven: Yale UP,
+1970.
+Owen, G. E. L. “Eleatic Questions.” Classical Quarterly 10.1 (May 1960):
+84–102.
+Robinson, T. M. “Parmenides on Ascertainment of the Real.” Canadian
+Journal of Philosophy 4.4 (1975): 623–33.
+Tugwell, Simon. “The Way of Truth.” Classical Quarterly 14.1 (1964): 36–41.
+Works Consulted
+Curd, Patricia. The Legacy of Parmenides. Princeton: Princeton UP, 1998.
+Kahn, Charles. “The Greek Verb ‘To Be’ and the Concept of Being.”
+Foundations of Language 2 (1966): 245–65.
+————. The Verb Be in Ancient Greek. Indianapolis: Hackett, 2003.
+Mourelatos, Alexander. “Pre-Socratic Origins of the Principle that There
+are No Origins from Nothing.” Journal of Philosophy 78.11 (1981):
+649–65.
+O’Brien, D. “Le Poème de Parménide: Texte, Traduction et Essai Critique.”
+Études sur Parmenide. Ed. P. Abenque. Paris: J. Vrin, 1987. 1–324.
+Palmer, John. Parmenides and Presocratic Philosophy. New York: Oxford UP,
+2009.
+Robinson, T. M. “Parmenides on the Real in its Totality.” Monist 62.1
+(1979): 54–60.
+Stannard, Jerry. “Parmenidean Logic.” Philosophical Review 69.4 (1960):
+526–33.

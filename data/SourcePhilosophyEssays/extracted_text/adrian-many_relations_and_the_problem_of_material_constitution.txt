@@ -1,0 +1,448 @@
+Aporia vol. 21 no. 1—2011
+Many Relations and the
+Problem of Material Constitution
+Anthony AdriAn
+In A Materialist Metaphysics of the Human Person, Hud Hudson pro-
+poses a novel solution to the problem of the many on behalf of three-
+dimensionalists.1 He rejects this new solution, called the 3d Partist
+View, on the way to his preferred four-dimensionalist version of it. The
+3d Partist View is admirable in its originality and its ability to handle cer-
+tain puzzles of material constitution. However, it is still missing something.
+The purpose of this paper is to offer a hylomorphist interpretation of 3d
+Partism. As such, this paper will not be a critique of Hudson’s preferred
+4d Partism. Rather, I will show one of the overlooked virtues of hylomor-
+phism, viz. its ability to solve problems of material constitution. In section
+1 I will briefly review the problem of the many, in section 2 I will explain
+Hudson’s 3d Partist View and why he rejects it, in section 3 I will introduce
+my hylomorphist version of the Partist View, and in section 4 I will show
+how this addition can solve the problem of the many. Finally, in section
+5, I will tally up some metaphysical commitments of both my version and
+Hudson’s version of the Partist View.
+Before we get into the problem of the many and the Partist View, I need
+to make clear an important assumption about material constitution that
+I make throughout the paper. The problem of material constitution arises
+1 In this paper, “three-dimensionalism” will refer to the thesis that material objects have extension
+in only three dimensions and persist over time by enduring; that is to say, objects persist over time
+by being “wholly present” at each time they exist. Opposed to this is “four-dimensionalism,” the
+thesis that objects have temporal parts in addition to their material parts and persist over time by
+perduring; that is to say, objects persist over time in virtue of having temporal parts whenever they
+exist.
+Anthony Adrian is a senior philosophy major at Texas State University. His interests
+include metaphysics, the philosophy of logic, and ancient and medieval philosophy.
+62 Anthony AdriAn
+when there seem to be two (or more) objects composed of the very same
+matter (at the same time and at the same place) and when those objects seem
+to be related to the shared matter in different ways. There are several tradi-
+tional philosophical puzzles related to the problem of material constitution,
+including the problem of the many (to be discussed below), the problem of
+the statue and the clay, the paradox of the Ship of Theseus, and the paradox
+of increase. The assumption I will be making is that these related problems
+are actually just imperfect statements of the problem of material constitu-
+tion, as Michael Rea has shown, and that any solution to the problem of
+material constitution is a solution to the related problems, but not neces-
+sarily vice versa (“Problem” 525). The reader will thus notice that I treat the
+problem of the many and the puzzle of the statue and the clay as more or less
+equivalent and that I frequently move back and forth between them.
+I. The Problem of the Many
+The following is Hudson’s condensed presentation of the problem
+of the many:2
+1. Legion, a human person, is sitting in his chair.
+2. The set of simples Tweedledee is exactly the set
+that composes Legion.
+3. Tweedledum is the set of simples that has as its
+elements all the members of Tweedledee except for
+one simple. (15–17)
+The problem of the many becomes apparent when there appears to
+be at most one composite object (in this case, a human person) but there
+are also many other composite objects located “within” that object that
+seem to qualify as the very same kind of object. In this case, the question
+arises, is Tweedledum a person? We know that Tweedledum, if he (or it)
+is not a person, has almost exactly what it takes to be a person. According
+to Hudson, each mereologically simple object seems to be insignificant on
+its own, and therefore it also seems that no one simple can make the dif-
+ference between a person and a non-person. And if one simple should not
+make a difference, it seems that two simples should not make a difference
+either. But if we start subtracting simples one by one, we are left with a
+whole host of person candidate sets.
+2 I’ve used the condensed version of the argument because Hudson’s original formulation depends
+on his commitment to mereological universalism (the thesis that for any plurality of objects what-
+soever, there is necessarily an object composed of them). He then revises the problem to appeal
+to those who aren’t universalists. However, because the particulars of mereological universalism
+aren’t essential to my argument, I will use only the condensed version.
+MAny relAtions 63
+II. The Partist View
+Hudson then examines ten solutions to the problem of the many.
+He deems the “constitution view” one of the more plausible solutions, but
+ultimately rejects it. In describing the constitution view, he says,
+Let us acknowledge that there is a multitude of things in
+Legion’s chair at T but then claim that they are person-
+constituters rather than persons . . . This position, char-
+acterized by the slogan “constitution is not identity,” per-
+mits us to say that there is exactly one person in Legion’s
+chair at T, and that there are many person-constituters
+there also.3 (Hudson 32)
+But Hudson is a mereological universalist who thinks that constitution
+just is identity (33). Additionally, Hudson observes that the many person
+constituters (of which Tweedledum is one) are just too similar to the per-
+son Legion not to be persons themselves. To support this claim, Hudson
+approvingly quotes David Lewis’s discussion of cat-constituters (as opposed
+to the person-constituters we have been discussing):
+The constituters are cat-like in size, shape, weight, inner
+structure, and motion . . . any way a cat can be at a mo-
+ment, cat-constituters also can be; anything a cat can do
+at a moment, cat-constituters also can do. They are all
+too cat-like not to be cats. (33)
+Hudson notes that three-dimensionalists typically view parthood as a three
+place relation which is indexed to a time: p is a part of object a at time T.
+The three-dimensionalist needs this relativizing to a time to account for the
+fact that some objects (paradigmatically, organisms) are composed of differ-
+ent parts at different times. When asked whether the set of x’s or the set
+of y’s compose the object o, the three-dimensionalist may insist that the ques-
+tion is ill formed. We cannot make sense of composition simpliciter since
+an object may have different parts at different times.4
+Hudson then suggests that the three-dimensionalist take parthood to
+be a four place relation, where r is a variable that indexes the parthood rela-
+tion to a region of space: p is a part of a at region R at time T. The question
+of parthood is now relativized both to a time and to a region of space.
+Though it is intuitively clear why a three-dimensionalist would relativize
+3 I realize that when using the word “constitution,” most philosophers have in mind objects that
+completely share their parts, but since I’m focusing on Hudson’s presentation of the problems, I’ll
+stick to his usage of the term.
+4 This does not apply only to organisms. Many inanimate objects, such as houses and universities,
+gain and lose parts over time.
+64 Anthony AdriAn
+parthood to a time, is there any motivation for relativizing parthood to a
+region of space?
+Consider the following case of an object that has seemingly contra-
+dictory properties if not for the relativity of regions of space. Imagine a
+perfectly homogeneous sphere that occupies a continuous region of space.
+Let us also say that the sphere has no proper parts; the sphere is mereo-
+logically simple.5 Now imagine that the sphere is colored green on its left
+half and colored red on its right half. Given that the sphere has no proper
+parts, when asked what color it is, we might be at a loss trying to explain
+that the sphere is bicolored yet mereologically simple. It seems as though
+we must say that the sphere is both green and red (but not a mixture of the
+colors). But this sort of scenario should not make us break a sweat as long
+as we can specify a certain region where it is true that the sphere is red and
+another region where it is true that the sphere is green. Since we have at
+least one instance that motivates us to stipulate a region when asking about
+composition, I’ll take it to be permissible to invoke regions when giving a
+formula for parthood.
+When we ask whether the set Tweedledum composes a person, we
+must refer to the set Tweedledum at a certain time and place. The three-
+dimensionalist may say that one object can exactly occupy multiple regions
+at one time and that an object may have different properties at different
+regions. There is not an object x at R and another object y at R* which have
+different properties and yet are still identical. Rather, the single object x has
+a certain property at R and another property at R* (a subregion, perhaps),
+but it is nevertheless x at every region. The four place Partist View of part-
+hood allows the three-dimensionalist to escape the problem of the many by
+claiming identity among all of the “persons” at differing regions of space.
+So while the problem of the many may show that there is an enormous
+number of persons sitting in the chair “with” Legion, they are nevertheless
+all identical to Legion at the same time, t, but each is identical to Legion
+at a different region.
+It seems as though three-dimensionalism is rescued from one sticky
+problem, but there are other embarrassing puzzles for the 3d Partist to wor-
+ry about. Hudson brings in the infamous cat Tibbles to illustrate one such
+problem.
+Tibbles is composed of a set of simples, the x’s, at region R at time T .
+1
+Tibs is the set of simples, the y’s, which compose all of Tibbles minus her
+tail, at R* at T . The 3d Partist claims the following:
+1
+Tibs @R* @T = Tibbles @R @T
+1 1
+5 This assumes the thesis that simple objects can be extended. Though I favor an analysis of simples
+as extended, I don’t wish to defend that thesis here. My usage of extended simples is merely for the
+sake of the example. For more on extended simples, see Simons.
+MAny relAtions 65
+From left to right, this reads: Tibs at subregion R* at time T is identical to
+1
+Tibbles at region R at time T . The problem is that at R at T , Tibbles
+1 1
+has Tibs as a proper part. For a thing x to be a proper part of a thing y is
+for x to be a part of y and for y not to be a part of x.6 Although an object
+can be an improper part of itself, no object can be a proper part of itself. But
+if we claim that Tibs is identical to Tibbles, even by granting the 3d Partist
+that identity can hold between objects at different regions at the same time,
+we are committed to saying just that. Assuming that we want to keep the
+traditional notion of proper part (which is virtually non-negotiable), this
+contradiction is fatal to the 3d Partist View. To see that it is fatal, note that
+improper parthood implies identity (if x is an improper part of y, then x is
+identical to y) while proper parthood implies non-identity. 3d Partism eras-
+es the distinction between proper and improper parthood, and claims that
+a whole thing can be identical to one (or more) of its proper parts.
+III. Another Relation
+What is a three-dimensionalist to do? One thing three-dimensionalists
+should certainly not do is simply abandon Hudson’s insights on index-
+ing parthood to a region of space—it is too valuable of a distinction to
+throw away. However, the three-dimensionalist also shouldn’t buy into this
+business of things being identical at different regions, nor should she im-
+mediately grant Hudson’s rejection of constitution. For Hudson, the prob-
+lem with constitution is that there is too much of a similarity between the
+constituters (in these cases, Tweedledum and Tibs) and what is constituted
+(Tweedledee and Tibbles, respectively). The difference between having and
+lacking a single mereological simple is plainly insufficient to distinguish
+between a person, Tweedledee, and a non-person, Tweedledum. The dif-
+ference is difficult to distinguish if we take the only “difference maker” to
+be mereological simple objects. Luckily, mereological simples do not have
+a monopoly on difference making. I suggest that the three-dimensionalist
+add another relation: the in-F relation where F stands for a certain form.
+Form has been invoked throughout philosophy’s history. A form could be
+understood as a Platonic universal, an Aristotelian function that is imma-
+nent within the object, or some divine designation. This five-place consti-
+tution relation will be compatible with most, if not all, realist conceptions
+of form. When I speak of form, I have in mind the Aristotelian, non-
+transcendental version, though nothing that follows depends on my prefer-
+ence for one over the others. The new parthood formula will look like this:
+x @W < y/F @R
+6 Formally, ∀(x) ∀(y) (PPxy ↔ (Pxy ∙ ∼Pyx)).
+66 Anthony AdriAn
+This formula reads: x at region W is a part of y in the form F at region
+R. For the sake of simplicity, I will not refer to periods of time separately
+from regions of space (or vice versa). So any talk of region will be of space-
+time region.
+The five-place relation, as one might guess, is basically hylomor-
+phism combined with Hudson’s Partist theory; I shall call it Hylomorphic
+Partism. Hylomorphism fits naturally with many of our intuitions about
+material objects. For instance, the distinction between an assembled table
+and the disassembled parts of the table is best expressed in hylomorphic
+terminology: an assembled table and the disassembled parts of the table
+both have the same matter but they have different forms. Distinguishing be-
+tween the form of an object and the matter of an object is often overlooked
+in contemporary philosophy as a strategy for solving puzzles of material
+constitution.
+But what, some may wonder, is form? This is a difficult question to
+give an exact response to, but the following examples should give us at least
+as clear of a concept of form as traditional examples give us of the concept
+of a mereological sum. Form can be said to be the principle of unity of a
+thing. When we see a shiny new gadget, one whose function we cannot
+readily discern, we ask questions like “What is it?” and “What does it do?”
+These questions about what a thing is and what a thing does, as opposed
+to what the thing is made of, are questions concerning the form of a thing.
+Typically, the form of a thing is a functional explanation of it. The form, or
+principle of unity, of a composite object may therefore follow this schema:
+What it is for (a table/a gun/an organism/etc.) to ex-
+ist is for these parts (a table/a gun/an organism/etc.)
+to (the principle of unity is specified here).7
+The requisite form will differ between objects of different kinds. For
+instance, the principle of unity necessary for an organism to sustain exis-
+tence will be a dynamic principle, because the parts of an organism are ac-
+tively contributing to the metabolic processes. In the case of an artifact, the
+principle of unity could be less active, but it must still allow for the intend-
+ed function of the artifact. Of course, not all artifacts have a function. A
+clay statue does not have a form that allows for a function. Rather, the form
+of a statue is simply the arrangement of the clay parts that yields the in-
+tended aesthetic qualities.
+This form of a thing explains under what conditions that object ex-
+ists and how it is to persist. Consider the parts of a firearm lying on a
+table. Is there are an object composed of the unassembled, disjointed parts?
+Mereological universalism says yes, but this appears to be a case of the tail
+7 This is based on a schema found in Johnston (133).
+MAny relAtions 67
+wagging the dog. The problem most people have with conceding that there
+is an object composed of the disassembled parts is that there simply does
+not appear to be any compelling reason to do so. Nothing about pieces of
+a gun lying within close proximity to each other forces us to say that there
+is a single object there.
+But when we consider an assembled firearm, at least one reason to
+posit a new object emerges. There is at least one thing an assembled gun
+can do that its parts cannot: propel a bullet. And that function depends on
+the arrangement of the parts of the gun (just try getting the disassembled,
+or even partly assembled, parts of a gun to fire a bullet). Since we have a
+case in which the arrangement (form) of certain matter (the parts of the
+gun) yields a new functional capacity (bullet propelling) we have good rea-
+son to suppose that when you assemble the parts of a gun in the right way
+you will get a new composite object. And there just does not seem to be
+that same compelling reason when we are considering whether mereologi-
+cal sums exist. Note that in this case, there seems to both a functional and
+aesthetic principle of unity at work. Consider a highly ornate gun that has
+been stolen from a museum. If the thief were to assemble its parts in such
+a way that it could fire a bullet but lacked the ornamentation and design
+of the original, and then he were to return that object, the museum cura-
+tor may still insist that the gun hadn’t yet been returned. In this case, there
+seem to be two forms that are independently necessary and jointly suffi-
+cient to constitute the gun.
+IV. Hylomorphic Partism and the Problem of the Many
+I will discuss Hudson’s arguments against the 3d Partist only with
+respect to inanimate objects, and specifically with respect to artifacts.8 The
+question whether Tweedledum is a person actually comprises two dis-
+tinct questions: 1) Do the simples belonging to the set Tweedledum com-
+pose an object? And 2) Supposing that the set of simples does compose an
+object, does that object meet the philosophical requirements of person-
+hood? Since we are dealing with the part-whole relationship, only the first
+question concerns us.
+Let us consider another prominent example illustrating the problem
+of material constitution: the paradox of the statue and the clay. A sculptor
+buys himself a fine slab of clay at T . In the interval between T and T we
+0 0 1
+find the sculptor doing what he does best—sculpting. At T our protago-
+1
+nist has finished his masterpiece. Shortly after T the sculptor presents his
+1
+statue to an audience, who marvels at its beauty.
+8 As opposed to inanimate natural bodies such as mountains.
+68 Anthony AdriAn
+“The clay,” some patrons remark, “is exquisite. Where did you im-
+port it from?” As the sculptor prepares to respond, his arch nemesis, having
+snuck into the private audience, smashes the statue into hundreds of pieces
+at T . Constitutionalists will claim that the sculptor brought a new object—
+2
+the statue—into existence and that it was later destroyed. The statue was an
+object that was constituted by, but not identical to, a certain hunk of clay.
+Moreover, the clay existed from T to T (and perhaps beyond, in scattered
+0 2
+form) whereas the statue existed only from T to T . Let us return to the
+1 2
+schema introduced earlier: what it is for a statue to exist is for some matter
+to be formed in some aesthetic manner at a certain region and time and
+not to be an immediate part of a larger statue. Requiring that the statue not
+be the immediate part of a larger statue will also help us when, say, part
+of the statue gets broken off. When we are left with a partly fragmented
+statue we would still say that it is the same statue as it was prior to losing
+some parts. This is because the form has stayed the same. Of course, there
+will be a point where the statue has lost its form and the clay will no longer
+constitute a statue. But, this is a matter of epistemic, and not ontological,
+vagueness.9
+Recall that Hudson’s charge is that there is not a significant differ-
+ence between an object and its numerous object constituters. A statue
+constituter that lacks one simple that the actual statue possesses does not
+seem to be different in any important way, but if we take the in-F relation
+seriously, there is a significant difference: one set of simples in a particular
+region is in the statue form while the other sets of matter in the subregions
+are not.
+Of course, Hudson will want to know why one set of simples, presum-
+ably the largest set under consideration, S, is in the form of a statue, yet a
+set lacking one member of S (we will call that set S*), is not in the form of
+a statue. Let us begin by assuming there is a statue at region R. We may say
+that subset S* at subregion R* is potentially a statue because that subset
+at that subregion has the accidental form of a statue in virtue of being a part
+of a set at a region that actually is a statue. The subset has a certain con-
+figuration that is nearly indistinguishable from the actual statue, but that
+configuration is due to the fact that it is configuring a larger object. And if
+that set has a certain form due to another set having the same form, then it
+is in the constitution relation.
+One may worry that the addition of the in-F relation appears to be
+unnecessary since it is not doing any work that the region relativization
+cannot do. If something is occupying a certain region, then that object is in
+9 Hudson and I are in agreement about the impossibility of ontological vagueness. See Hudson
+72–80 for further discussion.
+MAny relAtions 69
+a certain configuration; after all, regions are not shapeless. The addition of
+yet another relation seems superfluous.
+It is important to notice that objects “occupy” regions by being “in”
+certain forms. And, as we noted earlier, the form, but not the region an
+object occupies, will dictate the persistence conditions of that kind of ob-
+ject. To see this, and to return to talk of guns, imagine that we have a mold
+of a gun. At one time, metal is poured into the mold and produces an
+object with the capacity to fire a bullet.10 Certain other types of metal may
+be suitable substitutes to pour in the mold and make an object that can
+fire a bullet, but there will be certain materials (clay, perhaps) that could
+be poured into the mold and thus occupy the same region without being
+able to function as a gun. This drives home the point that when it comes
+to objects that have a functional purpose, the form of an object is not to
+be identified simply with the spatial arrangement without reference to the
+kind of matter.
+What I have said about forms may bear a striking resemblance to an-
+other solution to constitution puzzles—the invocation of maximal proper-
+ties. Ted Sider has said that “a property, F, is maximal, roughly, if large parts
+of an F are not themselves Fs” (139). The idea is that an object at region R
+has the property of, say, being a table just in case none of the larger objects
+composing it (the legs of table, the top of the table, etc.) have the property of
+being a table. This is supposed to explain the difference between a table and
+the ever so slightly smaller object that is the table minus one simple.
+The problem with maximal properties is that they do not really ex-
+plain anything; rather, they point to an instance of two objects which are
+nearly identical yet which have different properties. But it is not clear why
+one object has a maximal property and another object lacks it. The pres-
+ence or absence of a maximal property, however, is highly informative.
+What we discover from apparent maximal properties is the presence of a
+certain form that would allow for that property to be manifested. We could
+then explain why an object has a maximal property based on its arrange-
+ment and functional unity.
+Another possible objection deals with the difference between form
+and matter. We have said that at region R there is a statue, but is there
+not also a lump of clay occupying the entirety of region R? Indeed, at every
+region where there is a part of the statue there will also be clay since the
+statue is made of clay. So it will not do us much good to say that the form
+of clayness has suddenly disappeared when the matter that formerly com-
+posed clay is now in the form of a statue.
+10 Let us assume for the sake of an argument that a gun could be made by such a process.
+70 Anthony AdriAn
+As I see it, there are two answers one could give in this situation, the
+second of which is my preferred explanation. The first is to make the form
+that the hylomorphic compound is in hyperspecific. So instead of say-
+ing that the clay is in the form of a statue, one could say that the clay is in
+the form of a clay-statue. Since the matter is in the form of a clay-statue,
+this explains why we seem to refer to the clay even though the hylomorphic
+compound is a statue. Were some matter to be in the form of a gold-statue,
+we should expect people to remark about the sheen and the quality of the
+gold. But suppose we have a golden statue of David next to a clay statue
+of David. Do we observe the same form in both statues? The arrangement
+certainly seems the same in both statues; the only difference is that one is
+made of a precious metal and the other is not.
+Alternatively, one could say that the clay is now playing the role of the
+matter in the form-matter compound that is the statue. The fact that we
+can refer to the clay without referring to the statue, on this account, would
+be perfectly natural, since to talk about the clay is just to talk about the hylo-
+morphic compound’s matter without referring to its form. We do this sort
+of thing all the time; while observing a wooden table, one may note the out-
+standing quality of the wood used but ultimately have a negative opinion
+of the table itself. Referring to the matter (or the thing that is playing the
+role of matter) of the object currently in a certain form is ubiquitous.
+This allows one to say that there are actually two hylomorphic com-
+pounds—the clay and the statue. In this case, one hylomorphic compound
+acts as the matter in a further form-matter compound. That is to say, any
+composite object will have certain constituents with a certain principle of
+unity, in this case, the clay is a constituent of the statue, and those con-
+stituents may also have their own constituents with their own principles of
+unity. It is taken by many to be a conceptual truth that two distinct material
+objects cannot occupy one and the same region. But it is not at all appar-
+ent that two (or more) hylomorphic compounds cannot occupy the same
+region of space.11
+Say that I fashioned a bit of clay into a cross, which would mean
+something very profound to a Christian. Presenting it to a Christian would
+mean something completely different than presenting it to a primitive trib-
+al community. Perhaps the tribal people have no conception of a cross and
+therefore have no reason to recognize the form of a cross. When presented
+with the cross, all they see is a piece of clay in an unfamiliar formation. We
+should also leave open the possibility that when we observe ordinary material
+11 Rea, in “Sameness without Identity,” and Brower and Rea, in “Material Constitution and the
+Trinity,” take up the task of explaining how two hylomorphic compounds which lack identity
+could ultimately be the same material object.
+MAny relAtions 71
+objects, we might be in a position like that of a tribe. Perhaps, when observ-
+ing a cross, some extraterrestrial community sees clay, a cross, and some
+other object that we don’t recognize, despite the form having “been there”
+anytime we observed the object. This is not to make the relativistic claim
+that we project forms onto certain collections of matter. Rather, it is to say that
+we simply might be ignorant of certain kinds of things. With that in mind,
+I think the safest thing to say is that there are at least two hylomorphic
+compounds in the case of the statue constituted by clay. Note too that this
+is not at all at odds with the previous answer. To say that the clay is playing
+the role of matter in the cross compound is perfectly compatible with the
+cross itself being the “matter” in yet another hylomorphic compound.
+What I hope is clear now is that there is an alternative to the prob-
+lematic 3d Partist View and that we do not have to abandon the idea that
+objects endure over time. Nor do we have to accept problematic theories
+such as the idea that many things are identical at different regions. The
+alternative I have proposed, Hylomorphic Partism, resolves many of the
+traditional problems of constitution and is greatly in concert with our ev-
+eryday beliefs about material objects.12
+12 Special thanks to Charlie Tanksley for valuable discussions on earlier versions of this paper.
+Works Cited
+Brower, Jeffrey E. and Michael Rea. “Material Constitution and the
+Trinity.” Faith and Philosophy 22 (2005): 487–505.
+Hudson, Hud. A Materialist Metaphysics of the Human Person. New York:
+Cornell UP, 2001.
+Johnston, Mark. “Parts and Principles: False Axioms in Mereology.”
+Philosophical Topics 30.1 (2002): 129–66.
+Rea, Michael. “The Problem of Material Constitution.” Philosophical
+Review 104.4 (1995): 525–52.
+————. “Sameness without Identity: An Aristotelian Solution to the
+Problem of Material Constitution.” Ratio (1998): 316–28.
+Sider, Ted. “Maximality and Microphysical Supervenience.” Philosophy and
+Phenomenological Research 66 (2003): 139–49.
+Simons, Peter. “Extended Simples: A Third Way Between Atoms and
+Gunk.” Monist 87.3 (2004): 371–84.

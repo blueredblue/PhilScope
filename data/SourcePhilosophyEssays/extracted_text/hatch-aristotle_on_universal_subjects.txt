@@ -1,0 +1,539 @@
+Aporia vol. 20 no. 1—2010
+Aristotle on Universal Subjects
+Chandler hatCh
+A ristotle’s Categories has profound implications for his ontology and
+his logic. He argues that not everything exists in the same way,
+and that not every predicate is used in the same way. He distin-
+guishes ten categories of being, nine of which depend upon the first,
+substance, for their being. Furthermore, Aristotle distinguishes prima-
+ry substances (particulars) from secondary substances (universals). As with
+non-substantial categories, secondary substances depend on primary sub-
+stances for their existence: “everything except primary substances is either
+predicated of primary substances, or is present in them, and if these last did
+not exist, it would be impossible for anything else to exist” (Cat. 2b4–6).
+Things of non-substantial categories (accidents), such as qualities, quanti-
+ties, or relations, derive their being from their “presence in” substances.
+Given that accidents have only a secondary existence deriving from their
+presence in substance, what does it mean to talk about them? For example,
+when we talk about “red,” are we talking about a color, or are we merely
+talking about the substances in which redness is present? If reality is fun-
+damentally primary substance, it would appear that in speaking of the color
+we are merely speaking of red substances, but when we speak of redness we
+intuitively feel that we are referring primarily to redness itself, as a univer-
+sal, and only secondarily to red objects. To frame this question, I will take
+a detour to establish a relationship between language, logic, and ontology,
+both in Aristotle and in modern logic.
+Chandler Hatch is a senior majoring in philosophy Brigham Young University with
+minors in Russian and Chinese. His interests include logic, philosophy of language,
+philosophy of the social sciences, and philosophy of education. In the fall of 2010 he
+will be entering the Chinese Flagship program at Brigham Young University. This
+essay placed first in the 2010 David H. Yarn Philosophical Essay Contest.
+2 Chandler hatCh
+Language, Logic, and Ontology
+Aristotle adapted language to match his ontology. Already in the
+Categories, and still further in his later logical treatises (see below), Aristo-
+tle ties his ontological distinction of substance and accident to language:
+“substance, in the truest and primary and most definite sense of the word,
+is that which is neither predicable of a subject nor present in a subject”
+(Cat. 2a11–13). Here Aristotle describes substance in terms of its linguistic
+role. Primary substance is never a predicate. It may seem here that Aris-
+totle is taking ontological cues from language. However, as a definition
+of substance, this statement from the Categories is inadequate. Consider
+for example the linguistically well-formed sentence “The white thing is a
+man.” Here “man” is the predicate, and “white thing” is the subject; yet
+“man” is the substance and “white” is the accident. Aristotle refers to this
+kind of predication, in which linguistic roles appear ontologically reversed,
+as “accidental” predication. In saying that substances are never predicated
+of anything, Aristotle is not defining substance in terms of linguistic use.
+Just the opposite—he is establishing a proper way of speaking, a sort of logic
+to match ontology.
+Aristotle appeals to other linguistic distinctions to separate substance
+from accident. For example, he distinguishes between synonymous and
+homonymous predication. Secondary substances are synonymously pred-
+icated of primary substances because wherever a secondary substance is
+predicated of a primary substance, the definition of that secondary sub-
+stance may also be predicated of primary substance. The same is not true
+of accidents, which are homonymously predicated of substances: “when a
+thing is present in a subject [an accident], though the name may quite well
+be applied to that in which it is present, the definition cannot be applied”
+(Cat. 3a15–17). For example, a log is white in a different sense than a log is
+wood. If we substitute a definition of “white,” “a color with x properties,”
+into the sentence, “That log is white,” we get a false sentence: “That log is
+a color with x properties.” A log is not a color, it has a color. However,
+if we substitute a definition of “wood” into the sentence, “That log is
+wood,” we get a true sentence: “That log is dead tree matter.” Aristotle says
+that the second substitution succeeds where the first fails because in the
+first, an accident is said to be IN a substance (predicated homonymously),
+whereas in the second, a substance is SAID-OF a substance (that is, predi-
+cated synonymously) (Cat. 3a15–17). Yet, as Frank Lewis points out in a de-
+tailed and technical analysis of synonymous predication, synonymy cannot
+distinguish accident from substance because it “presupposes the distinction
+between the IN and SAID-OF relations” (63). Aristotle’s notion of defini-
+tion is, after all, built on his notion of categories, and furthermore, to say,
+aristotle on Universal sUbjeCts 3
+“A log is not a color, it has a color,” is already to distinguish between being
+and having, a distinction that Plato, for whom being is having, would dis-
+agree with (Lewis 61).
+In short, Aristotle’s doctrine of predication cannot be understood
+as a derivation of metaphysics from grammar. Rather, Aristotle is doing
+just the opposite. He is developing a more scientific, logical language to
+reflect his metaphysics. As Allan Bäck describes it, “Aristotle distinguishes
+substance and accident, universal and singular, but has forced the same
+structure onto his technical protocol Greek. The language reflects the on-
+tology” (173). This process of restructuring language to match ontology is
+part of Aristotle’s development of logic.
+A similar connection between ontology and logic is evident in modern
+logic. Predicate logic translates natural language into symbols that capture
+the meaning of a sentence in a precise way so that it can be traced to its
+implications. The way we reduce natural language to symbols has ontologi-
+cal implications. Writing “is red” as the upper-case predicate letter “R,” for
+example, shows that redness is a universal. But because “R” is a predicate
+letter, it cannot be the subject of another predicate letter. A question then
+arises: how do we talk about the color red? Perhaps we choose the lower-
+case “r” for the subject “red,” but in that case, we seem to commit ourselves
+to realism, the notion that red, a universal, exists. Furthermore, how then
+do we show the relationship between “r” and “R,” between “red” and “is
+red?” If, on the other hand, we want to restrict universals to being predi-
+cates and particulars to being subjects, then we seem to be affirming that
+only particulars exist. For that matter, while some philosophers have as-
+serted existence to be a predicate (e.g., anyone who takes the ontological ar-
+gument for God’s existence seriously), note that in modern logic, existence
+is not a predicate but a quantifier. This implies that being red, owning a
+dog, and laughing all have something in common that distinguishes them
+from existing (namely, that the former are predicates). Whether or not we
+are satisfied with the ontology our logic implies, our logic and our ontology
+reflect each other.
+The same was true for Aristotle’s refinement of language, and in
+his case, logic was consciously designed to reflect ontology. Although the
+Aristotelian language I am investigating was not as technically precise as
+symbolic logic, both exhibit a strong connection between ontology and syn-
+tax. Aristotle pared down the many ways of expressing propositions to one
+scientific form that most accurately reflects reality. Because substance is
+ultimate reality in Aristotle’s ontology, it makes sense for substance to oc-
+cupy a unique position in scientific syntax.
+One final example of the relationship between language and ontol-
+ogy will be important in figuring out whether we talk about red or red
+4 Chandler hatCh
+things. Aristotle used the copula (in English, the verb “to be” when used
+to express a link between subject and predicate) very differently from the
+way we now use it. Whereas now the copula is not understood to imply
+existence, the Aristotelian copula always implied existence. As Allan Bäck
+argues, “a standard Aristotelian subject-predicate sentence (one of tertium
+adiacens) of the form, ‘S is P’, is to be read as ‘S is existent as a P’. So, for
+example, ‘Socrates is (a) man’ is to be read as ‘Socrates is existent as a man’”
+(2). Because the Aristotelian copula is always at the same time an asser-
+tion of existence, it always insinuates an ontological thesis. The sentence
+“Unicorns are animals” is false in Aristotelian logic because unicorns do
+not exist. If the subject of the Aristotelian copula is always asserted to exist,
+then it is natural that primary substance, that substance whose being
+is most independent and original, should be the ontological subject of
+any logical statement.
+Gyekye’s Thesis
+Whether we talk about red or red things is a question of how we
+understand universal and particular subjects. Traditional logic allows for
+universal subjects, whereas modern logic does not. For example, in modern
+predicate logic, “Socrates is pale” might be symbolized Ps, while “English-
+men are pale” would be symbolized (x)(Ex ⊃ Px). The former expression is
+simple predication, while the latter is a conditional that makes both subject
+and object universal predicates. The syntax of predicate logic implies that
+universals are always predicates. Ostensibly, this is because universals are
+not ultimate reality. Ultimate reality consists of particulars. As propo-
+nents of modern logic have it, ancient logicians were fooled by the parallel
+structure of singular and plural predication into thinking that they were
+of one form. In reality, modern logicians would say, universals are not
+predicated of universals.
+Kwame Gyekye has argued that although this criticism of ancient
+logic may be correct, Aristotle’s views on this issue are actually closer to the
+modern conception than to so-called ancient logic: “according to Aristotle’s
+doctrine of categories . . . a universal term, like piety, does not exist inde-
+pendently but inheres in a primary substance (i.e., an individual) and is
+ontologically dependent upon it; such a term is thus, in a Fregean-Russellian
+language, an incomplete symbol” (“Modern” 615). Aristotle recognized that
+universals are dependent for their existence on individuals. In this ontol-
+ogy, Gyekye argues, Aristotle implies what predicate logic makes explicit:
+predicating universals of universals is really just shorthand for predicating
+universals of particulars. “Englishmen are pale” is shorthand for “There
+exist particular Englishmen, and they are pale.”
+aristotle on Universal sUbjeCts 5
+Gyekye supports his argument with lines from the Metaphysics in
+which Aristotle expresses doubt as to whether accidents can properly be
+said to exist:
+One might even raise the question whether the words
+“to walk,” “to be healthy,” “to sit” imply that each of
+these things is existent, and similarly in any other case
+of this sort; for none of them is either self-subsistent or
+capable of being separated from substance, but rather, if
+anything, it is that which walks or sits or is healthy that is
+an existent thing. (1028a20–25)
+Here, Aristotle is flirting with the idea that only substances exist. Recalling
+what Bäck showed about the Aristotelian copula, we see that if accidents
+don’t exist, then sentences whose subjects are accidents are ill-formed be-
+cause they assert that accidents exist. Therefore, to speak of accidents is
+more properly to speak of the substances in which accidents are present.
+Aristotle goes on:
+Now these are seen to be more real because there is some-
+thing definite which underlies them (i.e., the substance
+or individual), which is implied in such a predicate; for
+we never use the word “good” or “sitting” without imply-
+ing this. (1028a25–29)
+Here, Aristotle seems to spell out Gyekye’s case explicitly. Any use of a
+universal implies a more real substance or individual that underlies it. If
+our language is to precisely reflect reality, then, it is individuals, not univer-
+sals, that ought to serve as subjects. Thus, while Aristotle did not invent
+predicate logic, his ontology implies modern logic’s treatment of “univer-
+sal subjects.”
+Gyekye points out that Aristotle’s doctrine of predication is based
+on his ontology. Ousia, used synonymously with hypokeimenon, refers both
+to the ontological notion of substance and to the logical subject. Given
+that primary substances are particulars, particulars ought to serve as the
+subjects of sentences: “the real subject of a proposition must always be
+a substrate, that is, an individual, a complete symbol” (“Modern” 616).
+Gyekye compares Aristotle to Strawson, who points out that even though
+predicates like “generosity” and “prudence” seem to be subjects of sen-
+tences, they are predicates, and therefore cannot be the subjects of other
+predicates (“Modern” 616). Rather, they require a particular subject.
+Ontologically speaking, this is precisely how Aristotle views universals.
+Therefore, Gyekye concludes, the modern criticism of ancient logic does
+not apply to Aristotle.
+6 Chandler hatCh
+Gyekye’s analysis of Aristotle’s logic can be summed up in the follow-
+ing argument:
+(1) In Aristotle’s ontology, particulars are primary
+reality, upon which all universals depend for
+existence.
+(2) Modern predicate logic analyzes all propositions
+about universals into propositions about par-
+ticulars.
+∴ (3) Predicate logic provides a good model for
+Aristotle’s ontology.
+If we add to this summation of Gyekye’s argument our previously defended
+thesis that Aristotle’s logic was designed to match his ontology, it seems
+reasonable to conclude that Aristotle would have agreed with the predi-
+cate logic analysis of universal subjects. Predicate logic, far from making a
+distinction that Aristotle failed to notice, merely found a way to express
+symbolically what Aristotle had always affirmed, that statements about
+universals are shorthand for more ontologically accurate statements
+about particulars.
+Metaphysical Complications
+George Englebretsen responded with a harsh critique of Gyekye’s
+thesis: “it was an unwarranted dogma of contemporary logic that all
+predications must be to a singular subject . . . Now K. Gyekye has at-
+tempted to foist this dogma upon Aristotle himself” (614). The problem,
+Englebretsen asserts, is that Gyekye confuses a sentence’s meaning with
+its truth conditions.
+Gyekye argues that Aristotle’s analysis of the statement “Piety is a
+virtue” is best symbolized (∃x)(Px & Vx) (“Modern” 616).1 But this sym-
+bolic sentence really says either “There is something that is pious and virtu-
+ous,” or “There is something that is piety and a virtue” (Englebretsen 614).
+Gyekye seems to think the former is the correct reading, given that the latter
+1 Gyekye considers using a universal quantifier, but rejects it because a universally quantified con-
+ditional doesn’t imply the existence of any individuals that satisfy either the antecedent or the
+consequent (“Modern” 617). However, Gyekye fails to notice a flaw in his proposed existential
+quantifier: the existence of one individual satisfying both predicates does not show that piety is
+a virtue on any account of universals. Gyekye’s “(∃x)(Px & Vx)” merely asserts that at least one
+person who is pious is virtuous. I take it that what Gyekye intended to say was both that all pious
+beings are virtuous and that at least one pious being exists, which he might have written as
+(x)(Px → Vx) & (∃x)(Px).
+aristotle on Universal sUbjeCts 7
+reading implies that piety is a particular, contra Gyekye’s thesis. Presum-
+ably, the “something” that is pious and virtuous is a particular human. In that
+case, Englebretsen affirms, Gyekye is confusing “pious” with “piety”: “pious” is
+a predicate; “piety” is a universal subject. Gyekye equates “Piety is a virtue” with
+“Something pious is virtuous.” But when we say that piety is a virtue, we are not
+speaking about things that are pious; we are speaking about piety itself.
+For Aristotle, for piety to exist there must be something that is pi-
+ous. That is, piety must adhere in some substance. Our assertion about
+piety certainly has ontological implications, Englebretsen admits, but these
+implications are truth conditions, not the meaning itself (615). Gyekye is
+right to assert that “something pious is virtuous” is a truth condition of the
+sentence, but he is wrong to assert that it is the meaning of the sentence.
+To see this more clearly consider the following necessary implication.
+If I say, “My grandmother’s funeral is on Wednesday,” I imply that she
+died. It is necessary that she died in order for the event on Wednesday to be
+her funeral, but that doesn’t mean that “My grandmother died” is any part
+of the meaning of “My grandmother’s funeral is on Wednesday.” Rather,
+the former is a truth condition for the latter. Of course, the distinction be-
+tween truth condition and meaning is far more subtle in the case of “Piety
+is a virtue” because the distinction between talking about piety and pious
+people is an ontological distinction we seldom fuss about in quotidian lan-
+guage. Nevertheless, Englebretsen claims, there is a distinction.
+The confusion arises from thinking that when we speak of “piety” we
+are speaking of “pious beings.” “The basic problem here is that in ordinary
+discourse we wish sometimes to talk about things, individuals in terms
+of their properties and other times we want to talk of those properties
+themselves” (Englebretsen 615). Speaking of piety and speaking of pious
+people are connected by ontological implication, according to Aristotle,
+but they are not semantically equivalent: “while we may be committed to
+whatever our sentences imply, we do not mean those implications by our
+sentences” (Englebretsen 615).
+As another illustration, Englebretsen considers the sentence “Ameri-
+can Indians are disappearing.” This sentence implies that individual
+American Indians exist, but if we try to logically reduce it to a sentence
+about individuals, we exchange the meaning of the sentence for inappro-
+priate truth conditions. That the American Indians are disappearing “does
+not mean (contra Gyekye) that some American Indian is disappearing”
+(Englebretsen 615). By parity with Gyekye’s analysis of “Piety is a virtue” as
+(∃x)(Px & Vx), Gyekye’s analysis of “American Indians are disappearing”
+would be (∃x)(Ax & Dx): there is an American Indian, and he is disappearing.
+But to say that the group is disappearing is certainly not to say that each
+individual is disappearing! This sentence does not even seem to admit of a
+8 Chandler hatCh
+faithful ontological reduction in terms of particulars because the verb “dis-
+appearing” cannot have the same meaning when applied to individuals.
+Englebretsen makes a compelling case against logical reduction to
+individuals. He points out critical flaws in a logical reduction of univer-
+sal subjects to individual subjects. However, he makes almost no appeals
+to Aristotle’s writings themselves. The one appeal Englebretsen makes to
+Aristotle is to identify a discrepancy between the Aristotelian and modern
+interpretations of particulars, not universals: “there is no such class as the
+class of just things (cf. An. Post. 92b14ff). Every individual is some sort of
+thing” (Englebretsen 615). In other words, the problem with modern predi-
+cate logic is that in “(∃x)(Px & Vx),” the particular is simply “x,” a thing.
+Aristotle’s particular is not a thing, but always a sort of thing: a man, a tree,
+or a dog. This argument points out a discrepancy that Gyekye hasn’t men-
+tioned, but it doesn’t get at the heart of Gyekye’s argument. It is merely
+a tangential argument against a conflation of Aristotelian ontology and
+modern logic, separate from Englebretsen’s main attack on making all uni-
+versals into predicates. Thus, though Englebretsen admirably distinguishes
+meaning from implications, he doesn’t ever show that Aristotle would have
+agreed with him. Englebretsen’s argument involves a suppressed premise,
+that Aristotle was too smart to have succumbed to this “dogma.”
+Support for Gyekye
+Contra Englebretsen’s suppressed premise, interpretations of mod-
+ern Aristotle scholars and further passages from Aristotle seem to confirm
+Gyekye’s thesis. For example, D. W. Hamlyn, in his article “Aristotle on Pred-
+ication,” points out a relevant passage from the Posterior Analytics:
+I assume first that predication implies a single subject
+and a single attribute, and secondly that predicates which
+are not substantial are not predicated of one another. We
+assume this because such predicates are all coincidents,
+and though some are essential coincidents, others of a
+different type, yet we maintain that all of them alike are
+predicated of some substratum and that a coincident is
+never a substratum—since we do not class as a coincident
+anything which does not owe its designation to its be-
+ing something other than itself, but always hold that any
+coincident is predicated of some substratum other than
+itself. (83b17–24)
+About this passage Hamlyn writes, “it would follow also, although Aristotle
+does not draw the consequence, that it is impossible to give definitions
+of qualities . . . a view which would also demand drastic amendments to
+aristotle on Universal sUbjeCts 9
+the account of synonymous and homonymous predication” (122). Hamlyn
+does not mention Gyekye (his article predates Gyekye’s), but his position
+supports Gyekye’s thesis. Aristotle explicitly says that accidents are never
+predicated of one another (presumably he speaks of scientific language, for
+counterexamples abound in casual language). Thus, to use ontologically
+accurate language, in logic, just as Gyekye argued, accidents are never sub-
+jects. Hamlyn points out that with this doctrine Aristotle undermines an
+important aspect of his own philosophy, namely, that without formulating
+propositions about accidents, Aristotle can’t define accidents. Nevertheless,
+Hamlyn acknowledges that Aristotle is taking a position in conformity with
+Gyekye’s thesis. Aristotle seems to unwittingly make universals indefinable
+by saying that universals are not the proper subjects of predication.2
+Of course, one might still think it was possible to define accidents in
+scientific language by translating casual language definitions into scientific
+language. We could define piety in casual language as the virtue of being
+loved by the gods, but to express the same thought with particulars as the
+subject we would have to say something like “Pious beings are virtuous
+and are loved by the gods.” But that statement may be true whether or not
+there is a necessary connection between piety and virtue or between piety
+and being loved by the gods. Perhaps by chance in 2010 all pious beings are
+virtuous, but next year an impious, virtuous being will come into existence.
+Thus, the scientific expression of our casual definition of piety fails to de-
+fine piety. Furthermore, adding “necessarily” to this sentence won’t solve
+the problem either, because for Aristotle, definitions are a question not
+just of necessity, but of essence. It may be a necessary property of heat that
+it can boil water, but heat is not defined in terms of the power to boil wa-
+ter. Thus, Gyekye’s thesis seems to make all accidents indefinable because
+statements about particulars, even statements of necessity, don’t suffice to
+define accidents. That, in turn, makes Aristotle’s distinction between syn-
+onymous and homonymous predication impossible because the distinction
+depends on definitions, and definitions of accidents are impossible.
+Similarly, Frank Lewis, who makes no mention of Englebretsen or
+Gyekye in his book Substance and Predication in Aristotle, interprets Aristo-
+tle’s Categories in Gyekye’s favor. Lewis elucidates 2a36–2b1 as follows:
+In general, I take it, he is offering a reductive account of
+certain kinds of (metaphysical) predication, such that the
+various (metaphysical) predications his scheme allows that
+do not obviously have an individual substance as subject
+are to be analysed in terms of (metaphysical) predications
+2 Thus, when Aristotle defines virtue as “a state of character concerned with choice, lying in a
+mean” (Eth. Nic.1106b36–1107a1), he violates his own rule against using accidents as subjects.
+10 Chandler hatCh
+that do. Accordingly, animal is predicated of man only
+because there is some individual substance of which
+both animal and man are predicated. (65–66)
+Lewis’s “metaphysical predication” refers to Aristotle’s ontologically proper
+language. Lewis’s words could not be more explicit in defense of Gyekye
+without citing Gyekye: universal predications can be analyzed down to
+the level of individual substance. Thus, both Hamlyn and Lewis support
+Gyekye’s reading.
+Harmonizing Aristotle with Aristotle
+It now seems that the debate is less a battle between Englebretsen and
+Gyekye over Aristotle, and more a battle between Englebretsen and Aristo-
+tle over metaphysics and logic. Englebretsen insists that we are able to speak
+about universals, but Aristotle seems to exclude universal subjects from
+scientific speech. To further complicate the matter, Aristotle’s position con-
+tradicts itself by making it impossible to define universals, undermining his
+own distinction between synonymous and homonymous predication.
+Of course, in his early works, Aristotle makes explicit allowance for
+universals to fall as species under group classifications. For example, he
+writes in the Categories that “other things, again, are both predicable of a
+subject and present in a subject. Thus while knowledge is present in the
+human mind, it is predicable of grammar” (1a30–1b2). Here grammar
+is allowed to be the subject for a predicate even though grammar is not
+a substance, but something that is present in many subjects. But in the
+Posterior Analytics, Aristotle seems to retract that provision by forbidding
+universals to serve as subjects: “predicates which are not substantial are not
+predicated of one another” (83b17–18). In the statement “Grammar is
+knowledge,” neither grammar nor knowledge is substantial, and therefore
+neither should be the subject of a scientific proposition. This is a contra-
+diction within Aristotle. Of course, we could excuse Aristotle from this
+contradiction by saying that in the Categories he was not speaking scientifi-
+cally, a likely hypothesis given that it was a very early work, but we still have
+to deal with Englebretsen’s argument for the meaning-implication distinction
+and with the impossibility of scientifically defining universals.
+What prompted Aristotle to make this assertion in the Posterior Ana-
+lytics? He needed it to eliminate infinite chains of predication: “subject to
+these assumptions then, neither the ascending nor the descending series of
+predication in which a single attribute is predicated of a single subject is in-
+finite” (An. Post. 83b24–26). In other words, if a predicate can be predicated
+of a predicate, there’s nothing to stop the chain from going on infinitely.
+aristotle on Universal sUbjeCts 11
+“If it does not terminate, and beyond any predicate taken as higher than
+another there remains another still higher, then every predicate is demon-
+strable. Consequently, since these demonstrable predicates are infinite in
+number and therefore cannot be traversed, we shall not know them by dem-
+onstration” (An. Post. 84a1–6). An infinite chain of predication is thus an
+epistemological problem rather than an ontological problem. Aristotle sees
+disallowing accidents to be proper subjects as the most reasonable way to
+prevent an infinite chain of predication.
+If Aristotle allows predication, or more specifically definition, to go
+on infinitely, then he must abandon his foundationalist epistemology.
+Aristotle wants universal accidents to be incapable of serving as subjects be-
+cause he wants there to be some indefinable, primitive terms. These terms
+do not need definition because they are given by the nous. The universals
+constitute what is most knowable without qualification, while the particulars
+are only most knowable to man (An. Post. 72a1–3). To get true knowledge,
+then, one must define particulars in terms of what is most knowable, uni-
+versals. But if definitions keep going backward infinitely, the gap between
+particular and universal will never be bridged. Certain indefinable uni-
+versals must serve as first principles or there will be an infinite regress of
+explanation, which is no explanation at all. In this passage of the Posterior
+Analytics, Aristotle makes the sweeping claim, supported by his ontology,
+that no accidents can be subjects so as to forestall epistemological disaster.
+Thus, not only Aristotle’s ontology, but also Aristotle’s epistemology, seems
+committed to substances as logical subjects.
+Note that Aristotle would not deny that one can say “Literacy is
+knowledge of letters.” In fact, at some points he seems to imply such defi-
+nitions of universals. But in the Posterior Analytics (83b17–24), Aristotle
+seems to say that this is not a scientific definition. There are two problems
+with this definition for scientific language: an ontological problem and an
+epistemological problem. The ontological problem is that the subject, “lit-
+eracy,” is an accident, not a substance. Therefore, the subject does not exist
+in the fullest sense. Accidents like literacy, walking, sitting, or being healthy
+are not “self-subsistent or capable of being separated from substance, but
+rather, if anything, it is that which walks or sits or is healthy that is an ex-
+istent thing” (Met. 1028a23–25). As Bäck pointed out, the subject of the
+sentence must exist. Therefore, it would be more appropriate to reword
+this sentence so that the subject is a substance, a real “existent thing.”
+The scientific form of this definition would reflect the ontology in the
+proposition “Literate men have knowledge of letters.” Literacy’s existence
+is questionable, says Aristotle, but literate men certainly exist. But “Literate
+men have knowledge of letters” is no longer a definition. Therefore, Aristotle’s
+ontology seems to militate against the scientific definitions of universals.
+12 Chandler hatCh
+The second problem with this definition is epistemological. If we al-
+low every universal to be defined, the definitions will continue infinitely.
+If you don’t know what at least some words mean, then definitions won’t
+provide you with any knowledge. Unless you know what “rational” and
+“animal” mean, “man is the rational animal” will tell you nothing. You will
+now have to seek definitions of “rational” and “animal,” and unless there
+are some first principles you know without definition, those definitions
+will send you searching for still more definitions, and so on infinitely. Aris-
+totle reasons that the easiest way to cut off the infinite chain of definitions
+is to make accidents indefinable. We know what they mean not by finding
+their definition, but by intuition, nous. This epistemological cutoff matches
+the ontological cutoff elegantly.
+Harmonizing Aristotle with Englebretsen
+To sum up the argument, we will either need to tweak Aristotle’s
+epistemology and ontology or reject Englebretsen’s meaning-implication
+distinction and make it impossible to define universals. In the face of these
+strong arguments, I can only tentatively offer the solution that I believe
+most truly matches Aristotle’s philosophy: allow accidents to be subjects
+of propositions by modifying Aristotle’s ontological and epistemological
+claims. This solution reconciles the opposing sides with minimal changes
+to Aristotle’s philosophy.
+To resolve the epistemological problem, we need merely to give up
+Aristotle’s insistence that the chain of predication ends with the first ac-
+cident. It is true that the chain cannot go on infinitely if we are to have a
+foundationalist epistemology, but that doesn’t mean that we need to stop
+with accidents. First principles will make themselves known as they are
+discovered. Some accidents may turn out to be first principles, while others
+may not. For example, weight seems not to be a most knowable universal,
+but a universal definable in terms of other universals, the force of gravity
+and mass. In this case, science has found a suitable definition for “weight.”
+Quantity, however, seems to have resisted further definition: “four” seems
+to be a primitive accident. Aristotle doesn’t need to arbitrarily cut off defi-
+nition at the accidental level to prevent an infinite regress. The proper
+cut-off point will be determined by the explanatory needs of the relevant
+science. Therefore, his epistemology can survive a change in his doctrine
+of predication.
+The ontological claim is more tenacious. Aristotle is stuck between
+a Platonic realism that he detests and a nominalism he seems equally wary
+of. This conflict comes out in Metaphysics VII–VIII. Because Aristotle
+aristotle on Universal sUbjeCts 13
+recognizes universals as most knowable, his attempt to reduce all universals
+to particulars has the uncomfortable consequence of reducing what is ab-
+solutely most knowable to what is least knowable: “if then demonstration
+is of necessary truths and definition is a scientific process . . . clearly there
+can neither be definition of nor demonstration about sensible individuals”
+(Met. 1039b31–1040a2). To substitute particulars for universal terms is, in
+a sense, to substitute what is unknowable for what is knowable.3 If we can
+only speak about particulars, no demonstration, definition, or knowledge
+is possible at all, for individual substances “have matter whose nature is
+such that they are capable both of being and of not being; for which reason
+all the individual instances of them are destructible” (Met. 1039b29–31).
+There can be no knowledge of what can either be or not be. Here episte-
+mology seems to dictate that universals exist in some sense. Otherwise,
+there can be no knowledge.
+Knowledge of universals constitutes true knowledge. Universals de-
+pend on particulars for their existence, but that doesn’t mean that they are
+nothing but a substitute name for the particulars; if they were, they would
+be no more knowable than the particulars they comprise. That the univer-
+sal depends for its being upon the being of particulars does not deprive
+it of its own being. Therefore, statements about universals are not to be
+understood as statements about particulars, but as statements about uni-
+versals with certain implications for particulars (e.g., implications for the
+truth values of statements about particulars). The dependent being of uni-
+versals is still a sort of being, and therefore a logic that acknowledges their
+being without reducing it to the being of particulars is compatible with
+Aristotle’s ontology.
+My guess about the resolution Aristotle would favor can only be as
+conclusive as Aristotle’s ontology, epistemology, and metaphysics. Unfor-
+tunately, Aristotle’s metaphysics is notoriously inconsistent, or at the very
+least, notoriously difficult to interpret as consistent. However, this modifi-
+cation and interpretation of Aristotle’s views seems to do the least violence
+to his philosophy. It maintains his foundationalist epistemology and his
+particular-oriented ontology while accommodating Englebretsen’s meaning-
+implication distinction.
+3 The sciences try to generalize as much as possible. Theories and laws are valuable because they
+apply to many situations. Knowledge that only applies to one particular, say, knowledge that only
+explains how one ball rolls, is extremely limited and contingent. Thus, it seems that knowledge
+ought to concern universals, not particulars.
+Works Cited
+Aristotle. Basic Works of Aristotle. Ed. Richard McKeon. New York: Modern
+Library, 2001.
+Bäck, Allan. Aristotle’s Theory of Predication. Leiden: Brill, 2000.
+Englebretsen, George. “Aristotle on the Subject of Predication.” Notre
+Dame Journal of Formal Logic 21 (1978): 614–16.
+Gyekye, Kwame. “Aristotle and a Modern Notion of Predication.” Notre
+Dame Journal of Formal Logic 15 (1974): 615–18.
+———. “Aristotle on Predication: An Analysis of Anal. Post. 83a.” Notre
+Dame Journal of Formal Logic 20 (1979): 611–15.
+Novak, Joseph A. “Some Recent Work on the Assertoric Syllogistic.” Notre
+Dame Journal of Formal Logic 21 (1980): 229–42.
+Hamlyn, D. W. “Aristotle on Predication.” Phronesis 6 (1961): 110–26.
+Lewis, Frank. Substance and Predication in Aristotle. New York: Cambridge
+UP, 1991.

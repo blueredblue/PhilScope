@@ -1,0 +1,438 @@
+Aporia vol. 19 no. 2—2009
+Colorful Nothing:
+Emptiness in the Madyamaka
+Jimmy Pianka
+The history of Buddhist philosophy is rich with debate and disagree-
+ment, but this paper will focus on the particular school of thought
+known as the Madhyamaka, or Middle Way view. This perspec-
+tive, widely regarded as the apex of Buddhist metaphysics, charts a centrist
+path between the extremes of material realism and nihilism. The work of
+Nagarjuna, the Madhyamaka’s original architect, will be our primary source
+for understanding the concept of emptiness, though a small amount of
+Chandrakirti’s later commentary will provide additional support. Further
+research was conducted through interviews at various monasteries in
+Boudhanath, Nepal.
+Our experience of the world is populated with a wide range of phe-
+nomena—things like physical objects, forces, emotions, and people—all of
+which appear to be substantial entities that exist in a very real sense. When
+you eat your breakfast there is a thing that you consume, there is a thing
+that consumes it, and then there is a process (another thing) that the food
+undergoes during which it is transformed into more things still. The rela-
+tionships between these things seem clear; we maintain rigid distinctions
+between them, and we conceive of them as separate and independent phe-
+nomena, each deserving its own ontological ground. This form of realism
+is founded on the notion that all phenomena possess at their core some
+essence—some immutable substance in which the phenomena’s intrinsic
+identity is contained and which serves as the bearer of whatever attributes
+the phenomena displays.
+Jimmy Pianka is a senior majoring in Cognitive and Brain Science and Philosophy
+at Tufts University. Last year he studied abroad in India and Nepal where he stud-
+ied Buddhism and the politics of Tibetan exile. His interests include philosophy of
+mind, philosophy of religion, and aesthetics.
+Jimmy Pianka 34
+This assumption, while seemingly commonsense, is understood in
+Buddhist thought as the deepest and most tenacious delusion to plague
+the human mind. It is a natural misconception—after all, the phenom-
+ena we experience affect us in tangible ways: fire burns us when we touch
+it, and a slab of wood taken to the face is going to raise a welt. The fact
+that these experiences are so compelling, however, is a distraction from
+the fact that neither the fire nor the wood exist as such. When we search
+for their essence, we find that all phenomena—everything from galaxies to
+atoms to people—are ultimately empty of the identities we ascribe to them.
+Phenomena do not exist as independent entities that can be isolated and
+understood sui generis, but rather as momentary forms whose existence
+is entirely dependent on their relationships to other phenomena and the
+conceptual labels we impute upon them.
+At first glance the idea of emptiness as the ultimate nature of things
+seems to invite charges of nihilism. It appears as if Buddhists dismiss the
+whole of reality as mere illusion, as if it were some phantom masquerading
+above a great void of nothingness that alone deserves our attention. On
+face value this is a valid objection: if nothing truly exists, then what is this
+all around me? There is clearly something here, so how can this something
+arise from nothing? If the ultimate nature of things is emptiness, then how
+are there things in the first place to possess this nature? These questions,
+though sensible, arise from a misunderstanding of what is meant by emp-
+tiness. Such a view treats emptiness itself as existing in terms of having
+an essence, as if there were truly some void out there with the phenom-
+enal world floating above it like mist. Admittedly it is easy to be so misled
+when terms like “ultimate nature” are employed, but as we shall see, empti-
+ness itself is just as empty as anything else. This is the cornerstone of the
+Madhyamaka that allows it to maintain a balancing act between the two
+extremes of material realism, the view that all phenomena exist inherently
+and independently in and of themselves, and nihilism, the paradoxical
+view that nothing exists. In the end we are left with a worldview in which
+emptiness and form, truth and delusion, are as interdependent as the phe-
+nomena they describe.
+The Conventional Level
+According to the Madhyamaka, there are two perspectives by which
+we can understand phenomena: we can speak of them in terms of their
+ultimate nature, or in terms of the conventional paradigm in which we live
+our lives. These are known as the Two Truths; neither takes ontological
+primacy over of the other—we are simply only aware of the conventional
+Colorful nothing 35
+level. In order to get a firm grasp on what is meant by emptiness, we will
+first examine our conventions and identify the assumptions we make about
+the nature of the world. Once this is established, we will be prepared to
+dig deeper into their compositions and discover how said assumptions are
+unfounded and how all phenomena are ultimately empty of inherent exis-
+tence. Finally, we will turn to the emptiness of emptiness in order to rescue
+us from nihilism and unite the Two Truths into the coherent centrist phi-
+losophy known as the Middle Way.
+Let us begin with a tree. When we look at a tree we are aware of its
+many components—its branches, leaves, roots, and so forth—but in general
+we conceptualize their unity as forming the basis for a greater object still:
+an identity that begins at the furthest tips of its roots, continues to and
+includes the outermost atoms of its entire surface, and penetrates com-
+pletely through to its core. We can stand back, look at the structure as a
+whole, and say, “that tree exists.” Now what do we mean when we use the
+verb “to exist”? Jay Garfield, in his commentary on Nagarjuna’s Treatise
+on the Middle Way, says that for a thing to exist in terms of our general
+understanding of the word it must “have an essence discoverable upon
+analysis, for it to be a substance independent of its attributes, [and] for its
+identity to be self-determined by its essence” (315). To perceive phenom-
+ena as existing in this way is to perceive them on the conventional level,
+which is just one of the Two Truths. This is how the vast majority of us
+spend our entire lives experiencing the world: we conceptualize it as being
+composed of distinct, independent phenomena which can be isolated and
+understood non-relationally as entities which exist inherently by their own
+natures. We are aware of the various causes that bring these phenomena
+about and the other phenomena with which they interact, but we perceive
+sharp discriminatory borders between them and understand them as sepa-
+rate and coherent concepts.
+The Ultimate Level: A Physical Approach
+We will examine a few of the arguments in the Madhyamaka tradi-
+tion that demonstrate the emptiness of phenomena, but our first line of
+attack should follow a more familiar course—namely, the science of physics
+and its quest to unravel the material world. Since as early as the Greeks,
+philosophy has been asking the basic questions of “What is reality?” in the
+form of “What kind of stuff is it made out of?” Democritus and Leucippus
+hypothesized that their atom was the most basic building block of real-
+ity, and when our microscopes first caught sight of those little storms
+we rejoiced in our discovery of the bricks-and-mortar of the universe. As we
+36 Jimmy Pianka
+probed deeper, however, we found atoms to be composed of even smaller
+particles. Those particles turned out to yield the same curious results, and
+now, despite the creation of increasingly powerful particle accelerators with
+which scientists collide subatomic particles to search for smaller ones in
+the wreckage, no substantial, indivisible object has been located that could
+feasibly give matter its substance. Despite our effort, we have found only
+a very colorful nothing.
+That being said, our search’s failure by no means implies its futil-
+ity. Perhaps we simply have further to dig. Matthieu Ricard, however, a
+former physicist who is presently a monk and the French interpreter for
+the Dalai Lama, presents a compelling argument as to why the existence of
+an indivisible elementary particle is a logical absurdity. Suppose we have
+such particles—how then do they combine to construct matter? It seems
+safe to say that they can do so by either coming into direct contact with
+one another or by maintaining their distance but relating in some other
+way. If they touch, say the west side of one particle touches the east side
+of the other, then we are dealing with objects which are still divisible into
+constituent regions and are thus not elementary. As long as we conceive of
+these particles in three dimensions we will always confront this problem.
+To avoid this dilemma, these particles would have to exist in only
+one dimension—thus they would be essentially mathematical points. This,
+however, generates some problems: if the particles are points, then when
+they touch the whole of one would be in contact with the whole of the
+other, and thus both points would fuse into one. In such a model the con-
+struction of any macroscopic structure is impossible—the whole universe
+would be fused into a single point. If the particles did not touch, however,
+and they were held together by something akin to the strong and weak
+nuclear forces present in the current model of the atom, then the distance
+between them becomes nonsensical. The locations of two non-touching,
+one-dimensional points can only be related by positing at least another
+dimension, and since points are merely theoretical constructs and occupy
+no space at all, the distance between these two points would stretch into
+infinity. Thus the relative scales of size we perceive in the world would lose
+their foundations, and we could in theory have the entire universe situated
+between two particles. Consequently, the entire concept of an elementary
+particle is implausible and it is only through emptiness that forms can
+exist (Ricard 4/16).
+So let us return to our tree. We were last talking about its treeness:
+the underlying essence that provides its identity as a particular tree. Where
+then can we find this treeness? The intuitive answer is that it arises from
+a synthesis of its parts, and not just from a few of them but from all of
+them when they are combined and arranged in a particular way. Notice
+Colorful nothing 37
+now that we have already retreated inward to define the tree in terms of its
+constituent components, which are, of course, just more objects that need
+explaining. What then makes up their essences, and the essences of their
+components? No matter how deeply we penetrate into the tree, everything
+will stubbornly remain divisible into something smaller. If we look at the
+wood we find that it breaks down into its cells, the cells break down into
+mostly cellulose and other polymers, the cellulose is composed entirely of
+glucose, and we know the story from here.
+After such a descent, how can we say that there is any thing which
+we can call a tree? We have found nothing of substance to bear this label.
+Instead we have found an infinitely complex series of relationships and
+interdependencies: the tree only exists in terms of its parts, those parts only
+exist in terms of their parts, and so on ad infinitum. With no essence, we
+can say that the tree does not exist inherently and is thus empty. This is
+not to say that the tree does not exist at all, for clearly there is some form
+to be perceived, but it is to say that the treeness of this form, its supposed
+identity, is merely an arbitrary and artificial concept which we have foisted
+upon it. The tree is empty of inherent existence or exists only in terms
+of other things, which in Madhyamaka terms is to say that it is depend-
+ently arisen. On a conventional level there is some form called a tree, but
+any analytic search for the ultimate essence of that form will come back
+empty-handed.
+Of course, this same line of reasoning is not limited to trees but
+applies to all phenomena—even immaterial things like emotions are empty
+since they are never found without relations to other things. Anger requires
+a subject, an object, the particular causes that brought it about, and the
+mind that experiences it; there is no such thing as pure anger blazing some-
+where on its own. The relationships that define phenomena are likewise
+empty because they rely on the objects they relate to exist. No concrete
+thing can ever be isolated and identified—we simply find particular causal
+relationships and orientations which are by definition inextricably con-
+nected to their particular causes and effects.
+The Emptiness of Emptiness
+So far we have ducked beneath the first extreme of material realism,
+the belief that phenomena exist on their own by means of their essences,
+but where does this leave us? To say that all phenomena are empty appears
+to be asserting an intuitively unacceptable metaphysical nihilism. If noth-
+ing exists, then what am I looking at? From what do all these wonderful
+colors, sounds, and emotions I experience arise? In addition to the protests
+38 Jimmy Pianka
+of perception, emptiness as ultimate nature seems to generate some contra-
+dictions. When we employ concepts like dependencies and relationships we
+necessitate the existence of at least two characters—for after all, how would
+nonexistent entities relate? How can a relationship exist if the objects it
+connects do not exist to begin with? It seems that the concepts on which
+emptiness depends are rooted in exactly that which it denies.
+All of these questions, however sensible they may seem, are rooted in
+the same faulty reasoning that Buddhism attempts to dissolve. The point is
+not to treat emptiness as if it were a real void—some ultimate property that
+defines the true essence of phenomena. If we do this we treat emptiness as
+if it existed inherently, despite the fact that we cannot explain what this
+would even mean, and we have simply substituted one essence for another.
+When we searched for the essence of the tree and found nothing, it wasn’t
+that we found a nothing—as if that nothing were a thing to be found—rather,
+we simply did not find the tree; it was a wholly negative statement. The
+tree’s emptiness is merely a concept used to characterize the dependent
+nature of that tree, which means that we imputed it artificially in just the
+same way we imputed the concept of the tree as a whole in the first place.
+The tree has no inherent existence or essence, but this lack is not itself
+a thing but simply the fact that the tree is only a convention; ‘without
+essence’ is the way in which the tree exists.
+That said, we can see how the tree’s emptiness is dependent on the
+tree to exist and is thus empty itself! Furthermore, that emptiness is depen-
+dent on the previous emptiness and is thus empty, and so on ad infinitum.
+We are not talking about the disappearance of the phenomenal world but
+rather the illusory manner in which it ultimately exists. As Garfield says in
+his commentary, “Emptiness is not different from conventional reality—it
+is the fact that conventional reality is conventional” (316). We cannot talk
+about its ultimate nature because to use language is to employ concepts
+and thus reify it, restricting ourselves to the conventional level. A true and
+lasting understanding of the ultimate nature of phenomena can only be
+realized experientially through meditation; this is by and large the purpose
+of Buddhist spiritual practice.
+Now we have reached the most essential concept of the Middle Way
+and can understand what is meant by the phrase “Form is emptiness,
+emptiness is form.” All phenomena are empty in that they do not exist
+inherently but only in relation to other phenomena, but likewise empti-
+ness can only be understood in relation to the particular phenomena it
+describes. Thus we have avoided both extremes of essentialism and nihil-
+ism and have arrived at a unity of the Two Truths. They are like the two
+sides of a coin or a mobius strip, inseparable and inexplicable without the
+other. The ultimate reality of things and our misperceptions are themselves
+Colorful nothing 39
+interdependent, and thus the nature of the world is both form and empti-
+ness, being and nonbeing, inextricably intertwined.
+Arguments for Emptiness in the Madhyamaka
+Now that we’ve explored the heart of emptiness as a concept, we
+will examine two ancillary arguments that the traditional authors of the
+Madhyamaka employed to flesh out the worldview that emptiness implies.
+It is prudent to cover the emptiness of emptiness quickly in order to
+answer the questions that the notion initially prompts, but the following
+arguments provide some of the finer details that may not have been imme-
+diately obvious.
+(1) The Refutation of Causation
+The first argument we will examine is a reductio in which Nagarjuna,
+the Madhyamaka’s central proponent, examines the process that underlies
+causes and effects to demonstrate that here too no essence can be found.
+The argument goes as follows: if a phenomenon comes into being, we can
+say that its causes can have one of four possible relationships with their
+effect:
+1. The causes are the same as the phenomenon
+(meaning they share the same essence).
+2. The causes are different from the phenomenon.
+3. The causes are both the same and different as the
+phenomenon, or
+4. The causes are neither the same nor different
+than the phenomenon. (Donden 4/15)
+We can immediately throw out the third possibility since it is a contradic-
+tion. Likewise, we can discard the fourth, since it is either a contradiction
+or is to be interpreted that the phenomenon is uncaused and springs into
+being spontaneously. Additionally, we can eliminate the first possibility
+since it is circular: if the causes of the phenomenon are identical to the
+phenomenon itself, then the phenomenon would have had to have existed
+prior to its own origination in order to bring itself about. This leaves us
+with the model that most people take to be true: effects are brought about
+through causes that are something other than themselves.
+Nagarjuna, however, finds this option equally untenable. In the first
+chapter of his Treatise on the Middle Way, he states the following:
+40 Jimmy Pianka
+[The] Essence of entities
+Is not present in the conditions, etc….
+If there is no essence,
+There can be no otherness-essence. (I:3)
+The first two lines point out that no essence can be satisfactorily located in
+causes of phenomena. A burn is not present in fire and a welt is not pres-
+ent in the slab of wood used to draw it out. The final two lines state that if
+phenomena depend on their essences from other objects, and if no such es-
+sence is present in those objects, then with no other place from which that
+essence could come it follows that phenomena arise without an essence.
+Having lost this basic ground of being, phenomena thereby lose the basis
+by which they can be differentiated, and thus interdependent phenomena
+are really just the same thing. Given this lack of difference, the notion of
+obtaining an essence from another becomes absurd since there are no true
+others from which this essence can be obtained. Therefore, it is impossible
+for phenomena to come about by virtue of causes different than themselves
+since this would result in an internal contradiction (Garfield 112).
+Having refuted our model of causation, Nagarjuna is then forced to
+explain, at least in some sense, the pattern of cause and effect we perceive
+in the conventional world. In the end he does not do this in a way that we
+would find fully satisfactory, but since he believes phenomena are ultimately
+nonexistent to begin with, his obligations here are considerably lessened.
+Rather than point to explicit causes that bring about their effects through
+some enigmatic power, Nagarjuna instead appeals to the various conditions
+that precede an effect to explain its appearance without ascribing them any
+active involvement in the process. Thus, fertile soil, steady sunlight, and
+a strong water supply are the conditions necessary for the growth of our
+tree, but none of these are causes in the sense that they exert some power
+to provoke the tree’s growth. Regularities and logical consistency are
+what count (Garfield 103).
+When pressed about why regularities exist at all, Madhyamaka phi-
+losophers point out that regularities are only intelligible in reference to
+larger regularities, and ultimately, the question is unanswerable: “The fact
+of explanatorily useful regularities in nature is what makes explanation and
+investigation possible in the first place and is not something itself that can
+be explained. After all, there is only one universe, and truly singular phe-
+nomena, on such a view, are inexplicable in principle” (Garfield 116). Thus
+our final outlook is a typical Madhyamaka stance: on the conventional
+level we may acceptably suppose active causal powers in the conditions nec-
+essary for an effect, but ultimately no such powers exist—in the end our
+Colorful nothing 41
+explanations are grounded on a mythical system built from a consistency
+we perceive in nature. Any attempt to decode this consistency will, if car-
+ried out long enough, climb higher and higher into further consistencies
+until it reaches the outer limits of the universe, at which point reason hits
+a wall and becomes arbitrary.
+(2) No Self
+Finally, let us examine the famous Sevenfold Reasoning, an argu-
+ment Chandrakirti introduced to demonstrate the absence of a true self
+or ego. This argument is often seen with a chariot as its focus, but due
+to the profundity of the point and its importance to Buddhism, we will
+use the self instead. Additionally, although it logically follows that the self
+would be included in our discussion of the emptiness of all phenomena, I
+think it deserves some special treatment since there are few things which
+to us seem more real. That said, the argument follows the basic format of
+trying to isolate and identify the inherently existing person in relation to
+the body and mind. When all the possibilities have been exhausted and
+no such thing can be found, it follows that our self-perception as separate
+and autonomous individuals is an illusion—we are just as interdependent
+as anything else.
+Assuming the self exists, Chandrakirti gives seven possibilities for its
+relationship to its parts. These parts, hereafter unexplained, are typically
+thought of as things like the body, the conscious will, memories, sets of
+character traits, and so on, but they can include anything you would qualify
+as an essential characteristic of your identity. These seven possibilities
+are as follows:
+1. The self is the same as or equal to its parts.
+2. The self different than its parts.
+3. The self is dependent on or exists by virtue of
+its parts.
+4. The self is based on or contained in its parts.
+5. The parts are based on or contained in the self.
+6. The self is the collection of its parts.
+7. The self is the proper shape or arrangement of
+its parts.
+Many of these will be surprisingly easy to dismiss. First, if the self
+were the same as its parts, then it would have to be either equal to them on
+42 Jimmy Pianka
+an individual basis or equal to them as a whole. If it were equal to them
+each individually, then we would have to say that the self is many, which
+is clearly not the case. Furthermore, if the self were equal to the sum of its
+parts, then we would be forced to admit that we were someone new every
+time we clipped our finger nails, ate a meal, or a had a new thought. This
+isn’t what we have in mind when we think of a self—our notion of identity
+is something that persists through change.
+Next, the self cannot be something different from its parts because
+then we would somehow be able to apprehend it as existing separately
+from them. Theoretically we should be able to strip all the parts away and
+still have the self, which is something we can’t do. Furthermore, the self
+can’t depend on or exist by virtue of its parts because to do so would entail
+difference, mutatis mutandis for the self being based on or contained in its
+parts and the parts being based on or contained in the self. Additionally,
+the self cannot be the collection of its parts because this would allow us
+to dismantle it, rearrange the parts in any gruesome order, and still call it
+the self. This makes no more sense than dismantling a chariot, tossing
+its wheels and handlebars into a shiny brass heap, and then readying the
+horses for a ride.
+Finally, we are left with the possibility that the self is the proper shape
+or arrangement of its parts. If the self can be reduced to a shape, then it is
+a kind of physical thing—a precise arrangement of particles. This, however,
+leaves out all the mental, non-physical components such as thoughts and
+values. How are things with no shape to be included in this geometry?
+If you’re a materialist and you believe that all of mind can be reduced
+to neurons and electricity, then so far so good. But as we noted in the
+first possibility, this option would freeze a wholly-physical self into some
+fixed statue incapable of change: the loss or addition of even one particle
+would constitute a change in identity. As we know, people gain and lose
+weight, dye their hair, and get tattoos—not to mention the fact that our
+bodies are constantly refreshing their cells. Even if you consider the shape
+to be a pattern through which the parts are recycled—like the way a whirl-
+pool exists in a stream despite never containing the same water for longer
+than an instant—this pattern, being fixed by definition, would not be able
+to account for the changes humans are known to undergo (Chandrakirti
+83–84).
+Furthermore, the notion of the self existing as something independent
+is still untenable. Conventionally that whirlpool may persist, but ultimately
+it’s just a concept available from our perspective, something totally depen-
+dent on its components and circumstances for its existence—and beyond
+that there isn’t even a stream. You as a persona exist in a conventional sense
+like the tree, or the chair, or the candle, but if you start digging through
+Colorful nothing 43
+the layers in search of some gem that you could isolate and call yourself,
+you’ll find only bridges arching out in all directions, interdependencies
+that criss-cross to various forces and histories until your ego gets lost in
+the webbing.
+Works Cited
+Chandrakirti. The Word of Chandra: The Necklace of Spotless Crystal. Ed.
+Jamgon Mipham Rimpoche. Trans. Padmakara Translation Group.
+Comp. Rafael Ortet. Shambhala Publications, 2005.
+Conlon, Ryan. Personal Interview. 13 Apr. 2009.
+Conlon, Ryan. Personal interview. 20 Apr. 2009.
+Dalton, Catherine. Personal interview. 16 Apr. 2009.
+deCharms, R. Christopher. Two Views of Mind Abhidharma and Brain
+Science. Ithaca, NY: Snow Lion Publications, 1998.
+Donden, Jampa. Personal interview. 15 Apr. 2009.
+———. Personal interview. 30 Apr. 2009.
+———. “Nagarjuna’s Treatise on the Middle Way.” Rangjung Yeshe Institute,
+Boudhanath, 2009. 15–16
+Hayward, Jeremy W. Gentle Bridges. Boston: Shambhala, 1992.
+Hopkins, Jeffrey. Meditation on Emptiness. Boston: Wisdom Publications,
+1996.
+Jackson, Frank. “Knowledge: The Qualia Argument.” Stanford Encyclopedia
+of Philosophy. Ed. Martine Nida-Rümelin. 3 Sept. 2002.
+Nagarjuna. The Fundamental Wisdom of the Middle Way. Trans. Jay Garfield.
+New York: Oxford UP, 1995.
+———. Mulamadhyamakakarikas: Chapters I–XXI. Trans. Mark Siderits.
+Price, Sean. Personal interview. 12 Apr. 2009.
+Ricard, Matthieu. Personal Interview. 16 Apr. 2009.
+———. Telephone Interview. 29 Apr. 2009.
+Ricard, Matthieu, and Trinh Xuan Thuan. The Quantum and the Lotus: A
+Journey to the Frontiers Where Science and Buddhism Meet. New York:
+Three Rivers P, 2004.
+Rigsel, Khen Rinpoche Lama Lhundrup. Personal interview. 27 Apr.
+2009.
+Rinpoche, Sogyal. Tibetan Book of Living and Dying. San Francisco:
+HarperSanFrancisco, 2002.
+Tenzin, Khunzang. Personal interview. 26 Apr. 2009.
+Gyatso, Tenzin. Consciousness at the Crossroads: Conversations with the
+Dalai Lama on Brain Science and Buddhism. Ed. Zara Houshmand,
+Robert B. Livingston, and B. Alan Wallace. Ithaca, NY: Snow Lion
+Publications, 1999.
+Wallace, B. Alan. Choosing Reality a Buddhist View of Physics and the Mind.
+Ithaca, NY: Snow Lion Publications, 1996.
+Watts, Alan W. Nature, Man and Woman. New York: Vintage, 1991.

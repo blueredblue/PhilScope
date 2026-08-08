@@ -1,0 +1,472 @@
+Aporia vol. 21 no. 1—2011
+Trauma and Event in Merleau-Ponty’s
+Reading of Mythical Time
+Evan Edwards
+At least beginning with the Phenomenology of Perception, Merleau-
+Ponty was critical of the prevailing phenomenological under-
+standings of time. In the chapter “Temporality,” Merleau-Ponty
+critiques Husserl, who sees time as a series of Abschattungen that overlap
+each other.1 This theory is not satisfactory for Merleau-Ponty because al-
+though it takes into account the subject’s positioning of one moment in
+time onto another, it does not sufficiently do away with the idea that an
+event is a thing that can be objectively studied. As Raphaël Gély points
+out in his essay, “La Question de L’Événement dans la Phénoménologie
+de Merleau-Ponty,” “what interests Merleau-Ponty is the institution of the
+event and not first and fundamentally the institution of the subject in
+the event” (355). In other words, the problem of the event for Merleau-Pon-
+ty is properly situated around an investigation of how the event comes to
+structure our human world. Generally speaking, this paper will investigate
+how the event figures into the philosophy of Merleau-Ponty, particularly in
+his later thought.
+The first section is an introduction to Merleau-Ponty’s philosophy of
+time. Focusing primarily on his later thought, I will begin by introducing
+the problems of traditional phenomenological theories of time, drawing out
+the significance of Merleau-Ponty’s critique of the objective mode of inquiry
+1 Abschattungen is notoriously difficult to translate. Husserl uses the term to describe the multitude
+of nuanced “shades” of a phenomenon.
+Evan Edwards is a senior specializing in philosophy and gender studies at the
+University of North Carolina–Asheville. His interests include contemporary French
+philosophy, philosophy of space, metaphysics, and radical politics.
+38 Evan Edwards
+that he sees in his predecessors. I will continue by looking to Mauro Car-
+bone’s work on Merleau-Ponty’s understanding of “mythical time” that
+emerges in his last few writings. This work gives a particularly lucid ac-
+count of the differences between Merleau-Ponty’s philosophy of time and
+that of Husserl and Bergson. Finally, in this section, I will begin to try to
+determine the place of events in our overall understanding of time. These
+background considerations will be important to understanding the bulk of
+this paper’s argument.
+In the second section, I will show some of the similarities that Merleau-
+Ponty’s situation of the event in time bears to the idea of trauma in the later
+psychoanalytic theories of Sigmund Freud. Looking to Freud’s analysis of
+the Wolfman and Slavoj Zizek’s reading of this interpretation, I will argue
+that the structure of mythical time calls for the same kind of retroactive
+signification that one finds in the traumatic event. Finally, in this section,
+I will draw out the complications that this analogy entails for Merleau-
+Ponty’s thinking of the event.
+In the final section, I will look to Gély’s paper to situate our reading of
+Merleau-Ponty’s philosophy of the event with more contemporary theories.
+In this comparison, it will become clear where Merleau-Ponty’s thinking
+of the event coincides with and where it deviates from these contemporary
+theories. Though my conclusions will be fundamentally opposed to Gély’s
+thesis, I will use his paper to demonstrate more clearly the possibility for
+a reconsideration of Merleau-Ponty’s work through a Badiouan lens.
+Merleau-Ponty’s Critique of Reflective Theories of Time
+As early as the Phenomenology of Perception, Merleau-Ponty looked to
+Marcel Proust as a guidepost on the way to a coherent theory of the relation
+of the sensible and the intelligible. In the first chapter of Mauro Carbone’s
+book of essays, The Thinking of the Sensible, he argues that toward the end
+of his career, Merleau-Ponty moved even further away from Husserl and
+Bergson than he had in the Phenomenology of Perception. Carbone suggests
+that in his earlier critiques of Bergson’s and Husserl’s theories of time,
+what Merleau-Ponty develops is more of a clarification and refinement of
+their theories—a critique—than an innovative philosophy. It is as Merleau-
+Ponty’s thought matures that we see a more properly Merleau-Pontian the-
+ory of time emerge (Carbone 3). This theory, as Carbone explains, posits
+“mythical time” as a serious alternative to the serial theory that Merleau-
+Ponty still saw in Husserl and Bergson.
+Mythical time, the “time of half-sleep,” is “properly Merleau-Pontian”
+because it refers to a thinking of time as neither continuous nor discontin-
+uous, but existing as an “existential eternity” (Carbone 12). This eternity is
+Trauma and EvEnT 39
+always already there and is always “at the first day” because there is, strictly
+speaking, no line of “nows” that can be traced back to what would be “pre-
+vious days” (Carbone 12). The quasi-discontinuous narrative that mythical
+time presents is a synthesis of events both distant and present. This confu-
+sion of distance and presence, of past and present, as when one is still in a
+“state of half-sleep,” problematizes the serial account of time that Merleau-
+Ponty saw his predecessors clinging to.
+This synthesis of events, however, is not active; one cannot refer back
+to a point in the past where one says, “I will create a memory and a refer-
+ence point in this ‘now’ which I will refer back to sometime in the future.”
+Rather, there is a “passive synthesis” of time, a seeming contradiction in
+terms that Merleau-Ponty explains by reference to a contact with “wild Be-
+ing” prior to subject and object. In the next part of this section, I will at-
+tempt to show what Merleau-Ponty and Carbone mean by this wild Being
+by quoting Proust as well as Merleau-Ponty.
+In the Phenomenology of Perception, Merleau-Ponty quotes a passage
+from Proust in which the author describes, at great length, the process of
+“waking up.” Proust writes, “when I awoke like this, and my mind struggled
+in an unsuccessful attempt to discover where I was, everything revolved
+around me through the darkness: things, places, years” (PP 211). This de-
+scription, according to Merleau-Ponty, is an ontologically significant and
+beautiful piece of prose. The passage goes on to describe the ways which
+the author is unsure whether he is the mind constituting the room or it
+is in fact the other way around. Before an intentional consciousness foists
+structure on this wild Being, there is no distinct subject or object, no dis-
+tinct past or present, etc. As Carbone describes it, the past and present are
+simultaneous (8).
+Prior to the creation of a cohesive Gestalt, the scene in Proust disori-
+ents the author and the reader because it is unclear whether the seer is con-
+stituting the room or the room is constituting the seer. This disorientation
+of seer and seen, of subject and object, mirrors the description of wild Be-
+ing that Merleau-Ponty gives at the beginning of the chapter of The Visible
+and the Invisible called “The Intertwining—The Chiasm.” Applied to expe-
+rience as a whole, we might say that for Merleau-Ponty, embodied time is a
+time of half-sleep where experience is passively synthesized. The “passivity”
+of this “activity” (synthesis) is problematic for the transcendental subject.
+Indeed, it displaces phenomenal consciousness as the constituting force in
+the world. The mutation of the relationship between humanity and Being
+is found in this disintegration of the transcendental subject, as well as in
+Merleau-Ponty’s critique of serial time. Experience without reflection, or
+as Merleau-Ponty says, a “life without Erlebnisse, without interiority,” is pre-
+cisely what seems to have been germinating in Merleau-Ponty’s philosophy
+at least since the Phenomenology of Perception (VI 243).
+40 Evan Edwards
+When we understand Merleau-Ponty’s later philosophy of time, we
+can begin to extricate from it a theory of the event. If, as Merleau-Ponty
+entreats us, we are to abandon the serial understanding of time in favor of a
+“mythical” understanding, how are we to understand the existence of recol-
+lections and histories which chronicle when and where certain happenings
+occurred? It seems doubtful that Merleau-Ponty would be so bold as to sug-
+gest that the French Revolution did not happen just over 200 years ago or
+that prior to this event there wasn’t a period when France was a monarchy.
+To admit such a claim would be to collapse into a revisionist relativism that
+would be so radical that it would border on being incomprehensible. So
+how can we situate the existence of the event of the revolution in relation to
+ourselves while continuing to reject the serial understanding of time?
+In order to begin answering this question, let us venture the following
+proposition: what Merleau-Ponty rejects in the reflective theories of time
+is the possibility of understanding, once and for all, the chain of causality
+that led from one event to another. We find an analogue of this proposi-
+tion in Merleau-Ponty’s own statement about the relation of reflection and
+perceptual faith. He writes that “a philosophy of reflection, as methodic
+doubt and as a reduction of the openness upon the world to ‘spiritual acts’,
+to intrinsic relations between the idea and its ideate, is thrice untrue to
+what it means to elucidate: untrue to the visible world, to him who sees it,
+and to his relations with the other ‘visionaries’” (VI 39). In this passage,
+Merleau-Ponty shows that limiting the phenomenon to a reflective explana-
+tion of causality and description fails to capture the essentially open nature
+of the phenomenon itself. In the same way, by precisely describing the rela-
+tions between events, the serial theorist lays claim to absolute knowledge
+of historical processes.
+What we must understand, then, is that there is inevitably something
+irreducible in the event and that this irreducibility is a restriction not only
+on the determination of the significance of an event, but also on the deter-
+mination of its place in the historical montage. In other words, the event
+must be understood as indefinite, unable to be said entirely, and open
+(perhaps infinitely) in its relation to the world.
+In this section, I have given a summary of Merleau-Ponty’s later
+thinking of time. This philosophy of time, as we have seen, explicitly rejects
+serial understandings of temporality in favor of an understanding of tem-
+porality as a “time of half-sleep” (Carbone 1). This theory interrupts the se-
+rial understanding by positing the indeterminacy of evental causation and
+significance in order to encourage us to understand the event not as a mark
+on a time line or as a point on a field, which even Husserl may have ad-
+mitted. Rather, the event is more accurately described as “horizonal” than
+as “horizontal.” Rather than moving in one direction—horizontally—the
+Trauma and EvEnT 41
+event emerges as a horizon of meaning. In the next section, I will argue that
+we can give an even more accurate description of Merleau-Ponty’s reading
+of the event by considering its similarity to what Slavoj Zizek identifies as
+Freud’s second theory of trauma.
+Trauma and the Event
+According to Zizek, a major shift occurs in how Freud thinks of trau-
+ma between The Ego and the Id and Three Case Histories. Before this time,
+Freud thought of the traumatic event as an outside disturbance, something
+that came into the patient’s psychical life as an alien intruder. As Freud’s
+thinking progressed, he realized that the relationship between event and
+ordinary life is precisely the opposite. Zizek looks to Freud’s analysis of the
+Wolfman to make his point:
+His analysis of [Wolfman], his famous Russian patient,
+isolated as the early traumatic event that marked his life
+the fact that, as a child of one and a half, he witnessed the
+parental coitus a tergo. However, originally, when this
+scene took place, there was nothing traumatic in it: far
+from shattering the child, he just inscribed it into his
+memory as an event the sense of which was not clear at
+all to him. Only years later, when the child became ob-
+sessed with the question “where do children come from”
+and started to develop infantile sexual theories, did he
+draw out this memory in order to use it as a traumatic
+scene embodying the mystery of sexuality. (Zizek)
+Zizek likens this shift to the one made by Einstein between the special and
+general theory of relativity. Whereas in the special theory, the curvature
+of space is caused by the intrusion of matter, in the general theory, the
+curvature is primary and matter serves only to herald its presence (Zizek).
+In the same way, for the earlier Freud, the traumatic event is the thing that
+reorganizes the space of the patient’s life. By the 1920s, however, Freud had
+come to see the traumatic event as the sign of the curvature of the space of
+the subject. In other words, rather than the Wolfman being shaped by the
+event of witnessing his parents in coitus, Freud sees that the significance
+of the traumatic event lies in its signaling of the theories of sexuality that
+Wolfman had developed in order to answer his youthful wondering. The
+event, then, has retroactive significance.
+We see in Merleau-Ponty’s theories of mythical time an analogue
+of this later idea of Freud. Frank Chouraqui’s paper, “Thickness and the
+Vertical Unfolding of Time in the Notes of May 1959,” cues us into this
+insight. Chouraqui sees Merleau-Ponty’s theory of the event as the invisible
+42 Evan Edwards
+sediment of significance. I take this to mean that events are the stuff lying
+beneath what we find significant. He looks to the note called The Visible
+and the Invisible from May 1959 to make this point. In the note, Merleau-
+Ponty writes that “this reduction to the myth presupposes a ground of non-
+mythical positivity which is another myth” and that rather, “one has to
+understand that myth, mystification, alienation etc. are second-order con-
+cepts” (VI 188). These are second-order concepts in the sense that there is
+a real of the event which is not clear to us (in the note mentioned above,
+the real that Merleau-Ponty refers to is Madame de La Fayette’s novel La
+Princesse de Clèves) but which nonetheless contributes to our understand-
+ing of social life. Merleau-Ponty assigns to this significance, this invisible
+significance, the name “myth” precisely because it is not immanent to us.
+Chouraqui writes that “a myth is a myth because it is not about sedimented
+facts, but about Being itself: mythologization is an exemplification of Being
+as sedimentative process” (15). It is only when an event has settled into the
+sediment of history that its real significance can be determined.
+In terms of our discussion of trauma above, we can say that by looking
+at the literal, serial event of La Princesse de Clèves, we are simply looking at
+the event as insignificant. It is much like the Wolfman looking at the event
+of seeing his parents in their nighttime act. We see the value of the literal
+novel as symptomatic of the curvature of the social sphere that came after
+it. There are, then, two senses of La Princesse de Clèves as event. First, there
+is the sense in which it is a visible novel written in the 17th century. This
+sense, however, is one that is exactly situated in serial time, a concept which
+we have seen is unsatisfactory for Merleau-Ponty. It is in the second sense,
+then, that we find the truer meaning of the event. In this second sense La
+Princesse de Clèves is a myth whose value is determined retroactively and
+ambiguously. This determination, as we said above, is invisible. Just as the
+curvature of space in Einstein’s general theory is the invisible heralded by
+the visible matter, the truest sense of the event for Merleau-Ponty is given
+in the invisible sediment that La Princesse has left in the sedimentative
+process of Being. This means, as Chouraqui suggests in his paper, that the
+event itself is absolutely invisible to us.
+At the same time, Merleau-Ponty gestures toward a theory in which
+the event is left entirely open. We see evidence for this in his letter to
+Sartre in which he accuses Sartre of denying history its “right of rectifica-
+tion” (Davis 42).2 Much of Merleau-Ponty’s philosophy of history rests on
+the problem he introduces of the distinction between past and present,
+between past events and present events. Who, he suggests, is to say that
+we have said all there is to say about the French Revolution, or even the
+2 Special thanks to Dr. Duane Davis for directing me to this passage.
+Trauma and EvEnT 43
+October Revolution? Although this critique of Sartre may be unfair, it is
+clear that for Merleau-Ponty, the distance that Sartre seems to put between
+us and historical events is too great, and the event is in fact more immanent
+than we ordinarily assume.
+We see, then, the problem inherent in Merleau-Ponty’s thinking of
+the event. On one hand, it is entirely invisible to us, and so it is separated
+from us as an object of inquiry. We cannot rightly look at Madame de La
+Fayette’s novel and say that we can find its meaning in the text itself. On
+the other hand, the event is entirely immanent to us. It is always open to
+our interpretation and has the “right of rectification” which Merleau-Ponty
+called for in his letter to Sartre.
+In my correspondence with Chouraqui about his paper, he has sug-
+gested that the way to reconcile these positions is through a kind of psy-
+choanalysis. By psychoanalyzing the significance of the event, one brings to
+consciousness the invisible ground of sedimentation as a way of determin-
+ing its meaning. While the event may be “entirely invisible” because it is, as
+Gilles Deleuze would say, “a past which never was present,” it is always pos-
+sible to bring that very fact to consciousness in order to critically investigate
+what is otherwise taken as given in the curvature of our social space (104).
+Rather than simply investigating the text itself, we ought to look at the text
+as the event to which we have retroactively assigned value.
+Another example that Merleau-Ponty himself draws on, in The Vis-
+ible and the Invisible, comes from another work by Proust, Swann’s Way. In
+the novel, refined socialite Charles Swann is deeply moved by hearing a
+particular violin phrase in a sonata by the composer Vinteuil. In fact, “le
+petite phrase,” as it is called, becomes an important part of Swann’s life
+and comes to symbolize his half-willing love for Odette de Crécy, a former
+courtesan. For Swann, Vinteuil’s “little phrase” conjures up a “past which
+never was present,” that is, the non-real moment which passed between
+Swann and Odette when he realized the love he had for her (VI 286). In
+our terminology, for Merleau-Ponty, the retroactive assignment of value
+to this non-existent event is a symptom of the curvature of Swann’s life.
+Proust describes, however, the way that Vinteuil’s little phrase is retroac-
+tively assigned the value that, in the case of La Princesse, was assigned to
+the novel itself. The tumultuous relationship between the two inevitably
+goes sour when Swann realizes Odette’s unpleasant nature. According to
+certain readers of Proust, the author does not resolve the conflict between
+Swann and Odette. Rather, the story trails off, never achieving a détente
+or direction. This example, obviously, is quite different from any that we
+have given thus far. If, as we have argued, the event in “mythical time” is
+in some way positive, how are we to understand this example? In the case
+of La Princesse, the event was a new understanding of sociality that can
+44 Evan Edwards
+be seen in the world and that proceeded from the relatively insignificant
+publication of a short novel in the 17th century. In Swann’s love for Odette,
+the amorous event is entirely self-reflexive, drawing on itself in order to
+sustain Swann and Odette’s ridiculous affair. Nowhere are we told that
+there is a single point, a declaration or otherwise, which is given retroactive
+significance. In the case of La Princesse, we can refer back to the novel itself
+and its popularity in the court in 17th century France as the transcendent
+object to which we have retroactively assigned value. For Swann, his love
+for Odette does not have the same sort of referent, relying entirely on the
+“past that never was present.”
+In this section, drawing on Chouraqui’s paper, I have established
+the similarities between the theory of trauma that Zizek finds in the later
+psychoanalytic theory of Freud with the thinking of the event that we dis-
+covered in the later philosophy of Merleau-Ponty. I was then able to give a
+more robust description of what constitutes the event in this later think-
+ing, expanding on the definition given in the first section of this paper.
+By looking at the case of Madame de La Fayette’s La Princesse de Clèves, I
+was able to give a description of how this definition fits into an actual case
+of a real event. Finally, in this section, I introduced what might be seen
+as a snag in this definition of the event. In the next section, I will look at
+Raphaël Gély’s article to understand how we might reconcile this problem
+and draw on a contemporary thinker to help clarify our understanding
+of the event.
+Subject and Event
+In Raphaël Gély’s article,“La Question de L’Événement dans la Phé-
+noménologie de Merleau-Ponty,” he argues that the significance of the
+event for Merleau-Ponty is the “institution of a cohesion of incompossi-
+bles” (365). The event, according to Gély, is something that happens to sub-
+jects that causes a crisis or rupture in their own bodily understanding of the
+world. That is to say that in the wake of an event, a subject brings together
+elements of the world that were previously seen as incommensurable. As I
+said in the introduction to this paper, according to Gély, Merleau-Ponty’s
+main concern with the event is how it becomes instituted and not how it
+constitutes a subject. Gély here has as his target contemporary philosopher
+Alain Badiou. For Badiou, following the Althusserian critique of phenom-
+enological subjectivity, the subject comes to be constituted only in the wake
+of an event.
+Gély begins by arguing against Badiou’s theory of the event, saying
+that Merleau-Ponty’s theory is superior because it “stops presupposing that
+Trauma and EvEnT 45
+the event is something which institutes or magically reveals a subject” (355).
+Rather, he says, the event comes into the life of a subject unpredictably and
+incalculably, and it is the subject that organizes this incompossible event
+alongside that which is already given, instituting, as I said above, a “cohe-
+sion of incompossibles.”
+How does this mesh with my account of Merleau-Ponty’s theory of
+the event so far? I have argued that for Merleau-Ponty, the event is the invis-
+ible and open curvature of a significant moment that retroactively valuates
+a given happening. If there is a subject involved with this event, I have not
+established its place so far.
+At the end of the previous section, I noted the difficulty of Swann
+and Odette’s relationship in Swann’s Way. Whenever Swann finds a clue to
+Odette’s infidelity and doubts his love for her, he is reminded of Vinteuil’s
+little phrase and is once again emboldened to pursue their affair. We might
+see this as a refutation of Gély’s understanding of Merleau-Ponty’s think-
+ing of the relationship between event and subject. The institution of the
+amorous event, Swann and Odette’s love, is what causes Swann to become
+subject to the love. Then again, we may agree with Gély and argue that it
+is Swann’s own subjectivity that institutes the amorous event. If this is the
+case, then we might also find an explanation for the faulty continuation of
+this event, which is doing nothing but harm to both Swann and Odette.
+That is, if what is at stake is the cohesion of the incompossible elements
+of Swann’s life and his love for Odette, we can easily understand that the
+problems inherent in their relationship are grounded in Swann’s inability
+to create a proper cohesion.
+This brings us to a point of real decision. To accept the pre-existence of
+the subject is to bring us to Gély’s position. To reject the pre-existence of the
+subject and argue for the institution of a subject in the wake of the event is
+to bring us to an entirely different position, one that is similar to Badiou’s.
+The example that Gély himself uses to make his case, that of the famous two
+hands touching, perhaps betrays his own argument. In the article, he writes
+that “in the merleau-pontian experience of touching-touched, the subject
+does not resolve the incompossibility . . . except in a process of incarna-
+tion” (Gély 363). He believes that this shows that unless we are in bodily
+situation, we cannot hope to achieve the process of creating a cohesive
+world where the event is instituted alongside the rest of the world.
+We may read this famous example of the touching-touched anoth-
+er way, however. At the beginning of “The Intertwining—The Chiasm,”
+Merleau-Ponty writes that philosophy must “recommence everything, reject
+the instruments reflection and intuition [have] provided themselves, and
+install itself in a locus where they have not yet been distinguished” (VI
+130). The event of the touching-touched, similarly, forces us to consider
+46 Evan Edwards
+the reversibility of subject and object all “pell-mell” (VI 130). Gély’s argu-
+ment relies on the assumption that there is a subject who experiences both
+the touching and the touched, the alien feeling of being at once subject and
+object. But how does this example work when considering the flesh of the
+world generally? If the touching-touched example is supposed to describe
+not only the subjective experience of one’s own body but also the condition
+for any visibility and contact with the world whatsoever, then must we also
+posit a subject whose flesh is the flesh of the world, a deity perhaps? Gély
+seems to consider only the localized encounter of the flesh, wherein we
+might be able to posit an already existing subject. The touching-touched
+example, against Gély, seems to suggest the possibility of a subject that
+realizes itself only in the wake of its understanding itself to possibly also
+be an object.
+What we do learn from Gély, however, is what I noted earlier about
+the aftermath of the event as the cohesion of incompossibles. In this last
+portion of this section, I noted that we are forced to decide between Gély’s
+positioning of the subject in this definition and a position closer to Ba-
+diou’s. Though I opted for the latter in light the insights from the touching-
+touched example, it is still to be determined whether Gély is correct in
+what he has to say about this cohesion. I have argued that the event func-
+tions much like trauma. The event is the invisible real which retroactively
+assigns value to some visible occurrence. But who is it that does the work of
+this retroactive assignment? Furthermore, who evaluates the significance
+of the invisible event? I argue that it is the subject who has come under the
+effect of this event who must do this work. I noted in the second section of
+this paper the possibility of a “psychoanalysis of the invisible” that would
+allow us to analyze the curvature of the event. For Badiou, finding the
+way that the event relates to the world through an exegesis of its depth is
+precisely the process of inquiry that constitutes the finite instance of the
+subject. Badiou relates the subject to the event through its invisibility and
+the infinite unfolding of its openness to the world.
+But while Badiou’s theory of the event almost thoroughly necessitates
+a serial understanding of time, Merleau-Ponty, as we have seen, rejects this
+position. For Badiou, the event is composed of two parts. First, the event
+is a collection of mundane facts. In his most famous example, Badiou talks
+about how, on one hand, we can talk about the French Revolution by refer-
+ring to the storming of the Bastille, the marches on Versailles, the Terror,
+and so on (180). On the other hand, the French Revolution also signified
+an invisible cause that was incalculable. To say that the French Revolution
+was caused by inequity between the social classes in France would be to re-
+duce the significance of the event itself. However, unlike the understanding
+of Merleau-Ponty’s thinking of the event that we have given in this paper,
+Trauma and EvEnT 47
+for Badiou, the event does in fact have an end. He argues that what can be
+found in the event itself is contained in the words and actions of those who
+were involved in it. This doesn’t mean that we can’t be contemporaries of a
+certain event, but there is definitely a point where the event itself is done.
+Rather than presuming to be a part of the event itself, we must be “faith-
+ful” to the event. We must, in other words, remain committed to the truth
+introduced by the event. The process of inquiring into the event is, for
+Badiou, staying true to the event, not participating in the event itself.
+Merleau-Ponty would have trouble accepting this, I believe. As we
+noted above, this theory still relies on a serial understanding of time. Both
+Badiou and Merleau-Ponty want to avoid the reduction of the event to the
+result of a causal chain. Both want to retain the openness of the interpre-
+tation of and fidelity to the event. In the field of Merleau-Ponty studies, I
+believe that this understanding of the similarities between the two thinkers
+could prompt continuing research into the meaning of the event and alter-
+native understandings of subjectivity in his philosophy. In the field of Ba-
+diou studies, I hope that this understanding will lead to a rethinking of the
+understanding of time, possibly non-serially. Because of the criticisms that
+have been leveled against Badiou about the “divine” nature of the event,
+emerging ex nihilo in a time line, considering time in different, non-serial
+ways might aid in explaining the relation of being, time, and event.
+Conclusion
+In this paper, I sought a theory of the event in the philosophy of
+Merleau-Ponty. By examining his theory of time in his last works and by
+looking to the work of Mauro Carbone, I came to a preliminary theory of
+the event which relied on a “mythical time.” In the second section, I argued
+for the similarity between this philosophy of the event and Freud’s later
+theory of trauma. Finally, by evaluating Raphaël Gély’s argument about the
+fundamental difference between the event in Merleau-Ponty and Badiou, I
+chose to reject his thesis but use what he had to say to make my own con-
+nection between the two thinkers. In the end, I hope that this paper has
+suggested new directions for thinking the connections and disagreements
+between Merleau-Ponty and Badiou, a field that has been uncharted
+thus far.
+Works Cited
+Badiou, Alain and Oliver Feltham. Being and Event. New York: Continuum,
+2007.
+Carbone, Mauro. The Thinking of the Sensible: Merleau-Ponty’s A-Philosophy.
+Evanston, IL: Northwestern UP, 2004.
+Chouraqui, Frank. “Thickness and the Vertical Unfolding of Time in
+the Notes of May 1959.” 35th Annual Meeting of the International
+Merleau-Ponty Circle. University of North Carolina–Asheville. 23
+Sep. 2010. Lecture.
+Davis, Duane, ed. Merleau-Ponty’s Later Works and Their Practical
+Implications: The Dehiscence of Responsibility. Amherst, NY: Humanity
+Books, 2001.
+Deleuze, Gilles. Difference and Repetition. Trans. Paul Patton. New York:
+Continuum, 2004.
+Gély, Raphaël. “La Question de l’Événement dans la Phénoménologie
+de Merleau-Ponty.” Laval Theologique et Philosophique 56.2 (2000):
+353–65.
+Merleau-Ponty, Maurice. Phenomenology of Perception. New York: Routledge
+Classics, 1962.
+————. The Visible and the Invisible. Evanston, IL: Northwestern UP, 1968.
+Zizek, Slavoj. “Troubles with the Real: Lacan as a Viewer of Aliens.”
+Lacanian Ink. N.p., 2007. Web. 7 Dec. 2010.
+Works Consulted
+Dastur, Françoise. “Phenomenology of the Event: Waiting and Surprise.”
+Hypatia: A Journal of Feminist Philosophy 15.4 (2000): 178–89.
+Freud, Sigmund. The Ego and the Id. New York: Norton, 1989.
+Stewart, Jon. The Debate Between Sarte and Merleau-Ponty. Evanston, IL:
+Northwestern UP, 1998.

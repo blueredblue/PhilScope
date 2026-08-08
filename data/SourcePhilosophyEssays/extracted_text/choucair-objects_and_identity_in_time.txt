@@ -1,0 +1,405 @@
+Aporia vol. 18 no. 1—2008
+Objects and Identity in Time
+Cassian ChouCair
+Icould have started this sentence in a different way. I could have even
+written no sentence at all, but I did, in fact, write one, and I wrote it in
+a particular way and not in any other. Talking about the first sentence
+that I actually wrote, and the possibility that I could have written it some
+other way, or not at all, can be done with the help of a simple version of
+possible-world theory. Everything that actually happens—my writing of the
+first sentence the way I actually wrote it, for example—happens in the actual
+world. Everything that can possibly happen, but does not actually happen,
+occurs in some possible world, each distinct possibility occurring in a differ-
+ent possible world. So for each possible way I could have dealt with myself
+and my surroundings while writing the first sentence, there exists a possible
+world in which it occurred. Because no two possible ways I could have
+acted can be the same (otherwise they would not be two possible ways, but
+one), the two possible worlds in which the two possible ways occurred can-
+not be regarded as one and the same world. This should be clear. However,
+how to identify the objects involved in each case, in each possible world,
+and in the case of the actual world, is not so clear. This is the problem I will
+address. I will also explain how material objects can maintain consistent
+identities through time. I do not know of any particular philosopher who
+would agree with the account of identity I will give, but my account will at
+times rely heavily on the distinction Saul Kripke makes between rigid and
+nonrigid designation in “Identity and Necessity.”
+To distinguish between rigid and nonrigid designation, I will consider
+the identity of Martin Klaproth, the German chemist who is credited
+with discovering elemental uranium. Supposing that Martin Klaproth really
+was the first to discover elemental uranium, when I give the expression “the
+discoverer of elemental uranium,” it designates a particular object, namely,
+Martin Klaproth. However, it is only a contingent fact that Klaproth actu-
+ally discovered elemental uranium. We can imagine that under different
+Cassian Choucair is a senior majoring in philosophy and visual art at Brigham
+Young University. His academic interests are philosophy of mind, epistemology, and
+aesthetics. He will graduate in 2008. This essay won second place in the 2008
+David H. Yarn Essay Contest.
+30 Cassian ChouCair
+circumstances someone else would have discovered elemental uranium
+before Klaproth did, and if that would have been the case, someone else
+would be the object designated by “the discoverer of elemental uranium.”
+Expressions like this one, which designate a particular object, but only
+under certain circumstances, Kripke calls “nonrigid” (77).
+A “rigid designator” is a term that, as we use it, designates the same
+object in all possible worlds. An example of a rigid designator is “the sum
+of three and seven.” This expression designates the number ten, and can
+be proven mathematically. Since that which is provable mathematically is
+necessary, it is necessary that “the sum of three and seven” designates the
+number ten. Since the sum of three and seven is necessarily ten, there
+is no possible world in which “the sum of three and seven” does not des-
+ignate the number ten. Someone may suggest that this expression could
+have designated something that is not the number ten because we chose
+the sounds and symbols of our language contingently. But it cannot be
+decided whether a designator is rigid or nonrigid before it is used. If our
+language had been different, yet we held the same beliefs about mathemat-
+ics, we might not have used “the sum of three plus seven” to designate
+rigidly the number ten; however, there would have been some other expres-
+sion meaning what we mean by “the sum of three plus seven” which, once
+chosen, would have rigidly designated the number ten.
+It seems clear, then, that at least one abstract object, the number ten,
+can be rigidly designated.1 What is not so clear is whether the same can be
+true of any material object. Let us consider a simple material object: a new
+number two medium soft pencil. Let us call a particular new number two
+medium soft pencil “Penny.” Now that there is a designator for this particu-
+lar material object, we can consider whether there could have been some
+other object satisfying the conditions of the designator “Penny,” which
+have been set in relation to a particular pencil. Suppose that the store from
+which Penny was bought had been out of number two medium soft pencils.
+Suppose that I bought a number two soft pencil instead. Can this number
+two soft pencil satisfy the conditions of the designator “Penny”? It seems it
+cannot. The object we designated “Penny” is not a number two soft pencil,
+but a number two medium soft pencil, so no number two soft pencil can
+be the object designated by “Penny,” for the object so designated is not
+soft, but medium. In fact, supposing I had purchased some other pencil
+(whatever number, whatever softness) besides the one I actually purchased
+and designated “Penny,” I could not say of it that it could be Penny. I am
+not saying that I could not have called anything but a particular number two
+medium soft pencil “Penny,” but rather that once I used “Penny” to designate
+1 And it seems that all real numbers can be rigidly designated.
+objeCts and identity in time 31
+a particular object, only that particular object could be the object designated
+“Penny.” Since “Penny” does not refer to an object contingently (like “the
+discoverer of elemental uranium” does), but rather necessarily (like “the sum
+of three plus seven” does), “Penny” is a rigid designator. So it would seem
+that material objects can be designated rigidly.
+Whatever is an object is necessarily self-identical, so Penny the pencil
+as a material object is necessarily self-identical. We can imagine that in
+some possible world there exists a number two medium soft pencil having
+every property that Penny has in the actual world, and we can refer to that
+number two medium soft pencil in some possible world as “Penny” in vir-
+tue of its having every property Penny has in the actual world. Now I must
+note, this is taking a view of possible world theory that is not as robust as
+some may prefer.2 However, I agree with Kripke that it is misguided to say
+that some object in some possible world cannot be the same object as some
+object in the actual world. I do not discuss here why this is so.
+Suppose that when I designate the new number two medium soft
+pencil “Penny,” it is still unsharpened. Now suppose that after I have named
+Penny, I sharpen Penny. Once the tip of Penny is sufficiently sharp I notice
+there are more pencil shavings in the waste container of the pencil sharp-
+ener than before. I have good reason to assume that the new shavings must
+have been shavings of Penny, which might entail that some of what Penny
+was is not part of what is now Penny. We do not call the number two soft
+pencil I might have otherwise bought “Penny” because it has at least one
+property not shared by Penny, that of being soft instead of medium soft.
+To say that they are the same object would deny that an object is necessarily
+self-identical. But in the case of Penny being sharpened, after parts of it
+have been shaven off, we still call it “Penny” even though the properties
+of Penny sharpened are not identical to those of Penny unsharpened. But
+must not an object be self-identical if it is an object at all? Accounting for
+such flexibility allowed to the set of properties of a rigidly designated object
+through time is a problem we face with identifying material objects. This is
+not a problem we face with abstract objects such as numbers. The number
+ten, for example, does not change; ten could never be pushed through a
+pencil sharpener, filling the sharpener with shavings of number. There has
+never been a time when ten had one more or one fewer property than it
+once had or will have.3 Its properties are forever consistent.
+2 Most notably, David Lewis.
+3 This is assuming that any possible discovery regarding ten itself or some relation of it to some
+other object does not change ten itself, but rather only changes our understanding of it. This is,
+after all, what justifies an elementary school teacher’s marking a student’s answer “ten” to the
+question “one plus zero equals?” incorrect, regardless of the student’s opinion of what the number
+ten really is.
+32 Cassian ChouCair
+We can imagine being able to observe Penny as it exists in a single
+instant. By an “instant” I mean a period of time too short for the occur-
+rence of any physical change, so that we observe Penny as an object in
+which not a single change occurs. If we could acquire the results of a com-
+parative analysis of the set of properties of Penny in this instant in time and
+the set of properties of itself in the same instant, there would obviously not
+be a single discrepancy between the two sets of properties. In terms of their
+physical location, origin and physical constitution, they are identical, and
+thus the same object. Suppose that this instant in time in which Penny has
+been observed is an instant in time before Penny was sharpened, and that
+we can compare Penny in this instant to Penny in some instant after Penny
+has been sharpened. If the properties of these two objects were compared,
+it is obvious that there would be many discrepancies. And if we are commit-
+ted to an object’s being necessarily self-identical, any one of the individual
+discrepancies on the list would be enough to conclude that they are not one
+and the same object. It seems that at any given instant, an object is identical
+to itself at that instant, and is so necessarily; however, if the object is a mate-
+rial object, it is not itself in two different instants.4 Thus, the material object
+cannot possibly exist for more than an instant.5 If this is correct, I cannot
+be saying anything true if I refer to a material object existing through time.
+I can only refer to a material object in some theoretical sense, as physical
+objects existing only in instants of time. This is because material objects do
+not remain self-identical through time; the property sets of material objects
+are constantly disappearing, giving rise to new, previously non-existent sets
+of properties.6 If this is correct, it would seem that I might only use “Penny”
+(a rigid designator) to rigidly designate Penny (a material object) if I real-
+ize that Penny exists for only a period of time too brief for me to actually
+observe. By the time I finish uttering “Penny,” regardless of how quickly I
+speak, the material object I am attempting to rigidly designate would no
+longer exist.
+If this is the nature of material objects, if material objects are only the
+kind of thing we can imagine observing in single instants, then material
+4 This is assuming that the two points are far enough apart that at least some subatomic activity
+occurs between them.
+5 It seems that for this not to be the case, some material object would have to exist at absolute zero,
+which nothing composed of matter can do.
+6 I suppose quarks and leptons might still exist as self-identical entities through time, but even if
+they do, the point I am trying to make is that in almost all cases, at least in all cases of material
+objects in the macroscopic world, material objects do not exist as self-identical objects. And by
+“self-identical entities through time,” I mean that the entity that exists at time A is absolutely the
+same entity that exists at some later time B.
+objeCts and identity in time 33
+objects are things extraordinarily different from what I call material objects.
+What I call material objects exist through time, but material objects, as they
+have just been described, do not. Rather than acknowledging that material
+objects are the kind of objects described above, I acknowledge that objects
+of the kind described above do exist; they are not what I normally call
+material objects. I propose that material objects are somewhat abstract. I am
+not sure whether I could imagine something sounding more paradoxical,
+but I will attempt to explain the identity of material objects in a way that
+allows for this, without entailing any significant changes to how we actually
+interact with the external world. Penny can still be Penny even after it has
+been sharpened. I will hereafter refer to the kind of object that exists as a
+self-identical physical object in some instant, not as a material object, but
+as an object*.
+What we call material objects are constantly changing. Change in
+material objects involves the repeated function of an object* losing or gain-
+ing at least one property, thus resulting in a new object*. I will call the initial
+object* “object* A” and say that when object* A loses or gains at least one
+property, “object* A” no longer refers to any object that exists in actuality,
+and that each resulting object* can be designated individually—“object* B,”
+for example. When we observe a material object, we are taking in a very
+general view of the object*-to-object* process occurring. If we could actu-
+ally observe, for example, some object* A, and compare it to object* B, an
+object* coming into existence in sequence after object* A, we might have
+only the object*s’ dissimilar properties at the molecular level to account
+for their differing identities. The new object* might be perceptively indis-
+tinguishable from the last. This process may occur for long periods of time
+without our noticing any sort of change in the material objects from one
+instant to the next, even if the instants in time are separated by days, weeks,
+or years.
+If we maintain that material objects are self-identical, non-abstract
+objects through time, then Penny could not actually be Penny for more
+than an instant. However, if we view material objects as the particular
+object*-sequencing over time, as a series of object*s with one and only one
+representative object* existing at each instant in which the corresponding
+material object exists, material objects may then be treated as self-identical
+objects. So far, this is helplessly vague. It may help to consider that iden-
+tifying a material object and the individual object*s it is composed of
+is perhaps similar to how we already identify a streaming film image on-
+screen7 and the individual, on-screen images of which it is composed.
+7 The term “on-screen” is used to distinguish the image on-screen, as opposed to the image on
+the actual reel. This analogy will not work for non-reeled, digital film.
+34 Cassian ChouCair
+While viewing a motion picture—Back to the Future, for example—we view
+it as a whole, yet we know that the moving image on-screen is not actually
+a single image, but rather a long sequence of individual on-screen images,
+streaming too quickly for us to possibly distinguish one from another. This
+rapid sequence results in the experience of the on-screen image sequence
+in time as a single, yet changing entity. As Back to the Future plays in the
+theatre, the viewers do not identify in time the individual, static, on-screen
+images themselves that constitute the on-screen visual sequence of the
+Delorian accelerating to eighty-eight mph. The images comprised by this
+sequence do not individually show motion, but streaming the sequence at
+twenty-four images per second, a sequence too fast for the human eye to
+track, one views a motion picture, not its individual images—such as the
+Delorian accelerating to eighty-eight mph.
+Unlike the image sequence of a motion picture, we cannot stop time
+and view the object*s standing for each material object at a particular
+instant in the object*-to-object* sequences. With a motion picture, we can
+stop the stream, allowing us to view the individual on-screen image stand-
+ing for the motion picture at a particular point in the image sequence. We
+can stop Back to the Future at some particular image, identify it, then view the
+particular image that comes after it, identify it, etc. However, just as a motion
+picture is not one of its individual, static, on-screen images, but is instead
+the individual on-screen images together in sequence through time, a mate-
+rial object is not one of its object*s, but rather it is the object*s together
+in sequence through time that constitute the material object. Viewing the
+object* that stands for Penny unsharpened in some point at time, alongside
+the object* that stands for Penny sharpened at some later point in time
+would be like viewing two individual on-screen images from the on-screen
+image-sequence composing Back to the Future alongside each other. In this
+sense, pointing to Penny is like pointing to Back to the Future as it rolls at
+twenty-four fps.
+The structure of a material object identity, then, is similar in some
+ways to the structure of a motion picture. However, attempting to more
+closely relate the structure of material object identity to the structure of
+motion pictures is probably unhelpful. It is a loose relation. I am not inter-
+ested in trying to liken anything about the structure of a material object
+to the role that the actual images comprising the motion picture’s actual
+film reel play, or to the film reel itself, or to the projector. I will hereafter
+continue to speak of the sequential structure of material objects, but will
+not attempt to identify any further similarities this structure might have to
+that of motion pictures.
+When does a material object cease to exist? It ceases to exist when
+there is no object* to sustain its existence. When is there no object* to
+objeCts and identity in time 35
+sustain the existence of a material object? There is a set of properties that
+some object* must include for it to stand for a particular material object.
+The question of which properties constitute the individual sets of particu-
+lar material objects is not one I think needs to be discussed immediately.
+What is important is that whatever properties are selected as the set which
+an object* must include remains consistent and avoids contradictions.
+Beyond remaining consistent and staying free of contradictions, deciding
+which properties to include in a particular material object’s set of proper-
+ties seems to be a purely pragmatic concern. However, just as an object*
+must exist to stand for a material object, for that material object to continue
+existing, an object* must also exist to allow for the designation of identity
+to a material object for which the object* can stand.
+How do we find an object* to stand for a material object? We do not.
+It is not possible for us to identify an individual object* as it exists in the
+world. But as one object* ceases to exist, the matter of which it had been
+composed does not. The matter of which it had been composed is redistrib-
+uted, creating new object*s. However, it would seem that when these new
+object*s are formed, in most cases, one of the new object*s is nearly identical
+to the preexisting object*—possibly, the only difference being the presence
+or absence of a few atoms. The number two medium soft pencil we rig-
+idly designated “Penny” was a designation we were able to make because
+an already existing sequence of object*s was identifiable. This means the
+following: (1) the matter composing an object* that satisfies whatever set
+of properties one might consider as the necessary set of properties for an
+object* to be a pencil is redistributed into new object*s; (2) one of the
+new object*s satisfies the set of properties the preexisting object* had satis-
+fied in order to be a pencil; and (3) this pattern must have continued long
+enough for there to be such an object* in each instant of time, long enough
+for the pattern to be identified and rigidly designated “Penny.” If Penny is
+thrown into a fire, eventually not one of the object*s created will have in its
+set of properties the set of properties required to stand for Penny.
+We can designate one object* “object* A” and the object* that results
+from object* A’s losing or gaining at least one property, yet standing in
+place in time for the same material object for which object* A stood, as
+“object* B.” The identity designation of “object* B” to object* B, as well
+as “object* A” to object* A, are rigid designations. To show that this is the
+case, we will consider object* B’s relation to object* A. We can assume
+that there has always existed some object* and that the relation object* A
+stands in to the object* that came before it is the same kind as that in which
+object* B stands to object* A. And I will suppose that object* A and object* B
+are object*s in the object*-sequence history of Penny. It was not necessary
+that the object* that resulted from object* A be the object* that actually
+36 Cassian ChouCair
+resulted. Things could have been different. On a grand scale we can talk
+about pencil sharpening and that at some point while the pencil was being
+sharpened, one of the electrons in object* A moved to a location it would
+not have otherwise moved to had the pencil not been in the sharpener.8
+The expression “the object* that resulted from object* A” designates object* B
+in this case, but it does so contingently. Had things been different, some
+other object* may have resulted, one not identical to object* B. Thus
+“the object* that resulted from object* A” is a nonrigid designator. How-
+ever, once object* B did result, it was the object* that actually resulted from
+object* A, and we designated it “object* B.” The only possible object that
+can correspond to “object* B,” once designated, is object* B. So “object* B”
+is a rigid designator.
+The concept of material objects as the sequence of corresponding
+object*s coming in and out of existence through time does not, in any way,
+predetermine the manner in which the involved matter is redistributed
+through time. No restraints are put on the physical world by our identi-
+fying its content. Calling the number two medium soft pencil “Penny”
+is a rigid designation. The object*-sequence corresponding to Penny, the
+history of it, is fundamental in forming the identity of Penny. When one
+object* corresponding to Penny results in a new object* corresponding to
+Penny, the old object* does not still exist. However, the old object* was, in
+the instant it existed, the object* that stood for Penny, and the sequence of
+object*s that stand for Penny cannot be changed retroactively. This actual
+history cannot be changed. The object*s composing the sequence of Penny
+stood for only Penny and no other material object. And only one object*
+can stand for a particular material object at any given instant in time. Now,
+perhaps there exist two object*s at some point in time that are constitu-
+tionally identical, but if that is the case, they are still two object*s. This
+is because they occupy two different locations in space, and two object*s
+existing at the same instant in time cannot both stand for one material
+object in that instant. And since we can rigidly designate the two object*s,
+we are able to keep material identity objects separate, even if two material
+objects, at some point in time, are corresponding to two constitutionally
+identical object*s. No material object has the same sequence history as
+another material object. Because of this difference, an object in some pos-
+sible world that has the same object*-sequence history of some material
+object in the material world is the same object. The object in some possible
+world that has the same object*-sequence history as Penny is Penny in that
+8 This example is deficient for the fact that object* A would not have existed in the first place had
+the pencil not been in the sharpener, but surely the contingent fact that the pencil was in the
+sharpener necessarily affected what sorts of objects* are comprised by the sequence.
+objeCts and identity in time 37
+possible world. Thus, material objects, like object*s and numbers, can be
+rigidly designated.
+I will summarize this view by showing how it would work for an iden-
+tity that Kripke tries to sort out in “Identity and Necessity.” This identity
+is Richard Nixon, the former president, had he been able to get Carswell
+through. Kripke says that when we ask what might have happened had
+Nixon gotten Carswell through, we are speaking of Nixon himself, and that
+had Nixon gotten Carswell through, Nixon would have still been Nixon.
+Kripke says that Nixon could not have literally been a different person from
+the person he in fact was, even though the thirty-seventh president might
+have been Humphrey. “Nixon” is a rigid designator while “the thirty-
+seventh president” is nonrigid (83).
+Rather than go point by point with Kripke, I will offer my version,
+which shows that Nixon would not have been the same person he actually
+became, had he done something different than what he did in actuality (get
+Carswell through). But first, I must make the obvious note that with Richard
+Nixon I am no longer referring to the same kind of object* as Penny. It is
+certainly worth acknowledging that there are some very significant differ-
+ences between an object* with a mind and an object* without, but this
+account, I believe, avoids entanglement with that distinction.
+I will suppose that at some time relatively near the time Nixon might
+have gotten Carswell through, the object* that corresponded to Richard
+Nixon was object* N. I will further suppose that at some instant in time
+after Nixon might have gotten Carswell through, but actually did not, the
+object* corresponding to Richard Nixon was object* A. And I will suppose
+that at the instant at which Nixon was object* A in the actual world,
+Nixon got Carswell through in some possible world, and that this object*
+corresponding to Richard Nixon at the possible world was object* P. So,
+in the actual world, the object*-sequence history corresponding to Richard
+Nixon eventually went from object* N to object* A. In some possible world
+in which Nixon got Carswell through, the object*-sequence history corre-
+sponding to Richard Nixon went eventually from object* N to object* P.
+“Object* N” rigidly designates object* N. Thus when they were both
+object* N, the man we refer to as Richard Nixon and the man we refer
+to as the possible Richard Nixon were the same person. Object* N had
+the potential to be included in sequences resulting either in object* P
+or in object* A. However, just as “object* N” rigidly designates object* N,
+“object* P” and “object* A” rigidly designate object* P and object* A, respec-
+tively. So we now we are dealing with two different objects*, though both
+were, at the instant that object* N existed, compatible with the material
+object called “Richard Nixon.” Which one stands for Richard Nixon? I
+think the answer depends on which world you are in. In the actual world,
+38 Cassian ChouCair
+object* A stood at some point for Richard Nixon, but object* P never did. In
+the possible world in which object* P once existed, it is just the reverse.
+The object*-sequence history is the determining factor. Any object
+in any possible world that has the object*-sequence history of the actual
+Richard Nixon is designated “Richard Nixon” and thus is the same person.
+We can still say that had Richard Nixon gotten Carswell through, he would
+still be Richard Nixon. But this does not mean that if he had (object* P),
+he would be identical to Richard Nixon in the actual world (object* A). Both
+object*-sequence histories are compatible with what might have followed
+from the point when object* N stood for Richard Nixon. But once Richard
+Nixon in the possible world corresponded to a different object* than
+he did in the actual world, he ceased to have the object*-sequence history
+of Richard Nixon. If we determine the property of being self-identical as
+going from the actual object*-sequence history to the possible object*-
+sequence history and hold the actual object*-sequence history to represent
+the identity of the material object , a possible object*-sequence history that
+is different from the actual object*-sequence history cannot identify the
+same material object. From the point of view of the actual world, while
+the object* that stood for Richard Nixon (object* N) was the object* stand-
+ing for Richard Nixon in some possible world, when that which stood for
+Richard Nixon in the possible world (object* P) was something different
+from that which stood for him in the actual world (object* A), Richard
+Nixon no longer existed in the possible world. From the perspective of
+the actual world, we insist that Richard Nixon is that which he became
+(object* A), not that which he might have become (object* P).
+Works Cited
+Kripke, Saul. “Identity and Necessity.” Identity and Individuation. Ed. Milton
+Karl Munitz. Cambridge, MA: Harvard UP, 1980.

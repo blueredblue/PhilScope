@@ -1,0 +1,419 @@
+Aporia vol. 20 no. 1—2010
+Plato’s Parmenides:
+Interpretations and Solutions to the Third Man
+Michael J. hansen
+Plato’s Parmenides fulfills a special role in understanding Plato’s the-
+ory of Forms. Throughout his dialogues, Plato is pleased to invoke
+the theory intermittently, often as ancillary support for related pieces
+of his philosophy. But the theory itself remains concealed, even mysteri-
+ous, never giving up a broad exposure for the reader’s immediate analysis.
+Hence, what we know of Plato’s Forms comes from piecemeal assembly.1
+Given this situation, the attacks levied against the Forms in the Parmenides
+may reveal vital aspects of the theory and perhaps even betray Plato’s own
+misgivings about the Forms. In this paper I will not consider whether Plato
+maintained his theory in the face of these critiques. Rather, I will pres-
+ent the famous Third-Man Argument from the Parmenides, review some
+competing perspectives on the argument among Plato’s interpreters, and
+defend Gregory Vlastos’ interpretation due to its historical plausibility.
+I. The Third-Man Argument
+The Third-Man Argument (hereafter TMA) appears early in the
+Parmenides (132A1–B2). It is given in two varieties in the dialogue, but
+1 For a comprehensive listing of Plato’s comments regarding the Forms, see “Chapter 28: Form” of
+The Great Ideas: A Synopticon of Great Books of the Western World (Vol. II). Encyclopaedia Britan-
+nica (1952), 536–41.
+Michael Hansen is a senior majoring in philosophy at Brigham Young University
+with minors in logic, linguistics, and ancient near eastern studies. His primary
+academic interests include ancient philosophy and philosophy of religon. He will be
+applying to graduate programs in the fall. This essay placed third in the 2010 David
+H. Yarn Philosophical Essay Contest.
+66 Michael J. hansen
+there is rarely any instructive difference between the first and the sec-
+ond formulation. In this section I will formalize Parmenides’ argument
+so it can be analyzed apart from the redundancy of the text. My for-
+malization is not groundbreaking, and it inherits much of the work from
+previous formulations.2
+To understand the initial premises of the TMA we need only con-
+sult Plato’s arguments for the Forms. First, Parmenides begins with the
+principle of Uniqueness. The principle appears in Plato’s One-Over-Many
+argument. The basic idea is that when a number of things share a com-
+mon property, they do so by virtue of a single Form of that commonality.
+However, my wording here may betray certain modern nuances of the
+universal-particular relationship, so I will quote from the Parmenides to
+establish exactly what Plato has agreed to, which is commonly understood
+as Uniqueness:
+I suppose you think each form is one on the following
+ground: whenever some number of things seem to you to
+be large, perhaps there seems to be some one character,
+the same as you look at them all, and from that you con-
+clude that the large is one. (132A)3
+This passage is the final summary of the Forms from the dialogue, and it
+appears immediately before Parmenides presents the TMA. We will soon
+examine other references to the Forms found earlier in the Parmenides, but
+this passage illustrates the Uniqueness premise nicely. I will formalize this
+premise in the following way:
+(U) If multiple things (a, b, and c) are all F, then
+there must be a single Form, F-ness, by which
+they exhibit the same quality.
+Thus, where multiple things are large, there must be a unified Form of
+“Largeness” to account for their commonalty. This is intended to hold for
+any quality shared among things: where things are F, there is F-ness.
+Second, Parmenides establishes the principle of Participation. The
+principle has roots in Plato’s Phaedo where he proposes that “each of
+2 My rendering of these premises is modeled after Vlastos’ original formulation of the TMA, with
+the added benefit of being informed by subsequent articles responding to his, with only a few of
+my own stylistic differences.
+3 It is interesting that Plato has allowed such a contextual relation as “large” to represent his Forms
+in the above passage, but this is no new development since we read about tall and tallness in the
+Phaedo. In fact, it is readily agreed upon that “the theory that Socrates presented at the beginning
+of the [Parmenides] is plainly the one developed in Symposium, Phaedo, and Republic” (Cooper
+359). For this reason I feel no need to inspect these accounts of the Forms to look for develop-
+ments in Plato’s thought in the Parmenides: let us proceed by treating the theory as a mostly stable
+target to this point.
+Plato’s Parmenides 67
+the Forms existed, and that other things acquired their name by having a
+share in them” (102B). We find similar summaries of Participation from
+the Parmenides in 128E6–129A6, 130B, and 130E5–131A2.4 This estab-
+lishes the link between Forms and particulars. Thus, let us formulate the
+Participation premise in the following way:
+(P) If multiple things (a, b, and c) exhibit F, then
+they exhibit that quality through participation
+in the Form of F-ness.
+There is no need to be suspicious of conflating the appearance of F and the
+name of F in (U) and (P) respectively: both regard our account of things in
+the world. But it appears that (P) is an extension of (U), then. Notice that
+(U) proposes the singleness of F-ness, while (P) supplies the means by which
+things exhibit the characteristic F. Plato has distinguished these premises
+in his dialogue, but for simplicity’s sake let us collapse (U) and (P) into a
+single premise:
+(UP) If multiple things (a, b, and c) are all F, then
+there must be a single Form, F-ness, by which
+they exhibit the same quality through partici-
+pation.
+However, the above premises are alone insufficient to effect Par-
+menides’ conclusion that any given Form is not one, but infinitely many.
+The TMA itself requires additional, tacit premises in order to address the
+theory of Forms. This is where the TMA becomes especially informative
+about Plato’s theory. Because it appears that Plato thought the argument
+was a valid one, we are justified in searching out whatever assumptions are
+necessary to justify the TMA and how they impact the Forms. The greatest
+potential for understanding the dialogue rests somewhere between (UP)
+and the conclusion of the TMA. Before we posit any additional premises,
+let us first look at the conclusion that Parmenides draws:
+What about the large itself and the other large things? If
+you look at them all in the same way with the mind’s eye,
+again won’t some one thing appear large, by which all
+these appear large? . . . .
+So another form of largeness will make its appearance,
+which has emerged alongside largeness itself and the
+things that partake of it, and in turn another over all
+4 For those interested in the translations of these passages, Gregory Vlastos treats them in his
+article, “Plato’s Third Man Argument” where they appear “annotated copiously, chiefly on matters
+dealing with textual points which [he] had failed to cover in previous papers” (290–97).
+68 Michael J. hansen
+these, by which all of them will be large. Each of your
+forms will no longer be one, but unlimited in multitude.
+(132A–B)
+Here Parmenides appears to have cornered the young Socrates, who had
+intended that a unique Form account for a single quality via participation.
+If Parmenides’ conclusion follows, we can formalize it thus:
+(UP2) If multiple things (a, b, c, and F) are all F,
+then there must be a single Form, F-ness
+II, by which they exhibit the same quality
+through participation.
+Notice that F is now included in the list of multiple things. In this case,
+Socrates’ demand has failed that F-ness be the unique cause for multiple
+things exhibiting F-ness. Parmenides has shown us F-ness II, which has
+appeared to explain the new relation, and F-ness III and F-ness IV are not
+far off. But Parmenides has been too hasty: (UP2) does not follow directly
+from (UP). What is necessary to establish the logical jump from (UP) to
+(UP2)? Parmenides never named the tacit premises, so we must explore the
+problem for him.
+First there is the premise of Self-Predication (hereafter SP). This is
+simply the idea that Forms exhibit the very characteristic that they bestow
+on the things that participate in them. Thus, largeness is large, tallness is
+tall, and any other F-ness is F. And this premise coheres with Plato’s other
+writings. His dialogues offer many phrases to support (SP), but their signifi-
+cance and meaning is hotly contested.
+Second there is the unstated premise of Non-Identity (hereafter NI).
+(NI) suggests that if things exhibit a certain quality through participating in
+a Form, then these things are not identical to the Form itself. That is, when
+Simmias is tall, the Parthenon is tall, and Mount Olympus is tall, none of
+these things is identical to Tallness itself.
+With these two unstated premises, we can now give a completed for-
+mulation of the TMA where Parmenides’ conclusion will follow. Here it is
+in short form:
+(UP) If a, b, and c are F, then they participate in
+the single form F-ness.
+(SP) F-ness is F.
+(NI) a, b, and c are not F-ness.
+(UP2) If a, b, c, and F-ness are F, then they partici-
+pate in F-ness II . . .
+Where the oneness of F-ness in (UP) is contradicted by F-ness II of (UP2).
+Plato’s Parmenides 69
+Thus we have a working, formalized TMA. But to fairly assess the ar-
+gument we should also note its peculiar context. In the Parmenides, Plato’s
+Socrates is a young and budding metaphysician instead of a wise and sea-
+soned ethical inquirer. Also unlike typical dialogues, Socrates is not the
+central spokesman. Rather, the venerable Parmenides and his student Zeno
+develop the body of the dialogue as they question the young Socrates on
+points of his metaphysics. After a critique of the young Socrates’ Forms,
+Parmenides presents an exhausting philosophical method which Socrates
+“must do . . . to achieve a full view of the truth” (136C). These all seem
+to indicate that the theory of Forms being attacked by the TMA may be
+juvenile at this point, so it is reasonable to ask whether Plato understood a
+solution to the criticism he put into Parmenides’ mouth.
+II. Solutions to the TMA
+Early solutions to the TMA addressed the (SP) premise. Scholars like
+Russell,5 Wittgenstein, and Cherniss adopted two senses of predication
+in order to weaken (SP) enough to avoid the TMA’s conclusion. This is
+done by explaining “is” in two ways: predication and identity. The predica-
+tive sense of “is” regards properties of an object. To say, “Socrates is snub-
+nosed,” is to describe one of his characteristics: “snub-nosed” is a property
+predicate of Socrates. Alternatively, to say “Socrates is the teacher of Plato”
+is to assert something about his identity. By parsing “is” in this way, one
+can avoid the entanglements of the TMA by holding that UP utilizes the
+predicative sense of “is” whereas (SP) uses the identity sense of “is.” This
+prevents the shift from (UP) to (UP2) because a, b, and c are F in a differ-
+ent sense than F-ness is F, which shouldn’t be conflated to produce the
+contradiction of the TMA.
+More recently, Gregory Vlastos ignited a new interest in the TMA
+with his article “The Third Man Argument in the Parmenides.” He pro-
+posed that taking (NI) as an assumption is something of an illegal maneuver
+on the part of Parmenides because it is immediately at odds with (SP). The
+TMA is supposed to show inconsistency in (UP) and (UP2), but the true
+contradiction arrives by importing (NI) together with (SP). Given (SP) (F-
+ness is F) and (NI) (If x is F, then x is not identical with F-ness), a simple
+substitution for x generates a contradiction: if F-ness is F, then F-ness is not
+identical with F-ness. Therefore, Vlastos believes that “one will then see
+that these two premises, jointly necessary to the second . . . step of the
+5 In fact, Russell credits Plato for the greater part of his theory of universals, saying “Plato’s
+‘theory of ideas’ . . . is one of the most successful attempts [at understanding universals] hitherto
+made” (90).
+70 Michael J. hansen
+Argument [(UP2)], are mutually inconsistent” (“Third Man” 325–6). In
+this case, the TMA imports its own contradiction to damage (UP), and
+does so without needing an infinite regress—all it needs is F-ness II.
+In this interpretation, it is vital to consider whether Plato actually ad-
+mitted to (SP) and (NI). Although Vlastos believes Plato failed to recognize
+the two necessary premises, he believes Plato is still committed to them. He
+argues that Plato’s ontology commits him to (SP), “both by his Degrees-of-
+Reality Theory and by his Copy-Theory of the relation of things to Forms”
+(“Third Man” 336–7). He also notes various appearances of self-predicative
+statements throughout Platonic dialogues. But he believes Plato never un-
+derstood his own commitments to (SP). Vlastos’ most convincing point
+comes from the Form of Change (“Third Man” 339). How could Change
+itself change? Wouldn’t that disqualify it from being a Form at all? The
+Forms plainly self-predicate, but Plato seems to have missed the upshot of
+self-predication for Change.
+Vlastos also argues that Plato was ignorantly committed to (NI) due
+to his Degrees-of-Reality Theory. The Forms were introduced to explain
+the separation between particular things and universals, but the Degrees-
+of-Reality Theory frustrates the very distinction it was intended to make:
+particulars and universals appear as the same kind, with particulars being
+“deficient” in degree of reality. It was a fundamental point for Plato that
+the Forms are the most real of anything. This tension appears to be a defect
+inherent in the theory of Forms that was unknown to Plato. Since (SP) and
+(NI) were inadvertently implied by Plato’s theory of Forms, Vlastos con-
+cludes that the TMA represents a “record of honest perplexity” on Plato’s
+part (“Third Man” 343).
+However, Sellars and Strang responded to Vlastos’ formulation with
+a streamlined and more powerful formulation of the TMA. Their reform
+occurs in (UP), where they exchange “a single Form” for “at least one Form”
+to account for things being F. Thus:
+(UP*) If multiple things (a, b, and c) are all F, then
+there must be at least one Form, by which
+they exhibit the same quality through partici-
+pation.
+In this case, the infinite regress of the TMA is no longer derived using an
+illegal maneuver (previously done by importing already contradictory prem-
+ises). (UP*), (SP), and (NI) directly allow for a genuine regress (rather than
+the previous contradictory statement F-ness is not F-ness) and reinstate the
+argumentative legitimacy of the TMA.
+In a later article, Vlastos concedes “that this would be an incom-
+parably better argument than the one . . . laid out in [his first article]”
+Plato’s Parmenides 71
+(“Plato’s” 293). Indeed, Sellars and Strang’s interpretation looks very prom-
+ising since the infinite regress is more than a simple “logical bonus.” Ac-
+cordingly, Vlastos modifies his formulation of the TMA to reflect certain
+aspects of Sellars and Strang’s responses, such as conceding that the TMA
+involves an inconsistent triad rather than what he originally thought was
+an inconsistent dyad between (SP) and (NI) (“Plato’s,” fn. 300). However,
+Vlastos counters Sellars and Strang’s version of (UP*) using a persuasive
+textual defense: “our question then is what we are expected to understand
+by ‘one’ in this text” (293). He argues that the Parmenides does not allow
+for “one” to be rendered as “at least one,” even in ambiguous or inclusive
+senses of the phrase. Given this textual constraint, Sellars and Strang have
+interesting solutions to the TMA, but they are not available to Plato.
+However, K. W. Rankin is not convinced by Vlastos’ textual defense,
+and he challenges Vlastos’ defense of (UP) (a single Form) and rejection of
+the substitution for (UP)* (at least one Form). Rankin explains, “Vlastos
+points out that there is no warrant for any such substitution [of “at least
+one”] to be found in any Platonic text. But a modification of the same com-
+plaint might be made about his own formulation of [(UP)]” (379). That is,
+Rankin believes that Vlastos has no more justification in assuming (UP) (a
+single Form) than Sellars and Strang have in assuming (UP*) (at least one
+Form). This is because he believes that Vlastos has divined this assumption
+where it must be explicitly stated in the Parmenides itself. His position is
+something like a loose constructionist’s; when the text gives an argument
+with internal tensions like the TMA, readers are justified in accepting in-
+terpretations such as (UP*) as long as they are not forbidden by the text.
+Thus, “SP and NI require, while the text permits, Vlastos to drop his as-
+sumption that it is the function of just one Form to correspond to a given
+character” (380).
+III. My Rejoinder in favor of Vlastos:
+“One” in the Parmenides, contra Rankin
+In this section, I will argue that Vlastos’ interpretation is preferable
+to any other I have treated in this paper because it maintains the most
+responsible procedures for historical philosophy. In regard to Russell, Wit-
+tgenstein, and Cherniss, I cannot agree to their set-theoretically informed
+solution. However useful it may be to parse “is” into predicate and identity
+to avoid the TMA, it is too difficult historically speaking to attribute it to
+Plato. It is more likely the result of modern set-theory, which clearly lays
+out the differences between identity and predication thanks to logical nota-
+tion. I have heard an interesting comparison in the history of long division.
+72 Michael J. hansen
+Apparently the ancients toiled and repeatedly failed in their attempts to
+formalize the process of long division using their complicated numbering
+systems. However, after the introduction of an alternative notation (Ara-
+bic numerals), long division soon became an elementary school regularity.
+Even if Plato had some grasp of the basic difference employed by these
+philosophers, I find it historically irresponsible to believe Plato had a suf-
+ficiently explicit demarcation to solve his TMA.
+Moreover, ancient considerations also point away from the predication-
+identity solution. It does violence to Plato’s text to read certain passages
+where “is” requires a continuous meaning. Benson Mates has pointed out
+a poignant example in the Symposium (225). Here Plato describes various
+beautiful things. His discussion builds to a climax with Beauty itself, which
+is to be the most beautiful thing one can witness:
+This is what it is to go aright, or be led by another, into
+the mystery of Love: one goes always upwards for the sake
+of this Beauty, starting out from beautiful things and us-
+ing them like rising stairs: from one body to two and
+from two to all beautiful bodies, . . . to beautiful customs,
+. . . to learning, . . . and from these lessons he arrives
+in the end at this lesson, which is learning of this very
+Beauty, so that in the end he comes to know just what it
+is to be beautiful. (211C–D)
+Cases like these dot the dialogues and support Vlastos’ understanding
+of the Degrees-of-Reality Argument, which only bolsters his reading of
+the TMA.
+Furthermore, let us assume that Plato did have a fairly evolved con-
+cept of predication and identity, one sufficient to avoid the TMA but not
+yet approaching the rigor of set-theory. In this case, if Plato did manage to
+account for these difficult passages together with his primitive predicate-
+identity solution, he would remain strangely silent about it in his reactions
+to the TMA in the dialogues. I can’t see anywhere in Plato’s dialogues
+where it might be referenced. Plato conscientiously explores possible es-
+capes from the TMA in the Parmenides, including considering the Forms
+to be “like one and the same day . . . that is in many places at the same time
+and is none the less not separate from itself” (131B), or perhaps “each of
+these forms is a thought” (132B). These routes are far less potent than the
+predication-identity solution. Should we propose that Plato straw-manned
+his own theory? The burden of proof appears to fall on explaining why
+Plato held back his supposed predication-identity solution in favor of these
+weaker attempted solutions. Considering Aristotle’s later persistence in ad-
+vancing the argument, such a conclusion seems historically unlikely.
+Plato’s Parmenides 73
+Vlastos’ treatment also remains superior to that of Sellars and Strang
+on historical grounds, despite Rankin’s response. I find Rankin’s accusa-
+tion that the text admits to (UP*) to be puzzling, especially in light of the
+arguments Vlastos himself offers in favor of his use of ‘oneness’. Consider
+Vlastos’ translation of the relevant passage of the Parmenides (132A1–4,
+emphasis added):
+This, I take it, is what leads you to hold that each Form
+is one:
+Whenever you think that a number of things are large,
+you perhaps think there exists a certain one Form the
+same in your view of all of them;
+Hence you believe that Largeness is one. (290)
+Vlastos points out that the TMA uses the same word in its final sentence:
+And so each Form will no longer be one Form for you,
+but infinitely many.
+Whichever translation we prefer, it must consistently replace “one” in each
+of these instances. Thus, if we take Sellars and Strang’s version of (UP*)
+seriously, we must also agree that there exists some sort of logical trouble in
+Parmenides’ conclusion: “each Form will no longer be at least one for you,
+but infinitely many.” But what distress would there be in that conclusion?
+There is nothing disconcerting or contradictory about “at least one” in
+competition with “infinitely many.” Surely, this would be to misunderstand
+the TMA. It appears that even if we grant Sellars and Strang their proposed
+translation, the TMA would produce a rather anticlimactic conclusion.6
+Due to these textual facts, I prefer Vlastos’ treatment of the TMA
+over that of Sellars, Strang, and Rankin. As long as we are engaged in
+historical philosophy, it is only prudent to demand historically plausible ex-
+planations. If we admit to non-historical explorations of the theory, such as
+predication and identity or (UP*), we have abandoned the original project.
+Worse, we must propose that the Parmenides either straw-mans the theory
+of Forms or reaches a harmless conclusion. As historical problems go, the
+TMA calls for additional caution because it asks the reader to identify as-
+sumptions to generate its conclusion, which affords all sorts of opportunity
+to unnecessarily depart from the real problem. If we are to solve the general
+problem of third-men, we ought to consult reason itself without reference
+texts whatsoever.
+6 Vlastos’ interpretation of one also benefits from passages beyond the Parmenides. See R. 276A,
+507B, and 596A. See also Parm. 131A8–9, 132B5, and 132C3–4.
+74 Michael J. hansen
+I prefer to think of the TMA as a great moment of humility from
+one of history’s greatest philosophers. Instead of a mysterious dialogue that
+holds secrets to Plato’s genius, it is more likely a mysterious dialogue that ex-
+presses his willingness to admit to his limits. Such commitments to truth
+and exploration have been shared by great philosophers throughout the
+great conversation. When Russell pointed out the flaw in Frege’s rule V,
+Frege responded as gracefully as Plato’s self-criticism from the Parmenides.
+When Russell reflected on Frege’s response to his critique, he has this
+to say:
+As I think about acts of integrity and grace, I realise
+that there is nothing in my knowledge to compare with
+Frege’s dedication to truth. His entire life’s work was on
+the verge of completion, much of his work had been ig-
+nored to the benefit of men infinitely less capable, his
+second volume was about to be published, and upon
+finding that his fundamental assumption was in error, he
+responded with intellectual pleasure clearly submerging
+any feelings of personal disappointment. It was almost
+superhuman and a telling indication of that of which
+men are capable if their dedication is to creative work
+and knowledge instead of cruder efforts to dominate and
+be known. (Heijenoort 127)
+Similarly, Plato managed to object to his own central theory of Forms
+using the most potent methods available in his day. Though he failed to
+see his own commitments, I suspect he sensed a problem and graciously
+explored it in the Parmenides at his own expense.
+In conclusion, I have shown how Parmenides’ TMA relies on (UP),
+(SP), and (NI) to attack Plato’s theory of Forms. I have then summarized
+various treatments of the TMA, including predication and identity, Vlas-
+tos’ position that (SP) and (NI) immediately contradict each other due to
+Plato’s inadvertent ontology, Sellars and Strang’s modification of (UP*)
+to revive the TMA, Vlastos’ textual refutation of that modification, and
+Rankin’s rejoinder. I have concluded that Vlastos’ interpretation is supe-
+rior to all others presented here because it remains the most historically
+responsible and appropriately pays the honor of humility to Plato.
+Works Cited
+Cooper, J.M. Introduction. “Parmenides.” Plato: Complete Works. Trans.
+Mary Louise Gill, and Paul Ryan. Indianapolis: Hackett, 1997.
+Heijenoort, Jean van. From Frege to Gödel: A Source Book in Mathematical
+Logic: 1879-1931. Cambridge, MA: Harvard UP, 1967.
+Mates, Benson. “Identity and Predication in Plato.” Phronesis: A Journal of
+Ancient Philosophy 24 (1979): 211-29.
+Plato. Plato: Complete Works. Ed. J. M. Cooper, and D. S. Hutchinson.
+Indianapolis: Hackett, 1997.
+Rankin, K. W. “Is the Third Man Argument an Inconsistent Triad?”
+Philosophical Quarterly 20 (October, 1970): 378–80.
+Russell, Bertrand. “The World of Universals.” Problems of Philosophy.
+Oxford University Press, 1967. 90–99.
+Vlastos, Gregory. “Plato’s Third Man Argument (Parm. 132a1–B2): Text
+and Logic.” The Philosophical Quarterly 19.77 (1969): 289–301.
+———. “The Third Man Argument in the Parmenides.” Philosophical Review
+63 (1954): 319–49.
+Works Consulted
+Allen, R. E. “Participation and Predication in Plato’s Middle Dialogues”
+Plato: A Collection of Critical Essays. Ed. Gregory Vlastos. New York:
+Double Day, 1970. 167–83.
+Cresswell, M. J. “Participation in Plato’s Parmenides.” Southern Journal of
+Philosophy 13 (Summer, 1975): 163–71.
+Politis, Vasilis. “Anti-Realist Interpretations of Plato: Paul Natorp.”
+International Journal of Philosophical Studies 9.1 (2001): 47–61.
+Strang, Colin. “Plato and the Third Man.” Plato: A Collection of Critical
+Essays. Ed. Gregory Vlastos. New York: Double Day, 1970. 184–200.
+Teloh, Henry. “Parmenides and Plato’s Parmenides 131a–132c.” Journal of
+the History of Philosophy 14 (April, 1976): 125–30.

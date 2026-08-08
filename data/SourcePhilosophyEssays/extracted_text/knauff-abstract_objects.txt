@@ -1,0 +1,349 @@
+Aporia vol. 17 no. 2—2007
+Abstract Objects and the Doctrine
+of Arbitrary Undetached Parts
+Matthew Knauff
+I n “The Doctrine of Arbitrary Undetached Parts,” Peter van Inwagen con-
+tends that the doctrine of arbitrary undetached parts (henceforward
+referred to as DAUP) is false. I will present van Inwagen’s argument for the fal-
+sity of DAUP. I will then argue that without qualification the term “Descartes”
+allows two interpretations: it can mean either “Descartes the man” (an ab-
+stract object) or “the body of Descartes” (a material object), the latter of
+which is itself ambiguous. Although van Inwagen claims to use the notion
+of object in only the material sense, I will show that, in formulating his iden-
+tities, van Inwagen also uses the term “Descartes” in its abstract sense. That
+is, he uses the term “Descartes” in each of its separate senses. I will then
+show that disambiguating the term “Descartes,” no matter how it is done,1
+resolves the apparent violation of the transitivity of identity.
+Van Inwagen states that adherents of DAUP “believe in such objects
+as the northern half of the Eiffel Tower” and “the middle two-thirds of the
+cigar Uncle Henry is smoking”; furthermore, they believe in all such unde-
+tached parts (123). Van Inwagen offers a statement of DAUP:
+For every material object M, if R is the region of space
+occupied by M at time t¸ and if sub-R is any occupiable
+sub-region of R whatever, there exists a material object
+that occupies the region sub-R at t. (123)
+Roughly put, this is the thesis that each part of a material object is itself
+also a material object. But one must be careful to note that van Inwagen’s
+1Disambiguation can be done either by using “Descartes” only in the abstract sense, using it
+only in the material sense, or using it in one sense in some places and in the other sense in
+other places.
+Matthew Knauff is a senior majoring in philosophy at Princeton University. He will
+graduate in June 2008.
+12 Matthew Knauff
+statement of this thesis is meant only to capture the “generality of the doc-
+trine,” and is by his own admission “imperfect in some respects” (123). For
+example, it does not accommodate philosophers who, while subscribing to
+a version of DAUP, do not “admit regions of space into their ontologies.”
+But I agree with van Inwagen that “these defects are irrelevant to the points
+that will be raised,” and for the purposes of this paper I will be content to
+accept this imperfect definition. Thus, in the pages to come, I will be argu-
+ing against van Inwagen’s rejection of an imperfectly rendered DAUP.
+Besides some intervening comments (to which I will return shortly),
+van Inwagen next shows that DAUP entails mereological near-essentialism
+(MNE), the thesis that “if a part is removed from an object, and no new
+part is added to the ‘remainder,’ then that object must therewith cease to
+exist” (124). His argument is a good one; it seems both intuitively and logi-
+cally correct, and I accept it. And if an adherent of DAUP accepts MNE,
+then van Inwagen finds himself in an ostensibly powerful position: if he
+can show that there is some object which is capable of surviving the loss of
+a part, he will have shown that MNE is false. And because DAUP entails
+MNE, he will have shown that DAUP is also false.
+Van Inwagen then claims that there is indeed such an object: “We
+ourselves, we men and women, are such objects” (125). If one accepts this
+claim, then by the above entailment he or she must also accept that DAUP
+is false. However, rather than convincing us that human beings are such
+objects (and thereby assuring the falsity of DAUP by virtue of the law of the
+contrapositive), van Inwagen opts for a reductio ad absurdum: he wishes to
+examine an episode of a human being losing a part on the assumption that
+DAUP is true. This examination “shall reach an absurd result—that iden-
+tity is not transitive—and we shall therefore have to conclude that DAUP
+is false” (125).
+The episode is as follows: consider Descartes and Descartes’ left leg.
+Consider two times, t and t, the former earlier than the latter. Let us call
+0
+“L” the thing that was Descartes’ leg at time t. According to DAUP, at time
+0
+t there also exists a thing that occupies the region of space which is the set-
+0
+theoretic difference between the space occupied by Descartes and the space
+occupied by L; call this thing “D-minus.” Suppose that at time t D-minus and
+L become separated from one another and that L is annihilated.
+From this episode, van Inwagen constructs the following identities:
+(1) The thing that was D-minus before t = the thing
+that was D-minus after t.
+(2) The thing that was D-minus after t = the thing
+that was Descartes after t.
+abstract Objects 13
+(3) The thing that was Descartes after t = the thing
+that was Descartes before t.
+(4) The thing that was D-minus before t ≠ the thing
+that was Descartes before t.
+Or, to make clear van Inwagen’s supposed violation of the transitivity
+of identity:
+D-minus before t = D-minus after t.
+≠ =
+Descartes before t = Descartes after t.
+I admit that at first glance these identities seem valid, and I grant that
+if each of these identities were valid, the above would constitute a violation
+of the transitivity of identity. Certainly, (1) appears to be true: it does seem
+correct to say that an object still exists after a different object that was not a
+part of it but simply a part of its environment (in this case, L) ceases to exist.
+(2) and (3) also appear to be true—in van Inwagen’s words, “One can, after
+all, survive the loss of a leg”—as does (4): “Descartes and D-minus were not
+the same thing (at t ), since, at t , they were differently shaped” (126).
+0 0
+Let me now return to the “intervening comments” van Inwagen
+makes. Van Inwagen claims that what he wants to say about DAUP “in-
+volves only two components of that doctrine” (123). My concern is with
+the second of these—“the concreteness and materiality” of the parts. Van
+Inwagen states that some philosophers might say that arbitrary undetached
+parts exist, but that these philosophers will identify such items with an
+abstract object rather than with a material object. Van Inwagen then states
+that his paper is “not addressed to that philosopher’s doctrine” (124). He
+claims that abstract objects are not his business.
+But on closer examination we see that van Inwagen does make ab-
+stract objects his business. He makes both material objects and abstract
+objects his business, yet in each of the identities, he does not make it clear
+which type of object he is using. It is van Inwagen’s failure to clarify his
+terms which allows the identities to appear valid, when in fact they are
+but cleverly misleading.
+Let me make this point a little clearer by asking the following ques-
+tion: What does van Inwagen mean when he says “the thing” that was
+D-minus, or “the thing” that was Descartes? In the first case, the natural
+inclination is to say “the region of space” or “the part of Descartes’ body”
+which is designated by D-minus. On the other hand, for “the thing that
+was Descartes,” the inclination can go two different ways. In one sense, we
+14 Matthew Knauff
+can understand van Inwagen to be referring to something like “Descartes
+the man” (or possibly “the concept of Descartes”). But we can also un-
+derstand van Inwagen to mean “the material which comprises Descartes’
+body” when he uses the term “Descartes.”2 I believe that these two different
+inclinations are inclinations toward two different types of objects: things
+like D-minus or “the material which comprises Descartes body” are best de-
+scribed as material objects, whereas “Descartes the man” is best described as
+an abstract object. In formulating his identities, van Inwagen relies on each
+of the different inclinations regarding the interpretation of “Descartes,”
+but fails to distinguish between them: he uses the same term to designate
+different objects.
+I will begin my argument by showing the following: (1) in different
+identities van Inwagen indeed uses the term “Descartes” in one of two dif-
+ferent and nonidentical senses, yet does not clearly state which sense he
+intends; and (2) the violation of the transitivity of identity disappears if we
+disambiguate van Inwagen’s terms.3 Along the way I will also explain roughly
+what I mean when I use the terms “abstract object” and “material object.”
+Beginning with the disambiguation of the first identity:
+(1) The thing that was D-minus before t = the thing
+that was D-minus after t.
+(1) The material object that was D-minus before t =
+1
+the material object that was D-minus after t.
+I accept (1) because I accept van Inwagen’s explanation for not distin-
+guishing between these two objects on the basis that the former is attached
+to L while the latter is not. Nevertheless, because we are attempting to
+clarify van Inwagen’s use of terms, (1) should be rewritten as (1).
+1
+Then:
+(2) The thing that was D-minus after t = the thing
+that was Descartes after t.
+2More precisely, we would probably understand him to mean “all of the material which comprises
+Descartes’ body,” although it would be acceptable to select only some of this material. This is
+what I mean when I say that the term “Descartes,” taken in its material sense, is itself ambiguous.
+I return to this later.
+3In the pages to come, when I disambiguate these terms I am making clear which sense of this
+term I believe van Inwagen intends. At the end of the paper I will show that no matter which
+sense he intends, as long as disambiguation occurs there is never a violation of the transitivity
+of identity.
+abstract Objects 15
+(2) The material object that was D-minus after t =
+1
+the abstract object Descartes after t.
+With the more precise formulation (2), we begin to see why van
+1
+Inwagen’s identities are misleading. I believe there are two ways to interpret
+(2). The first: because the right argument is an abstract object and the left
+1
+argument is a material object, (2) is incoherent. Just as a mathematician
+1
+might say that an equation between a vector (one-dimensional matrix) and
+an integer, say, “[5] = 5” is not true, nor false, but incoherent, so we might
+say the same for (2); generally speaking, the identity relation cannot take
+1
+disparate arguments. The second interpretation: “[5] = 5” is a meaningful
+but false statement, and so is (2). Because D-minus is a material object,
+1
+and because “Descartes” is an abstract object, the arguments differ in their
+properties; that is, they are not identical things. On the first interpretation,
+we must discard the identity; it is senseless. On the second interpretation, (2)
+1
+is false, and therefore (2) should instead be rewritten as
+(2 ) The material object that was D-minus after t ≠
+2
+the abstract object “Descartes” after t.
+The above is a nonidentity. But because (2) as given by van Inwagen is not
+a nonidentity but an identity, it must have been the case that van Inwagen
+used “Descartes” in a material sense and really meant the following:
+(2 ) The material object that was D-minus after t =
+3
+the material object “Descartes” after t.4
+Continuing with the third statement:
+(3) The thing that was Descartes after t = the thing
+that was Descartes before t.
+(3) The abstract object that was Descartes after t =
+1
+the abstract object that was Descartes before t.
+I believe van Inwagen is right when he claims that human beings are
+things which can survive the loss of a part, but I do not think he explores
+this idea carefully enough. I think if van Inwagen wishes to make such a
+4Because (2) is an identity, I suppose it is also possible that van Inwagen meant: “(2) The abstract
+4
+object that was D-minus after t = the abstract object Descartes after t.” I will not discuss this pos-
+sibility here but simply state that a) I do not believe van Inwagen really did mean this, and b) if he
+did, it would not rebut my argument.
+16 Matthew Knauff
+claim, he must write (3) as (3). That is, when van Inwagen claims that hu-
+1
+man beings are objects which can survive the loss of a part, he necessarily
+invokes the notion of an abstract object.
+Let me clarify. When we say “Descartes is able to survive the loss
+of his left leg,” what we mean is that at two different times there are two
+different material objects, (D-minus + L) and D-minus, both of which
+satisfy5 the same predicate “Descartes : ___ is Descartes.” This predicate
+1
+is roughly what I am referring to when I say, “Descartes the man” or,
+“Descartes the abstract object.”6
+It is here that van Inwagen becomes inconsistent in his use of the
+term “Descartes.” In order for (3) to be an identity, van Inwagen must have
+been using the term “Descartes” in its abstract sense, even though in (2) it
+was shown that he must have used this term in its material sense.
+Consider the following statements:
+(a) “Descartes : ___ is Descartes” is an abstract ob-
+1
+ject which always equals itself.7
+(b) Descartes (D-minus + L) evaluates to true;
+1
+Descartes (D-minus) evaluates to true.
+1
+(c) (D-minus + L) ≠ D-minus.
+Van Inwagen’s (3) essentially states that the thing “Descartes the man”
+is the same thing before and after the loss of a leg, despite the fact that a
+body with a leg and a body without a leg are different material objects. That
+is, in using (3) as I believe he intends to, van Inwagen tacitly accepts (a)–(c);8
+thus in (3) van Inwagen is using “Descartes” in its abstract sense. He could
+not have used “Descartes” in a material sense; otherwise (3) would have
+been a nonidentity—it would have appeared as something essentially like
+(c). Again, van Inwagen has here used the term “Descartes” in an abstract
+sense, even though it was shown that in (2) he must have used this same
+term in a material sense. Then there is van Inwagen’s fourth identity:
+5A material object x satisfies a predicate P1 if P1x evaluates to true.
+6I say “roughly” only because in this paper I will not address the questions, what constitutes this
+predicate? how do we go about determining whether a material object satisfies this predicate? how
+exactly do an abstract object and a material object “interact”? etc.
+7This should not be all that hard to swallow. After all, the moment after Descartes died, it is not
+the case that Meditations ceased to have an author.
+8Though to be precise, it is not because of the way van Inwagen uses (3) that he accepts (c). Never-
+theless, (c) is unassailable, and we can be certain that he does in fact accept it.
+abstract Objects 17
+(4) The thing that was D-minus before t ≠ the thing
+that was Descartes before t.
+How do we decipher which sense of “Descartes” is being used in this iden-
+tity? Van Inwagen tells us: he claims that the arguments are not identical
+because they are differently shaped. That is, van Inwagen must be interpret-
+ing the rightmost argument of (4) to mean a material object because abstract
+objects do not have shapes. So I think van Inwagen really means:
+(4) The material object that was D-minus before t ≠
+1
+the material object that was Descartes before t.
+But what does van Inwagen intend to designate by the right
+argument?9 The answer: without a specific spatial designation, the material
+sense of “Descartes” can designate a number of different objects—it is im-
+precise, unclear, and ambiguous. And within van Inwagen’s argument, it
+must be the case that the right argument can select any of a number of dif-
+ferent material objects, for two reasons:
+1) Above it was shown that van Inwagen tacitly accepts statements (a)–
+(c) in formulating (3). And if (b) is true, then before t there is not one but
+many objects which satisfy the predicate “Descartes : ___ is Descartes.”
+1
+2) More crucially: because DAUP was assumed to be true, we are permit-
+ted to say that many such objects—Descartes’ body without a left kidney,
+Descartes’ body without a right toe, Descartes’ body minus a single strand
+of hair—exist and that each is Descartes.10 Van Inwagen admits as much in
+his paper: “The adherent of DAUP is going to have a certain amount of
+trouble with Descartes’ left leg: there are, according to DAUP, an enormous
+number of objects that are equally good candidates for the office of ‘Des-
+cartes’ left leg’”(125). However, van Inwagen fails to adequately appreciate
+a very basic idea: because his argument is a reductio ad absurdum, within the
+argument he must behave like an adherent of DAUP. He does not.
+Finally, since in its material sense the term “Descartes” can mean a
+number of different things, unless we precisely specify this term we can-
+not determine whether or not an identity relation holds between this term
+anda different term. Using van Inwagen’s terms, (4) should therefore be:
+1
+9I suspect he means (D-minus +L), otherwise known as the whole of Descartes’ body before t. This
+meaning is indeed what one would first be inclined to say, but that does not make it the only cor-
+rect thing to say: it is simply by default that in selecting a region of space which satisfies a predicate
+at a time t one usually designates the largest region of space which satisfies that predicate at time t.
+10It is the word “is” which got us into trouble in the first place because this word suggests iden-
+tity. What I really mean is that each of these many objects satisfies the predicate “Descartes:
+1
+___ is Descartes.”
+18 Matthew Knauff
+(4) The material object that was D-minus before t (?)
+1
+the material object that was Descartes before t.
+Thus, after figuring out what van Inwagen really means by (1)–(4) and
+clarifying these statements, we are left with (1), (2 ), (3), and (4):
+1 2 1 1
+(1) the material object that was D-minus before t =
+1
+the material object that was D-minus after t.
+(2 ) The material object that was D-minus after t ≠
+2
+the abstract object “Descartes” after t.
+(3) The abstract object that was Descartes after t =
+1
+the abstract object that was Descartes before t.
+(4) The material object that was D-minus before t (?)
+1
+the material object that was Descartes before t.
+which do not constitute a violation of the transitivity of identity, no matter
+how or if the ambiguous right argument from (4) is specified.
+1
+Indeed, so long as one
+i) accepts the existence of both abstract and mate-
+rial objects,11
+and therefore
+ii) either chooses to discard because the identities in
+which the arguments are two different types of objects
+or claims the relation between disparate arguments is
+coherent but that the identity will be false,
+one will never be able to formulate a set of identities which constitutes a
+violation of the transitivity of identity. Therefore, no matter how we dis-
+ambiguate van Inwagen’s identities (1)–(4), only so long as we do—and we
+must, because it was shown that van Inwagen in fact uses the same term in
+two different senses, i.e., commits to i)—it will always be the case that the
+identities are consistent with the transitivity of identity. Therefore we do
+11I will not explore the possibility here, but I think on my account DAUP entails the existence of
+abstract objects (see footnote 12).
+abstract Objects 19
+not reach an absurd result, and we should not, on the basis of his argument
+alone, reject the assumption that DAUP is true.12
+12I leave it to the reader to verify that this is true for all the possible disambiguations. E.g., if we
+consistently use “Descartes” in the abstract sense, we get the following, which is consistent with
+the transitivity of identity:
+D-minus (material) before t = D-minus (material) after t.
+≠ ≠
+Descartes (abstract) before t = Descartes (abstract) after t.
+Or, always using “Descartes” in its default material sense:
+(all of) Descartes (material) before t = D-minus + L.
+(all of) Descartes (material) after t = D-minus.
+D-minus (material) before t = D-minus (material) after t.
+≠ =
+D-minus + L (material) before t ≠ D-minus (material) after t.
+Or one of the possible combinations:
+(all of) Descartes (material) after t = D-minus.
+D-minus (material) before t = D-minus (material) after t.
+≠ =
+Descartes (abstract) before t ≠ D-minus (material) after t.
+Works Cited
+van Inwagen, Peter. “The Doctrine of Arbitrary Undetached Parts.” Pacific
+Philosophical Quarterly 62.2 (1981): 123–37.

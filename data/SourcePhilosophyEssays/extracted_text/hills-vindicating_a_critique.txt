@@ -1,0 +1,345 @@
+Aporia vol. 17 no. 2—2007
+Vindicating a Critique
+Jason a. Hills
+I n “Reference and Definite Descriptions,” Keith Donnellan distinguishes
+between attributive and referential uses of definite descriptions. He uses
+this distinction to show that Bertrand Russell’s theory of definite descrip-
+tions fails to account for the referential use. Saul Kripke, in “Speaker’s
+Reference and Semantic Reference,” claims that to successfully provide
+a counterexample to Russell’s theory, Donnellan’s distinction should be
+semantic rather than pragmatic. Kripke then argues that Donnellan’s refer-
+ential use is actually pragmatic—not sematic—and therefore does not refute
+Russell’s theory.
+A significant part of this debate concerns truth-values. Kripke argues
+that Donnellan’s assignment of truth-value to sentences such as “Her hus-
+band is kind to her,” where “her husband” is used referentially, does not
+differ from the assignment given by Russell’s theory. I will consider this
+claim; using the concept of analysis I will argue that the two theories do of-
+fer different accounts of truth-value. I will also argue that even a pragmatic
+ambiguity, as given by Donnellan, is sufficient to prove that Russell does
+not offer a complete account of reference.
+Russell’s Theory, In Brief
+Without going into detail nor considering his argumentation in fa-
+vor of it, I will briefly outline Russell’s theory. In his essay “On Denoting,”
+Russell presents a method of translating English sentences into a format
+where the logical proposition contained in a sentence is not hidden by the
+grammar of normal English sentences (213–14). The grammatical similar-
+ity of “Elizabeth is old” and “the Queen of England is old” suggests that
+Jason A. Hills is a senior studying philosophy at Brigham Young University. His
+interests include philosophy of language, logic, and philosophy of mathematics.
+2 Jason a. Hills
+the denoting phrase “the Queen of England” fills the same role in the sec-
+ond sentence as “Elizabeth” does in the first. In the proposition expressed,
+“Elizabeth” represents a person, so it might be assumed that “the Queen
+of England” does as well. Actually, the propositions expressed by these two
+sentences differ greatly. The proposition for the first one has the subject
+“Elizabeth” and the predicate “is old.” On the other hand, the short ver-
+sion of Russell’s rendering of the second sentence is “x rules England and x
+is female and x is human and x is old, and ‘if y rules England and y is female
+and y is old then y is x’ is always true (of y) is sometimes true (of x).”1
+Russell is particularly concerned with problems of nonexistence in
+connection with denoting terms (215). His rendering of sentences such as
+“The present King of France is old,” shows that these sentences are false,
+as they fail on the first half of the proposition “there is one and only one
+King of France” (218). The conjunction of this false statement with the oth-
+er half of the proposition, whether true or false, still yields a false statement.
+Donnellan’s Claim
+Donnellan distinguishes between two uses of definite descriptions:
+the attributive use and the referential use (249). Among other things, he
+claims that Russell’s theory, at best, only gives an account of the attribu-
+tive use—it does not account for the referential use of definite descriptions.
+Distinguishing between denoting and referring, he also argues that while
+Russell might give a correct account of denotation, he fails to do so for
+reference (253).
+Let us look at Donnellan’s distinction between attributive and referen-
+tial uses. The attributive use is employed by a speaker in a more general way
+to talk about whoever or whatever fits the description. Consider the follow-
+ing example: At a party he is hosting, the chairman of the local Teetotalers
+Union is informed that someone is drinking a martini. He asks his informer,
+“Who is the man drinking a martini?” The chairman does not have a par-
+ticular individual in mind when he asks this, but rather is concerned with
+identifying whoever fits the description (250).
+The referential use, however, is used by a speaker as a device to pick
+out a particular object. Consider another party. An interesting-looking man
+is holding a martini glass. A woman sees him and asks her friend, “Who is
+the man drinking a martini?” She is not interested in whether or not this
+1For the sake of convenience, I will hereafter use shorter versions of the Russellian translations. For
+example, the above translation becomes “there is one and only one Queen of England, and that
+one is old.” Shortened versions should be treated as placeholders for the actual Russell translations
+and not be mistaken for them.
+Vindicating a critique 3
+particular man is drinking a martini; rather, her interest is in pointing
+out a particular man—“the man drinking a martini” is simply a tool for do-
+ing so. Note that it is not even essential that the man fit the description; the
+reference can still work if, say, the man in question were actually drinking
+water from his martini glass.
+Although Russell’s theory might account for attributive uses of a sen-
+tence, it fails to do so for referential uses. For Russell, a statement of the
+form “The f is y” (or, for that matter, any statement about “the f”) logically
+entails that there is one and only one f. This does not work for referential
+uses, as they clearly refer to objects, even when no object uniquely satisfies
+the description.
+Donnellan therefore suggests that we make a distinction between
+denotation and reference. He suggests that we use Russell’s definition
+of denoting (“a definite description denotes an entity if that entity fits the
+description uniquely”), but that we also allow for reference to take place
+separate from denotation (253). Let us adapt one of Donnellan’s examples
+to illustrate this. Suppose I were to say in 2007, “The winner of the 2008
+Presidential Election will be from a minority group.” It seems that my words
+denote something, because there really is one and only one object which
+will satisfy “the winner of the 2008 Presidential Election.” Suppose that
+Barack Obama were to win the election; could we really say that I referred
+to him with my sentence? Now let us suppose that Mitt Romney were to
+win; could we say that I referred to him? No matter who happens to win the
+election, I did not know who it would be at the time that I made my state-
+ment, so I could not have referred to either of them—that is, I could not
+have been using “the winner of the 2008 Presidential Election” as a tool
+to point out a particular person. It seems preferable to make a distinction
+between denoting and referring.
+Kripke’s Rebuttal
+In his paper “Speaker’s Reference and Semantic Reference,” Saul
+Kripke claims that Donnellan’s views do not adequately argue against
+Russell’s theory (263). He argues for this claim in at least two ways: (1) the
+examination of truth-value and (2) the distinction between semantics and
+pragmatics. First, he looks at truth-value in cases of intensional context
+(254). For example, if a person sees a man being kind to a woman and
+remarks that “her husband is kind to her” while the man is in fact not
+her husband, and especially if her actual husband were cruel or if she
+had none, it is presumed that Donnellan and Russell would give different
+accounts of truth-value. Under Russell’s view, it seems we would have to
+4 Jason a. Hills
+say that the sentence is false. Under Donnellan’s, we would say that since
+the speaker was using the term “her husband” referentially, he made a true
+statement about the man he saw. But Kripke notes that Donnellan is hesi-
+tant to say very clearly that this man’s statement “her husband is kind to
+her” is true—and this becomes even more difficult to sustain in intensional
+contexts (253–54).
+Suppose that John was the speaker who said, “Her husband is kind
+to her,” mistakenly using “her husband” to describe this other man. Would
+we want to report this occasion by saying, “John said that her husband is
+kind to her”? Suppose that this other man were her lover; would we want to
+report it by saying, “John said that her lover is kind to her”? It is difficult
+to decide what the original statement was so that we can report it properly.
+It is equally difficult to decide if the original statement is true or false.
+Without being able to say that the statement is true or false, we can ob-
+serve no difference in the truth-values of the views of Russell and Donnellan
+(except perhaps that Donnellan fails to give one in these cases); and if we
+observe no difference in truth-values, then Donnellan has not produced a
+counterexample to Russell’s theory.
+Kripke’s second point—and to be fair, the focus of his paper—is a dis-
+tinction between speaker’s reference and semantic reference (254). He claims
+that Donnellan’s referential use is a pragmatic—rather than semantic—notion,
+and that when something is referred to other than the object satisfying the
+conditions of the denoting phrase, we can accurately speak of two references:
+the speaker’s intended reference, and the semantic reference given by the de-
+noting phrase (255). As I intend to grant Kripke this point, but to show that
+this can be taken to correspond with Donnellan’s reference and denotation,
+I shall not here give Kripke’s argumentation.
+Kripke then shows that if a Russellian language were a natural lan-
+guage, it would be possible for speakers to use it pragmatically, just as we
+use English (257–58). Suppose, for example, that the woman at the party
+had said to her friend, “The man drinking a martini is tall.” If she were
+a Russellian speaker, she might say, every bit as naturally as we speak nor-
+mal English, “There is one and only one person at this party drinking a
+martini, and that one is tall.” Even though the semantics of that language
+would point at someone other than the speaker’s intended reference or at
+no one at all, she would still be successful in pragmatically referring to her
+intended target as she communicates with her friend. Russell’s theory, then,
+deals with this situation as well as Donnellan’s view, and given two theories
+that explain phenomena equally well, we should choose the one which
+does not posit an ambiguity (Kripke 259).
+Vindicating a critique 5
+A Note on the Scope of Theories
+In order to make his argument that Donnellan does not contradict
+Russell, Kripke finds it necessary to make several assumptions regarding the
+scope of the theories in question. For example, he regards Russell’s theory
+as a theory about English (semantics), and he considers Donnellan’s distinc-
+tion between referential and attributive uses as being semantic in nature
+when used by Donnellan, hoping to contradict Russell (254, 257). He ad-
+mits, however, that there may be other possible interpretations of the scope
+of these terms in Donnellan’s view, saying, “I therefore am not sure whether
+I am expressing disagreement with him even here” (249).
+We might, for example, consider Russell’s theory as a theory of refer-
+ence. It looks like Russell was trying to give a theory of reference—at the
+very least, people have thought that he was doing so. If this is the case, then
+Donnellan does succeed in contradicting Russell’s theory, and Kripke’s
+noting that the referential use is a pragmatic notion is irrelevant because
+even though speaker’s reference is different from semantic reference, it is
+still reference. Russell’s theory fails to give an account of speaker’s reference
+and how it works. This could be what Donnellan means when he consid-
+ers how Russell’s theory might account for the attributive use but certainly
+fails to do so for the referential. Also, Donnellan certainly seems to distin-
+guish between referring and denoting in much the same way that Kripke
+distinguishes between speaker’s reference and semantic reference. Donnellan
+accepts Russell’s semantic definition of denotation, and he proposes an
+idea of reference that would allow for pragmatic considerations. At the very
+least, each of Donnellan’s terms seems to be coextensive with the Kripkean
+term I propose to be its counterpart.
+I agree with Kripke here—and I presume Donnellan could as well—
+that if we regard Russell’s theory as a theory of English semantics, then
+Donnellan’s view offers no counterexample. So, perhaps we should clar-
+ify Donnellan’s conclusion and say instead that although Russell’s theory
+might give a correct account of semantic reference (what Donnellan calls
+“denoting”), it fails to account for pragmatic reference and therefore is not
+a complete theory of reference.
+Truth-value
+One of the interesting claims made by Kripke which does not depend
+upon our regarding Russell’s theory as a theory of English is the assignment
+of truth-value to a proposition. This is where Kripke proposes we disregard
+Donnellan’s disclaimer that referential and attributive uses should not be
+6 Jason a. Hills
+seen to posit a semantic ambiguity but instead a pragmatic one. Kripke
+claims that this does not represent how Donnellan actually treats these
+terms throughout the bulk of his paper (254). I will quote Kripke here
+and produce a counterexample. Speaking of Donnellan’s disclaimer and
+his conclusion that Russell deals with attributive but not referential cases,
+Kripke says:
+It is not “uses,” in some pragmatic sense, but senses of
+a sentence which can be analyzed. If the sentence is not
+(syntactically or) semantically ambiguous, it has only one
+analysis; to say that it has two distinct analyses is to attri-
+bute a syntactic or semantic ambiguity to it. (254)
+This is simply not the case. There are a multitude of examples from prag-
+matics in which more than one analysis is possible. Take, for example, the
+question “Do you know the time?” Let us assume that we have eliminated
+all possible semantic and syntactic ambiguities from this question. Is there
+only one analysis possible? No, I can understand this question in multiple
+ways. Certainly someone unfamiliar with our cultural usage of this ques-
+tion could give a different analysis of the question asked and respond with
+“yes” instead of giving the time (“5:45pm”) or at the very least be puzzled
+about the correct response to give.
+Kripke might reply that I am not using the term “analysis” properly,
+to which I would ask how I should use it. Presumably, he would want me to
+say that it applies to what the words mean, rather than to what the speaker
+intends. This is a nice interpretation; it assumes everything Kripke argues
+in the above quotation, making it tautologically true. The only problem is
+that it seems to be an unnecessarily limited application of the term “analy-
+sis.” I suggest that every possible proposition that a string of words can be
+utilized to communicate represents a possible analysis. Some of these dif-
+ferent propositions are based on syntactic ambiguities, some on semantics,
+and some are even differences due to pragmatics, but each proposition is a
+possible analysis of the sentence.1
+It seems, then, that we can take Donnellan’s disclaimer at face value
+and presume that he really is positing a pragmatic ambiguity rather than
+a semantic one. In this case, Donnellan’s view gives a different account of
+truth-value than Russell’s does. Let us look at the party example again. The
+woman is speaking with her friend about the tall man she sees holding a
+martini glass. Let us suppose, however, that there is only water in his glass
+1If it were still insisted I not use “analysis” in the way I am using it here, I would ask for another
+term to answer to the “possible propositions” described above. In this paper, I will continue using
+“analysis” as I have defined it.
+Vindicating a critique 7
+and that there is, unbeknownst to the woman, a short man at the other end
+of the room who is actually drinking a martini. When the woman says,
+“The man drinking the martini is tall,” she is saying something true of the
+man she intended to refer to—that is, if we analyze the statement to mean
+something like “That man is tall,” then she said something true. Of course,
+while it seems clear that the woman is referring to the man she was look-
+ing at, we must say that the semantic reference (denotation) of “the man
+drinking a martini” points elsewhere, to the short man at the other end of
+the room. Russell’s semantic account of reference would conclude that the
+woman’s statement is false, as that man is certainly not tall.
+Some of Kripke’s argumentation remains to be dealt with. He notes
+that Donnellan is rightly reluctant in saying of these sorts of statements that
+the statement is true or false. While Donnellan might say that the woman
+said something true of that man, he would not say that it is true that “The
+man drinking a martini is tall.” But this is not as damaging to Donnellan as
+it might seem. Indeed, this type of problem (being unable to assign a truth-
+value directly to an unanalyzed statement) seems true of many ambiguities.
+The statement “I have never touched a mouse” is semantically ambiguous—
+or to eliminate any difficulties possibly resulting from using the indexical
+“I,” let us say, “Abraham Lincoln never touched a mouse.” I presume that
+the sixteenth President of the United States of America had occasion to
+touch one of those rodents; but I do not believe he ever saw a computer,
+nor any input device for one. Here is a semantic ambiguity; and, strictly
+speaking, it does not seem we can say that the statement “Abraham Lincoln
+never touched a mouse” is either true or false, as it is not perfectly clear
+which type of mouse we are talking about. Though once we have made our
+analysis of the sentence, we can talk about each possible proposition as be-
+ing either true or false.2 If we give the analysis that “mouse” is used for the
+rodent, then the proposition is false. If we give the analysis that “mouse” is
+the input device, then the proposition is true. If we decide that “mouse”
+is intentionally ambiguous and applies to both, then the sentence is false.
+In each case, we cannot truly talk about the truth or falsity of the statement
+itself—only of the propositions expressed.
+It might also be good to note that our decision about which semantic
+analysis to make is actually influenced by pragmatics anyway. Neither the
+semantics nor the syntax of the sentence gives us enough information to
+decide on one analysis over the other. Rather, it is our knowledge about
+Abraham Lincoln and when he lived, as well as certain expectations
+about how other speakers make relevant statements, which encourages the
+rodent interpretation over the computer interpretation.
+2This is probably akin to, but perhaps more inclusive than, P. F. Strawson’s distinction between a
+sentence and the use of a sentence.
+8 Jason a. Hills
+Other cases of ambiguity, including pragmatic cases like those pre-
+sented by Donnellan, work in much the same way as this semantic case. If
+by “the man drinking a martini” we mean “that man over there,” then the
+proposition is true. But if we mean “the man fitting the semantic descrip-
+tion of ‘the man drinking a martini,’” (that is, if we are using “the man
+drinking a martini” attributively) then the proposition is false. It does not
+seem to be any fault of Donnellan’s view that it cannot speak of a statement
+as being true or false—strictly speaking, other theories dealing with any sort
+of ambiguity cannot either. And when it looks like they can speak of a
+statement being true or false, it is because either all possible analyses will
+produce the same result, or at least all pragmatically reasonable analyses
+do—but even here, “The statement is true” is only shorthand for saying that
+all possible or reasonable propositions are true.
+As a final note, Kripke also produces instances of intensional context
+as he argues against Donnellan. One example he gives is my saying, “Jones
+said the police were around the corner.” He mentions that Jones may
+have said it as a warning, but that there is no need for me to report it as a
+warning. Similarly, there is no need to report a sentence as having either ref-
+erential or attributive sense in it. So going back to the party example, there
+would be no reason, according to Kripke, for me to report the woman’s
+statement differently than “She said that the man drinking a martini was
+tall.” He contrasts this with cases of semantic ambiguity where I must use
+the same sense as the original speaker; for example, if I say, “Jones denied
+he was ever at a bank,” I need to use “bank” in the same sense he did.
+Again, this does not seem to be the case. While it is correct that I do
+not need to have the same intentions as the original speaker, it does seem
+that I need to communicate enough information for a person to correctly
+disambiguate the statement. Even the semantic example utilizes pragmatics
+as we decide which sense to give to “bank.” We recognize that “deny” typi-
+cally regards some sort of allegation and are therefore led to conclude that
+Jones referred to a financial institution, since financial institutions seem
+to be more likely associated with these sorts of allegations than sides of
+rivers (though, of course, both are possible analyses). We could have easily
+provided this kind of pragmatic clue for the first example by saying some-
+thing like, “Jones warned [them] that the police were around the corner.”
+If our goal is to correctly represent the utterance made, we should include
+these sorts of pragmatic clues as we report statements. In the case of the
+woman’s, we might use some sort of circumlocution and bring her utter-
+ance into direct context, saying, “She thought that the man she was looking
+at was drinking a martini and so she said, ‘The man drinking a martini
+is tall.’” Yes, it is long-winded, but then, it is no longer than a Russellean
+Vindicating a critique 9
+translation. It also has the advantage of communicating the relevant details
+of the utterance, both semantic and pragmatic.
+Perhaps this answer to truth-value in cases of intensional context
+is not entirely satisfactory. Nevertheless, an entire account of intensional
+context does not seem necessary to provide a counterexample to Russell’s
+theory. Donnellan can still grant that intensional contexts produce difficul-
+ties without having to concede his main point, because examples in direct
+context still produce different truth-values. Also, it seems that the difficulty
+involved with referential uses in intensional context comes primarily from
+our underreporting the pragmatic aspect of the utterance rather than
+from an inability to correctly report the referential or attributive use.
+In conclusion, Kripke’s attempt to show that the distinction between
+referential and attributive uses must be taken as a semantic ambiguity in
+order to be consistent with Donnellan’s claims is flawed. Donnellan’s
+posited ambiguity can therefore be considered pragmatic in nature—as
+he intended—without impacting his claims about Russell’s theory. If we
+consider Donnellan’s view on the grounds he proposes, then it provides
+substantial counterexamples to Russell’s theory, showing that although
+Russell’s theory might offer a complete account of denotation, it does not
+do so for reference.3
+3I would like to thank Professor David Jensen of Brigham Young University for his advice on and
+discussion about this article.
+Works Cited
+Donnellan, Keith. “Reference and Definite Descriptions.” The Philosophy of
+Language. Ed. A. P. Martinich. New York: Oxford UP, 2001. 247–59.
+Kripke, Saul. “Speaker’s Reference and Semantic Reference.” The Philosophy of
+Language. Ed. A. P. Martinich. New York: Oxford UP, 1990. 248–67.
+Russell, Bertrand. “On Denoting.” The Philosophy of Language. Ed. A. P.
+Martinich. New York: Oxford UP, 2001. 212–20.

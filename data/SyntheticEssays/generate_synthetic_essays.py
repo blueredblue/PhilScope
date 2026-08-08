@@ -143,8 +143,8 @@ def generate_essay_unsteered(prompt_text: str, model_id: str, retries: int = 3) 
 
 def process_benchmark_prompts(
     prompts_file: str = "data/BenchmarkPrompts/benchmark_prompts.json",
-    output_dir: str = "gen_synthetic_essays",
-    failures_file: str = "generation_failures.json",
+    output_dir: str = "data/SyntheticEssays/gen_synthetic_essays",
+    failures_file: str = "data/SyntheticEssays/generation_failures.json",
     max_prompts: int = None,
 ):
     """

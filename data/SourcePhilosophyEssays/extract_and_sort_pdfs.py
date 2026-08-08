@@ -31,8 +31,9 @@ def extract_text(pdf_path: Path) -> str:
 
 
 def main():
-    folder = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(".")
-    folder = folder.expanduser().resolve()
+    # Force input directory to data/SourcePhilosophyEssays relative to the script
+    script_dir = Path(__file__).resolve().parent
+    folder = script_dir
 
     if not folder.is_dir():
         print(f"Not a folder: {folder}")

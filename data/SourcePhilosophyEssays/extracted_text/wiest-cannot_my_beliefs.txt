@@ -1,0 +1,244 @@
+Aporiavol. 17 no. 1—2007
+Why Cannot My Beliefs Fit?
+SAMWIEST
+T HOMASNagel, in his book The Possibility of Altruism, argues that desires
+are not the basis for all motivation. Nagel distinguishes between moti-
+vated and unmotivated desires and argues that some reasons can be traced
+to unmotivated desires (emotions, urges, etc.), but he argues that it has
+yet to be shown that all reasons for action must be traced back in this way.
+Nagel concludes that motivated desires, motivated by practical judgments,
+are a possible cause of motivation. Peter Ross, in his article “Explaining
+Motivated Desires,” compares two approaches to the motivational ques-
+tion: what he calls Nagel’s “rationalist” view and the “Humean” view. At
+the end of his article, Ross argues that the rationalist and Humean views
+turn out to be so similar that the problem must be resolved by claims about
+moral judgment. In this article, I argue that Ross seriously misconstrues the
+rationalist view, in particular Nagel’s view, and thus his misrepresentation
+undermines his conclusion that the rationalist and Humean views are so
+similar. To do this I will summarize both Nagel’s and Ross’s arguments,
+review their terminology, and then show that Ross’s argument (that the
+“directedness” of beliefs and of “states” needs goals) shows a misunder-
+standing of Nagel’s argument.
+I will begin with how Ross presents the dispute. Ross defines two
+camps: the rationalists and the Humeans. Both of these camps are inter-
+nalists; they believe that we are always motivated when we act, or that we
+act because we are motivated internally. The alternative view is external-
+ism, which says we can act from external constraints. The disputebetween
+Sam Wiest received a BA in philosophy from Brigham Young University in April
+2007. This fall he will attend Penn State’s Dickinson School of Law. This essay won
+first place in the 2007 David H. Yarn Essay Contest.
+2 SAMWIEST
+the rationalist and Humean camps is about how to explain motivation
+for action. Ross explains that the Humeans believe desires to be the cause
+of motivation and that the rationalists believe motivation can be
+explained in terms of reason and belief. Ross uses Nagel’s rationalist
+argument from The Possibility of Altruism where Nagel makes a key dis-
+tinction between motivated and unmotivated desires. Ross describes
+unmotivated reasons (by quoting Nagel): “[Unmotivated reasons] . . .
+‘simply come to us’ independently of having (conscious or unconscious)
+reasons for them” (199). Nagel describes unmotivated desires as being like
+“appetites,” “emotions,” and as states that although they can “assail” us,
+can be explained (29). Unmotivated desires are thus desires such as
+hunger or urges such as seeing a candy bar you like and immediately
+wanting one. Unmotivated desires are contrasted by motivated desires,
+which Ross describes as desires had for reasons (199). An example of a
+motivated reason may be deciding after deliberation that it would be bet-
+ter to stay up and work on a paper than to go to sleep early. (I will discuss
+the nature of motivated desires below.) Beliefs and reasons do not explain
+unmotivated reasons at all; thus, unmotivated reasons are not of interest
+to us and will not be analyzed henceforth.
+Ross presents Michael Smith’s argument in favor of the Humean
+view that all motivation stems from desire. Ross defines two types of rea-
+sons, motivating and normative, and two types of explanations, teleological
+and justificatory. Motivating reasons are “constituted by goal-directed
+intentional states” (200). Ross never explicitly explains what exactly Smith
+means by a “state,” but I will assume he means a mental or psychological
+state, as in a disposition of some sort. The goal of these goal-directed inten-
+tional states is served by these intentional states—in other words there is a
+goal, and the point of these intentional states is to reach that goal. Thus,
+motivating reasons motivate because we have some intentional states or
+dispositions, etc., that aim at some goal, and acting would satisfy them.
+Teleological explanations explain motivating reasons. A teleological expla-
+nation explains a motivating reason in terms of goal-directed intentional
+states. What Smith seems to be saying is that we have many of these inten-
+tional states, and some of them point to the same goal; that is why we have
+that goal. A normative explanation is a “propositional content on the basis
+of which the contents of these [mental] states can be justified from the
+standpoint of some system of normative rules” (Ross 200). Justificatory
+WHYCANNOTMYBELIEFSFIT? 3
+explanations explain normative reasons in terms of some system of nor-
+mative rules. I assume this refers to something such as not jaywalking
+because it is against the law (the law being the system of normative rules)
+or not lying because it violates Kant’s categorical imperative.
+One last definition brings in the conclusion of Smith’s argument, that
+of “direction of fit.” There are two kinds of fit, also called directions of fit:
+mind-to-world and world-to-mind. The mind-to-world fit is when our
+minds fit the way the world actually is. World-to-mind fit is when we want
+the world to fit how our mind is. Another way to describe it is that the
+mind-to-world fit represents the world as it is, and the world-to-mind fit
+represents the world as it is to be (Smith, The Moral Problem7). Smith argues
+for the Humean view using motivating reasons in the following manner:
+(1) I have a motivating reason.
+(2) Teleological explanations explain motivating reasons.
+(3) Teleological explanations explain motivating reasons in
+terms of goal-directed states.
+(4) Goal directed states are a world-to-mind fit.
+(5) Desires are world-to-mind fit states.
+(6) Beliefs are mind-to-world fit states.
+(C) Therefore, motivating reasons, and thus motivated desires,
+are explained in terms of desires, not beliefs.
+Smith sums it this way, “The motive that motivates the desire must there-
+fore embody some goal of the agent. But no belief could do that, for beliefs
+are not the right kind of state to embody the having of goals” (“Reason and
+Desire” 251–52).
+I will start with motivating reasons and goal-directed intentional
+states. Motivating reasons are defined in terms of goal-directed inten-
+tional states, and this definition or explanation of motivating reasons is
+teleological. If we have a motivating reason, we have it because we have
+goal-directed intentional states, but what exactly is a goal-directed inten-
+tional state? Ross, via Smith, defines a goal-directed intentional state as
+4 SAMWIEST
+a state that has a world-to-mind fit; in other words, he defines it as a desire.
+But what is a desire? And how do we find or gain a new one? Ross seems
+content to say that a motivating reason is explained by a desire, and that is
+why motivation is always caused by a desire. But a goal-directed state is not
+a sufficient explanation of what a desire is. A state can be some state of
+being or disposition, so does this include things like appetites or emotions?
+I will assume this is what is intended and appeal to Nagel’s example of a
+soda pop and dime. (33–34). The example is that of getting thirsty and put-
+ting a dime in a soda pop machine in order to get a drink. It is clear that in
+this example an unmotivated desire is present: thirst, which, although it can
+be explained, simply assails me. However, I may be able to reason myself into
+being thirsty; for example, I prepare to do an athletic activity and need to
+stay hydrated. But let us say in our (Nagel’s) example that I am thirsty sim-
+ply because my body is running out of water and is telling me to seek water.
+At this point it can be said that I have a goal-directed intentional state. My
+state is thirst, and my goal is to drink something refreshing.
+So far, Smith’s definitions can explain the situation, but here the
+problems start. This is because simply having this unmotivated desire is
+not sufficient to be motivated to put a dime in a slot: it “seem[s] mysteri-
+ous that thirst should be capable of motivating someone not just to drink,
+but to put a dime in a slot” (Nagel 33). I have the desire to quench my
+thirst, but not to put a coin into a slot—the urge to put a coin into a slot
+has never occurred to me. Something more is needed, and that is reason
+or deliberation. I reason (from prior experience, observing others, etc.)
+that in order to obtain a can of pop, I will need to insert a coin into the
+slot. After reasoning that putting a coin in the slot a can of pop will come
+out, I am motivated to do it, and only then do I have a desire to put a coin
+in the slot. This is a clear case of having an unmotivated desire (thirst) and
+in order to fulfill that unmotivated desire, I reason to some further action.
+I derive motivation to do that further action not from my unmotivated
+desire, but from reason. After deriving a motive to do this further action,
+I desire to act.
+Let us see how this example fits into Ross and Smith’s terms. We
+can distinguish two motivations (although there may be more) that need
+explaining. They are to quench my thirst and to insert a coin into the
+slot. In the first case the motivating reason is thirst. The teleological
+explanation, in terms of a goal-directed intentional state, is that my body
+WHYCANNOTMYBELIEFSFIT? 5
+seeks to stay hydrated. The fit of this state is world-to-mind because the
+mind is looking for the world to satisfy its needs. The motivation to quench
+my thirst has thus simply assailed me and fits Nagel’s description of unmo-
+tivated desires. Thus, the first motivating reason is caused by a desire, as
+Smith contends.
+The second motivation is to insert a dime into the slot. The motivat-
+ing reason is to obtain a can of pop (to quench my thirst). The teleological
+explanation of this motivating reason, in terms of goal-directed intentional
+states, is that I have reasoned that inserting a dime in the slot will produce
+a soda pop with which I may quench my thirst. By that reasoning I have a
+desire to put the coin in the slot. But this is not a unique goal-directed
+intentional state—this desire to put the coin in the slot is not an additional
+desire, and this is the difference between Ross and Smith’s view and Nagel’s
+view. I derive the desire to put the coin in the slot by the nature of reason.
+As Nagel describes: “[The desire to insert the coin in the slot] is a desire
+motivated by thirst plus certain information” (34). There need not be
+mention of any other desire, or directional state, in order to explain my
+motivation to insert the coin into the slot. There is no need because of
+the nature of reason: by having a desire, we automatically desire the
+means to the end. “Reasons are transmitted across the relation between
+ends and means, and that is also the commonest and simplest way that
+motivational influence is transmitted. No further desires are needed to
+explain this phenomenon” (Nagel 33). On this account there is no need
+for an additional desire.
+As cited above, Smith says, “The motive that motivates the desire
+must therefore embody some goal of the agent. But no belief could do that,
+for beliefs are not the right kind of state to embody the having of goals”
+(The Moral Problem251–52). Above I have effectively shown that beliefs may
+embody goals. Let us say I am motivated to act on some means. I am moti-
+vated to act because I have reasoned that through these means I may
+achieve a desired end. In this case my desired end is to satisfy an unmoti-
+vated desire. My reasoning is therefore based on the belief that the means
+will bring about the end. Thus, my motivation, which comes from a reason
+based on beliefs, may embody my goal because “reasons are transmitted
+across the relation between ends and means” (Nagel 33). Because I have a
+reason to believe that a certain act will satisfy a desire of mine, I am auto-
+matically motivated to do that act and no further desire is necessary.
+6 SAMWIEST
+Smith seems to be saying in this quotation, “One cannot have a desire
+without having a desire.” Smith’s use of the phrase “the motive that moti-
+vates” must mean the reason that motivates the desire.
+Why is it not the case that I can be motivated from practical judg-
+ment? Why do all desires have to be motivated by further desires? Smith
+says that if I have a goal (a desire, whether motivated or not) then that goal
+must be explained by some state that is goal-directed. But by “goal-
+directed state” Smith means another desire. Where do the desires end? If
+all desires have to be explained in terms of other desires, then all motiva-
+tion would come from unmotivated desires, and the only reasons we
+would ever do anything would be because we have some type of urge or
+appetite to act. It is absurd to say that my motivation to get out of bed this
+morning was because of some urge or appetite (or some other unmoti-
+vated desire), especially because all the messages my body sent me this
+morning indicated that I should stay in the warm, restful environment;
+nevertheless, I got up. I have described a situation, my thirst and the soda
+pop, in which I derive motivation not from a desire, but through reason-
+ing. I reasoned that I could obtain a soda pop by inserting a dime into the
+slot. Through this realization I was motivated to do so; there is no need for
+talk of a desire.
+In the introduction of his article, Ross states that Nagel tries to
+prove that we can “explain motivation for action in terms of reason and
+belief alone” (199). I agree with this statement, although it may be a little
+deceptive. It may be better to say that Nagel sets out to prove that it is pos-
+sible to explain motivation for action in terms of reason and belief alone;
+however, Nagel never explicitly states this. At the beginning of his chapter
+entitled “Desires,” in which he makes his important distinction between
+unmotivated and motivated desires, Nagel states his goal for the chapter is
+to “argue that . . . accounting for all motivations in terms of the agent’s
+desires will not work, and that the truth is considerably less obvious and
+more significant” (27). Nagel goes on to explain that “other motivating fac-
+tors besides desire may be present among the conditions for the existence
+of those reasons [for motivation]” (32). Nagel gives an argument that has
+been hinted at in this paper by my argument that if all motivation must
+stem from further desires, then we are all acting from unmotivated desires.
+If a practical judgment is not motivational, and practical reasoning is possi-
+ble, then some further argument with a motivational conclusion is needed;
+WHYCANNOTMYBELIEFSFIT? 7
+however, one can always ask, “Why should I do that?” of all arguments.
+Thus, either practical judgments are motivational, or practical reasoning is
+not possible. Practical reasoning is possible; therefore, practical judgments
+are motivational.
+Nagel shows that explaining motivation through desires alone does
+not work and that it is possible to be motivated by practical judgments.
+Ross, via Smith, attempts to give an argument that motivation must be
+explained in terms of desires, using terms that imply that motivation only
+comes from desire. We have seen that this is not the case, because moti-
+vation may be explained in terms of belief and reasoning. However, why
+cannot I be motivated by other things as well? My point is that Ross and
+Smith try to show that we can only be motivated by a narrow explanation of
+desires, but if we think about our everyday experience, it seems that our
+motivations can come from many different sources, including practical judg-
+ment, belief, and reasoning. Why cannot a person help another because
+they think it the right thing to do, and that is the end of the explanation?
+Or what would stop me from saying, “My shoe is untied, so I want to eat a
+candy bar”? Even though the idea may seem strange, and the two things
+totally unrelated, it seems that different people may have many different
+reasons and motivations for action. Restricting motivation to explanations
+in terms of unmotivated desires, urges, hungers, etc., seems strangely restric-
+tive and not indicative of everyday experience. We are filled with more
+than just goal-directed intentional states, and these other things may also
+motivate us.
+Works Cited
+Nagel, Thomas. The Possibility of Altruism. Princeton: Princeton UP, 1970.
+Ross, Peter. “Explaining Motivated Desires.” Topoi21.1–2 (2002): 199–207.
+Smith, Michael. “Reason and Desire.” Proceedings of the Aristotelian Society
+88 (1988): 243–58.
+———. The Moral Problem. Oxford: Blackwell Publishing, 1994.

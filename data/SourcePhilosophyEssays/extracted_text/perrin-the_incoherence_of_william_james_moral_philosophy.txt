@@ -1,0 +1,235 @@
+Aporia vol. 21 no. 2—2011
+The Incoherence of William James’
+Moral Philosophy
+Jacob Perrin
+In this paper, I contend that William James’ moral theory is incoher-
+ent. James argues that we should permit a pluralism of values, viewing
+all demands as prima facie goods. In order to construct the best moral
+theory, he argues, that we should try to fulfill as many demands as pos-
+sible, thus contributing to a richer and better moral universe. I argue that
+if James maintains that all demands are equally good, then the demands of
+opposing moral theories should be fulfilled just as much as the demands
+required by James’ moral theory should be. James could introduce a stan-
+dard of tolerance, requiring that all demands made must not conflict with
+other existing demands. This would require all moral theories to be in-
+clusive of each other, thus eliminating the apparent conflict between his
+moral theory and other moral theories. However, a standard of tolerance
+would require that the demands of James’ moral theory be reformulated so
+that they do not conflict with other moral theories. I will begin by outlin-
+ing James’ moral theory. I will then explain why it runs into the problem
+of conflicting demands, and show that if my objection is correct, James’
+argument is incoherent. Next, I will consider a response to the problem
+of conflicting demands. This response will argue for the introduction of a
+standard of tolerance that must be met in order for a demand to be good,
+resolving the problem of conflicting demands. Finally, I will argue that
+even if James introduces a standard of tolerance into his moral theory, his
+position remains incoherent.
+First, it is necessary to see exactly what James’ argument is and
+what conclusions he draws from his argument. He begins by denying the
+Jacob Perrin is a senior at Pepperdine University studying philosophy and pre-medi-
+cine. He is particularly interested in moral philosophy. He plans to pursue a Masters
+degree in bioethics before continuing on to medical school.
+12 Jacob Perrin The incoherence of Williams James’ moral PhilosoPhy 13
+existence, or at least the importance, of a moral metaphysical realm. He If it were found that all goods qua goods contained a
+writes: common essence, then the amount of this essence in-
+volved in any one good would show its rank in the scale
+There is no such thing possible as an ethical philoso-
+of goodness, and order could be quickly made; for this
+phy dogmatically made up in advance. We all help to
+essence would be the good upon which all thinkers were
+determine the content of ethical philosophy so far as we
+agreed, the relatively objective and universal good that
+contribute to the race’s moral life. There can be no final
+the philosopher seeks…no one of the measures that have
+truth in ethics. (610-611)
+been actually proposed has, however, given general satis-
+faction. (620)
+A moral realist would argue that there is a metaphysical realm which dic-
+tates the rightness and wrongness of certain acts and functions as a final The goal of moral philosophy has been to find a common essence of this
+moral truth. It is up to us, according to the absolutist, to discover the truths sort. According to James, Kant’s deontology, Bentham’s and Mill’s utili-
+of this realm in hopes of implementing them into society. It is not, how- tarianism, and so forth, have all failed to provide a satisfactory theory of
+ever, changing or alterable. James denies the existence of an unchanging, how to prioritize goods and thus have failed to direct us how best to act.
+perfect, and distant moral realm, viewing ethics as ever-evolving. He goes James argues that some are not universally applicable, some are too vague,
+on to say that, even if the metaphysical realm did exist, discerning it would some have obvious counter-objections, and so forth. Suffice it to say that
+be impossible. If, for example, a God exists, “exactly what the thought of the theories that have attempted to find a common essence among goods
+the infinite thinker may be is hidden from us” (628). At the very least, have all fallen short. In the absence of such a theory, James concludes that
+James concludes, we should build our moral philosophy as if no knowl- “the essence of good is simply to satisfy demand,” and thus it should be our
+edge of a metaphysical realm will provide us with a moral philosophy. If goal to satisfy as many demands as possible (621). He takes this to be the
+no moral metaphysical realm exists, morality must be found in the physical inevitable conclusion of his argument, writing:
+realm. James argues that morality is to be found in the desires and demands
+Since everything which is demanded is by that fact a
+of individuals. He writes:
+good, must not the guiding principle for ethical philoso-
+Goodness, badness, and obligation must be realized phy be simply to satisfy at all times as many demands as
+somewhere in order to really exist…their only habit can we can?...the victory to be philosophically prayed for is
+be a mind which feels them… moral relations have their that of the more inclusive side, of the side which even
+status, in the beings consciousness. So far as he feels any- in the hour of triumph will to some degree do justice to
+thing to be good, he makes it good. (614) the ideals in which the vanquished party’s interests lay…
+invent some manner of realizing your own ideals which
+If anything is good or bad, it is so because it is or is not desired by some
+will also satisfy the alien demands,-that and that only is
+individual. He continues to say, “The only force of appeal to us, which
+the path of peace. (623)
+either a living God or an abstract ideal order can wield, is found in the
+A good moral theory, according to James, will be measured by the number
+‘everlasting ruby vaults’ of our own human hearts, as they happen to beat
+of demands it lets us satisfy; the more demands of moral agents it meets,
+responsive and not irresponsive to the claim” (618). James attempts to shift
+the more beneficial the theory is. Let us consider whether James’ theory is
+philosophy’s focus from the abstract to the concrete. The good is to be
+tenable. I will first consider an objection raised by Robert Talisse and Scott
+found exclusively in the desires and demands of moral agents.Many things
+Aikin. They note the existence of conflicting demands and ask whether
+are demanded, however, but not all demands can be fulfilled. The task of
+James’ theory can resolve the conflict. Talisse and Aikin argue that
+the moral philosopher is to find a way to sort out the demands that should
+be fulfilled from the demands that should be fulfilled in the ideal moral Certain kinds of ideals are such that to hold them is nec-
+world. James presents an interesting dilemma. If we cannot glean morality essarily to judge certain other ideals to be immoral and
+from some metaphysical realm, we must either find a common essence thus unworthy of realization. Not all moral conflict is
+among goods, or satisfy as many demands as possible. He writes: due to an overall lack of resources or a general inability
+to accommodate everyone. Some conflict is due to the
+fact that some moral commitments involve a rejection of
+14 Jacob Perrin The incoherence of William James’ moral PhilosoPhy 15
+other moral commitments. (Talisse and Aikin 8) would, under his theory, be the most preferable. Insofar as his theory, if
+believed by the most people, would fulfill a greater number of demands
+For example, what happens when a group of white supremacists de-
+than a theory with fewer supporters, it would be the better theory. How-
+mand that African-Americans should not be allowed to vote and African-
+ever, it seems that it would be difficult if not possible to sort through the
+Americans argue that they should be allowed? Let us assume that there
+varied and complex pluralism of moral theories and create a hierarchy of
+are approximately an equal amount of individuals with each demand,
+moral demands based solely on numbers. Furthermore, if James’ theory
+or at the very least, that it is difficult to conclude which demand holds
+did not comprise the majority, he would be morally obligated to subscribe
+the majority. Each of these demands requires that someone else’s de-
+to the prevailing moral theory. Let us assume then that no such priority
+mand goes unmet. The demands cancel each other out, and although a
+based on the number of people subscribing to a moral theory can be as-
+good state of affairs would be achieved if either one is fulfilled, an equal
+signed.
+amount of bad, or at least privation of good, would also be gained due
+Let us see if we can construct a response to the objection of con-
+to the demand that goes unfulfilled. The objection is that James’ theory
+flicting demands, thus avoiding the problem of incoherence. It seems
+has no means by which to arbitrate between conflicting demands of this
+that James would argue that we should alter our demands in order to
+sort. This example provides an admittedly narrow consideration of the
+accommodate the demands of others. In other words, to return to the
+entire moral field. James would require us to survey the entire field and
+example given above, the white supremacist could be permitted to hate
+try to include as many demands as possible. However, this example does
+the African-American, as long as the African-American is allowed to vote.
+illustrate the point that, in situations where there is no conceivable way
+Likewise, perhaps I should, as a deontologist, reformulate my views so
+of deciding whether the fulfillment of one group’s demands is better than
+that my demands are no longer in conflict with the demands of propo-
+the fulfillment of another group’s demands, it is impossible under James’
+nents of other moral theories. That way, everybody’s new demands are sat-
+theory to arbitrate between conflicting demands.
+isfied. This response seems to introduce a standard of tolerance to which
+If this objection is correct, then I contend James’ theory is incoher-
+demands must adhere. This standard of tolerance would classify good
+ent. To see the problem with James’ theory, we must begin by viewing the
+demands as those that accommodate the demands of others. However,
+moral claims of his theory as demands. It does not seem problematic to
+as Talisse and Aikin put it, “this kind of account of the value of tolera-
+view them this way. A moral theory makes demands on us to act in some
+tion would have to identify the value of toleration outside of the existing
+ways rather than others. To make a moral claim concerning X is to say:
+economy of desires and demands,” so there is a problem, since “James is
+“I demand that you do X.” It seems that any moral theory, insofar as it
+committed to the thesis that there is no such thing as a good that is not
+carries normative weight, makes such a demand of moral agents. Is James
+in fact demanded by some person” (9). A restriction of demands based
+justified in making the demand that I abide by his moral theory? It seems
+upon some requirement of a standard of tolerance, it seems, would be
+that he is not. If the above objection holds, then he has no means by
+very un-Jamesian. To say that demands must meet a standard of tolerance
+which to compel other moral philosophers to change their own view-
+seems to go against a key tenant of James’ argument, which is that we
+points. Other moral philosophers have created moral theories that make
+should reject the goodness of demands based on a common essence and
+demands which conflict with the demands of James’ theory. However,
+treat all demands as equal. Now Ruth Anna Putnam argues that James
+if all demands are equal, then the demands of other moral theories are
+can “easily adopt a doctrine of tolerance. In the absence of an accessible
+just as legitimate as the demands of James’ moral theory. Suppose, for
+absolute truth, we must make our demands humble in nature” (Putnam
+example, that I am a deontologist. It stands to reason that my conception
+26). Henry Aiken writes that, for James, “tolerance is intrinsically valuable
+of the perfect moral world would be considerably different from the con-
+as well, that it is good, or right, per se to be tolerant” (Aiken 59). James
+ception written into James’ moral theory, and that James’ conception and
+himself writes that we must commit ourselves to “the well-known demo-
+mine would conflict with each other. However, under James’ theory, all
+cratic respect for the sacredness of individuality,” and to “the outward tol-
+demands are equally legitimate; for example, my demand that the individ-
+erance of whatever is not itself intolerant” (Putnam 26). The standard of
+uals follow the rules of deontology is just as legitimate as James’ demand.
+tolerance does provide a solution to the problem of conflicting demands,
+James has no means by which to reconcile these conflicting views.
+and with James’ respect for individual freedom and his value of pluralism,
+It does seem that, if James’ theory comprised a majority, his view
+perhaps a standard of tolerance would be the move he would make. Let
+16 Jacob Perrin The incoherence of William James’ moral PhilosoPhy 17
+us assume that James’ value of tolerance would prompt him to make an with the demanded world of the deontologist. It may be true that James
+allowance for a standard of tolerance in his moral theory. and I would agree on many things, but at some point our paths would di-
+The fact remains, though, that recourse to some metaphysical verge. His own theory cannot meet his own standard of tolerance. James’
+conception of tolerance, goes against James’ rejection of the metaphysi- theory cannot include the demands of other moral philosophers. If all
+cal realm. If tolerance is the elusive common essence that makes de- demands are good and tolerant demands are best, then James’ theory, as
+mands good, then it seems that we get a completely different argument well as all other moral theories, should be discarded. At best, James could
+from James. Good demands become those that can accommodate other argue for some sort of synthesis of all existing moral theories. He could
+demands, whereas bad demands are those that call for the restriction of attempt to take the tolerant aspects of his theory and the tolerant aspects
+the demands of others. Although I think this revision of James’ ethics of all other theories and combine them to meet the demands of as many
+undermines a central tenant of his argument, namely his rejection of a moral philosophers as possible. He has no grounds on which to reject the
+common essence among goods, let us consider the revised Jamesian eth- demands of other moral philosophers. However, if he tries to accommo-
+ics for the sake of the discussion. Perhaps James could argue that all (or date those demands of other moral philosophers, it seems that his theory
+at least most) moral agents would agree that tolerance is desirable, and will crumble. It would lose any uniqueness whatsoever, no doubt lost to
+thus a moral theory requiring a standard of tolerance would exist insofar vagueness and obscurity. James’ theory would no longer provide anything
+as it satisfies a great number of demands. Thus, James’ escape from the of consequence to the moral philosophy discussion.
+problem of conflicting demands is to require that demands not be intoler- Consider where this leaves us. If the objection about conflicting de-
+ant of the demands of others. We will say that the demands that are able mands holds, then all demands are equally good if fulfilled, and we come
+to tolerate the demands of others have met a standard of tolerance. This to an irreconcilable impasse when demands conflict with each other.
+standard of tolerance will be the measure by which good demands are James cannot say with justification that his moral theory is better than its
+separated from bad demands, and if tenable, will save James’ theory from competitors. And if we admit the introduction of a standard of tolerance
+the problem of conflicting demands. I will now address a final objection that good demands must meet, the demands of James’ own theory do not
+to James’ theory that grants the allowance of a standard of tolerance. pass his own test. His demands conflict with the demands of other pre-
+It follows from the revised Jamesian ethics that, in order for a de- existing moral philosophies. If he tried to accommodate those demands,
+mand to be legitimate, the demand has to meet the standard of tolerance. he would have to scrap his moral theory. In other words, if he treats all
+However, the demands of James’ moral theory do not seem to be at all demands as equal and good, then he suggests that the demands of his
+tolerant. James, for example, demands that we act as if the metaphysical moral philosophy are no better than the demands of other moral philoso-
+realm does not exist, yet moral realists demand that we act as though the phies; and if he says that demands must be tolerant, then the demands of
+metaphysical realm does exist, so it seems that James’ demand is intoler- his own moral theory fail to meet his own requirement in their conflict
+ant of the moral realist’s demand. It seems that James’ moral theory as a with preexisting moral theories. I conclude that his theory is incoherent.
+whole also falls victim to this objection. His moral theory demands that
+I try to accommodate the demands of as many other individuals as I can.
+But has he met this demand of his own moral theory in the creation of
+his moral theory? James’ moral theory demands that the demands of the
+utilitarian, the deontologist, the divine command theorist, and so on, go
+unmet. Insofar as he demands adherence to his moral theory, and such
+adherence would require one to not fulfill certain tenants of other moral
+theories, James demands that the demands of other moral theories go
+unmet. This seems to be deeply problematic. Let us imagine, once again,
+that I am a deontologist. I argue that the perfect moral world is one in
+which everyone lives their lives under the guidance of the categorical
+imperative. James’ moral theory, if it is meaningfully different from deon-
+tology (which I think it is), demands a world that stands in contradiction
+WWoorrkkss CCiitteedd
+Aiken, Henry D. “William James as Moral and Social Philosopher.” Philo-
+sophic Exchange 3 (1981): 55-68. Web.
+Aikin, Scott F., and Robert B. Talisse. “Three Challenges to Jamesian Eth-
+ics.” William James Studies 6 (2011): 3-9.
+Gale, Richard M. “Comments on “Three Challenges to Jamesian Ethics”
+William James Studies 6 (2011): 18-23.
+James, William, and John J. McDermott. The Writings of William James:
+a Comprehensive Edition, including an Annotated Bibliography Up-
+dated through 1977. Chicago: University of Chicago, 1977. Print.
+Putnam, Ruth Anna. “Response to Talisse and Aikin, “Three Challenges
+to Jamesian Ethics” William James Studies 6 (2011): 24-27.
+Putnam, Ruth Anna. “The Moral Life of a Pragmatist.” Identity, Character,
+and Morality: Essays in Moral Psychology (1990): 67-89.
+Putnam, Ruth Anna. “William James and Moral Objectivity.” William
+James Studies. 1.1 (2007). Print.
+Smith, Andrew F. “William James and the Politics of Moral Conflict.”
+Transactions of the Charles S. Peirce Society 1.12 (2004): 135-51.

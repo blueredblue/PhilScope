@@ -1,0 +1,458 @@
+Aporiavol. 17 no. 1—2007
+Ascribing Knowledge in Context:
+Some Objections to the Contextualist’s
+Solution to Skepticism
+MICHAELHANNON
+T
+HE history of skepticism is extensive and complex. The issue has
+changed shape numerous times, thus making it difficult to combat a
+general skeptical problem. Contemporarily, the dilemma is structured in
+the form of the skeptical hypothesis (SH), and it is this formulation that
+is the focus of this paper.
+The core element of the skeptical hypothesis is the possibility of a
+delusion (D) that is irreconcilable with some ordinary empirical proposi-
+tion (O) that one allegedly knows. The delusion may be that “I am dreaming”
+(Descartes), “I am a brain in a vat” (Putnam), or “zebras are actually cleverly
+painted mules” (Dretske). Equally, the empirical propositions that I claim
+ordinarily to know might include “I am standing,” “I have hands,” and
+“zebras are not actually cleverly painted mules.”
+The skeptical hypothesis (SH) can be expressed in three parts:
+(1) It is not the case that I know that I am not deluded.
+(2) If I do not know that I am not deluded, then I do not know
+some ordinary empirical proposition.
+Michael Hannon recently finished his undergraduate studies at York University
+where he majored in criminology and philosophy. He was admitted to the
+University of London (King’s College) for philosophy but has decided to defer his
+acceptance for one year in order to study the history of Western philosophy. For his
+graduate studies, he plans on researching both moral education and moral intuition
+through the works of Wittgenstein.
+56 MICHAELHANNON
+(3) Therefore, it is not the case that I know some ordinary
+empirical proposition.
+However, a significant fact is missing from this formulation, namely:
+(4) I know some ordinary empirical proposition (e.g., that I
+have hands).
+Individually, both SH and (4) seem plausible. On the one hand, however
+unlikely it may seem to suppose that I am deluded, it also seems true that
+I do not know that I am not deluded; indeed, how could I know such a
+thing? On the other hand, if I propose that I have hands, or if I propose
+any other ordinary empirical assertion, it seems persuasively true.
+Nevertheless when taken together, these claims result in a logical contra-
+diction; that is, it is not the case that I know O—given (1) and (2)—and yet
+I know O. Something has to give.
+There are three possible ways to reject SH. One can deny the first
+premise, maintaining instead that one does in fact know that one is not
+deluded. This position was famously—perhaps infamously—defended by
+G.E. Moore in his “Proof of an External World.” One can also deny the
+second premise by arguing that people can know both O and D simulta-
+neously. Fred Dretske and Robert Nozick have taken this position by denying
+the validity of the epistemic principle of deductive closure. Finally, one can
+allow both (1) and (3) in contexts where SH has been raised, while never-
+theless allowing for the denial of (3) in ordinary conversational contexts.
+Keith DeRose, Stewart Cohen, and Ludwig Wittgenstein are the principal
+defenders of this position.
+Contextualism holds that skepticism is insoluble and that once SH
+has been raised, any attempt to refute the skeptic on her own ground is des-
+tined to fail. For this reason, the contextualist is willing to concede both
+the first and second premises to the skeptic since considering the premises
+implies that SH is necessarily in play. However, the contextualist also main-
+tains that skepticism does not necessarily conflict with our ordinary claims
+of possessing knowledge. It is wrongly assumed that in order to refute the
+skeptic one must show that the skeptical possibility (D) does not obtain.
+The contextualist would argue that ascriptions of knowledge are context-
+sensitive, and that the truth-values of utterances involving the word
+“know” (and its cognates) depend on standards that are contextually
+ASCRIBINGKNOWLEDGEINCONTEXT 57
+determined. Skeptical arguments only succeed because they exploit the
+conversational context in which words that have epistemic significance are
+uttered. However, in ordinary conversational contexts where there is no
+possibility of skeptical error, it isperfectly appropriate to ascribe knowl-
+edge to subjects who utter an O. Therefore, we can in ordinary contexts be
+said to know O.
+In this paper, I intend to criticize the contextualist solution to the
+problem of skepticism. The contextualist would have us believe that skep-
+ticism does not necessarily conflict with our claims of ordinary knowledge
+possession and that knowledge is possible given what the skeptic says. This
+is because ascriptions of knowledge are ostensibly context sensitive, and
+their truth-values depend on contextually determined standards. However,
+although contextualism provides very persuasive arguments against skepti-
+cism, I will demonstrate that this position is vulnerable to a number of
+objections. I maintain that if contextualism is to be considered a viable
+theory, these objections must be resolved.
+This paper is divided into three sections. In the first, I examine two
+notable alternatives to the skeptical hypothesis. Specifically, I outline both
+the Moorean denial of the first premise and the Dretskean denial of the
+second premise. I demonstrate that both positions are flawed and thus
+ineffective in disarming the skeptic. In the second part, I critically analyze
+the anti-skeptical position offered by the contextualists. This analysis con-
+sists of providing a general outline of contextualism, as well as its relevance
+to the problem of skepticism. In the third part, I levy some objections to
+the contextualist treatment of skepticism.
+Moorean Denial of the First Premise
+Moore has reacted to SH by arguing that, despite the initial plausi-
+bility of (1), he is significantly more certain of (4) (“Here is a hand,” says
+Moore, with a characteristic wave). However plausible the premises of SH
+may be, it is more reasonable to maintain that we do in fact know many
+things; thus, SH lacks the impetus to topple our knowledge of many ordinary
+empirical facts. When reflecting on Descartes’ dreaming hypothesis, Moore
+willingly concedes the second premise, stating, “I agree with the part of the
+argument which asserts that if I do not know that I am not dreaming, it fol-
+lows that I do not know that I am not standing up.” Moore then proclaims,
+58 MICHAELHANNON
+however, that he does knowthat he is standing up (4), and concludes that the
+skeptical alternative must therefore be false given (2). Since the paradox
+arises from maintaining both SH and (4), Moore is content with rejecting
+SH in favor of (4) because it has persuasive, intuitive plausibility.
+However, this solution is not very satisfying for several reasons. In On
+Certainty, Wittgenstein suggests that Moore’s argument fails because his
+claim to know O invites the question of how he came to know O, thus
+dragging him back into the skeptical debate. By failing to account for how
+he came to know O, Moore also fails to demonstrate how D is false. Thus,
+Wittgenstein remarks that “Moore’s view really comes down to this: the
+concept ‘know’ is analogous to the concept ‘believe’” (5). Moore resorts to
+mere picking and choosing without a sufficient grounding for his decision.
+Simply to argue that it is adequate to rely on one’s intuition of O rather
+than D fails to recognize that D itself has considerable intuitive pull. In
+seeking a solution to skepticism we should seek to explain how we fell into
+this trap in the first place. Since each premise seems intuitively plausible
+when taken individually, Moore indeed seems to resort to arbitrary prefer-
+ence. For these and other reasons, many philosophers have rejected the
+Moorean anti-skeptical response.
+Dretskean Denial of the Second Premise
+In “Epistemic Operators,” Dretske denies the second premise of
+SH (131–44). As stated, (2) holds that if it is not the case that one knows
+that one is not deluded, then it follows that one does not know some
+ordinary empirical claim. For instance, if I do not know that zebras are
+not actually cleverly painted mules, then I do not know that those animals
+are zebras. This premise relies on the epistemic principle of deductive
+closure (DC). In logic, this principle can be formulated as follows:
+(1) A knows that P
+(2) A knows that P entails Q
+(C) A knows that Q
+ASCRIBINGKNOWLEDGEINCONTEXT 59
+As regards SH, DC holds that if I do not know that not-D, then it
+follows that I do not know O. The principle of deductive closure thus
+illustrates that knowledge is closed under logical implication.
+Dretske feels obligated to concede the first premise to the skeptics.
+Unlike Moore, Dretske maintains that one does not know that one is not
+deluded. However, he does not admit that not knowing that not-D neces-
+sarily entails not knowing O. This is because he rejects DC, maintaining
+instead that DC is only semi-penetrating, and thus does not necessarily
+hold in every instance. Dretske believes that by giving up DC we can defeat
+the skeptic because SH hinges on deductive entailment.
+The denial of the closure principle is an unpopular anti-skeptical
+position in contemporary debates. This position has been rejected by
+Stine, DeRose, Cohen, and many others, each of whom suggests that
+knowledge should remain closed under logical implication. The principal
+reason for sustaining DC is that by denying closure Dretske licenses an
+abominable conjunction—meaning it is possible to know both that one
+sees a zebra (O) while simultaneouslymaintaining that one does not know
+that the zebra is not actually a cleverly painted mule (D). Although this
+conclusion is clearly counterintuitive, it nonetheless follows if one rejects
+DC. Thus, most anti-skeptics advocate retaining DC or (2), refuting SH by
+some other method.
+General Outline of Contextualism
+Two weeks ago my sister went to the doctor for a routine checkup.
+Our family physician, Dr. Shan, was measuring my sister’s height and
+remarked that she was “quite tall.” Yesterday, my sister decided to become
+a model, so she contacted a local modeling agency to set up an appoint-
+ment. When she arrived, the recruiter took one look at my sister and said,
+“Too short, next!”
+Something funny is going on here. My sister did not shrink from the
+time of her doctor’s appointment to the time of her appointment with
+the modeling recruiter (she remained five feet seven inches), nor was she
+wearing different shoes or using any other means of changing her height.
+Yet, she was nevertheless tall when at the doctor’s office and short while at
+the modeling agency. How can this discrepancy be explained?
+60 MICHAELHANNON
+Contextualism maintains that the inconsistency in the above sce-
+nario is apparent and does not amount to a genuine contradiction. This
+example can be explained by examining the environment in which the
+words “tall” and “short” were uttered. By paying attention to the role of
+context, one can come to understand how the meaning of a word may
+change when used in different circumstances. In the case above, the stan-
+dards of height are relative to the context in which the claim was uttered,
+and the truth-value of a proposition is shaped by a particular context. The
+standards in play with regard to height at the doctor’s office were different
+from the standards in play at the modeling agency, where the relative stan-
+dards of height were more restrictive.
+So how does contextualism relate to the skeptical hypothesis? As
+mentioned above, SH seems sound. However, SH directly contradicts that
+we do allegedly have ordinary knowledge of many things (4), such as having
+hands or knowing that zebras are not cleverly painted mules. In order to
+resolve this contradiction, the contextualist maintains that our knowledge
+of O can have different truth-values in different contexts, since different
+contexts call for different standards. For instance, in the case of my sister’s
+height, the doctor (S) claimed to know that my sister was tall (O), while the
+modeling agent (S) asserted that she was not tall (not-O). The propositions
+“S knows O” and “S does not know O” were thus shown to not logically
+contradict. Both propositions are correct because of the relative truth-
+value of knowledge ascriptions, which are shown to vary cross-contextually.
+In a similar vein, contextualism holds that I do not logically contradict
+myself when asserting, “I do not know that not-D,” and also assert, “I do
+know that O,” so long as the context in which these statements are uttered
+prescribes different standards of knowledge. Such standards are more
+restrictive in the case of the former, while more liberal standards are in
+effect in the latter. Thus, the context of attribution allows for both claims
+to be true when uttered in the appropriate context.
+Let us briefly consider another example in order to clarify how stan-
+dards of knowledge can change in different contexts. Imagine that I have a
+roommate named Smith. In all the years I have known Smith, he has
+owned the same two pairs of shoes: his running shoes and his dress shoes.
+One day I arrive home at 4:30 PMwith a good friend of mine, Jones. Jones
+and I enter the house and proceed to the kitchen, where we converse for
+several minutes. After a bit of discussion, Jones asks, “Is Smith home?”
+ASCRIBINGKNOWLEDGEINCONTEXT 61
+Keep in mind that neither Jones nor I have seen Smith since our recent arrival.
+Nevertheless, I peer down the hallway and see both pairs of Smith’s shoes on
+the shoe rack, and thus conclude, “Yes, Smith is home.”
+In this case, there are relatively relaxed standards of knowledge in
+effect. However, consider a second example. Imagine that everything in the
+above scenario remains true. But once Jones and I finish our conversation
+we decide to go out for dinner. After dinner, Jones and I part company, and
+I soon return home. Upon my return, I find that Smith is being arrested
+under suspicion of murder. A long-time enemy of Smith’s had been killed
+that day, and Smith is the prime suspect. Coincidently, the coroner had
+concluded that Smith’s enemy was murdered at 4:30 PM.
+At Smith’s trial, the prosecutor puts me on the stand and asks, “Did
+you knowthat Smith was home at the time of the murder?” I respond, “Yes.
+His only pairs of shoes were in the house at the time, so he had to be
+home.” But the lawyer presses, “Is it not it possiblethat Smith had a third pair
+of shoes of which you were unaware?” I concede, “Well . . . I suppose it is
+possible.” The prosecutor thus remarks, “Aha! So you did not know that
+Smith was home!”
+My knowledge of Smith’s being home proved insufficient in court.
+However, one should not be so quick to assume, as the lawyer does, that I
+did not know that Smith was home. Rather, a contextualist would main-
+tain that the standards of knowledge have changed. The truth-values of
+propositions in a criminal court are more restrictive than those that apply
+in more ordinary conversational contexts. As the standards of knowledge
+rise, the sphere of epistemically relevant worlds—possible hypothetical
+worlds which center around the actual world—increases. In suggesting the
+consideration of an alternative hypothesis, e.g., that Smith bought new
+shoes, the prosecutor has enlarged the sphere of epistemically relevant
+worlds to include the closest world in which my claim that Smith was home
+is false. However, the standards of knowledge invoked by the lawyer are not
+in place in every context. I did in fact know that Smith was home, in the
+context of my conversation with Jones, because seeing Smith’s shoes, cou-
+pled with the knowledge that Smith has owned only two pairs of shoes,
+satisfied the relatively relaxed epistemic standards in effect. But in men-
+tioning a possible alternative, the lawyer has shifted the context to a point
+where the truth-value of my claim is now false. But this is not to suggest
+62 MICHAELHANNON
+that the standards in effect during the criminal court proceeding apply in
+all contexts. This is easily demonstrated by pointing to the more liberal
+standards in place during a civil court trial. In civil court, what counts as
+knowledge is decided on a balance of probabilities, while criminal courts
+employ the standard of “beyond reasonable doubt.” As regards SH, con-
+textualism maintains that skeptical alternatives are not always epistemically
+relevant with respect to all S-knows-that-O claims. Only if SH is a live
+hypothesis (e.g., one is debating with a skeptic or engaging in philosophi-
+cal reflection) does the claim “S knows O” become false given (1) and (2).
+The semantic standards of knowledge are manipulated when one makes
+the skeptical argument. Thus, once SH has been raised, more restrictive
+epistemic standards are in play, and it is indeed correct to concede that one
+does not know not-D and—given DC—therefore does not know O.
+One might think that in granting the truth of SH, I concede too
+much to the skeptic. The skeptic maintains that the possibility of D infects
+all of our ordinary knowledge propositions, not merely knowledge taken at
+some unattainably restrictive standard. But I contend that if the skeptic
+were to become greedy, if she were to push the argument further by main-
+taining that our ordinary empirical claims have therefore always been
+wrong, then she goes too far. It is not the case that we did not know O, but
+rather that we now do not know O under the unusually restrictive standards
+introduced by the skeptic. The skeptic, as an invariantist, wrongly assumes
+that the truth-values of knowledge ascriptions are not context-sensitive. In
+making this assumption she equivocates. Below I have rewritten SH to
+expose the hidden meaning behind the shifts in context.
+(1) I do not know that not-D (given the unusually restrictive stan-
+dards introduced by SH).
+(2) If I do not know that not-D, then I do not know O. (Here,
+the skeptic equivocates by shifting the sense of “know,” treating it as
+though the word possesses the same meaning cross-contextually.)
+(3) Therefore, it is not the case that I know O (which is true only
+if SH is in play. But this does not refute my knowing O in more ordi-
+nary conversational contexts).
+ASCRIBINGKNOWLEDGEINCONTEXT 63
+The point is this: by suggesting that context shapes the meaning of
+the word “know,” the skeptic is forced into a position where she cannot
+deny that I know O in ordinary conversational contexts. SH is compatible
+with claims of ordinary knowledge because they do not logically contradict.
+A contradiction presupposes that the meaning of the word is invariant,
+but contradictions1can nevertheless take place over different contexts.
+Justas my sister can be both tall and short depending on the context, one
+can both know O and not know O, relative to the context. Our failure to
+see the change in context has thus far prevented our capacity to sustain
+O-type knowledge.
+Contextualism can thus overcome the difficulties experienced by
+both Moore and Dretske. Moore attempted to refute the skeptic by holding
+onto the intuitive plausibility of O; however, Moore failed on two counts.
+First, he did not account for how he came to know O. Second, he failed to
+appreciate the intuitive plausibility of SH, thus resorting to picking and
+choosing between premises. What makes contextualism stronger than
+Moore’s anti-skeptical position is that it not only demonstrates how we
+can know O, it also explains the plausibility of SH. In addition, contextu-
+alism maintains the Dretskean idea that one can know both O and not-D
+without denying closure and embracing the abominable conjunction. This
+is because O is true in ordinary contexts, and not-D is true in contexts
+where SH is in play.
+There is a persistent concern that in conceding SH, the contextual-
+ist also grants that the standards employed by the skeptic are actually the
+correctstandards to employ. In the case of Smith’s trial, for instance, it can
+be argued that I never knew that Smith was home, but that I simply
+thought I knew. Thus, we ought not to ascribe the label “knowledge”
+because we do not meet the standards established by the skeptic, which are
+the right standards. However, DeRose has provided a convincing response
+to this objection. He argues that it is a strike against a theory of a common
+term of natural language when the theory implicates the speakers of that
+language into a systematic falsehood.2 For example, someone can easily
+claim that there are no tall women because tall women are necessarily over
+seven feet. By what criteria can we assert that such a position is false, and
+1 Here I am referring to alleged, as opposed to genuine, contradictions.
+2 I have taken this objection and adapted it from DeRose’s “Solving the Skeptical Problem.”
+64 MICHAELHANNON
+that one should instead adopt more traditional and less restrictive stan-
+dards? After all, our language very well couldhave developed in such a way
+that the word “tall” denoted the concept of “over seven feet” rather than
+“five feet seven inches.” But the point is that we do not talk about tall
+women by this standard, and the persuasiveness of a theory about a term
+common in natural language is dependant on how well it accords with
+ordinary language. To argue that the skeptical standard of knowledge is in
+fact the correct standard would imply that we often talk about knowing
+many things (O) that we actually do not know, thus implicating all speak-
+ers into a systematic falsehood. We describe women over five feet seven
+inches as tall in the same way we consider people to have common knowl-
+edge. In virtue of these facts, it is the traditional view, and not the skeptical
+view, that is true of our language. The correctness of the traditional view
+largely consists in such facts, as they provide us with the best evidence for
+accepting the traditional—rather than the skeptical—hypothesis regarding
+the semantics of “know.”
+Some Reservations About Contextualism
+Having outlined the contextualist anti-skeptical argument, I will
+express some objections to this position. To my knowledge, these objections
+have not yet received adequate treatment. I maintain that if contextualism
+is to be considered an adequate response to skepticism, these objections
+must be resolved.
+First, virtually every defender of contextualism has asserted that we do
+know that we are not deluded, according to the ordinary standards of
+knowledge. But I am not so convinced. In fact, I think the contextualist can
+neverclaim to know not-D, even in the context of less restrictive standards.
+It seems that the very consideration of whether or not one knows not-D
+implies that SH is in play. However, if the context is such that SH is in play,
+then SH necessarily prevents one from knowing not-D. The contextualist
+seems to be caught in a contradiction. On one hand, she maintains that
+when SH is an active hypothesis we cannot know not-D. On the other
+hand, she asserts that we can (ordinarily) know not-D. But the mere con-
+sideration of D or not-D seems to imply that SH is in play, thus removing
+us from the context of ordinary knowledge claims. The paradox is such
+that the very mentioning of D or not-D invokes SH, which further entails
+ASCRIBINGKNOWLEDGEINCONTEXT 65
+that we do not know not-D. Yet, if we do not know that not-D, and if the
+principle of deductive closure holds, then we do not know O. Even when in
+an ordinary context where I know O (thus implying that I know not-D), the
+mere mentioning or considering my knowledge of not-D implies that SH is
+relevant, thus dissolving my knowledge of O. As a result, we seem to be con-
+demned to a position where we can ordinarily know O, which thus implies
+that we know not-D, but we can never knownot-D.
+Second, contextualism hinges on the notion that context deter-
+mines how strong an epistemic certainty one must have for it to count as
+knowledge. But in all this talk of context, the contextualists have avoided
+proposing any general theory of how exactly context determines the stan-
+dard. Furthermore, there is no mention of precisely how one can recognize
+shifts in context. Can we recognize a context shift immediately? Are con-
+texts only recognizable once we are in them and not from an external
+standpoint? In the case of a civil or criminal trial, the standards of knowl-
+edge are explicitly outlined. However, this is clearly not the case in the
+context of ordinary dialogue between people, where interaction can be
+rather ambiguous. Therefore, I think that if contextualism is to be taken
+seriously as a solution to skepticism, its defenders must account for how
+the standards are shaped by context and how it is possible to recognize a
+context. Although this criticism may not be fatal to contextualism, I main-
+tain that it needs addressing.
+Third, the contextualists conveniently suppress any discussion of
+what actually is the casein their talk of context. Imagine that Henry is driv-
+ing in the country and is passing a series of barns.3In an ordinary context,
+one would rightly assume that the barns in Henry’s visual range are real,
+rather than papier-mâché facades. But what if it actually were the case that
+some of the barns were fake? Henry would continue driving, unbeknownst
+to him that some of the barns he has just passed were papier-mâché. But
+would we say that he “knew” the barns were real? It seems clear that the
+standards of knowledge were the same, since no skeptical hypotheses were
+in play; it just so happened to be the case that a few of the barns were fake.
+How would the contextualist respond? It seems to me that the contextual-
+ist would maintain that Henry knewall of the barns were real. After all, no
+skeptical hypotheses were invoked, since Henry did not contemplate the
+3This example is used by Alan Goldman in “What is Justified Belief?”
+66 MICHAELHANNON
+possible existence of fake barns. Thus, contextualism seems to entail a
+peculiar position where Henry knows that the barns are real even though
+they are not real, and verifiably so. Consider my previous example regarding
+Smith’s trial. The contextualist would argue that I “knew” Smith was
+home, given the relatively relaxed standards in place during my conversa-
+tion with Jones. But imagine that it was later discovered (say, at his trial)
+that Smith had recently bought a third pair of shoes and that he was actu-
+ally out killing his enemy at 4:30 PM.If this were true, then could I really
+be said to know that he was home, even though he demonstrably was not?
+This conclusion is clearly contrary to our ordinary intuitions, and as
+DeRose admits, a theory that fails to accord with ordinary language is
+likelyfalse.
+Last and most significantly, DeRose openly admits that he (and other
+contextualists) assume things that they believe but that the skeptic claims
+they cannot know. For instance, the claim that O-type beliefs are sensitive
+betrays the possibility that he is deluded. Indeed, if he is deluded, then he
+does not know that he has hands according to any standards. He can thus
+be accused of begging the question against the skeptic. Cohen expresses a
+similar worry, where he asserts that his argument begs the question against
+skepticism and that he does “not think either side of this dispute can
+demonstrate the correctness of its view to the other side.” He argues that
+because we are antecedently convinced of the falsity of skepticism, the
+semantic version of contextualism can explain away our own “inclinations”
+towards skepticism. But the skeptic and the anti-skeptic seem to be stuck
+on different hilltops, and are thus incapable of reconciling their opposing
+views. Both DeRose and Cohen can only admit that they adamantly believe
+that they are not deluded, thereby leaving us in a position no better than
+Moore. Contextualism only seems to succeed because it accords with our
+ordinary intuitions, which provides the elbowroom required to satisfy
+those already unconvinced by skepticism.
+I think that to fully refute the skeptic one must do it on one’s own
+grounds in the context of restrictive standards. Indeed, when dealing with
+highly restrictive standards, we cannot maintain that we know anything. It
+is for this reason that contextualism has not been concerned with refuting
+the skeptical hypothesis, but rather with pushing it aside and showing it as
+irrelevant regarding our ordinary empirical propositions. The contextual-
+ist maintains that unless we want the word to mean something that is
+ASCRIBINGKNOWLEDGEINCONTEXT 67
+impossible to achieve, we must incorporate context into our definition of
+knowledge. I have demonstrated that there are several problems with this
+theory that must be resolved. Until the contextualists manage to solve
+these criticisms or show them irrelevant, epistemologists have not been
+given adequate reason to adopt the contextualist solution.
+Works Cited
+Cohen, Stewart. “Contextualism, Skepticism, and the Structure of
+Reasons.” Philosophical Perspectives13 (1999): 57–89.
+DeRose, Keith. “Solving the Skeptical Problem.” Skepticism: A Contemporary
+Reader. Ed. Keith DeRose and Ted Warfield. Oxford: Oxford UP,
+1999. 183–219.
+Descartes, Rene. Discourse on Method and Meditations On First Philosophy.
+Trans. Donald Cress, USA: Hacket Publishing, 1998.
+Dretske, Fred. “Epistemic Operators.” Skepticism: A Contemporary Reader.
+Ed. Keith DeRose and Ted Warfield. Oxford: Oxford UP, 1999.
+131–44.
+Feldman, Richard. “Contextualism and Skepticism.” Philosophical Perspectives
+33 (1999): 91–114.
+Goldman, Alan. “What is Justified Belief?” Justification and Knowledge. Ed.
+George S. Pappas. Boston: D. Reidel, 1979. 65–78.
+Moore, G.E. “Proof of an External World.” Proceedings of the British Academy
+25 (1939). Reprinted in Philosophical Papers. Ed. George Allen and
+Unwin: London, 1959.
+Nozick, Robert. “Philosophical Explanations.” Skepticism: A Contemporary
+Reader. Ed. Keith DeRose and Ted Warfield. Oxford: Oxford UP,
+1999. 156–82.
+Putnam, Hilary. “Brains in a Vat.” Skepticism: A Contemporary Reader. Ed.
+Keith DeRose and Ted Warfield. Oxford: Oxford UP, 1999. 27–42.
+Stine, Gail. “Skepticism, Relevant Alternatives, and Deductive Closure.”
+Skepticism: A Contemporary Reader. Ed. Keith DeRose and Ted
+Warfield. Oxford: Oxford UP, 1999. 144–55.
+Unger, Peter. Philosophical Relativity. Minneapolis: University of Minnesota
+Press, 1984.
+Wittgenstein, Ludwig. On Certainty. London: Harper and Row, 1969.

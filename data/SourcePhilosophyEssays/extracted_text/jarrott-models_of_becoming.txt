@@ -1,0 +1,304 @@
+Aporia vol. 21 no. 2—2011
+Models of Becoming
+Joshua Jarrott
+I think it will be generally conceded that our normal sensation of the
+movement of time is that of something unidirectional which proceeds
+by seeming to push the present moment into the future. I mean ‘sensa-
+tion’ to be the subjective experience of the flow of time. I think it is also
+obvious that most people, although certainly not all philosophers, believe
+that our sensation of the direction and flow of time corresponds to the
+actual movement of time, whatever is causing its movement. This has been
+disputed. J.M.E. McTaggert, for example, made himself infamous by claim-
+ing that time itself does not exist because any notion of tense which could
+account for change is meaningless on his analysis. It follows from this that
+the experience of time must be an illusion. Nevertheless, in this paper, I
+will be addressing the view that time is an actual entity that relates to causal-
+ity in a particular way; specifically, that time is a change in states of affairs.
+I intend to be begin the paper by giving a brief overview of the so called
+‘Growing Block’ theory of time, which I think most intuitively captures our
+everyday sensation of temporal flow. I will then elaborate a bit on what I
+believe to be a good candidate for the cause of our subjective experience
+of time. Finally, I hope to show that the subjective experience of time can
+conceivably arise from models of temporal becoming which are dramati-
+cally different from the Growing Block model.
+I. Temporal Becoming and Growing Block Theory
+Perhaps one of the most popular four-dimensional characterizations of
+time is the Growing Block model. It is a relatively straightforward notion
+Joshua Jarrott is a sophomore studying philosophy at the University of Iowa. His
+primary interests include philosophy of space and time, personal identity, mereology,
+and modal logic.
+36 Joshua Jarrott Models of BecoMing 37
+of time, and it seems to correspond to our experience. On this view, the a certain reference problem which Growing Block does not. Namely, we
+universe has both a definite existing past and present but a nonexistent, might ask what the truth conditions are for the statement ‘Aristotle was a
+though perhaps determined, future. States of affairs on this model are philosopher’ or ‘The Holocaust, unfortunately, occurred’. We would like
+thought of as four-dimensional. Objects exist in both space and time. This such statements to make sense, but on the Presentist account, they are
+is not to suggest that objects need to be given a four-dimensional ontology meaningless by our ordinary theory of reference because the subjects in-
+of temporal parts. At the very least, however, objects are thought of as per- volved no longer exist to be referred to. One might, of course, assert that
+sisting through time. we can meaningfully refer to non-existent states of affairs. The obvious ob-
+The present, on this account, is the temporal edge of the universe into jection to this is that some account will have to be given of the difference
+which the universe is growing. That is, the universe is in a process of becom- in cognitive value between statements about the past and statements about
+ing or coming into of existence. The past and the present constitute a chunk the future, since the future is equally non-existent. A much easier approach
+of space-time that is filled with various objects and states of affairs that are to all of this would be to affirm the existence of the past and present but
+in a causal relationship with one another. The future is only potential, but to deny the existence of the future. In this way, statements about the past
+does not exist at all. It will come into existence, or become real as it is caus- can be either true or false but statements about the future can consistently
+ally implied by states of affairs in both the past and present. It is just this be thought of as lacking a truth value. This is precisely what the Growing
+becoming which is supposed to account for the flow of time and for the Block model allows us to do.
+ever-changing present.
+I think the popularity of Growing Block model among many people II. The Feeling of Time: a Subjective Hierarchy of Memories
+is due to the way in which it seems to be in accordance with two aspects
+of our experience. The first is that we seem to be able to perceive a shift The experience of time as moving in one direction seems mystifying
+in the whole of reality as our subjective sense of time moves continuously upon any serious reflection. Why, after all, should we experience the world
+forward. The present moment seems to carry our consciousness inexorably in the order we do? Earlier I pointed to memoires as a contributing cause
+into the future. The age-old metaphor of time being a river derives from of our experience of the flow of time. But memory alone will not do the
+just this sensation. Like a river, there is no standing still in time—at least not trick. Just possessing memories of the past does not guarantee the sense of
+for human consciousness. If the objective nature of time is one of temporal the progression of time. It is not logically impossible that memories could
+becoming whereby the future comes into existence and adds itself to the be tagged1 out of order (in fact, in some ordinary circumstances they seem
+whole of reality, then it is easy to see that our experience will include this to be). At any rate, we seem to be able to remember events out of sequence.
+fact simply by virtue of our consciousness being something that requires I hold that there are two factors which allow us to mentally view
+time to emerge and which is capable of reflecting on memories. If the fu- memories of our past in various sequences without disrupting our sense of
+ture is causally dependent upon the past, then some of my past mental time. The first is so obvious it hardly needs mentioning; certain memories
+states (and the information about the world they contain) have a causal are related to others in a corroborative way, where one memory contains
+relationship with the future insofar as my mind can preserve memories of information which can be verified or denied by others. I may think, for ex-
+these mental states which I may reflect upon later. I will show further on ample, that the birthday cake I ate on my fourth birthday was the one with
+that this relationship between memories and the subjective sensation of dinosaurs on it and that the one I ate on my fifth birthday was the one with
+time is a complex one. For now it need only be recognized that if memories the monster trucks, but I also know from what I am told by my parents that
+are formed properly, then as long as my mind is working properly, I will I was living in the brick house when I was five and not the blue one. And
+have a distinct sensation of the objective movement of time. since I distinctly remember eating a cake with dinosaurs while living in the
+The second way in which Growing Block Theory seems to agree with brick house, I infer that the memory of eating the dinosaur cake occurred
+our experience is with regard to the problem of reference. We are used to when I was five. Since some of my memories hold data concerning the
+referring to actually existing things. If I utter the sentence ‘The cat is on world, I can infer the temporal structure of the world from them, and I can
+the mat’, I mean to refer to a particular cat which exists now, where now is try to fit my subjective experience to this knowledge accordingly.
+the moment of utterance. The cat has to exist for me to successfully refer. The more important thing, however, is that memories are experienced
+A view of time like Presentism (the view that only the present moment
+exists and that both the past and future are equally unreal), suffers from 1Almost undoubtedly, information has to enter our minds in a certain order. But nothing pre-
+vents the information from being arranged out of order.
+38 Joshua Jarrott Models of BecoMing 39
+in some linear way no matter what order they are recalled in. This is due all) then the amount of time assumed to have passed between the onset of
+to what is almost certainly a brute fact of our biological brains: that our sleep and awaking is greater. This accounts for why some naps feel several
+memories depend upon one another in a very visceral way. I do not mean hours long while some entire nights seem to go by in only a few minutes.
+to imply that our memories logically imply one another, although it seems
+obvious that memories could, in almost all ordinary circumstances, be
+III. Non-standard Models of Temporal Becoming
+placed in the correct order corresponding to the fashion by which they
+entered the mind, as mentioned above. What I mean is that our memories
+What I now want to show is that even though we generally assume
+seem to be different depending on how long we have had them, and this is
+that time moves in the forward direction of our experience, it is possible
+what I think provides us with the appearance of temporal flow. Something
+to construct models of temporal becoming which could, in principle, give
+in our mind places memories on a kind of scale of importance so that some
+rise to the same type of subjective experiences as we ordinarily have. That
+memories seem closer to the present experience than others. Normally,
+is, while the Growing Block model seems to most intuitively capture our ex-
+memories of the immediate past seem the closest and memories of the
+perience of time, these experiences might conceivably arise from different
+distant past taper off in psychological importance. It is this effect which, if
+models. It is generally assumed that our memories provide us with a sub-
+disrupted, would significantly impact our sense of time.
+jective experience of the flow of time which corresponds to the actual be-
+There is some empirical evidence that the way in which we process
+coming of the universe, where the actual becoming is characterized by the
+memories impacts our understanding of the flow of time. Two that come
+Growing Block model. What I want to show is that, without any empirical
+to mind immediately are déjà vu and awaking abruptly from sleep. Probably
+investigation of physics, it is just as plausible, though much less intuitive,
+everyone has had the experience of déjà vu. This sensation usually consists
+that the becoming of the universe might unfold in a different way without
+in feeling that the present is an object of the distant past. Normally, we
+affecting our subjective sense of the flow of time.
+seem to place memories in a certain order, and the feeling of the immedi-
+Suppose, first of all, that the universe actually undergoes a process
+ate past normally corresponds to the memory of the immediate past, while
+of becoming the way we generally assume that it does, according to the
+the feeling of the distant past corresponds to its memory. When we have
+Growing Block model. Time is moving objectively forward, where ‘forward’
+déjà vu it seems the feeling of the distant past attaches itself to the memory of
+means that the present moment is causally dependent upon the past and
+the immediate past and confusion sets in. There is, in fact, an unfortunate
+that ‘slices’ of reality are being added at every instant to create an ever
+psychological ailment called chronic déjà vu, the victims of which viscerally
+richer and ontologically denser four-dimensional world. The movement of
+feel that they know what is going to happen in the future because they be-
+time may be characterized as the process whereby a new present moment
+lieve the present is in the past (and hence, they feel like the future is already
+comes into being. The future, on this account does not exist at all, but it is
+happening).
+causally dependent upon the past and present.
+Another example is that of awaking abruptly from sleep. Many peo-
+On this account, it is possible for a person to have an experience of
+ple have probably had the experience of taking a short nap in a very dark
+time which is subjectively different than the objective movement of time.
+place only to awake and find that several hours have passed. Likewise, it
+The mind gives priority to some memories such that they seem to have
+sometimes happens that one goes to sleep for what feels like a very long
+occurred later than others. Normally, the mind gives priority to whatever
+time, and it turns out only a few minutes have gone by. Normally, in this
+memories are most recent. These feel the most vivid, whereas memories of
+latter case, it is because one is dreaming that more seems to have gone on
+the distant past seem further away and less vivid. But suppose that a person,
+in such a short span of time. What seems to be happening in these cases
+Marty, has subjective experiences which are reversed from normal. Time
+is that, upon waking, the brain makes inductions based on experiences
+would still progress in the natural fashion, but his experience of time would
+before sleep, during sleep (if there are dreams), and after waking up. Memo-
+be subjectively reversed. Marty’s mind would always give priority to the very
+ries are arranged, not just by sequence, but by importance. If no dreams
+first thing he could remember, and he would feel as if that moment had
+take place and the room is bright upon waking, the brain tags the memo-
+just happened, even though the event corresponding to that experience lies
+ries of the moments just before sleep as having occurred several hours ago.
+in the objective past. From Marty’s perspective, the motion of time seems
+If the room is dark, the brain assumes that less time has passed, so the
+to be reversed, albeit in a very strange way. The present does not seem to
+memories of the moments before sleep get tagged as having occurred only
+move for Marty. Instead, the present remains fixed in his awareness, and
+a few minutes ago. If dreams were involved (and if they are remembered at
+as objective events unfold, he seems to acquire new memories of his past.
+40 Joshua Jarrott Models of BecoMing 41
+Now Marty, if he is clever, may come to discover that objective time is really
+moving opposite of the way he experiences it, but if he does so, it will only a. The Backwards Block Model
+be through careful reasoning about causality. He may wonder, for instance,
+what is causing him to remember events in his past, and why he seemed to Consider the first example, the ‘Backwards Block’ account. On this
+have a role to play in determining those memories, despite the fact that he account, we define the present just as we did on the Growing Block ac-
+feels as if he could not change it. Psychological disorders such as chronic count. The present is just that ‘slice’ of reality which is having new slices
+déjà vu make situations like this one believable, if unlikely. So I am inclined added to it. States of affairs are obtaining in sequence. The difference is
+to think it at least possible that there could be someone like Marty in our that on this view the future already exists and the past is coming into exis-
+own world. tence3. What would the subjective experience of time be like in this world?
+That someone like Marty could exist, in principle, motivates the pos- Suppose that Marty has an acquaintance, Biff, who lives in this world, call
+sibility that the Growing Block theory may be compatible with subjective ex- it W . Biff has none of the brain abnormalities from which Marty suffers.
+B
+periences of time differing greatly from what is normal. Now let us explore His experience of the world will be similar to ours. Consider any moment
+whether or not different objective structures of time could possibly give rise in Biff’s life, m. At that moment, his brain will possess memories of the
+to subjective experiences of time similar to what is normal. objective future of his world. He will not possess any memories of the objec-
+Suppose there is a world qualitatively identical to ours in all respects tive past, because those memories exist in his subjective future and so, are
+save for the fact that temporal becoming progresses backwards. What would not part of Biff’s experience at m. They have been formed objectively4, (in
+this structure look like? There are two clear possibilities. The first is that the the sense that they are encoded in brain structures in his subjective future,
+universe began at what we consider to be its ending (the big crunch, heat his world’s objective past), but the Biff of time m has no experience of
+death, or something else) and the process of becoming moved in reverse them. What he does experience are memories of his distant and immediate
+such that the future existed before the past2. This would seem to require objective future. In W time progresses in such a way that, at the end of
+B
+some sort of backwards causation, because for some effect in the future, it time, it will seem identical to our world on a four-dimensional Eternalist
+seems there could be many causes. There may be various ways of account- view. That is, events in the objective future of W (which are qualitatively
+B
+ing for this, but all that matters is that it could happen in principle. I call identical to the events of the past of our world) would seem to us to imply
+this theory the ‘Backwards Block’ account of time. The second possibility events in the past of W . So in order for the two to be qualitatively identi-
+B
+is what I shall call the ‘Diminishing Block’ account. On this account, the cal, Biff will have to have memories of his entire objective future but none
+universe starts out as a four-dimensionally complete entity from past to fu- of his objective past, even though his objective future will be his subjective
+ture. The process of becoming is replaced by ‘unbecoming’ so that slices of past. He will feel as if the very next future objective moment (his subjective
+the universe are whittled away and the total block shrinks out of existence past) has just happened and he will be anticipating the immediate objec-
+from the future into the past. tive past (his subjective future). This happens because Biff believes that his
+In the upcoming paragraphs, it will be important to be able to track subjective experience captures the objective nature of becoming. It follows
+the difference between subjective and objective pasts and futures. Keep in that, as the universe partakes in becoming, Biff will feel at every moment
+mind that ‘the objective past’ on all of the upcoming examples always refers that he is progressing into his subjective future, although in reality he is
+to states of affairs which already exist or have come into being, whereas losing memories. He mistakes the objective future for the objective past
+‘the objective future’ refers to states of affairs which have not yet come because his subjective past corresponds to the objective future.
+into existence. The ‘subjective past’ is the memory hierarchy possessed by Notice that Biff’s qualitative experience of the progression of time at
+a person at the present (the leading edge of the process of becoming or any moment in W is identical to our experience of our own world at the
+B
+unbecoming). The ‘subjective future’ is the state of affairs toward which a corresponding moment. Maybe this seems like a stretch since backwards
+person feels he or she is headed based on the information provided by the causation will have to be allowed for. It might be objected that Biff could
+memory hierarchy. thereby acquire memories of the objective past as well (which, for him,
+3The past is coming into existence in the sense that it is future of this hypothetical world but
+is qualitatively identical to the pat of our world. The same goes for its futures. See previous
+2Of course, the ‘future’ is really the past of this world because it comes into existence first. But it footnote.
+corresponds to the future of our world. 4I use ‘objective’ and ‘mind-independent’ interchangeably in this paper.
+42 Joshua Jarrott Models of BecoMing 43
+would feel like glimpsing the future). True, some account of causation will grows backward like Biff’s is particularly unbelievable. We are inclined to
+have to be considered. A random universe would probably do the trick. But think that causality simply could not work this way. In ‘Bringing About
+let’s move on. the Past’ Michael Dummet characterizes the problem in the following way:
+b. The Diminishing Block Model
+Imagine ourselves observing events in a world just like
+the actual one, except that the order of events is reversed
+Now I’ll take the second example. Suppose there is a world which
+… [I]t is clear we should have great difficulty in arriving
+began as a complete four-dimensional whole and from there lost parts. Call
+at causal explanations that accounted for events in terms
+it W . Here, the process of becoming is replaced with what I call unbecom-
+of the processes which had led up to them. The sapling
+D
+ing. That is, the future of W is undergoing a process of deletion, whereby grows gradually smaller, finally reducing itself to an apple
+D
+future instants cease to exist in consecutive order on backward, starting pip; then an apple is gradually constituted around the
+with the moment corresponding to the end of our universe. Let us suppose pip from ingredients found in the soul; at a certain mo-
+that the four-dimensionally complete W is qualitatively identical to the ment the apple rolls along the ground, gradually gaining
+D
+way our universe will be at its very end, and that from here it loses existence momentum, bounced a few times, and then suddenly
+from the future on back. What will be the subjective experience of time as takes off vertically and attaches itself with a snap to the
+experienced by Biff’s doctor5 , who goes by ‘Doc’? Just like Biff, all of Doc’s bough of an apple tree. (Dummett)
+memories are ordered and they create for him a subjective past. The differ-
+ence between the two is that whereas Biff’s subjective past corresponds to A world like this is very difficult to imagine because our normal conception
+his objective future, Doc’s objective future does not exist in the present. At of causation seems to rule out the possibility of such seemingly arbitrary
+any present moment m for Doc (where present is here defined as the edge events happening in a deterministic way. Probably the most widely accepted
+of temporal unbecoming) his objective future is literally nonexistent. Only interpretation of Growing Block theory is one in which the past plays a role
+his past and present are objectively real. At m Doc experiences his immedi- in causing the future to come into being. I want to stress that it’s not im-
+ate past very strongly and his distant past weakly, and he infers what his fu- possible, however, for a universe to come into being in a totally unpredict-
+ture will be. At m he anticipates m+1. But in reality, his future does not ex- able fashion. In fact, a universe ruled by statistical mechanics could work
+ist, and in a moment of objective time, m -1, he will be anticipating m and this way—the odds are, of course, massively against it. Nevertheless, there is
+m -1 will be his present. So at every moment of objective time, Doc feels as nothing that logically precludes it. The case involving Biff seems a bit more
+if he’s moving into his future, but all the while he (along with the rest of complex, however, because in order for his world to come out looking just
+the universe) is losing existence. Notice, once again, that Doc’s subjective
+like our world on the Eternalist view, he has to possess memories of his ob-
+experience of time is exactly like the way we experience time in our world,
+jective future, but not his past. This notion is less strange once it is realized
+if the Growing Block model is correct. At every moment of experience we
+that Biff’s experience is just one of a unique type of fatalism. Biff’s world
+are aware of our past and anticipate our future, which is non-existent.
+is objectively fatalistic. We stipulated that its future must end up identical
+to our world’s past. So its future is unavoidable on all accounts. The only
+IV. Parallels with our World
+thing that makes Biff different from us6 is that he possesses memories of his
+future. He has to because his objectively past actions depended upon what
+In sections a and b above, I have tried to motivate the idea that the
+he will have done in the objective future. But from his perspective, the ob-
+physical characteristics of the structure of time in our universe might vary
+jective future seems to have just happened because he orders his memories
+markedly from what common sense tells us without compromising our
+in the same fashion as we do. It is not very plausible that fatalistic worlds
+sensation of time’s passing. It is possible for a being in a world like ours
+could exist; nor is it likely that someone in such a world would possess
+in all respects except for the direction of temporal becoming to have just
+memories of the future but not the past. Nevertheless, we do not know for
+the same subjective experience of time as what we typically have. Consider,
+absolute certain that our world is not fatalistic.
+for instance, the world Biff lives in. The notion of a block universe which
+The case with Doc in section b is more believable. The notion of the
+present being the leading edge of the block of space-time would still be
+5I admit to taking stylistic liberties here. Obviously Marty, Biff and Doc do not inhabit the same
+world. 6In the cognitive sense; I do not mean to imply that our world is fatalistic.
+44 Joshua Jarrott
+WWoorrkkss CCiitteedd
+preserved with the diminishing block account as with the Growing Block.
+The only difference is the direction of becoming. In the diminishing block
+model, states of affairs go out of existence in consecutive order according Broad, CD. “Ostensible Temporality.” Broad, C.D. An Examination of
+to precise causal relationships already in place. In this case, causality does McTaggert’s Philosophy. Vol. 2. Cambridge UP, 1938. 264-81, 288-317.
+not actually move in reverse. Everything in the objective past causally im- Dummet, Michael. “Bringing About the Past.” Philosophy of Time. Ed. Le
+plies future moments. The universe is undergoing a process of losing its Poidevin and Murray MacBeath. New York: Oxford UP, 1993. 118.
+existence from the future on back. It begins as one complete and eternal Heller, Mark. The Ontology of Physical Objects. Cambridge: Cambridge UP,
+whole and shrinks back into its big bang. In this case, there is no problem 1990.
+of memory. Doc’s memories are of his objective past. His objective future Le Poidevin, Robin and Murray MacBeath, The Philosophy of Time. New York:
+does not exist, but at every moment he expects it to come into existence Oxford UP, 1990.
+the very next moment; he believes this on the basis of his memory and the McTaggert, J.M.E. “The Unreality of Time.” Mind 17 (1908): 457-474.
+causal relationship it holds with the world. His experience of time is just
+like ours. This account seems much more believable than the Backwards
+Block model precisely because at any moment of time in either the Grow-
+ing Block universe or the Diminishing Block universe, exactly the same
+things are in existence. At the time of the death of Caesar in our world, the
+events leading up to the betrayal of Caesar by Brutus had already transpired
+and exist in the past, whereas the future of the Roman Empire is uncertain.
+The same is true for Doc’s world. The past exists, but the future is unreal
+at that moment.
+V. Conclusion
+I hope I have convincingly shown that non-intuitive versions of tem-
+poral becoming could, in principle, give rise to subjective experiences of
+time indistinguishable from the way we experience time in our normal
+lives. Maybe this is a point against temporal becoming as presented by
+Growing Block theory. Perhaps, if we are willing to accept the subjective
+experience of time as outlined in this paper and also the equal footing that
+the Diminishing Block model seems to have with Growing Block, we may
+be inclined to accept the possibility of four-dimensional Eternalism. Or
+perhaps there are reasons to accept the Growing Block account of becom-
+ing on more physical grounds. My real aim was to break down some of our
+intuitions. As I see it, the highly important role that our subjective experi-
+ences play in guiding our intuitions concerning time is all the more reason
+to continue studying time from an empirical point of view.

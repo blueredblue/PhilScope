@@ -1,0 +1,236 @@
+Aporia vol. 18 no. 2—2008
+The Ontological Parody:
+A Reply to Joshua Ernst’s “Charles Hartshorne
+and the Ontological Argument”
+Joshua seigal
+Charles Hartshorne argues that Kant’s criticisms of Anselm’s onto­
+logical argument were not directed against its strongest formulation.
+Kant criticised the argument on the famous grounds that existence
+is not a predicate (B620–30); however, Hartshorne argued that there is a
+modal distinction that needs to be made between existing contingently and
+existing necessarily, and while “existence” per se may not be a real predicate,
+necessary existence is.
+In his paper, “Charles Hartshorne and the Ontological Argument,”
+Joshua Ernst argues that Hartshorne’s revisions of the ontological argument
+“can withstand Kant’s critique of predicated existence” (Ernst 60), and
+that Hartshorne’s version of the argument “solved the problems faced by
+Anselm’s original argument such as those of perfection and infinity” (Ernst
+65). In this reply, I argue that there are key problems faced by Anselm’s argu­
+ment other than the ones to which Ernst points, and that Hartshorne’s
+version of the argument is just as vulnerable to these problems.
+My strategy shall be as follows: After briefly explicating Anselm’s
+ontological argument, I shall point to two objections that can be levelled
+against it. These objections take for granted that existence can be predi­
+cated of an object (and so the objections come at the argument from a
+very different angle to those of Kant), but they show that if the argument
+proves that God exists, then it proves that other things exist too. Thus, the
+objections proceed by way of parody: Anselm’s ontological argument can
+be parodied, thus proving the existence of all kinds of things that are likely
+Joshua Seigal is a senior at University College London. He has a broad range of
+interests, including the history of philosophy and George Berkeley’s philosophy, but
+he focuses primarily on epistemology and philosophy of mind. He intends to continue
+studying philosophy as a postgraduate.
+56 Joshua seigal
+to be uncongenial to the theist. Furthermore, once I have highlighted these
+objections and argued that Anselm’s argument is powerless against them,
+I shall turn my attention to Hartshorne’s modal version of the ontological
+argument, and argue that Hartshorne’s argument, no less than Anselm’s,
+is vulnerable to such objections. Thus, my argument goes against that of
+Ernst, who claims that Hartshorne’s argument is not vulnerable to the
+same objections as Anselm’s.
+I
+As Ernst acknowledges, Anselm’s argument is a priori: it is an attempt
+to prove the existence of God without using any empirical premises; it pro­
+ceeds simply through an analysis of the very concept of God. The most
+famous version of the argument can be found in the Proslogion 2, where
+Anselm claims, “the fool hath said in his heart ‘There is no God.’” Anselm
+attempts to argue that the fool has actually uttered something incoherent.
+This is because Anselm believes that we all have in our understanding the
+notion of God as “that than which nothing greater can be conceived,”
+and, since it is greater to exist in the mind and in reality than in the mind
+alone, the fool must acknowledge that, given his understanding of God,
+God must exist in reality. Thus, the fool, at the same time as saying in his
+heart that “there is no God,” is committed to God’s existence de re.
+Since Anselm’s point was originally stated as a prayer rather than as
+an explicit argument, the correct way to set out the argument is open to
+dispute. However, it seems plausible that, paring the argument down to its
+bare bones, it can be laid out as follows:
+(1) God = (df) that than which nothing greater can be
+conceived.
+(2) It is greater to exist in the mind and in reality than in
+the mind alone.
+(3) Therefore, God exists both in the mind and in reality.
+However, crucial to Ernst’s argument is that the ontological argu­
+ment is concerned not just that God exists, but also with the manner in
+which He exists. Thus, according to Ernst, “Anselm believed that if God
+exists, He must exist necessarily” (Ernst 59). Furthermore, Ernst argues that
+it is this aspect of the ontological argument that Hartshorne is particularly
+concerned with. I want now to present two arguments that not only attack
+the version of the ontological argument adumbrated above, but also work
+against Hartshorne’s revisions.
+The first of the two arguments is a very famous one, made by a
+contemporary of Anselm’s several centuries before Kant’s famous objection.
+Gaunilo parodied Anselm’s argument by arguing that just as one can use it
+The onTological Parody 57
+to prove the existence of God, one can also use it to prove the existence of a
+perfect island. It all depends on how we define such a thing: if we similarly
+define it as an island such that no greater island can be conceived, we can
+see that, by the same logic as Anselm’s argument, such an island must exist
+in reality. The problem is that the theist is not likely to sanction the sort
+of bloated ontology that includes things such as perfect islands. But, if the
+theist is not willing to do this, then the theist should be no more willing to
+sanction the conclusion of Anselm’s ontological argument. At any rate, he
+requires a different argument in favour of Anselm’s conclusion.
+The second argument against Anselm is made by Michael Martin in
+his book Atheism: A Philosophical Justification. Again, the argument takes
+the form of a parody. Just as Gaunilo argues that we can parody Anselm’s
+argument in order to argue for an ontology containing all sorts of strange
+items, Martin argues that we can also parody the argument in order to
+yield a conclusion that is inconsistent with that of Anselm. Again, Martin’s
+argument takes for granted that existence can be a predicate, and so it is a
+very different type of objection to that of Kant. Martin asks: “why could
+not one argue that existence is an essential part of the intrinsic evilness of
+a completely evil being?” Let me explain this: premise 2 of the argument
+that I outlined above assumes that de re existence is an intrinsic part of the
+greatness of God (which was attributed to Him in premise 1). However, it
+seems that if a being such that no greater being can be conceived must exist
+in reality, then it similarly seems that a being such that none more evil can
+be conceived must exist in reality also. Thus, an argument for what Martin
+calls the “Absolute Evil One” could run as follows:
+(1) The Absolute Evil One (AEO) = (df) a being such that
+none more evil can be conceived.
+(2) Such a being would be more evil if it exists in reality
+than in the mind alone.
+(3) Therefore, AEO exists in reality.
+In premise 1 we have simply stipulated the definition of AEO to
+mirror that of God in Anselm’s argument. Premise 2, moreover, is surely
+correct. AEO would be more evil if he existed in reality since it would be
+existence in reality that afforded him the opportunity to carry out evil deeds;
+just as an evil torturer that existed in reality would be more evil than one
+that existed in the mind alone, so AEO would be more evil if he existed
+in reality than in the mind alone. We can see that Martin’s argument, like
+Anselm’s, takes for granted the perhaps dubious view that existence can be
+a predicate, but, even if this is granted, Martin shows that the argument can
+be parodied to yield a conclusion that is inconsistent with Anselm’s. Such a
+conclusion is inconsistent, since, as Martin argues, “One cannot prove the
+58 Joshua seigal
+existence of both God and the absolute evil one, since they are mutually
+exclusive” (Martin 82): AEO and God would both have to be omnipotent
+(if AEO were not omnipotent then he would not be a “being such that
+none more evil can be conceived“since we would be able to conceive of a
+being that was more evil by dint of being able to do more evil things; and
+if God were not omnipotent then He would not be “that than which noth­
+ing greater can be conceived” since we would be able to conceive of a being
+that was greater by dint of being able to do more great things) but it seems
+inconsistent to suppose that there could be two beings, one wholly good and
+the other wholly evil, such that both are omnipotent. Thus, given Martin’s
+parody, the onus seems to be on the defender of Anselm to present reasons
+as to why we should accept the conclusion of Anselm’s argument, rather
+than that of Martin’s parody.
+II
+We have so far seen that Anselm’s ontological argument is vulner­
+able to two objections (besides the ones elucidated by Ernst). I now wish to
+argue against Ernst’s claim that Hartshorne’s ontological argument “solved
+the problems faced by Anselm’s original argument” (Ernst 65). This will be
+seen to be the case when we consider that Ernst does not take into account
+the objections presented by Gaunilo and Martin.
+Let us look as Hartshorne’s argument. Norman Malcolm is famous
+for having identified two separate arguments within Anselm’s thought, one
+of which is unsound and the other of which (he claimed) is sound. Hartshorne,
+however, maintains that it was he, before Malcolm, who identified these
+two strands. Drawing on the second of these two arguments of Anselm’s,
+Hartshorne, in The Logic of Perfection, sets out the following argument, where
+“q” is “there exists a perfect being,” and “N” is “it is necessary (logically
+true) that”:
+1. q ⊃ Nq (Anselm’s Principle)
+2. Nq v ¬Nq (excluded middle)
+3. ¬Nq ⊃ N¬Nq (Becker’s postulate)
+4. Nq v N¬Nq (from 2 and 3)
+5. N¬Nq ⊃ N¬q (from 1)
+6. Nq v N¬q (from 4 and 5)
+7. ¬N¬q (intuitive postulate)
+8. Nq (from 6 and 7)
+9. Nq ⊃ q (modal axiom)
+10. q (from 8 and 9)
+Now, crucial to Hartshorne’s argument is our understanding of “per­
+fection.” Hartshorne argues that a perfect being is such that, if it exists, it
+The onTological Parody 59
+exists necessarily. I argue that Hartshorne’s version of the ontological argu­
+ment is powerless against the two objections presented above; that is, we
+can formulate interpretations of “q” that parody Hartshorne’s argument,
+such that if Hartshorne’s argument is sound, then these parodies must also
+be sound, leading to problems and even contradictions.
+Let us first consider Gaunilo’s objection. Perhaps we could use the
+logic of perfection to prove the existence of a perfect island. If such a
+perfect island is possible then it too, according to the logic of Hartshorne’s
+argument, must exist. However, Hartshorne argues that a perfect island is
+not possible. He claims that it is incoherent to suppose that an island could
+be perfect, since in order to be perfect it would have to be noncontingent
+(as we can see from premise 1), and an island, by its very nature, is con­
+tingent (Martin 89). As Martin notes, however, this is not a particularly
+promising line of argument. Martin asks, “could one not introduce the
+concept of a super island that, if it existed at all, would exist necessarily?”
+(Martin 89). Hartshorne argues that this is impossible, but it is not clear
+why this should be the case (Logic of Perfection 55). Hartshorne argues that
+a necessary being cannot be causally dependent upon anything else, and
+since islands are causally dependent, they cannot be necessary. However, as
+Martin highlights, “islands are in fact so dependent, but it does not seem
+impossible to imagine an island that was not” (Martin 90). The problem
+here is that Hartshorne has claimed that the notion is “self­inconsistent”
+(Logic of Perfection 55) However, the fact that the islands we have observed
+do not conform to his criteria for necessity does not in itself indicate that
+we cannot frame the notion of a necessarily existing island. If we can frame
+such a notion (and Hartshorne seems to give us no reason to suppose that
+we could not), then the notion is not self­inconsistent. Thus, there seems to
+be no reason why we cannot interpret “q” as “there exists a perfect island,”
+such that if this island exists then it exists necessarily. If we can do this,
+then, given Hartshorne’s logic of perfection, the above argument will go
+through. Gaunilo’s objection, therefore, seems to work against Hartshorne,
+meaning that we can parody Hartshorne’s argument to yield an unconge­
+nial conclusion, namely that a perfect island exists.
+What about Martin’s notion of AEO? It seems that Hartshorne’s
+argument also licenses “there exists a perfectly evil being” as an interpretation
+of ”q.” We could frame an idea of AEO such that if it exists, then it exists
+necessarily. Again, Hartshorne argues that such a notion is incoherent. He
+argues against the existence of a “perfect devil” on the grounds that such
+a being would have to be “infinitely responsible for all that exists besides
+itself, and yet infinitely averse to all that exists” (Necessary Existent 127).
+However, it is by no means clear that this is the case. Surely we could frame
+an idea of AEO such that he is not averse to all that exists since he has created
+60 Joshua seigal
+everything with the specific aim of causing unlimited pain and suffering.
+As we saw above, a being that created everything with this sole aim would
+be more evil than one who was “averse” to all of existence and created
+nothing at all. If this is the case, then AEO would not be averse to all that
+exists, and our conception of AEO would not, contrary to what Hartshorne
+claims, amount to a “necessary nothing.” Thus, it seems that Hartshorne has
+failed to show that his argument would not work just as well with AEO as
+it would with God, and, since these two concepts are mutually exclusive,
+the argument must be going wrong somewhere.
+Conclusion
+My aim in this paper has been to argue against Joshua Ernst’s claim
+that Hartshorne’s version of the ontological argument “solved the prob­
+lems faced by Anselm’s original argument such as those of perfection and
+infinity.” Ernst primarily considers Kant’s objections, and argues that Hartshorne is
+successful in overcoming them. This may indeed be the case. However, as I
+have argued, there are other important ways in which Anselm’s argument
+can be criticised. I pointed to two such ways, one put forward by Gaunilo,
+the other put forward by Michael Martin. These objections bypass Kant’s
+critique of predicated existence, and I argued that Anselm’s argument is
+vulnerable to these objections. I also argued that, whilst Hartshorne’s argu­
+ment may overcome Kant’s objections, it will have a lot more work to do
+if it is to overcome Gaunilo’s and Martin’s objections. Moreover, I have
+presented some reasons as to why, prima facie, it seems that Hartshorne is
+unable to do this.
+WWoorrkkss CCiitteedd
+Ernst, Joshua. “Charles Hartshorne and the Ontological Argument” Aporia:
+A Student Journal of Philosophy 18.1 (2008): 57–66.
+Hartshorne, Charles. The Logic of Perfection, La Salle, Ill.: Open Court,
+1962.
+——— ‘The Necessary Existent’, in Plantinga, The Ontological Argument: From
+St. Anselm to Contemporary Philosophers. Garden City, NY: Doubleday,
+1965.
+Kant, Immanuel. Critique of Pure Reason. Trans. Paul Guyer and Allen W.
+Wood. New York: Cambridge UP, 1998
+Martin, Michael. Atheism: A Philosophical Justification, Philadelphia: Temple
+UP, 1990.
