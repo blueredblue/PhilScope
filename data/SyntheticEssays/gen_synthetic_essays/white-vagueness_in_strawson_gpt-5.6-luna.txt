@@ -1,0 +1,213 @@
+# Directions, Reference, and the Queen of America: Strawson on Meaning and Nonexistent Objects
+
+P. F. Strawson’s account of referring is directed against a tempting but misleading picture of language: the picture according to which every meaningful referring expression is a name-like item that stands for an object, and according to which a sentence containing such an expression is true or false depending straightforwardly on whether the object has the relevant property. Strawson argues that this picture confuses the meaning of an expression with what a speaker does with that expression on a particular occasion. Expressions do not, simply by possessing meaning, refer to objects. Speakers use expressions to refer, and whether a use succeeds depends upon contextual circumstances, communicative intentions, and shared assumptions.
+
+This distinction enables Strawson to resist Bertrand Russell’s treatment of definite descriptions as disguised quantificational constructions. For Russell, “the F is G” does not contain a referring term whose failure to refer produces a special semantic difficulty. It means, roughly, that there exists one and only one F and that it is G. If there is no F, the statement is false. Strawson, by contrast, maintains that ordinary uses of definite descriptions often involve a presupposition that the relevant object exists. If someone says, “The king of France is bald,” in a contemporary setting, the utterance may fail to be either true or false in the ordinary sense because the speaker has attempted to refer to something that does not exist. The problem is not that the expression lacks meaning, but that its use fails to achieve its intended referential function.
+
+Strawson’s position is philosophically powerful, but it also creates a difficulty concerning the nature of meaning. If the meaning of an expression is understood as a set of “general directions” for its correct use, what happens when the expression has no fixed referent, or when its supposed referent does not exist? Consider the phrase “the queen of America.” What are the directions for using it correctly? Does it mean that one should use it only when there is a unique queen of America? If so, can it be meaningfully used in a fictional, historical, counterfactual, or mistaken context? If not, what makes one use correct and another incorrect? The phrase appears to have a recognizable meaning while lacking an actual object to which it refers. This suggests either that directions for use are more flexible and context-sensitive than a simple rule-based theory implies, or that speakers often misunderstand the proper application of expressions.
+
+The central issue is therefore not merely whether nonexistent objects can be referred to. It is whether Strawson can preserve a determinate distinction between meaning and use when meaning consists in general directions whose application may be vague, defeasible, and dependent upon context. The difficulty is not fatal to Strawson’s theory, but it reveals that his account cannot by itself supply a complete theory of semantic evaluation. Russell’s logical paraphrases remain indispensable for certain purposes, especially for truth conditions and ontological commitment. Yet Russell’s analysis also fails to capture the ordinary pragmatics of referring. The most satisfactory conclusion is that Strawson and Russell illuminate different dimensions of the problem: Russell explains how referring constructions can be logically represented without nonexistent objects, while Strawson explains what speakers ordinarily do when they use such constructions in conversation.
+
+## I. Expression and Use
+
+Strawson’s most important conceptual distinction is between an expression and the use of an expression. An expression is a linguistic item with a conventional significance. Its meaning is not identical with whatever a speaker happens to accomplish by uttering it. The same expression can be used on different occasions to refer to different things, to make different assertions, or to perform different communicative acts. Conversely, a single communicative act can sometimes be performed by means of different expressions.
+
+For example, the expression “the table” has a meaning that is not identical with any particular table. In one context it may be used to refer to a dining table; in another, to a laboratory table; in still another, to a table already mentioned in a conversation. The expression does not carry one object with it wherever it goes. Its meaning provides a general pattern that enables speakers and hearers to coordinate on a particular object in a particular situation.
+
+This is why Strawson distinguishes meaning from referring. To say that “the table” means something is not to say that it refers to a specific table. Rather, it is to say that the expression has a conventional role in language: it is available for use in certain kinds of circumstances and according to certain kinds of rules. Reference is something a speaker does with the expression. The expression supplies resources and constraints, but the context and the speaker’s intentions determine the object, if any, that is picked out.
+
+The distinction is also evident with proper names. The name “Alexander” may be used to refer to many different people. Its meaning cannot simply be the individual to whom it refers on one occasion. Nor is it sufficient to say that the name means whichever person the speaker intends. A speaker may intend to refer to Alexander the Great while the hearer takes the utterance to concern Alexander Hamilton. Intention alone does not settle the matter. The meaning of the name, together with contextual information and the communicative situation, helps determine whether the use succeeds.
+
+Strawson’s theory is thus neither a purely referential theory nor a purely mentalistic theory. Meaning belongs to the expression as a public linguistic item; reference belongs to the use of that item in a situation. This distinction allows Strawson to explain how an expression can remain meaningful even when a particular use fails. A speaker may use “the king of France” meaningfully while failing to refer to anything because there is no king of France. The expression has a role in the language even though the relevant role cannot be successfully performed on that occasion.
+
+This point is essential. If meaning were simply reference, then an expression with no referent would be meaningless. But ordinary linguistic practice does not support that conclusion. We understand expressions such as “the present king of France,” “the largest prime number,” “the fountain of youth,” and “the queen of America,” even when no corresponding object exists. Their intelligibility does not depend on the actual existence of their referents. We know what kind of object the expressions purport to identify, what circumstances would make their application appropriate, and what would count as a failure.
+
+The distinction between expression and use therefore gives Strawson an initial answer to the problem of nonexistent objects. The phrase “the queen of America” can possess meaning because its meaning is not the possession of an actual queen. It has a conventional function: it is a definite description that presents itself as identifying one particular individual satisfying the relevant description. A speaker who utters it may attempt to refer to such an individual, even if the attempt fails.
+
+Yet this answer immediately raises a further question. If the meaning of an expression is a guide to its use, what exactly are the rules governing the phrase “the queen of America”? The expression appears to be meaningful precisely because speakers understand its application, but its application is not straightforwardly governed by a fixed, publicly observable referent. Strawson’s theory must therefore explain what kind of directions meaning provides.
+
+## II. Meaning as General Directions
+
+Strawson characterizes meaning in terms of general directions for use. The phrase “general directions” is significant. Meaning is not a mechanical instruction manual that determines every correct utterance in advance. Nor is it merely a private image or association in the mind of a speaker. It is a set of public, conventional norms that guide speakers in producing and interpreting utterances.
+
+The directions associated with a definite description might include such considerations as these: the expression is used to identify an object by means of a property or set of properties; the speaker ordinarily presents the object as uniquely satisfying the description; the hearer is expected to locate the object through contextual knowledge, perceptual information, or conversational background; and the use normally carries an existential presupposition. These are not complete truth conditions in Russell’s sense. They are instructions concerning how the expression functions in communication.
+
+The flexibility of “general directions” is both the strength and the vulnerability of Strawson’s account. It is a strength because language is not applied mechanically. The directions associated with “the table” can be followed in a restaurant, a classroom, or a workshop. The relevant table may be identified by perceptual salience, previous mention, gesture, or shared knowledge. A theory that demanded a fixed descriptive content in every case would misrepresent ordinary speech.
+
+But the flexibility is also a vulnerability. General directions can become too general. If the meaning of an expression is whatever broad guidance speakers normally follow, then the theory may fail to explain what makes one use correct and another incorrect. The danger is that “meaning” becomes a label for a loose collection of pragmatic expectations rather than a substantive semantic notion.
+
+The phrase “the queen of America” exposes this danger. Suppose a speaker says:
+
+> The queen of America lives in a palace in Virginia.
+
+What would count as a correct use? There is no actual queen of America in the ordinary political world. The speaker may be joking, speaking fictionally, making a historical error, describing an alternative political system, or referring to a ceremonial leader in a hypothetical future. The expression itself does not tell us which of these activities is taking place. The hearer must rely on contextual clues.
+
+One response is to say that the phrase has a straightforward direction: use it only if there is one and only one queen of America. Since that condition is not met, the use is incorrect. This answer preserves a determinate norm, but it is too strict to account for the range of intelligible uses. A novelist can write, “The queen of America looked out over the crowd,” without believing that America has an actual queen. A historian can discuss a proposed constitutional arrangement in which America would have had a queen. A child can use the phrase while playing a game. In each case, the expression appears to be used appropriately within a broader context.
+
+A second response is to say that the phrase has no fixed conditions of use at all; its interpretation is entirely determined by context. This saves the diversity of actual uses but risks collapsing expression meaning into use. If every use establishes its own rules, then the distinction between an expression’s meaning and its use becomes unstable. There would be no independent conventional structure explaining why some interpretations are more natural than others.
+
+The most plausible account lies between these extremes. The meaning of “the queen of America” provides a general schema: it presents a unique female monarch associated with America as the intended object of identification. The schema does not guarantee that such an object exists, nor does it determine every context in which the phrase can be used. It does, however, constrain the range of appropriate applications. A fictional use must occur in a setting that suspends ordinary existential commitment or establishes a fictional domain. A counterfactual use must be marked by hypothetical language. A mistaken ordinary use may be intelligible while still being defective. The general directions do not decide every matter by themselves, but neither are they empty.
+
+The question is then whether this weakened form of guidance is sufficient for a theory of meaning. Strawson can say that meaning consists not in an exhaustive set of rules but in a norm-governed practice. The directions are comparable to rules in a game: they structure activity without determining every move independently of context. Yet this analogy makes clear that the theory depends upon background practices and judgments of appropriateness. Meaning is not autonomous from use; it is realized through use while constraining use.
+
+## III. The Problem of Nonexistent Objects
+
+The phrase “the queen of America” raises several distinct problems that should not be conflated. First, the phrase may lack an actual referent. Second, it may be vague or indeterminate in its descriptive content. Third, a speaker may use it with a particular referent in mind but fail to make that referent identifiable to the hearer. Fourth, the phrase may be used in a non-assertoric mode, such as fiction, supposition, or quotation. Strawson’s account must distinguish these cases.
+
+Consider an ordinary assertion:
+
+> The queen of America is in Washington.
+
+If uttered as a report about the actual political world, the speaker seems to presuppose that there is a queen of America. Since there is no such person, the utterance does not function normally as a true or false assertion. It is not simply false in the same way as “The queen of America is in London,” because both utterances fail before the question of location arises. The identifying act has not succeeded.
+
+This is the Strawsonian diagnosis. A definite description has a referential use when the speaker uses it to pick out an object. The assertion presupposes that the object exists. If the presupposition fails, the utterance is infelicitous or defective rather than straightforwardly false. This diagnosis reflects ordinary conversational reactions. If someone says, “The queen of America is in Washington,” a listener may respond, “There is no queen of America,” rather than “That is false; she is not in Washington.” The listener challenges the presupposition underlying the assertion.
+
+However, the existence of such a presupposition does not entail that the expression is meaningless. The phrase remains intelligible because the listener understands what sort of referential attempt the speaker is making. The failure is located in the use, not in the linguistic item. The expression supplies a rule-governed way of presenting a supposed object, even though the supposed object is absent.
+
+This distinction also explains why fictional and hypothetical uses are possible. In a novel, the sentence may be understood relative to a fictional world in which America has a queen. In a political theory seminar, it may be embedded in a conditional: “If America had a queen, the queen of America would appoint the cabinet.” In such cases, the phrase is not being used as an unqualified attempt to refer to an actual person. The background context modifies the domain of evaluation or suspends ordinary existential commitment.
+
+One might object that this flexibility shows that the phrase does not possess a single meaning. It can be used fictionally, hypothetically, mistakenly, ironically, or literally. But this objection demands too much from meaning. Many expressions have multiple legitimate modes of use without being semantically chaotic. The word “bank,” for example, can refer to a financial institution or the side of a river. Context determines which sense is active, but this does not show that the word lacks meaning. Similarly, a definite description can be embedded in different linguistic environments that alter its force without eliminating its conventional significance.
+
+The more serious objection concerns borderline cases. Suppose a speaker says, “The queen of America” while referring to a woman who has been informally called “queen” by a small political movement. Or suppose a future constitutional change creates an office that is ambiguously related to the existing presidency. Does the expression apply? The answer may not be determined by a precise rule. The phrase’s criteria may be vague, and its use may require interpretive negotiation.
+
+This is where Strawson’s account is vulnerable. If meaning consists in general directions for correct use, then some expressions provide only loose directions. “Queen” may involve institutional, ceremonial, hereditary, or metaphorical criteria. “America” may refer to the United States, the continents, or a cultural region. The phrase has both lexical and contextual sources of indeterminacy. It may therefore be impossible to specify a unique set of conditions under which the use is correct.
+
+But vagueness does not entail collapse. A concept can guide use without having sharp boundaries. The concept of “baldness” is vague, but it still distinguishes central cases from clear non-cases. Likewise, “the queen of America” has clear paradigmatic applications within a fictional or counterfactual context and clear failures in ordinary literal contexts. The existence of borderline cases shows that general directions are defeasible and context-sensitive, not that they are absent.
+
+## IV. Are Implicit Directions Unreliable?
+
+The phrase “general directions for correct use” invites a dilemma. Either the directions are sufficiently determinate to regulate use, in which case expressions lacking fixed referents appear unusable, or they are sufficiently flexible to permit such uses, in which case they may be too vague to distinguish correct from incorrect applications. Are implicit directions in language inherently unreliable?
+
+The answer depends on what “reliable” means. If reliability requires that a semantic rule determine a unique referent whenever an expression is uttered, then natural-language directions are plainly unreliable. But that standard is inappropriate for ordinary language. Reference is not an automatic process like the retrieval of a data entry. It is a cooperative activity involving attention, context, expectations, and practical purposes. Speakers routinely use expressions whose application is recoverable but not algorithmically fixed.
+
+If reliability instead means that speakers can normally coordinate their interpretations and identify failures when they occur, then linguistic directions are often reliable enough. A phrase such as “the person who left the room” can be successfully used even though several people might have left at different times, provided the conversational setting makes one individual salient. If no unique person can be identified, the hearer can request clarification. The rule has not failed merely because it required contextual supplementation.
+
+Strawson’s theory should therefore be understood as an account of practical normativity rather than a theory of strict formal determination. The directions associated with an expression are reliable in the way social conventions are reliable. They guide action under normal circumstances, while leaving room for repair, clarification, and disagreement. Their application can fail without the convention itself being meaningless.
+
+Nevertheless, a genuine philosophical weakness remains. Strawson sometimes seems to rely on the notion of “correct use” without providing a fully independent account of correctness. If correct use is simply whatever competent speakers accept in context, then the theory risks circularity: meaning determines correct use, but correct use is identified by appeals to meaning or linguistic competence. The problem is especially acute for expressions with no actual referent. What makes a fictional use of “the queen of America” correct? Is it the speaker’s intention, the hearer’s recognition, the conventions of fiction, or the absence of an ordinary assertional commitment?
+
+A satisfactory answer must appeal to several dimensions at once. Correctness in language is not a single relation. At least three forms of correctness should be distinguished.
+
+First, there is **semantic correctness**: the expression is used in a way consistent with its conventional role. “The queen of America” is semantically appropriate when it is presented as a definite description of a unique monarch associated with America.
+
+Second, there is **referential success**: the use successfully identifies an object for the hearer. This may fail even when the semantic use is appropriate. A speaker may use “the queen of America” with a fictional character in mind, but unless the context establishes that fiction, the hearer cannot identify the intended object.
+
+Third, there is **assertoric or pragmatic appropriateness**: the utterance is made in a setting where its presuppositions and communicative implications are acceptable. An unqualified assertion about the actual queen of America is pragmatically defective if no such queen exists. The same words in a novel or conditional may be entirely appropriate.
+
+These dimensions explain why an expression can be meaningful, semantically well-formed, and even correctly used in one respect while failing in another. Strawson’s distinction becomes clearer when these layers are separated. The meaning of the expression supplies semantic norms; the context determines whether reference succeeds; the conversational setting determines whether the act is appropriate.
+
+## V. Do Speakers Misunderstand Proper Application?
+
+An alternative explanation for apparent vagueness is that speakers simply misunderstand how expressions are supposed to be used. Perhaps “the queen of America” has a determinate meaning, and anyone who uses it outside the appropriate circumstances is not revealing semantic flexibility but committing an error. This possibility should not be dismissed. Speakers often misuse words, mistake one individual for another, or apply a term outside its accepted range. Semantic competence is not infallible.
+
+Suppose someone seriously asserts, “The queen of America lives in Washington,” believing that the United States has a queen. One explanation is that the speaker has misunderstood the political vocabulary. The problem is not that “the queen of America” has vague directions; the speaker has incorrectly applied a clear expression. Similarly, someone may say “the square circle” while believing that such an object exists. The phrase is meaningful, but the speaker’s ontological assumptions are mistaken.
+
+This explanation is especially attractive if one wants to preserve determinate meaning. It allows us to say that the phrase has a fixed rule: it is properly used only if there is a unique queen of America. A speaker who uses it otherwise is simply wrong. Russell’s theory supports a related approach: the description has a precise logical form, and the sentence containing it is false when the existence condition fails.
+
+Yet not every use outside the actual world is a misunderstanding. A novelist who writes about the queen of America is not confused about American politics. A philosopher who asks what would happen if America had a queen is not misapplying the expression. A child who uses the phrase in a game may be following the rules of the game. The phrase therefore has legitimate uses that do not require an actual referent.
+
+The distinction between misunderstanding and alternative use depends on contextual framing. An utterance is not correct or incorrect in isolation. The same sentence can be an error in one context and an appropriate sentence in another. In a newspaper article presented as factual reporting, “The queen of America addressed Congress” is defective if no such queen exists. In a work of fiction, it may be entirely proper. In a conditional, its status is governed by the antecedent. In quotation, it may be mentioned rather than used.
+
+This contextual dependence does not imply that all uses are equally valid. It means that correctness is indexed to a linguistic practice. The norms of assertion differ from those of fiction, theater, supposition, metaphor, and quotation. Strawson’s theory is strongest when it treats meaning as embedded in these practices rather than as a self-sufficient mechanism that determines reference independently of them.
+
+The danger, however, is relativism. If every practice can establish its own norms, then there may be no stable distinction between meaning and abuse. To avoid this result, one must retain the idea that practices inherit constraints from the expression’s conventional role. A fictional use of “the queen of America” works because the phrase still functions as a definite description within the fictional world. If a writer uses it to mean “a random dog,” the use is not merely unconventional; it fails unless the text establishes a special metaphorical or symbolic rule. Context modifies meaning but does not abolish semantic structure.
+
+Thus speakers sometimes misunderstand proper application, but misunderstanding is not the only source of referential failure. We must distinguish error from presupposition failure, ambiguity, fiction, and contextually licensed extension. Strawson’s account can accommodate these distinctions, although it requires more theoretical articulation than the notion of general directions alone provides.
+
+## VI. Strawson and Russell on Definite Descriptions
+
+Russell’s theory of descriptions offers a radically different method for dealing with phrases such as “the queen of America.” According to Russell, the surface grammar of a definite description conceals a quantificational structure. “The queen of America is wise” can be analyzed as asserting three things:
+
+1. There is at least one queen of America.
+2. There is at most one queen of America.
+3. Whoever is the queen of America is wise.
+
+In symbolic form, the analysis is approximately:
+
+\[
+\exists x[(Qx \land \forall y(Qy \rightarrow y=x)) \land Wx].
+\]
+
+If nothing satisfies “is queen of America,” the existential component is false, and the whole sentence is false. No nonexistent object is required. The description does not function as a name of an absent entity; it is a quantificational phrase whose conditions are unsatisfied.
+
+Russell’s achievement is substantial. His analysis provides a precise account of logical form, scope, negation, and ontological commitment. It prevents us from inferring that there are strange objects corresponding to every meaningful description. “The present king of France is bald” does not require a present king of France in order to be meaningful. It is false because the existential condition is not met.
+
+Russell’s theory also handles the apparent paradoxes of negative existential statements. “The present king of France does not exist” need not be analyzed as attributing nonexistence to a peculiar nonexistent king. It can be understood as denying that there is exactly one present king of France. In this respect, Russell’s approach is elegant and ontologically economical.
+
+However, Russell’s logical analysis does not capture everything that is important about ordinary utterances. If someone says, “The queen of America is wise,” and there is no queen of America, it may be misleading to say simply that the speaker has asserted a false proposition. In ordinary conversation, the hearer may reject the presupposition rather than assess the predication. The speaker may have failed to refer, not merely made a false claim about a particular object.
+
+Moreover, Russell’s theory tends to erase the distinction between mentioning and using a description in ordinary practice. It treats the sentence as a logical construction whose truth conditions can be specified independently of the speaker’s communicative act. But ordinary language is not exhausted by truth conditions. Speakers use descriptions to draw attention, identify objects, correct misunderstandings, establish topics, and presuppose shared information. These functions are not captured by quantificational analysis alone.
+
+Consider the difference between:
+
+> The queen of America is in Washington.
+
+and
+
+> There is no queen of America.
+
+On Russell’s account, the first is false and the second true. This is logically coherent. But conversationally, the second may function as a correction of the first’s presupposition. Strawson’s account explains why the two utterances stand in this corrective relation. The first attempts to refer; the second blocks the attempted reference by denying the existence presupposed by the first.
+
+The disagreement between Russell and Strawson is therefore partly a disagreement about the level of analysis. Russell asks: what is the logical form and truth condition of a sentence containing a definite description? Strawson asks: what is a speaker doing in an ordinary context by uttering such a sentence? Russell’s theory is primarily semantic and logical; Strawson’s is primarily pragmatic and philosophical-linguistic. Their theories conflict if both are taken as complete accounts of every aspect of language, but they are not necessarily rivals when each is assigned the problem it is best equipped to solve.
+
+## VII. Does Strawson Collapse into Russell—or Vice Versa?
+
+The dialectical pressure can now be stated more sharply. If Strawson says that the meaning of “the queen of America” consists in general directions for use, perhaps those directions simply encode Russellian conditions: there must be exactly one queen of America, and the sentence predicates something of her. If so, Strawson’s account collapses into Russell’s. The apparent difference would be merely verbal.
+
+Alternatively, if Strawson refuses to specify the directions in terms of existence and uniqueness, then his account may become too vague. It would explain that the expression is used to identify an object without explaining what distinguishes legitimate identification from arbitrary association. In that case, Strawson would preserve ordinary pragmatics at the cost of semantic determinacy.
+
+The first possibility should be resisted because Strawson’s concept of use is richer than Russell’s logical paraphrase. Russell’s formula describes what would have to be the case for the sentence to be true. It does not by itself describe how a speaker uses the phrase to direct a hearer’s attention toward an object. Existence and uniqueness are conditions of successful or truth-evaluable application, but they are not the whole of the expression’s communicative meaning.
+
+For instance, “the queen of America” may be used in a context where the speaker and hearer are discussing a fictional monarchy. Russell’s formula can be relativized to the fictional domain, but the formula alone does not explain how that domain has been established. Nor does it explain the difference between a speaker who knowingly enters a fictional mode and one who mistakenly believes that the actual United States has a queen. Strawson’s emphasis on use, intention, and context addresses precisely this difference.
+
+The second possibility should also be resisted because Strawson need not treat general directions as indeterminate in the sense of arbitrary. A direction can be general without being empty. The expression directs the hearer toward a unique object characterized as a queen associated with America. It also carries expectations about the speaker’s presuppositions and the kind of context required for successful identification. These constraints are not formal truth conditions, but they are genuine norms.
+
+A more fruitful reconciliation is to distinguish three questions:
+
+1. **What does the expression conventionally mean?**
+2. **What does the speaker use it to do in a context?**
+3. **Under what conditions is the resulting utterance true?**
+
+For “the queen of America,” the first question concerns the conventional role of a definite description with the relevant content. The second concerns whether the speaker is asserting, supposing, fictionalizing, quoting, joking, or attempting to refer. The third concerns the conditions under which the resulting assertion is true. Russell is especially useful for the third question; Strawson is especially useful for the second; the notion of general directions links the first two.
+
+On this view, Russell’s paraphrase and Strawson’s theory of denoting are not mutually exclusive. Russell explains how the descriptive structure can be represented without positing a nonexistent object. Strawson explains why a speaker may nevertheless fail to refer in ordinary use and why such failure is pragmatically distinct from falsity. The logical paraphrase does not eliminate the speech act, and the speech-act analysis does not eliminate the value of logical paraphrase.
+
+## VIII. Vagueness and the Limits of General Directions
+
+The remaining issue concerns vagueness. If meaning is a set of general directions, then the directions may be incomplete, context-dependent, and occasionally conflicting. Is that a defect in the theory or a fact about language?
+
+There are at least two kinds of vagueness here. The first is **descriptive vagueness**. The expression may contain terms whose application is itself imprecise. “Queen” may be clear in some institutional contexts but vague in metaphorical or informal ones. “America” may refer to the United States or to the American continents. The phrase may therefore fail to determine a unique descriptive condition.
+
+The second is **pragmatic vagueness**. Even if the descriptive content is clear, the communicative purpose may not be. A speaker who utters “the queen of America” may be speaking literally, fictionally, sarcastically, or hypothetically. The words do not independently determine which speech act is being performed.
+
+Strawson’s theory is vulnerable if it treats the directions associated with meaning as sufficient to resolve both types of vagueness. They are not. Lexical conventions cannot settle every contextual question, and contextual intentions cannot always settle lexical boundaries. There will be cases in which competent speakers disagree about whether a use is correct.
+
+But it does not follow that the directions are inherently unreliable. Natural-language norms can be indeterminate while remaining functional. A map can be useful without representing every detail of a landscape. Similarly, a linguistic rule can guide ordinary application without specifying every possible border case. Meaning is not defective merely because it does not operate like a formal decision procedure.
+
+Indeed, demanding total precision would create a new problem. If every expression had to possess sharp, context-independent conditions of application, ordinary reference would become impossible. The phrase “the table” would need a complete inventory of all tables and a precise rule for determining which one is intended. Yet actual communication depends upon salience, shared attention, and practical relevance. The incompleteness of directions is not an accidental weakness; it is part of what makes linguistic coordination possible.
+
+Still, Strawson should not be interpreted as claiming that all semantic evaluation is reducible to intuitive judgments about what competent speakers would say. A stronger theory would distinguish stable conventional content from contextual enrichment. It would also recognize that some failures are semantic, some pragmatic, and some epistemic. A speaker may know that there is exactly one queen of America but fail to make clear which woman occupies the office. Another may identify the woman successfully but use “queen” in a way the community does not recognize. A third may use the phrase properly in fiction but be misunderstood as making a literal assertion. These are different failures, and they should not be grouped together under the vague label of unsuccessful reference.
+
+The phrase “general directions” is therefore defensible only if it is understood as one element in a layered theory. Meaning provides conventional constraints. Context supplies information needed for application. Communicative norms determine whether the use is appropriate. Logical analysis determines truth conditions where truth evaluation is in question. No single layer can replace the others.
+
+## IX. A Resolution of the Tension
+
+The apparent tension between Russell and Strawson can now be resolved without reducing one theory to the other. Russell is right that definite descriptions need not be treated as names of objects, and that logical analysis can avoid commitment to nonexistent entities. A sentence involving “the queen of America” can be paraphrased into a quantificational form that is false, or whose negation is true, without supposing that there is an object called the queen of America. This is an important safeguard against ontological confusion.
+
+Strawson is right that ordinary referring expressions are not adequately understood through truth conditions alone. Speakers use descriptions to refer, and reference is an occasion-specific activity. The existence of a linguistic expression does not guarantee the existence of its referent. When the relevant object does not exist, the speaker’s use may be defective in a way that is not captured by simply assigning a truth value of false. The conversational distinction between a failed presupposition and an ordinary false predication is philosophically significant.
+
+The phrase “the queen of America” demonstrates the complementary character of these insights. As an expression, it has meaning because it participates in a conventional pattern of definite description. Its general directions tell speakers to present a unique female monarch associated with America as the object of identification. As a use, it may succeed, fail, or operate in a special mode depending on the context. In an ordinary factual assertion, it presupposes an existing queen and fails if there is none. In fiction, it can refer to a character within a fictional world. In a conditional, it contributes to a hypothetical proposition. In a mistaken assertion, it reveals an error in the speaker’s beliefs. In a quotation, it may be mentioned rather than used.
+
+The directions are not inherently unreliable, but neither are they complete instructions for every case. They are reliable as public norms within ordinary practices, though they require contextual judgment. Speakers do sometimes misunderstand proper application, but not every referential failure is a misunderstanding. Some failures result from the absence of a referent; others from ambiguity, lack of salience, or pragmatic misalignment. Strawson’s theory must therefore resist both extremes: the idea that meaning rigidly determines reference, and the idea that meaning is nothing more than whatever interpretation a context happens to support.
+
+The ultimate lesson is that referring is neither a purely semantic relation nor a purely private act. It is a socially regulated practice in which expressions provide general resources for identifying objects. Those resources can be used successfully only under appropriate conditions, and the conditions are partly conventional and partly contextual. Nonexistent objects reveal this structure because they separate meaning from successful reference so clearly. The expression remains intelligible even when its referential purpose cannot be fulfilled.
+
+## Conclusion
+
+Strawson’s theory of expressional meaning is vulnerable to vagueness because its central notion—general directions for correct use—does not by itself specify a precise criterion for correctness in every context. The phrase “the queen of America” makes this vulnerability vivid. It has a recognizable meaning despite lacking a fixed actual referent, and it can be used in factual, fictional, hypothetical, mistaken, ironic, and quoted contexts. No single rule appears to determine all these applications.
+
+Yet this vulnerability does not destroy Strawson’s distinction between expression and use. It instead shows why the distinction is necessary. The expression has a conventional meaning that guides use without fixing a particular referent. The use is an occasion-specific attempt to identify, describe, suppose, or imagine something. When the relevant object does not exist, the expression need not become meaningless; rather, the use may fail to refer or may shift into a nonliteral or nonassertoric mode.
+
+Implicit directions in language are therefore not inherently unreliable. They are flexible norms suited to the practical character of communication. Their flexibility can generate ambiguity and borderline cases, but it also makes successful reference possible in the first place. Speakers sometimes misunderstand proper application, but the existence of misunderstanding does not show that every unconventional use is erroneous. Correctness is determined by the interaction of conventional meaning, context, communicative intention, and the norms of the relevant linguistic practice.
+
+Russell’s logical paraphrases and Strawson’s theory of denoting should accordingly be viewed as addressing different but connected problems. Russell explains how definite descriptions can be analyzed without commitment to nonexistent objects and how their

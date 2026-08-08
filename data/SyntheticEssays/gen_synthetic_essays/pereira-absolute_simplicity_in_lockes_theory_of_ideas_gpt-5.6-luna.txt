@@ -1,0 +1,5 @@
+# Absolute Simplicity and the Architecture of Lockean Ideas
+
+John Locke’s theory of ideas is often described as an empiricist atomism. The mind receives a limited stock of basic materials through sensation and reflection, and it subsequently combines, compares, and abstracts those materials in order to form complex ideas and knowledge. This account depends heavily on the distinction between *simple* and *complex* ideas. Yet Locke’s texts do not always make clear what “simple” means. Does a simple idea have to be absolutely indivisible, containing no parts of any kind? Or may it be called simple merely relative to the operations of the human mind, even though it is in some sense internally divisible or composed?
+
+Nicholas Jolley has defended the

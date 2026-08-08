@@ -1,0 +1,229 @@
+# Names, Descriptions, and Historical Transmission: Does Kripke Defeat Descriptivism?
+
+## Introduction
+
+The philosophical theory of proper names has long been organized around a basic contrast. On one side stands descriptivism, associated in different forms with Gottlob Frege, Bertrand Russell, and P. F. Strawson. According to descriptivism, a name refers to an object in virtue of being associated with a description, or with a cluster of descriptions, that identifies or characterizes that object. On the other side stands Saul Kripke’s causal-historical theory, according to which a name is introduced in an initial “baptism” and its reference is subsequently transmitted through a causal chain of communication. A speaker need not possess a description that uniquely identifies the bearer of a name; what matters is that the speaker stands in the appropriate historical relation to earlier uses of the name.
+
+Kripke’s famous Gödel-Schmidt thought experiment is intended to expose a decisive weakness in descriptivism. Suppose that the mathematical discoveries attributed to Kurt Gödel were in fact made by a man named Schmidt, while Gödel merely appropriated Schmidt’s work. Most contemporary speakers associate “Gödel” with descriptions such as “the man who discovered the incompleteness theorems.” Yet, in the imagined situation, that description applies to Schmidt, not Gödel. Nevertheless, Kripke argues, the name “Gödel” would still refer to Gödel, the person to whom the name was originally attached and through whom it was transmitted. This seems to show that the reference of a name is not fixed by the descriptions speakers associate with it.
+
+The force of the example, however, depends on what exactly descriptivism claims. If descriptivism is the crude view that a name simply abbreviates one uniquely identifying description known to every competent speaker, Kripke’s argument is devastating. But Frege, Russell, and especially Strawson need not be interpreted as holding that simple view. John Searle’s defense of descriptivism attempts to preserve its central insight by shifting emphasis from descriptive meaning as a fixed individual condition to intentional content, clusters of descriptions, and the practices of linguistic communities. Searle argues that causal chains cannot explain reference by themselves. A chain transmits a name only because participants in the chain possess intentions, often expressed through descriptions, concerning whom the name is to refer to.
+
+The resulting dispute is therefore not simply between “descriptions” and “causes.” It concerns two distinct questions. First, what determines the semantic reference of a name? Second, what enables speakers to use and transmit a name successfully? Kripke’s thought experiment gives a powerful answer to the first question: names do not generally refer by describing their bearers. Searle is right, however, that causal transmission is not a self-interpreting mechanism and that intentional and social practices are indispensable to its operation. The best conclusion is thus neither that historical chains alone explain reference nor that associated descriptions do. Rather, causal-historical relations explain the diachronic identity of a name’s reference, while intentional and communal practices explain how those relations are established, maintained, and exploited. Kripke undermines classical semantic descriptivism, but not every descriptivist account of linguistic competence or reference-fixing practice.
+
+## I. The Descriptivist Tradition
+
+### Frege: Sense and reference
+
+Frege’s theory begins from the observation that two names can have the same reference while differing in cognitive significance. “The Morning Star” and “The Evening Star” both refer to Venus, but someone might rationally believe that one is visible in the morning and the other in the evening. Likewise, “Hesperus is Phosphorus” is informative, whereas “Hesperus is Hesperus” is trivial. Frege explains this by distinguishing between reference (*Bedeutung*) and sense (*Sinn*). The sense of an expression is its mode of presentation of the referent.
+
+Frege’s theory is not necessarily the view that every proper name is equivalent to a single ordinary-language definite description. A name can have a sense that is difficult to articulate in one phrase. Nevertheless, Fregean semantics makes descriptive or conceptual content central. The sense determines a route to the referent and accounts for the name’s cognitive significance. A speaker who understands a name must grasp some mode of presentation associated with it.
+
+The difficulty for Fregean theories is that speakers can successfully use a name despite possessing an impoverished, confused, or false conception of its bearer. One may know “Aristotle” only as “a famous Greek philosopher,” or know “Feynman” only as “a physicist associated with quantum electrodynamics.” Such descriptions may fit many people, and they may even be false in important respects. Yet speakers often refer successfully. This raises the question of whether descriptive content constitutes the meaning of the name or merely supplies contingent information speakers happen to associate with it.
+
+### Russell: names as disguised descriptions
+
+Russell’s theory of descriptions gives a particularly explicit form to the descriptive approach. According to Russell, ordinary proper names are often “disguised descriptions.” The logical form of “Aristotle was a philosopher” might be analyzed as something like: there exists an individual who uniquely satisfies a relevant description, and that individual was a philosopher. The apparent name “Aristotle” does not function as a logically simple referring term; it abbreviates a description or a set of descriptions.
+
+Russell distinguishes ordinary names from logically proper names. A genuinely logically proper name refers directly to an object with which the speaker is acquainted. In ordinary language, however, names such as “Moses,” “Homer,” or “Aristotle” depend on descriptions, since speakers are not directly acquainted with their bearers. The reference of the name is therefore mediated by descriptive knowledge.
+
+This view accounts for certain important phenomena. It explains why historical ignorance may undermine reference: if a speaker has no identifying information whatsoever, perhaps the speaker does not genuinely possess the name’s meaning. It also explains why statements involving names can be informative. The name conveys information because it is associated with a description.
+
+Yet the theory seems to make reference precariously dependent on the accuracy and uniqueness of descriptions. If a speaker associates “Aristotle” with “the teacher of Alexander,” and several people satisfy that description, what determines the referent? If Aristotle had not taught Alexander, would the speaker’s use of “Aristotle” fail to refer? Kripke’s examples are designed to suggest that ordinary name use is far more tolerant of error than Russellian descriptivism allows.
+
+### Strawson: identifying descriptions and referential use
+
+Strawson modified Russell’s approach by emphasizing the pragmatic and contextual dimension of reference. A definite description does not, in ordinary communication, merely encode a truth-functional condition. Speakers use descriptions to identify or pick out objects in particular contexts. The success of reference depends partly on the speaker’s intentions and on the audience’s ability to recognize the intended object.
+
+For Strawson, proper names may operate as conventional devices for referring without having a strict descriptive meaning. A name is not ordinarily used to assert that its bearer satisfies some particular description. It is a means of directing attention to an object already embedded in a social and linguistic practice. Still, descriptions remain central to the practice because they enable speakers to identify the object and understand whom others are discussing.
+
+Strawson therefore occupies an intermediate position. He resists reducing names to descriptions in the Russellian logical sense, but he preserves the importance of identifying knowledge, context, and communicative intention. This makes his position more resilient against Kripke than a simple descriptivism, though it also makes it less clear whether it is a semantic theory of names or a theory of their pragmatic use.
+
+## II. Kripke’s Gödel-Schmidt Argument
+
+Kripke’s central target is what he calls the “cluster-of-descriptions” theory. On this view, a name is associated not necessarily with one description but with a sufficiently large cluster: “the author of the incompleteness theorems,” “a famous logician,” “a professor at Princeton,” “the man who worked with von Neumann,” and so on. The referent is the individual who satisfies enough of the descriptions, or perhaps the individual who best fits the total body of associated information.
+
+The Gödel-Schmidt case challenges this theory. Imagine that the following historical facts obtain:
+
+1. Schmidt proved the incompleteness theorems.
+2. Gödel stole or appropriated Schmidt’s work.
+3. The name “Gödel” was introduced in the relevant community in connection with Gödel, not Schmidt.
+4. Contemporary speakers generally associate “Gödel” with the description “the man who proved the incompleteness theorems.”
+
+In the imagined situation, the description most strongly associated with “Gödel” applies to Schmidt. If descriptive reference is determined by satisfaction of that description, then “Gödel” should refer to Schmidt. But intuitively it does not. The name “Gödel” continues to refer to Gödel, the person who received the name in the original naming event and whose use of the name was passed down through the community.
+
+The example matters because it separates two facts that descriptivism tends to conflate:
+
+- what speakers believe about the bearer of a name; and
+- which object the name actually refers to.
+
+Speakers may believe that Gödel proved the incompleteness theorems. They may even use “Gödel” while attaching that description to it. But the truth or falsity of that belief does not determine the reference of the name. The same point applies to the many cases in which speakers possess only a small amount of information about a name’s bearer. A child can use “Einstein” to refer to Einstein while knowing only that Einstein was a very intelligent scientist. A student can use “Cicero” to refer to Cicero while mistakenly believing that Cicero was Greek rather than Roman. Reference seems to survive descriptive error.
+
+Kripke’s argument is strengthened by his modal considerations. Descriptions such as “the inventor of bifocals” or “the author of *Hamlet*” are generally non-rigid: they pick out different individuals in different possible circumstances. “The inventor of bifocals” might have been someone other than Benjamin Franklin. By contrast, a proper name such as “Benjamin Franklin,” as ordinarily used, is rigid: it refers to the same individual in every possible world in which that individual exists. Thus, “Benjamin Franklin was the inventor of bifocals” is contingent, while “Benjamin Franklin is Benjamin Franklin” is necessarily true, assuming the relevant individual exists.
+
+The modal argument does not by itself prove that no description can be rigidified. One can stipulate that “the individual actually called ‘Gödel’” is rigid, or construct a description containing an actuality operator. But such descriptions appear parasitic on the prior reference of the name. They do not explain how the name initially refers; they presuppose it. The point is not that no rigid description is possible, but that the ordinary descriptive information associated with a name does not supply its reference.
+
+Kripke also emphasizes epistemic and semantic distinctions. A speaker may know a priori that “Gödel is Gödel,” but not know a priori that Gödel proved the incompleteness theorems. Conversely, the speaker may know a contingent fact about Gödel while being mistaken about which person performed the work. Descriptions may provide identifying evidence without constituting the semantic mechanism of reference.
+
+## III. What Exactly Does Kripke Refute?
+
+Kripke’s argument is powerful, but its scope must be carefully stated. The Gödel-Schmidt case refutes the idea that the reference of a proper name is determined by a description, or cluster of descriptions, associated with each individual speaker. It also refutes the stronger claim that the meaning of a name is exhausted by the descriptive information a competent speaker must know.
+
+But several versions of descriptivism remain possible.
+
+First, a descriptivist might appeal to descriptions possessed not by individual speakers but by the linguistic community. The community may associate “Gödel” with a complex body of information including the fact that Gödel was the man to whom the name was originally introduced. If this description is sufficiently historical and causal, it might preserve the reference to Gödel.
+
+Second, a descriptivist might treat descriptions as reference-fixing rather than reference-preserving. A description can be used at an initial naming event to identify an object, even if the name later refers to that object despite widespread error about its properties. On this version, descriptions explain how a name is introduced, but not necessarily how its reference is maintained.
+
+Third, a descriptivist might distinguish between the semantic content of a name and the speaker’s identifying procedures. A name may have a thin or non-descriptive semantic role, while descriptions remain essential to explaining how speakers acquire and use the name. This position comes close to a hybrid theory rather than classical descriptivism.
+
+Kripke’s own theory is often represented as if it eliminates descriptions from the theory of reference altogether. That is too strong. His point is that descriptions are not what make a name refer to the object it refers to. They can still be evidentially, pragmatically, and psychologically important. A speaker normally learns a name in a context in which some description identifies its bearer. A child may be told that “Gödel” is “the mathematician who proved the incompleteness theorems.” The description helps the child locate the name within a communicative practice. Yet, once the name is acquired, the reference may be inherited even if the description is false or forgotten.
+
+## IV. Searle’s Defense: Intentional Content and Communal Descriptions
+
+John Searle’s response to Kripke preserves the descriptive tradition by giving it a more flexible and socially embedded form. Searle rejects the assumption that a name must be associated with one precise description. Instead, a proper name is linked with a cluster of descriptions, and the speaker’s use of the name is guided by intentional content. The speaker does not merely utter a sound connected to a causal chain; the speaker intends to refer to an object under some conception of that object.
+
+Searle’s theory has at least three important components.
+
+### 1. The cluster of descriptions
+
+A speaker who uses “Aristotle” may associate the name with descriptions such as:
+
+- the teacher of Alexander;
+- the author of the *Metaphysics*;
+- a Greek philosopher;
+- a student of Plato;
+- a central figure in ancient philosophy.
+
+No single description need be uniquely identifying, and some descriptions may be false. What matters is the total cluster and the way the speaker’s beliefs, linguistic practices, and communicative intentions converge on a particular individual.
+
+This makes Searle’s view more tolerant of error than Russell’s. The speaker need not know a description that uniquely identifies the object. Nor must every description be true. The name refers to the individual who satisfies enough of the cluster, or who is intended as the object of the speaker’s overall network of beliefs.
+
+### 2. Intentional content
+
+Searle argues that reference is not a purely mechanical relation. Speakers use names with intentions. When I say “Aristotle wrote the *Metaphysics*,” I am not merely producing a token causally connected to previous tokens. I intend to talk about a particular historical individual, and my intention is structured by my conception of who that person is. Descriptive content is part of the intentional state through which I refer.
+
+This point has intuitive force. Consider a person who hears a name but does not know what it refers to. They may repeat the sound without understanding its use. If reference were transmitted by causal contact alone, then parroting a name would suffice for meaningful reference. But mere repetition does not seem enough. The speaker must participate in a practice and must use the name with an appropriate intention.
+
+Searle also highlights the role of the speaker’s purpose. Suppose someone says, “I met Jones yesterday,” intending to refer to a particular Jones but being unable to provide any identifying information. The speaker may still refer successfully if the conversational context determines whom they have in mind. Conversely, someone may possess many accurate descriptions but use the name intending to discuss another person. Intentional direction matters.
+
+### 3. Community-based definite descriptions
+
+Searle extends the descriptive approach beyond what any individual speaker knows. A proper name may be associated with a socially distributed cluster of descriptions. No single speaker needs to possess the whole body of information connected with “Shakespeare.” Some know him as the author of *Hamlet*; others know him as an Elizabethan dramatist; others know only that he was a famous writer. The community as a whole sustains a network of descriptions that fixes the name’s use.
+
+This allows Searle to respond to the Gödel-Schmidt case. The community’s use of “Gödel” might be governed not simply by “the man who proved the incompleteness theorems,” but by a broader historical description: “the individual to whom the name ‘Gödel’ was introduced in the relevant mathematical community, and who is represented in our inherited practice as the discoverer of the incompleteness theorems.” If Schmidt actually performed the work, the descriptive cluster may include conflicting information. Nevertheless, the community’s intentional and linguistic practice could still select Gödel.
+
+Searle’s proposal has an important consequence: descriptions need not be purely intrinsic descriptions of the bearer. They may include relational and historical descriptions. A name can be associated with “the person referred to by this name in the tradition stemming from the original introduction of the name.” Such a description may be enough to preserve the reference through error.
+
+## V. Do Causal Chains Depend on Descriptive Intentionality?
+
+Searle’s most significant criticism is that causal chains, taken by themselves, cannot explain reference. A causal chain is a sequence of events: one person hears a name from another, repeats it, and passes it to someone else. But causal processes occur without semantic significance. A recording, a parrot, or a machine can transmit a sound without referring to anything. Therefore, the mere existence of a causal connection between uses cannot be sufficient for reference.
+
+Kripke’s theory, however, does not require bare causation. His account includes a baptism and a communicative intention to use the name with the same reference as the person from whom one learned it. In effect, the chain is not a physical chain alone but a social chain governed by norms of linguistic use. A speaker intends to refer to the individual designated by the name as it has been used in the preceding practice.
+
+Searle is right that this intention must be semantically interpreted. What does it mean to intend to use the name “as the previous speaker used it”? If the speaker has no conception of whom the previous speaker was talking about, how can the intention succeed? Descriptive content seems to enter here. The speaker may think, “I am talking about the mathematician my teacher called ‘Gödel,’” or “I mean the person discussed in our class as the discoverer of incompleteness.” Such thoughts contain descriptions.
+
+Yet the fact that intentional content is necessary for participation in a causal chain does not establish that descriptive content determines reference. We should distinguish between:
+
+1. the content that guides a speaker’s acquisition or use of a name; and
+2. the condition that fixes the name’s reference within the language.
+
+A speaker may use a name under a description while the name refers to an object that does not satisfy the description. The description guides the speaker’s communicative act, but the historical practice determines which object the speaker is talking about. In the Gödel-Schmidt case, a speaker may intend to refer to “the man who proved the incompleteness theorems,” but if the speaker acquired “Gödel” through a chain originating in a baptism of Gödel, the name still refers to Gödel. The speaker has a false belief about the bearer, not a successful reference to Schmidt.
+
+The causal theorist can therefore concede Searle’s psychological point while denying his semantic conclusion. Causal chains require intentional participation, but they need not rely on a uniquely identifying description. The relevant intention may be deference: “I intend to use this name to refer to the person to whom the community’s use of the name is anchored.” Deference is not itself a description of the object’s properties. It is an intention to preserve a linguistic connection.
+
+Indeed, descriptions can sometimes disrupt rather than support causal reference. Suppose I learn the name “Feynman” from a reliable source but associate it with the description “the physicist who discovered the structure of DNA.” If I use “Feynman” to discuss that person, my description is false. Nevertheless, I may still refer to Feynman. If I later discover that the description was mistaken, I generally do not conclude that I had been referring to another physicist all along. The causal-historical account explains this stability naturally. The descriptivist must either accept that false descriptions can determine reference or incorporate historical and intentional elements that make the theory increasingly unlike traditional descriptivism.
+
+## VI. Attributive and Referential Uses
+
+The debate is further complicated by the distinction between attributive and referential uses, famously developed by Keith Donnellan. In an attributive use, a speaker uses a description to say something about whoever satisfies it. In a referential use, the speaker uses the same description to pick out a particular individual, even if that individual does not satisfy the description.
+
+Suppose someone says, “The man drinking champagne is happy,” intending to refer to a man who is actually drinking sparkling water. The speaker may use the description referentially: the description helps the audience identify a particular person, but the speaker’s assertion is about that person, not about whoever truly satisfies the description. In the attributive use, by contrast, the claim concerns whoever is in fact drinking champagne.
+
+The distinction illuminates proper names. Names are paradigmatically referential, but they can be used in ways that approximate attributive descriptions. Consider statements such as:
+
+- “There are many Einsteins in this field.”
+- “He thinks he is the next Napoleon.”
+- “A new Shakespeare has appeared.”
+- “The building was named after Lincoln.”
+
+In these cases, a name may function as a type, a role, or a descriptive standard rather than as a straightforward device for identifying its historical bearer. One can also use a name metonymically or attributively: “Every department needs its Aristotle,” meaning someone who performs a certain intellectual role.
+
+Such uses do not show that ordinary proper names are semantically descriptions. They show that expressions can acquire pragmatic or figurative uses beyond their standard referential role. The distinction between attributive and referential use therefore supports caution. A speaker may deploy descriptive material in order to refer to an object without making the description part of the name’s semantic content.
+
+The same distinction applies to Searle’s intentionalism. A speaker can intend to refer to a particular person while using a description that fails to apply. Intentional content explains what the speaker is trying to do, but not necessarily whether the description is true of the person selected by the linguistic practice. If the speaker says, “Gödel proved the incompleteness theorems,” intending to talk about the man called “Gödel,” the utterance is referential with respect to Gödel even if the associated description points toward Schmidt.
+
+Attributive uses do preserve an important role for descriptions. If one asks, “Whoever proved the incompleteness theorems deserves credit,” the description is used attributively. The statement concerns whoever satisfies the description, whether or not that person is Gödel. But this does not transfer the semantics of the attributive description to the proper name. “Gödel deserves credit” and “Whoever proved the incompleteness theorems deserves credit” can come apart precisely because the first is anchored to a name’s historical reference while the second is governed by descriptive satisfaction.
+
+This tension helps explain why the Gödel-Schmidt example is so compelling. Kripke forces us to distinguish the man a speaker is talking about from the man who satisfies the speaker’s description. Descriptivism tends to identify these objects; causal theory permits them to diverge.
+
+## VII. The Limits of the Causal-Historical Theory
+
+Although Kripke defeats the strongest form of descriptivism, causal theories face serious difficulties of their own.
+
+First, historical chains can branch. A name may be introduced independently for two different people, or a speaker may acquire the same name from multiple sources. Which causal chain determines the reference? Social context and speaker intention are needed to settle the matter.
+
+Second, chains can become extremely indirect. A person may use “Aristotle” after encountering it in a book, without knowing whether the book’s author used the name correctly. If the speaker’s only intention is to talk about “the person associated with this word,” is that enough? The theory must specify what counts as an appropriate transmission of reference.
+
+Third, names can change their reference over time. “Madagascar,” according to a familiar historical story, was initially associated by European explorers with part of the African mainland but eventually came to refer to the island. This suggests that reference is not always preserved mechanically from an initial act. Collective usage can redirect a name.
+
+Fourth, fictional names such as “Sherlock Holmes” seem to have meaningful uses without ordinary causal contact with a real bearer. One can say “Sherlock Holmes lived in London” within a fictional discourse, even though no historical individual bears the name in the relevant way. A causal theory may explain the transmission of the name from Conan Doyle’s writings but must distinguish fictional reference, empty reference, and pretended reference.
+
+These cases demonstrate that causation is not sufficient. The theory requires conventions, intentions, social norms, and interpretive practices. But this does not restore classical descriptivism. It indicates that the reference of a name is constituted by a complex social practice in which causal continuity is one essential element.
+
+One might say that the causal theory explains the identity of the reference across time, whereas intentionality explains the use of the name at particular moments. The former is diachronic; the latter is synchronic and pragmatic. Neither dimension can simply replace the other.
+
+## VIII. What Descriptions Explain
+
+Descriptions remain indispensable in at least four ways.
+
+### Acquisition
+
+A speaker normally encounters a name in a descriptive setting. One learns “Gödel” as the name of a mathematician, “Paris” as the name of a city, or “Mount Everest” as the name of a mountain. Descriptions help the speaker enter the linguistic practice.
+
+### Identification
+
+Descriptions allow a speaker to determine which name is relevant in a context. If someone says, “I was discussing the philosopher who taught Alexander,” the hearer may recognize that the intended name is “Aristotle.” The description enables identification even if it is not the semantic source of the name’s reference.
+
+### Communication
+
+Descriptions help speakers coordinate their attention. A conversation about “the famous logician who worked on incompleteness” may make it clear that “Gödel” is the intended name. The success of communication often depends on shared descriptions.
+
+### Reference-fixing
+
+At the moment a name is introduced, a description may serve to fix its reference. A community might agree to call “the tallest mountain in this region” by a new name. Once established, however, the name may continue to refer to that mountain even if the original description becomes false—for example, if later geological measurements show that it was not the tallest after all.
+
+These functions are substantial, but none entails that descriptions constitute the semantic meaning of the name. The mistake targeted by Kripke is the inference from “descriptions are useful in reference” to “reference is determined by descriptions.”
+
+## IX. What Historical Chains Explain
+
+Historical chains, by contrast, explain why a name continues to refer to one object despite changing beliefs and descriptions. They account for the fact that reference is inherited rather than recreated independently by each speaker.
+
+Suppose a child learns “Gödel” from a teacher, who learned it from a textbook, whose author learned it from the mathematical community. The child need not possess a description that uniquely identifies Gödel. The child’s use is anchored in the practice initiated by earlier users. If the child later learns that Gödel did not prove the incompleteness theorems, the child’s reference to Gödel remains intact. The chain provides stability under error.
+
+Historical chains also explain why private descriptive reconstructions do not normally determine public reference. Two speakers may associate radically different descriptions with “Aristotle” while nevertheless referring to the same person. Their common reference is explained by their participation in one linguistic tradition, not by the overlap of their beliefs.
+
+Still, chains do not explain reference independently of norms. The relevant relation is not mere causal contact but socially recognized transmission. A speaker must intend, or at least be disposed, to use the name as inherited. The historical chain is therefore best understood as a norm-governed causal structure.
+
+## X. Overall Evaluation
+
+Does Kripke’s Gödel-Schmidt thought experiment successfully undermine the descriptivist theory of proper names?
+
+The answer depends on the level of descriptivism under consideration. It decisively undermines the individualistic and semantic form of descriptivism according to which a name’s reference is fixed by a description or cluster of descriptions associated with the speaker. The imagined divergence between the person who satisfies the descriptions and the person to whom the name is historically attached shows that the two can come apart. False beliefs, incomplete knowledge, and non-unique descriptions do not ordinarily prevent successful reference. The rigidity of names also distinguishes them from ordinary definite descriptions in a way that descriptivism cannot easily explain without circularity.
+
+The argument is less decisive against a sophisticated Fregean or Strawsonian theory that treats sense as a mode of presentation rather than a single identifying description. Frege’s notion of sense is more abstract than Russell’s theory of disguised descriptions, and Strawson’s emphasis on use and context anticipates some of the pragmatic dimensions of reference. Nevertheless, if “sense” is supposed to determine reference by descriptive satisfaction, the Gödel-Schmidt case remains a serious counterexample.
+
+Searle’s defense correctly identifies a weakness in simplistic causal theories. A chain of sounds or inscriptions does not refer without communicative intentions and communal norms. Speakers must participate in a practice, and their intentional content frequently includes descriptions. Community-based descriptions explain how a name is learned, how speakers coordinate their uses, and how an initially vague or ambiguous practice becomes stabilized.
+
+But Searle does not thereby show that descriptive intentionality determines reference. His argument establishes a condition on successful use, not necessarily a semantic foundation for the name’s reference. The descriptions involved in intentional content can be false, incomplete, or non-unique while the name continues to refer to the historically linked object. Searle’s own appeal to communal descriptions may therefore be understood as an enrichment of the causal theory rather than a restoration of traditional descriptivism.
+
+The most plausible position is hybrid but asymmetrical. Causal-historical relations have priority in explaining why a name refers to this object rather than another across a linguistic community and through time. Intentional content and descriptions have priority in explaining how speakers enter, navigate, and exploit the practice. Descriptions may fix a reference in an initial context, guide deference, and support communication; historical continuity preserves that reference under subsequent ignorance and error.
+
+## Conclusion
+
+Kripke’s Gödel-Schmidt thought experiment succeeds in exposing a fundamental mistake in classical descriptivism: it confuses the properties speakers associate with a bearer and the object to which a name refers. The man described as the discoverer of the incompleteness theorems need not be the man referred to by “Gödel.” Reference can survive error because a proper name is not ordinarily a disguised description but a historically transmitted linguistic device.
+
+Searle is right to insist that historical transmission is not an unintelligible or purely physical process. Causal chains function only within intentional and communal practices. Speakers must intend to participate in an inherited use, and descriptions often supply the conceptual material through which that intention is formed. Community-based clusters can explain why a name remains usable despite no individual possessing a complete identifying conception of its bearer.
+
+Nevertheless, the indispensability of descriptions to the use of names does not entail their priority in determining reference. Attributive uses of descriptions must be distinguished from referential uses of names. A description can guide attention to an object without constituting the semantic condition under which the name refers to that object. The Gödel-Schmidt case shows precisely that descriptive satisfaction and reference may diverge.
+
+Thus names achieve reference neither through bare causal chains nor through associated definite descriptions alone. They refer through socially instituted historical practices in which causal continuity is stabilized by intention, convention, and communal understanding. Kripke successfully undermines descriptivism as a general semantic theory of proper names, while Searle preserves a genuine but secondary role for descriptions. The final lesson is not that descriptions are irrelevant, but that they are tools by which speakers locate and transmit reference—not, in the ordinary case, the entities that make reference what it is.

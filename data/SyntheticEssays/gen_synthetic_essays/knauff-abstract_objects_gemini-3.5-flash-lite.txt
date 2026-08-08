@@ -1,0 +1,199 @@
+### Introduction
+
+Peter van Inwagen’s attack on the Doctrine of Arbitrary Undetached Parts (DAUP) in *Material Beings* (1990) stands as one of the most formidable polemics against unrestricted mereological composition. By leveraging a reductio ad absurdum argument involving a truncated philosopher—Descartes minus his left leg—van Inwagen attempts to demonstrate that DAUP issues in an intolerable violation of the transitivity of identity, thereby forcing the ontologist to choose between the outright rejection of arbitrariness in mereological decomposition or the acceptance of ontological incoherence. 
+
+Yet, the cogency of van Inwagen’s reductio depends entirely on a subtle, sustained ambiguity surrounding the referent of the proper name "Descartes." If "Descartes" shifts surreptitiously between an abstract philosophical construction (or a temporally extended, four-dimensional spacetime worm) and a strict, three-dimensional material body at a particular instant, the resulting contradiction is not an inherent feature of DAUP, but an artifact of equivocation. 
+
+This essay evaluates van Inwagen’s reductio by examining the precise mechanics of his four formal identities regarding "Descartes" and "D-minus" (the body minus its left leg) before and after a mutilation event. I shall argue that van Inwagen’s paradox relies on an illicit oscillation between material and abstract interpretations of ordinary physical objects. By rigorously disambiguating the ontological status of the relata—specifically by distinguishing between a strictly material mereological sum and a temporally extended continuant or abstract historical entity—we can dissolve the paradox entirely. Ultimately, maintaining a strict, uncompromising distinction between material objects and abstract/temporal entities successfully insulates DAUP from van Inwagen’s rejection, rendering the doctrine ontologically secure against this specific mode of attack.
+
+---
+
+### I. The Architecture of the Reductio: DAUP and the Problem of $D$-Minus
+
+To understand the mechanics of van Inwagen’s challenge, one must first delineate the ontological commitments of the Doctrine of Arbitrary Undetached Parts (DAUP). DAUP, as formulated by van Inwagen, is the mereological counterpart to unrestricted composition. While unrestricted composition (often associated with Lewisian metaphysics) maintains that for any non-empty set of objects, there exists a mereological sum composed of those objects, DAUP asserts that any arbitrarily demarcated region of a continuous material object—whether held together by natural joints, causal unities, or purely geometric fiat—composes a genuine physical object. 
+
+If DAUP is true, then for any ordinary material object $O$, and for any proper sub-region of space $R$ occupied by a portion of $O$, there exists a distinct material object that occupies $R$ at that time.
+
+Van Inwagen sets out to show that DAUP entails a reductio when applied to ordinary persistence through change. Consider René Descartes seated at his writing desk. According to DAUP, at any time $t$ during Descartes' life, there exists a material object that is strictly identical to all of Descartes *except* his left leg. Let us call this object "$D$-minus." 
+
+Van Inwagen’s argument proceeds by tracking the persistence conditions of both Descartes and $D$-minus through an amputation event at time $t_2$, where Descartes’s left leg is surgically removed. 
+* Prior to $t_2$ (at time $t_1$), Descartes and $D$-minus occupy distinct spatial regions. $D$-minus is a proper part of Descartes; it is spatially smaller, lacking the left leg. 
+* At $t_2$, the left leg is removed. 
+* After $t_2$ (at time $t_3$), the left leg no longer exists as part of the living organism, and the spatial region occupied by the remaining living tissue of Descartes is precisely the spatial region occupied by $D$-minus.
+
+The problem, as van Inwagen frames it, is accounting for what happens to $D$-minus and Descartes post-amputation. Intuitively, Descartes survives the amputation; the man who wrote the *Meditations* without a left leg is the same man who wrote them with two. But what of $D$-minus? $D$-minus was, by definition, that object which lacked a left leg *even when* Descartes had one. Once the leg is removed, does $D$-minus continue to exist? 
+
+Van Inwagen argues that if $D$-minus persists, and if Descartes persists, we are forced into an ontological collision where two distinct material things occupy the exact same spatial region at the exact same time, violating the principle of the Antireductionist Exclusion of Material Coincidence (often framed as the impossibility of two distinct material objects occupying the same space, or *impenetrability* construed mereologically). 
+
+Alternatively, if $D$-minus ceases to exist at $t_2$ while Descartes survives, DAUP must provide a principled, non-arbitrary account of why $D$-minus’s career was abruptly terminated by an event that merely altered the spatial boundaries of its proper counterpart—an outcome van Inwagen finds absurd.
+
+---
+
+### II. The Four Formal Identities and the Transitivity of Identity
+
+To rigorously evaluate van Inwagen’s argument, we must reconstruct the four formal identities that he claims are generated by the interaction of DAUP, common-sense persistence, and the post-amputation scenario. Let the temporal indices be:
+* $t_1$: Before the amputation (Descartes has two legs; $D$-minus is a proper part of Descartes).
+* $t_2$: The moment of amputation.
+* $t_3$: After the amputation (Descartes has one leg; the spatial boundaries of Descartes and $D$-minus coincide).
+
+Let $D_{t_1}$ be Descartes at $t_1$, and $D_{t_3}$ be Descartes at $t_3$. Let $M_{t_1}$ be $D$-minus at $t_1$, and $M_{t_3}$ be $D$-minus at $t_3$. Van Inwagen’s dialectic forces us to consider the truth values of the following identity claims, which purportedly lead to a contradiction via the transitivity of identity:
+
+1. **Identity 1 (Persistence of Descartes):** 
+   $$D_{t_1} = D_{t_3}$$
+   *(The man who existed at $t_1$ is identical to the man who exists at $t_3$.)*
+
+2. **Identity 2 (Persistence of $D$-minus):** 
+   $$M_{t_1} = M_{t_3}$$
+   *(The object $D$-minus that existed at $t_1$—lacking a leg—persists through the amputation to become the single-legged object at $t_3$.)*
+
+3. **Identity 3 (Spatial Coincidence / Constitution at $t_3$):** 
+   $$D_{t_3} = M_{t_3}$$
+   *(At $t_3$, after the leg has been removed, the region occupied by Descartes is identical to the region occupied by $D$-minus; under DAUP, since they share all their spatial parts at $t_3$, they are strictly identical at $t_3$.)*
+
+4. **Identity 4 (Spatial Coincidence / Proper Part relation at $t_1$—though framed by van Inwagen as a problematic bridge):** 
+   To generate the formal reductio, van Inwagen utilizes the relationship between $M_{t_1}$ and the parts of $D_{t_1}$. Because $M_{t_1}$ is defined as the mereological sum of all of Descartes’s parts *except* the left leg at $t_1$, and because at $t_3$ the remaining parts of Descartes constitute $D_{t_3}$, van Inwagen constructs a chain of identities or near-identities that violates transitivity.
+
+Let us trace the derivation of the absurdity more explicitly through the lens of transitivity. 
+By Identity 2, $M_{t_1} = M_{t_3}$. 
+By Identity 3, $M_{t_3} = D_{t_3}$. 
+Therefore, by the transitivity of identity, $M_{t_1} = D_{t_3}$. 
+
+Now, what is the relationship between $M_{t_1}$ and $D_{t_1}$? By definition, at $t_1$, $M_{t_1}$ is a *proper part* of $D_{t_1}$ ($M_{t_1} \neq D_{t_1}$ because $D_{t_1}$ includes the left leg, whereas $M_{t_1}$ does not). 
+
+However, common-sense persistence and traditional metaphysics often run roughshod over temporal indices, treating tensed proper names as picking out unindexed, four-dimensional continuants or treating $D_{t_3}$ as simply "Descartes." If we assume that $D_{t_3}$ is identical to $D_{t_1}$ (Identity 1: $D_{t_1} = D_{t_3}$), and we substitute $D_{t_3}$ into our derived identity, we get:
+$$M_{t_1} = D_{t_1}$$
+This is a manifest contradiction, because at $t_1$, $M_{t_1}$ is a proper part of $D_{t_1}$, and no object can be identical to its own proper part ($x = y \implies \forall z (z \leq x \leftrightarrow z \leq y)$, but the left leg is part of $D_{t_1}$ and not part of $M_{t_1}$).
+
+Thus, van Inwagen concludes that DAUP is false. If DAUP is true, $M_{t_1}$ must exist. If $M_{t_1}$ exists, it must either persist to $t_3$ (yielding $M_{t_1} = M_{t_3}$) or perish at $t_2$. If it persists, it forces the identity of a proper part with the whole ($M_{t_1} = D_{t_1}$ via $D_{t_3}$), which is logically impossible. 
+
+---
+
+### III. The Ambiguity of "Descartes": Material vs. Abstract Interpretations
+
+The vulnerability of van Inwagen’s argument lies in its nominal agility—specifically, the equivocation inherent in the proper name "Descartes" and the indexical-laden noun phrases used to describe the relata. 
+
+When we utter the sentence "Descartes lost his left leg," what does "Descartes" refer to? 
+1. **The Strict Material Interpretation (Three-Dimensionalism / Instantaneous Slice):** On this reading, "Descartes at $t_1$" ($D_{t_1}$) refers strictly to the localized, three-dimensional arrangement of matter existing exclusively at the temporal instant $t_1$. Likewise, "Descartes at $t_3$" ($D_{t_3}$) refers to a *different* instantaneous material object—a distinct parcel of matter existing at $t_3$. On this view, strictly speaking, neither $D_{t_1}$ nor $D_{t_3}$ persists; rather, they are distinct temporal parts or distinct instantaneous substances that stand in a relation of *diachronic identity* (or historical continuity).
+2. **The Abstract / Four-Dimensional Interpretation (Perdurantism / Temporal Worm):** On this reading, "Descartes" refers to a four-dimensional spacetime worm—a scatter-free mereological sum of instantaneous temporal parts stretching from 1596 to 1650. This four-dimensional object is an abstract-concrete hybrid in the sense that its existence spans time, and its proper parts include temporal slices as well as spatial parts.
+
+Van Inwagen’s reductio manufactures its apparent violation of transitivity by sliding between these two interpretations. 
+
+* In **Identity 1** ($D_{t_1} = D_{t_3}$), "Descartes" is treated as a single, temporally extended four-dimensional object (or a continuant that persists across time). 
+* In **Identity 3** ($D_{t_3} = M_{t_3}$), "Descartes" is treated as an instantaneous three-dimensional material object, defined strictly by the matter occupying a specific spatial region at $t_3$.
+* In evaluating the relationship between $M_{t_1}$ and $D_{t_1}$, van Inwagen treats $M_{t_1}$ as an instantaneous three-dimensional proper part of the instantaneous three-dimensional object $D_{t_1}$.
+
+This shifting of ontological gears is fatal to the reductio. If we maintain a strictly instantaneous, three-dimensional material ontology (Endurantism combined with DAUP), then $D_{t_1}$ and $D_{t_3}$ are *not* identical in the strict Leibnizian sense of sharing all properties; they are numerically distinct material objects that happen to belong to the same life-history or causal nexus. Therefore, the inference from $M_{t_1} = M_{t_3}$ and $M_{t_3} = D_{t_3}$ to $M_{t_1} = D_{t_1}$ fails because $D_{t_3}$ is *not* identical to $D_{t_1}$. Instead, $M_{t_3} = D_{t_3}$ tells us that at $t_3$, the region-occupier formerly known as $D$-minus now coincides with the region-occupier formerly known as Descartes-plus-leg. But since $D_{t_1}$ (Descartes-with-leg at $t_1$) is distinct from $D_{t_3}$ (Descartes-without-leg at $t_3$), the substitution of $D_{t_3}$ for $D_{t_1}$ is an illicit equivocation on the temporal index of the subject.
+
+Conversely, if we adopt a four-dimensionalist ontology (Perdurantism), where "Descartes" is a four-dimensional spacetime worm, then $M_{t_1}$ is not merely an instantaneous three-dimensional slice, but is itself a four-dimensional object—a "slim worm" running parallel to the Descartes-worm, lacking the leg-worm as a temporal-spatial sub-worm. In a 4D ontology, $M$ (the $D$-minus worm) and $D$ (the Descartes worm) are two distinct four-dimensional objects that overlap spatially for a portion of their careers (before the amputation) and share the exact same spatial boundaries for the remainder of their careers (after the amputation). 
+
+Crucially, in a 4D framework, **there is no violation of the transitivity of identity**, because $M$ is never identical to $D$. $M$ and $D$ are distinct four-dimensional worms from t-minus infinity to t-plus infinity. They merely share temporal parts prior to $t_2$, and after $t_2$, their temporal parts are numerically identical. But sharing temporal parts does not entail the identity of the wholes, just as two roads that share a stretch of asphalt do not become a single road.
+
+---
+
+### IV. Disambiguating the Ontological Status of the Relata
+
+To see how disambiguating the ontological status of the relata dissolves the paradox, let us subject van Inwagen’s formal identities to strict regimentation. We must make explicit whether our variables range over:
+* (a) Instantaneous three-dimensional material objects (time-slices),
+* (b) Four-dimensional spacetime worms (continuants), or
+* (c) Abstract historical sets/constructs.
+
+Let us reformulate the scenario using a consistent three-dimensionalist endurantist framework enriched by DAUP. 
+
+In this framework, material objects are strictly located at times. Let "$x \text{ is material at } t$" be a condition of instantaneous existence. 
+* At $t_1$, there exists a material object $X$ (Descartes-at-$t_1$) and a material object $Y$ ($D$-minus-at-$t_1$). 
+* $Y$ is a proper part of $X$ at $t_1$ ($Y \ll_{t_1} X$).
+* At $t_3$, there exists a material object $Z$ (Descartes-at-$t_3$) and a material object $W$ ($D$-minus-at-$t_3$).
+
+What does DAUP claim? DAUP claims that for any material object $X$ at $t$, and for any proper sub-region $R$ of the region occupied by $X$ at $t$, there is a material object that occupies $R$ at $t$. Therefore, at $t_1$, $Y$ exists. 
+
+Now, what happens diachronically? How do objects persist? Common sense says $X$ (Descartes at $t_1$) persists to become $Z$ (Descartes at $t_3$). But in strict mereological and endurantist terms, what does "persists" mean? It means that $X$ and $Z$ stand in a special causal-historical relation of *diachronic persistence* (${\sim}_p$). It does **not** mean Leibnizian identity ($X = Z$). 
+
+Let us re-evaluate van Inwagen’s four identities under this disambiguation:
+
+1. **Identity 1 reformulated:** $D_{t_1} = D_{t_3}$ is false. Rather, $D_{t_1} \mathrel{\text{Persists}} D_{t_3}$. Persistence is a relation, not identity.
+2. **Identity 2 reformulated:** $M_{t_1} = M_{t_3}$ is false. Rather, $M_{t_1} \mathrel{\text{Persists}} M_{t_3}$. $D$-minus at $t_1$ is a different material object from $D$-minus at $t_3$, linked by continuity of matter and form.
+3. **Identity 3 reformulated:** $D_{t_3} = M_{t_3}$ is **true**. At $t_3$, after the leg is removed, the matter constituting Descartes is precisely the matter constituting $D$-minus. Under DAUP, if two material objects occupy the exact same spatial region and are composed of the exact same matter at an instant, they are the very same material object at that instant ($D_{t_3} = M_{t_3}$).
+
+Let us trace van Inwagen’s putative reductio with these disambiguated relations:
+* We have $Y$ ($D$-minus at $t_1$) and $X$ (Descartes at $t_1$). $Y \ll_{t_1} X$.
+* $Y$ persists to $W$ ($D$-minus at $t_3$). So $Y \mathrel{\text{Persists}} W$.
+* $X$ persists to $Z$ (Descartes at $t_3$). So $X \mathrel{\text{Persists}} Z$.
+* At $t_3$, $Z = W$ (because Descartes and $D$-minus now coincide entirely).
+
+Does this generate a contradiction? 
+To derive the contradiction, van Inwagen must substitute identity for persistence. He must treat $X = Z$ (Identity 1) and $Y = W$ (Identity 2) as strict numerical identities. But once we disambiguate instantaneous material objects from diachronic persistence, we see that $X \neq Z$ and $Y \neq W$. 
+
+The inference goes as follows:
+1. $Y \ll_{t_1} X$ ($D$-minus is a proper part of Descartes at $t_1$).
+2. $Z = W$ (Descartes and $D$-minus coincide at $t_3$).
+3. Van Inwagen wants to conclude: $Y = X$ (via the persistence of $X$ and $Y$).
+
+But the transition from " $X$ persists to $Z$ " ($X \mathrel{\text{Persists}} Z$) and " $Y$ persists to $W$ " ($Y \mathrel{\text{Persists}} W$) to the identity of their starting points with their endpoints is illicit. Persistence is not transitive in the way identity is, or rather, persistence relates *distinct* instantaneous stages of an object's career. 
+
+If $Y$ (at $t_1$) persists to $W$ (at $t_3$), and $X$ (at $t_1$) persists to $Z$ (at $t_3$), and at $t_3$ $Z = W$, we have a branching or converging history, but **no violation of the transitivity of identity**. We have:
+* $Y \neq X$ (at $t_1$, part $\neq$ whole).
+* $Y \mathrel{\text{Persists}} W$
+* $X \mathrel{\text{Persists}} Z$
+* $W = Z$ (at $t_3$, they are the same object).
+
+Does $W = Z$ at $t_3$ mean that $Y$ must equal $X$ at $t_1$? 
+Not at all. It simply means that two distinct objects at $t_1$ ($Y$ and $X$) converge upon or share a common future stage at $t_3$ ($W = Z$). Just as two distinct roads can merge into a single highway, two distinct material objects (Descartes and $D$-minus) can share a future history once the differentiating part (the leg) is removed. The paradox vanishes the moment we abandon the pre-theoretic, loose-and-popular use of "is" (as in "Descartes *is* the same man") and replace it with a rigorous ontology of instantaneous material objects and diachronic persistence relations.
+
+---
+
+### V. Abstract vs. Material Objects: Insulating DAUP from the Reductio
+
+The success of the disambiguation strategy points to a deeper metaphysical division: the ontological insulation of DAUP via a strict, uncompromising distinction between **material objects** and **abstract objects** (or temporal/historical constructs). 
+
+Van Inwagen’s reductio derives its rhetorical force by appealing to our ordinary, pre-philosophical intuitions about *persons* and *historical entities*. When we think of "Descartes," we do not merely think of an instantaneous parcel of carbon and water molecules sitting in a chair in seventeenth-century Holland. We think of an intellectual biography, a unified conscious subject, an author of philosophical treatises, and a legal/social entity. These properties—being the author of the *Meditations*, having a certain birth date, surviving an amputation—belong to Descartes construed as an **historical continuant** or an **abstract-concrete narrative unity**.
+
+Conversely, $D$-minus is a purely mereological construct dictated by DAUP: it is whatever matter occupies the region $R$ at time $t$. $D$-minus has no intellectual biography, no authorial intentions, and no inherent historical narrative. It is a material parcel. 
+
+When van Inwagen asks us to compare the persistence conditions of "Descartes" with the persistence conditions of "$D$-minus," he is committing a category mistake. He is comparing an *historical/biographical continuant* (or a loose linguistic abstraction) with a *strict mereological sum*. 
+
+To insulate DAUP from this reductio, the defender of the doctrine must draw a hard ontological boundary:
+
+1. **Strict Materialism:** Material composition is strictly extensional and instantaneous (or governed by DAUP). Material objects are identical if and only if they are composed of the exact same material parts at the exact same time.
+2. **Rejection of Biographical Essentialism in Ontology:** Ontological identity conditions for material objects cannot be held hostage to biographical, psychological, or historical narratives. Whether an object "survives" an amputation is not a question answered by fundamental mereology, but by the criteria we adopt for persistence through change (such as biological continuity of life, psychological continuity, or structural preservation).
+
+If we maintain this strict distinction, how does DAUP fare against the amputation scenario? 
+
+Let us trace the fate of $D$-minus and Descartes under a pure DAUP ontology that respects the material/abstract distinction:
+* At $t_1$, Descartes (construed as the maximal biological organism $O$) exists. 
+* Also at $t_1$, by DAUP, $D$-minus ($M$) exists, occupying the proper sub-region $R$ of $O$.
+* At $t_2$, the surgeon removes the left leg. The biological organism $O$ undergoes a radical structural change. Does $O$ survive? Biology and common sense say yes; the living human organism continues to live, albeit with one less limb. 
+* What about $M$? $M$ was defined as the mereological sum of parts minus the left leg. Post-amputation, the maximal biological organism $O^*$ now occupies *the exact same spatial region* that was formerly occupied exclusively by $M$, and its material constituents are now identical to the material constituents of $M$.
+
+At this juncture, the mereological realist adopting DAUP faces a choice, both horns of which successfully neutralize van Inwagen’s reductio without abandoning the doctrine:
+
+#### Horn A: Coincidence and Distinctness (The 3D Coincidence View)
+The realist can bite the bullet and maintain that $O^*$ (the surviving organism) and $M$ (the persistence of $D$-minus) are **two numerically distinct material objects** that have come to occupy the exact same spatial region at $t_3$. 
+
+Why is this not contradictory? Because they have different modal and historical profiles. $M$ did not lose a leg at $t_2$—$M$ simply *never had* a left leg throughout its entire existence. $O^*$, on the other hand, *did* lose a leg at $t_2$. Since Leibniz’s Law states that identicals must share all properties (including modal and historical properties—e.g., *having had a leg at $t_1$*), $O^* \neq M$, even though they are currently composed of the exact same matter and occupy the exact same space. 
+
+Van Inwagen dismisses this as absurd, labeling it "monstrous" coinhabitance. But as philosophers like David Wiggins, Sally Haslanger, and E.J. Lowe have argued, material coincidence without identity is a coherent and often necessary feature of any ontology that wishes to reconcile common-sense objects (like statues and the clay that constitutes them, or organisms and their matter) with mereological variation. More importantly, it completely blocks van Inwagen’s reductio: there is no violation of the transitivity of identity because $M$ and $O$ were never identical, and $M$ and $O^*$ are not identical at $t_3$. They merely share matter.
+
+#### Horn B: Perdurantism and Temporal Parts (The 4D Worm View)
+Alternatively, the DAUP theorist can adopt a four-dimensionalist framework, wherein $O$ and $M$ are spacetime worms. 
+* Prior to $t_2$, $M$ is a proper sub-worm of $O$. 
+* At $t_2$, the leg-worm branches off and terminates (ceases to be part of the living organism). 
+* Post-$t_2$, the remaining temporal parts of $O$ and the temporal parts of $M$ are precisely identical—they are the same sequence of instantaneous material slices. 
+
+In this framework, does $M$ survive? Yes, $M$ continues its career as the single-legged worm. Does $O$ survive? Yes, $O$ continues its career as the single-legged organism. Are they the same worm? No; $O$ has a two-legged early phase, whereas $M$ has a one-legged early phase. Their temporal parts prior to $t_2$ are distinct. Their temporal parts after $t_2$ are identical. 
+
+Again, **transitivity of identity is respected**. The identity of post-$t_2$ slices does not entail the identity of the pre-$t_2$ worms. The paradox is dissolved because the identity claims that van Inwagen treats as generating a contradiction ($M_{t_1} = D_{t_1}$) are revealed to be category mistakes: one is comparing the early slice of a proper-sub-worm with the early slice of a maximal worm.
+
+By insulating DAUP with either a rigorous 3D coincidence framework or a 4D perdurantist framework, and by ruthlessly purging biographical and abstract narrative properties from the definition of material relata, the DAUP theorist successfully immunizes the doctrine against van Inwagen’s reductio.
+
+---
+
+### Conclusion
+
+Peter van Inwagen’s reductio ad absurdum against the Doctrine of Arbitrary Undetached Parts is a masterpiece of metaphysical provocation, designed to force philosophers out of comfortable mereological abstractions and back into the arms of common-sense organicism. However, as we have demonstrated, the cogency of van Inwagen’s attack rests upon an equivocation: it manufactures an apparent violation of the transitivity of identity by sliding between material, instantaneous interpretations of "Descartes" and abstract, temporally extended, or biographical interpretations.
+
+By formally disambiguating the ontological status of the relata, we have shown that:
+1. When we restrict our ontology to instantaneous material objects (time-slices), diachronic persistence must be analyzed as a relation (persistence) rather than strict Leibnizian identity. Conflating persistence with identity is what generates the illusory contradiction.
+2. When we adopt a four-dimensionalist framework, overlapping spacetime worms share temporal parts without entailing the identity of the wholes, thereby neutralizing the threat to transitivity altogether.
+3. Maintaining a strict distinction between material objects (governed by DAUP or mereological principles) and abstract/historical continuants (governed by narrative, biology, or psychology) exposes van Inwagen's argument as a category mistake. Whether one embraces material coincidence (Horn A) or perdurantism (Horn B), the realist who accepts DAUP has robust theoretical resources to withstand the amputation paradox.
+
+Ultimately, van Inwagen does not succeed in refuting DAUP on logical grounds. What he succeeds in showing is that DAUP is incompatible with a pre-theoretic, unreflective commitment to a single, undivided substance that is simultaneously a strict mereological sum and an enduring historical person. But for the ontologist willing to embrace the rich, multi-layered texture of material coincidence or temporal parts, DAUP remains not only logically consistent, but a remarkably powerful tool for mapping the structure of the physical world.

@@ -1,0 +1,61 @@
+# Modal Perfection and the Persistence of Parody: Hartshorne, the Absolute Evil One, and the Perfect Island
+
+## Introduction
+
+Charles Hartshorne’s modal version of the ontological argument is often regarded as a substantial improvement upon Anselm’s original formulation. Anselm’s argument appears to move directly from the concept of a being than which none greater can be conceived to that being’s existence in reality. Hartshorne, by contrast, emphasizes a distinction between contingent and necessary existence. God is not merely a being that happens to exist, nor even a being whose non-existence is impossible in the actual world alone. God is a being whose existence is necessary: if God exists at all, then God exists in every possible world. Hartshorne’s argument therefore seeks to avoid the familiar objection that existence is not a perfection in the same way as wisdom, power, or goodness. Necessary existence, he argues, is a genuine modal perfection, and a being that necessarily exists is greater than one whose existence is merely contingent.
+
+This modal reformulation appears to offer a response to the traditional parody objections. Gaunilo’s perfect island, for example, is supposed to show that Anselm’s reasoning can generate arbitrary objects possessing maximal greatness. If the reasoning proves that the greatest conceivable being exists, why could it not prove that the greatest conceivable island exists? Hartshorne’s answer is that islands, unlike God, are essentially contingent. A perfect island could be maximally excellent in its geographical or aesthetic features, but its existence could not be necessary. The modal argument is thus designed to make a principled distinction between God and ordinary objects.
+
+Yet this apparent solution raises a deeper question. Does the move from contingent existence to necessary existence genuinely insulate the ontological argument from parody, or does it merely transfer the problem to a modal level? If one can formulate a necessarily existing Absolute Evil One, or a necessarily existing perfect island, then Hartshorne’s framework may remain structurally vulnerable. The issue is not simply whether such parodies are intuitively plausible. It is whether the modal principles used by Hartshorne—especially the modal axioms associated with his logic of perfection and Becker’s postulate—provide a reason to reject them, or whether they apply impartially to any entity whose necessary perfection is stipulated.
+
+The central conclusion of this essay is qualified. Hartshorne’s modal argument does successfully block Gaunilo’s original, purely contingent perfect-island parody. Necessary existence is not an irrelevant embellishment; it changes the logical structure of the argument and prevents a straightforward transfer of the proof to ordinary contingent objects. Hartshorne’s argument also makes possible a principled explanation of why some parodies are incoherent: certain properties, such as maximal evil or islandhood, may be internally incompatible with necessary existence or with the kind of perfection at issue. But modal axioms and Becker’s postulate alone do not establish those incompatibilities. They license an inference from possible necessary existence to necessary existence; they do not show that God is possible while the Absolute Evil One is impossible. Unless Hartshorne’s substantive theory of perfection can independently exclude the parodic counterparts, the framework remains vulnerable to a structural parity objection. Its defense therefore depends less on modal logic by itself than on controversial claims about value, personhood, dependence, and the coherence of maximal properties.
+
+## 1. Anselm, Gaunilo, and the problem of parody
+
+Anselm’s Proslogion argument begins with the definition of God as “that than which nothing greater can be conceived.” Anselm then argues that such a being must exist in reality as well as in the understanding. A being that exists only in the understanding can be conceived as existing in reality, and existence in reality is supposed to be greater than existence merely in the understanding. Therefore, a being existing only in the understanding would not be the greatest conceivable being. The greatest conceivable being must exist in reality.
+
+The argument has always faced the objection that its key comparative principle is too powerful. If existence in reality makes a thing greater than existence in the understanding, then analogous reasoning seems to establish the existence of any maximally excellent object. Gaunilo’s perfect island is the classic example. One can conceive of an island than which no greater island can be conceived. If that island existed only in the understanding, one could conceive of it existing in reality, and it would then be greater. Therefore, the perfect island must exist in reality. But this conclusion is absurd, since there is no reason to believe that any such island exists.
+
+Gaunilo’s objection is not merely that islands are less impressive than God. It is that the form of the argument appears to be object-neutral. If the inferential structure works for one putative maximally great object, then it should work for any object to which the same description can be attached. A parody succeeds when it preserves the argument’s structure while replacing its subject matter. The challenge is therefore not answered by saying that God is more important than an island. The question is why the ontological argument is valid for God but invalid for the island.
+
+There are several possible responses. One may argue that “existence” is not a perfection at all, as Kant later did. One may argue that the concept of a greatest conceivable being is incoherent. One may distinguish necessary from contingent existence. Or one may contend that certain kinds of objects possess intrinsic maximality while others do not. Hartshorne’s modal approach combines the second and third strategies. He interprets divine perfection in modal terms and argues that necessary existence is itself a perfection. The crucial difference between God and Gaunilo’s island is consequently not merely that God has more desirable properties, but that divine existence is necessary whereas island existence is contingent.
+
+## 2. Hartshorne’s modal reformulation
+
+Hartshorne’s version of the ontological argument is influenced by Charles Sanders Peirce and by a broadly process-oriented conception of divine perfection. He does not simply reproduce Anselm’s medieval argument. Rather, he treats the divine concept as involving a contrast between properties that are necessary and properties that are contingent. God’s existence is necessary, while God’s changing experiences, relations, and states may be contingent. Divine perfection is therefore not understood as a static possession of every conceivable excellence but as the unsurpassability of a being whose existence cannot fail.
+
+In contemporary modal notation, the central claim may be expressed as follows:
+
+1. It is possible that a necessarily existing perfect being exists:  
+   \[
+   \Diamond \Box G
+   \]
+
+2. If it is possible that such a being exists, then such a being exists necessarily:  
+   \[
+   \Diamond \Box G \rightarrow \Box G
+   \]
+
+3. Therefore, God exists necessarily:  
+   \[
+   \Box G
+   \]
+
+4. Hence, God exists in the actual world:  
+   \[
+   \Box G \rightarrow G
+   \]
+
+The second premise is often associated with Becker’s postulate. In its standard form, Becker’s axiom is:
+
+\[
+\Diamond \Box p \rightarrow \Box p
+\]
+
+This principle is characteristic of strong modal systems, especially systems with an S5-like treatment of possibility and necessity. Intuitively, if there is a possible world at which \(p\) is necessary, then \(p\) is necessary in the actual world. Since necessity at a world is usually understood as truth in all accessible worlds, and S5 makes accessibility sufficiently uniform, a state that is necessary somewhere possible is necessary everywhere.
+
+Hartshorne’s distinctive contribution lies in applying this modal principle to the divine concept. If the existence of a perfect being is possible, and if perfection includes necessary existence, then the existence of that being is not merely actual but necessary. The modal argument thus avoids the direct inference from a concept to an actual object. It instead uses a conditional: if necessary divine existence is possible, then necessary divine existence is actual.
+
+This is an important improvement over the crude version of Anselm’s reasoning. The argument no longer says that existence as such is a property that can be added to a concept to make it greater. It says that a being with necessary existence would be greater than a being with merely contingent existence, and that a perfect being would possess the greater form. The modal transition is therefore not from conceptual representation to actuality but from possible necessity to necessity.
+
+Nevertheless, the argument’s dependence on the possibility

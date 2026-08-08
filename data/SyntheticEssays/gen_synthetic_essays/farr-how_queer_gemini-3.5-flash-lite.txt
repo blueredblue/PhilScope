@@ -1,0 +1,164 @@
+### The Metaphysical Outlaw: An Inquiry into J. L. Mackie’s Argument from Queerness and the Foundations of Moral Realism
+
+#### Introduction
+
+In *Ethics: Inventing Right and Wrong* (1977), J. L. Mackie launched a direct assault on the traditional objectivist understanding of morality. Among the arguments he marshaled under the banner of error theory—the thesis that moral judgments involve truth-claims that are uniformly false—the "argument from queerness" stands as his most philosophically provocative and enduring contribution. Mackie argued that if there were objective, prescriptive, action-guiding values woven into the fabric of the universe, they would be entities or qualities of a very strange sort, utterly unlike anything else in our ontology. Such values, he maintained, would be both metaphysically and epistemically "queer," requiring a special, non-natural faculty of moral perception to bridge the chasm between the world of facts and the realm of normative demands.
+
+Mackie’s challenge cuts to the heart of metaethics. It forces moral realists—those who hold that moral statements express propositions that are true independently of human desires or beliefs—to justify their ontological commitments in the face of a naturalistic worldview. Yet, the argument from queerness has also been met with fierce resistance. Critics charge that Mackie’s appeal to "queerness" is a rhetorical sleight-of-hand—a weaponized incredulity that begs the question against the realist by assuming that the naturalistic, physicalist ontology of contemporary science exhausts the categories of the real. They argue that if strangeness were a legitimate criterion for ontological elimination, we would be forced to purge much of contemporary physics, mathematics, and philosophy of mind.
+
+This essay evaluates J. L. Mackie’s argument from queerness. I will examine whether labeling objective moral values as metaphysically and epistemically queer provides a sound basis for rejecting moral realism, or whether dismissing properties simply on the grounds of strangeness rests on an unwarranted, parochial standard of plausibility. Furthermore, I will analyze the parallels drawn between the alleged strangeness of moral properties and scientifically accepted phenomena—such as mathematical entities, counterfactuals, and conscious experience—and assess whether the presumption against queerness successfully eliminates the possibility of objective moral facts.
+
+---
+
+#### I. The Architecture of Mackie’s Error Theory and the Argument from Queerness
+
+To understand the argument from queerness, one must first locate it within Mackie’s broader error-theoretic framework. Mackie’s project is twofold: conceptual and ontological. Conceptually, he claims that ordinary moral language and thought are implicitly objectivist. When people assert that "torturing innocents is wrong," they do not merely mean that they dislike torture or that it violates the social norms of their tribe; they mean to ascribe a property to the act of torture itself—wrongness—which is independent of anyone’s attitudes toward it. Ontologically, however, Mackie denies that this conceptual demand can be met. The world contains no such properties. Consequently, because ordinary moral discourse presupposes the existence of objective values that do not exist, moral discourse as a whole is systematically in error.
+
+Mackie supports this error theory with two primary arguments: the argument from relativity and the argument from queerness. While the argument from relativity relies on anthropological observations of widespread moral disagreement across cultures and historical epochs to suggest that divergent ways of life rather than perceptions of an objective standard explain our moral codes, the argument from queerness is purely metaphysical and epistemological. It is here that the philosophical heavy lifting is done.
+
+Mackie divides his argument from queerness into two distinct prongs: the metaphysical and the epistemological.
+
+##### 1. The Metaphysical Prong
+Metaphysically, Mackie asserts that if there were objective values, they would have to be entities or qualities or relations of a very strange sort, utterly different from anything else in the universe. Specifically, an objective moral value would have to possess a built-in *to-be-pursuedness* or *not-to-be-done-ness*. Mackie writes:
+
+> "An objective moral value would have to be something like a objective prescription or a demand infused into the fabric of the world. But such an entity or quality would be very strange, unlike anything else in the universe."
+
+The core of this metaphysical strangeness is the feature that later philosophers, following Christine Korsgaard and others, call "normativity" or "practical reason," combined with ontological objectivity. In the natural and scientific world, properties are descriptive and inert. A mass accelerates under a force; a chemical reaction releases heat; an animal survives through adaptation. These facts describe how the world *is*. None of them, on their own, logically entail how the world *ought* to be or how an agent *must* act. 
+
+An objective moral property, however, would bridge the gap between *is* and *ought* intrinsically. It would not merely be a feature of the world waiting to be observed; its very apprehension would provide the agent with an overriding reason for action, independent of the agent’s desires, goals, or institutional commitments. Mackie argues that this union of fact and prescription—of being and demanding—is logically and ontologically unprecedented. It posits a universe endowed with normative arrows pointing us toward specific courses of action, a metaphysical picture he finds entirely unsupportable in a naturalistic age.
+
+##### 2. The Epistemological Prong
+Epistemologically, Mackie argues that if such objective values existed, our knowledge of them would be equally bizarre. How do we come to apprehend these queer, prescriptive properties? We could not rely on the standard empirical senses, for eyes and ears are adapted to detect light waves, sound vibrations, and physical forces, not normative demands. 
+
+Consequently, to know objective moral values, we would need to posit a special faculty of moral perception or intuition—an intellectual faculty enabling us to "see" or "grasp" these non-natural properties. Mackie writes:
+
+> "And correspondingly, if we were to be aware of them, it would have to be by some special faculty of moral perception or intuition, utterly different from our ordinary ways of knowing everything else."
+
+This epistemological mechanism—often associated with intuitionism in the vein of G. E. Moore, W. D. Ross, or H. A. Prichard—strikes Mackie as ad hoc and mysterious. It invokes a "queer" cognitive faculty designed solely to explain how we access a similarly queer ontological realm, bearing no explanatory continuity with the empirical methods of the natural sciences or the logical deductions of formal reasoning.
+
+---
+
+#### II. "Queerness" as a Philosophical Weapon: Sound Basis or Unwarranted Incredulity?
+
+Having mapped the contours of Mackie’s argument, we must evaluate its cogency. Does the label "queer" constitute a valid philosophical critique, or is it merely an expression of methodological bias?
+
+##### The Argument from Incredulity
+Critics of Mackie frequently categorize the argument from queerness as an *argumentum ad lapidem*—an appeal to stone—or a generalized argument from personal incredulity. To say that something is "strange" or "weird" is not, on the face of it, to offer a deductively valid or inductively strong refutation. Throughout the history of science and philosophy, many propositions that initially appeared profoundly strange—such as heliocentrism, quantum entanglement, non-Euclidean geometry, or the relativity of time—turned out to be true. If human intuition about what is "natural" or "plausible" were an infallible guide to reality, we would still inhabit a flat, Newtonian cosmos.
+
+Therefore, simply pointing out that objective moral values do not resemble electrons, tables, or biological organisms does not, by itself, show that they do not exist. To give the argument from queerness real philosophical bite, the realist demands an account of *why* this particular strangeness is disqualifying, rather than merely surprising.
+
+##### Mackie’s Defense: Explanatory Bankruptcy
+A charitable reconstruction of Mackie reveals that his charge of queerness is not merely an expression of aesthetic distaste for the unusual; rather, it is an argument from **explanatory bankruptcy**. 
+
+Mackie’s point is that naturalistic explanations of human moral judgment—drawing on evolutionary biology, anthropology, psychology, and sociology—are fully sufficient to account for why we hold moral beliefs, why we talk as if values are objective, and why our moral codes take the forms they do. We do not need to postulate objective, non-natural normative properties to explain our moral practices, because evolutionary pressures favoring cooperation, reciprocity, and social cohesion can fully account for the emergence of moral sentiments and rules.
+
+When an ontological posit performs no explanatory work that can be discharged more parsimoniously by non-ontological or naturalistic explanations, Ockham’s razor advises us to cut it away. In this light, the argument from queerness is an application of parsimony: objective values are theoretically idle in our best scientific explanations of the world and our place in it. To retain them is to encumber our ontology with entities that are not only unobserved but fundamentally inexplicable within our broader framework of knowledge.
+
+---
+
+#### III. The Metaphysical Counter-Offensive: Parallels with Accepted Phenomena
+
+To defend moral realism against the charge of queerness, philosophers have sought to show that many aspects of our accepted, non-controversial worldview share the very features that Mackie finds so objectionable in morality. If mathematics, modal logic, semantics, and consciousness possess features that are equally "queer," then Mackie’s standard of plausibility is either inconsistently applied or overly restrictive, reducing naturalism to a dogmatic physicalism that rules out any non-physical phenomenon *a priori*.
+
+##### 1. Mathematical Entities and Abstract Objects
+Consider the realm of pure mathematics. Platonism in mathematics holds that numbers, sets, and geometric shapes exist as objective, abstract entities outside of space and time. 
+
+*   **Metaphysical Status:** Are mathematical entities "queer"? They possess no mass, no charge, no spatial location, and no causal powers. Yet, they are held to be objectively real, and mathematical truths are thought to be discovered, not invented. If someone were to ask a mathematical Platonist where the number 7 is located, the Platonist would rightly reply that the question category-mistakes the nature of abstract objects.
+*   **Epistemological Status:** How do we come to know mathematical truths? We do not trip over the number 7 in the laboratory. We grasp mathematical truths through a faculty of a priori reasoning or rational intuition. 
+
+If mathematical Platonism is a respectable (even if debated) philosophical position—one utilized daily by theoretical physicists—why should moral realism be dismissed as uniquely queer? The moral realist argues that normativity is simply a different domain of abstract or structural reality. Just as the universe has mathematical structure, it may also have normative structure.
+
+##### 2. Modality and Counterfactuals
+Another parallel lies in the domain of modal logic: the realm of possibility, necessity, and counterfactuals. 
+
+Statements such as "If Hitler had not invaded Poland, World War II might have unfolded differently" or "It is logically impossible for a square to be a circle" refer to modal facts. 
+*   What is the ontological status of a counterfactual fact? 
+*   Where are possible worlds located? 
+
+While David Lewis posited modal realism (the actual existence of concrete, causally isolated possible worlds), most philosophers view modal facts as objective features of reality without reducing them to physical particles. Modality tells us what *must* be and what *can* be. Like morality, modality is prescriptive in a logical sense—it constrains what is permissible in reality. Yet, physicists do not measure "necessity" with a gauge. Modality is accepted as a fundamental aspect of reality, despite its non-empirical, non-causal nature.
+
+##### 3. Phenomenal Consciousness and the Hard Problem
+Perhaps the most powerful parallel is found in the philosophy of mind: the phenomenon of subjective experience, famously dubbed by David Chalmers as the "Hard Problem of Consciousness."
+
+Physicalism attempts to explain the world in terms of mass, energy, spacetime curvature, and electro-magnetic fields. Yet, as Joseph Levine, Frank Jackson, and Chalmers have argued, there is an explanatory gap between physical processes in the brain and the subjective, qualitative feel of pain, color, or joy (quale). 
+*   Why should the firing of C-fibers *feel* like pain? 
+*   Why isn't cognitive processing completely "dark," unaccompanied by any inner light of awareness?
+
+Consciousness is profoundly "queer" from the perspective of reductive physicalism. It is an internal, subjective reality that seems utterly recalcitrant to objective, third-person scientific measurement. Yet, we do not deny consciousness; we live it every moment. The existence of consciousness proves that the universe contains properties that transcend the simple push-and-pull of mechanical physics. 
+
+##### Evaluating the Parallels
+Does pointing to mathematics, modality, and consciousness rescue moral realism from Mackie’s critique? 
+
+The moral realist argues that Mackie’s standard of "queerness" is a double standard. If we permit abstract objects, modal truths, and subjective consciousness into our ontology despite their non-natural, non-causal profiles, we have already abandoned strict physicalism. Once the door is opened to non-physical, non-empirical realities, the mere fact that moral properties are non-natural and prescriptive is no longer a sufficient reason to banish them.
+
+However, the anti-realist can offer a robust rejoinder. Mathematics, modality, and consciousness—whatever their ontological puzzles—play an indispensable, foundational role in our best explanations of the physical world. Mathematics is the language of physics; modal logic is the framework of rationality; consciousness is the very medium through which all empirical data is gathered. 
+
+Morality, by contrast, does not play this foundational explanatory role in natural science. We can explain human behavior, historical epochs, and psychological motivations entirely through evolutionary biology, neuroscience, and sociology without ever invoking objective moral truths. Therefore, while mathematics and consciousness are accepted despite their strangeness because they are epistemically and theoretically indispensable, objective moral properties remain theoretically idle—hence, their "queerness" is a genuine mark against them.
+
+---
+
+#### IV. The Epistemological Crisis: Intuition and Moral Knowledge
+
+If we set aside the metaphysical dispute and focus on epistemology, Mackie’s challenge becomes even sharper. How can we have reliable access to objective moral facts if they do not interact with our sensory organs in a causal manner?
+
+##### The Evolutionary Debunking Challenge
+In contemporary metaethics, Mackie’s epistemological argument has evolved into the **Evolutionary Debunking Argument (EDA)**, championed by philosophers like Sharon Street and Richard Joyce. 
+
+The EDA proceeds as follows:
+1.  Our moral judgments are the product of natural selection acting on our ancestral lineage. Evolution favored creatures who cooperated, cared for their kin, reciprocated favors, and punished cheaters because these behaviors enhanced reproductive fitness.
+2.  The selective pressures that shaped our moral faculties were entirely blind to objective moral truths. They tracked *reproductive advantage*, not *normative truth*.
+3.  Therefore, there is a massive coincidence problem (or explanatory debasement) if we suppose that our evolutionarily molded moral intuitions track independent, objective moral facts. 
+4.  Consequently, our moral beliefs are epistemically untrustworthy. We have no reason to think our moral intuitions align with the moral fabric of the universe, rendering moral realism epistemically bankrupt.
+
+This is the modern, sophisticated descendant of Mackie’s epistemological queerness. It explains *why* moral intuition is suspect: not merely because it is "different" from empirical observation, but because we have a genealogical account of our moral beliefs that completely bypasses any causal or epistemic connection to objective moral properties.
+
+##### Realist Responses to the Epistemological Challenge
+Moral realists have not taken this lying down. Several strategies have been deployed to rescue moral epistemology from the evolutionary debunking threat:
+
+1.  **Third-Factor Explanations (David Enoch):** Enoch argues that there is a pre-established harmony or non-coincidental link between what is evolutionarily adaptive and what is objectively good. Survival and cooperation are conducive to agency and flourishing, which are objectively valuable. Thus, evolution led us to track moral truths not by directly perceiving them, but because survival and normative value naturally converge.
+2.  **Moral Rationalism (T. M. Scanlon / Russ Shafer-Landau):** Realists like Shafer-Landau argue that moral properties are apprehended not through a mysterious, non-natural "sixth sense" (intuitionism of the old sort), but through a priori reasoning and reflection on the nature of agency, harm, and flourishing. Just as we grasp logical truths through reason, we grasp moral truths by reflecting rationally on what reasons for action exist.
+3.  **Reliabilism and Intuition:** Some realists bite the bullet, arguing that intuition is no more mysterious than the foundational axioms of logic or mathematics, which also cannot be empirically proven without circularity.
+
+Yet, the tension remains. The realist must explain how an organism shaped by Pleistocene survival pressures manages to tap into an objective, mind-independent moral order. Until a compelling bridge is built, Mackie’s epistemological queerness retains considerable persuasive force.
+
+---
+
+#### V. Resolving the Presumption Against Queerness
+
+Can the presumption against queerness successfully eliminate the possibility of objective moral facts? To answer this definitively, we must analyze the burden of proof and the very definition of "naturalism" in contemporary philosophy.
+
+##### The Burden of Proof and Metaphysical Minimalism
+At the heart of the debate between Mackie and the moral realist lies a methodological disagreement about where the burden of proof rests.
+
+*   **The Anti-Realist (Mackiean) stance:** Naturalism is the default position. The universe, as revealed by the natural sciences, consists of matter, energy, and physical laws operating blindly in spacetime. Any proposal to add non-natural, normative, prescriptive properties to this ontology bears a heavy burden of proof. If that burden cannot be met—if the proposed entities are mysterious, causally inert, and epistemically inaccessible—they must be rejected.
+*   **The Realist stance:** Normative experience is as immediate, pervasive, and undeniable as sensory experience. We do not experience the world as a neutral collection of physical facts; we experience it as a place filled with claims upon us—things that matter, suffering that demands relief, promises that bind. To reduce this rich normative landscape to mere neurological firings or evolutionary tricks is an act of philosophical revisionism that does violence to our lived reality. The burden of proof rests on the eliminativist to show why our most deeply ingrained normative practices should be discarded as illusory.
+
+##### Resolving the Impasse: The Spectrum of Reality
+Who wins this methodological standoff? The resolution depends on whether one adopts a **reductive naturalist** ontology or a **non-reductive / expansive** ontology.
+
+If one’s definition of reality is strictly restricted to what can be quantified and measured by physics (eliminative physicalism), then Mackie’s argument from queerness is decisive. Objective moral values are unquestionably queer by the lights of physics. They do not have mass, they do not bend spacetime, and they do not feature in the Standard Model of particle physics. If physicalism is the sole arbiter of existence, moral realism is dead on arrival.
+
+However, contemporary philosophy has largely moved away from crude physicalism toward forms of **naturalistic realism**, **constructivism**, or **non-natural realism** (such as *Robust Moral Realism* defended by Enoch, Shafer-Landau, and Derek Parfit). These philosophers argue that reality is stratified. The domains of logic, mathematics, consciousness, and normativity are irreducible to microphysics, yet they are no less real.
+
+To say that a property is "queer" is simply to say that it does not fit comfortably into a 19th-century mechanical worldview. But physics itself has long since abandoned the mechanical worldview. Quantum mechanics posits non-local entanglement, superposition, and probabilistic fields that are far more bizarre and counter-intuitive than anything dreamt of in traditional moral philosophy. If the universe at its most fundamental level is ontologically extravagant and profoundly strange, the demand that morality must conform to an outdated, tidy picture of "naturalness" loses its force.
+
+##### The True Vulnerability of Moral Realism
+While Mackie’s reliance on "queerness" as a knockdown argument fails because it relies on an unjustifiably narrow standard of ontological admissibility, it successfully unmasks the **epistemic vulnerability** of moral realism. 
+
+The weakness of moral realism does not lie in its *metaphysics*—for we have already seen that mathematics, modality, and consciousness force us to expand our ontological categories beyond physicalism. Rather, its weakness lies in its *epistemology and explanatory economy*. 
+
+In mathematics, we need abstract entities to make sense of physics and computation. In consciousness, we cannot deny the phenomenon because it is the very datum of awareness. In morality, however, error theory and constructivism offer a complete, functionally adequate explanation of our moral behavior without ever needing to posit mind-independent, non-natural moral facts. We can explain why we judge torture to be wrong (empathy, evolutionary aversion to pain, social stability) without needing "wrongness" to be an ethereal property floating in the metaphysical ether.
+
+Therefore, while the presumption against queerness does not logically *eliminate* the possibility of objective moral facts—there is no logical contradiction in a normative universe—it does successfully shift the dialectical burden. It shows that moral realism is an ontological luxury: a posit that lacks the theoretical necessity of mathematics or the undeniable datum-status of consciousness.
+
+---
+
+#### Conclusion
+
+J. L. Mackie’s argument from queerness remains one of the most provocative challenges in metaethics. By attacking objective moral values on both metaphysical and epistemological fronts, Mackie forced moral philosophy to abandon dogmatic objectivism and engage rigorously with naturalism, evolutionary theory, and the philosophy of science.
+
+This essay has evaluated Mackie’s argument and assessed whether labeling objective moral values as queer provides a sound basis for rejecting moral realism. We have found that Mackie’s use of "queerness," insofar as it relies on an appeal to bare strangeness, risks sliding into an unwarranted standard of plausibility. When measured against the profound strangeness of mathematical Platonism, modal necessity, and phenomenal consciousness, moral properties are not uniquely bizarre. The universe is a stranger place than 19th-century naturalism ever imagined.
+
+However, Mackie’s challenge retains its deep potency when viewed through the lens of **explanatory economy and epistemology**. Because non-moral explanations—grounded in evolutionary biology, psychology, and anthropology—can fully account for our moral practices and beliefs, objective moral properties are theoretically idle. The evolutionary debunking of moral intuition compounds this difficulty, leaving the moral realist with a formidable epistemic debt.
+
+Ultimately, the presumption against queerness does not logically eliminate the possibility of objective moral facts. A normative universe remains conceivable. But Mackie successfully demonstrated that moral realism cannot take its ontological credentials for granted. If moral realists wish to populate the cosmos with objective values, they must do more than assert their reality; they must show how such values earn their keep in an intellectually rigorous, scientifically informed worldview. Until that debt is paid, moral realism remains an act of faith—a profound and noble intuition about what matters, but one that struggles to find its footing in the cold, silent expanse of physical reality.
