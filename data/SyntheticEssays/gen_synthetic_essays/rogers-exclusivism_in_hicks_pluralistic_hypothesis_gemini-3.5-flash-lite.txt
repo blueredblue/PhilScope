@@ -1,0 +1,148 @@
+# The Limits of the Transcendent: John Hick’s Pluralistic Hypothesis, Post-Axial Chauvinism, and the Crisis of Soteriological Inclusivity
+
+## Introduction
+
+John Hick’s pluralistic hypothesis represents one of the most ambitious systematic attempts in modern philosophy of religion to reconcile the competing truth claims of the world’s major religious traditions. Faced with the empirical reality of religious diversity and the epistemological collapse of traditional exclusivism—which holds that only one religion possesses the exclusive truth—Hick proposed a Copernican revolution in theology. Just as Copernicus displaced the Earth from the center of the universe to orbit the Sun, Hick displaced Christianity (or any single tradition) from the center of religious truth, positioning the transcendent reality—which he terms "the Real-an-sich"—at the center, with all historical religions orbiting as culturally conditioned manifestations of this ultimate reality.
+
+However, the architecture of Hick’s hypothesis rests upon structural boundaries that have provoked acute philosophical anxiety. Most critically, Hick deliberately restricts the scope of his pluralistic hypothesis to what Karl Jaspers termed the "Axial Age" (roughly 800 BCE to 200 CE)—a historical window that witnessed the emergence of major spiritual traditions such as Buddhism, Hinduism, Judaism, Christianity, Islam, Daoism, and Jainism. By doing so, Hick explicitly excludes pre-axial, primal, and indigenous traditions, such as Native American vision quests, African shamanic initiations, and Australian Aboriginal Dreamtime cosmologies, from his framework of authentic salvation/liberation.
+
+This essay evaluates whether Hick’s restriction of his pluralistic hypothesis to post-axial religions renders his system guilty of an unreasonable arbitrariness that ultimately undermines its internal coherence. At the heart of this inquiry lies a deep tension within Hick’s epistemology: between his foundational principle—that religious experiences genuinely grounded in the transcendent justify the veridicality of religious beliefs—and his functional reliance on soteriological transformation as the exclusive criterion for evaluating religious validity. 
+
+If religious experience of the Real is the epistemological ground of religious life, then the exclusion of pre-axial traditions appears to commit an arbitrary geographic and historical chauvinism. Conversely, if soteriological transformation—defined as the transition from self-centeredness to Reality-centeredness—is the ultimate standard, the dismissal of indigenous spiritualities demands rigorous defense. Ultimately, I will argue that Hick’s exclusion of pre-axial traditions represents a fatal fracture in his internal coherence. To salvage a defensible pluralism, Hick’s framework must be modified by expanding the formulation of the Real and grounding validity not merely in post-axial ethical soteriologies, but in a broader phenomenology of human-transcendent engagement that honors the ethical fruitfulness of indigenous lifeways.
+
+---
+
+## 1. The Architectural Pillars of Hick’s Pluralism
+
+To evaluate the charge of arbitrariness against Hick, one must first map the metaphysical and epistemological scaffolding of his hypothesis. Hick’s project is constructed upon a Kantian distinction between ontology and epistemology, paired with a functionalist criterion of religious efficacy.
+
+### The Kantian Distinction: The Real *an-sich* and the Real *phenomenon*
+Drawing heavily upon Immanuel Kant’s distinction between the *noumenon* (the thing-in-itself, *Ding an sich*) and the *phenomenon* (the thing as it appears to human perception, shaped by a priori categories of the mind), Hick bifurcates religious reality:
+
+1. **The Real *an-sich* (The Real-in-itself):** This is the ultimate, unconditioned, transcendent ground of all existence. By definition, it lies beyond human conceptualization, linguistic description, and categorical apprehension. It has no attributes, no gender, no personality, and no specific moral character because all attributes are human constructions. It cannot be known as it is in itself.
+2. **The Real *phenomenon* (The Real as experienced):** When the infinite Real impinges upon the finite human consciousness, it is interpreted through the culturally and historically conditioned "conceptual frameworks" (or "lenses") of different human communities. Thus, the personal deities of theistic traditions (Yahweh, Allah, Vishnu, the Christian Trinity) and the impersonal absolutes of non-theistic traditions (Brahman, Nirvana, the Dharmakaya, Sunyata) are not different ultimate realities fighting for metaphysical supremacy; rather, they are the *phenomenal manifestations* of the single, singular Real *an-sich* as experienced by different human cultures.
+
+### The Epistemological Foundation: Religious Experience as Veridical
+Epistemologically, Hick rejects radical skepticism and fideism alike. He adopts a "critical realism" grounded in a principle of phenomenal trust, analogous to Thomas Reid’s "common sense" epistemology or William P. Alston’s theory of doxastic practices. Hick argues that in the absence of overriding defeaters, human religious experiences—which he defines as experiences of the transcendent as real—ought to be presumed veridical. 
+
+Human beings possess what Calvin called the *sensus divinitatis* (a natural sense of the divine) or, in Hick’s broader terminology, a cognitive machinery that inclines toward the transcendent. Just as we trust our sensory experiences of the physical world unless we have reason to suspect an illusion or hallucination, Hick asserts that we are rationally justified in trusting our religious experiences of the transcendent. Because these experiences consistently occur across diverse cultures, leading to profound moral and spiritual transformations, we have strong cumulative evidence that the transcendent is genuinely interacting with humanity.
+
+### The Soteriological Criterion: "Salvation/Liberation" as the Test of Truth
+Because the Real *an-sich* is cognitively inaccessible, and because different traditions construct mutually exclusive conceptual frameworks (e.g., Islam insists God is personal and non-incarnate; Advaita Vedanta insists ultimate reality is non-dual and impersonal), Hick cannot use propositional truth claims as the criterion for religious validity. If propositional truth were the standard, one would have to adjudicate between contradictory metaphysical dogmas, plunging us back into exclusivism.
+
+Instead, Hick introduces a pragmatically inflected soteriological criterion: **the fruits of religion**. The ultimate purpose of religion is not to provide accurate cosmological or metaphysical maps, but to facilitate a transformative shift in human beings—a transition from the natural state of *self-centeredness* (egoism, narcissism, greed, violence) to *Reality-centeredness* (love, compassion, humility, altruism). 
+
+As Hick famously states, the great world religions are "different human responses to the one ultimate divine Reality, pointing to the same salvific transformation of human life from self-centeredness to Reality-centeredness." Therefore, any tradition that empirically produces this moral and spiritual transformation is "saved" or "liberated"; its conceptual system is veridical *in its function*, even if its metaphysical propositions are strictly metaphorical rather than literally descriptive.
+
+---
+
+## 2. The Exclusion of Pre-Axial and Indigenous Traditions
+
+Having established Hick’s core mechanism—transcendent experience interpreted via cultural lenses, validated by soteriological fruits—we must confront his boundary-drawing: **Why does Hick restrict this framework to the post-axial traditions?**
+
+### Defining the Axial and Pre-Axial Divide
+The "Axial Age" is a term coined by Karl Jaspers to denote a critical epoch in human history between roughly 800 BCE and 200 CE. During this era, across diverse and largely unconnected civilizations (Greece, Israel, India, China, Persia), humanity underwent a profound spiritual awakening. Traditional tribal religions, bound to specific localities, bloodlines, and rituals aimed at fertility or warding off immediate dangers, were challenged by transcendent philosophies. 
+
+Thinkers and prophets—the Hebrew prophets, Zoroaster, the Buddha, Mahavira, the Upanishadic sages, Confucius, Laozi, and later Jesus and Muhammad—began to conceptualize an absolute, universal, moral, and metaphysical order that transcended tribal boundaries. Crucially, axial religions democratized or universalized salvation: salvation was no longer about tribal survival or ritual placation of local spirits, but about an individual or universal transformation of consciousness, moral accountability, and liberation from suffering or sin.
+
+### Hick’s Explicit Rationale for Exclusion
+Hick explicitly confines his pluralistic hypothesis to the major post-axial traditions. In works such as *An Interpretation of Religion* and *The Metaphor of God Incarnate*, Hick argues that primal or pre-axial religions lack the universal, soteriological depth found in axial traditions. His justifications generally rest on three premises:
+
+1. **Particularism and Ethnocentrism:** Primal religions are typically bound to a specific tribe, clan, or geographic territory. They lack the universal scope that characterizes the great world faiths, which open their doors to all humanity regardless of bloodline.
+2. **The Nature of the Sacred:** In primal religions, the "sacred" is often immanent, fragmented, and tied to nature spirits, ancestors, or magical forces, rather than pointing toward an ultimate, all-encompassing Transcendent Reality (the Real *an-sich*).
+3. **Absence of Systematic Soteriology:** Hick contends that pre-axial religions focus primarily on pragmatic, this-worldly concerns—health, rain, victory in battle, fertility—rather than the radical inward transformation from self-centeredness to Reality-centeredness that defines axial soteriology.
+
+---
+
+## 3. The Internal Tension: Epistemological Ground vs. Soteriological Criterion
+
+Herein lies the profound philosophical tension that threatens to unravel Hick’s system. Hick’s pluralism is held together by two foundational pillars:
+* **Pillar A (Epistemological):** Human experiences of the transcendent validate the existence of the Real, because humans are universally endowed with a capacity to apprehend the divine/transcendent.
+* **Pillar B (Soteriological):** The validity of a religious tradition is judged by its ability to transform humans from self-centeredness to Reality-centeredness.
+
+When we examine the exclusion of pre-axial traditions through the lens of these two pillars, a glaring inconsistency emerges.
+
+### The Epistemological Breach
+If human beings have a universal cognitive capacity to experience the transcendent—the *sensus divinitatis*—then this capacity cannot have suddenly blinked into existence around 800 BCE. Homo sapiens have engaged in deeply spiritual, symbolic, and ritualistic behaviors for at least 70,000 to 100,000 years, as evidenced by Upper Paleolithic cave art, ancient burial practices, and the unbroken lineages of indigenous shamanic traditions worldwide. 
+
+If Hick’s epistemological justification for post-axial religions is that human religious experiences are veridical encounters with the Real, he must grant that human beings were *already* encountering the Real long before the Axial Age. To argue that the infinite Real suddenly began refracting through human conceptual frameworks only when urban civilizations emerged in the Ganges, the Yellow River, the Mediterranean, and the Middle East is historically myopic and philosophically arbitrary. It treats human consciousness as if it were blankly unspiritual until awakened by urban literacy and philosophical reflection.
+
+### The Soteriological Injustice
+What of Pillar B—the transformation from self-centeredness to Reality-centeredness? Does Hick’s assertion that primal religions lack this transformation hold up under anthropological and phenomenological scrutiny? 
+
+The answer is a decisive *no*. Indigenous spiritualities across the globe—from the Native American vision quest and the Sun Dance to African traditional religions, Australian Aboriginal spirituality, and Inuit shamanism—are saturated with mechanisms designed precisely to crush the ego, instill radical humility, bind the individual to a cosmic moral order, and foster profound compassion for both human and non-human communities.
+
+Let us examine the **Native American vision quest**: A young seeker goes into the wilderness alone, fasting, crying for a vision, and surrendering their ego to the powers of the universe. This is not merely a pragmatic request for a lucky hunting charm; it is an ontological annihilation of self-centeredness. The seeker receives a vision that binds them in sacred reciprocity (*kinship*) with animals, plants, the earth, and the Creator (e.g., *Wakan Tanka* in Lakota tradition). The resulting ethos is one of radical self-effacement before the sacredness of all creation, encapsulated in the Lakota prayer *Mitakuye Oyasin* ("All my relations"). 
+
+Similarly, **African traditional religions** (such as the Yoruba system) emphasize *iwa* (character) as the supreme religious value. The goal of ritual, divination, and moral living is to align oneself with *Olodumare* (the Supreme Creator) through the mediation of *Orishas* and ancestors, maintaining harmony (*ire*) within the community. The ethics of ubuntu ("I am because we are") represents a profound communal realization of Reality-centeredness, where the isolated ego is dissolved into the relational matrix of humanity and the cosmos.
+
+To claim that these traditions do not foster the transition from self-centeredness to Reality-centeredness is to betray an egregious ignorance of indigenous phenomenology. In many cases, indigenous peoples exhibit a *greater* ecological and social integration of Reality-centeredness than post-axial societies, which frequently institutionalize anthropocentrism, aggressive proselytizing, and hierarchical violence.
+
+---
+
+## 4. Is Hick Guilty of Unreasonable Arbitrariness?
+
+Having exposed the tension between Hick’s epistemology and his soteriological metric regarding pre-axial traditions, we must now directly answer the central question: **Is Hick’s restriction guilty of unreasonable arbitrariness?**
+
+Arbitrariness in philosophy occurs when a distinction is drawn without a principled, non-circular justification. A thinker is guilty of arbitrary exclusion if their stated criteria logically demand the inclusion of a category, yet that category is excised based on cultural prejudice, historical bias, or ad hoc convenience.
+
+Hick’s exclusion of pre-axial religions is arbitrary on multiple fronts:
+
+### 1. The Fallacy of the Axial Privilege
+Jaspers’ "Axial Age" hypothesis, while historically useful for describing shifts in literacy, state formation, and philosophical abstraction, is not a metaphysical dividing line ordained by the cosmos. It is a historical construct, and recent historians of religion (such as Robert Bellah in *Religion in Human Evolution*) have demonstrated that the developments of the Axial Age were continuous with, rather than radically discontinuous from, earlier ritual and mythic patterns. By treating the Axial Age as a magical threshold where human consciousness suddenly became capable of apprehending the Real, Hick commits an intellectual sleight-of-hand. He mistakes a shift in *literary and philosophical technology* (the transition from oral myth to written scripture and systematic metaphysics) for a metaphysical upgrade in human-transcendent contact.
+
+### 2. Eurocentric and Universalist Biases
+Hick’s criteria for a "world religion" are subtly shaped by the post-Enlightenment, Abrahamic, and Vedic paradigms of what religion *ought* to look like: text-based, universally applicable, conceptually systematic, and institutionally organized. Primal religions are oral, locally embedded, ritual-centric rather than text-centric, and animistic. By defining "true religion" through the mirror of globalized, literate, imperial civilizations, Hick marginalizes non-literate and indigenous epistemologies. This is a form of chronological and cultural snobbery that is antithetical to the very spirit of pluralism. If pluralism means anything, it must be radically open to the infinite variety of human expressions of the sacred, not merely those that achieved geopolitical dominance during the first millennium BCE.
+
+### 3. The Circularity of the Soteriological Standard
+If Hick defends his exclusion by arguing that primal religions do not produce soteriological transformation, his argument becomes viciously circular. He defines soteriological transformation in terms that match the ethical and psychological profiles of post-axial mysticism and philosophy (e.g., individual liberation, monastic detachment, universalistic ethics), and then declares that religions which do not match this specific profile are soteriologically deficient. This is akin to defining "literature" exclusively as the 19th-century European novel and then declaring oral folk epics or cave paintings to be "non-literature" because they lack chapters and prose realism.
+
+Therefore, Hick’s restriction of his pluralistic hypothesis to post-axial religions **is guilty of unreasonable arbitrariness**. It undermines the internal coherence of his system by creating an unbridged chasm between his universal epistemology (the human capacity to experience the Real) and his restricted application (only post-axial humans do so successfully).
+
+---
+
+## 5. Salvaging the Hypothesis: Modifications and Resolutions
+
+If Hick’s pluralism is to maintain its internal coherence and moral integrity, it cannot remain stranded within its post-axial ghetto. How can Hick’s framework be modified to resolve the exclusion of pre-axial and indigenous traditions? Two primary pathways present themselves: **redefining ethical fruitfulness** and **expanding the formulation of the Real**.
+
+### Pathway A: Broadening the Criterion of Ethical Fruitfulness
+To include indigenous traditions, the soteriological criterion must be detaching from its post-axial, salvation-historical biases and expanded into a truly ecumenical metric of **ecological and communal flourishing**. 
+
+In pre-axial and indigenous traditions, the shift from self-centeredness to Reality-centeredness does not typically manifest as an individual ascetic seeking personal *moksha* (liberation) or individual salvation from sin; rather, it manifests as **cosmic and ecological relationality**. The ego is transcended through deep attunement to the land, reverence for plant and animal kin, and strict adherence to reciprocal responsibilities within the community. 
+
+If Hick’s criterion of "Reality-centeredness" is redefined to include:
+* The dissolution of human hubris and anthropocentrism,
+* The recognition of nature as a manifestation of the sacred,
+* The practice of radical sustainability and kinship with non-human life,
+* The maintenance of social harmony and communal solidarity,
+
+...then indigenous traditions do not merely meet the soteriological criterion—they frequently *exemplify* it more consistently than many post-axial empires, which have historically weaponized universalist religions (Christianity, Islam, and state Confucianism) to justify colonialism, religious wars, and ecological devastation. 
+
+Modifying Hick’s framework in this direction means acknowledging that the "fruits" of the Spirit (or of the Real) are not exhausted by inner-directed mysticism or individual salvation; they include outward-directed ecological wisdom and sustainable cosmological balance.
+
+### Pathway B: Expanding the Formulation of the Real *an-sich*
+A second modification requires expanding how the Real *an-sich* is conceived in relation to phenomenal expression. Hick’s current model tends to prioritize anthropomorphic and cosmic-personal (or cosmic-impersonal) deities and absolutes (God, Brahman, Sunyata). 
+
+However, if the Real is truly infinite, limitless, and unconditioned, its phenomenal refractions must include **animistic, shamanic, and polytheistic frameworks**. 
+* In animism, the Real is experienced as dispersed, alive in rivers, stones, trees, and animals (the numinous manifested as a multiplicity of spiritual presences).
+* In shamanism, the Real is accessed through altered states of consciousness, bridging the visible and invisible worlds to restore health, balance, and community equilibrium.
+
+By expanding the phenomenal categories of the Real to include *multivalent animism* and *ecological immanence*, Hick can account for pre-axial experiences without reducing them to primitive superstition. The animist who experiences a forest as sacred is experiencing the phenomenal refraction of the Real *an-sich* just as genuinely as the Christian experiencing the personal God of love or the Buddhist experiencing the emptiness of all things.
+
+### Integrating the Modifications: A Radical Pluralism
+When these two modifications—an expanded ecological-relational soteriology and an inclusive animistic/shamanic phenomenology—are integrated into Hick’s hypothesis, the framework undergoes a profound transformation. It ceases to be a "club" for the world-historic, literate, axial religions and becomes a genuinely global, pan-human philosophy of religion. 
+
+This modified Hickian pluralism asserts that:
+1. **The Real is infinitely faceted**, refracting not only through the monumental cathedrals of post-axial metaphysics and scripture, but also through the sacred groves, vision quests, drumbeats, and oral mythologies of indigenous humanity.
+2. **Epistemological access is universal**, grounded in the ancient, unbroken evolution of human spiritual consciousness stretching back into deep prehistory.
+3. **Salvation/Liberation is multidimensional**, encompassing individual moral awakening, metaphysical liberation, *and* ecological-cosmic harmony.
+
+---
+
+## Conclusion
+
+John Hick’s pluralistic hypothesis stands as a monumental achievement in the philosophy of religion, offering a generous, peaceful, and intellectually stimulating alternative to the violent clashes of religious exclusivism. Yet, its arbitrary confinement to post-axial traditions exposes a critical fracture in its internal coherence. By resting his system on a universal human capacity to experience the transcendent while simultaneously barring pre-axial and indigenous traditions from the halls of soteriological validity, Hick falls prey to the very ethnocentrism his pluralism was designed to dismantle.
+
+The tension between Hick’s epistemological foundation and his soteriological criterion cannot be resolved by clinging to Jaspers’ historical dividing line of the Axial Age. That line is an artifact of literate historiography, not a metaphysical barrier erected by the Divine. To rescue Hick’s hypothesis from the charge of unreasonable arbitrariness, we must push his pluralism to its radical conclusion. 
+
+By expanding the criteria of soteriological transformation to embrace ecological balance, communal reciprocity, and relational humility—and by widening the phenomenal spectrum of the Real to honor animistic and shamanic encounters with the sacred—we transform Hick’s hypothesis from a eurocentric and axial-privileged theory into a truly universal philosophy of religion. Only then can Hick’s vision be fully realized: a global tapestry where every human voice, from the ancient campfire to the modern cathedral, participates in the profound, multifaceted echo of the Real.

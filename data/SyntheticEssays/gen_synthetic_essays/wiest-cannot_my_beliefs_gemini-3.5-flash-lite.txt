@@ -1,0 +1,163 @@
+### Introduction
+
+The inquiry into the springs of human action has long preoccupied moral psychology and the philosophy of mind, forcing an investigation into the relative contributions of reason and passion. At the core of this investigation lies a fundamental question: Can an agent’s practical judgment and belief alone generate the motivation to act, independently of any preexisting, unmotivated desires? 
+
+Traditionally, the Humean theory of motivation—championed in contemporary philosophy by figures like Michael Smith—has maintained that reason is fundamentally inert. On the Humean view, cognition (beliefs) and conation (desires) are strictly distinct psychological states with different directions of fit. Beliefs aim to represent the world as it is (mind-to-world direction of fit), whereas desires aim to alter the world to fit a representation (world-to-mind direction of fit). Because beliefs are passive reflections of reality, they lack the intrinsic conative force required to move an agent to action. Consequently, a belief can only issue in action when coupled with a prior desire that sets the teleological target. Reason, in this picture, is a mere instrumental calculator—a slave to the passions, tasked solely with determining the best means to fulfill antecedently given ends.
+
+Contrasting sharply with this view is the rationalist framework advanced by Thomas Nagel in *The Possibility of Altruism*. Nagel argues that practical reason is not merely instrumental in the service of blind psychological urges. Instead, he posits that beliefs about what one *ought* to do—derived from rational recognition of normative requirements, such as the avoidance of future pain or the recognition of the reality of other persons—can directly motivate an agent. For Nagel, the relation of means to ends is not mediated by an independent conative state; rather, the recognition of a reason to achieve an end can rationally transmit its motivational force to the means required to achieve it, operating entirely through the faculty of judgment.
+
+This essay evaluates the claim that practical judgment and belief can generate motivation independently of preexisting desires, focusing on the fault lines between Nagel’s rationalism and Smith’s Humeanism. We will interrogate the specific mechanism of means-end reasoning outlined in Nagel’s famous "soda pop and dime" thought experiment. Furthermore, we will examine whether goal-directed intentional states with a world-to-mind direction of fit are strictly necessary to explain action, or if reasons can transmit motivational influence across the relation between ends and means without an underlying desire. Ultimately, we must resolve the tension between these opposing frameworks: Does restricting motivation to unmotivated desires adequately capture the landscape of human agency, or do practical judgments alone possess the normative and motivational autonomy to successfully move agents to act?
+
+---
+
+### The Humean Orthodoxy and Michael Smith’s Defense
+
+To understand the stakes of Nagel’s challenge, one must first map the contours of the contemporary Humean orthodoxy. Michael Smith, in his seminal work *The Moral Problem* and subsequent essays, mounts a sophisticated defense of the Humean Theory of Motivation (HTM), grounding it in an analysis of the concepts of "belief," "desire," and "motivating reason." 
+
+Smith’s argument proceeds by analyzing what it is for an agent to have a motivating reason to do something. When we ask *why* an agent acted—for what reason they performed an action—we are asking for an explanation of their behavior in terms of intentional states that rationalize the action from the agent's perspective. Smith argues that an agent’s motivating reason to φ consists of a pair of psychological states: a belief that Smith characterizes as a belief that *φ-ing has property F*, and a desire to achieve or instantiate *an end G* (where φ-ing is seen as a way of achieving G, or where F is a desirable property). 
+
+Crucially, Smith deploys a teleological and functional definition of psychological states based on the notion of "direction of fit," a concept inherited from Elizabeth Anscombe. 
+*   **Beliefs** have a **mind-to-world direction of fit**. The point of a belief is to represent the world accurately. If the world does not conform to the content of a belief, it is the belief that is defective and must be altered to match reality.
+*   **Desires** have a **world-to-mind direction of fit**. The point of a desire is to alter the world so that it comes to match the content of the desire. If reality does not conform to a desire, it is the world that is defective, and action must be taken to bring reality into alignment with the desire.
+
+From this taxonomy, Smith derives the Humean constraint via a conceptual argument. Suppose an agent has a motivating reason to φ, which explains their φ-ing. This motivating reason must be capable of moving the agent to action. However, a state with a mind-to-world direction of fit (a belief) is representationally passive; its function is purely cognitive. It tells the agent how things *are*, but it says nothing about how things *ought to be* or what is to be done, unless the agent *cares* about how things are in that specific respect. Caring—valuing, wanting, desiring—requires a state with a world-to-mind direction of fit. Therefore, Smith concludes that any complete explanation of an action must cite a desire (or a desire-like state) alongside a belief. A belief alone cannot constitute a motivating reason because it lacks the conative vector required to generate motion.
+
+Furthermore, Smith defends the Humean view against the cognitivist who claims that normative beliefs can motivate. The cognitivist argues that if an agent judges that they ought to φ, this normative judgment is a belief that can directly cause φ-ing. Smith counters with the "practicality requirement on moral judgment." It is an internalist intuition that if an agent genuinely judges that they ought to φ, they will, barring weakness of will or countervailing motivations, be motivated to φ. 
+
+If normative judgments are merely beliefs (states with a mind-to-world direction of fit), how can they guarantee a necessary connection to motivation? According to Smith, they cannot, unless we invoke an independent, contingent desire to do what one ought to do. But if the motivation depends on a desire to do what one ought, then it is the desire, not the belief, that provides the motivational fuel. If, alternatively, we define normative judgments themselves as constitutively tied to desires—claiming that to judge one ought to φ *is* to desire to φ—we collapse the distinction between cognition and conative states. 
+
+Smith argues that this collapse fails because beliefs and desires have distinct stability conditions and functional roles. Beliefs are sensitive to evidence; desires are sensitive to the realization of their objects. Therefore, Smith insists that a belief cannot be identical to a desire, nor can it generate a desire *ex nihilo* through pure ratiocination. Every rational transition from belief to action must pass through an antecedent desire that anchors the agent's teleological orientation.
+
+---
+
+### Nagel’s Rationalist Challenge: The Architecture of *The Possibility of Altruism*
+
+Thomas Nagel launches a direct assault on the Humean paradigm in *The Possibility of Altruism*. Nagel’s central thesis is that practical reason is not merely instrumental; rather, normative judgments can directly motivate an agent without the mediation of an antecedent, unmotivated desire. To establish this, Nagel seeks to demonstrate that the very structure of practical reasoning reveals how beliefs about what one has a reason to do possess intrinsic motivational efficacy.
+
+Nagel begins by distinguishing between two conceptions of motivation: the **Humean view**, which treats desires as the ungrounded engines of action, and the **rationalist view**, which treats practical judgments as themselves capable of generating desires or motivating action directly. Nagel does not deny that all actions can be redescribed as satisfying *some* desire, but he argues that this truth is merely a trivial, analytic one. If we define "desire" broadly enough so that any motivated agent must be said to "desire" whatever they act to achieve, then the claim "all action is motivated by desire" becomes a vacuous tautology. It tells us nothing about the psychological *origins* of the motivational state. 
+
+To say that an agent desires something in the robust, Humean sense is to attribute to them a psychological state that exists independently of their rational recognition of reasons—a brute urge, inclination, or drive (what Nagel calls a "motivation-providing desire"). The Humean claims that unless an agent possesses such an unmotivated desire, no amount of reasoning or belief formation can move them to act.
+
+Nagel challenges this by arguing that practical reason can generate motivating reasons through the recognition of normative facts. If an agent comes to believe that a future circumstance will be painful or detrimental to them, and that they have a reason to avoid it simply *because* it is painful (not because they happen to harbor a current, antecedent desire to avoid pain), this belief can directly motivate them to take preventative action. The motivational force does not derive from a pre-existing conative drive; rather, it is generated by the rational recognition of a requirement of practical reason itself—specifically, the requirement that future pain provides a timeless, agent-neutral or agent-relative reason for avoidance.
+
+Thus, for Nagel, practical reason operates on a principle of motivational internalism that is intrinsic to the nature of beliefs about reasons. When an agent judges that they have a reason to φ, this judgment is not merely a cognitive registration of a fact about the world (mind-to-world); it is a recognition of a requirement that immediately lays claim upon the agent's will. The belief that one has a reason to act *is* the motivation, or at least directly generates it, because to understand a reason is to understand a consideration that counts in favor of an action, and to recognize something as counting in favor of an action is to be motivated to some degree to perform it.
+
+---
+
+### The Soda Pop and Dime Thought Experiment
+
+To grasp the exact mechanics of Nagel’s anti-Humean model, we must examine the specific mechanism of means-end reasoning he deploys in his famous "soda pop and dime" thought experiment in *The Possibility of Altruism* (pp. 35–40).
+
+Nagel asks us to consider a simple scenario: An agent wants a can of soda pop. They believe that a dime is required to purchase the soda pop from a machine. Consequently, the agent forms a desire to obtain the dime. 
+
+The Humean analyzes this scenario through the lens of fundamental, unmotivated desires. According to the Humean, the agent has a primitive, brute desire for soda pop. This desire sets the goal (the end). The agent then forms a belief: *If I insert a dime into the machine, I will get the soda pop*. Combined with the primitive desire for soda pop, this belief generates a derived, instrumental desire for the dime. The desire for the dime is thus parasitic upon, and derivative from, the primary, unmotivated desire for the soda pop. Without the foundational, unmotivated desire for the soda pop, the belief that a dime is needed would remain inert.
+
+Nagel invites us to invert this explanatory direction and test the rationalist alternative. Suppose we describe the agent’s state not in terms of an unmotivated psychological urge for soda pop, but in terms of a rational recognition of a future state of affairs that provides a reason. More pointedly, consider a case where an agent recognizes a present reason to secure a means to a future satisfaction, where the future satisfaction is not yet desired by an unmotivated psychological impulse, or where the motivation is strictly transmitted from an end to a means through the rational structure of the action.
+
+Nagel’s deeper target is the nature of *prudential* and *instrumental* transmission of reasons. He introduces the requirement of motivational-teleological coherence: if an agent judges that they have a reason to attain an end $E$, and they believe that $M$ is a necessary means to $E$, then, *in the absence of conflicting reasons*, the agent is rationally required to judge that they have a reason to attain $M$. 
+
+Crucially, Nagel argues that this requirement is not mediated by a pre-existing desire for $E$. Suppose an agent recognizes a reason to ensure their own well-being next week (say, avoiding excruciating tooth pain). The Humean says: the agent must currently *desire* their future well-being, otherwise the belief that they will have a toothache next week will not move them today. 
+
+Nagel counters that this misrepresents the temporality and rationality of practical thought. We do not need a current, unmotivated desire for future well-being to be motivated to secure it. Rather, the recognition of the fact that *I will be in pain next week* is itself a reason that directly generates a motivating force. The future pain does not need to be currently felt to cause a present desire; rather, the rational apprehension of future pain as a bad thing operates as a reason *now*.
+
+In the context of means-end reasoning, Nagel argues that the transmission of motivation from an end to a means does not require an underlying psychological engine (a desire) to push the motivational current across the gap. Instead, the rational requirement itself acts as a conduit. If reason dictates that $E$ ought to be pursued, and $M$ is the sole means to $E$, then the normative requirement to pursue $E$ rationally necessitates the adoption of $M$. The motivational force is a direct consequence of the recognition of the rational requirement, not the ignition of an independent conative spark. 
+
+To formalize Nagel's mechanism:
+1.  **Rational Recognition:** The agent recognizes a normative reason to achieve $E$ (or recognizes $E$ as a good/requirement).
+2.  **Instrumental Belief:** The agent believes that $M$ is a necessary means to $E$.
+3.  **Rational Transmission:** By virtue of the rational requirement of instrumental coherence, the reason to achieve $E$ transmits its normative and motivational force to $M$.
+4.  **Action/Desire Generation:** The agent is motivated to pursue $M$, generating a motivational state (or acting directly) *because* of the rational judgment regarding $E$ and the means-end relation, entirely bypassing the need for a prior, unmotivated desire for $E$.
+
+---
+
+### The Battle Over Direction of Fit: Are World-to-Mind States Necessary?
+
+The debate between Nagel and Smith ultimately hinges on the adequacy of the psychological taxonomy of "direction of fit." Smith insists that intentional states must be cleanly divided into those that represent the world (mind-to-world, beliefs) and those that aim to change the world (world-to-mind, desires). Because action requires altering the world, it necessitates a state with a world-to-mind direction of fit. Therefore, any psychological state that causes action must either be a desire or contain a desire as a distinct component.
+
+Nagel’s rationalist framework challenges the rigidity of this dichotomy. He suggests that practical judgments—beliefs about what one has a reason to do—occupy a unique functional space that cannot be neatly captured by the orthodox Humean division. 
+
+Let us examine Smith's defense of the necessity of world-to-mind states. Smith argues that if an agent possesses a belief that they ought to φ, and this belief causes them to φ, we must ask: what happens if the world does not contain φ-ing? If the agent has a belief (mind-to-world), and they fail to φ, the standard response of a belief-holder is to revise the belief: "I thought I ought to φ, but I was wrong; I ought not to φ." However, if the agent acts, they do not revise their belief; rather, they change the world so that they φ. According to Smith, this demonstrates that the state driving the action must be one where, if the world fails to match the content of the state, the state does not give way—the world must give way. That is the hallmark of a world-to-mind direction of fit.
+
+How does Nagel respond, or how can a Nagelian rationalist resist this conclusion? 
+
+The rationalist can argue that practical judgments exhibit a *dual* or *normative* direction of fit, or that the very concept of "direction of fit" is biased toward a Humean ontology of mind. When an agent judges that they ought to φ, this judgment is sensitive to normative facts (mind-to-world: it aims to get the normative facts right). But unlike descriptive beliefs about empirical matters (e.g., "the cat is on the mat"), normative judgments are constitutively tied to the agent's practical identity and rational agency. 
+
+If an agent judges that they ought to φ and fails to φ, the rational defect is not necessarily located in the belief (i.e., it is not necessarily false that they ought to φ). Instead, the defect is located in the *agent*—in their failure to conform their will to the dictates of reason. The world-to-mind pressure is not exerted by a blind, unmotivated desire; rather, it is exerted by the *normative authority* of the reason itself. The reason demands compliance. The agency of the person is subjugated not to a brute psychological urge, but to the objective requirements of practical reason.
+
+To say that a desire is *strictly necessary* is to assume that normativity cannot be efficacious without a conative vehicle. But this is precisely what the rationalist denies. Why cannot a normative truth, apprehended by the intellect, exert a gravitational pull on the will? 
+
+Consider an analogous case in theoretical reason: when an agent recognizes a logical contradiction (e.g., $P$ and $\neg P$), they are rationally constrained to abandon one of the beliefs. This constraint is not mediated by a "desire for consistency." It is a structural requirement of theoretical rationality. The recognition of the contradiction *itself* forces the revision of belief. 
+
+Nagel argues that practical reason operates on a parallel structural requirement. The recognition of a practical reason (such as the avoidance of pain or the promotion of another’s good) functions as a structural requirement on action. To perceive a reason is to perceive a normative requirement, and to be a rational agent is to be disposed to act in accordance with normative requirements. Thus, a world-to-mind intentional state is not an ontological prerequisite for action; rather, the action is the behavioral manifestation of a mind submitting to the normative pull of a practical judgment.
+
+---
+
+### Assessing the Transmission of Motivational Influence
+
+Let us probe deeper into the mechanics of the means-end relation. Can reasons transmit motivational influence across the relation between ends and means without requiring an underlying desire?
+
+The Humean argues that transmission requires an engine. Imagine a train: the engine (the desire) provides the tractutive power. The cars (the beliefs about means) are pulled along by the engine. Without the engine, no amount of track arrangement (means-end beliefs) will cause the cars to move. 
+
+The rationalist (Nagelian) picture replaces the engine-and-cars metaphor with a hydraulic or gravitational model. Imagine a system of interconnected reservoirs. The normative weight of an end acts like gravitational potential or hydraulic pressure. If an end $E$ possesses normative gravity (i.e., there is a genuine reason to achieve $E$), and $M$ is the channel through which $E$ must be realized, the normative pressure does not sit inertly in $E$; it distributes itself across the logical structure of the means-end relationship. The reason to achieve $E$ is simultaneously a pro tanto reason to secure $M$. 
+
+Is this transmission coherent without a psychological desire? Let us test it against cases of instrumental action where desires are conspicuously absent or contrary to the agent's immediate inclinations.
+
+Consider a professional who detests administrative paperwork (no desire to do it, indeed, a strong aversion to it) but recognizes that filing these reports is a strict professional obligation and a necessary means to maintaining their license, which in turn enables them to practice medicine and help patients. 
+*   **Humean Diagnosis:** The Humean must reconstruct this by positing a hierarchy of desires. The agent must have a dominant, antecedent desire (e.g., a desire to help patients, or a desire to retain their livelihood) that outweighs their aversion to paperwork. The desire for the end (helping patients/keeping a job) generates an instrumental desire for the means (filling out paperwork) that is strong enough to override the aversion.
+*   **Nagelian Diagnosis:** The Nagelian argues that the agent may feel no positive desire whatsoever to do the paperwork—they may experience only aversion. Yet, they judge that they *ought* to do it because it is required for their end, which they have a rational reason to pursue. The motivation to do the paperwork is generated directly by the rational recognition of the normative requirement. The agent acts *in the teeth of their desires*. 
+
+This last point is crucial: human agents frequently act contrary to their strongest occurrent desires. We diet when we desperately want cake; we endure painful medical procedures when we want nothing more than to avoid pain; we tell the truth when lying would satisfy our immediate desires. 
+
+The Humean handles akrasia and contrary-to-desire action by invoking conflicting desires (desires of different strengths or different temporal horizons). But this risks turning the Humean theory into an unfalsifiable dogma. If *any* action—even one performed with reluctance, disgust, and in direct defiance of one's occurrent urges—must be redescribed as satisfying "some desire," the concept of desire loses its explanatory bite. It ceases to be a distinct psychological state with independent criteria of identity and becomes a mere placeholder for "whatever caused the action."
+
+Nagel’s account of practical judgment avoids this tautology by locating the source of motivation in normative judgment. When an agent acts against their occurrent desires out of a sense of duty, obligation, or prudential reason, they are responding to the normative force of a practical judgment. The belief that "I ought to do this" possesses a motivational vector that can override recalcitrant desires. Here, motivation is generated not by an unmotivated desire, but by the unvarnished apprehension of a reason.
+
+---
+
+### Criticisms and Counter--Critiques: The Internalist Tension
+
+Despite the intuitive power of Nagel’s rationalism, it faces severe objections from contemporary philosophers who occupy various points on the spectrum between Humean orthodoxy and Kantian rationalism. 
+
+#### 1. The Motivational Impotence of Pure Reason (The Humean Counter-Attack)
+Michael Smith and other defenders of the Humean view argue that Nagel’s account relies on an obscure, unargued-for metaphysics of normativity. How can a normative fact—an abstract relation of practical reason—hook up with the physical body to cause muscle contractions? 
+
+Desires have a clear psycho-biological profile: they are connected to the limbic system, dopamine pathways, and affective states that mobilize the organism for action. Beliefs, by contrast, are processed in cortical regions associated with cognitive representation, categorization, and inference. To claim that a belief *alone* can cause action is to posit a mysterious causal bridge between cold cognition and behavioral output, lacking the necessary conative cogs and wheels. 
+
+#### 2. The Kripkean/Wittgensteinian Objection to Rule-Following in Action
+Another line of critique targets Nagel’s assumption that recognizing a rational requirement automatically translates into motivation. This resembles the intellectualist fallacy in epistemology and philosophy of action, famously targeted by Gilbert Ryle and later by anti-rationalists. Ryle argued that knowing *that* (intellectual judgment) does not automatically entail knowing *how* or being disposed to do (practical execution). An agent can recognize a normative reason with perfect clarity and yet remain entirely unmoved—not merely due to weakness of will, but due to an affective flat affect, depression, or alienation from the norm. 
+
+#### 3. The Rationalist Rejoinder: Normative Realism and Internalism
+How does Nagel or a modern rationalist reply? 
+First, the rationalist can accept that normative judgments require a functioning cognitive-affective architecture, but deny that this architecture must be analyzed as a "desire" in the Humean sense. To call every motivational disposition a "desire" is to drain the term of its specific psychological content. 
+
+Second, the rationalist appeals to the phenomenology of agency. When we deliberate, we do not typically experience ourselves as balancing blind, unmotivated vectors of desire (like forces in Newtonian physics). We experience ourselves as weighing *reasons*. We ask: "Is this worth doing? Is this fair? Is this prudent?" The answers to these questions are framed in normative, cognitive terms. When we conclude that an action is required by reason, the transition to action is experienced not as the triumph of the strongest urge, but as the normative compel of truth. To reduce this deliberative experience to the friction of competing desires is to perform a Procrustean amputation on the phenomenology of human practical life.
+
+---
+
+### Resolving the Tension: Do Practical Judgments Successfully Motivate?
+
+We arrive at the central tension of our essay: Does restricting motivation to unmotivated desires adequately capture human action, or can practical judgments alone successfully motivate agents?
+
+To resolve this tension, we must evaluate the explanatory completeness and psychological plausibility of both models. 
+
+The Humean model, championed by Smith, offers a clean, parsimonious ontology. It aligns well with certain biological understandings of organisms as goal-directed systems driven by needs, drives, and appetites. It explains akrasia smoothly as the victory of a stronger desire over a weaker one (or a desire over a judgment). However, the Humean model pays a heavy price: it struggles to account for the normativity of reasons. If all motivation ultimately traces back to brute, unmotivated desires, then our actions are ultimately founded on non-rational psychological ground. Reason becomes a mere instrument of caprice. If you happen to have a desire to torture the innocent, the Humean framework can offer no internal rational critique of that desire, save for pointing out instrumental incoherence or internal inconsistency with *other* desires. The foundational desire itself remains normatively opaque and immune to rational assessment.
+
+Nagel’s rationalist model, conversely, places practical reason at the steering wheel. It accounts for the normative dimension of action—the way reasons can criticize, reshape, and generate desires. By demonstrating through the means-end analysis (and the logic of the soda pop and dime thought experiment) that rational requirements can transmit motivational influence without requiring a foundational, unmotivated conative urge, Nagel opens the door to a robustly moral and prudential psychology. In Nagel’s view, we are not merely bundles of competing appetites managed by an accountant; we are rational agents capable of being moved by the apprehension of truth, value, and the objective reality of others (as seen in Nagel's treatment of altruism).
+
+Yet, a synthesis or a modified pluralism may offer the most defensible resolution. Is it strictly necessary to choose between a pure Humean reduction and a pure Nagelian rationalism?
+
+Perhaps the apparent contradiction rests on an equivocation in the term "desire." 
+*   If "desire" is defined strictly as a brute, unmotivated, non-cognitive urge (the Humean conception), then restricting motivation to such states fails to capture the normative, reflective, and reason-responsive character of mature human action. Agents frequently acquire new motivations solely through reflection, reading, argument, and the realization of normative truths—without needing an antecedent, independent urge pointing in that direction. In this domain, Nagel is correct: practical judgments can generate motivation independently of preexisting, unmotivated desires.
+*   If, however, "desire" is understood broadly as *any* state of the agent that disposes them toward a goal with a world-to-mind direction of fit, then the rationalist must concede that when a practical judgment successfully motivates an agent, it *constitutes* or *results in* a state that is functionally a desire (it aims to change the world to match a representation). But this concession is harmless to Nagel, because the key question is not whether a conative state exists at the end of the deliberative process, but *what generated it*. 
+
+If the conative state was generated *by* the rational apprehension of a normative belief (the judgment that one ought to φ), then reason has successfully generated motivation independently of any *preexisting, unmotivated* desire. The desire is not an independent engine driving the process; it is the psychological shadow cast by the normative judgment itself.
+
+---
+
+### Conclusion
+
+The debate between Thomas Nagel’s rationalist account and Michael Smith’s Humean orthodoxy cuts to the heart of what it means to be a rational agent. Smith’s Humean framework insists upon the primacy of desires as unmotivated engines of action, guarded by strict boundaries of direction of fit. Nagel’s rationalism shatters these boundaries, demonstrating through the mechanics of means-end reasoning and normative recognition that practical judgments possess intrinsic motivational efficacy.
+
+Our evaluation has shown that restricting motivation to preexisting, unmotivated desires ultimately impoverishes our understanding of human agency. It reduces practical reason to a subservient calculator of alien urges and struggles to explain how we act against our strongest occurrent desires in response to duties, obligations, and objective values. Nagel’s soda pop and dime thought experiment, when generalized to the transmission of normative force across means-end relations, illustrates how rational requirements can propagate motivation through the structural architecture of deliberation without requiring a foundational conative spark.
+
+We conclude that practical judgments and beliefs *can* indeed generate motivation independently of preexisting, unmotivated desires. To be a rational agent is not merely to have one's passions managed by reason, but to possess a capacity for practical judgment that can directly engage the will. In the theater of human action, reason is not merely a slave to the passions; it is an autonomous legislator capable of moving the agent by the sheer force of truth and normative requirement.

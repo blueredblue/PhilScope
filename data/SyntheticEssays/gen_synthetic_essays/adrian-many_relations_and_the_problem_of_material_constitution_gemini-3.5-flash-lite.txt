@@ -1,0 +1,174 @@
+# The Architecture of Coincidence: A Philosophical Critique of Hylomorphic Partism, the In-F Relation, and the Resolution of Ontological Overcrowding
+
+## Introduction
+
+Contemporary material constitution theory remains haunted by the specter of ontological redundancy. When a sculptor molds a lump of clay into the shape of a David, or when biological organisms sustain complex metabolic profiles while supervening upon vast swarms of fundamental particles, metaphysics is forced to adjudicate between competing claims of occupation, identity, and parthood. Among the most historically persistent and mathematically rigorous attempts to resolve these puzzles is Hud Hudson’s three-dimensionalist Partist View. Hudson seeks to dissolve the notorious "Problem of the Statue and the Clay" and the "Problem of the Many" by denying that distinct objects can share the exact same spatial region while aggressively deploying mereological machinery to eliminate problematic pluralities. Yet, Hudson’s formulation ultimately founders on an irreconcilable dialectical tension: the collapse between *proper* and *improper* parthood when restricted to instantaneous three-dimensional slices of a material world governed by temporal change and varying mereological profiles.
+
+In response to this structural failure, contemporary metaphysics has witnessed a neo-Aristotelian revival of hylomorphism, culminating in sophisticated frameworks that deploy a five-place constitution relation: 
+
+$$C(x_1, x_2, \dots, x_n, y, F)$$
+
+Within this framework, constitution is not a dyadic mystery of identity-without-identity, nor is it mereological coincidence; rather, it is a plurality of matter $(x_1 \dots x_n)$ constituting a hylomorphic compound $(y)$ relative to a specific formal principle or substantial form $(F)$. Central to this defense is the introduction of the relational predicate **“in-F”**—a technical modification designed to insulate the compound from the destabilizing pressures of classical extensional mereology. 
+
+This essay evaluates whether the five-place constitution relation of Hylomorphic Partism successfully resolves the dialectical tension between proper and improper parthood that defeats Hudson’s view. I shall argue that while Hylomorphic Partism makes significant structural advances by rehabilitating form as a non-mereological principle of unity, its deployment of the *in-F* relation ultimately collapses into either a redundant epiphenomenalism or a disguised form of regional pluralism. Furthermore, I will critique the claim that multiple hylomorphic compounds can occupy the exact same spacetime region, demonstrating that this thesis violates the transitivity of identity, destabilizes causal closure, and renders the formal principle an unexplanatory primitive.
+
+---
+
+## Part I: The Mechanics of Hud Hudson’s Partist View and Its Mereological Collapse
+
+To appreciate why Hylomorphic Partism was developed as an escape hatch, we must first map the failure mode of its closest historical relative: Hud Hudson’s three-dimensionalist Partist View. Hudson attempts to solve the puzzle of the statue (Statue) and the clay (Clay) by refusing to grant that Statue and Clay are distinct entities that occupy the same region at the same time, while simultaneously rejecting four-dimensionalist perdurantism (which treats Statue and Clay as temporally extended worms composed of different temporal parts). 
+
+Instead, Hudson adopts a radical *mereological nihilism* or *restrictive composition* framework combined with a three-dimensionalist ontology, arguing that ordinary objects are constituted by arrangements of simples, but that the proper parthood relations governing them must be understood through the lens of a strict mereological hierarchy. Hudson’s core manoeuvre is to deploy the machinery of *part* and *whole* to argue that what we call "Statue" and "Clay" are either not two distinct things, or if they are two distinct things, their parthood relations must be radically constrained to avoid paradox. 
+
+However, Hudson’s view—and three-dimensionalist Partism more generally—is torpedoed by a fatal dialectical tension between proper and improper parthood. Consider the following triad of assumptions that define standard three-dimensionalist Partism:
+
+1. **Extensionalism of Parthood:** If $x$ and $y$ have the exact same proper parts at an instantaneous time $t$, then $x = y$.
+2. **The Overlap of Statue and Clay:** At time $t$, Statue and Clay are composed of (or constituted by) the *exact same* fundamental particles (or lower-level proper parts $p_1, p_2, \dots, p_n$).
+3. **Sortal-Relative Distinctness:** Statue and Clay are distinct objects because they have different modal and persistence conditions (e.g., Statue can survive the loss of a chip of clay if it does not destroy its representational form, whereas the lump of clay is indifferent to the arrangement).
+
+The tension explodes when we press the Partist on the mereological profile of Statue versus Clay at time $t$. If Statue and Clay are distinct entities, they cannot have the same mereological profile without violating Leibniz’s Law (the Indiscernibility of Identicals). Yet, if they are three-dimensional entities located in *the exact same spatial region*, classical extensional mereology dictates that any region-occupier is identical to any other region-occupier possessing the exact same proper parts. 
+
+To evade this, the Partist must claim that Statue and Clay have *different* proper parts, even though they occupy the same region. This requires denying standard spatial supervenience of parthood. But once we deny that parthood supervenes on spatial containment, the Partist faces the collapse of the distinction between proper and improper parthood. 
+
+Let $S$ be the Statue and $C$ be the Clay. If $S$ and $C$ share their lower-level parts, what makes $S$ distinct from $C$? The Partist is forced to say that $S$ has *form* as an abstract or structural part, whereas $C$ does not, or that the structural relations holding among the parts of $S$ constitute a higher-level proper part that $C$ lacks. 
+
+Here is where the dialectic breaks down: If this structural relation or "form" is a *proper part* of $S$, it must be distinct from the sum of the fundamental particles. But if it is a proper part, it must stand in the proper parthood relation ($\prec$) to the whole $S$. However, standard mereological axioms dictate that proper parthood is irreflexive, asymmetric, and transitive. 
+
+If $S$ has the formal arrangement $F$ as a proper part, and $C$ does not, then $S$ and $C$ do not share all their parts. But if $S$ and $C$ are entirely spatially coincident down to the last subatomic particle, how can one possess a proper part that the other does not without that proper part violating the spatial boundaries of the region? Either the formal part occupies a *sub-region* (which contradicts the premise that Statue and Clay are co-extensive), or it occupies the *entire region*, which violates the definition of *proper* parthood (since an entity cannot be a proper part of something with which it is co-extensive; proper parthood requires that the part be strictly smaller than the whole). 
+
+Thus, Hudson’s Partism collapses: it cannot maintain that Statue and Clay are distinct without rendering proper parthood either spatially disconnected from the objects it constitutes, or by collapsing proper parthood into improper parthood (identity), thereby rendering Statue and Clay identical and reducing the puzzle to a silent contradiction.
+
+---
+
+## Part II: The Five-Place Constitution Relation and the "In-F" Relation
+
+It is precisely to rescue materialism from this mereological impasse that contemporary neo-Aristotelians abandoned strict three-dimensionalist mereology in favor of **Hylomorphic Partism**. Hylomorphism replaces the impoverished mereological vocabulary of "parts and wholes" with a rich structural ontology of matter and form. Constitution is no longer viewed as a mysterious, dyadic, non-identity relation ($x$ constitutes $y$), but is formally articulated as a **five-place relation**:
+
+$$C(x_1, x_2, \dots, x_n, y, F)$$
+
+Read formally: The many material objects or particles $(x_1, x_2, \dots, x_n)$ constitute the hylomorphic compound $y$ *relative to* or *informed by* the substantial form $F$. 
+
+This five-place framework is an explicit rejection of extensionalist reductionism. It insists that mereological aggregation alone is insufficient to generate an ontological novelty. A mere heap of bricks is not a house; a mere swarm of carbon, hydrogen, and nitrogen atoms is not a living organism or a statue, *unless* those materials are unified by an organizing principle—a form $F$.
+
+To insulate this framework from the mereological collapse that defeated Hudson, hylomorphists introduce a specialized relational modifier: the **in-F relation** (often denoted as $\sqsubseteq_F$ or evaluated via sortal-relative containment). The core idea is that parthood and constitution are relativized to the structural profile or substantial form of the compound in question. 
+
+When we ask whether a sub-particle $p$ is a part of the Statue, the answer is not a flat "yes" or "no" determined solely by its spatial location. Rather, $p$ is a part of the Statue *in virtue of* its being structured by $F_{statue}$. More formally, the *in-F* relation reformulates parthood as:
+
+$$p \text{ is a part of } y \text{ in- } F \iff p \text{ is a matter-constituent of } y \text{ and is integrated into the structural unity mandated by } F.$$
+
+Does this successfully resolve the dialectical tension between proper and improper parthood? 
+
+Proponents of the *in-F* relation argue that it does, by dissolving the false dichotomy between extensional mereology and spatial coincidence. On this view, Statue and Clay are *not* distinct because they have different proper parts in the classical extensional sense; nor are they identical. Instead, they are distinct hylomorphic compounds generated by the *same underlying matter* ($x_1 \dots x_n$) mapped onto *different formal principles* ($F_{statue}$ vs. $F_{clay}$). 
+
+The *in-F* relation prevents the collapse into improper parthood because the formal constraint $F$ introduces a non-mereological dimension of ontological differentiation. The distinction between proper and improper parthood is preserved not by appealing to spatial asymmetry, but by structural-functional asymmetry. A particle $p$ can be a proper part of $C$ (the clay) relative to $F_{clay}$ while simultaneously occupying a functional node within $S$ (the statue) relative to $F_{statue}$. The mereological profile of an entity is thus *form-indexed*.
+
+However, this defense faces a severe internal threat. If parthood is relativized to $F$, we must ask: what is the ontological status of the *in-F* relation itself? Is *in-F* a genuine mereological relation, or is it a disguised sortal predication? 
+
+If *in-F* is a genuine mereological relation, then classical mereology’s axioms (such as unrestricted mereological transitivity and supplementation) must either fail or be relativized. If they are relativized, we enter a proliferation of mereologies: there is a mereology-in-$F_{statue}$, a mereology-in-$F_{clay}$, and so on. But this risks sliding into an anti-realist instrumentalism where parthood is in the eye of the beholder (or the sortal concept applied). 
+
+If, on the other hand, *in-F* is *not* a mereological relation, but merely a sortal-restricted predication (i.e., "$x$ is a part of $y$ *qua* $F$"), then the hylomorphist has not solved the problem of material constitution; they have merely *linguistically redescribed* it. To say that $x$ is a part of $y$ in-F is just another way of saying that $x$ constitutes $y$ under a description $F$. The metaphysical heavy lifting—explaining how two non-identical entities can share an identical spatial region and an identical set of fundamental physical particles—remains entirely opaque.
+
+---
+
+## Part III: Form as a Principle of Unity vs. Mereological Simples and Region Relativization
+
+To evaluate the explanatory power of Hylomorphic Partism, we must examine how form ($F$) functions as a principle of unity. This can be fruitfully contrasted with its two primary rivals in contemporary metaphysics: 
+1. **Mereological Simple Objects** (nihilism/atomism, where unity is explained by the fundamental, unanalyzable nature of simples or the brute fact of arrangement), and 
+2. **Region Relativization** (four-dimensionalist or relationist strategies that relativize property possession and parthood to spacetime regions or perspectives).
+
+For the hylomorphist, form is not an abstract universal floating in a Platonic heaven, nor is it merely a structural relational property supervening upon the physical parts. Form is an *actuality* or an *active organizing principle* that unifies a plurality of potential matter into a single, cohesive substance. As Aristotle argues in *Metaphysics* Z, a house is not merely bricks and mortar; the bricks and mortar are the matter, but the *form* is the architectural arrangement that actualizes those materials into a unified functional whole. 
+
+Critically, this principle of unity is *distinct* from mereological simples. A mereological simple possesses unity by default—it has no parts, and therefore requires no unifying principle. But a hylomorphic compound is a *multitude made one*. A living cat is composed of trillions of cells, molecules, and fundamental particles. What keeps this swarm from dissolving into a mereological scatter? 
+
+The hylomorphist answers: The substantial form of feline life ($F_{cat}$). This form exercises downward causation, constraining the behavior of the lower-level parts and maintaining the metabolic and structural integrity of the compound.
+
+Let us contrast this with **Region Relativization**. Defended by philosophers like Sally Haslanger and temporally-indexed ontologists, region relativization solves the statue-and-clay puzzle by claiming that properties, persistence, and parthood are indexed to spacetime regions or sortal-relative manifolds. On this view, Statue and Clay do not share the *exact same* property-profile *simpliciter*; rather, Statue has properties relative to the sortal *statue* (e.g., being representational, being fragile in a specific artistic sense), while Clay has properties relative to the sortal *lump of matter*. 
+
+Where region relativization fails—and where Hylomorphic Partism claims superiority—is in its inability to account for *ontological priority*. Region relativization treats the spatial region as the foundational arena and views objects as mere intersections of property-clusters or sortal-indexed perspectives. It is a form of ontological deflationism. 
+
+Hylomorphic Partism, by contrast, asserts that the form $F$ is *prior* to the matter it unifies in the order of explanation and ontological dependency. The matter is what it is (clay, flesh, carbon) *because* it is informed by $F$. 
+
+However, we must subject this notion of form-as-unity to rigorous philosophical critique. Does form actually explain unity, or is "form" merely a placeholder for an unresolved scientific and metaphysical mystery? 
+
+Consider what happens when we ask: *What is the substantial form $F$ of a statue?* 
+* Is it the geometrical shape? If so, shape is a relational property of the surface boundaries of the physical particles. But if shape is just a supervenient geometric property of the particles, then hylomorphism collapses back into physicalism. There is no independent "form" over and above the arrangement of the particles; "form" is just a high-level description of how the particles are configured. 
+* Is it an irreducible, non-physical ontological item? If so, the hylomorphist incurs a massive ontological debt. We must postulate irreducible formal entities that interact with physical particles, guiding their trajectories and imposing unities upon them, without violating the conservation laws of physics. 
+
+If form is an irreducible, non-physical principle, Hylomorphic Partism risks sliding into a form of emergentist dualism that severs the explanatory bridge between fundamental physics and macro-ontology. If form is *not* irreducible, and is merely a supervenient structural property, then the five-place constitution relation $C(x_1 \dots x_n, y, F)$ collapses into a glorified description of complex physical systems, rendering the *in-F* machinery redundant.
+
+---
+
+## Part IV: The Critique of Co-Extensional Hylomorphic Compounds
+
+Perhaps the most radical and controversial thesis advanced by advanced proponents of Hylomorphic Partism (such as Kathrin Koslicki, Robert Koons, and Michael Rea) is the defense of **co-location**: the thesis that multiple distinct hylomorphic compounds can occupy the exact *same* spacetime region at the *exact same* time. 
+
+In the context of the Statue and the Clay, the hylomorphist maintains:
+1. The lump of clay ($C$) occupies spacetime region $R$ at time $t$.
+2. The statue ($S$) occupies spacetime region $R$ at time $t$.
+3. $S \neq C$ (they have different persistence conditions, different modal profiles, and different formal principles $F_{statue} \neq F_{clay}$).
+4. Yet, $S$ and $C$ are constituted by the *exact same* matter ($x_1, \dots, x_n$).
+
+This position is diametrically opposed to the spatial exclusion principle (often called the Impenetrability Thesis), which asserts that no two distinct material objects can occupy the same spatial region at the same time. 
+
+Let us subject the thesis of co-extensive hylomorphic compounds to a rigorous critique. I shall argue that this proposal faces three fatal philosophical difficulties: 
+1. The violation of the Transitivity of Identity and the Collapse of Leibniz’s Law, 
+2. The breakdown of Causal Closure and Overdetermination, and 
+3. The vacuity of spatial location as an ontological constraint.
+
+### 1. The Transitivity of Identity and Leibniz’s Law
+Leibniz’s Law states that if $x$ is identical to $y$, then $x$ and $y$ must share all their properties (Indiscernibility of Identicals). Hylomorphists readily grant that $S \neq C$, so they do not violate Leibniz’s Law by asserting that *identical* things have different properties. 
+
+However, they violate a deeper structural principle concerning *spatiotemporal coincidence and identity*. In classical ontology, spatial location is an individuating principle (Principle of the Individuation of Locality). If two material objects are located in the exact same spatial region $R$, and are composed of the exact same matter $x_1 \dots x_n$, what prevents us from concluding that they are one and the same object viewed under different descriptions? 
+
+The hylomorphist answers: *Their substantial forms are different.* $F_{statue}$ and $F_{clay}$ are distinct universals or formal principles. 
+
+Yet, this introduces an unpalatable proliferation of entities. If form individuates objects, then for *every* structural property or sortal concept under which a region of matter can be conceptualized, there is a distinct hylomorphic compound co-locating in that region. 
+
+* In the region $R$, we have:
+  * The Lump of Clay ($S_1$)
+  * The Statue ($S_2$)
+  * The Work of Art ($S_3$)
+  * The Commercial Asset ($S_4$)
+  * The Calcium-Silicate-Aluminum Aggregate ($S_5$)
+
+This is ontological overcrowding on a massive scale. If all these entities occupy region $R$, we have infinitely many physical-ish objects sharing a single localized volume of space. This violates Occam’s razor without providing proportional explanatory return. 
+
+Furthermore, it generates paradoxes of identity: If $S$ is composed of matter $M$ and $C$ is composed of matter $M$, and $S$ weighs 5kg while $C$ weighs 5kg, does the region $R$ contain 5kg of matter or 10kg of matter? If we say 5kg, we are admitting that the distinct compounds *share* their mass-constituting matter, which collapses their distinctness into overlapping aspects of a single physical reality. If we say 10kg, we violate basic physical conservation and mass-density calculations for region $R$.
+
+### 2. The Breakdown of Causal Closure and Overdetermination
+Consider causation. Suppose the statue $S$ is struck by a hammer and shatters. 
+* Which object was struck? The Statue ($S$) and the Clay ($C$) occupy the exact same region $R$. 
+* Therefore, the hammer's kinetic energy is transferred to the matter constituting *both* $S$ and $C$. 
+
+The hylomorphist must explain the causal profile of co-located compounds. Does $S$ cause the shattering, or does $C$ cause the shattering, or do both? 
+
+If both $S$ and $C$ cause the shattering, we have rampant **systemic causal overdetermination**. Every macro-causal interaction involving a hylomorphic compound involves at least two (or infinitely many) co-located substances exercising identical causal powers on the exact same downstream effects. 
+
+Epistemologically and metaphysically, this is deeply unsatisfactory. Causal overdetermination is generally accepted only in rare, boundary-layer cases (e.g., two assassins simultaneously shooting the same victim). To enshrine causal overdetermination as the *norm* for every single interaction involving hylomorphic compounds is an intolerable theoretical cost. 
+
+If, to avoid overdetermination, the hylomorphist claims that only the matter ($x_1 \dots x_n$) or the base compound exercises causal powers, and that the higher-level forms ($F$) are epiphenomenal, then hylomorphism collapses into physicalism, rendering the formal principle causally impotent and explanatorily idle.
+
+### 3. The Vacuity of Spatial Location
+If multiple hylomorphic compounds can occupy the exact same spacetime region, spatial location ceases to function as a constraint on material existence. In classical metaphysics, to be a material object is to occupy a specific, bounded region of space to the exclusion of other material objects (impenetrability). 
+
+By jettisoning spatial exclusion, the hylomorphist turns spacetime into a mere container grid within which abstract or formal entities can be stacked infinitely high, like translucent transparencies on an overhead projector. But physical matter is not a stack of transparent sheets; it is fundamentally resistant, localized, and dense. To permit infinite co-location of distinct material compounds in the same region is to abandon the physical intuition that grounds the study of material constitution in the first place.
+
+---
+
+## Conclusion: The Dialectical Status of Hylomorphic Partism
+
+We are now in a position to render a final verdict on the five-place constitution relation of Hylomorphic Partism. 
+
+Hud Hudson’s three-dimensionalist Partist View collapsed because it attempted to solve the problem of material constitution within the straitjacket of classical extensional mereology, forcing a choice between spatial coincidence (which violates extensionalism) and mereological collapse (where proper and improper parthood become indistinguishable). 
+
+Hylomorphic Partism makes a bold and sophisticated attempt to escape this trap. By replacing dyadic constitution with a five-place relation—$C(x_1, \dots, x_n, y, F)$—and introducing the *in-F* relation, the hylomorphist successfully highlights the inadequacy of mereological atomism and restores form, structure, and downward causation to the center of metaphysical inquiry. It correctly recognizes that matter alone does not make a substance; organization, function, and formal unity are ontologically indispensable.
+
+However, Hylomorphic Partism ultimately fails to provide a coherent alternative to the puzzles of constitution because of its commitment to **co-extensive co-location**. By asserting that multiple distinct hylomorphic compounds can occupy the exact same spacetime region, the framework triggers an intolerable chain of philosophical pathologies: 
+* The proliferation of redundant entities (ontological overcrowding),
+* The violation of basic conservation and mass-density principles,
+* Rampant causal overdetermination, and
+* The evacuation of spatial location as an individuating principle.
+
+Furthermore, the central technical innovation of the view—the *in-F* relation—swings precariously between two equally fatal horns: either it is a genuine mereological relation that fractures mereology into an unmanageable plurality of sortal-dependent systems, or it is a disguised linguistic sortal predication that merely redescribes the mystery of constitution without solving it. 
+
+Ultimately, Hylomorphic Partism demonstrates that we cannot solve the problems of material constitution by adding more metaphysical furniture to the same spacetime region. If hylomorphism is to survive as a viable contemporary ontology, it must abandon the fantasy of strict co-location. It must embrace a dynamic, temporally extended, and spatially distributed account of form where substances are individuated not by sharing spatial regions under different formal descriptions, but by occupying distinct, causally integrated trajectories through four-dimensional spacetime. Until then, the five-place constitution relation remains a brilliant diagnostic autopsy of physicalist reductionism, but an unsuccessful blueprint for material construction.

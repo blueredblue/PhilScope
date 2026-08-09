@@ -1,0 +1,152 @@
+# The Architecture of Practical Agency: Smith, Williams, and the Systematic Justification of Desire
+
+## Introduction
+
+At the heart of normative inquiry lies a persistent tension regarding the nature of practical reason: is rationality merely an instrumental arbiter of given desires, or does it possess a substantive architecture that mandates the systematic integration of our ends? This question forces a confrontation between two of the most influential frameworks in contemporary moral philosophy: Bernard Williams’s internalist defense of the subjective motivational set ($S$), and Michael Smith’s rationalist reduction of the Humean theory of motivation. For Williams, practical deliberation is an internal, dynamic process operating on desires one already possesses, where rationality requires little more than procedural consistency and avoidance of instrumental incoherence—a weak sense of coherence. For Smith, by contrast, rationality requires a much stronger form of unity: a fully rational agent must have desires that are systematically justifiable, robustly coherent, and unified under general principles that withstand the scrutiny of complete information. 
+
+This essay evaluates whether making desires systematically justifiable is a necessary component of rational deliberation. Does rationality mandate that an agent strive for a unified desiderative profile, subsuming specific, underived preferences into a comprehensive, overarching framework? Or is the weaker requirement of avoiding direct practical contradiction sufficient for an agent to count as rational? 
+
+I will argue that while Smith’s attempt to derive strong systematic coherence from the concept of a "fully rational agent" relies on a flawed analogy between theoretical and practical reasoning, Williams’s radically subjective account fails to capture the normative friction inherent in critical deliberation. Ultimately, I shall contend that while rationality does not demand a monolithic, system-theoretic reduction of all independent preferences, practical deliberation does require a structural harmonization of desires that exceeds Williams’s minimalism. However, because this harmonization operates upon contingent, agent-relative starting points, the demand for systematic justification does not rescue internal reasons from a pervasive, albeit sophisticated, relativism.
+
+---
+
+## 1. The Humean Framework and the Divergence of Rational Ideals
+
+To frame the debate, we must begin with the standard Humean picture of practical reason. On the Humean view, beliefs and desires occupy distinct functional roles: beliefs are truth-seeking representations of the world that aim to fit reality, whereas desires are world-to-mind direction states that aim to make reality fit them. Desires provide the engine of practical action; reason is merely their slave, tasked with discovering the optimal means to satisfy pre-existing ends. 
+
+Both Bernard Williams and Michael Smith operate within broadly post-Humean terrains, yet they arrive at radically divergent conceptions of what rationality demands of an agent’s motivational state. 
+
+### Bernard Williams and the Subjective Motivational Set ($S$)
+In his seminal essay "Internal and External Reasons," Bernard Williams introduces the concept of the subjective motivational set, $S$. Williams asserts the internalist truism: $A$ has a reason to phi only if $A$ has some motivation in his $S$ which will be served or promoted by his phing, or equivalently, only if the agent could reach the conclusion to phi by a "sound deliberative route" from the elements already in $S$. 
+
+Crucially, $S$ is heterogeneous. It contains not only instrumental desires (such as a desire for water when thirsty) but also:
+*   Dispositions of evaluation
+*   Patterns of emotional reaction
+*   Personal loyalties
+*   Projects and commitments that constitute the agent’s character
+
+Williams is explicitly anti-systematizing. For Williams, $S$ does not need to be a harmonious, logically closed system. It is a messy historical accumulation of drives, values, and attachments. Deliberation, on Williams’s view, is an internal rearrangement, expansion, or imaginative correction of $S$. An agent can come to acquire new internal reasons through introspection, gaining new information, or recognizing factual errors. However, Williams fiercely resists the idea that rationality imposes an external, substantive mold to which $S$ *must* conform. 
+
+Rationality, for Williams, is primarily negative and formal. It requires avoiding glaring logical contradictions in one's intentions, recognizing obvious instrumental implications, and paying attention to empirical reality. It does not require that an agent’s desires be subsumed under general principles, nor does it demand that all independent preferences be reconciled into a unified desiderative profile. To demand systematic justification is, for Williams, to commit a rationalist error: it mistakes the philosophical desire for an elegant, unified theory of human agency for a genuine requirement of practical reason.
+
+### Michael Smith and the Fully Rational Agent
+Michael Smith, in *The Moral Problem* and subsequent work, challenges this minimalist Humean picture by attempting to reconcile the Humean theory of motivation with the objectivity of moral requirements. Smith accepts the Humean distinction between beliefs and desires, but he introduces a sophisticated account of what it means for an agent to be *rational*.
+
+For Smith, to say that an agent has a normative reason to phi is to say that a *fully rational agent* would, in those circumstances, desire that she phi. This move shifts the locus of normativity from the agent’s actual, potentially distorted $S$ to a counterfactual ideal: the agent's fully rational counterpart. 
+
+What characterizes this fully rational agent? Smith argues that full rationality requires a dual condition of cognitive and desiderative coherence:
+1.  **Cognitive Completeness:** The agent has all relevant true beliefs about her circumstances and the causal pathways of the world.
+2.  **Systematic Desiderative Coherence:** The agent’s desires are not a mere heap of disconnected preferences; rather, they are systematically ordered, unified, and justifiable. 
+
+For Smith, desires in a fully rational agent are subject to norms of coherence analogous to the consistency norms governing beliefs in theoretical reasoning. If an agent holds contradictory desires, or desires that depend on false beliefs, or desires that cannot be integrated into a coherent life plan without internal friction, that agent is practically irrational. Rational deliberation, therefore, is not merely the mechanical calculation of means to ends; it is the process of critically examining, pruning, and systematizing one’s desires to bring them into alignment with what a fully rational agent would desire.
+
+---
+
+## 2. The Strong vs. Weak Sense of Coherence in Practical Reasoning
+
+The central methodological divide between Smith and Williams concerns the degree of unity rationality demands of our practical psychology. We can formulate this as a contest between two distinct senses of coherence:
+
+*   **The Weak Sense (Consistency and Instrumental Avoidance):** Rationality requires that an agent’s practical commitments do not issue in direct behavioral paralysis or logical contradiction. An agent must not intend to do $X$ and intend to do not-$X$ simultaneously, nor may they refuse to take known, necessary means to their stated ends. However, the *ends* themselves may be plural, fragmented, in tension, or structurally independent.
+*   **The Strong Sense (Systematic Subsumption and Justification):** Rationality requires that specific, underived desires be subsumed under general principles. An agent’s desires must form an integrated, mutually supporting web where every desire is justifiable relative to a comprehensive conception of the good or a unified desiderative profile. Conflicts between desires must be resolvable by appeal to higher-order constitutive principles.
+
+Must a rational agent value the stronger sense of coherence? Smith answers with an emphatic yes. His argument rests on the claim that desires, much like beliefs, are subject to rational criticism not merely on instrumental grounds, but on structural grounds. If an agent desires $A$ and desires $B$, and $A$ and $B$ are fundamentally at odds, Smith argues that this internal conflict is a defect of rationality that demands resolution through structural ascension—moving from specific desires to general principles that can adjudicate between them.
+
+To evaluate this, let us examine what happens when an agent confronts practical conflict under both models. Suppose an agent, Elena, possesses two deeply entrenched desires: a specific desire to spend the weekend completing an independent artistic project, and a general desire to be a supportive, attentive parent to her young children, who desperately need her time. 
+
+Under **Williams’s weak sense of coherence**, Elena’s situation is tragic, difficult, and potentially productive of moral regret, but it is not *irrational*. Elena’s $S$ contains conflicting motivations. Deliberation consists of Elena weighing these competing internal pressures, perhaps imaginative re-enactments of what it feels like to fail as a parent versus failing as an artist. If she chooses one over the other, she may experience profound loss, but no rule of practical reason has been violated. There is no requirement that her artistic desire and her parental desire be subsumed under a master principle of human flourishing. Their conflict is a brute fact of her $S$.
+
+Under **Smith’s strong sense of coherence**, Elena’s internal conflict *is* a rational defect—not necessarily because she chose the wrong path, but because her desiderative profile lacks structural unity. A fully rational agent, Smith would argue, does not harbor disconnected, competing drives without a hierarchical, justifiable ordering principle. To achieve full rationality, Elena must deliberate in a way that ascends from her particular, underived preferences to a coherent, systematized set of desires where her roles as artist and parent are balanced, reconciled, or subordinated to a unified conception of a desirable life.
+
+Is Smith’s demand for the stronger sense of coherence defensible? The motivation behind Smith’s view is the avoidance of *practical arbitrariness*. If our desires are merely a disconnected heap of historical accidents, then our agency seems structurally hollow. Agency, on this view, requires authorship, and authorship requires that one’s actions flow from an integrated, unified self rather than a random jostling of isolated impulses.
+
+However, Williams provides a compelling counter-diagnosis: the demand for strong systematic coherence imposes an artificial, quasi-theoretic demand upon a domain that is inherently pluralistic and fragmented. Human lives are constituted by "ground projects"—commitments that give life meaning precisely because they are *not* derived from some overarching, abstract principle of practical reason. To demand that all desires be systematically justifiable to a fully rational agent is to risk alienating agents from the very particular attachments that make them who they are.
+
+---
+
+## 3. The Analogy Between Theoretical and Practical Reasoning
+
+To defend his strong conception of rational deliberation, Michael Smith relies heavily on an analogical bridge between theoretical reasoning (belief-fixation) and practical reasoning (desire-formation). This analogy is the linchpin of his metaethical project.
+
+In theoretical reasoning, rationality clearly demands more than the mere avoidance of immediate contradiction. A rational agent must seek a coherent web of belief. Beliefs must be justified by evidence, integrated into broader explanatory frameworks, and revised when they conflict with higher-order principles of logic, probability, and empirical confirmation. Isolated, ad-hoc beliefs that resist systematic integration are deemed irrational (or at least epistemically defective).
+
+Smith argues that a structural parity holds for desires. Just as beliefs aim at truth and are subject to norms of systematic coherence, desires aim at the good (or what is represented as good) and are equally subject to norms of systematic coherence. Smith writes that when we deliberate, we do not merely discover what we happen to want; we deliberate *normatively* about what we *ought* to want, which involves testing our desires against the backdrop of our other desires, beliefs, and general principles.
+
+### Deconstructing the Analogy
+Despite its intuitive appeal, the analogy between theoretical and practical reasoning breaks down under rigorous philosophical pressure, primarily due to the asymmetry in the direction of fit.
+
+1.  **Direction of Fit and World-Guidance:** Beliefs have a mind-to-world direction of fit. Their success condition is truth—matching an independent reality. Because reality is unified, law-governed, and non-contradictory, beliefs *must* aspire to systematic coherence to successfully represent that reality. If two beliefs contradict, at least one is guaranteed to be false. Desires, conversely, have a world-to-mind direction of fit. Their success condition is satisfaction—making the world match the desire. The world is famously pluralistic, tragic, and filled with incommensurable goods. Why should a set of states designed to alter the world be required to exhibit the same logical and systematic unity as states designed to mirror a unified reality?
+
+2.  **The Origin of Underived Preferences:** In theoretical reasoning, unjustified, ungrounded foundational beliefs are generally viewed as dogmatic or arbitrary (unless they are properly basic foundational inputs like immediate perceptual experiences). In practical reasoning, however, *underived preferences* are not merely permissible; they are the constitutive bedrock of agency. As David Hume famously observed, reason cannot originate a desire. All practical reasoning must start from some foundational, underived desire—something the agent simply cares about. 
+
+If rationality mandated the systematic reduction of all independent, underived preferences into a unified desiderative profile, it would require the eradication of agent-constituting plurality. Imagine an agent who loves the smell of old books, enjoys long-distance running, harbors a deep affection for jazz music, and desires to alleviate global poverty. These preferences may be entirely independent; the desire to run does not logically entail or derive from the love of jazz, nor are they both subsumed under a single, master-desire for "pleasure" or "eudaimonia" without doing extreme violence to the phenomenological reality of human motivation. 
+
+To insist that these independent preferences must be justified by, or subordinated to, a single systematic framework is to misunderstand the nature of practical value. Values are often radically incommensurable. Isaiah Berlin’s moral pluralism reminds us that human values are objective, plural, and frequently collide in ways that admit of no overarching, systematic synthesis. A rational agent navigating a world of incommensurable values does not necessarily suffer from a rational defect; rather, they are accurately tracking the fragmented nature of practical reality.
+
+Therefore, Smith’s attempt to read the systematic demands of theoretical reason into the practical domain founders on the normative heterogeneity of desires. Rationality mandates consistency and instrumental efficacy, but it does not mandate the reduction of all independent preferences into a monolithic, algorithmically closed desiderative system.
+
+---
+
+## 4. The Architecture of Deliberation: Systematic Justification vs. Local Coherence
+
+Let us push deeper into the mechanics of deliberation. What actually occurs when an agent deliberates rationally? 
+
+Consider the process of reflective equilibrium, famously championed by John Rawls in moral and political philosophy. In reflective equilibrium, an agent takes their considered judgments (which function as desiderative/evaluative inputs), general moral principles, and background theories, and adjusts them iteratively until a state of stable equilibrium is achieved. This process looks suspiciously like Smith’s demand for systematic justification: it requires moving from specific, underived intuitions to general principles, ironing out wrinkles, and achieving a unified view.
+
+Does reflective equilibrium vindicate Smith over Williams? Not necessarily. Reflective equilibrium is a method of *coherence*, but it does not dictate that the resulting web of commitments must be formally systematized in the way a scientific theory is. More importantly, reflective equilibrium is thoroughly internalist in Williams’s sense: the starting points of the equilibrium are the agent’s own considered judgments and motivations. It does not pull the agent up by their bootstraps into an objective, external perspective that applies universally to all rational agents.
+
+Let us contrast two models of how an agent moves from specific desires to general ones:
+
+*   **Model A: The Deductive-Systemic Model (Smith’s Ideal).** Specific desires are treated like empirical hypotheses or theorem applications. They must be validated by deduction from higher-order, substantive principles of practical rationality. If a specific desire cannot be integrated into this overarching, systematic structure, it is discarded as irrational.
+*   **Model B: The Narrative-Holistic Model (Williams’s Accommodation).** Specific desires and general projects form a loose, evolving web. Deliberation is a process of narrative integration—figuring out how to live with oneself, resolving local conflicts, and ensuring that one's actions do not betray one's core ground projects. General principles emerge as summaries of stable practices, not as axioms from which specific desires derive their normative force.
+
+If we evaluate these models against the realities of human agency, Model A is psychologically implausible and normatively oppressive. It demands that an agent view every local pleasure, spontaneous affection, and idiosyncratic passion with suspicion unless it can be legitimized by a grand, systematic theory of the good. 
+
+Model B, however, captures the dynamic nature of practical agency while acknowledging the weak sense of coherence. An agent *does* engage in practical reasoning when they step back and ask: *"Does this desire fit with who I am?"* But answering this question does not require appealing to a universalized, fully rational agent’s desiderative profile. It requires consulting the agent’s unique, historically situated subjective motivational set ($S$). 
+
+Crucially, an agent *can* value a sense of coherence and unity without endorsing Smith’s strong systematic requirement. Valuing coherence in practical life is often a pragmatic, local endeavor. We seek to avoid crippling internal conflicts not because practical reason is an axiomatic system, but because internal warfare drains our psychological energy and paralyzes our agency. This is a functional, prudential demand, not a metaphysical requirement of pure practical reason.
+
+---
+
+## 5. Internal Reasons and the Threat of Relativism
+
+This brings us to the final, critical pivot of our inquiry: the metaethical consequence of this debate. Does the requirement of systematic justification—or the rejection thereof—commit us to relativism about internal reasons?
+
+Bernard Williams is famously sanguine about the relativistic implications of his internalism. Because internal reasons are tethered to the agent’s actual subjective motivational set ($S$), and because different agents possess vastly different $S$s (shaped by culture, history, temperament, and socialization), reasons are irreducibly agent-relative and potentially relativistic. 
+
+For example, consider Williams’s well-worn case of Owen, a man who is brutal, cruel, and indifferent to the suffering of others. Suppose Owen has no desire, disposition, or project in his $S$ that would be served by acting morally toward strangers. On Williams’s view, it follows logically that *Owen has no internal reason to act morally toward strangers*. Externalists like Smith find this conclusion intolerable. They argue that if internalism entails that a vicious monster has no reason to refrain from cruelty simply because he lacks the relevant desire, internalism must be abandoned.
+
+To rescue practical reasons from relativism, philosophers like Smith invoke the counterfactual machinery of the "fully rational agent." The reasoning proceeds thusly:
+1.  Normative reasons are what a fully rational agent would desire that the agent in question do.
+2.  Full rationality is a normative status governed by objective standards of cognitive and systematic coherence.
+3.  Because full rationality is not merely a reflection of an agent’s *actual* parochial $S$, but is defined by objective structural norms, the desires of the fully rational agent will converge on objective moral truths (such as the wrongness of cruelty).
+4.  Therefore, internal reasons (when properly understood via the ideal of full rationality) are *non-relativistic*.
+
+Does the requirement of systematic justification successfully deliver non-relativistic internal reasons? I argue that it does not, for two distinct reasons: the *problem of starting points* and the *vacuity of idealization*.
+
+### The Problem of Starting Points
+Even if we grant Smith that a fully rational agent possesses a systematically unified desiderative profile governed by strong coherence, where do the foundational materials of this profile come from? 
+
+Desires cannot be conjured ex nihilo by pure reason. Even a fully rational agent must start with *some* motivational inputs. If those inputs are derived from the agent's initial subjective motivational set, then the entire systematic structure remains hostage to the agent's contingent starting points. If an agent starts with an $S$ fundamentally warped by cultural indoctrination, trauma, or a sociopathic lack of empathy, applying the machinery of systematic justification will simply result in a *systematically unified monster*. 
+
+Smith attempts to block this by claiming that cognitive completeness and full rationality will scrub away distortions, leading all rational agents to converge on the same set of objective moral desires. But this convergence thesis is an unsupported dogmatic assumption. Why should maximal cognitive information and systematic coherence compel a psychopath to value the well-being of others, unless that value is already covertly smuggled into the definition of "systematic justification" or "rationality"? 
+
+If the convergence thesis fails, and different agents with different starting points can arrive at different, mutually incompatible systematically coherent profiles of desire, then Smith’s account collapses into a sophisticated, counterfactual relativism. The specter of Williams’s internalism returns with a vengeance: reasons remain internal to the idealized, systematized perspective of the agent, and different agents may have fundamentally incommensurable normative universes.
+
+### Systematic Justification as a Relativistic Tool
+Furthermore, the requirement of systematic justification itself is culturally and historically situated. The demand that a life be lived according to a systematically justifiable, overarching plan is a distinctively modern, Western, Enlightenment ideal. Many traditional forms of life—characterized by ritual, habit, role-based obligation, and fragmented, compartmentalized social roles—do not value systematic justification in the way Smith demands. 
+
+To insist that an agent *must* make their desires systematically justifiable on pain of irrationality is to universalize a parochial epistemic and practical norm. It is to declare that the traditional agent, the artist who embraces chaos, or the passionate romantic who lives for the immediate moment is *irrational*. This is not a neutral philosophical discovery about the nature of practical reason; it is a normative imperialism that legislates a specific form of bourgeois psychological order as the definition of agency itself.
+
+---
+
+## Conclusion
+
+We have traversed a complex conceptual terrain, weighing Bernard Williams’s minimalist, internalist defense of the subjective motivational set against Michael Smith’s rationalist demand for strong systematic coherence. 
+
+We can now synthesize our conclusions regarding the core questions posed at the outset:
+
+1.  **Is making desires systematically justifiable a necessary component of rational deliberation?** No. While rational deliberation requires avoiding direct logical contradictions and securing instrumental efficacy (the weak sense of coherence), it does not require the strong sense of coherence that demands the systematic subsumption of all specific, underived preferences under overarching principles.
+2.  **Does the analogy between theoretical and practical reasoning hold?** It breaks down decisively. Theoretical reasoning aims at truth and reflects a unified reality, whereas practical reasoning aims at satisfaction and navigates a pluralistic, incommensurable world of underived preferences and competing goods.
+3.  **Must internal reasons be non-relativistic based on the requirement of systematic justification?** They need not be, and indeed they cannot be. Smith’s attempt to use systematic justification to anchor non-relativistic internal reasons via the fully rational agent either collapses back into dependence on contingent, agent-relative starting points or relies on an unearned convergence thesis that begs the metaethical question.
+
+Ultimately, Bernard Williams was right to resist the tidiness of rationalist systematization. Practical agency is not a well-ordered deductive system; it is a messy, passionate, and historically situated negotiation among competing desires, loves, and projects. To be rational is not to possess a monolithic, systematically justifiable desiderative profile; it is to navigate the fragmentation of our desires with clarity, honesty, and a willingness to learn from our errors. In the end, practical reason serves our humanity, not the other way around.
