@@ -1,0 +1,180 @@
+# Donnellan, Russell, and the Semantic Status of Referential Use
+
+Keith Donnellan’s distinction between the referential and attributive uses of definite descriptions occupies an important place in the philosophy of language because it appears to expose a tension between formal theories of meaning and ordinary linguistic practice. A definite description such as “the murderer of Smith,” “the man drinking champagne,” or “the president of the bank” seems capable of being used in at least two different ways. In one use, the speaker employs the description to identify, or otherwise direct the hearer’s attention toward, a particular individual. In another, the speaker is concerned only with whoever satisfies the description, whether or not the speaker has any particular individual in mind. Donnellan calls the first use *referential* and the second *attributive*.
+
+The significance of this distinction is controversial. Does it reveal that definite descriptions have two distinct semantic functions, perhaps corresponding to two different truth conditions? Or does it instead identify a pragmatic contrast in how a single semantic expression is deployed in different speech acts? The question becomes especially pressing when a description fails to apply to anything. Russell’s theory of descriptions appears to imply that a sentence containing an empty definite description is false. Yet a referential utterance involving an empty or misdescribing expression can seem intuitively true. If someone points to Jones and says, “Smith’s murderer is insane,” intending to speak about Jones, the utterance may seem true if Jones is insane, even if Jones did not murder Smith. How can that judgment be reconciled with Russell’s analysis, according to which the sentence entails that someone uniquely murdered Smith?
+
+The best answer is that Donnellan’s distinction has genuine significance for the theory of speech acts and communicated content, but does not, by itself, establish a semantic ambiguity in definite descriptions. Referential and attributive uses differ in the speaker’s communicative intentions, in the role played by speaker belief, and in the propositions pragmatically conveyed by particular utterances. Nevertheless, the linguistic expression “Smith’s murderer” can retain the same Russellian semantic contribution in both uses. Kripke’s distinction between speaker’s reference and semantic reference helps explain why. The fact that a speaker refers to Jones by means of a description does not entail that the description semantically refers to Jones, still less that the description’s Russellian conditions are satisfied by Jones. The apparent conflict between Russell and ordinary judgments about referential utterances can therefore be resolved by distinguishing sentence meaning from speaker reference and asserted or conveyed content.
+
+## Russell’s Theory of Definite Descriptions
+
+Russell’s theory of descriptions begins from a rejection of the idea that a definite description is, in ordinary cases, simply a name for an object. The description “the F” does not function semantically like a proper name whose meaning is exhausted by standing for a particular individual. Instead, Russell analyzes a sentence containing a definite description into three claims: existence, uniqueness, and predication.
+
+Consider the sentence:
+
+> The murderer of Smith is insane.
+
+Russell’s analysis renders this approximately as:
+
+1. There exists at least one person who murdered Smith;
+2. There exists at most one person who murdered Smith;
+3. Whoever murdered Smith is insane.
+
+In standard notation:
+
+\[
+\exists x[(M(x,s) \land \forall y(M(y,s) \rightarrow y=x)) \land I(x)]
+\]
+
+where \(M(x,s)\) means that \(x\) murdered Smith and \(I(x)\) means that \(x\) is insane. More transparently, the sentence says:
+
+\[
+\exists x[M(x,s) \land \forall y(M(y,s) \rightarrow y=x) \land I(x)].
+\]
+
+The sentence is therefore true only if exactly one individual murdered Smith and that individual is insane. The description is not treated as a referring term that first picks out an object and then attributes insanity to it. Rather, the entire sentence is analyzed quantificationally.
+
+This theory has several important consequences. First, it explains why definite descriptions can occur in apparently nonreferential positions. In “The king of France is bald,” the description need not be regarded as naming a nonexistent object. The sentence simply says that there is exactly one king of France and that he is bald. If there is no king of France, the sentence is false because its existence condition is not met.
+
+Second, Russell’s theory avoids the need for nonexistent objects. If “the present king of France” does not refer, the sentence “The present king of France is bald” need not be assigned a strange subject that fails to exist. It is false because the existential component of the proposition is false. Third, the theory gives definite descriptions a uniform logical form. Their apparent referential character is explained by quantification and contextual conditions rather than by positing a special semantic category of descriptive names.
+
+Russell’s account also has a distinctive view of what a speaker asserts in using a definite description. If a speaker says, “The murderer of Smith is insane,” the utterance, considered as a sentence of English, asserts that there is exactly one murderer of Smith and that this individual is insane. The sentence does not merely assert of some contextually salient person that he is insane. It entails that the person satisfies the description.
+
+This entailment is central to the later dispute. If nothing murdered Smith, or if several people did, then the Russellian sentence is false. It is not merely inappropriate, unfulfilled, or lacking a referent. The sentence fails because one of the conditions required for its truth is false. This differs from certain alternative theories, such as Strawson’s view that presupposition failure renders “The king of France is bald” neither true nor false in ordinary contexts. Russell’s theory is more explicitly truth-functional or, at least, more explicitly truth-conditional: failure of existence or uniqueness makes the sentence false.
+
+## Donnellan’s Distinction
+
+Donnellan’s influential discussion begins from observations about ordinary use. He argues that a definite description can be used attributively when the speaker’s concern is with whoever satisfies the description, and referentially when the speaker uses the description to talk about a particular individual.
+
+Suppose Smith has been murdered, and one is trying to discover the murderer. Someone says:
+
+> Smith’s murderer is insane.
+
+In an attributive use, the speaker is not thinking of any particular suspect. The speaker means something like: whoever murdered Smith is insane. The description functions in the Russellian way. The speaker’s claim depends on the murderer being uniquely identifiable by the description, and it is false if there is no murderer or more than one murderer.
+
+Now imagine a different context. At a party, the speaker sees Jones behaving in a bizarre and violent manner. The speaker believes, perhaps mistakenly, that Jones murdered Smith and says:
+
+> Smith’s murderer is insane.
+
+Here the speaker may be using “Smith’s murderer” to get the hearer to attend to Jones. The description is a device for referring to Jones, not a description whose satisfaction is the speaker’s primary concern. If Jones is in fact insane, the utterance may seem intuitively true in the relevant conversational sense even if Jones did not murder Smith. Conversely, if Jones did murder Smith but is not insane, the utterance may seem false, even if someone else—perhaps the actual murderer—was insane.
+
+Donnellan’s point is not simply that speakers sometimes make mistakes. A mistaken attributive utterance and a mistaken referential utterance have different structures. In the attributive case, the speaker’s claim concerns whoever satisfies a description, and the descriptive condition is essential to what the speaker is saying. In the referential case, the description is used to single out an individual, and the speaker’s principal predication is made about that individual.
+
+Donnellan’s distinction also concerns the role of the hearer. In a referential use, a speaker may rely on the hearer’s ability to identify the intended individual from the circumstances, gaze, gesture, or shared background. The description can function as an identifying tool even when it does not accurately describe the person. For instance, one might point at a man holding a glass of water and say, “The man drinking champagne is a philosopher,” even though the man is not drinking champagne. If the speaker intends to talk about the man being pointed at, the description can still succeed in directing the hearer to him.
+
+This phenomenon creates pressure against identifying the meaning of a definite description with its descriptive satisfaction conditions alone. It also creates pressure against treating every use of a definite description as equivalent to a proper name. The description seems to carry descriptive content while simultaneously serving a referential purpose. The central question is whether that difference belongs to semantics or pragmatics.
+
+## Is the Distinction Semantic?
+
+One reason to regard Donnellan’s distinction as semantic is that referential and attributive uses appear to have different truth conditions. In the attributive case, “Smith’s murderer is insane” is true only if there is a unique murderer of Smith and that person is insane. In the referential case, the utterance seems true if the intended individual is insane, even if that person is not Smith’s murderer. If the same words can be true under one set of conditions and false under another, it may seem that they express different propositions and therefore have different meanings.
+
+Donnellan himself sometimes writes in a way that encourages this conclusion, especially when he emphasizes that the truth or falsity of a referential use can depend on the condition of the individual to whom the speaker refers rather than on whether that individual satisfies the description. The referential use appears to have a subject—Jones—and a predicate—being insane. The attributive use, by contrast, has the Russellian quantified structure.
+
+Yet this argument moves too quickly from differences in use and communicated content to differences in lexical or compositional meaning. A single sentence can be used to perform different speech acts without possessing two semantic meanings. For example, “It is cold here” can be used to make a factual observation, request that a window be closed, or suggest that guests put on coats. The pragmatic differences do not automatically imply semantic ambiguity. Similarly, “Smith’s murderer is insane” can have a stable semantic interpretation while supporting different conversational inferences or acts of reference.
+
+There is also a difficulty in treating referential use as a stable alternative semantic meaning. Referential uses are highly flexible. A speaker can use “the man drinking champagne” to refer to a man drinking water, a man holding an empty glass, or even a person seen only briefly and mistakenly identified. The description can succeed in referring through a combination of contextual salience, speaker intention, and hearer recognition. These are not properties that appear to be encoded in the lexical meaning of the description. They are features of the situation in which the sentence is uttered.
+
+Moreover, a referential use need not involve a uniquely determinate intended proposition in the way a semantic theory normally requires. The speaker might have only a vague or demonstrative conception of the intended person: “that man over there,” “the person I was telling you about,” or “the one who looks suspicious.” The hearer may identify the person by contextual evidence rather than by calculating satisfaction of the description. If referential meaning were a second semantic meaning, the theory would need to specify how the intended referent is fixed and what semantic content remains in the description. Donnellan’s examples do not by themselves provide such a mechanism.
+
+For these reasons, the distinction is best viewed as pragmatically significant without being a semantic ambiguity. It identifies a difference in what the speaker is doing with the expression. In attributive use, the description is used to characterize whoever meets a condition. In referential use, it is used to direct attention toward a particular individual. These are differences in the speech act and in the pragmatically enriched proposition, even if the sentence’s semantic structure remains Russellian.
+
+## Empty Descriptions and the Apparent Failure of Russell
+
+The strongest challenge arises when nothing satisfies the description. Suppose Smith was not murdered. A speaker nevertheless points to Jones and says:
+
+> Smith’s murderer is insane.
+
+If the speaker is using the description attributively, Russell’s verdict is clear: the sentence is false. There is no murderer of Smith, so the existential condition fails. If several individuals murdered Smith, the sentence is also false because the uniqueness condition fails.
+
+But suppose the speaker is using the description referentially and intends to talk about Jones. Jones is insane, although he did not murder Smith. Many speakers may judge the utterance true, or at least judge that the speaker has said something true about Jones. This intuitive judgment seems to contradict Russell’s theory. Russell says that the sentence is false; ordinary interpretation appears to say that it is true.
+
+The contradiction disappears once two different questions are distinguished:
+
+1. What proposition does the sentence semantically express?
+2. What individual does the speaker refer to, and what proposition does the speaker pragmatically convey?
+
+On Russell’s theory, the sentence considered in isolation expresses a proposition involving existence, uniqueness, and insanity. That proposition is false if no one murdered Smith. The speaker may nevertheless use the sentence to refer to Jones and convey the proposition that Jones is insane. The latter proposition may be true even though the former is false.
+
+This distinction resembles the difference between what an expression means and what a speaker manages to communicate by using it. A speaker can use a semantically inappropriate expression to direct the hearer to an individual. If the hearer recognizes the intended individual, communication may succeed despite descriptive error. The success of reference does not alter the semantic truth conditions of the sentence uttered.
+
+There are several possible reactions to this conclusion. One might say that the referential utterance is literally false but pragmatically useful. Another might say that the utterance is defective at the semantic level but that the speaker nevertheless asserts a true proposition through a process of pragmatic repair. A third might adopt a contextualist theory according to which the context supplies the relevant individual and changes the proposition expressed. The last view gives pragmatics a more substantial role, but it still does not follow that “referential use” is a second encoded meaning of definite descriptions.
+
+The example also shows why “intuitive truth” must be handled carefully. When listeners say that the referential utterance is true, they may be evaluating the speaker’s intended claim rather than the literal semantic content of the sentence. They may be answering the question, “Did the speaker say something true about Jones?” rather than, “Is the Russellian proposition expressed by the sentence true?” Ordinary conversation often evaluates utterances at the level of communicative success. The speaker who says “The man drinking champagne is a philosopher” while pointing at a water-drinker may successfully convey that the indicated man is a philosopher. This does not entail that the man is drinking champagne or that the sentence’s descriptive condition is satisfied.
+
+## Kripke on Speaker’s Reference and Semantic Reference
+
+Saul Kripke’s critique is particularly important because it separates the notion of reference belonging to an expression from the notion of reference achieved by a speaker. A speaker can refer to an individual by using an expression even when that expression does not semantically refer to that individual. This distinction undermines an argument from successful reference to semantic ambiguity.
+
+Kripke distinguishes, in effect, between *speaker’s reference* and *semantic reference*. Speaker’s reference is what an individual speaker intends to pick out on a particular occasion. Semantic reference concerns what the expression, in the relevant linguistic system and context, contributes to the content of the sentence. A speaker may use “the man in the corner” to refer to Jones, although Jones is not in the corner. The speaker’s reference is Jones; the descriptive condition may still fail to be satisfied.
+
+This distinction helps explain how a definite description can be used referentially without acquiring a new semantic meaning. The description has a conventional semantic role, but the speaker exploits its contextual associations to identify someone. The hearer may infer the intended referent from pointing, eye direction, shared knowledge, or the fact that only one person is salient. Such inferences are pragmatic. They depend on the circumstances and on assumptions about the speaker’s intentions, not merely on the compositional semantics of the sentence.
+
+Kripke’s critique also challenges the idea that every apparent referential use requires the speaker to believe that the description is true of the intended individual. A speaker may intend to refer to Jones while knowing that Jones is not in the corner, or while using a description under an explicit pretense or mistake. In such cases, speaker’s reference can succeed despite the speaker’s recognition that the descriptive content does not apply.
+
+At the same time, Kripke’s position need not deny that speaker belief is relevant. Beliefs are often evidence of communicative intention. If a speaker believes that Jones murdered Smith and uses “Smith’s murderer” while looking at Jones, that belief helps explain why the speaker chose the description and why the hearer might identify Jones as the intended referent. But belief is not the semantic mechanism that turns the description into a name. Nor is it a necessary condition of every referential use. A speaker may refer to Jones while being uncertain whether Jones satisfies the description, or while intentionally using a description known to be inaccurate.
+
+Kripke’s distinction therefore protects two claims simultaneously. First, descriptions can be used to refer to particular objects in ordinary conversation. Second, this fact does not show that the semantic reference of the description is determined by the speaker’s intended object. The object of speaker’s reference and the object, if any, satisfying the description may come apart.
+
+## The Role of Speaker Belief
+
+Speaker belief is central to the practical distinction between attributive and referential use, but its precise role requires care. In an attributive use, the speaker’s beliefs typically concern a condition rather than a particular individual. Someone investigating Smith’s murder may say “Smith’s murderer is insane” while having no suspect in mind. The speaker believes, or perhaps conjectures, that whoever committed the crime is insane. The description is used to formulate a general condition on the unknown individual.
+
+In a referential use, the speaker ordinarily has a particular individual in mind. The speaker may believe that Jones is Smith’s murderer and use the description to direct the hearer toward Jones. The speaker’s belief helps establish the intended referent and explains the choice of words. But this is not a strict conceptual requirement. Someone may point to Jones and say “Smith’s murderer” while not believing that Jones murdered Smith, perhaps because the speaker is being sarcastic, testing the hearer, or using the description under a mistaken but not fully formed assumption.
+
+The importance of belief is therefore psychological and pragmatic rather than semantic. It bears on what the speaker intends, what the speaker presupposes, and what the hearer is entitled to infer. It does not by itself determine the truth conditions of the sentence.
+
+Consider several cases:
+
+1. **Attributive uncertainty:** The speaker knows that Smith was murdered but has no idea who did it. “Smith’s murderer is insane” means that the unique murderer, whoever that is, is insane.
+
+2. **Referential belief:** The speaker believes Jones murdered Smith, points toward Jones, and says the same sentence. The speaker’s aim is to say of Jones that he is insane.
+
+3. **Referential error:** The speaker believes, falsely, that Jones murdered Smith, and Jones is insane. The speaker’s intended claim about Jones is true, but the descriptive condition is false.
+
+4. **Referential success without belief in satisfaction:** The speaker knows Jones did not murder Smith but uses “Smith’s murderer” as a joke or ironic means of directing attention to him. The use can remain referential, even though the speaker does not believe the description applies.
+
+5. **Attributive use with a candidate in mind:** The speaker suspects Jones but says “Smith’s murderer is insane” while asking what can be said about whoever committed the crime. Having a particular suspect in mind does not automatically make the use referential. What matters is whether the speaker is using the description to talk about Jones as such or about whoever satisfies the description.
+
+These cases show that speaker belief cannot serve as a simple diagnostic. The distinction concerns the speaker’s operative intention: is the individual’s satisfying the description part of what the speaker is claiming, or is the description merely being used to identify an individual about whom the speaker wishes to say something? Belief influences that intention but does not define it in a mechanical way.
+
+## Revisiting “Smith’s Murderer Is Insane”
+
+The example “Smith’s murderer is insane” provides a useful way to reconcile Donnellan, Russell, and Kripke.
+
+On the attributive reading, the sentence has Russell’s form:
+
+> There is exactly one person who murdered Smith, and that person is insane.
+
+If Smith has no murderer, or several murderers, the sentence is false. The speaker’s beliefs about a particular suspect are irrelevant to the truth of the attributive claim. Even if the speaker happens to suspect Jones, the sentence remains concerned with whoever actually satisfies the description.
+
+On the referential reading, the speaker uses “Smith’s murderer” to get the hearer to think of Jones. The utterance pragmatically conveys:
+
+> Jones is insane.
+
+The speaker may also convey the belief that Jones murdered Smith, but that additional content need not be part of the truth condition of the intended predication. If Jones is insane but did not murder Smith, the conveyed claim about Jones is true, while the Russellian proposition expressed by the sentence is false. If Jones murdered Smith but is not insane, the referential claim is false, even if some other person is insane. The referential use shifts the center of evaluation from the descriptive role to the intended individual.
+
+This explains why ordinary speakers can sometimes say that the utterance is true. They are responding to the referentially conveyed claim. But it also explains why Russell’s theory remains correct as an account of the sentence’s semantic structure. The sentence still contains an existential and uniqueness commitment. The speaker’s pragmatic use does not erase those commitments at the level of conventional meaning.
+
+One might object that this solution artificially separates “what is said” from “what is meant.” If a referential use is genuinely a case of saying that Jones is insane, why not simply conclude that the sentence has a referential semantic meaning? The answer is that the relevant connection to Jones is not stable enough to be treated as encoded in the sentence. It depends on the speaker’s intentions and the hearer’s contextual recognition. The same phrase can refer to different people in different situations, or to no one in an attributive context, without any alteration in its lexical form. A theory can acknowledge that the utterance conveys a proposition about Jones while denying that the expression itself semantically means “Jones.”
+
+The distinction is comparable to the use of a mistaken name. If a speaker calls a person “the winner of the race,” intending to refer to Jones, the utterance may successfully identify Jones even if Jones did not win. The speaker’s referential act can succeed, but the description’s descriptive content remains relevant to the explanation of the error, the hearer’s inferences, and the conditions under which the communication would fail.
+
+## Pragmatic Significance Without Semantic Ambiguity
+
+To say that Donnellan’s distinction is pragmatic is not to say that it is philosophically unimportant. Pragmatics is not a residual category for phenomena that lack theoretical significance. Referential and attributive uses affect the speaker’s intentions, the hearer’s interpretation, the conversational commitments incurred, and the standards by which an utterance is judged successful or defective.
+
+The distinction also reveals that communication cannot be reduced to the truth conditions of isolated sentences. Speakers use expressions to perform acts of identifying, describing, accusing, warning, and attributing. The same sentence can participate in different acts depending on the context. A semantic theory that ignores this fact will misdescribe ordinary language. But the remedy need not be to multiply semantic meanings. It may instead involve a division of labor: semantics determines the conventional contribution of the expression, while pragmatics determines how that contribution is exploited in a particular context.
+
+There are, of course, theories that assign context a more direct role in semantic content. Some contextualist accounts argue that the referential use of a definite description changes the proposition expressed, rather than merely generating an implicature. Other theories treat definite descriptions as directly referential expressions in some contexts. Such approaches may capture the phenomenology of referential uses more naturally than a strict Russellian theory. However, the mere existence of referential and attributive uses does not force these conclusions. The distinction is compatible with a Russellian semantics supplemented by pragmatic mechanisms.
+
+The strongest case for semantic import would require showing that referential and attributive uses differ in a way that cannot be explained through intention, context, and conversational inference. For example, one would need to demonstrate that the expression has distinct conventional rules of composition or that competent speakers possess two encoded interpretations independently of context. Donnellan’s examples do not establish this. They show that speakers can use descriptions differently, not that English contains two meanings for every definite description.
+
+## Conclusion
+
+Donnellan’s distinction between referential and attributive uses of definite descriptions identifies a real and important contrast, but its importance is primarily pragmatic and speech-act theoretic rather than semantic in the strict sense. Russell’s theory remains powerful because it explains the semantic contribution of definite descriptions through existence, uniqueness, and predication. On that analysis, “Smith’s murderer is insane” is false if no one murdered Smith or if more than one person did. The sentence entails that there is exactly one murderer and that this person is insane.
+
+Donnellan’s referential cases reveal that a speaker can nevertheless use the same words to direct attention to a particular person, such as Jones, and convey a claim about him. If Jones is insane although he is not Smith’s murderer, the referential utterance may be pragmatically successful and may communicate something true about Jones. This does not require the Russellian sentence itself to become true. It requires a distinction between semantic content and speaker’s communicated or intended content.
+
+Kripke’s distinction between speaker’s reference and semantic reference provides the conceptual key. A speaker may refer to Jones by using “Smith’s murderer,” while the description semantically refers to whoever satisfies its descriptive conditions, if anyone. Speaker belief helps explain the act of reference, especially when the speaker believes that Jones satisfies the description, but belief is neither a necessary semantic condition nor a sufficient definition of referential use. The decisive issue is how the speaker is using the description: attributively, to speak of whoever meets the condition, or referentially, to identify an individual about whom the speaker wishes to make a claim.
+
+Thus Donnellan does not show that definite descriptions are semantically ambiguous in the manner of two lexical items. He shows instead that linguistic expressions possess a pragmatic life richer than their isolated truth conditions suggest. Referential use can alter what a speaker succeeds in communicating without altering the sentence’s conventional semantic structure. The apparent tension between Russellian entailment and the intuitive truth of referential utterances is resolved not by rejecting Russell or by making every referential use a second meaning, but by recognizing the layered character of language: semantic reference belongs to the expression and its compositional role, while speaker’s reference belongs to the situated act of communication.

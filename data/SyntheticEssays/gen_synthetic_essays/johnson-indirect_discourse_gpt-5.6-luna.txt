@@ -1,0 +1,215 @@
+# Propositions, Utterances, and the Grammar of “That”: Kemp’s Modification of Davidson
+
+## Introduction
+
+Indirect discourse has long posed a problem for the philosophy of language because it seems to combine two apparently incompatible features. On the one hand, an indirect report purports to record what someone said, believed, denied, or intended. On the other hand, the words used by the reporter need not be the words used by the original speaker. If Galileo said, “The earth moves,” then the report
+
+> Galileo said that the earth moves
+
+can be true even though Galileo did not utter the English words “the earth moves.” The report appears to concern the content of Galileo’s utterance rather than its linguistic form. Yet the content is not simply presented as an independently asserted proposition: it occurs inside a report of Galileo’s speech.
+
+Donald Davidson’s paratactic theory of indirect discourse was designed to explain this combination without treating indirect discourse as a special semantic operation that embeds one sentence inside another. On Davidson’s analysis, the apparent complementizer “that” is instead a demonstrative. The sentence is understood roughly as:
+
+> Galileo said that. The earth moves.
+
+The demonstrative “that” refers to an utterance, while the second sentence supplies the content or characterization relevant to the report. Gary Kemp proposes modifying Davidson’s view by replacing utterances with propositions, or, more precisely, with proposition-functions whose values are propositions under suitable contextual conditions. Kemp’s proposal aims to preserve the paratactic structure while avoiding some of the difficulties created by making a concrete utterance the object of the demonstrative.
+
+This essay argues that Kemp’s modification improves the Davidsonian account in important respects, especially by making it more plausible that indirect discourse reports concern what was said rather than merely a particular acoustic or inscriptional event. Nevertheless, substituting propositions for utterances does not successfully resolve the ambiguity problem in full. It relocates the problem from the identification of an utterance to the determination of the proposition or proposition-function associated with it. In cases of deliberate ambiguity, this relocation is particularly conspicuous: a speaker may intentionally produce an utterance that supports more than one interpretation, and the report may correctly preserve that ambiguity without selecting a unique proposition. Kemp’s account therefore needs a theory of communicative acts, pragmatic underdetermination, or structured contents in addition to its substitution of propositions.
+
+A further difficulty concerns the linguistic status of “that.” The claim that English “that” in indirect discourse is a demonstrative rather than a complementizer faces serious empirical objections. Its distribution, lack of deictic behavior, and syntactic interaction with subordinate clauses are more naturally explained if it is a complementizer, or at least if English contains a genuine complementizer homonymous with the demonstrative. Cross-linguistic evidence from Hungarian is especially revealing. Hungarian commonly places an overt demonstrative pronoun alongside a separate complementizer in constructions corresponding to English “said that.” This shows that the semantic and syntactic functions Davidson and Kemp assign to a single English word can be distinguished overtly in another language. Hungarian does not by itself settle the analysis of English, but it weakens the claim that a demonstrative analysis is linguistically fundamental.
+
+## Davidson’s Paratactic Theory
+
+The central attraction of Davidson’s theory is that it avoids treating indirect discourse as a mysterious semantic context in which expressions change their ordinary reference. Consider:
+
+> Jane said that the meeting was cancelled.
+
+A conventional semantic analysis gives “the meeting was cancelled” a position inside the complement of “said.” Since the report is about Jane’s words or content, however, one must explain how the embedded sentence functions semantically. Does it refer to the actual meeting? Does it have its ordinary truth conditions? How does the analysis handle indexicals, ambiguity, or intensionality?
+
+Davidson’s answer is to deny that the apparent complement clause is syntactically or semantically embedded in the ordinary way. The surface sentence is associated with a paratactic logical form resembling:
+
+> Jane said that. The meeting was cancelled.
+
+The word “that” is treated as a demonstrative referring to an utterance, perhaps an utterance produced in the context of the report. The second sentence does not form a constituent that is the object of “said.” Rather, it characterizes the demonstratively identified utterance. In a rough formulation, the report is true when Jane said something that is appropriately related to an utterance whose content is that the meeting was cancelled.
+
+This analysis has several virtues. First, it explains why indirect discourse can report an utterance without quoting it. The reporter’s sentence need not be identical with the original sentence. Second, it permits an account of indexicals. If Jane said “I am tired,” the reporter may say:
+
+> Jane said that she was tired.
+
+The reporter’s “she” need not have the same reference as Jane’s “I” by virtue of a mysterious rule governing embedded contexts. Instead, the report can be understood as characterizing an utterance made by Jane in a way that takes account of the relevant context. Third, the analysis promises to preserve the ordinary semantic contribution of the words in the second sentence. The reporter asserts that the characterized content obtains, rather than assigning an unusual semantic interpretation to a sentence merely because it occurs after “that.”
+
+The principal weakness is that an utterance is not obviously the right object for a report of saying. A concrete utterance is a sound event, inscription, or token of some linguistic form. But what one says is not normally identical with the production of a particular sound sequence. If Jane says “It is raining” in English, and Mark reports in French that Jane said that it is raining, the report can be true even though no French utterance was involved in Jane’s original act. The object of saying seems to be a content, not merely an utterance.
+
+Furthermore, the utterance-based version has difficulty with cases in which there is no determinate utterance to which “that” could point. Reports may be generated from written material, remembered conversations, gestures, or communicative acts that are not neatly individuated as utterances. A report may also describe what someone said when the reporter has never encountered the original words and knows only their content. In such cases, the idea that “that” demonstrates an utterance looks artificial.
+
+Davidson’s theory also faces a problem concerning ambiguity. Suppose that Jane says:
+
+> The chicken is ready to eat.
+
+This sentence can mean that the chicken is ready to be eaten or that the chicken is ready to consume food. If Jane deliberately exploits this ambiguity, what exactly is the object of the report?
+
+> Jane said that the chicken was ready to eat.
+
+The report may be true even if Jane intended both interpretations to remain available. But if “that” demonstratively refers to an utterance, then the utterance itself does not determine a unique proposition unless the theory distinguishes the utterance-token from its possible contents. The utterance can be one linguistic object while supporting several propositions. Davidson’s account therefore requires an additional theory of how an utterance is characterized by a following sentence.
+
+## Kemp’s Proposition-Function Modification
+
+Kemp’s modification can be understood as an attempt to preserve Davidson’s parataxis while replacing the problematic utterance with a more appropriate semantic object. On Kemp’s approach, the demonstrative does not ultimately pick out a concrete sound or inscription. It is associated instead with a proposition, or with a proposition-function that yields a proposition under the relevant contextual and interpretive parameters. The clause following “that” therefore contributes not merely a description of an utterance but a content-bearing object.
+
+The notion of a proposition-function is useful because sentences are often context-sensitive. A sentence containing “I,” “here,” “now,” or a demonstrative does not determine a single proposition independently of a context. “I am tired” expresses different propositions when uttered by different speakers. “It is raining” may express different propositions depending on the relevant location and time. A proposition-function can be thought of as a function from contexts, assignments, or related parameters to propositions. Kemp’s proposal thereby attempts to avoid the implausible idea that an utterance itself must be the semantic object demonstrated by “that.”
+
+The general structure is something like this:
+
+> Jane said that [proposition-function expressed by] the meeting was cancelled.
+
+The second sentence supplies a proposition-function, and the report relates Jane’s saying to the proposition or content selected in the relevant context. This has a clear advantage over Davidson’s original account. It recognizes that indirect discourse is fundamentally concerned with semantic content. The account also gives a natural place to contextual variation. The same linguistic form may be associated with different propositions in different situations, while a proposition-function can remain stable across those situations.
+
+Kemp’s proposal may also be seen as responding to an objection about the identity of the demonstrated object. If the word “that” demonstrated a particular utterance, then the truth of the report could depend on irrelevant facts about the original event: its volume, accent, medium, or precise phonetic form. Replacing utterances with propositions eliminates this unwanted dependence. A report need not identify a sound event; it need only relate the speaker to the appropriate content.
+
+This is a genuine improvement, but it does not amount to a complete solution to the ambiguity problem. The fundamental issue is not simply whether the object of the report is a sound event or a proposition. The issue is how a report represents a communicative act when the original act is semantically indeterminate, multiply interpretable, or intentionally ambiguous.
+
+## Does Proposition Substitution Resolve Ambiguity?
+
+There are several forms of ambiguity relevant to indirect discourse, and Kemp’s modification handles some more successfully than others.
+
+First, there is ambiguity introduced by the reporter’s words. A reporter may utter a sentence that has more than one reading even though the original speaker’s words were unambiguous. For example:
+
+> David said that he had seen the professor.
+
+Depending on context, “he” may refer to David or to some other salient male individual. If the ambiguity belongs to the report rather than to David’s original utterance, Kemp’s theory does not offer any special advantage over a standard compositional account. The proposition-function associated with the reported clause may itself have more than one value, depending on the resolution of the pronoun. The theory must still explain whether the report is true under one reading, both readings, or an underspecified reading.
+
+Second, there is ambiguity in the original utterance. Consider:
+
+> The journalist said that the paper was unsuitable.
+
+Here “the paper” might mean a scholarly article, a newspaper, or a physical material. The ambiguity may result from lexical polysemy, and the journalist may have intended one interpretation. If the reporter knows which interpretation was intended, the report may be used to communicate that specific proposition. Kemp’s theory can accommodate this by letting the proposition-function be evaluated relative to an interpretation determined by context or communicative intention.
+
+But matters become more difficult when the speaker deliberately preserves the ambiguity. Suppose an editor says:
+
+> The paper is unsuitable.
+
+The editor intends the audience to wonder whether the reference is to the submitted article or to the paper on which it is printed. The editor then exploits the ambiguity to avoid committing to either interpretation. A report such as
+
+> The editor said that the paper was unsuitable
+
+may be accurate precisely because it does not choose between the readings. The report represents the editor as having produced an utterance with a deliberately open range of possible contents.
+
+If Kemp’s account requires “that” to pick out a proposition, it appears to force a choice that the communicative act itself does not make. If the report picks out the proposition that the article is unsuitable, it omits the ambiguity. If it picks out the proposition that the physical paper is unsuitable, it is false or at least incomplete. If it picks out both propositions, it misrepresents the editor’s act as two separate assertions. The editor may not have asserted either proposition individually; the editor may have asserted an ambiguous sentence while intentionally leaving the hearer to entertain both possibilities.
+
+A proposition-function helps only if it is permitted to represent this kind of underdetermination. But then the relevant object is not an ordinary proposition. It is a function, schema, structured meaning, or communicative plan that can support several propositions without being identical to their conjunction or disjunction. The proposition-function must therefore be capable of preserving ambiguity as a property of the original act. Once that is admitted, the substitution of propositions has not by itself solved the problem. It has introduced a richer object whose structure must be explained.
+
+The distinction between ambiguity and vagueness is important here. A vague expression can express a proposition whose boundaries are imprecise. An ambiguous expression may correspond to several distinct propositions. Deliberate ambiguity adds a pragmatic dimension: the speaker may intend the hearer to recognize that several readings are available and may intentionally decline to settle the matter. A purely proposition-based semantics generally assumes that an assertion has one proposition as its content. That assumption is precisely what deliberate ambiguity challenges.
+
+One possible response is to say that the speaker asserts a disjunction:
+
+> The editor asserted that either the article or the physical paper was unsuitable.
+
+But this is usually too strong. Someone who deliberately uses an ambiguous sentence need not assert the disjunction. The disjunction says that at least one of the alternatives is true. An ambiguous utterance may instead be designed to make both alternatives salient without committing to the disjunction as such. Nor can the content simply be identified with the set of propositions compatible with the utterance, since many unintentional misunderstandings would then count as part of the speaker’s meaning.
+
+A second response is to distinguish semantic content from pragmatic content. On this approach, the sentence has a determinate semantic structure, while the ambiguity is generated by pragmatic factors. This can work for some examples, but it cannot be assumed in advance. Lexical and structural ambiguity can be part of the linguistic resource intentionally exploited by speakers. Moreover, even if the semantic theory assigns a set of readings, a report of deliberate ambiguity must capture the speaker’s intention to preserve that set rather than select one member of it.
+
+A third response is to treat saying as a relation not merely to propositions but to content-types, linguistic forms, or ways of presenting propositions. This would bring the account closer to a theory of structured propositions or speech acts. The journalist did not merely stand in a relation to one proposition; the journalist produced a token of a form whose interpretation was intentionally left open. Such a theory could preserve the insights of Kemp’s account while acknowledging that propositions alone are insufficient.
+
+Thus, Kemp’s modification resolves an important version of Davidson’s problem: it makes the semantic object of saying more plausibly content-like. It does not resolve the deeper ambiguity problem unless proposition-functions are given enough internal structure to encode alternative readings, contextual parameters, and the speaker’s communicative intention. At that point, the explanatory work is being done by the theory of interpretation and speech acts, not by the substitution of propositions for utterances as such.
+
+## Is “That” a Demonstrative?
+
+The linguistic premise shared by Davidson and, in modified form, Kemp is that “that” in indirect discourse is a demonstrative. This claim faces both empirical and theoretical objections.
+
+The first objection concerns distribution. English demonstratives such as “this” and “that” typically occur as noun phrases:
+
+> That is expensive.  
+> I bought that book.  
+> She pointed to that.
+
+They can be stressed, contrasted, pluralized, and used with deictic or anaphoric force. By contrast, the “that” in
+
+> Jane said that the meeting was cancelled
+
+is normally unstressed and occurs directly before a finite clause. It does not appear to contrast with “this” in the manner of ordinary demonstratives. One cannot normally replace it with “this”:
+
+> Jane said this the meeting was cancelled.
+
+Nor does it behave like an ordinary demonstrative determiner. The sentence is not naturally analyzed as containing a silent noun after “that,” such as “that [proposition] the meeting was cancelled.” The most straightforward syntactic description is that “that” is a complementizer introducing a finite content clause.
+
+A defender of the demonstrative theory can reply that the relevant “that” is a special use of a demonstrative, perhaps one that has become grammatically reduced. Davidson’s parataxis is not intended to mirror ordinary constituent syntax. The fact that “that” is unstressed or unable to be replaced by “this” may therefore reflect conventionalization rather than a decisive semantic difference.
+
+But this reply creates a theoretical cost. If the word has undergone so much grammaticalization that it no longer has ordinary demonstrative distribution, then calling it a demonstrative may have little explanatory value. The theory would be positing a hidden demonstrative relation while the overt grammar behaves as if a complementizer were present. It is preferable, where possible, to distinguish the ordinary demonstrative “that” from the complementizer “that,” especially since English independently permits the latter to be omitted:
+
+> Jane said the meeting was cancelled.
+
+This omission is natural with a complementizer. It is much less natural if the word is supposed to be the demonstrative object of “said.” If “that” refers to the proposition or proposition-function that follows, why can it disappear without the semantic relation disappearing as well?
+
+A related objection concerns embedding. The complementizer analysis directly explains why “that” can introduce a clause after verbs such as “say,” “believe,” “think,” “deny,” and “discover.” It marks the clause as a complement of the preceding predicate. The demonstrative analysis must instead treat the construction as a juxtaposition of two sentences and explain why that juxtaposition occurs in precisely the environments where complement clauses are expected. The more systematically the construction behaves like a subordinate clause, the less plausible a purely paratactic syntax becomes.
+
+There is also an issue concerning anaphoric dependence. In ordinary demonstrative uses, the referent of “that” is identified by a perceptual, linguistic, or discourse context. In “Jane said that the meeting was cancelled,” however, no independently salient proposition or utterance need be available. The content is introduced for the first time by the clause following “that.” The demonstrative appears to be cataphoric: it somehow refers forward to what follows. Cataphoric demonstratives are possible, but the theory must explain why the relevant relation is not simply the ordinary syntactic relation between a verb and its clausal complement.
+
+Finally, the demonstrative analysis risks circularity. If “that” demonstrates the proposition expressed by the following clause, then the interpretation of “that” depends on the very clause whose status the theory is trying to explain. If it demonstrates a proposition supplied by the context, the following clause becomes a separate assertion and may not determine the content of the report. If it demonstrates a proposition-function, then the theory must explain how a linguistic expression demonstrates an abstract function rather than an object or event. Each route is possible, but none is cost-free.
+
+## Hungarian Evidence
+
+Cross-linguistic evidence makes the issue more complicated and more illuminating. Hungarian provides a particularly clear contrast between a demonstrative pronoun and a complementizer in indirect discourse.
+
+A common Hungarian form is:
+
+> Azt mondta, hogy esik az eső.  
+> that-ACC said that falls the rain  
+> “He or she said that it is raining.”
+
+The first “that,” *azt*, is the accusative form of the demonstrative pronoun *az* (“that”). It functions as an overt object of the verb *mondta* (“said”). The second “that,” *hogy*, is a complementizer introducing the finite clause. Thus the Hungarian sentence visibly distinguishes two elements that a Davidsonian analysis of English may be tempted to identify:
+
+1. an object-like demonstrative associated with what was said; and  
+2. a complementizer marking the following content clause.
+
+This is significant because it provides a natural linguistic realization of a hybrid structure. Hungarian can say, in effect, “He said that-thing, that it is raining.” The demonstrative has a plausible anaphoric or cataphoric role, while *hogy* performs the syntactic work of connecting the content clause to the verb.
+
+The Hungarian pattern does not straightforwardly refute the claim that English “that” is a demonstrative. Languages frequently distribute functions differently, and the fact that Hungarian uses two words does not prove that English must use two lexical items. English might have a construction in which a demonstrative and complementizer have fused, or in which a complementizer has historically developed from a demonstrative expression.
+
+Nevertheless, Hungarian undermines the stronger theoretical claim that the complementizer analysis is conceptually mistaken or that the apparent complementizer must really be a demonstrative. If the two functions can be independently realized in a closely studied language, there is no general reason to collapse them. The Hungarian data support the view that the semantics of saying and the syntax of clausal complementation are distinct dimensions. A language may mark the object or content of saying with a demonstrative while separately marking the subordinate clause with a complementizer.
+
+The Hungarian construction also exposes a problem for a simple proposition-substitution account. Suppose *azt* is the overt counterpart of Kemp’s proposition-demonstrative. What is the role of *hogy*? It cannot itself be the demonstrative referring to a proposition, since the demonstrative function has already been expressed by *azt*. Nor is the clause after *hogy* merely paratactically juxtaposed with the preceding sentence. It is syntactically subordinate and serves as the content associated with the demonstrative object. The Hungarian pattern therefore suggests a three-part analysis:
+
+> subject — said — that-object — complementizer — clause.
+
+This structure is compatible with some aspects of Davidson’s and Kemp’s insights, but it does not support the idea that the complementizer is merely an apparent complementizer disguising a demonstrative. Instead, it suggests that demonstrative reference and clausal complementation can coexist.
+
+Hungarian also raises the question of optionality. In some contexts, the overt demonstrative may be omitted while the complementizer remains:
+
+> Mondta, hogy esik az eső.  
+> “He said that it is raining.”
+
+The precise grammatical and discourse conditions governing such omission are complex, but the general contrast is theoretically important. The clause-marking element can remain even when the demonstrative object is absent. This is exactly what one would expect if *hogy* is a complementizer with its own grammatical function. It is less expected if the apparent “that”-clause construction is fundamentally demonstrative and paratactic.
+
+Conversely, Hungarian permits demonstrative constructions in which the demonstrative is clearly object-like and not reducible to a mere clause marker. The morphology of *azt*—including its accusative marking—helps make visible the relation between the verb of saying and the object or content represented. English does not mark this distinction overtly, but absence of overt marking does not show that the distinction is absent.
+
+The cross-linguistic lesson should not be overstated. Hungarian is not a transparent window onto the “true” logical form of English. Languages differ in how they encode complement clauses, anaphora, and reported content. Yet Hungarian provides a serious empirical challenge to any theory that treats the demonstrative analysis as the only way to explain how indirect discourse relates a speaker to a content. It shows that a language can grammatically separate the two functions, and it thereby makes the complementizer analysis of English at least as theoretically respectable as the demonstrative analysis.
+
+## Broader Theoretical Consequences
+
+The disagreement between Davidson and Kemp concerns more than the lexical category of “that.” It reflects a deeper issue about what a theory of indirect discourse should explain. There are at least three different relations involved:
+
+1. the syntactic relation between a reporting verb and a subordinate clause;
+2. the semantic relation between a speaker and a proposition or content;
+3. the pragmatic relation between an utterance and the intentions of its producer.
+
+Davidson’s paratactic theory attempts to explain all three by emphasizing the demonstrative relation between the report and an utterance. Kemp shifts the emphasis from utterances to propositions or proposition-functions. But the shift does not eliminate the need to distinguish syntax, semantics, and pragmatics.
+
+A complementizer analysis is strong on syntax. It explains why the clause behaves as an argument or complement of the reporting verb, why “that” can be omitted in many environments, and why the construction participates in ordinary patterns of clausal embedding. It may, however, appear less well suited to the philosophical fact that what is said is not simply a sentence but a content.
+
+A proposition-based analysis is strong on semantics. It explains why translation, paraphrase, and variation in wording do not destroy the truth of a report. It also provides a natural framework for indexical dependence and contextual interpretation. Its weakness is that propositions are too coarse to capture every feature of a communicative act. They do not automatically encode whether a proposition was asserted, suggested, presupposed, ironized, or intentionally left ambiguous.
+
+The most plausible position may therefore be pluralistic. One can maintain that “that” is a complementizer in English syntax while holding that the semantics of “say” relates a speaker to a proposition, structured content, or communicative act. Nothing about the complementizer analysis prevents a content-based theory of saying. Conversely, one can preserve Davidson’s insight that indirect discourse need not be analyzed as quotation without insisting that the complementizer itself is a demonstrative.
+
+This pluralistic view also handles deliberate ambiguity more effectively. A report can be syntactically analyzed as containing a complement clause, semantically interpreted as attributing a content or range of contents to the original speaker, and pragmatically evaluated in light of whether the speaker intended to preserve ambiguity. The report need not be forced into the choice between one proposition and one utterance.
+
+Kemp’s proposition-function is potentially useful within such a theory. It can represent the contextual parameters that determine reference and interpretation. But it should not be treated as a universal replacement for utterances, propositions, and communicative acts. A proposition-function may characterize the semantic possibilities generated by an expression; it does not by itself determine which possibilities the speaker intended, which ones the hearer recognized, or whether the speaker intentionally declined to choose.
+
+## Conclusion
+
+Gary Kemp’s modification of Davidson’s paratactic theory makes a valuable correction. The content of a saying is more plausibly represented by a proposition or proposition-function than by a concrete utterance-token. This substitution avoids irrelevant dependence on the physical properties of the original utterance and better accommodates translation, paraphrase, contextual dependence, and indexical variation.
+
+It does not, however, successfully resolve the ambiguity problem by itself. When the original speaker is ambiguous, especially deliberately so, there may be no single proposition that captures the communicative act. A proposition-function can preserve ambiguity only if it is understood as a structured content capable of supporting several readings. But that richer structure must be supplemented by a theory of speaker intention and pragmatic communication. The central difficulty is therefore not simply the choice between utterances and propositions. It is the challenge of explaining how a report can represent an act whose content is context-sensitive, multiply interpretable, or intentionally underdetermined.
+
+The demonstrative analysis of “that” is also doubtful as a general account of English indirect discourse. The word’s syntactic distribution, unstressed character, clausal selection, and optionality are more naturally explained by treating it as a complementizer, or by recognizing a complementizer homonymous with the ordinary demonstrative. Hungarian reinforces this conclusion by overtly distinguishing an accusative demonstrative pronoun, *azt*, from the complementizer *hogy* in sentences corresponding to “He said that it was raining.” The Hungarian facts do not settle the English analysis, but they show that demonstrative reference and clausal complementation are separable functions.
+
+The most defensible conclusion is therefore neither a return to a simple utterance-based parataxis nor an unqualified acceptance of proposition substitution. Indirect discourse should be analyzed through a combination of syntactic complementation, semantic attribution of content, and pragmatic representation of communicative intention. Kemp’s proposal is an important step toward the semantic component of that account, but it is not, on its own, a solution to ambiguity or a compelling argument for treating “that” as a demonstrative.

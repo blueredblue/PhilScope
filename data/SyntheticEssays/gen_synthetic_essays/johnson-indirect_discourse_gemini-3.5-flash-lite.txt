@@ -1,0 +1,229 @@
+# The Demonstrative and the Proposition: An Evaluation of Kemp’s Modification of Davidson’s Paratactic Theory
+
+## Introduction
+
+In his seminal 1968 paper “On Saying That,” Donald Davidson advanced a paratactic account of indirect discourse designed to eliminate the need for reified propositional objects—entities like Fregean *Gedanken* or Russellian propositions—while preserving compositional semantics. Davidson’s central insight was to treat the word “that” not as a sentential complementizer embedding an object clause, but as a demonstrative pronoun pointing to an utterance. On this view, an utterance of “Galileo said that the earth moves” is analyzed as two distinct utterances: an introductory utterance of “Galileo said that” followed by a demonstrative reference, and a subsequent utterance of “the earth moves,” with the demonstrative picking out the latter. 
+
+While Davidson’s paratactic theory avoids the ontological commitments of standard intensional semantics, it immediately runs aground on what is known as the ambiguity problem: it struggles to account for how indirect discourse reports interact with anaphoric cross-reference, quantification, and intensional contexts where the exact wording of the reported utterance is altered or generalized. 
+
+To rescue the paratactic framework from these structural limitations, Gary Kemp proposed a significant modification: substituting propositions for utterances as the referents of the demonstrative “that.” By decoupling the demonstrative from the concrete, token-level speech act and tying it instead to an abstract proposition, Kemp attempts to preserve Davidson’s anti-realist, austere ontological approach to semantics while granting the theory the flexibility required to handle structural ambiguities and intensional variation.
+
+This essay evaluates Kemp’s proposition-function modification of Davidson’s paratactic theory. It proceeds in four stages. 
+
+* First, it reconstructs the mechanics of Davidson’s original paratactic account and diagnoses the precise nature of the ambiguity problem that besets it. 
+* Second, it examines Kemp’s modification, assessing whether shifting the demonstrative’s referent from an utterance to a proposition successfully resolves this structural ambiguity. 
+* Third, it tests the limits of Kemp’s account by investigating its capacity to handle instances of *deliberate ambiguity* in indirect discourse reports—cases where speakers exploit the tension between literal reporting and pragmatic enrichment. 
+* Finally, it widens the scope of the critique to investigate deeper empirical and theoretical objections to treating “that” as a demonstrative rather than a complementizer, drawing decisive cross-linguistic evidence from Hungarian. 
+
+Ultimately, I argue that while Kemp’s modification rescues the paratactic theory from its most crippling internal contradictions, it does so at the cost of abandoning the core naturalistic motivation of Davidson’s project. Moreover, when confronted with cross-linguistic data from languages like Hungarian, the demonstrative analysis of complementation collapses under the weight of empirical counterexamples.
+
+---
+
+## 1. Davidson’s Paratactic Theory and the Ambiguity Problem
+
+To understand the exigency for Kemp’s modification, one must first grasp the motivation and mechanics of Davidson’s paratactic theory. In the mid-twentieth-century philosophy of language, indirect discourse presented a persistent puzzle for truth-conditional semantics. Consider a standard complementizer sentence:
+
+(1) Galileo said that the earth moves.
+
+If “that the earth moves” functions as a singular term denoting a proposition, and semantic compositionality requires that the truth value of (1) is a function of the semantic values of its parts, one must explain how the truth value of (1) depends on the proposition denoted by the embedded clause. Frege famously handled this by invoking indirect reference (*ungerade Bedeutung*), wherein the embedded clause denotes its customary sense rather than its customary extension. Church and others introduced explicit names for propositions. 
+
+Davidson found these machinery-laden ontological proliferations objectionable. He sought a Tarskian truth-definition for natural language that eschewed abstract intensional entities like propositions, properties, and possible worlds. His strategy for indirect discourse was radical: to deny that “that” is a complementizer and to deny that the embedded clause functions as a syntactic constituent of the matrix sentence.
+
+### The Paratactic Mechanics
+
+Davidson proposed that (1) is not a single complex sentence, but rather two paratactically juxtaposed utterances. Syntactically and semantically, the sentence is analyzed as follows:
+
+(2) Galileo said that. The earth moves.
+
+In this analysis, the first utterance consists of the words “Galileo said that,” where “that” is a demonstrative pronoun (like “this” or “that” pointing to an object in the immediate environment) referring to the subsequent utterance. The second utterance is a completely independent speech act: “The earth moves.” 
+
+The semantic value of the first utterance is given by assigning a truth condition to the agent’s saying act, where the demonstrative *d* (manifested as “that”) refers to the utterance made by the speaker immediately following. Thus, (1) is true if and only if there is a utterance $u$ by Galileo such that $u$ is the same saying as (or has the same content as) the utterance demonstrated by the speaker.
+
+### The Ambiguity Problem
+
+Despite its ontological parsimony, Davidson’s paratactic theory faces severe objections, chief among them being the *ambiguity problem* formulated by critics such as Israel Scheffler and John Wallace. 
+
+The problem arises from the fact that natural language allows for quantification into indirect discourse, anaphoric cross-reference across sentence boundaries, and complex coordination that resists the strict two-utterance paratactic partition. Consider the following sentences:
+
+(3) Galileo said something that and so did Kepler.
+(4) Whatever Galileo said, Kepler believed.
+
+In (3), the direct object of “said” and the antecedent of the relative clause must integrate seamlessly into a single compositional structure. If the embedded clause (“the earth moves”) is an independent utterance, it cannot function as the syntactic restriction of a relative clause or the argument of a quantifier within the matrix clause without violating basic syntactic constraints. 
+
+More damagingly, consider sentences involving quantification over indirect contexts:
+
+(5) Galileo said everything that the Pope said.
+
+On Davidson’s account, “everything that the Pope said” must quantify over utterances. But utterances are concrete, dated physical events (or token inscriptions). If the Pope uttered “La terra si muove” in Rome, and Galileo uttered “The earth moves” in Florence, their utterances are numerically distinct physical events. 
+
+To say that Galileo said *everything* the Pope said requires an identity relation between utterances that cannot be cashed out in terms of physical token identity. Davidson was forced to appeal to a notion of *sameness of saying*—utterances are tokens of the same sentence-type, or they share a common illocutionary force and semantic content. 
+
+However, appealing to "sameness of saying" smuggles back into the semantics precisely the sort of intensional equivalence relation (sameness of proposition or meaning) that the paratactic theory was designed to avoid. 
+
+If two utterances are counted as "the same saying" because they mean the same thing, then meaning must be explained prior to the paratactic analysis, rendering the theory circular. The paratactic account cannot handle cases where the reporter uses a different language, a different dialect, or a generalized description to report an utterance, because concrete physical utterances do not share structural identities across these transformations.
+
+---
+
+## 2. Kemp’s Proposition-Function Modification
+
+Recognizing the fatal limitations of Davidson’s utterance-based parataxis, Gary Kemp proposed a modification that retains the spirit of Davidson’s anti-realist semantics while abandoning its most restrictive ontological commitments. Kemp’s core move is to replace the concrete utterance demonstrated by “that” with an abstract, structured proposition—or more precisely, a *proposition-function*.
+
+### The Mechanics of Kemp’s Account
+
+In Kemp’s modified paratactic theory, the word “that” remains a demonstrative, and the syntax of indirect discourse retains a paratactic flavor, but the referent of the demonstrative is shifted. When a speaker utters:
+
+(6) Galileo said that the earth moves.
+
+the demonstrative “that” does not point to a subsequent physical utterance token, nor does it pick out a platonically existing, independent proposition residing in a Fregean third realm. Instead, Kemp analyzes the complement clause as a *proposition-producing function*. 
+
+The embedded sentence functions as an open formula or a function that, when combined with the context of utterance, yields a proposition. The demonstrative “that” refers to the value of this proposition-function. 
+
+By shifting the referent from an utterance to a proposition, Kemp achieves several theoretical victories:
+1. **Cross-Linguistic Reporting:** Because the demonstrative picks out a proposition (or a proposition-function) rather than a specific physical utterance token, reports spanning different languages become straightforward. If Galileo said *"La terra si muove,"* the reporter uses the English sentence "the earth moves" to generate the proposition-function that matches the proposition expressed by Galileo's Italian utterance. The identity required is no longer physical token identity, but propositional equivalence.
+2. **Quantification and Intensionality:** Quantifying into indirect discourse no longer requires tracking discrete physical speech acts. A quantified report like "Galileo said everything that the Pope said" ranges over propositions (or proposition-functions) rather than fugitive acoustic events.
+
+### Does Kemp’s Modification Resolve the Ambiguity Problem?
+
+At first glance, Kemp’s move appears to solve the ambiguity problem. By interposing propositions (conceived functionally) between the demonstrative and the reported content, Kemp bridges the gap between Davidson’s austere syntax and the intensional demands of natural language semantics. The structural rigidity of Davidson’s two-utterance model is relaxed: the embedded clause is no longer required to be an autonomous, freestanding speech act floating beside the matrix clause; rather, it is a syntactic engine generating a semantic value (a proposition) that the demonstrative picks up.
+
+However, a deep philosophical tension remains within Kemp’s framework. Davidson’s original motivation for the paratactic theory was strictly ontological: he wanted to do semantics without propositions. Davidson viewed propositions as idle wheels, theoretical monsters that promised to explain meaning by way of mysterious abstract entities, thereby violating naturalistic constraints on semantic theory. 
+
+Kemp, by reintroducing propositions into the semantics—even if mediated functionally—concedes the very ontological ground that Davidson fought to hold. 
+
+If “that” picks out a proposition, then propositions must exist as semantic values. Once propositions are admitted into the ontology to save the paratactic theory from the ambiguity problem, the paratactic syntax loses its primary philosophical rationale. 
+
+Why maintain the elaborate fiction of parataxis—treating “Galileo said that” and “the earth moves” as separate syntactic units—if one has already conceded the existence of propositions as the semantic values of the demonstrative? 
+
+The syntactic parataxis becomes an idle wheel: it preserves a non-standard syntax only by paying a heavy theoretical price, while offering no independent empirical advantage over a standard complementizer analysis once propositions are already on board.
+
+---
+
+## 3. Deliberate Ambiguity in Indirect Discourse Reports
+
+To rigorously test the adequacy of Kemp’s proposition-function modification, we must examine how it handles phenomena that push the limits of semantic representation: *deliberate ambiguity* in indirect discourse reports. 
+
+Speakers frequently exploit the pragmatic slack between what is strictly said and what is implicated or reported. Consider a scenario where ambiguity is not a mere structural glitch to be resolved, but a rhetorical tool deployed by the reporter.
+
+### The Phenomenon of Deliberate Ambiguity
+
+Imagine a political negotiation. Senator Vance utters the following equivocal statement:
+
+(7) "We will review our military commitments in the region to ensure regional stability."
+
+This sentence is deliberately ambiguous. On reading $A$, Vance means: *We will withdraw troops to stabilize our budget.* On reading $B$, Vance means: *We will increase troop deployment to deter aggression.* 
+
+A journalist, wishing to capture the deliberate ambiguity of Vance’s speech without committing to either interpretation prematurely, reports the event as follows:
+
+(8) Senator Vance stated that they would review their military commitments in the region to ensure regional stability.
+
+Or consider a more direct case of reporter-induced ambiguity:
+
+(9) The CEO announced that the board would back the merger.
+
+Here, the embedded clause is syntactically unambiguous, but the reporter uses it to encapsulate a complex, multi-layered utterance that the CEO knew could be interpreted in two mutually incompatible ways by different shareholders.
+
+### How Kemp’s Account Fails Deliberate Ambiguity
+
+Let us analyze how Kemp’s proposition-function modification handles (8) and (9). 
+
+On Kemp’s view, the complement clause generates a proposition-function, and the demonstrative “that” picks out a specific proposition resulting from that function. However, propositions are, by definition in standard intensional semantics, sets of possible worlds (or structured complexes of universals and particulars). A proposition is a determinate entity with precise truth conditions: either it includes a possible world in its extension or it does not.
+
+If a proposition is determinate, a single proposition-function cannot simultaneously generate two mutually exclusive propositions unless the semantic value is allowed to be a set of propositions, a disjunction of propositions, or an indeterminate semantic object. But Kemp’s framework, inheriting the rigor of truth-conditional semantics, operates on determinate semantic values. 
+
+If the reporter uses “that” to pick out *the* proposition generated by the embedded clause, that proposition must be either the proposition that troops will be withdrawn ($A$) or the proposition that troops will be increased ($B$). It cannot be both, nor can it remain suspended in a state of indeterminacy, because truth-conditional evaluation requires a determinate truth value relative to a model.
+
+When a speaker deploys *deliberate ambiguity*, they are exploiting pragmatic mechanisms—implicatures, underspecification, and audience design—to convey multiple contents simultaneously. 
+
+If Kemp’s theory insists that the demonstrative “that” must pick out a unique, determinate proposition-function, it runs directly into an empirical wall: it cannot represent the dual-intent or equivocal nature of the reported speech act without violating the compositionality of the semantic values. 
+
+To account for deliberate ambiguity, the semantics must allow for *polysemy* or *propositional underspecification* at the level of the embedded clause. Yet, if the embedded clause yields an indeterminate proposition-function, the entire Tarskian truth-conditional machinery stumbles, because truth conditions cannot be computed for a truth-bearer whose propositional content is intentionally unsettled. 
+
+Thus, Kemp’s modification—by tying the demonstrative to a determinate proposition—strips the theory of the flexibility required to model pragmatic exploitation of ambiguity in natural language.
+
+---
+
+## 4. Deeper Objections: The Demonstrative vs. Complementizer Hypothesis
+
+We must now step back from the specific modifications introduced by Kemp and interrogate the foundational premise shared by both Davidson and Kemp: the thesis that the word “that” in indirect discourse is a **demonstrative pronoun** rather than a **sentential complementizer**. 
+
+This assumption runs counter to standard syntactic theory (e.g., Chomskyan Generative Grammar), which analyzes “that” as a functional head belonging to the category $C$ (Complementizer), heading a Complementizer Phrase ($CP$) that serves as the internal argument of the embedding verb.
+
+To evaluate whether treating “that” as a demonstrative is tenable, we must examine deeper theoretical and empirical objections, culminating in cross-linguistic evidence from Hungarian.
+
+### Theoretical Objections: Syntax and Binding
+
+1. **Constituent Structure and C-Command:** In standard syntactic theory, the embedded clause in indirect discourse forms a single constituent with the complementizer, occupying the complement position of the verb phrase ($VP$). This constituent structure is required to account for standard syntactic phenomena such as *wh*-movement, topicalization, and binding. For example:
+   
+   (10) *That the earth moves*, Galileo proved.
+
+   Here, the entire clause containing "that" has been fronted (topicalized). On Davidson and Kemp’s paratactic view, this sentence is structurally anomalous. If “that” is a demonstrative pointing to a subsequent, independent utterance or proposition-function, fronting the clause requires moving a non-constituent or reanalyzing the paratactic juxtaposition across a syntactic boundary. While ad hoc syntactic rescue operations can be imagined, they violate the principle of compositionality working in tandem with independently motivated phrase-structure rules.
+
+2. **Binding Theory and Variable Binding:** Consider a sentence involving bound-variable pronouns within indirect discourse:
+   
+   (11) Every scientist said that their experiment succeeded.
+
+   On the complementizer view, “their” is bound by the quantifier “Every scientist” via standard c-command relations within the $CP$. On the paratactic/demonstrative view, because the embedded clause is syntactically segregated from the matrix clause, capturing this bound-variable reading requires cross-sentential variable binding. While dynamic semantics (such as Discourse Representation Theory) permits cross-sentential anaphora, it does so by positing complex file-card or discourse-representation structures that undermine the austere truth-conditional framework Davidson and Kemp wish to preserve.
+
+### Cross-Linguistic Evidence from Hungarian
+
+The most decisive objections to the demonstrative hypothesis come from comparative linguistics. If “that” were universally a demonstrative pronoun, we should expect cross-linguistic profiles of complementizers to reflect demonstrative origins, morphosyntactic behavior, and distributional properties consistent with demonstrative pronouns (such as taking case markers, licensing modifiers, and permitting freestanding uses). 
+
+Hungarian (*magyar*) provides a rigorous empirical testing ground. Hungarian is a richly inflected, head-final language with a transparent left-periphery architecture that sharply distinguishes complementizers from demonstrative pronouns.
+
+1. **Morphological Distinction:** In Hungarian, the complementizer introducing finite indirect discourse (equivalent to English “that”) is ***hogy***. By contrast, the distal demonstrative pronoun (equivalent to English “that”) is ***az***. These two lexical items belong to entirely different grammatical categories with distinct morphosyntactic profiles:
+   * ***Az*** (demonstrative) inflects freely for case (*azt* [accusative], *azzal* [instrumental], *azért* [causal-final], etc.) and number (*azok*). It can appear in argument positions independently, take postpositions, and serve as the direct object of a verb.
+   * ***Hogy*** (complementizer) is entirely invariant. It takes no case inflections, cannot be pluralized, cannot take postpositions, and cannot appear independently as an argument of a verb. One cannot say *\*hogyat* or *\*hogyak*.
+
+2. **Distributional Asymmetry:** If the English “that” were a demonstrative, we would expect its cross-linguistic equivalents to share the distributional properties of demonstratives. In Hungarian, when a demonstrative pronoun *does* double as an indicator of a clausal complement (often referred to as a "correlative" construction), the demonstrative and the complementizer co-occur distinctly:
+   
+   (12) *János **azt** mondta, **hogy** eljön.*
+        John that-acc said that comes-he
+        “John said **that** he would come.”
+
+   Notice the structural anatomy of (12). The verb *mondta* (“said”) takes a demonstrative pronoun in the accusative case: ***azt*** (“that-ACC”). This demonstrative acts as the internal argument (the direct object) of the verb. Following this, introduced by the complementizer ***hogy*** (“that”), comes the embedded clause (*eljön*). 
+
+   Crucially, Hungarian overtly separates the demonstrative pronoun (*azt*) from the complementizer (*hogy*). 
+
+   If Davidson and Kemp were correct that the English word “that” is *itself* a demonstrative serving the exact function of picking up the subsequent content, we should expect languages to conflate these roles or use a bare demonstrative without a complementizer. 
+
+   Instead, Hungarian proves that the demonstrative (*azt*) and the complementizer (*hogy*) are distinct syntactic categories occupying different structural slots. The demonstrative (*azt*) sits in the complement position of the verb, while the complementizer (*hogy*) heads the $CP$ hosting the embedded clause.
+
+3. **Implications for the Paratactic Theory:** The Hungarian data deals a severe blow to both Davidson and Kemp. The paratactic theory collapses the distinction between the demonstrative argument and the complementizer, treating the English word “that” as a monolithic demonstrative that does the work of both structural slots. 
+
+   However, languages like Hungarian reveal that indirect discourse frequently employs *both* a demonstrative pronoun (functioning as a cataphoric object) *and* a true complementizer. 
+
+   When English speakers utter “Galileo said *that* the earth moves,” the word “that” is historically derived from a demonstrative, but synchronically and syntactically, it has grammaticalized into a complementizer ($C$). 
+
+   Treating it as a synchronic demonstrative ignores the syntactic reality laid bare by languages with transparent left-peripheries: complementizers are functional heads, not demonstrative pronouns pointing to utterances or propositions.
+
+---
+
+## 5. Synthesis: The Philosophical Cost of Kemp’s Modification
+
+Bringing these threads together, we can evaluate the philosophical trajectory from Davidson to Kemp. Davidson’s paratactic theory was an ambitious, uncompromising attempt to cleanse natural language semantics of intensional entities. It was an ontology-driven project: semantics must conform to an austere, nominalistic universe where only physical utterances and ordinary objects exist. 
+
+When the ambiguity problem exposed the fatal inadequacies of Davidson’s utterance-based parataxis, Kemp attempted to rescue the framework by substituting proposition-functions for concrete utterances. 
+
+Yet, this modification represents a pyrrhic victory. By importing proposition-functions into the semantics, Kemp abandons Davidson’s ontological purism. Propositions are abstract, intensional entities—precisely the theoretical entities Davidson sought to banish. 
+
+Once propositions are admitted as the semantic values of the demonstrative “that,” the paratactic machinery loses its philosophical raison d’être. The syntactic fiction of treating the embedded clause as a separate, juxtaposed utterance no longer serves to protect an ontology-free semantics; it merely obscures standard compositional structures with unnecessary paratactic acrobatics.
+
+Furthermore, as we have seen through our analysis of deliberate ambiguity and cross-linguistic evidence from Hungarian, the demonstrative hypothesis itself is empirically untenable. 
+
+Natural language indirect discourse does not operate via paratactic demonstratives pointing to subsequent speech acts or abstract propositions. It operates via complex hierarchical syntax, where complementizers head embedded clauses that integrate seamlessly into the semantic and syntactic argument structure of matrix predicates. 
+
+When speakers exploit deliberate ambiguity, they rely on the rich, underspecified semantic structures enabled by true complementation and pragmatic enrichment—mechanisms that a rigid demonstrative-based parataxis cannot accommodate.
+
+---
+
+## Conclusion
+
+Gary Kemp’s proposition-function modification of Donald Davidson’s paratactic theory is a sophisticated attempt to salvage an ingenious semantic framework from the ravages of the ambiguity problem. By shifting the referent of the demonstrative “that” from a concrete, physical utterance token to an abstract proposition-function, Kemp successfully accounts for cross-linguistic reporting and intensional generalization in ways that Davidson’s original utterance-bound theory could not.
+
+However, Kemp’s modification ultimately collapses under the weight of its own internal tensions and external empirical refutations. 
+
+* First, it sacrifices the core philosophical motivation of Davidson’s project by reintroducing abstract propositions into the semantic ontology, rendering the paratactic syntax an idle and misleading theoretical artifact. 
+* Second, it fails to handle cases of deliberate ambiguity, where the pragmatic exploitation of underspecified content requires a flexibility that determinate proposition-functions cannot provide. 
+* Finally, cross-linguistic evidence from languages like Hungarian demonstrates that the foundational premise of the paratactic theory—treating the complementizer as a demonstrative pronoun—violates the actual morphosyntactic architecture of natural language, where demonstratives and complementizers are distinct categories fulfilling entirely different structural roles.
+
+Ultimately, while Kemp’s modification illuminates the subtle interplay between demonstrative reference and propositional content, it confirms that the paratactic approach to indirect discourse is a philosophical dead end. To understand how natural language reports the thoughts and speech of others, we must abandon the paratactic fiction and embrace the rich, hierarchical reality of complementation and intensional semantics.

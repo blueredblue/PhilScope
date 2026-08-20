@@ -1,0 +1,33 @@
+# The Referential and Attributive Distinction: A Pragmatic, Not Semantic, Phenomenon
+
+**Introduction**
+
+Consider the sentence, "Smith's murderer is insane." Imagine two distinct scenarios. In the first, Smith has been brutally murdered, and the police have no idea who did it. A detective, surveying the scene, remarks, "Smith's murderer is insane," meaning that whoever committed this heinous act must be out of their mind. In the second, Smith has been murdered, and a man named Jones is on trial for the crime. The trial has been highly publicized, and Jones is visibly babbling, acting erratically, and displaying clear signs of mental illness. A spectator, pointing at Jones in the dock, says, "Smith's murderer is insane," meaning that *that man*—Jones—is insane.
+
+These two uses of the identical sentence appear to function differently. In the first case, the speaker uses the description "Smith's murderer" to speak about whoever fits the description. In the second, the speaker uses the description merely as a tool to pick out a specific individual, Jones, regardless of whether Jones actually fits the description. In his seminal 1966 paper, "Reference and Definite Descriptions," Keith Donnellan famously argued that these are two distinct *uses* of definite descriptions, which he termed the *attributive* and *referential* uses respectively. The critical philosophical question that arises from this distinction is whether it is a *semantic* distinction—that is, whether the sentence itself has different truth conditions depending on which use is in play—or whether it is a *pragmatic* distinction, a matter of how speakers use language to convey meaning beyond the literal semantic content.
+
+In this essay, I will argue that Donnellan's distinction, while a profound insight into the nature of communication and speaker reference, is fundamentally a *pragmatic* phenomenon, not a semantic one. To establish this, I will first analyze Bertrand Russell's theory of definite descriptions, which provides the classic semantic account of sentences like "Smith's murderer is insane." I will then explicate Donnellan's distinction and show how it challenges Russell's truth-conditional semantics, particularly in cases where nothing fits the description. Next, I will turn to Saul Kripke's influential critique, which argues that Donnellan conflates *speaker's reference* with *semantic reference*. I will then examine the crucial role of speaker belief in determining which use is operative, arguing that belief shapes speaker intention but does not alter the semantic content of the utterance. Finally, I will use the "Smith's murderer" example to resolve the apparent tension between Russell's entailment criteria and our intuitive truth-value judgments, concluding that a Gricean pragmatic framework—which distinguishes between what is said and what is meant—best accommodates the data, thereby confirming that the referential/attributive distinction belongs to the theory of language use, not the theory of meaning.
+
+**Russell’s Theory of Descriptions: The Semantic Baseline**
+
+To understand the debate, one must first grasp the orthodox semantic account of definite descriptions as articulated by Bertrand Russell in his 1905 paper, "On Denoting." Russell's theory was revolutionary because it eliminated the need to treat definite descriptions as genuine referring expressions. Unlike proper names, which Russell argued are logically proper names that directly refer to objects, definite descriptions are *incomplete symbols*—they have no meaning in isolation but contribute to the meaning of the sentences in which they occur. According to Russell, the sentence "The present King of France is bald" does not have the subject-predicate form it appears to have. Instead, it is a complex existential claim that can be logically paraphrased as follows:
+
+1.  There exists an x such that x is a present King of France. (Existence)
+2.  For all y, if y is a present King of France, then y = x. (Uniqueness)
+3.  x is bald. (Predication)
+
+The entire conjunction of these three propositions constitutes the meaning of the sentence. This analysis has profound consequences for truth conditions. If there is no present King of France, then the first conjunct is false, and the entire conjunction is false. Thus, the sentence "The present King of France is bald" is *false*, not meaningless or truth-valueless. This was a direct attack on the views of Alexius Meinong, who posited a realm of subsistent non-existent objects, and Gottlob Frege, who argued that the sentence presupposed existence and thus lacked a truth value if the presupposition failed. Russell's theory neatly avoids these metaphysical extravagances by treating the definite description as a quantifier phrase.
+
+Applying this to our example, "Smith's murderer is insane" is analyzed as:
+
+1.  There exists an x such that x murdered Smith.
+2.  For all y, if y murdered Smith, then y = x.
+3.  x is insane.
+
+If Smith was murdered by someone, and that person is uniquely identifiable, and that person is indeed insane, then the sentence is true. If Smith was not murdered (e.g., he died of a heart attack), or if he was murdered by two people, or if the unique murderer is perfectly sane, then the sentence is false. Crucially, Russell's theory treats the truth of the sentence as entirely independent of the speaker's beliefs, intentions, or knowledge. The truth conditions are fixed by the logical form of the proposition expressed.
+
+Russell also introduced a distinction in the *scope* of the description to handle sentences involving negation and modal contexts. For instance, "The present King of France is not bald" is ambiguous. In the *primary* occurrence (wide scope), it means "There exists a unique present King of France, and he is not bald," which is false. In the *secondary* occurrence (narrow scope), it means "It is not the case that there exists a unique present King of France who is bald," which is true (since there is no King). This scope distinction was Russell's attempt to account for some of the pragmatic nuances of how speakers use descriptions, but it operates strictly within the bounds of truth-conditional semantics. It does not, however, account for the kind of distinction Donnellan would later identify, because Russell's theory assumes that the description always functions as a quantifier, regardless of the speaker's intent.
+
+**Donnellan’s Distinction: A Challenge to Russell**
+
+Donnellan's 1966 paper presented a direct challenge to this Russellian orthodoxy. He argued that there are two distinct ways a speaker can use a definite description. In the *attributive

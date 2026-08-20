@@ -1,0 +1,210 @@
+# Donnellan, Russell, and the Pragmatics of Reference
+
+Bertrand Russell’s theory of descriptions was designed to explain how sentences containing definite descriptions can be meaningful without treating descriptions as ordinary referring names. In “On Denoting,” Russell argued that a sentence such as “The F is G” is not fundamentally about an object called “the F.” Rather, it asserts three things: that at least one thing is F, that at most one thing is F, and that the unique F is G. In symbolic form, the analysis is usually represented as:
+
+\[
+\exists x(Fx \land \forall y(Fy \rightarrow y=x) \land Gx).
+\]
+
+This analysis was intended to solve several problems at once. It explained how apparently referring expressions could occur in true or false sentences even when no corresponding object existed; it avoided commitment to nonexistent entities; and it provided a way to understand descriptions inside intensional contexts such as belief reports. Russell’s theory therefore presents itself not merely as an account of one linguistic construction, but as part of a general theory of reference, existence, and logical form.
+
+Keith Donnellan challenged this picture by distinguishing between the attributive and referential uses of definite descriptions. According to Donnellan, a speaker uses a description attributively when the description functions to say something about whoever or whatever satisfies it. A speaker uses it referentially when the description is employed to pick out a particular individual, even if that individual does not satisfy the description. Donnellan’s famous example involves a person at a party who is drinking from a martini glass. Someone may say, “The man drinking a martini is in the corner,” intending to refer to a particular man, Jones, even if the glass contains water rather than a martini. The description is then used referentially, although it is not true of the individual to whom the speaker refers.
+
+The philosophical significance of this distinction is controversial. Donnellan initially presented it as a challenge to Russell’s theory, since the Russellian analysis appears to imply that the description contributes its descriptive content to the truth conditions of the sentence. If Jones is not drinking a martini, then the Russellian analysis predicts that “The man drinking a martini is in the corner” is false. Yet a speaker may use the sentence to make a true or successful statement about Jones. Saul Kripke, however, argued that these cases do not refute Russell. Referential uses, he maintained, are pragmatic rather than semantic. They concern what a speaker succeeds in referring to on a particular occasion, not what the description means or what object the sentence semantically refers to.
+
+The central issue, then, is not simply whether speakers can use descriptions in different ways. They clearly can. The deeper question is whether this difference requires semantic ambiguity in the expression “the F,” or whether it can be explained through a pragmatic distinction operating upon a stable semantic analysis. The most defensible conclusion is that Donnellan successfully exposes an important limitation in treating Russell’s theory as a complete account of linguistic reference, but he does not refute Russell’s central semantic analysis. Kripke is right that referential uses do not automatically constitute counterexamples to a theory of semantic reference. Nevertheless, distinguishing speaker’s reference from semantic reference reveals that a purely Russellian theory is incomplete unless it is supplemented by an account of pragmatic communication, demonstrative intention, and context-sensitive reference.
+
+## Russell’s Theory of Descriptions
+
+Russell’s theory begins from the idea that definite descriptions are not names. The phrase “the present King of France” does not function semantically like “Louis XIV” or “Napoleon.” It does not stand for an object independently of the sentence in which it occurs. Instead, its contribution can be analyzed away in favor of quantification.
+
+Consider the sentence:
+
+> The present King of France is bald.
+
+Russell analyzes this as:
+
+1. There exists at least one present King of France.
+2. There exists at most one present King of France.
+3. That individual is bald.
+
+The sentence is therefore false, rather than meaningless, because the first condition is not satisfied. This was an important advantage over views according to which a sentence containing a non-referring description lacks a truth-value. It also avoided the ontological difficulties associated with treating nonexistent objects as constituents of propositions.
+
+Russell’s analysis applies equally to descriptions that do refer. “The author of *Waverley* was Scottish” does not require a special semantic object corresponding to the phrase “the author of *Waverley*.” It says that there is exactly one author of *Waverley* and that this individual was Scottish. The description is thus a quantified structure rather than a singular term.
+
+Russell also emphasized the importance of scope. A sentence such as:
+
+> The F is not G
+
+may mean either that the unique F is not G or that it is not the case that there is a unique F that is G. Similarly, in intensional contexts, a description may take narrow or wide scope. For example:
+
+> Ralph believes that the man in the brown hat is a spy.
+
+On one reading, Ralph believes of whoever uniquely satisfies the description “the man in the brown hat” that he is a spy. On another, the reporter may be speaking about a particular person whom Ralph believes to be a spy, while the description is used to identify that person for the benefit of the audience. The first reading is naturally represented with the description inside the belief context; the second may be represented with the relevant individual quantified over outside the belief operator.
+
+Russell’s theory is therefore more flexible than a simple subject-predicate interpretation might suggest. It includes mechanisms for distinguishing different scopes and for avoiding the assumption that descriptions are rigid names. But the theory nevertheless appears to make the descriptive conditions of “the F” central to its semantic contribution. This is precisely what Donnellan calls into question.
+
+## Donnellan’s Attributive and Referential Uses
+
+Donnellan’s distinction is based on the contrast between two communicative purposes. In an attributive use, the speaker intends to say something about whoever fits the description. Suppose a prosecutor says:
+
+> The murderer of Smith must be insane.
+
+The prosecutor may not have anyone particular in mind. The point is that whoever murdered Smith must be insane. The description is used attributively. Its descriptive content determines the subject about whom the speaker is making a claim.
+
+In a referential use, by contrast, the speaker uses the description to identify or single out a particular individual. Suppose Jones is visibly wearing an unusually distinctive hat. A speaker says:
+
+> The man wearing the blue hat is a professor.
+
+The speaker may intend to refer to Jones, even if Jones is not, in fact, a professor. Or suppose the speaker says “The man drinking a martini is in the corner” while looking at Jones, who is drinking water from a martini glass. The speaker’s audience may successfully identify Jones as the intended individual. The description functions as a means of directing attention, not as a condition that the individual must satisfy.
+
+Donnellan’s examples seem to generate apparent conflicts with Russell’s theory. If the sentence is used attributively, the Russellian analysis appears appropriate. If there is no man drinking a martini, or if more than one man is drinking martinis, the sentence fails to have the truth conditions suggested by the description. But if the sentence is used referentially, the speaker may successfully refer to Jones despite the falsity of the description. The sentence may even be true if Jones is in the corner.
+
+Donnellan sometimes presents this as a difference in truth conditions. In an attributive use, the sentence is true only if the descriptive conditions are met and the uniquely satisfying object has the relevant property. In a referential use, the truth of the utterance depends on whether the individual selected by the speaker has the relevant property. The referential use therefore seems to involve a different relation between the words and the world.
+
+The apparent counterexample becomes especially powerful when the description is empty. Suppose no one is drinking a martini, but a speaker points to Jones and says:
+
+> The man drinking a martini is in the corner.
+
+If the audience understands the speaker and Jones is in the corner, the utterance may be communicatively successful. Russell’s analysis, however, entails that the sentence is false because there is no man drinking a martini. Donnellan’s argument is that the sentence can be used to refer to Jones despite the failure of the description to describe Jones. The semantic content of the description, therefore, does not seem to determine the object about which the speaker is talking.
+
+## Kripke’s Pragmatic Response
+
+Saul Kripke’s response is that Donnellan’s cases do not establish semantic ambiguity. They establish, at most, a distinction between what a sentence means and what a speaker uses it to accomplish. A referential use of a definite description may involve a successful act of speaker’s reference, but this does not show that the description itself semantically refers to the selected individual.
+
+Kripke’s position can be clarified by distinguishing three questions:
+
+1. What does the sentence conventionally or semantically mean?
+2. What object, if any, does the speaker intend to talk about?
+3. What does the audience understand the speaker to be talking about?
+
+These questions often have the same answer, but they need not. In the martini example, the semantic content of “the man drinking a martini” may remain Russellian. It still describes the unique man who is drinking a martini. Yet the speaker may use that description, together with a gesture, gaze, or contextual assumption, to draw the audience’s attention to Jones. The speaker’s reference is Jones, even though the semantic conditions associated with the description are not satisfied by Jones.
+
+On this account, the referential use is a pragmatic exploitation of the description. The speaker relies on the audience to recognize an intended referent through contextual evidence. The words need not semantically denote that referent. A person can use an inaccurate description to identify someone, just as one can use a mistaken name or an incorrect title. If I point to a man and say “That woman is a doctor,” I may be referring to the man while making a false or defective description. The success of the reference does not by itself alter the semantic meaning of the expression.
+
+Kripke’s objection is especially important because otherwise every use of a referring expression would generate semantic ambiguity. If a speaker can refer to Jones by saying “the man drinking a martini,” although Jones is not drinking a martini, then one might posit a special referential meaning of the phrase on that occasion. But the same phenomenon occurs with countless expressions. A speaker may use “the tallest man in the room” to refer to someone who is not the tallest man in the room, perhaps because of poor lighting or a mistaken belief. It would be implausible to conclude that the phrase has acquired a second semantic meaning each time it is used inaccurately.
+
+The pragmatic account also explains why referential uses are heavily dependent on context. The same words may successfully identify different people on different occasions. What determines the referent is not a stable second meaning of the description, but the interaction between the linguistic expression, the speaker’s intentions, the audience’s assumptions, and the perceptual or conversational setting. Referential use thus resembles the use of a demonstrative. A description may function as a device for directing attention, even though its literal descriptive content remains operative in the background.
+
+## Do Referential Uses Have Different Truth-Values?
+
+The dispute becomes more difficult when we ask about truth-values. It is tempting to say that the referential utterance “The man drinking a martini is in the corner” is true if Jones is in the corner, even though Jones is not drinking a martini. If so, then the utterance seems to have truth conditions different from those generated by Russell’s analysis.
+
+There are several ways to interpret this intuition. The first is to distinguish the truth of the sentence from the truth of the utterance. The sentence type, considered in abstraction from context, may receive Russellian truth conditions. The particular utterance, however, may communicate a singular proposition about Jones. On this approach, the semantic sentence is false, but the speaker’s assertion may be true in virtue of what the speaker succeeds in conveying. This distinction may seem artificial, since ordinary speakers ordinarily evaluate utterances rather than abstract sentence types. But it captures the idea that linguistic meaning and communicative content can come apart.
+
+A second approach is to say that the utterance is semantically ambiguous between an attributive and a referential reading. On the attributive reading, it has Russellian truth conditions. On the referential reading, the description behaves more like a name or demonstrative and contributes Jones as its referent. Donnellan’s original discussion can be read as motivating such a position, although it is not necessary to interpret him as defending a fully lexicalized semantic ambiguity.
+
+A third approach, favored by Kripke, is that there is no new semantic truth condition at all. The sentence remains semantically false under the Russellian analysis. The speaker nevertheless succeeds in referring to Jones, and the audience may understand a true proposition through pragmatic inference. The truth of the communicated proposition does not entail the truth of the literal sentence.
+
+This last position faces an immediate objection. In ordinary conversation, when a speaker says “The man drinking a martini is in the corner,” and everyone understands that Jones is intended, it seems natural to say that the speaker has made a true statement if Jones is in the corner. Calling the sentence literally false appears to ignore the way language actually works. Yet the pragmatic theorist can respond that ordinary judgments about what was said are not always judgments about literal semantic content. They may concern the speaker’s asserted proposition, which includes pragmatic enrichment.
+
+The problem is not unique to definite descriptions. Irony, metaphor, loose talk, and metonymy also produce cases in which the literal semantic content differs from the proposition ordinarily communicated. If someone says “The ham sandwich wants another coffee,” the expression “the ham sandwich” may refer to a customer who ordered one. The semantic content of the phrase does not literally denote a sandwich, but conversational practice makes the intended reference clear. It would be excessive to treat every such use as evidence that the phrase has a new semantic meaning.
+
+Still, definite descriptions differ from ordinary metaphors because their referential uses are systematic and common. Speakers routinely use descriptions to identify individuals, and audiences routinely interpret them that way. This makes the pragmatic account more demanding. It must explain not only isolated mistakes or accidents, but a stable pattern of communication in which descriptions function as referring devices. The account is viable if pragmatics is understood as a structured theory of inference rather than as an appeal to arbitrary speaker intention. The audience must have rational grounds for identifying the intended referent, such as perceptual salience, the speaker’s gestures, shared knowledge, or the fact that only one person plausibly fits the description in the circumstances.
+
+## Definite Descriptions in Intensional Contexts
+
+The question of intensional contexts complicates the dispute. In extensional contexts, the difference between an attributive and referential use can sometimes be described simply as a contrast between descriptive and demonstrative communication. In belief, desire, knowledge, and modal contexts, however, the issue concerns not only what the speaker refers to but also what proposition is embedded under the relevant operator.
+
+Consider:
+
+> Ralph believes that the man in the brown hat is a spy.
+
+Suppose the speaker is looking at Jones, who is wearing a brown hat, and intends to report that Ralph believes Jones to be a spy. This may be a referential use. Alternatively, the speaker may be reporting that Ralph believes of whoever is uniquely wearing the brown hat that he is a spy. This is an attributive use.
+
+Russell’s theory can represent these possibilities through scope and quantification. The narrow-scope reading might be represented roughly as:
+
+\[
+Believes(Ralph, \exists x(BrownHat(x) \land Unique(BrownHat,x) \land Spy(x))).
+\]
+
+The wide-scope, de re reading might be represented as:
+
+\[
+\exists x(BrownHat(x) \land Unique(BrownHat,x) \land Believes(Ralph, Spy(x))).
+\]
+
+The first says that Ralph believes a proposition involving a unique brown-hatted man. The second says that there is a particular individual who is the unique brown-hatted man and whom Ralph believes to be a spy. The two formulas differ in important ways. In the first, the descriptive material falls within the belief context. In the second, it is outside the belief context, allowing the report to concern a particular individual independently of how Ralph represents him.
+
+This demonstrates that Russell’s theory has resources for dealing with some referential-attributive contrasts in intensional contexts. The theory need not force every description to have narrow scope. It can distinguish de dicto and de re readings through quantifier scope.
+
+Yet scope alone may not capture all the cases Donnellan and Kripke are concerned with. Suppose Jones is not wearing a brown hat, but the speaker mistakenly believes that he is and uses “the man in the brown hat” to refer to him. The description may be used referentially even though its descriptive condition is false. A Russellian wide-scope analysis would still contain the condition that Jones is the unique man in the brown hat. If that condition is false, the formula would fail, despite the fact that the speaker successfully reports a belief about Jones.
+
+One possible response is to distinguish the speaker’s reference from the object represented in the belief. The speaker may refer to Jones in making the report, while the content attributed to Ralph is a proposition involving a brown-hatted man. In that case, the report can be true even if the reporter’s description fails to apply to Jones, provided the relevant de re structure is made explicit. Another response is to treat the description as a pragmatic way of introducing a demonstrative or singular reference to Jones. The semantic analysis of the belief report would then involve a contextually supplied individual, not the description as such.
+
+These strategies show that Russell’s theory is not helpless in intensional contexts. Its apparatus of quantifier scope can distinguish readings that would otherwise be conflated. But they also show that a complete account requires more than the formal analysis of descriptions. The theory must explain how context determines whether a description is interpreted within the content of the attitude or used by the reporter to identify an individual about whom the attitude is being reported.
+
+Truth-values in intensional contexts are particularly sensitive to this distinction. A sentence may be true as a report of what someone believes even if the embedded proposition is false. For example:
+
+> Ralph believes that the present King of France is bald.
+
+If there is no present King of France, Russell can analyze the embedded proposition as false, while allowing Ralph to believe a false proposition. The belief report can therefore be true if Ralph really believes that proposition. The fact that the embedded description fails to refer does not make the entire belief report meaningless.
+
+But referential uses raise another issue. If the speaker says “Ralph believes that the man drinking a martini is happy” while referring to Jones, the report may concern Ralph’s belief about Jones rather than his belief about whoever is drinking a martini. The sentence can thus be used to communicate a de re claim even when the description is false of Jones. This is not straightforwardly captured by the narrow-scope Russellian analysis. It requires either a wide-scope reading with contextual identification or a pragmatic account of the reporter’s reference.
+
+The lesson is not that Russell’s theory yields no account of intensional reference. Rather, it is that Russell’s formal semantics must be supplemented with a theory of context and speaker intention. The semantic analysis determines the truth conditions of certain logical forms; pragmatics determines which logical form, or which proposition, is being conveyed in a particular context.
+
+## Pragmatic Ambiguity versus Semantic Ambiguity
+
+The crucial methodological question is whether the attributive-referential distinction should be classified as semantic ambiguity. Semantic ambiguity occurs when an expression has two or more conventional meanings. For example, “bank” has distinct lexical meanings associated with a financial institution and the edge of a river. If “the F” had both a conventional descriptive meaning and a conventional singular-term meaning, then Donnellan’s distinction would involve semantic ambiguity.
+
+Pragmatic ambiguity is different. An expression has a relatively stable semantic meaning but can be used in different ways depending on context, conversational goals, and background assumptions. The classic example is the difference between literal and ironic use. “That was brilliant” may semantically express praise while pragmatically communicating criticism. The expression need not have two lexical meanings. The context determines how its semantic content is exploited.
+
+The pragmatic account of definite descriptions is viable for several reasons. First, referential uses are highly context-dependent. There is no fixed second meaning associated with the phrase “the man drinking a martini.” The same phrase may refer to different people in different circumstances, and it may refer successfully even when the descriptive content is inaccurate. This variability is more naturally explained by pragmatic reference than by a stable semantic ambiguity.
+
+Second, referential use often depends on nonlinguistic factors. A speaker may point, look, pause, or rely on the audience’s knowledge of the situation. The words alone may be insufficient to determine the intended referent. If the referential use were semantically encoded, one would expect the linguistic expression itself to supply more determinate information than it actually does.
+
+Third, speakers can use descriptions referentially without being aware of a special linguistic convention. They need only exploit the audience’s ability to identify the salient individual. This resembles the pragmatic use of a mistaken name. If I say “Aristotle is in the library” while mistakenly pointing to Plato, my utterance may lead someone to Plato, but this does not give “Aristotle” a second semantic meaning. The communicative success depends on context and intention.
+
+Fourth, pragmatic ambiguity preserves a useful connection between descriptive content and inference. Even when a description is used referentially, the audience typically considers whether the intended object fits the description. In Donnellan’s martini case, the audience may infer that the man holds a martini glass, appears to be drinking a martini, or is the only person who could reasonably be described in that way. The descriptive content is not irrelevant; it serves as evidence for identifying the intended individual. A semantic theory that treats the description as simply equivalent to a name would lose this explanatory connection.
+
+However, the pragmatic account must not be made too easy. If every divergence between literal meaning and speaker meaning is classified as pragmatics, the theory risks becoming unfalsifiable. It must explain the mechanisms by which the hearer identifies the speaker’s referent. Gricean principles are relevant here. The speaker is presumed to be cooperative and informative. The audience seeks an interpretation that makes the utterance rational and relevant in context. A description that is slightly inaccurate may still identify one salient individual, especially when accompanied by a gesture or when no competing candidate exists.
+
+There are also cases in which referential use appears to affect the truth conditions of the utterance in a systematic way. If speakers consistently judge an utterance true when the intended individual has the predicated property, despite the description’s failure, this may suggest that the communicated proposition has genuinely singular content. The pragmatic theorist can accept this while denying that the singular content is encoded in the description’s conventional meaning. The proposition asserted on a particular occasion can be pragmatically enriched without the expression itself being semantically ambiguous.
+
+This distinction between sentence meaning and utterance content is therefore central. Donnellan is correct that a theory focused exclusively on sentence-level descriptive truth conditions cannot by itself explain all communicative uses of descriptions. Kripke is correct that the existence of those uses does not prove that the expression is semantically ambiguous. The same phenomenon can be understood as a pragmatic transformation or enrichment of a stable semantic contribution.
+
+## Does Speaker’s Reference Refute Russell?
+
+The strongest version of Donnellan’s argument would be that Russell’s theory says the descriptive conditions are necessary for reference, whereas referential uses show that speakers can refer without satisfying them. That argument succeeds only if Russell’s theory is interpreted as a complete theory of all reference, including speaker reference. But Russell’s primary objective was to analyze the logical form and truth conditions of definite descriptions, not to provide a full theory of communicative intention.
+
+Russell’s theory is therefore not refuted merely because speakers can use descriptions in ways that depart from their literal descriptive content. A theory of lexical semantics does not become false simply because speakers can use words metaphorically, ironically, loosely, or demonstratively. It may become incomplete as a theory of language use, but incompleteness is not refutation.
+
+Nevertheless, Donnellan’s distinction reveals a genuine weakness in any overly strong interpretation of Russell. If Russell is taken to claim that a definite description always refers to the unique object satisfying its descriptive conditions, then referential uses are counterexamples. In such cases, the speaker may refer to an object that does not satisfy the description, or even to an object when no such satisfier exists. A complete theory of reference must therefore distinguish at least two relations:
+
+1. The semantic relation between an expression and the conditions it contributes to a sentence.
+2. The pragmatic relation between a speaker and an individual the speaker intends to talk about.
+
+Russell’s theory primarily analyzes the first relation. Donnellan draws attention to the second. The theory does not fail because it analyzes the wrong relation; it fails only if it claims to have analyzed both when it has analyzed only one.
+
+The distinction between speaker’s reference and semantic reference is thus not a decisive refutation of Russell’s theory, but it is a decisive challenge to semantic monism about reference. There is no single, uniform relation called “reference” that operates identically at every level. Expressions can contribute descriptive conditions to truth conditions, while speakers can use those expressions to direct an audience toward particular individuals. The object semantically selected by the description and the object pragmatically intended by the speaker may diverge.
+
+This divergence is especially significant in cases involving error. Suppose a speaker says “The winner of the race is over there,” pointing to Jones, who the speaker falsely believes won. If Jones is not the winner, the Russellian description does not apply to Jones. Yet the audience may understand the speaker to be talking about Jones. The speaker’s reference is clear even though semantic reference, understood descriptively, is absent. A complete account of language must explain how such communication is possible.
+
+Still, the phenomenon does not show that descriptive truth conditions are dispensable. In ordinary cases, the descriptive content often helps establish reference. If there are several people present, “the man drinking a martini” may identify one of them precisely because he appears to satisfy the description. The description functions both as a descriptive condition and as a contextual identifying device. The pragmatic theory therefore depends upon the semantic content it supposedly bypasses. Referential use is not an alternative to descriptive meaning in every respect; it is a way of exploiting descriptive meaning for a communicative purpose.
+
+## The Limits of the Russellian Account
+
+The most balanced assessment is that Russell’s theory offers a powerful semantic analysis but not a complete account of reference. Its strengths remain substantial. It explains why descriptions do not behave like ordinary names, why empty descriptions can occur in meaningful false sentences, and why scope matters in intensional contexts. It also provides an elegant analysis of attributive uses, where the speaker intends to speak about whoever satisfies the description.
+
+Its limitations arise when semantic analysis is confused with a theory of speaker reference. Russellian semantics does not explain how a speaker can use an inaccurate description to identify an individual. Nor does it by itself explain how an audience determines the intended referent from contextual cues. In intensional contexts, it requires supplementation by a theory of de re reference, scope, context, and pragmatic enrichment.
+
+One might attempt to modify Russell’s theory by building referential uses directly into the semantics of definite descriptions. Such a view would assign two distinct semantic readings to the expression: a quantified descriptive reading and a singular referential reading. This could capture the difference in truth conditions between attributive and referential utterances. But it would create new difficulties. It would make the referential reading dependent on speaker intentions and context, which are not usually part of lexical semantics. It would also make the semantics of the expression extraordinarily flexible, allowing the same description to behave like a name whenever the speaker has a suitable intention.
+
+A pragmatic account avoids these difficulties by preserving a stable semantic core. The description contributes descriptive content, but the context may supply a pragmatic referent. The resulting utterance content can be singular even though the sentence’s conventional meaning is descriptive. This approach requires a richer theory of pragmatics, but it avoids multiplying semantic meanings.
+
+The choice between the two theories depends partly on what one expects a semantic theory to accomplish. If semantics is supposed to determine the full proposition asserted in every ordinary utterance, then Donnellan’s examples create a serious problem for Russell. If semantics supplies conventional truth conditions while pragmatics explains contextually enriched utterance content, then Kripke’s response is persuasive. The referential-attributive distinction does not require semantic ambiguity.
+
+A pragmatic ambiguity account is especially attractive because it explains why referential uses are defeasible. A speaker may use a description referentially, but the audience can challenge the description, correct the speaker, or refuse to identify the intended object. The pragmatic reference is not fixed by a linguistic rule in the way a conventional meaning is. It depends on the circumstances and on the success of the speaker’s communicative strategy.
+
+## Conclusion
+
+Keith Donnellan’s distinction between referential and attributive uses of definite descriptions exposes an important gap between semantic reference and speaker reference. A speaker can use “the man drinking a martini” to refer to Jones even when Jones is not drinking a martini. In such a case, the speaker’s ability to identify or talk about Jones is not determined by the descriptive conditions that Russell assigns to the phrase.
+
+This does not, however, refute Russell’s theory of descriptions in its proper domain. Russell’s analysis remains a compelling account of the semantic contribution of definite descriptions, especially in attributive uses. It explains how descriptions can be meaningful without being names, how empty descriptions can yield false rather than meaningless sentences, and how scope can distinguish readings in intensional contexts. The theory becomes vulnerable only when it is treated as a complete theory of every kind of reference involved in communication.
+
+Kripke’s objection is therefore fundamentally sound. Referential uses need not be semantic counterexamples. They can be understood as pragmatic uses in which a speaker exploits a descriptive expression to direct the audience toward a particular individual. The semantic meaning of the description may remain Russellian even when the speaker’s referent is someone who fails to satisfy the description. The truth of the communicated utterance can then diverge from the truth of the sentence considered in isolation, or it can be represented through pragmatic enrichment and a contextually supplied de re interpretation.
+
+The viability of pragmatic ambiguity is supported by the context dependence, variability, and defeasibility of referential uses. Treating them as semantic ambiguity would unnecessarily multiply the meanings of definite descriptions and obscure the role of speaker intention and audience inference. At the same time, pragmatics cannot be invoked as a mere escape from every difficulty. It must explain how contextual cues, shared knowledge, salience, and cooperative reasoning enable an audience to identify the speaker’s intended referent.
+
+The final judgment should therefore be qualified. Donnellan does not successfully refute Russell’s semantic theory, but he does refute the claim that Russellian semantics alone constitutes a complete account of reference. The distinction between speaker’s reference and semantic reference demonstrates that language operates at two interconnected levels. At the semantic level, definite descriptions contribute descriptive and quantificational conditions. At the pragmatic level, speakers use those descriptions to identify, single out, and talk about particular individuals, sometimes successfully even when the descriptions are false of them. Russell explains the first level; Donnellan reveals the necessity of the second; and Kripke shows why the second need not be incorporated into the semantics itself.
