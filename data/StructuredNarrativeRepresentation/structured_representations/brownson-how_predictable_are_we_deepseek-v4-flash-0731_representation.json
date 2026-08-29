@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Negative critique followed by positive proposal, structured as a two-front attack (evolutionary and psychological) on a target theory, culminating in a constructive alternative with objection-rebuttal pairs.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; premises are stated but often embedded within illustrative examples rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the author engages with anticipated counterarguments (Dennett's predictive utility defense, the 'thicker intentional stance' objection) and concedes practical limitations of the proposed alternative.",
+    "logical_relevance": "All major sections directly serve the thesis; the Gould/Lewontin and Stich critiques are both deployed as independent but convergent attacks on the optimality assumption.",
+    "premise_acceptability": "Premises rely on widely cited empirical findings (prospect theory, Wason selection task, conjunction fallacy) and established philosophical critiques, making them broadly acceptable within the analytic tradition."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Third-personal vs. first-personal epistemic strategies",
+      "Normative idealization vs. descriptive simulation",
+      "Predictive utility vs. explanatory truth",
+      "Global rationality constraint vs. local cognitive architecture constraint",
+      "Conceptual failure vs. epistemic limitation",
+      "Optimality (maximizing) vs. satisficing (bounded rationality)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Intentional stance: treating a system as a rational agent with beliefs and desires",
+      "Spandrel: structural byproduct of other adaptations, not selected for its current function",
+      "Empathetic stance: predicting behavior by simulating the target's cognitive architecture, asking 'What would I do if I were like him?'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Two explicit objections are addressed: (1) egocentric bias in the empathetic stance, rebutted by distinguishing conceptual from epistemic failure; (2) the claim that the empathetic stance is just a thicker intentional stance, rebutted by distinguishing normative global rationality from descriptive local architecture.",
+    "objections_raised": [
+      "Egocentric bias: assuming others are like me may be inaccurate",
+      "The empathetic stance is merely a 'thicker' version of the intentional stance"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; the author uses hedged formulations ('likely evolved', 'almost certainly true') and avoids dogmatic assertions.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Gould and Lewontin (spandrel critique)",
+      "Stephen Stich (systematic irrationality)",
+      "Alvin Goldman and Robert Gordon (simulation theory)",
+      "Herbert Simon (bounded rationality)",
+      "Kahneman and Tversky (prospect theory)"
+    ],
+    "evidence_type": "Empirical findings from cognitive psychology and evolutionary biology, used as evidence against the optimality assumption and as motivation for the empathetic alternative.",
+    "named_thought_experiments": [
+      "Lottery ticket purchase (predicting friend's behavior)",
+      "Loss aversion bet refusal (positive expected value but refused)",
+      "Conjunction fallacy (Linda example, referenced implicitly)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic; the argument is grounded in empirical cognitive science and evolutionary biology rather than a priori reasoning.",
+    "sentiment": "Critical of rationalist idealization; sympathetic to pragmatist and naturalist approaches that accommodate human cognitive limitations.",
+    "thematic_focus": "Philosophy of mind and cognitive science, specifically theory of mind, rationality, and the scope of intentional explanation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Linear progression with cumulative critique: exposition of target theory \u2192 evolutionary critique \u2192 psychological critique \u2192 synthesis \u2192 defense of synthesis. Each section builds on the previous, with the empathetic stance emerging as the resolution of both critiques."
+  },
+  "summary_of_core_decisions": "The author makes three pivotal decisions: (1) attacking the intentional stance on two independent fronts (evolutionary and psychological) to show the optimality assumption fails both empirically and conceptually; (2) rejecting the intentional stance's normative rationality in favor of a descriptive, simulation-based approach that embraces suboptimality as a predictive resource; (3) framing the empathetic stance as conceptually superior (not merely practically better) by distinguishing its local, descriptive architecture constraint from the intentional stance's global, normative rationality constraint.",
+  "thesis_commitment": {
+    "conclusion_type": "Positive proposal with negative critique",
+    "hedging_density_in_final_paragraph": "Low; the final section is assertive about the empathetic stance's superiority, though it concedes practical epistemic limitations."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "brownson-how_predictable_are_we_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "reductio ad absurdum via parody",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "moderate - premises are stated but not formalized except for Hartshorne's modal argument"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high - engages with opponent's strongest points and anticipates replies",
+    "logical_relevance": "high - all objections directly target the soundness of the ontological arguments",
+    "premise_acceptability": "moderate - relies on the plausibility of parody constructions and the coherence of perfect island/AEO concepts"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "existence as predicate vs. necessary existence",
+      "contingent vs. necessary existence",
+      "Anselm's two arguments (Malcolm's distinction)",
+      "Hartshorne's modal logic vs. Anselm's original"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "q = there exists a perfect being",
+      "N = it is necessary (logically true) that",
+      "AEO = the Absolute Evil One"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "rebuts Hartshorne's anticipated objections by showing his criteria for impossibility are too strong",
+    "objections_raised": [
+      "Gaunilo's perfect island parody",
+      "Martin's AEO parody"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate - uses 'seems', 'prima facie', 'not clear'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Anselm",
+      "Hartshorne",
+      "Malcolm",
+      "Martin",
+      "Kant"
+    ],
+    "evidence_type": "philosophical argumentation, counterexamples, parody",
+    "named_thought_experiments": [
+      "perfect island",
+      "Absolute Evil One"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy, modal logic, philosophy of religion",
+    "sentiment": "critical, adversarial",
+    "thematic_focus": "ontological argument, existence, necessity, parody"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis - exposition - objections - application to Hartshorne - conclusion"
+  },
+  "summary_of_core_decisions": "The paper argues that Ernst's defense of Hartshorne's ontological argument fails because it ignores Gaunilo's and Martin's parodies. Seigal shows that Hartshorne's modal version is equally vulnerable to these parodies, undermining the claim that Hartshorne solved Anselm's problems.",
+  "thesis_commitment": {
+    "conclusion_type": "negative - refutes a claim",
+    "hedging_density_in_final_paragraph": "low - states conclusion firmly but with 'prima facie' caveat"
+  },
+  "_source_corpus": "human",
+  "_source_file": "seigal-the_ontological_parody.txt"
+}

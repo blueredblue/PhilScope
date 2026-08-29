@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum applied to a dialectical synthesis, culminating in a forced trilemma.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - key premises (e.g., Platonism requires bivalence, naturalism requires empirical grounding) are asserted rather than deeply defended, functioning as dialectical constraints."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - The paper fairly represents both G\u00f6delian and Quinean positions before attacking the synthesis, adhering to the principle of charity.",
+    "logical_relevance": "High - The case studies (Parallel Postulate, Axiom of Choice) are directly relevant to the intrinsic/extrinsic distinction and are used to test the viability of the compromise.",
+    "premise_acceptability": "Low to Moderate - The argument relies heavily on the contested premise that a successful Platonism must maintain bivalence and a unique universe, which a pluralist might reject outright."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Intrinsic vs. Extrinsic justification",
+      "Evidence vs. Truth-makers",
+      "Epistemology vs. Ontology",
+      "Mathematical monism (bivalence) vs. Pluralism",
+      "Naturalism vs. Non-naturalism (mysticism)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Intrinsic justification (internal coherence, intuitive obviousness)",
+      "Extrinsic justification (empirical success, indispensability to science)",
+      "Compromise Platonism (Maddy's methodological naturalism)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The paper anticipates the pluralist objection (Resolution C) and neutralizes it by redefining it as a capitulation to anti-realism, thereby closing the escape route.",
+    "objections_raised": [
+      "Benacerraf's challenge (epistemic access to abstract objects)",
+      "Quine's underdetermination problem (empirical equivalence of ZFC and ZF+\u00acAC)",
+      "The problem of mathematical autonomy (mathematics as a servant to physics)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - Uses definitive terms like 'cannot', 'must', 'fails', 'fundamentally incompatible'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kurt G\u00f6del",
+      "W.V.O. Quine",
+      "Hilary Putnam",
+      "Penelope Maddy",
+      "Albert Einstein",
+      "Henri Lebesgue",
+      "\u00c9mile Borel"
+    ],
+    "evidence_type": "Historical case studies (parallel postulate, non-Euclidean geometry, relativity) and formal mathematical examples (Banach-Tarski paradox, Hahn-Banach theorem).",
+    "named_thought_experiments": [
+      "The Parallel Postulate case",
+      "The Axiom of Choice (AC) dilemma"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mathematics, specifically the realism/anti-realism debate.",
+    "sentiment": "Critical and pessimistic regarding the viability of realist frameworks.",
+    "thematic_focus": "The incompatibility of naturalistic epistemology with Platonist ontology."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-dismantling. The paper sets up a dichotomy, proposes a synthesis, tests it against counterexamples, and then dismantles it via a trilemma."
+  },
+  "summary_of_core_decisions": "The paper's core decision is to frame the debate as a zero-sum game. It forces the compromise position into a trilemma where each horn leads to a fatal flaw inherited from the parent theories. The central logical move is the assertion that a meta-principle to arbitrate intrinsic vs. extrinsic evidence is impossible without begging the question, thereby rendering the synthesis logically unstable.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative - Argues that a specific position (Compromise Platonism) is untenable.",
+    "hedging_density_in_final_paragraph": "Low - The conclusion is stark and unqualified, stating the realist framework 'cannot resolve' the tension."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "anderson-a_move_to_more_fruitful_ground_deepseek-v4-flash-0731.txt"
+}

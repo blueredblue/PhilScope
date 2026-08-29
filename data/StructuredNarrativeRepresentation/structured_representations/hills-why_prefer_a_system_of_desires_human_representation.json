@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Internal critique of Michael Smith's non-relativistic internal reasons account by showing that systematic justification is not a necessary condition of rational deliberation.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Mostly explicit; some implicit premises about rationality and induction are reconstructed."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with Smith's text, distinguishes senses, anticipates objections.",
+    "logical_relevance": "High: each section targets a necessary condition in Smith's account.",
+    "premise_acceptability": "Moderate: relies on intuitions about rationality and examples; some premises contestable."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Internal vs external reasons",
+      "Subjective motivational set vs fully rational counterpart",
+      "Systematic justification as non-contradiction vs generalization",
+      "Weaker coherence (non-contradiction, motivational capacity) vs stronger coherence (unity, subsumption)",
+      "Theoretical vs practical reasoning",
+      "Relativistic vs non-relativistic internal reasons",
+      "Rationality requiring vs permitting a deliberative step"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Internal reason statement: holds only if agent has some motive/desire served by action.",
+      "Subjective motivational set (S): includes desires, dispositions of evaluation, emotional reactions, personal loyalties, projects.",
+      "Systematic justification (first sense): avoiding conflict among desires.",
+      "Systematic justification (second sense): placing specific desires under more general desires."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Replies to objections by distinguishing conflict from contradiction and by denying that rationality mandates induction-like generalization.",
+    "objections_raised": [
+      "Conflicting desires are contradictory and should be eliminated.",
+      "Rationality requires generalizing from particular desires to a general desire.",
+      "Coherence and unity are constitutive of rational desires just as for beliefs."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'probably', 'may very well', but concludes firmly.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Smith",
+      "Williams"
+    ],
+    "evidence_type": "Conceptual analysis, counterexamples, analogies, thought experiments.",
+    "named_thought_experiments": [
+      "Homework vs Scrabble",
+      "Red Cross vs March of Dimes",
+      "Mrs. Jones and Mr. Jones",
+      "Greyhounds, poodles, Chihuahuas",
+      "Swans (induction analogy)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy; practical reason; metaethics; internalism about reasons.",
+    "sentiment": "Critical of Smith's rationalist extension; sympathetic to Williams's internalism but not fully endorsing relativism.",
+    "thematic_focus": "Necessity of systematic justification in rational deliberation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Expository then critical; two-part critique based on two senses of systematic justification."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to attack Smith's non-relativism by showing that the stronger sense of systematic justification is optional for rational agents, thereby blocking the convergence argument.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative: Smith's account fails to establish non-relativistic internal reasons.",
+    "hedging_density_in_final_paragraph": "Low: final conclusion is stated without hedging."
+  },
+  "_source_corpus": "human",
+  "_source_file": "hills-why_prefer_a_system_of_desires.txt"
+}

@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Self-referential undercutting argument",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly explicit, with some implicit assumptions (e.g., reliability of belief-forming mechanisms is necessary for justified probability judgments)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages multiple objections and attempts to rebut them.",
+    "logical_relevance": "All premises and objections directly bear on the central thesis.",
+    "premise_acceptability": "Some premises are controversial (e.g., that naturalism entails unreliable belief-forming mechanisms), but the author defends them via Plantinga's argument."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Belief in N&E with certainty vs. belief in N&E with high probability vs. belief in N&E with low probability",
+      "Simple 'gut-reaction' probability judgments vs. complex higher-level probability calculations",
+      "Theism vs. naturalism as exhaustive alternatives",
+      "Truth-aimed belief-forming mechanisms (P(B)) vs. survival-aimed mechanisms"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "N&E: metaphysical naturalism combined with neo-Darwinian evolution",
+      "P(B): the property of possessing belief-forming mechanisms that are aimed at truth"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Each objection is addressed with a substantive reply, often by showing it fails to undermine the core self-referential point.",
+    "objections_raised": [
+      "Probability judgments are valuable for survival (e.g., caveman Ugg estimating tiger danger).",
+      "P(B) might have evolved as a byproduct of other survival-enhancing traits (genetic hitchhiking).",
+      "It seems strange to conclude that no probability claim about N&E can be made, even a low one."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'clearly', 'turns out', 'cannot' but also 'probably' and 'likely'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plantinga's argument (Warrant and Proper Function)"
+    ],
+    "evidence_type": "Philosophical reasoning, thought experiments (e.g., caveman Ugg, Santa Claus analogy), and conceptual analysis.",
+    "named_thought_experiments": [
+      "Caveman Ugg estimating tiger danger",
+      "Santa Claus chimney analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Epistemology of religious belief, naturalism vs. theism, evolutionary debunking arguments.",
+    "sentiment": "Neutral, analytical, but with a clear anti-naturalist conclusion.",
+    "thematic_focus": "The self-defeating nature of naturalism when combined with evolution, and the impossibility of assigning probability to N&E."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Extended argument with objections and replies, culminating in a paradoxical conclusion."
+  },
+  "summary_of_core_decisions": "The author extends Plantinga's argument to show that not only is belief in N&E irrational, but any probability judgment about N&E is also unjustified. He then argues that only under theism can such judgments be warranted, leading to the conclusion that theism is a necessary condition for assessing N&E's probability, which paradoxically makes N&E false if theism is true.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative epistemic claim",
+    "hedging_density_in_final_paragraph": "Low: The conclusion is stated firmly, though with 'probably' and 'likely' in earlier parts."
+  },
+  "_source_corpus": "human",
+  "_source_file": "power-continuing_plantingas_critique.txt"
+}

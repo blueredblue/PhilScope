@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Counterexample-based refutation of a universal claim, followed by a broader critique of the theory's explanatory scope.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate: premises are often embedded in narrative or example, but key logical steps are stated (e.g., 'practical reasoning is possible; therefore, practical judgments are motivational')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Fair: the author accurately summarizes Ross/Smith's position before attacking it, and engages with Nagel's original text.",
+    "logical_relevance": "High: the counterexample directly targets Smith's claim that beliefs cannot embody goals, and the broader critique targets the restrictive nature of desire-based explanations.",
+    "premise_acceptability": "Mixed: the author assumes Nagel's account is correct and that practical reasoning is possible, which are not universally accepted but are plausible within the debate."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "motivated vs. unmotivated desires",
+      "teleological vs. justificatory explanations",
+      "world-to-mind vs. mind-to-world fit",
+      "motivating vs. normative reasons"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "unmotivated desires: desires that simply assail us (e.g., thirst)",
+      "motivated desires: desires had for reasons (e.g., desire to insert coin after reasoning)",
+      "teleological explanation: explanation in terms of goal-directed intentional states",
+      "world-to-mind fit: mind seeks world to satisfy its needs",
+      "mind-to-world fit: mind represents world as it is"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates a possible objection (that all desires must be explained by further desires) and responds by showing that this leads to an infinite regress or absurdity (e.g., getting out of bed despite bodily urges).",
+    "objections_raised": [
+      "If all desires require further desires, then all motivation stems from unmotivated desires, which is absurd.",
+      "Restricting motivation to desires ignores everyday experience of acting from belief or practical judgment."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the author uses phrases like 'seems to be saying', 'I will assume', 'it may be better to say'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Nagel (The Possibility of Altruism)",
+      "Smith (The Moral Problem, 'Reason and Desire')",
+      "Ross ('Explaining Motivated Desires')"
+    ],
+    "evidence_type": "Thought experiments, everyday examples, logical argument from the possibility of practical reasoning.",
+    "named_thought_experiments": [
+      "Thirst and soda pop machine",
+      "Getting out of bed despite bodily urges",
+      "Shoe untied and candy bar (hypothetical)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, action theory, moral psychology.",
+    "sentiment": "Neutral, critical but respectful.",
+    "thematic_focus": "Motivation, desire, practical reason, belief, teleology."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution: presents a problem (Ross's misreading), then offers a solution (Nagel's account defended via counterexample), then generalizes to a broader critique."
+  },
+  "summary_of_core_decisions": "The author's central move is to show that Smith's claim that beliefs cannot embody goals is false by demonstrating that reasoning from a belief about means-end relations can generate a desire without an additional desire. This refutes the Humean claim that all motivation must be explained by desires. The author then argues that the Humean account is too restrictive and fails to capture the diversity of motivational sources.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative critique of a specific interpretation and a positive claim about the possibility of non-desire motivation.",
+    "hedging_density_in_final_paragraph": "Low: the author states the conclusion confidently, though earlier hedges exist."
+  },
+  "_source_corpus": "human",
+  "_source_file": "wiest-cannot_my_beliefs.txt"
+}

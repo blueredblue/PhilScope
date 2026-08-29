@@ -1,0 +1,80 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Thesis-antithesis-synthesis with a final eschatological deferral",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate: key premises are stated but often embedded in rhetorical and theological framing"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages counterarguments, especially Derridean deconstruction, and attempts synthesis",
+    "logical_relevance": "High: all major sections contribute to the central thesis",
+    "premise_acceptability": "Moderate: relies on theological commitments (divine ineffability, eschatological resolution) that may not be universally accepted"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "signum/res",
+      "uti/frui",
+      "kataphatic/apophatic",
+      "authorial intent/contextual reception",
+      "finite/infinite",
+      "temporal/eternal",
+      "deconstructive freeplay/teleological charity",
+      "creature/Creator",
+      "speech/silence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "signum: a thing that causes thought of something beyond the impression it makes",
+      "res: the thing signified, ultimately God",
+      "uti: use of things for an end beyond themselves",
+      "frui: enjoyment of things as final ends",
+      "apophatic theology: negative theology emphasizing divine ineffability",
+      "kataphatic theology: positive theology using affirmative names for God"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges the deconstructive threat, then reinterprets semiotic failure as intentional apophatic strategy rather than defect",
+    "objections_raised": [
+      "Derridean freeplay: signs are orphaned, meaning is unstable, authorial intent collapses",
+      "If language is inadequate, why write theology at all?",
+      "Vulnerability to misinterpretation seems to undermine theological authority"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'might', 'seems', 'perhaps', 'likely' in interpretive claims",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Augustine (Confessions, De Doctrina Christiana)",
+      "Jacques Derrida (deconstruction)",
+      "Rowan Williams (Augustinian interiority)",
+      "Bible (Romans 13:13-14)",
+      "Wittgenstein (allusion to silence)"
+    ],
+    "evidence_type": "Textual evidence, close reading of narrative episodes, conceptual analysis, theological interpretation",
+    "named_thought_experiments": [
+      "Alypius in the amphitheater",
+      "Augustine's garden conversion (Tolle, lege)",
+      "Ostia vision"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Theological and hermeneutical",
+    "sentiment": "Apophatic, anti-idolatrous, eschatological",
+    "thematic_focus": "Semiotics, language, interpretation, divine ineffability, authorial intent"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction, framework, deconstructive challenge, case studies, theological resolution, conclusion"
+  },
+  "summary_of_core_decisions": "The text argues that Augustine's semiotic theory entails unavoidable vulnerability to misinterpretation, but this vulnerability is intentionally deployed as an apophatic tribute to divine ineffability. It uses two narrative case studies to demonstrate the collapse of authorial intent, then reinterprets that collapse as a positive theological strategy, culminating in an eschatological resolution where signs give way to immediate presence.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified affirmative",
+    "hedging_density_in_final_paragraph": "Low: final conclusion is confident but eschatologically qualified"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "brough-misinterpretation_in_augustines_confessions_gemini-3.5-flash-lite.txt"
+}

@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "explicitly numbered premises and conclusions for both arguments"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "objective vs subjective truth",
+      "historical inquiry vs inspiration",
+      "passion vs objective certainty",
+      "authentic vs vain faith"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "authentic Christian faith",
+      "objective inquiry",
+      "inspiration",
+      "passion"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "considers and responds to objections",
+    "objections_raised": [
+      "removing objective uncertainty would make faith easier",
+      "God does not need written scripture"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kierkegaard",
+      "Luther",
+      "Doctrine and Covenants"
+    ],
+    "evidence_type": "textual evidence and thought experiments",
+    "named_thought_experiments": [
+      "successful demonstration of Bible inspiration",
+      "Bible completely defrauded",
+      "Book of Mormon historical consistency"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "existentialist and religious",
+    "sentiment": "anti-objectivist",
+    "thematic_focus": "faith, subjectivity, passion, inspiration"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sequential with two main arguments and objections"
+  },
+  "summary_of_core_decisions": "The essay argues that objective inquiry is not only irrelevant but a barrier to authentic Christian faith, using two arguments: the passion-venture argument and the inspiration argument. It concludes that true faith requires subjective passion and personal revelation, and that one cannot become a Christian through objectively attractive routes.",
+  "thesis_commitment": {
+    "conclusion_type": "normative",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "human",
+  "_source_file": "snell-denying_objectivity_in_chistianity.txt"
+}

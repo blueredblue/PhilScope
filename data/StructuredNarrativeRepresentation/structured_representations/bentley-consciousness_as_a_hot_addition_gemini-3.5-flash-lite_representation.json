@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical critique and defense",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises embedded in prose, not formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages strongest objections and empirical counterexamples",
+    "logical_relevance": "High - all sections directly bear on sufficiency/necessity of object vs fact awareness",
+    "premise_acceptability": "Moderate - relies on contested intuitions about blindsight and metacognition"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Object awareness vs fact awareness",
+      "Intransitive vs transitive consciousness",
+      "First-order vs higher-order representation",
+      "Conscious vs unconscious higher-order thoughts"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Object awareness: non-conceptual, direct, non-propositional relation to an object",
+      "Fact awareness: propositional, conceptual, cognitive awareness that something is the case",
+      "HOT: a mental state representing another mental state as being in that state"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Regress objection addressed via distinction between conscious and unconscious HOTs",
+    "objections_raised": [
+      "Infinite regress of higher-order thoughts",
+      "Browne's claim that blindsight involves degraded consciousness",
+      "Phenomenological intuition that attention is outward, not inward"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'must', 'requires', 'demonstrates' but also 'argues' and 'suggests'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Thomas Nagel",
+      "Fred Dretske",
+      "David Rosenthal",
+      "Derek Browne"
+    ],
+    "evidence_type": "Empirical pathologies, thought experiments, conceptual analysis, inference to best explanation",
+    "named_thought_experiments": [
+      "Visual blindsight",
+      "Unconscious driving / highway hypnosis"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mind",
+    "sentiment": "Defends higher-order theory of consciousness against first-order object-awareness view",
+    "thematic_focus": "Necessity and sufficiency of higher-order thought for phenomenal consciousness"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven dialectical essay with empirical case studies and defense"
+  },
+  "summary_of_core_decisions": "The essay argues that object awareness alone is insufficient for state consciousness; fact awareness via a higher-order thought is strictly necessary. It critiques Derek Browne's sufficiency thesis using blindsight and unconscious driving, then defends the HOT model against the regress objection.",
+  "thesis_commitment": {
+    "conclusion_type": "Necessity claim",
+    "hedging_density_in_final_paragraph": "Low - assertive conclusion"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "bentley-consciousness_as_a_hot_addition_gemini-3.5-flash-lite.txt"
+}

@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against Dennett's Intentional Stance: If the Intentional Stance presupposes optimal rationality, and human cognition is systematically suboptimal, then the Intentional Stance fails for humans. The text then proposes an alternative (empathetic simulation) and defends it against objections.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in prose but recoverable; key assumptions are named (optimal rationality, adaptationism, spandrels, fragmentation)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text concedes limitations of the proposed alternative and engages with counterarguments before rebutting them.",
+    "logical_relevance": "High: all examples and critiques bear directly on the predictive adequacy of the Intentional Stance.",
+    "premise_acceptability": "Moderate: relies on contested empirical claims from evolutionary biology and cognitive psychology; the text treats them as established."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Physical vs Design vs Intentional Stance",
+      "Optimal rationality vs bounded/suboptimal rationality",
+      "Adaptation vs spandrel/byproduct",
+      "Unified reason vs fragmented cognitive modules",
+      "Theoretical stance vs simulation/empathetic stance",
+      "Falsifiable prediction vs ad hoc belief-desire attribution"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Intentional Stance: predicting behavior by attributing beliefs and desires and assuming rationality",
+      "Spandrel: non-adaptive byproduct of other evolutionary adaptations",
+      "Empathetic simulation: predicting behavior by asking 'What would I do in that situation?'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text raises two objections to empathetic simulation (egocentrism and failure with radically different agents) and responds by restricting the claim to human behavior, where shared cognitive architecture mitigates the problem.",
+    "objections_raised": [
+      "Empathetic simulation is egocentric and projects one's own biases/cultural norms onto others.",
+      "Empathetic simulation fails for radically different agents (other cultures, AI)."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'proves', 'fundamentally flawed', 'undeniably', but also 'likely' and 'may' in places.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Daniel Dennett",
+      "Stephen Jay Gould",
+      "Richard Lewontin",
+      "Stephen Stich"
+    ],
+    "evidence_type": "Empirical examples from evolutionary biology and cognitive psychology; conceptual counterexamples; thought experiments.",
+    "named_thought_experiments": [
+      "Chess-playing computer",
+      "Gould and Lewontin's San Marco spandrels",
+      "Wason selection task",
+      "Framing effects"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic: uses empirical science (evolutionary biology, cognitive psychology) to adjudicate a philosophical theory of mind.",
+    "sentiment": "Anti-adaptationist, anti-optimality, pragmatist about prediction, sympathetic to simulation theory of mindreading.",
+    "thematic_focus": "Philosophy of mind, philosophy of cognitive science, evolutionary psychology, theory of mindreading."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical escalation: exposition \u2192 internal critique \u2192 external critique \u2192 alternative proposal \u2192 objection \u2192 rebuttal \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text's central move is to identify a hidden adaptationist assumption in Dennett's Intentional Stance, show that it is empirically false for humans, and replace it with an empathetic simulation model that predicts suboptimality without ad hoc rationalization.",
+  "thesis_commitment": {
+    "conclusion_type": "Prescriptive: proposes a better framework for predicting human behavior.",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is assertive and confident."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "brownson-how_predictable_are_we_ling-3.0-flash-free.txt"
+}

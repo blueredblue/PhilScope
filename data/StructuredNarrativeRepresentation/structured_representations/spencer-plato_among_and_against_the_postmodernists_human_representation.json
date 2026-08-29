@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mixed: some premises explicit, others implicit in textual analysis"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: acknowledges counterarguments and integrates them",
+    "logical_relevance": "High: all points serve the central thesis",
+    "premise_acceptability": "Moderate: relies on interpretive claims about Plato and post-modernism"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Elenchus vs. literary criticism",
+      "Early vs. middle dialogues",
+      "Platonic metaphysics vs. post-modern metaphysics",
+      "Mantic vs. sophic knowledge",
+      "Phenomenal vs. noumenal"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Elenchus: negative method of refutation",
+      "Literary criticism: interpretation of texts as revelatory",
+      "Post-modernism: methodology of textual interpretation with anti-Platonic metaphysics"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges metaphysical opposition between Plato and post-modernism, then resolves via Hegel",
+    "objections_raised": [
+      "Plato's metaphysics are otherworldly, post-modernism rejects this",
+      "Elenchus appears in early dialogues, not literary criticism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'suggests', 'appears', 'likely'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato",
+      "Vlastos",
+      "Hegel",
+      "Barnett",
+      "Berger"
+    ],
+    "evidence_type": "Textual evidence from Plato, historical survey of post-modernism, philosophical analysis",
+    "named_thought_experiments": [
+      "Allegory of the Cave",
+      "Divided Line"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental philosophy, hermeneutics, history of philosophy",
+    "sentiment": "Neutral, analytical",
+    "thematic_focus": "Methodology, metaphysics, history of philosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Three-part dialectic: thesis (Plato's literary criticism), antithesis (post-modernism's metaphysical opposition), synthesis (Hegel's redefinition of god)"
+  },
+  "summary_of_core_decisions": "The essay argues that Plato's true methodology is literary criticism, not the elenchus, aligning him methodologically with post-modernism. However, their metaphysics are opposed. Hegel resolves this by redefining the divine as humanity, making texts revelatory again, thus restoring Plato's methodology while transforming its metaphysical basis.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic",
+    "hedging_density_in_final_paragraph": "Moderate: leaves final judgment to reader"
+  },
+  "_source_corpus": "human",
+  "_source_file": "spencer-plato_among_and_against_the_postmodernists.txt"
+}

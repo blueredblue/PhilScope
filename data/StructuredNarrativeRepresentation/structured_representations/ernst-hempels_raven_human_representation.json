@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression: presentation of a paradox, examination of proposed solutions, and defense of a particular resolution.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate: premises are often embedded in examples and illustrations rather than formally stated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the author engages with a strong counterargument (Good) and attempts to rebut it.",
+    "logical_relevance": "High: all examples and arguments directly address the paradox and its resolution.",
+    "premise_acceptability": "Moderate: some premises rely on intuitive judgments about confirmation and background knowledge."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Confirmation vs. disconfirmation",
+      "Logical equivalence vs. psychological association",
+      "Background knowledge vs. isolated evidence",
+      "Reason vs. senses"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Nicod's criterion: an object confirms a universal conditional if it satisfies both antecedent and consequent; disconfirms if it satisfies antecedent but not consequent.",
+      "Equivalence condition: if two sentences are logically equivalent, whatever confirms one confirms the other."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates Good's objection and argues that it does not undermine Hempel's resolution because the paradox arises from background knowledge, not from the logic of confirmation.",
+    "objections_raised": [
+      "Good's argument that a black crow can decrease the probability of 'all crows are black' in a specific scenario.",
+      "The general intuition that a white shoe is irrelevant to raven color."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the author uses hedged language ('I believe', 'seems', 'argue that') rather than absolute claims.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Carl Hempel",
+      "I. J. Good",
+      "Zeno"
+    ],
+    "evidence_type": "Thought experiments and hypothetical scenarios (raven, ice, alien, black crow).",
+    "named_thought_experiments": [
+      "Hempel's raven paradox",
+      "Good's black crow scenario",
+      "Zeno's arrow paradox"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Empiricist and rationalist blend: relies on logical analysis and sensory experience, but emphasizes the role of background knowledge.",
+    "sentiment": "Defends a rationalist resolution of a paradox against a skeptical or pragmatic dismissal.",
+    "thematic_focus": "Confirmation theory, paradox resolution, the interplay between logic and psychology."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-rebuttal: introduces the paradox, presents Hempel's solution, presents Good's objection, then defends Hempel's solution."
+  },
+  "summary_of_core_decisions": "The author argues that Hempel's explanation of the raven paradox as a psychological illusion is superior to Good's dismissal because it resolves the tension between reason and senses without abandoning the logic of confirmation. The key move is to distinguish between objective confirmation and subjective background knowledge.",
+  "thesis_commitment": {
+    "conclusion_type": "Defense of a specific position (Hempel's resolution) against an alternative (Good's).",
+    "hedging_density_in_final_paragraph": "Low: the author states the conclusion confidently, though earlier hedges exist."
+  },
+  "_source_corpus": "human",
+  "_source_file": "ernst-hempels_raven.txt"
+}

@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis through refutation and reclassification",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in textual exegesis and scholarly critique"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages systematically with opposing interpretations (Maguire, Hourani, Johnson, Nicholson) before advancing a novel synthesis",
+    "logical_relevance": "High - all exegetical moves directly serve the resolution of the perceived incoherence in Thrasymachus's doctrine",
+    "premise_acceptability": "Moderate - relies heavily on a specific reading of key Platonic passages (338c-348e) and a particular interpretation of 'pleonexia'"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Subject vs. Ruler",
+      "Aspiring tyrant vs. Established ruler",
+      "Justice (self-sacrifice/obedience) vs. Injustice (pleonexia/self-assertion)",
+      "Descriptive vs. Normative claims",
+      "Positivism (law is just) vs. Immoralism (self-interest is the only ought)",
+      "Strength/Knowledge vs. Weakness/Ignorance"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Pleonexia: roughly equivalent to greed, or the constant desire to acquire more of any good for one's self",
+      "Justice (for subject): benefiting the ruler and thereby harming one's self",
+      "Injustice (for subject): selfishness, or pleonexia"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Preemptively addresses the primary objection (the contradiction between 'advantage of the stronger' and 'advantage of another') by introducing the temporal/status distinction between aspiring and established rulers",
+    "objections_raised": [
+      "Maguire's claim that Thrasymachus makes no consistent argument",
+      "Hourani's positivist/legalist reading (justice is simply obedience to law)",
+      "Johnson's purely descriptive reading (Thrasymachus is a political scientist, not a moralist)",
+      "Nicholson's view that Thrasymachus is presented as incompetent"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'I believe', 'In my reading', 'One finds evidence'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Republic (primary text)",
+      "Bloom (1968)",
+      "Chappell (1993)",
+      "Maguire (1971)",
+      "Shorey (1930)"
+    ],
+    "evidence_type": "Close textual analysis of primary source (Plato) and critical engagement with secondary literature (Phronesis scholars)",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Natural right in an immoralist sense (proto-Darwinian order of strength and knowledge)",
+    "sentiment": "Anti-positivist, anti-amoralist; affirms a normative order grounded in pleonexia",
+    "thematic_focus": "Political justice, tyranny, self-interest, the nature of moral obligation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with historical survey. Moves from scholarly disagreement -> refutation of existing views -> presentation of novel synthesis (subject/ruler distinction) -> metaphysical grounding (order of pleonexia)"
+  },
+  "summary_of_core_decisions": "The author's central analytical move is to resolve the apparent contradiction in Thrasymachus's definition of justice by introducing a dynamic, status-based distinction. The paper argues that 'injustice' (pleonexia) is only applicable to the subject aspiring to tyranny, while 'justice' (advantage of the stronger) applies to the established ruler. This reclassification allows the author to claim Thrasymachus is a coherent normative immoralist, not a descriptive positivist or a confused arguer, grounding the system in a proto-Darwinian cosmic order.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis (offers a new reading of Thrasymachus)",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive, claiming Thrasymachus presents a coherent, sinister doctrine"
+  },
+  "_source_corpus": "human",
+  "_source_file": "fissell-thrasymachus_and_the_order_of_pleonexia.txt"
+}

@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conjunctive textual evidence plus incommensurability proof; then refutation of reductive alternatives; then speculative causal explanation.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: key premises are stated, but some rely on interpretive assumptions and later scholarship."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages opposing interpretations (Bluck, Nehamas, Ross) and concedes partial force of objections.",
+    "logical_relevance": "High: all major moves bear on establishing the UF/SF conflation thesis.",
+    "premise_acceptability": "Mixed: textual evidence is plausible, but some premises depend on contested readings of Plato and on speculative psychology."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "UF (forms as universals) vs SF (forms as standards)",
+      "Predication/participation vs imitation/approximation",
+      "Logical vs ontological separation",
+      "Simple vs complex predicates",
+      "Epistemic problem vs metaphysical role of forms",
+      "Self-predication as applicable to standards but not universals"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "UF: forms are universals; sensible particulars participate via predication.",
+      "SF: forms are standards/paradigms; sensible particulars imitate or approximate them.",
+      "Self-predication: 'F-ness is F' is intelligible for standards, not for universals."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Bluck's objections are answered by showing they either fail or boomerang against SF; Nehamas's objection is answered by appealing to Republic passages that resist his reading.",
+    "objections_raised": [
+      "Universals are not distinct from sensibles, so cannot be Platonic forms.",
+      "UF cannot explain sensibles 'falling short' of forms.",
+      "SF cannot determine which form an imperfect particular approximates (IA).",
+      "Motivational explanation may seem ad hoc."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'apparently', 'I argue', 'we must suppose'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle's testimony (Metaphysics 987b)",
+      "Ross's developmental account",
+      "Bluck, Nehamas, Malcolm, Geach"
+    ],
+    "evidence_type": "Textual exegesis, philosophical argument, historical interpretation, speculative etiology.",
+    "named_thought_experiments": [
+      "Socrates tall/short example",
+      "Table color change example",
+      "Chair recognition across time",
+      "Craftsman's table and artist's rendition"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic history of philosophy; textual reconstruction; problem-driven explanation.",
+    "sentiment": "Neutral-critical; rejects harmonizing readings in favor of acknowledging Plato's conflation.",
+    "thematic_focus": "Metaphysics, epistemology, philosophy of language (predication), history of philosophy."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven; problem-solution; dialectical with objections and replies; speculative conclusion."
+  },
+  "summary_of_core_decisions": "The paper's blueprint is: (1) establish that Plato's texts support both UF and SF; (2) prove UF and SF are incommensurable via self-predication and the form-particular relation; (3) refute attempts to reduce one to the other; (4) explain the conflation by Plato's epistemic problem and overextension from simple to complex predicates; (5) conclude that any adequate interpretation must accept the conflation.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis about Plato's inconsistency.",
+    "hedging_density_in_final_paragraph": "Low: final conclusion is assertive about conflation, though motivation is speculative."
+  },
+  "_source_corpus": "human",
+  "_source_file": "hendricks-platos_theories_of_forms.txt"
+}

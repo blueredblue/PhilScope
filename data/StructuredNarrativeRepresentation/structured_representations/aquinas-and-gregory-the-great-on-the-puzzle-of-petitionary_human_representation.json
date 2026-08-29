@@ -1,0 +1,90 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper presents a solution to the puzzle of petitionary prayer by introducing a desert-based principle (AD*) and then defending it against a series of objections. The overall structure is: (1) state the puzzle, (2) propose a solution, (3) engage in extensive dialectical defense via objections and replies, and (4) provide positive arguments for the key premise.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "The key premise AD* is explicitly stated and defended. Other premises (e.g., that effort is a desert base) are argued for in the final objection reply."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The author engages with a wide range of objections, including those from contemporary philosophers (Howard-Snyder, Cohoe) and historical figures (Aquinas, Gregory). Replies often use analogies and thought experiments to show that the objections rest on mistaken assumptions about what makes an action 'pointless'.",
+    "logical_relevance": "Each objection directly challenges the solution's ability to give petitionary prayer a point, and each reply addresses the specific concern raised.",
+    "premise_acceptability": "The author relies on common intuitions about desert (e.g., effort generates desert) and on widely shared theological assumptions (e.g., God can arrange history). The only controversial assumption is AD*, which is defended via explanatory power and the effort-desert link."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "prima facie desert vs. overall desert",
+      "desert base vs. desert itself",
+      "having a point vs. being effective",
+      "classification of speech act vs. having a point",
+      "generating desert vs. contributing to bringing about an outcome"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "AD*: If S asks for x from y in a respectful, grateful, appreciative, and non-demanding way, then S prima facie deserves to get x to a minuscule degree from y in virtue of asking.",
+      "Overall desert: S overall deserves x from y partly in virtue of F if and only if (1) S prima facie deserves x from y in virtue of F, and (2) if S did not prima facie deserve x from y in virtue of F, then S would not overall deserve x from y."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author often concedes the objection's premise (e.g., that prayer does not change what God will do) but argues that the conclusion (pointlessness) does not follow. He uses analogies (button pressing, donation) to show that actions can have a point even if they do not causally contribute to the outcome or benefit the agent.",
+    "objections_raised": [
+      "If only non-trivial number of prayers generate desert, the rest are pointless.",
+      "One can generate desert without prayer, so prayer is unnecessary.",
+      "Evil person asking forgiveness does not generate desert.",
+      "Asking does not improve things for the petitioner.",
+      "People would stop praying if they knew the point.",
+      "Petition is false; it would require extraordinary coincidence.",
+      "The solution does not address the specific prayers of religious traditions.",
+      "The solution generates the wrong frequency of prayers.",
+      "World is incompatible with Christianity (we don't deserve forgiveness).",
+      "Adding a small degree of desert is insignificant.",
+      "Comparison with Cohoe's solution.",
+      "Howard-Snyder's objection about the speech act of petitioning.",
+      "Aquinas seems to deny efficacy.",
+      "Most solutions preserve efficacy; this one concedes it.",
+      "The solution goes too far in denying that prayer adds anything.",
+      "Lack of serious historical engagement with Aquinas.",
+      "Why believe asking generates desert?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The author uses hedged language ('it seems', 'it is plausible', 'I think') but also asserts claims confidently when defending his solution.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aquinas",
+      "Gregory the Great",
+      "Feldman",
+      "McLeod",
+      "Rawls (critically)",
+      "Lewis (for explanatory power)",
+      "Xunzi (comparison)"
+    ],
+    "evidence_type": "Thought experiments, analogies, appeals to common intuitions about desert, and historical textual evidence.",
+    "named_thought_experiments": [
+      "Hedon generating machine",
+      "Button A/B saving life",
+      "Donation to UNICEF causing hardship",
+      "Spilling beer example",
+      "Student asking for a grade"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, with a focus on desert theory and philosophy of religion.",
+    "sentiment": "The paper is a defense of a non-standard solution that abandons the assumption that prayer must be causally efficacious. It aligns with a tradition of 'desert-based' solutions and engages with contemporary debates.",
+    "thematic_focus": "The nature of desert, the value of prayer, divine providence, and the point of actions."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The paper is organized as a main thesis followed by a series of objections and replies. It begins with the puzzle, then presents the solution, and then engages in a lengthy dialectical defense. The final objection reply provides positive arguments for the key premise."
+  },
+  "summary_of_core_decisions": "The core decision is to define a desert-based principle (AD*) that gives petitionary prayer a point even if it does not change God's actions. The author then defends this principle against a wide range of objections, often by showing that the objections rely on overly narrow views of what makes an action 'pointless'.",
+  "thesis_commitment": {
+    "conclusion_type": "The paper defends a solution to the puzzle of petitionary prayer, arguing that prayer has a point because it generates desert.",
+    "hedging_density_in_final_paragraph": "The final paragraph is a positive argument for the key premise, not a hedge. The author asserts that effort is a desert base and that explanatory power supports AD*."
+  },
+  "_source_corpus": "human",
+  "_source_file": "aquinas-and-gregory-the-great-on-the-puzzle-of-petitionary.txt"
+}

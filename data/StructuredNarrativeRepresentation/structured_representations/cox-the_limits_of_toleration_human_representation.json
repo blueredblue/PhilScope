@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Normative argument from liberal autonomy, applying Rawlsian public reason to determine the limits of multicultural toleration.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderately explicit; key premises are stated but some normative assumptions remain implicit."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages with opposing views (Okin, Honig) and incorporates Millian and Rawlsian considerations.",
+    "logical_relevance": "High; all sections bear directly on the thesis.",
+    "premise_acceptability": "Contestable but plausible within a liberal framework; relies on autonomy as the central value and on Rawlsian public reason as the decision procedure."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Intrinsic vs. instrumental value of culture",
+      "Cultural groups that comprise political entities vs. those subsumed by larger cultures",
+      "Manifestations of autonomy vs. practices that foster autonomy",
+      "Reasonable vs. unreasonable exit costs",
+      "Voluntary vs. coerced cultural practices",
+      "Children vs. rational adults"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Culture: collection of habits, beliefs, customs, activities, history, traditions, and symbols of an identifiable social group.",
+      "Pluralism: a society with a multitude of cultural groups, each respecting others but maintaining distinctiveness.",
+      "Public reason: Rawlsian requirements of reciprocity, public justification, and concern for the public good."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Okin's objection is answered by distinguishing between consensual adult practices and non-consensual practices; Honig's objection is answered by deferring to individual judgment and rejecting paternalism.",
+    "objections_raised": [
+      "Okin: multicultural rights may perpetuate women's subordination and consent is epistemically opaque.",
+      "Honig: cultural practices are too complex to categorize as harmful or beneficial; attempts to do so are reductive."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'seems', 'likely', 'ought', 'should'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Rawls",
+      "John Stuart Mill",
+      "Will Kymlicka",
+      "Joseph Raz",
+      "Ronald Dworkin",
+      "Marilyn Friedman",
+      "Susan Moller Okin",
+      "Bonnie Honig"
+    ],
+    "evidence_type": "Conceptual analysis, normative thought experiments, illustrative examples (burqa, Native American tribes, Hasidic Judaism, female genital mutilation), and appeals to liberal principles.",
+    "named_thought_experiments": [
+      "Exit from Native American tribe",
+      "Hasidic Jewish fragmentation into Conservative and Reform Judaism",
+      "Burqa as voluntary vs. coerced practice"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Liberal political philosophy, Rawlsian public reason, Millian harm principle, autonomy-based multiculturalism.",
+    "sentiment": "Analytic, normative, non-relativist; defends a qualified liberal multiculturalism.",
+    "thematic_focus": "Toleration, multicultural rights, individual autonomy, cultural pluralism, public reason, consent, exit options."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections and progressive argument: value of culture \u2192 pluralism \u2192 public reason \u2192 application \u2192 objections \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The essay argues that multicultural rights should be granted only when cultural practices are compatible with individual autonomy, and that Rawlsian public reason provides the proper procedure for determining the limits of toleration. Practices by consenting rational adults that manifest or foster autonomy should be protected; non-consensual, autonomy-restricting practices\u2014especially involving children\u2014should not be tolerated. The essay rejects both blanket multicultural rights and blanket liberal restrictions, favoring an autonomy-contingent continuum.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative policy thesis",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive but qualified by the continuum model."
+  },
+  "_source_corpus": "human",
+  "_source_file": "cox-the_limits_of_toleration.txt"
+}

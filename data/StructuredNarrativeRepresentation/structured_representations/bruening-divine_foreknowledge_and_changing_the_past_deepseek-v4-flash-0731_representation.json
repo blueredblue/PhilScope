@@ -1,0 +1,63 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Refutation via category error and modal distinction, structured as a progressive dismantling of the opponent's syllogism.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High; the opponent's argument is formalized into a syllogism, and the author's counter-arguments are explicitly labeled (e.g., category error, modal distinction)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the author concedes the initial plausibility of the opponent's view and grants premises for the sake of argument (e.g., granting temporal God in Section VI) before refuting.",
+    "logical_relevance": "High; every section directly targets a specific premise or implication of the incompatibilist argument.",
+    "premise_acceptability": "Moderate; the argument relies on the controversial premise of classical theism (timeless God) and the B-theory of time, which are not universally accepted but are defended as coherent."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "A-theory vs. B-theory of time",
+      "Hard facts vs. Soft facts (implied via Ockhamism)",
+      "Causal relation vs. Constitutive/logical relation",
+      "Necessity of the consequence vs. Necessity of the consequent",
+      "Temporal memory vs. Eternal apprehension"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Libertarian Freedom (LF) - includes PAP and Sourcehood",
+      "Infallible Divine Foreknowledge (IDF)",
+      "A-theory (dynamic, fixed past)",
+      "B-theory (tenseless block universe)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Preemptively addresses the causal loop objection by redefining the relationship between action and knowledge as constitutive rather than causal, and addresses the fixity of the past by distinguishing dynamic (A-theory) from tenseless (B-theory) fixity.",
+    "objections_raised": [
+      "Causal loop objection (backward causation)",
+      "Logical impossibility of changing the past"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'fails because', 'becomes incoherent', but also 'seems' and 'argues' when presenting opponent views.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Primarily a priori conceptual analysis, modal logic, and theological metaphysics. Uses analogical reasoning (mathematical equations) as illustrative evidence.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical and theological; heavily reliant on the ontology of time and the nature of divine simplicity/eternality.",
+    "sentiment": "Analytic and conciliatory; aims to dissolve the paradox rather than pick a side between foreknowledge and freedom.",
+    "thematic_focus": "The intersection of philosophy of religion (omniscience) and metaphysics of time (eternalism vs. presentism)."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive narrowing. Starts with the general dilemma, defines terms, presents the opponent's syllogism, attacks the metaphysical presuppositions (time), attacks the theological presuppositions (divine temporality), and finally offers a modal logic escape hatch even if the opponent's presuppositions are granted."
+  },
+  "summary_of_core_decisions": "The author's core strategic decision is to shift the burden of proof onto the incompatibilist by demonstrating that their argument only works under a specific, non-mandatory conjunction of A-theory and divine temporality. By offering a B-theoretic, atemporal divine model, the author redefines the power of the agent from 'altering the past' to 'determining the truthmaker of an eternal proposition', thereby dissolving the logical contradiction.",
+  "thesis_commitment": {
+    "conclusion_type": "Compatibilism (specifically, a form of theological compatibilism regarding foreknowledge and libertarian freedom).",
+    "hedging_density_in_final_paragraph": "Low; the author is confident in the dissolution of the problem, though the text cuts off mid-sentence in the final section, leaving the Ockhamist solution incomplete."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "bruening-divine_foreknowledge_and_changing_the_past_deepseek-v4-flash-0731.txt"
+}

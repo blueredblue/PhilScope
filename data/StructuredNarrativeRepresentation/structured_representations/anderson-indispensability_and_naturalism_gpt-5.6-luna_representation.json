@@ -1,0 +1,80 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "conditional_qualified_defense",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "explicitly_laid_out_in_section_VIII"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_to_high_with_contested_metaphysical_assumptions"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "truth_realism",
+      "objectivity",
+      "semantic_realism",
+      "ontological_realism",
+      "extension_vs_mode_of_commitment",
+      "theoretical_reality_vs_physical_causal_existence",
+      "immanent_vs_coercive_normative_intervention",
+      "mathematical_practice_vs_scientific_practice",
+      "internal_vs_external_justification",
+      "logical_computational_explanatory_representational_methodological_indispensability"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "truth_realism",
+      "objectivity",
+      "semantic_realism",
+      "ontological_realism",
+      "theoretical_reality",
+      "structural_reality",
+      "immanent_critique"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "systematic_and_balanced",
+    "objections_raised": [
+      "collapse_to_instrumentalism",
+      "indeterminacy_of_truth_values",
+      "dispensability_via_nominalization",
+      "normative_overreach",
+      "theory_relativity_of_indispensability",
+      "underdetermination",
+      "mathematical_surplus"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine",
+      "Putnam",
+      "Maddy"
+    ],
+    "evidence_type": "conceptual_analysis_and_practice_based_considerations",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "naturalistic_and_practice_based",
+    "sentiment": "balanced_qualified_realism",
+    "thematic_focus": "philosophy_of_mathematics_and_scientific_realism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sections_with_progressive_argument"
+  },
+  "summary_of_core_decisions": "The text defends a compromise naturalism that separates realism from full ontological commitment, arguing that indispensable mathematics supports objectivity and structural reality without requiring Platonist objecthood. It engages Maddy's practice-based objections, evaluates alternative realisms, and concludes with a qualified indispensability argument.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_defense",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "anderson-indispensability_and_naturalism_gpt-5.6-luna.txt"
+}

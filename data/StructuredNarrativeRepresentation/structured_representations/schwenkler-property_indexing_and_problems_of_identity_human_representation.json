@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reformulation of a principle to resolve paradoxes",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate - premises often implicit in thought experiments"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with objections and alternative formulations",
+    "logical_relevance": "High - each reformulation directly addresses the identified problem",
+    "premise_acceptability": "Moderate - relies on intuitions about identity and possible worlds"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Time-indexed vs. non-indexed properties",
+      "World-indexed vs. non-indexed properties",
+      "Essential vs. accidental properties",
+      "Identity over time vs. identity across worlds"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Leibniz's Law (Indiscernibility of Identicals and Identity of Indiscernibles)",
+      "Time-indexed property",
+      "World-indexed property",
+      "Essential property (under Chisholm's definition)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Reformulates the principle to avoid the counterexample, then addresses further objections by appealing to world-indexed properties and Kripke's account of possible worlds",
+    "objections_raised": [
+      "Bobby's posture change (identity over time)",
+      "Chisholm's Adam/Noah swapping properties (identity across worlds)",
+      "Epistemic problem of identifying transworld objects"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'seems', 'appears', 'can be resolved'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kripke (Naming and Necessity)",
+      "Plantinga (The Nature of Necessity)",
+      "Chisholm (Identity through Possible Worlds)"
+    ],
+    "evidence_type": "Thought experiments, conceptual analysis, reformulation of principles",
+    "named_thought_experiments": [
+      "Bobby's sitting/standing",
+      "Chisholm's Adam/Noah swapping",
+      "Gradual property swapping across worlds"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, metaphysics of identity and modality",
+    "sentiment": "Defends a property-indexing solution to problems of identity",
+    "thematic_focus": "Identity, possible worlds, essential properties, Leibniz's Law"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-reformulation cycle with escalating objections"
+  },
+  "summary_of_core_decisions": "The paper argues that Leibniz's Laws are not too rigid if properties are indexed to times and worlds. It demonstrates this by solving the problem of identity over time (Bobby) and identity across worlds (Chisholm's Adam/Noah), and addresses the epistemic challenge of identifying transworld objects by appealing to world-indexed properties and Kripke's descriptive account of possible worlds.",
+  "thesis_commitment": {
+    "conclusion_type": "Defends a specific solution (property-indexing) to a family of problems",
+    "hedging_density_in_final_paragraph": "Low - states the solution confidently"
+  },
+  "_source_corpus": "human",
+  "_source_file": "schwenkler-property_indexing_and_problems_of_identity.txt"
+}

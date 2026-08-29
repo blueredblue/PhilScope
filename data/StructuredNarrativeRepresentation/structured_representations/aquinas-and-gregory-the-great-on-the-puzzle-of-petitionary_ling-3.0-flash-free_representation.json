@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conditional-dialectical with cumulative premises and objection-response",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly explicit; some implicit theological assumptions flagged in final section"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with a strong Rawlsian objection and offers a nuanced defense",
+    "logical_relevance": "All premises and objections directly target the pointlessness charge",
+    "premise_acceptability": "Moderate: key premises rely on controversial theological/metaphysical commitments"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "demanding vs respectful petition",
+      "external transaction vs internal moral act",
+      "prima facie vs absolute desert",
+      "minuscule vs large desert",
+      "unearned exceptional traits vs universal baseline rational agency",
+      "divine eternal disposition vs temporal human desert"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "respectful non-demanding prayer",
+      "prima facie desert",
+      "minuscule desert",
+      "baseline rational agency"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Neutralizes Rawlsian objection by emphasizing the minuscule and universal nature of the desert",
+    "objections_raised": [
+      "Rawlsian brute-luck objection: prayer capacity depends on unearned traits",
+      "Metaphysical objection: solution requires controversial divine eternity and middle knowledge",
+      "Moral objection: prima facie desert in an omnipotent context is dependent on divine will"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'argues', 'contends', 'cannot claim', 'requires'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Thomas Aquinas",
+      "Gregory the Great",
+      "Aristotle",
+      "John Rawls"
+    ],
+    "evidence_type": "Philosophical argumentation, historical precedent, conceptual analysis, counterexample reasoning",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue-ethical and desert-based framework within a theistic metaphysics",
+    "sentiment": "Analytic philosophy of religion",
+    "thematic_focus": "Petitionary prayer, divine sovereignty, moral desert, free will, the problem of luck"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction \u2013 Thesis \u2013 Historical grounding \u2013 Objection \u2013 Defense \u2013 Metaphysical caveat \u2013 Conclusion"
+  },
+  "summary_of_core_decisions": "The text presents Hill's desertist solution as a way to make petitionary prayer meaningful by grounding it in a minuscule prima facie desert earned through respectful prayer. It defends this against Rawlsian luck objections by appealing to universal rational agency, but ultimately concedes that the solution depends on controversial theological premises about divine eternity and disposition.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "High: 'cannot claim', 'requires', 'ultimately a theological construction'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "aquinas-and-gregory-the-great-on-the-puzzle-of-petitionary_ling-3.0-flash-free.txt"
+}

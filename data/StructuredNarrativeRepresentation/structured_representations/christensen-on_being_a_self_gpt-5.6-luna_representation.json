@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate to high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "speculative vs practical possibility",
+      "formal conditions vs empirical content",
+      "transcendental apperception vs inner sense",
+      "noumenal object vs practical postulate",
+      "saturation vs supersensible object",
+      "static formal conditions vs historical horizons",
+      "potentiality/actuality vs existential projection",
+      "constitution as formal condition vs constitution as concrete formation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "saturated phenomenon",
+      "individual halo of possibility",
+      "practical possibility",
+      "transcendental apperception"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "qualified acceptance",
+    "objections_raised": [
+      "Kant's formal conditions may close the field of possibility too tightly",
+      "A purely formal account of selfhood ignores practical sources of possibility",
+      "Marion's saturated phenomena may be mistaken for supersensible experiences",
+      "Kantian autonomy may be insufficiently embodied and historically situated"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Marion",
+      "Aristotle",
+      "Heidegger"
+    ],
+    "evidence_type": "conceptual analysis and comparative interpretation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "transcendental-phenomenological",
+    "sentiment": "synthetic and reconciliatory",
+    "thematic_focus": "selfhood, possibility, givenness, practical reason"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sectioned dialectical essay"
+  },
+  "summary_of_core_decisions": "The text defends a qualified Kantian account of selfhood by integrating practical reason, existential/dynamic possibility, and Marion's saturated givenness. It rejects both a purely formal transcendental ego and an unqualified supersensible experience, proposing instead that the self is constituted in responsive mediation within an individual halo of possibility.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified synthesis",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "christensen-on_being_a_self_gpt-5.6-luna.txt"
+}

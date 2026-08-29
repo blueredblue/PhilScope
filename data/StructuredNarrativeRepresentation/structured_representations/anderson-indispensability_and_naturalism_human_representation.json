@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper employs a dialectical structure: it presents a standard position (Quinean naturalism + confirmational holism \u2192 indispensability argument), then introduces objections (Maddy's two criticisms), then proposes a compromise position, and finally defends it against further objections.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Premises are mostly explicit, especially in the presentation of the indispensability argument and the properties of compromise naturalism. Some implicit assumptions (e.g., that realism does not require ontological commitment) are stated and defended."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The paper fairly represents both Quine's and Maddy's positions, acknowledges the strengths of each, and attempts to synthesize them. It also anticipates and responds to objections.",
+    "logical_relevance": "All arguments are directly relevant to the central question of whether indispensability arguments can be sustained under a naturalistic framework.",
+    "premise_acceptability": "The premises are generally acceptable to philosophers of mathematics, though some (e.g., the distinction between realism and ontological commitment) are controversial and defended."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Realism vs. ontological commitment",
+      "Quinean naturalism vs. Maddy's naturalism",
+      "Scientific practice vs. mathematical practice",
+      "Ontological rights vs. mere usefulness",
+      "Fact vs. no-fact (in mathematical truth)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Realism: (1) sentences of a theory are true/false, (2) something external to human intellect confers truth-value.",
+      "Ontological commitment: one account of what is 'external to the human intellect'.",
+      "Compromise naturalism: three properties (ontological commitment only to entities of natural science; extended to mathematics; realism for statements investigated with sound methodology)."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The paper addresses two objections: (1) that compromise naturalism allows refuting scientific conclusions on nonscientific grounds, and (2) that realism about nonexistent entities is incoherent. Both are answered by appealing to the realism/ontological commitment distinction and the role of philosophy in keeping science honest.",
+    "objections_raised": [
+      "Compromise naturalism + indispensability theory can advocate changes to scientific practice on nonscientific grounds.",
+      "It is hard to see how one can be a realist about mathematical entities that do not exist."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The author uses moderate certainty language ('I believe', 'it seems', 'I would argue') but also asserts conclusions confidently.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine",
+      "Putnam",
+      "Maddy",
+      "Colyvan",
+      "Field",
+      "Kitcher",
+      "Sober",
+      "Resnik",
+      "Hellman"
+    ],
+    "evidence_type": "Thought experiments (atom skepticism, Lebesgue measurability), historical examples (turn-of-the-century physics), and logical analysis.",
+    "named_thought_experiments": [
+      "Atom skepticism (Maddy's first objection)",
+      "Lebesgue measurability and discrete space-time (Maddy's second objection)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalism (both Quinean and Maddy's), confirmational holism, indispensability theory, realism vs. nominalism.",
+    "sentiment": "The paper is sympathetic to naturalism but seeks a middle ground that preserves the indispensability argument while respecting scientific and mathematical practice.",
+    "thematic_focus": "Philosophy of mathematics, specifically the ontological status of mathematical entities and the role of naturalism."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The paper is divided into sections: Introduction, Quinean naturalism and indispensability, Maddy's criticisms, Compromise naturalism, Objections, Conclusion. It follows a clear thesis-defense-objection-reply structure."
+  },
+  "summary_of_core_decisions": "The paper's central move is to distinguish realism from ontological commitment, allowing one to be a realist about mathematical statements even when those entities are not ontologically committed. This resolves the tension between Maddy's naturalism (which respects mathematical practice) and Quine's naturalism (which supports indispensability).",
+  "thesis_commitment": {
+    "conclusion_type": "The paper defends a specific position (compromise naturalism) as superior to both Quinean and Maddy's naturalism.",
+    "hedging_density_in_final_paragraph": "The conclusion is stated confidently without hedging: 'I believe compromise naturalism is a more attractive candidate than either Maddy's naturalism or the Quinean naturalism that Colyvan advocates.'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "anderson-indispensability_and_naturalism.txt"
+}

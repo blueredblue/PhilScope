@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Internal critique: Boorse's project is undermined by the very Davidsonian principles he adopts. The paper then defends that critique against a rival objection (Klee) in order to preserve the negative conclusion.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderately explicit; key premises are reconstructed from Davidson and Klee, but some bridging assumptions are supplied by the author (e.g., the need for strict laws in Boorse's causal model)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the author engages with a live objection and attempts to defeat it rather than ignoring it.",
+    "logical_relevance": "Strong: each section advances the central claim that Davidson's anomalism of the mental blocks Boorse's physiological model of mental health.",
+    "premise_acceptability": "Contestable: the argument depends on accepting Davidson's anomalous monism and the claim that Boorse requires strict psychological laws."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Disease vs. illness",
+      "Mental vs. physical",
+      "Token vs. type identity",
+      "Homonomic vs. heteronomic laws",
+      "Causal vs. symptomatic explanation",
+      "Autonomy vs. reduction",
+      "Ceteris paribus vs. rationality maximization",
+      "Holism of the mental vs. physical background conditions"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Disease: internal state interfering with natural function and not in the nature of the species.",
+      "Illness: serious, undesirable, title to treatment, excuse for normally criticizable behavior.",
+      "Anomalous monism: mental events are physical tokens but not type-type reducible."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Klee's ceteris paribus objection is reconstructed, then rebutted via circularity and a misunderstanding of Davidson's holism.",
+    "objections_raised": [
+      "Boorse's project implies Cartesian dualism.",
+      "Boorse's project cannot work because no strict mental laws exist.",
+      "Klee's objection: if anomalism holds, physical laws also fail; but physical laws exist."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'cannot be maintained', 'doomed', 'fails'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Davidson",
+      "Boorse",
+      "Klee",
+      "McLaughlin",
+      "Rosenberg",
+      "Chomsky",
+      "Piaget",
+      "Kant"
+    ],
+    "evidence_type": "Conceptual analysis, philosophical reconstruction, thought experiments (interferon example), and internal consistency checks.",
+    "named_thought_experiments": [
+      "Interferon experiment from Klee",
+      "Bacteria causing physiological disease",
+      "Irrationality paradox"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mind and philosophy of science; Davidsonian anomalous monism.",
+    "sentiment": "Critical but not dismissive; the author thinks Boorse's project is promising in a limited way.",
+    "thematic_focus": "Mental causation, psychological laws, reductionism, holism, and the possibility of a science of mental health."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction, exposition of Boorse, critique via Davidson, defense against Klee, conclusion."
+  },
+  "summary_of_core_decisions": "The paper's core decision is to use Davidson's anomalism of the mental as a double-edged sword: it rescues Boorse from dualism but destroys Boorse's causal-law model. The author then defends Davidson against Klee to keep that critique intact.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified negative: Boorse's project cannot achieve its stated aim, but the general direction may still be useful.",
+    "hedging_density_in_final_paragraph": "High: 'may nevertheless be more effective', 'promising direction', 'expectations must be severely limited'."
+  },
+  "_source_corpus": "human",
+  "_source_file": "jensen-what_a_theory_of_mental_health_should_be.txt"
+}

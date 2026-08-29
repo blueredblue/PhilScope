@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper employs a cumulative case structure: it first establishes Aquinas's general account of intellect and will, then narrows to his specific volitionalist position, applies it to faith, and finally defends it against objections. The overall argument is constructive and defensive, moving from exegesis to classification to application to rebuttal.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Premises are often implicit in the exegetical sections but become explicit in the defense section, where objections are stated and replies are given. The classification of Aquinas as an indirect descriptive volitionalist is supported by explicit textual evidence and a schema from Pojman."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The paper engages with objections fairly, presenting them in their strongest form (e.g., Stump's objection about justification) and then offering replies. It also acknowledges limitations (e.g., not treating all objections).",
+    "logical_relevance": "All sections contribute to the thesis: the intellect/will relationship provides the foundation, the classification narrows the claim, the faith section applies it, and the defense addresses challenges. No irrelevant digressions.",
+    "premise_acceptability": "Premises are drawn from Aquinas's texts and secondary scholarship, making them acceptable to those familiar with the tradition. The paper also uses common-sense examples (e.g., sun shining) to support distinctions."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Intellect vs. will (cognitive vs. appetitive powers)",
+      "Voluntary vs. involuntary belief (based on whether agent could have done otherwise)",
+      "Direct vs. indirect volitionalism (will directly causing belief vs. will influencing other cognitive acts)",
+      "Descriptive vs. prescriptive volitionalism (describing how beliefs are formed vs. prescribing how they ought to be formed)",
+      "Faith vs. opinion vs. knowledge (certainty and evidentness)",
+      "Being vs. goodness (metaphysical identity with different senses)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Voluntary belief: 'if and only if when the agent came to believe b, she could have done otherwise' (Eisen-Murphy)",
+      "Indirect volitionalism: will works through other acts of intellect (focusing on evidence, etc.)",
+      "Descriptive volitionalism: will's intervention is a natural functioning, not a conscious project"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The paper addresses three objections: (1) faith lacks justification, (2) faith cannot be certain, (3) God should have provided intellectual evidence. It replies using the being/goodness identity and the purpose of faith (justification by faith).",
+    "objections_raised": [
+      "Faith is without epistemic justification (Stump)",
+      "Faith cannot be held with certainty if not based on evidence",
+      "God could have made faith intellectually compelling, so why use the will?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The paper uses cautious language ('I believe', 'can best be classified', 'seems to imply') and avoids overclaiming. It states conclusions with moderate confidence.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aquinas (primary source)",
+      "Eisen-Murphy (secondary)",
+      "Pojman (schema)",
+      "Stump (secondary)"
+    ],
+    "evidence_type": "Textual exegesis, logical analysis, conceptual classification, and counterexample-based reasoning (e.g., sun shining example).",
+    "named_thought_experiments": [
+      "Sun shining proposition (non-necessary but compelling)",
+      "Sewing machine analogy (from Stump) for objection 3"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The paper is grounded in medieval scholastic philosophy (Aquinas) and contemporary philosophy of religion/epistemology (volitionalism debates).",
+    "sentiment": "Neutral-analytical, with a defensive tone toward Aquinas's position.",
+    "thematic_focus": "Philosophy of religion, epistemology of belief, action theory (will and intellect)"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned with Roman numerals: Introduction, I. Relationship between Intellect and Will, II. Aquinas's Volitionalism, III. Volitionalism and Faith, IV. Defense, V. Conclusion. Each section builds on the previous."
+  },
+  "summary_of_core_decisions": "The paper's blueprint: (1) Establish Aquinas's dual-power psychology; (2) Define volitionalism and classify Aquinas as indirect descriptive; (3) Apply to faith, showing will's role; (4) Defend against three objections using metaphysical identity (being/goodness) and teleological purpose of faith; (5) Conclude with a summary. The methodology is exegetical and analytical, using contemporary distinctions to clarify Aquinas's position.",
+  "thesis_commitment": {
+    "conclusion_type": "Defensive and classificatory",
+    "hedging_density_in_final_paragraph": "Low hedging; the conclusion states the argument confidently but acknowledges the paper's scope."
+  },
+  "_source_corpus": "human",
+  "_source_file": "west-aquinas_on_intellect_will_and_faith.txt"
+}

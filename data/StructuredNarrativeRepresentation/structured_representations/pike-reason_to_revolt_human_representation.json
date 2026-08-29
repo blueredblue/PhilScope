@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reconstructive interpretation with dialectical engagement",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises often embedded in textual analysis and counterargumentation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages multiple interpreters and objections",
+    "logical_relevance": "High - each section directly supports the thesis",
+    "premise_acceptability": "Moderate - relies on contested readings of Kant's texts"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Moral vs. empirical motivation",
+      "Ideal vs. practical application of CI",
+      "Perfect vs. imperfect duties",
+      "Revolution for happiness vs. revolution for justice",
+      "Good will as sole determinant of moral worth"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "FUL (Formula of Universal Law)",
+      "FKE (Formula of Kingdom of Ends)",
+      "Perfect duty (strict, assigned action)",
+      "Imperfect duty (broad, assigned end)",
+      "Good will (intention from duty, not inclination)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges objections, then reframes them via textual evidence and conceptual distinctions",
+    "objections_raised": [
+      "Kant's apparent absolute prohibition of revolution",
+      "Ideal vs. practical conflict (Korsgaard's point)",
+      "Empirical concerns about justifying revolution",
+      "Difficulty of determining moral motivation in revolution"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'seems', 'appears', 'clearly' but also 'must' and 'cannot'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant's texts (primary)",
+      "Korsgaard",
+      "Murphy",
+      "Schwarz",
+      "Timmons"
+    ],
+    "evidence_type": "Textual exegesis, logical analysis, counterexample, thought experiments",
+    "named_thought_experiments": [
+      "Universalizing 'I will overthrow the current government when it is evil'",
+      "Kingdom of ends scenario",
+      "Hypothetical evil government"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian deontology",
+    "sentiment": "Sympathetic to Kant's system but critical of narrow interpretations",
+    "thematic_focus": "Revolution, moral motivation, categorical imperative, good will"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive refinement: introduce paradox, test maxim via FUL, test via FKE, address objections, empirical discussion, conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that Kant's ethics, properly understood, permits revolution when it is motivated by duty to justice rather than inclination toward happiness, and when the government is evil. It reconciles Kant's apparent condemnation of revolution with his sympathy for the French Revolution by emphasizing the role of the good will and the distinction between ideal and practical realms.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis about Kant's ethics",
+    "hedging_density_in_final_paragraph": "Low - states conclusion confidently but acknowledges speculation about Kant's motives"
+  },
+  "_source_corpus": "human",
+  "_source_file": "pike-reason_to_revolt.txt"
+}

@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative analysis and synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often embedded in textual interpretation and examples"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views (Kant, Thomson) and acknowledges weaknesses",
+    "logical_relevance": "High - all sections directly support the thesis about emotions in moral reasoning",
+    "premise_acceptability": "Moderate - relies on interpretations of Aristotle and Hume, some contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Reason vs. sentiment",
+      "Virtue of character vs. virtue of thought",
+      "Natural vs. conditioned emotion",
+      "Practical sympathy vs. raw sympathy"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Reason (Hume): intuits cause-effect relations",
+      "Virtue of character: involves emotion and habituation",
+      "Practical sympathy: reason-guided feeling"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Acknowledges objections (e.g., Hume's weak defense) and then pivots to Aristotle's synthesis",
+    "objections_raised": [
+      "Kant: sentiment is subjective and not obligatory",
+      "Thomson: sympathy is partial and can be misdirected",
+      "Hume's 'sensible knave' problem"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses hedges like 'probably', 'may', 'seems'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Hume",
+      "Kant",
+      "Acton",
+      "Broad",
+      "Thomson",
+      "Solomon"
+    ],
+    "evidence_type": "Textual interpretation, thought experiments, examples (murder, charity, vengeance)",
+    "named_thought_experiments": [
+      "Murder example (Hume)",
+      "Gouty toes example (Hume)",
+      "Vengeful feelings example (Thomson)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and sentimentalism, with a synthesis",
+    "sentiment": "Emotions are necessary but must be conditioned by reason",
+    "thematic_focus": "Role of emotions in moral reasoning, comparison of Aristotle and Hume"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Comparative essay with sections: Introduction, Aristotle's Position, Hume's Position, Criticism, Conclusions"
+  },
+  "summary_of_core_decisions": "The essay defends the necessity of emotions in moral reasoning by comparing Aristotle and Hume, addressing criticisms, and ultimately endorsing Aristotle's intermediate position that integrates emotion and reason.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense of a middle position",
+    "hedging_density_in_final_paragraph": "Low - asserts Aristotle's view as best"
+  },
+  "_source_corpus": "human",
+  "_source_file": "kalliney-a_defense_of_the_importance_of_emotions.txt"
+}

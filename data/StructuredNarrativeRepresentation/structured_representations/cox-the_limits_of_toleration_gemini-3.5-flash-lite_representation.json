@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - key premises are stated but some remain implicit in the synthesis of Rawls and Okin."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with Kymlicka, Okin, and Rawls, and anticipates the ethnocentrism objection.",
+    "logical_relevance": "High - all major moves bear directly on the question of limits of toleration.",
+    "premise_acceptability": "Moderate - relies on contested Rawlsian and feminist premises, though defended within the text."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "External protections vs. internal restrictions",
+      "Comprehensive liberalism vs. political liberalism",
+      "Public vs. private sphere",
+      "Apparent consent vs. genuine consent",
+      "Reasonable vs. unreasonable comprehensive doctrines"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Public reason",
+      "Overlapping consensus",
+      "External protections",
+      "Internal restrictions",
+      "Adaptive preferences",
+      "Exit costs",
+      "Private sphere trap"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly addresses the objection that liberal intervention is ethnocentric by distinguishing political from comprehensive liberalism.",
+    "objections_raised": [
+      "Liberal intervention is ethnocentric and imperialistic.",
+      "Members of illiberal cultures consent to their practices.",
+      "Private associations and families are beyond the scope of justice.",
+      "Rejecting internal restrictions fails to respect cultural authenticity."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses phrases like 'can be resolved', 'requires recognizing', 'must be categorically rejected'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Rawls",
+      "Susan Moller Okin",
+      "Will Kymlicka"
+    ],
+    "evidence_type": "Philosophical argumentation, conceptual analysis, and thought experiments rather than empirical data.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Rawlsian political liberalism with a feminist corrective.",
+    "sentiment": "Liberal egalitarian",
+    "thematic_focus": "Multiculturalism, toleration, public reason, gender justice, autonomy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-driven progressive synthesis with numbered sections and conclusion."
+  },
+  "summary_of_core_decisions": "The essay resolves the tension between cultural pluralism and individual rights by adopting a two-level framework: external protections for minority cultures are permissible and often required, while internal restrictions that violate basic liberties are categorically rejected. The state must secure the structural preconditions of genuine agency\u2014universal education, low-cost exit, and direct legal protection\u2014so that any choice to remain within a traditional culture approximates genuine consent. This is justified through Rawlsian public reason, corrected by Okin's feminist critique of adaptive preferences and the private sphere trap.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative policy framework",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive and prescriptive."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "cox-the_limits_of_toleration_gemini-3.5-flash-lite.txt"
+}

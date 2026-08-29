@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum analysis and critique",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Mixed: some premises explicit, others implicit and reconstructed by the author"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with Tolstoy's position, considers objections, and offers a nuanced alternative",
+    "logical_relevance": "High: all points directly address the validity of Tolstoy's reductio",
+    "premise_acceptability": "Moderate: the author challenges Tolstoy's key assumption, but some of the author's own premises (e.g., the impossibility of referring to totality) are argued rather than universally accepted"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Reason vs. consciousness",
+      "Determinism vs. freewill",
+      "Totality of reality vs. local states",
+      "Spontaneous self-causation vs. influenced action",
+      "Natural science vs. humanistic inquiry"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Freewill as self-caused force arising out of nothingness (Tolstoy's view)",
+      "Determinism as initial state N determining all subsequent states",
+      "Totality of being as capacity to refer to everything that exists"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates objections (e.g., the circularity of defining energy) and addresses them directly",
+    "objections_raised": [
+      "Tolstoy's assumption of totality is unjustified empirically and logically",
+      "The concept of energy as a boundary for reality is circular",
+      "Freewill need not be conceived as spontaneous self-causation",
+      "Personal identity and memory complicate the notion of freewill"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses hedged language ('may', 'seems', 'likely')",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Tolstoy's text (War and Peace)",
+      "Physics (law of conservation of energy)",
+      "Kepler and Newton's laws"
+    ],
+    "evidence_type": "Conceptual analysis, logical deduction, empirical examples from everyday experience and physics",
+    "named_thought_experiments": [
+      "The apple falling (determined with respect to tree state, not wind)",
+      "Amnesia and loss of control"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy with a focus on conceptual clarity and logical validity",
+    "sentiment": "Critical of metaphysical overreach; favors pragmatic, context-dependent understanding",
+    "thematic_focus": "Freewill, determinism, metaphysics of totality, philosophy of history"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution: presents Tolstoy's argument, identifies flaw, offers alternative view"
+  },
+  "summary_of_core_decisions": "The essay argues that Tolstoy's reductio ad absurdum for determinism fails because it relies on an unjustified assumption that reality can be referred to as a totality. Rejecting this assumption reduces determinism to local, conditional laws and allows for a nuanced conception of freewill as varying degrees of control. The author concludes that history remains a humanistic discipline, not a natural science.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative: argues against Tolstoy's determinism and for a limited, non-absolute freewill",
+    "hedging_density_in_final_paragraph": "Moderate: uses 'may', 'doomed', 'seems'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "tugushev-free_will_in_war_and_peace.txt"
+}

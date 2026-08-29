@@ -1,0 +1,78 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum of compromise Platonism via a constructed trilemma, combined with historical case studies and internal critique.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in the trilemma and case analyses rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with the strongest forms of both G\u00f6delian and Quinean positions, and with Maddy's own later naturalism.",
+    "logical_relevance": "All major premises bear directly on the stability of dual-track justification.",
+    "premise_acceptability": "Contestable but plausible: relies on the assumption that Platonism requires determinate bivalent truth and that intuition is epistemically unreliable without external constraint."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Intrinsic vs. extrinsic justification",
+      "G\u00f6delian intuition vs. Quinean indispensability",
+      "Platonism vs. anti-realism/pluralism",
+      "Methodological naturalism vs. foundationalist epistemology",
+      "Ontology vs. epistemology of mathematics"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Intrinsic justification: quasi-perceptual grasp of mathematical concepts and set-theoretic intuition.",
+      "Extrinsic justification: justification via indispensability to empirical science or mathematical fruitfulness.",
+      "Compromise Platonism: Maddy's dual-track epistemology combining both."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates objections by considering Maddy's naturalistic turn and showing it fails to preserve realism.",
+    "objections_raised": [
+      "Intrinsicism collapses into dogmatic G\u00f6delism and is vulnerable to Benacerraf's challenge.",
+      "Extrinsicism collapses into Quinean instrumentalism and cannot justify unapplied higher mathematics.",
+      "Abandoning bivalence collapses into anti-realist pluralism and forfeits determinate ontology.",
+      "Maddy's naturalism is a surrender of realism, not a defense of compromise Platonism."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses terms like 'fatal', 'collapses', 'untenable', 'self-defeating'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Benacerraf (1973)",
+      "G\u00f6del (1964)",
+      "Quine (1948)",
+      "Putnam (1971)",
+      "Maddy (1990, 1997)",
+      "Hamkins (2012)",
+      "Wigner (1960)"
+    ],
+    "evidence_type": "Historical case studies, conceptual analysis, internal critique, philosophical reductio.",
+    "named_thought_experiments": [
+      "Axiom of Choice",
+      "Parallel Postulate",
+      "Continuum Hypothesis",
+      "V=L vs. large cardinal axioms",
+      "Multiverse view of set theory"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mathematics, post-Quinean naturalism, realism/anti-realism debate.",
+    "sentiment": "Critical of compromise positions; sympathetic to the force of Benacerraf's challenge and to the difficulties of mathematical realism.",
+    "thematic_focus": "Epistemic access to abstract objects, indispensability, intuition, bivalence, mathematical pluralism."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-trilema-collapse-conclusion; historical case studies followed by systematic trilemma and ontological diagnosis."
+  },
+  "summary_of_core_decisions": "The essay's central decision is to frame Maddy's compromise as an unstable hybrid that must choose among three self-defeating horns; it then argues that Maddy's own naturalistic turn abandons realism, leaving no stable middle ground.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative: compromise Platonism is untenable; no stable middle ground between intuition and application if ontology is split from epistemology.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive and unhedged."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "anderson-a_move_to_more_fruitful_ground_gemini-3.5-flash-lite.txt"
+}

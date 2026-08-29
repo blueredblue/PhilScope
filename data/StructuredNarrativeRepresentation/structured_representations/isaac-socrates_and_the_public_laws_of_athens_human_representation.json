@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "reconstructive_analytic",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "duty vs obligation",
+      "persuade vs obey",
+      "all things considered vs all things equal",
+      "open vs secret disobedience",
+      "established law vs savage commands"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "all things considered",
+      "all things equal"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "rebuttal_by_distinction",
+    "objections_raised": [
+      "Panagiotou's separation of Socrates from the PLA fails because the PLA admit savage commands",
+      "Santas's open/secret disobedience distinction fails because open disobedience still harms the state"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato",
+      "Xenophon",
+      "Kant",
+      "Kraut",
+      "Panagiotou",
+      "Santas",
+      "Woozley",
+      "Teloh"
+    ],
+    "evidence_type": "textual_interpretation",
+    "named_thought_experiments": [
+      "traffic law disobedience",
+      "government official ordering subordinate to persuade"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "social_contract_theory",
+    "sentiment": "deontological",
+    "thematic_focus": "civil_disobedience"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem_solution"
+  },
+  "summary_of_core_decisions": "The paper resolves the Apology\u2013Crito contradiction by arguing that Socrates' hypothetical refusal to obey a court order to stop philosophizing is a persuasive warning to the jury, not a general principle of disobedience; his actual principle is to obey established law, and when conflicting obligations arise he chooses death rather than violate either divine command or lawful authority.",
+  "thesis_commitment": {
+    "conclusion_type": "interpretive",
+    "hedging_density_in_final_paragraph": "high"
+  },
+  "_source_corpus": "human",
+  "_source_file": "isaac-socrates_and_the_public_laws_of_athens.txt"
+}

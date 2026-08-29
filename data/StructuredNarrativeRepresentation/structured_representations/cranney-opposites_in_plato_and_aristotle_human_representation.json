@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative analysis with systematic refutation and constructive alternative",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises often implicit in historical reconstructions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with multiple objections and counterarguments",
+    "logical_relevance": "High - all points directly serve the comparative thesis",
+    "premise_acceptability": "Moderate - relies on contested interpretations of Plato and Aristotle"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Opposites vs. contraries vs. correlatives vs. privatives/positives vs. affirmatives/negatives",
+      "Metaphysical vs. physical forms",
+      "Potentiality vs. actuality",
+      "Substance vs. accidents",
+      "Participation vs. comparison"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Correlatives: opposites explained by reference to the other",
+      "Contraries: general terms that are mutually exclusive",
+      "Privatives/positives: both predicated of same subject, one is lack of the other",
+      "Affirmatives/negatives: mutually contradictory statements"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Systematic - addresses objections to each of Plato's three approaches and to Aristotle's potentiality",
+    "objections_raised": [
+      "Plato: where does concept of evil come from if no form of evil?",
+      "Plato: how to draw line between forms with and without opposites?",
+      "Aristotle: intermediates between privatives and positives (e.g., bad vision)",
+      "Aristotle: why does an acorn necessarily become an oak tree?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'seems', 'appears', 'can be assumed'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle, Physics, Categories, Metaphysics, On Generation and Corruption",
+      "Plato, Phaedo, Republic, Protagoras, Parmenides, Sophist, Symposium",
+      "Lloyd, Nehamas, Warnock, Evangeliou"
+    ],
+    "evidence_type": "Textual exegesis and historical reconstruction",
+    "named_thought_experiments": [
+      "Simmias and Socrates height comparison",
+      "Acorn becoming oak tree",
+      "Bronze made into different objects"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Empirical and metaphysical realism (Aristotelian)",
+    "sentiment": "Analytic and critical",
+    "thematic_focus": "Ontology, predication, change, and knowledge"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Comparative essay with sections: Introduction, Plato's Forms, Aristotle's Contraries, Conclusions"
+  },
+  "summary_of_core_decisions": "The essay argues that Aristotle's theory of opposites is superior to Plato's because it avoids metaphysical assumptions, answers the four key questions (knowledge, application, change, self-consistency) more adequately, and is more internally consistent. It systematically refutes Plato's three possible approaches to opposites and then presents Aristotle's fourfold classification and his ontology of substance/accident and potentiality/actuality as a more cogent framework.",
+  "thesis_commitment": {
+    "conclusion_type": "Comparative evaluation",
+    "hedging_density_in_final_paragraph": "Low - states Aristotle's theory is 'more cogent' without major qualifications"
+  },
+  "_source_corpus": "human",
+  "_source_file": "cranney-opposites_in_plato_and_aristotle.txt"
+}

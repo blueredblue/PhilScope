@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis with progressive refinement",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "High, with repeated restatement and escalation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong, but relies on repeated reformulation rather than independent evidence",
+    "logical_relevance": "High, all premises directly support the final synthesis",
+    "premise_acceptability": "Moderate, depends on acceptance of Kantian, Heideggerian, and Marionian frameworks"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Speculative vs practical reason",
+      "Phenomenal vs noumenal",
+      "Formal unity vs existential projection",
+      "Inner sense vs apperception",
+      "Saturated phenomenon vs halo of possibility",
+      "Spectator vs agent"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Speculative possibility: what can be thought within the conditions of possible experience",
+      "Saturated phenomenon: givenness that overwhelms intuition and exceeds conceptual conditions",
+      "Dynamis: Aristotelian potentiality grounded in the immanent form of a substance",
+      "Existenz: Heideggerian projection of possibilities in thrownness",
+      "Halo of possibility: the horizon of the transcendental ego, limiting what formal unity and inner sense can contain"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The objection that formal selfhood ignores practical agency is accepted and used to motivate practical reason; then a further objection to purely formal practical reason is answered by Marion's saturated phenomenon.",
+    "objections_raised": [
+      "Kantian formal self is a mere spectator, not an agent",
+      "Practical reason alone remains insufficient if it stays purely formal",
+      "Saturated phenomena cannot be fully contained within the halo of possibility"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High, with phrases like 'necessarily', 'ultimately validated', 'requires'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Aristotle",
+      "Heidegger",
+      "Marion"
+    ],
+    "evidence_type": "Conceptual analysis and historical comparison",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and post-Kantian continental philosophy",
+    "sentiment": "Neutral to affirmative toward Marion's givenness",
+    "thematic_focus": "Selfhood, possibility, givenness, practical reason, supersensible experience"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis \u2192 historical contrasts \u2192 objection \u2192 radicalization \u2192 synthesis \u2192 validation"
+  },
+  "summary_of_core_decisions": "The text constructs a dialectical path from Kant's formal restriction of possibility, through Aristotelian and Heideggerian alternatives, to a practical objection, and finally to Marion's saturated phenomenon as the decisive rupture that forces a practical-existential synthesis. The self is ultimately presented as an open dynamic field constituted through practical response to the supersensible.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified affirmation of the initial claim",
+    "hedging_density_in_final_paragraph": "Low, with strong validation language"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "christensen-on_being_a_self_ling-3.0-flash-free.txt"
+}

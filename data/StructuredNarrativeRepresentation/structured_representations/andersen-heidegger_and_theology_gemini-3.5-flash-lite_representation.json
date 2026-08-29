@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a dialectical and evaluative philosophical essay that moves from exposition to critique, tests the critique through concrete case studies, and concludes with a qualified methodological resolution.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "The central premises are explicitly stated: Heidegger's ontology is methodologically atheistic and oriented to finitude; formal indications are not neutral; theological categories like sin, grace, and Word are irreducibly vertical and extra nos."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The essay presents both Heidegger's formal indication defense and Andersen's counter-critique, weighing them fairly before adjudicating.",
+    "logical_relevance": "All sections directly bear on the question of whether theology can use Heidegger's philosophy without losing its transcendent content.",
+    "premise_acceptability": "Premises are plausible within the continental philosophical and theological tradition, though they presuppose a Barthian or post-liberal commitment to divine transcendence."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "ontic vs ontological",
+      "positive science vs fundamental ontology",
+      "formal indication vs material prescription",
+      "immanent finitude vs vertical transcendence",
+      "structural guilt vs creaturely sin",
+      "authentic resoluteness vs divine grace",
+      "Rede as articulation of thrown projection vs divine Word as creation ex nihilo"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Dasein as thrown projection (Geworfener Entwurf)",
+      "Being-guilty (Schuldigsein) as Grundsein einer Nichtigkeit",
+      "Formale Anzeige as a methodological pointer that does not prescribe ontic content",
+      "Extra nos as the source of grace outside human capacities"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates the objection that Heidegger's formal indication is neutral and responds by showing that formal categories are already weighted toward finitude and atheism.",
+    "objections_raised": [
+      "Heidegger's formal indication avoids dictating theological content.",
+      "Theology cannot avoid philosophy, so Heidegger is as valid as any other philosophical resource."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The essay uses qualified language such as 'argues', 'suggests', 'can function', 'risks', and 'qualified yes' rather than dogmatic certainty.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Martin Heidegger",
+      "Nathan Andersen",
+      "Rudolf Bultmann",
+      "Augustine, Aquinas, Barth (mentioned collectively)",
+      "Psalm 51:4, Psalm 33:6, Romans 4:17"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological description, scriptural citation, and comparative theological reasoning.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "The essay is grounded in continental philosophy of religion, specifically the intersection of Heideggerian phenomenology and post-Barthian Protestant theology.",
+    "sentiment": "It is critical of Heidegger's theological adequacy but not dismissive of philosophy; it advocates a critical retrieval of Heidegger as a diagnostic of fallen existence.",
+    "thematic_focus": "The relationship between philosophy and theology, the limits of ontological categories for transcendence, and the irreducibility of divine grace and revelation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The essay follows a clear five-part structure plus introduction and conclusion: (1) Heidegger's propaedeutic, (2) Andersen's critique, (3) test case of Being-guilty, (4) test case of the Word, (5) resolution of the methodological question."
+  },
+  "summary_of_core_decisions": "The text ultimately decides that theology cannot accept Heidegger's fundamental ontology as a neutral foundation, but can use it as a critical instrument to describe the fallen human condition apart from grace. The final position is a qualified 'yes' to philosophical engagement, but only through radical suspicion and subversion.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative thesis",
+    "hedging_density_in_final_paragraph": "Moderate; the conclusion is firm but nuanced, emphasizing both the impossibility of neutral ground and the necessity of critical philosophical engagement."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "andersen-heidegger_and_theology_gemini-3.5-flash-lite.txt"
+}

@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper employs a combination of thought experiments, conceptual analysis, and thesis-proposal-defense. It proceeds by isolating sensory modalities (vision, hearing, touch) and constructing scenarios to illustrate defeasibility relationships, then generalizes to theses (T1\u2013T6).",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Premises are often implicit within thought experiments; key premises are stated as theses (T1\u2013T6) and defended through examples and reasoning."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The paper anticipates and responds to objections (e.g., missing experience kinds, testimonial defeaters), and acknowledges limitations, showing dialectical engagement.",
+    "logical_relevance": "All arguments directly support the central thesis about the hierarchy of empirical defeasibility, with each case (vision, hearing, touch) reinforcing the general framework.",
+    "premise_acceptability": "Premises rely on intuitive judgments about perceptual scenarios and standard epistemological distinctions (e.g., overriding vs. undermining defeaters), which are generally acceptable within the field."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Defeasibility as part of a theory of knowledge vs. general concept",
+      "Overriding vs. undermining defeaters",
+      "Perceptual vs. nonperceptual empirical justification",
+      "Experience kinds vs. information types",
+      "Flash vision vs. spherical vision",
+      "Swipe tactility vs. stroke tactility",
+      "Compound perceptually justified beliefs vs. simple ones",
+      "Conclusive empirical beliefs vs. non-conclusive"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Defeasibility (second sense)",
+      "Overriding defeater",
+      "Undermining defeater",
+      "Perceptually justified belief",
+      "Empirical defeater",
+      "Experience kind",
+      "Information type",
+      "Compound perceptually justified belief",
+      "Conclusive empirical belief"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The paper addresses objections about missing experience kinds and the difficulty of integrating testimonial defeaters, offering responses that preserve the core thesis.",
+    "objections_raised": [
+      "The account may lack a particular experience kind or information type.",
+      "Integrating testimonial defeaters into a system with perceptually justified beliefs is challenging."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'I argue', 'I propose', 'it is clear', 'we can outline'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Casullo (2003)",
+      "Gettier (1963)",
+      "Gibson (1979)"
+    ],
+    "evidence_type": "Thought experiments, conceptual analysis, and intuitive judgments about epistemic scenarios.",
+    "named_thought_experiments": [
+      "S viewing an object from multiple viewpoints (vision case)",
+      "S hearing a dog bark from different positions (hearing case)",
+      "S touching a table after visual and testimonial conflict (touch case)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Empiricism and a form of epistemic foundationalism, with emphasis on the role of sensory modalities in justification.",
+    "sentiment": "Analytic epistemology, focusing on defeasibility and justification.",
+    "thematic_focus": "Empirical defeasibility, perceptual justification, and the hierarchy of belief strength."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The paper follows a linear progression: introduction, definitions, three case studies (vision, hearing, touch), thesis development (T1\u2013T6), objections, and conclusion."
+  },
+  "summary_of_core_decisions": "The paper's core decision is to ground empirical defeasibility in the specific sensory origins of justification, arguing that experience kinds and information types determine the strength and defeasibility of beliefs. It culminates in the thesis that conclusive empirical beliefs are empirically indefeasible.",
+  "thesis_commitment": {
+    "conclusion_type": "The paper defends a substantive thesis (T6) about the existence of empirically indefeasible beliefs, while acknowledging the limited scope of such beliefs.",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive about the hierarchy and the need for precise origins, but acknowledges limitations in providing a complete account."
+  },
+  "_source_corpus": "human",
+  "_source_file": "gessel-the_hierarchy_of_empirical_defeasibility.txt"
+}

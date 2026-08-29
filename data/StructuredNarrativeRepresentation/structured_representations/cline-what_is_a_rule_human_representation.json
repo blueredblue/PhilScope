@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Analogical and descriptive, drawing on Wittgenstein's own method of 'description alone' rather than formal deduction.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate; premises are often embedded in quoted passages and musical analogies rather than formally stated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages with potential objections (e.g., 'indefinable' rules) and uses counterexamples from music to clarify.",
+    "logical_relevance": "Strong; each musical example is tied to a specific conceptual point about rules, understanding, or meaning.",
+    "premise_acceptability": "Acceptable within a Wittgensteinian framework; relies on accepted interpretations and primary texts."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Understanding a rule vs. being able to apply it",
+      "Following a rule vs. thinking one is following a rule",
+      "Explanation vs. description",
+      "Analytic definition vs. learning by example",
+      "Rule as essence vs. rule as family-resemblance concept"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "To understand a rule is to be master of the technique of its application (Baker and Hacker 159, 45, 161).",
+      "A rule is a standard of correctness or a standard which governs a multiplicity of occasions, but such definitions serve no purpose."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses the objection that 'following a rule' might be indefinable by citing Wittgenstein: 'I can surely define it in countless ways. Only definitions are of no use to me in these considerations.'",
+    "objections_raised": [
+      "If a rule cannot be defined, is it indefinable?",
+      "Can one follow a rule without understanding it?",
+      "Is understanding a rule independent of its application?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'is best answered', 'must be understood', 'is not independent'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Wittgenstein's primary texts (PI, RFM, PG, RPP1, RPP2)",
+      "Baker and Hacker",
+      "Glock",
+      "Malcolm",
+      "Monk",
+      "Pears",
+      "Suter"
+    ],
+    "evidence_type": "Textual evidence from Wittgenstein's works, biographical anecdotes, and musical examples as illustrative cases.",
+    "named_thought_experiments": [
+      "Teaching someone to follow a rule by example",
+      "The student learning staccato in Schubert's 'Moment Musicaux No.3'",
+      "The student learning time signature in Haydn's 'Andantino'",
+      "The student learning tempo in Beethoven's 'Pathetique'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Ordinary language philosophy and Wittgensteinian therapeutic analysis.",
+    "sentiment": "Anti-essentialist, anti-analytic-definition, practice-based.",
+    "thematic_focus": "Philosophy of language, philosophy of mind, rule-following, meaning as use."
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "Thematic progression with recurring musical analogies; begins with biographical hook, develops conceptual analysis, then applies to philosophy and Wittgenstein's work, ends with concluding metaphor."
+  },
+  "summary_of_core_decisions": "The essay argues that 'What is a rule?' cannot be answered by analytic definition but only by describing how rules are learned and followed, with music providing the richest set of examples. It uses Wittgenstein's own descriptive method, moving from learning rules to understanding, meaning, and philosophical implications, and concludes that music bridges Wittgenstein's life and philosophy.",
+  "thesis_commitment": {
+    "conclusion_type": "Philosophical thesis about the nature of rules and the proper method for understanding them.",
+    "hedging_density_in_final_paragraph": "Low; final paragraphs assert the conclusion confidently: 'a rule is not to be understood by definition, but by examples.'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "cline-what_is_a_rule.txt"
+}

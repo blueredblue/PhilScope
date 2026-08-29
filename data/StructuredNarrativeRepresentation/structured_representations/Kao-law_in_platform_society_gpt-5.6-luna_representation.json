@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "convergent_theory_synthesis",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "private_public",
+      "formal_functional",
+      "access_amplification",
+      "unlawful_harmful",
+      "substantive_procedural",
+      "consent_meaningful_consent"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "quasi_public_actor",
+      "primary_good",
+      "contextual_integrity",
+      "non_domination",
+      "expressive_freedom"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "explicit_rebuttal",
+    "objections_raised": [
+      "nozick_property_rights",
+      "dworkin_expressive_freedom",
+      "state_abuse_risk"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "rawls",
+      "nozick",
+      "nissenbaum",
+      "pettit",
+      "dworkin"
+    ],
+    "evidence_type": "philosophical_analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "liberal_egalitarian",
+    "sentiment": "balanced",
+    "thematic_focus": "digital_platform_governance"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis_objections_synthesis"
+  },
+  "summary_of_core_decisions": "The essay argues that digital platforms should be treated as quasi-public actors when they are essential infrastructures, but only through procedural and structural regulation, not substantive viewpoint control. It synthesizes Rawls, Nozick, Nissenbaum, Pettit, and Dworkin to justify limited public-law duties.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_prescriptive",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "Kao-law_in_platform_society_gpt-5.6-luna.txt"
+}

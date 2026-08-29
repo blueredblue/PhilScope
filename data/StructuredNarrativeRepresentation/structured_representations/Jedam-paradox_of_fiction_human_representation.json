@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dissolution via therapeutic analysis",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Mixed: some premises explicit, others implicit in the critique of metaphysical assumptions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with multiple opposing views and anticipates objections",
+    "logical_relevance": "Strong: each section directly supports the dissolution thesis",
+    "premise_acceptability": "Moderate: relies on Wittgensteinian philosophy which may be contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "fictional vs non-fictional entities",
+      "mind-dependent vs mind-independent existence",
+      "rational vs justified emotions",
+      "referential vs use-based meaning",
+      "language-game vs ordinary language"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "language-games",
+      "meaning as use",
+      "Augustinian picture of language"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Preemptive: addresses potential objections by showing how language-games accommodate emotional responses",
+    "objections_raised": [
+      "The paradox is a genuine problem",
+      "Emotions without belief are irrational",
+      "Fictional entities lack reference"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'suggests', 'claims', 'argues' rather than 'proves'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Wittgenstein",
+      "Aristotle",
+      "Hume",
+      "Radford",
+      "Tullmann and Buckwalter"
+    ],
+    "evidence_type": "Conceptual analysis and thought experiments",
+    "named_thought_experiments": [
+      "Michael Myers in Halloween",
+      "Stonehenge",
+      "Oatmeal remark in a horror film"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Wittgensteinian ordinary language philosophy",
+    "sentiment": "Quietist: dissolves rather than solves the paradox",
+    "thematic_focus": "Philosophy of language, metaphysics of fiction, philosophy of emotion"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Diagnosis-dissolution: first identifies the metaphysical and linguistic assumptions, then applies Wittgenstein's alternative to dissolve the paradox"
+  },
+  "summary_of_core_decisions": "The essay rejects the referential theory of meaning and the mind-dependent/mind-independent dichotomy, adopting instead a use-based account of meaning and language-games to show that emotional responses to fiction are meaningful without implying belief in existence. The paradox is thus dissolved, not solved.",
+  "thesis_commitment": {
+    "conclusion_type": "Dissolution",
+    "hedging_density_in_final_paragraph": "Low: states the conclusion confidently but with 'do not arise if we accept'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "Jedam-paradox_of_fiction.txt"
+}

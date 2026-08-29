@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The essay employs a dialectical structure that first presents an apparent contradiction in Augustine's thought, then resolves it by recontextualizing the issue. It moves from a prima facie inconsistency (early free will vs. later predestination) to a deeper unity (God's sovereignty as the constant principle). The argument is built around two polemical encounters that appear to demand opposite positions on free will but actually serve the same theological end.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate: premises are embedded in historical narrative and textual interpretation rather than formalized; key premises include: (1) Augustine's primary concern is God's sovereignty; (2) free will discussions are subsidiary to this concern; (3) the Manichean and Pelagian debates both threaten God's sovereignty; (4) Augustine's apparent reversal on free will is a strategic shift to preserve that sovereignty."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay acknowledges opposing views (critics who accuse Augustine of inconsistency) and attempts to overcome them by appealing to a higher-order principle. It uses both textual evidence and secondary scholarship to support its interpretation.",
+    "logical_relevance": "Strong: all major sections\u2014early and late views, Manichean and Pelagian debates, and the doctrine of God\u2014are directly tied to the thesis that sovereignty is the unifying theme.",
+    "premise_acceptability": "Generally acceptable within the context of Augustinian scholarship; the essay relies on recognized primary texts and established secondary sources (Bonner, Brown, O'Donnell, etc.)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Early vs. late Augustine",
+      "Free will as a subsidiary issue vs. God's sovereignty as the primary issue",
+      "Mortal free will vs. prelapsarian free will (Adam, Eve, angels)",
+      "Manichean dualism vs. Catholic monism",
+      "Pelagian moral perfectionism vs. Augustinian grace",
+      "Apparent inconsistency vs. underlying coherence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Sovereignty: God's absolute control and unquestionable rule over the universe; nothing happens without His will or permission.",
+      "Free will (early Augustine): the will has no prior cause other than itself; humans are morally responsible for evil.",
+      "Free will (late Augustine): mortal will is bound by sin and cannot choose the good without grace; only Adam, Eve, and angels possessed full free will before the fall."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates objections: (1) Augustine's later view seems to undermine his earlier anti-Manichean defense; (2) Pelagians accused Augustine of crypto-Manicheanism; (3) Augustine's doctrine of predestination appears to conflict with human responsibility. It handles these by arguing that the free will defense remains intact when restricted to Adam/Eve/angels, and that Augustine's primary goal\u2014exalting God's sovereignty\u2014justifies the shift.",
+    "objections_raised": [
+      "Critics accuse Augustine of intellectual wavering or inconsistency.",
+      "Pelagians accused Augustine of retaining Manichaean determinism.",
+      "Augustine's later view seems to make God the author of evil or unjust."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'clearly', 'must realize', 'I have argued', 'we must emphasize', but also acknowledges complexity and avoids overclaiming.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Augustine's primary texts: Confessions, On Free Choice of the Will, Retractions, On Christian Doctrine, Expositio in Epistulam ad Romanos",
+      "Secondary scholars: Gerald Bonner, Peter Brown, James O'Donnell, William S. Babcock, Carol Scheppard, J. Patout Burns, Rowan A. Greer, Sung-Keun You"
+    ],
+    "evidence_type": "Textual evidence, historical context, theological analysis, and secondary scholarship.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "The essay is grounded in historical theology and philosophical theology, specifically Augustinian studies. It uses a hermeneutical approach that prioritizes authorial intent and theological coherence over isolated logical analysis.",
+    "sentiment": "Neutral-analytical with a defensive tone toward Augustine's consistency; the author aims to rescue Augustine from charges of inconsistency.",
+    "thematic_focus": "The relationship between divine sovereignty and human free will; the problem of evil; the nature of God; the role of polemics in theological development."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The essay follows a clear five-part structure: Introduction, I. Augustine's Perceptions of Human Will, II. Augustine's Perception of Deity, III. Two Polemical Encounters: The Manichees and the Pelagians, Conclusion: The Unity in Augustine's Thought. It also includes a Works Cited section."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to interpret Augustine's changing views on free will as a subordinate variable within a constant theological commitment to God's absolute sovereignty. It chooses to privilege the doctrine of God as the hermeneutical key, thereby transforming apparent contradictions into coherent strategic responses to different heresies.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis",
+    "hedging_density_in_final_paragraph": "Low: the conclusion states confidently that Augustine was 'single minded and focused on glorifying God' and that this approach 'lends greater coherency' to his thought."
+  },
+  "_source_corpus": "human",
+  "_source_file": "madsen-gods_sovereignty.txt"
+}

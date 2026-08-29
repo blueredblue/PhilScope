@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression with recursive elaboration",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are explicitly stated and reiterated with increasing granularity"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments (Wittgenstein) and refines the thesis",
+    "logical_relevance": "High - all premises directly support the conclusion about the nature of the absurdity",
+    "premise_acceptability": "Moderate - relies on contested philosophical accounts (Gricean pragmatics, Wittgensteinian use theory)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Logical contradiction vs. Pragmatic inconsistency",
+      "Theoretical rationality vs. Practical rationality",
+      "Assertoric force vs. Expressive/hesitant function",
+      "Semantic content vs. Implicature"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Moore's Paradox",
+      "Conversational Implicature",
+      "Maxim of Quality",
+      "Cooperative Principle",
+      "Assertoric Force",
+      "Language Games",
+      "Practical Rationality",
+      "Theoretical Rationality"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Wittgenstein's critique is acknowledged and incorporated into the final synthesis rather than refuted outright",
+    "objections_raised": [
+      "Wittgenstein's objection to the robust assertoric force of 'I believe p'"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses terms like 'primarily violates' and 'ultimately fails'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "G. E. Moore",
+      "Paul Grice",
+      "Ludwig Wittgenstein"
+    ],
+    "evidence_type": "Conceptual analysis and comparative philosophical exegesis",
+    "named_thought_experiments": [
+      "Moore's Paradox utterance: 'I believe it is not raining, but as a matter of fact it is raining.'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language and epistemology",
+    "sentiment": "Neutral, analytical, and expository",
+    "thematic_focus": "The nature of assertion, belief, and rationality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Recursive and layered - the abstract is repeated with increasing specificity in each subsequent section (Moore, Grice, Wittgenstein, Synthesis)"
+  },
+  "summary_of_core_decisions": "The text constructs a layered dialectic: (1) Moore's implicative relation establishes the semantic commitment; (2) Grice's pragmatics reframes the absurdity as a violation of conversational maxims; (3) Wittgenstein's use theory challenges the assertoric premise, shifting the analysis to conceptual grammar; (4) The final synthesis concludes that the absurdity primarily violates practical rationality (norms of assertion) rather than theoretical rationality (logical consistency).",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and descriptive",
+    "hedging_density_in_final_paragraph": "Low - the final claim is definitive regarding the primary violation being practical rationality"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "barbir-moores_paradox_ling-3.0-flash-free.txt"
+}

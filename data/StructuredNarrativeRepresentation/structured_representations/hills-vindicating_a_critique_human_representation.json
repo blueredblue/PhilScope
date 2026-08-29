@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Counterexample-based refutation and conceptual analysis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises often embedded in examples and dialectical replies"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with Kripke's objections and considers alternative interpretations",
+    "logical_relevance": "High - all arguments directly address the viability of Donnellan's distinction as a counterexample",
+    "premise_acceptability": "Moderate - some premises (e.g., pragmatic ambiguity yields truth-value differences) are contested but defended with examples"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Attributive vs. referential uses",
+      "Speaker's reference vs. semantic reference",
+      "Denotation vs. reference",
+      "Pragmatic vs. semantic ambiguity",
+      "Direct vs. intensional context"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Attributive use: employed to talk about whoever/whatever fits the description",
+      "Referential use: used as a device to pick out a particular object",
+      "Denotation: semantic reference given by the denoting phrase",
+      "Reference: pragmatic speaker's intended reference"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Directly addresses Kripke's objections (truth-value, intensional contexts, scope) and provides counterexamples or reinterpretations",
+    "objections_raised": [
+      "Kripke's claim that a non-semantically ambiguous sentence has only one analysis",
+      "Kripke's claim that Donnellan's distinction must be semantic to be a counterexample",
+      "Kripke's use of intensional contexts to show no truth-value difference"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'seems', 'might', 'perhaps' but also assertive claims",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Donnellan",
+      "Kripke",
+      "Russell",
+      "P.F. Strawson (implicitly)"
+    ],
+    "evidence_type": "Counterexamples, thought experiments, conceptual analysis, appeal to linguistic intuitions",
+    "named_thought_experiments": [
+      "Party example (man drinking martini)",
+      "Abraham Lincoln and mouse",
+      "Do you know the time?",
+      "Jones and police around the corner"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language, focusing on semantics/pragmatics distinction",
+    "sentiment": "Defends Donnellan's pragmatic distinction as a legitimate counterexample to Russell's theory of descriptions",
+    "thematic_focus": "Reference, definite descriptions, truth-value, semantic vs. pragmatic ambiguity"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with sections addressing scope, truth-value, and intensional contexts; conclusion summarizes and clarifies"
+  },
+  "summary_of_core_decisions": "The paper argues that Kripke's critique of Donnellan fails because (1) the scope of Russell's theory can be interpreted as a theory of reference, making Donnellan's distinction relevant; (2) Kripke's claim about truth-value and analysis is false, as pragmatic ambiguity can yield different truth-values; (3) intensional contexts do not undermine the counterexample. The author concludes that Donnellan's pragmatic distinction provides substantial counterexamples, showing Russell's theory incomplete for reference.",
+  "thesis_commitment": {
+    "conclusion_type": "Defends a qualified thesis: Donnellan's distinction, understood pragmatically, still provides counterexamples to Russell's theory of reference",
+    "hedging_density_in_final_paragraph": "Low - final paragraph is assertive, but earlier hedges exist"
+  },
+  "_source_corpus": "human",
+  "_source_file": "hills-vindicating_a_critique.txt"
+}

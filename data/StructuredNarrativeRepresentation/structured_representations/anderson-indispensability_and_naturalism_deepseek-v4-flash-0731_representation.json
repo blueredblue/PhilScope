@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Synthesis via conceptual separation and modal redefinition",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are explicitly stated and defended against objections"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with strongest objections (Maddy, Platonism, alternative structuralisms) and offers nuanced responses",
+    "logical_relevance": "High - all distinctions and arguments directly address the core conflict between holism and naturalism",
+    "premise_acceptability": "Moderate - relies on the acceptability of modal logic and the rejection of abstract objects, which are contested but well-motivated"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Epistemic realism (truth of statements) vs. Ontological commitment (existence of objects)",
+      "Holism (confirmation of theories) vs. Naturalism (interpretation of practice)",
+      "Methodological norms (how to conduct research) vs. Rational norms (logical consequences of acceptance)",
+      "Truth vs. Objecthood (truth can be grounded in structure, not entities)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Compromise naturalism: separates epistemic truth from ontological commitment",
+      "Modal structuralism: interprets mathematical statements as modal claims about possible structures",
+      "Rational norms: demands of logical consistency, not methodological prescriptions"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Directly addresses Maddy's critique, the determinacy challenge, and the normative objection by redefining the scope of each",
+    "objections_raised": [
+      "Maddy's critique: scientists and mathematicians do not treat mathematical entities as existents",
+      "Determinacy challenge: how can statements be true without existing objects?",
+      "Normative objection: philosophy should not dictate scientific methodology"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses cautious, conditional language ('if you accept...', 'we can say...')",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine",
+      "Putnam",
+      "Maddy",
+      "Shapiro",
+      "Hellman"
+    ],
+    "evidence_type": "Conceptual analysis, logical entailment, and thought experiments (e.g., non-convergent series, hyperreals)",
+    "named_thought_experiments": [
+      "The physicist using a Hilbert space without believing in vectors as abstract objects",
+      "The mathematician exploring axioms without existential commitment",
+      "The non-convergent series used as an approximation"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalism (deference to scientific and mathematical practice) combined with modal logic",
+    "sentiment": "Neutral, analytic, and constructive",
+    "thematic_focus": "Philosophy of mathematics, ontology, epistemology, and the normativity of logic"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution dialectic with progressive refinement (QPIA -> Maddy's critique -> Compromise -> Modal Structuralism -> Normative defense)"
+  },
+  "summary_of_core_decisions": "The text resolves the Quine-Putnam vs. Maddy debate by restricting holism to the confirmation of truth, restricting naturalism to the rejection of abstract objects, and grounding mathematical truth in modal necessity rather than existential import.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic middle path",
+    "hedging_density_in_final_paragraph": "Low - the final paragraph is assertive, defending the triviality of the normative claim and the necessity of accepting mathematical truth for accepted theories"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "anderson-indispensability_and_naturalism_deepseek-v4-flash-0731.txt"
+}

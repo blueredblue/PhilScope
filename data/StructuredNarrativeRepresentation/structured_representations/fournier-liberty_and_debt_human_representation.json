@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper employs a hybrid structure: first, a taxonomical exposition of negative and positive freedom; second, a normative defense of negative freedom as non-interference; third, a historical-speculative argument for a moral debt to society; fourth, a synthesis acknowledging the debt while preserving libertarian primacy.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate: key premises are stated but some rely on speculative anthropology and thought experiments."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with major positions (Nozick, Pettit, Constant, Taylor) and acknowledges counterarguments.",
+    "logical_relevance": "All arguments directly support the thesis of libertarian incompleteness.",
+    "premise_acceptability": "Mixed: the experience machine argument is widely accepted; the origin-of-law speculation is plausible but not conclusive."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Negative vs. positive freedom",
+      "Non-interference vs. non-domination",
+      "Collective rule vs. individual autonomy",
+      "Opportunity-concept vs. exercise-concept",
+      "Modern vs. ancient republicanism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Negative freedom: absence of interference by others",
+      "Positive freedom: presence of autonomy or self-mastery",
+      "Non-domination: absence of arbitrary interference",
+      "Collective rule: participation in political decision-making",
+      "Autonomy: capacity for self-direction"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Acknowledges the objection that libertarianism ignores social debt, then incorporates it without abandoning core libertarian commitments.",
+    "objections_raised": [
+      "Positive freedom advocates may use the debt to justify extensive taxation",
+      "Libertarianism may be morally incomplete"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'I think', 'it seems', 'likely' for speculative claims; assertive for core normative claims.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Nozick",
+      "Pettit",
+      "Constant",
+      "Taylor",
+      "Levy",
+      "Aristotle, Hobbes, Locke, Hume, Rawls"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, historical speculation, empirical observation of primate behavior (Flack & de Waal).",
+    "named_thought_experiments": [
+      "Nozick's experience machine"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Individualist and rights-based, but with a communitarian acknowledgment of social debt.",
+    "sentiment": "Analytic, normative, and speculative historical.",
+    "thematic_focus": "Liberty, moral obligation, social contract, reciprocity."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned with subsections and tables; follows a clear progression from taxonomy to defense to synthesis."
+  },
+  "summary_of_core_decisions": "The paper's core decision is to defend negative freedom as non-interference while conceding a weaker positive claim based on an original debt to society, thereby aiming to make libertarianism morally complete without abandoning its central tenets.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "Moderate: leaves open how debt is repaid, but asserts the debt exists."
+  },
+  "_source_corpus": "human",
+  "_source_file": "fournier-liberty_and_debt.txt"
+}

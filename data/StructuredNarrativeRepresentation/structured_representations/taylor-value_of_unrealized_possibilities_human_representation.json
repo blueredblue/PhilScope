@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens and constructive argument",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly explicit, with some implicit assumptions about value of possibilities"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with three major objections and provides counterarguments",
+    "logical_relevance": "All arguments directly address the debate on abortion's morality",
+    "premise_acceptability": "Premises are plausible but some rely on intuitive judgments about possibilities"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "actual future vs. possible futures",
+      "moral loss vs. neutral loss",
+      "having as possession, experience, disposition, or relation",
+      "psychological continuity vs. potential for continuity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "loss (Sinnott-Armstrong's definition)",
+      "moral loss vs. neutral loss",
+      "have (four meanings)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Each objection is addressed by shifting focus from actual future to possible futures",
+    "objections_raised": [
+      "McInerney: fetuses lack psychological continuity",
+      "Lovering: fetuses do not 'have' a future in the relevant sense",
+      "Sinnott-Armstrong: abortion only causes neutral loss unless fetus has moral right to woman's body"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'clearly', 'surely', 'obvious' but also 'I argue'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Marquis, McInerney, Lovering, Sinnott-Armstrong"
+    ],
+    "evidence_type": "Thought experiments, legal examples, intuitive judgments",
+    "named_thought_experiments": [
+      "Professor's house fire",
+      "Speeding at 107 mph",
+      "Hermit and concrete wall",
+      "Paraplegic and hacksaw"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, applied ethics",
+    "sentiment": "Deontological with consequentialist elements",
+    "thematic_focus": "Value of unrealized possibilities, abortion, future-like-ours argument"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis, objections, replies, synthesis"
+  },
+  "summary_of_core_decisions": "The essay argues that the value of unrealized possibilities is sufficient to make abortion immoral, regardless of the fetus's actual psychological continuity or rights.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative",
+    "hedging_density_in_final_paragraph": "Low: states 'abortion is immoral' without qualification"
+  },
+  "_source_corpus": "human",
+  "_source_file": "taylor-value_of_unrealized_possibilities.txt"
+}

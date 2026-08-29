@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Thought experiments and conceivability arguments",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Mostly explicit, with some implicit assumptions about functional analysis and conceivability"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with objections and distinguishes epistemic from metaphysical",
+    "logical_relevance": "All arguments directly target the possibility of functional reduction of qualia",
+    "premise_acceptability": "Premises rely on widely accepted intuitions about conceivability and the nature of qualia"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Epistemic vs. metaphysical explanation",
+      "Conceivability vs. possibility",
+      "Functional role vs. intrinsic quality",
+      "Reductive explanation vs. reduction"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Qualia: intrinsic, subjective qualities of experience",
+      "Reductive explanation: functional analysis of a higher-level property in terms of lower-level properties",
+      "Functional analysis: definition in terms of causal roles"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Addresses objections to the Martian Fred and inverted spectrum arguments, and considers alternative explanations (identity statements, dualism)",
+    "objections_raised": [
+      "Fred does not fully understand heat either",
+      "Inverted spectrum begs the question by presupposing non-functional qualia",
+      "Future functional analyses might succeed"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'argue', 'cannot'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kripke (1972)",
+      "Levine (1983)",
+      "Block and Stalnaker (1999)",
+      "Kim (2005)"
+    ],
+    "evidence_type": "Thought experiments, conceptual analysis, appeal to intuitions about conceivability",
+    "named_thought_experiments": [
+      "Martian Fred",
+      "Inverted spectrum",
+      "Zombies (mentioned)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mind, functionalism, physicalism",
+    "sentiment": "Neutral, analytical",
+    "thematic_focus": "Explanatory gap, qualia, reductive explanation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with introduction, numbered sections, and conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that functional analysis cannot reductively explain qualia, leading to an explanatory gap that is epistemic rather than metaphysical, leaving physicalism viable but challenged.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative thesis about the possibility of reductive explanation",
+    "hedging_density_in_final_paragraph": "Low: states physicalism may still be true despite the gap"
+  },
+  "_source_corpus": "human",
+  "_source_file": "lee-reductive_explanation_and_qualia.txt"
+}

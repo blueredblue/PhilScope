@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens with a reductio ad absurdum sub-argument",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Mixed: some premises explicit, some implicit and reconstructed"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate: engages with objections but relies on intuition and thought experiments",
+    "logical_relevance": "High: all arguments directly address the sufficiency of syntax for semantics",
+    "premise_acceptability": "Low to moderate: key premises (e.g., meaning requires reference) are plausible but not universally accepted"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Syntax vs. semantics",
+      "Intensional states vs. extensional behavior",
+      "System vs. component (man vs. room)",
+      "Internal vs. external meaning ascription"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Computer program: list of instructions determining output from input",
+      "Intensional states: conscious understanding of what symbols represent",
+      "Syntax: formal manipulation of symbols",
+      "Semantics: meaning, reference, or representation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Searle's replies are criticized for begging the question; the author's own argument is claimed to be immune to those objections",
+    "objections_raised": [
+      "Systems reply",
+      "Brain-simulator reply",
+      "Robot reply (mentioned)",
+      "Meaning solipsism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'appears', 'I think', 'we can be sure'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Searle",
+      "Quine",
+      "Lowe",
+      "Churchland (implicitly)"
+    ],
+    "evidence_type": "Thought experiments, logical analysis, appeal to intuition",
+    "named_thought_experiments": [
+      "Chinese Room",
+      "Rorschach Room",
+      "Rorschach-speak and Rorschach-talk",
+      "Brain-simulator (water pipes, gymnasium)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Philosophy of mind, philosophy of language, cognitive science",
+    "sentiment": "Critical of functionalism and computationalism; sympathetic to Searle's conclusion but not his method",
+    "thematic_focus": "Meaning, intensionality, syntax/semantics distinction, artificial intelligence"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with objections and replies, culminating in a novel argument"
+  },
+  "summary_of_core_decisions": "The author defends Searle's conclusion (syntax alone is insufficient for semantics) but rejects Searle's question-begging defenses. He offers a novel Rorschach room argument showing that if syntax manipulation alone conferred meaning, then a system would have to mean everything or nothing, which is absurd. Thus, computer programs alone cannot have intensional states.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative existential claim",
+    "hedging_density_in_final_paragraph": "Low: states conclusion confidently but acknowledges mystery of meaning"
+  },
+  "_source_corpus": "human",
+  "_source_file": "sousek-intensional_states.txt"
+}

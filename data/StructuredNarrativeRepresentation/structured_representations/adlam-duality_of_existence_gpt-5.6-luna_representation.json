@@ -1,0 +1,49 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "N/A - No argumentative text provided. The input consists solely of the title '# Is Existence'.",
+    "num_distinct_arguments_for_thesis": 0,
+    "premise_explicitness": "N/A - No premises present."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "N/A - Cannot assess without content.",
+    "logical_relevance": "N/A - Cannot assess without content.",
+    "premise_acceptability": "N/A - Cannot assess without content."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [],
+    "draws_explicit_distinction": false,
+    "explicit_definitions_given": []
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "N/A - No objections raised or handled.",
+    "objections_raised": []
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "N/A - No text to analyze.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "N/A - No evidence provided.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "N/A - Cannot determine from title alone.",
+    "sentiment": "N/A - Cannot determine from title alone.",
+    "thematic_focus": "Existence (implied by title)"
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "N/A - No body text provided. The input is a single heading."
+  },
+  "summary_of_core_decisions": "The provided input is incomplete. It contains only the title '# Is Existence'. No philosophical text, argument, or dialectical structure exists to extract. The title implies an inquiry into the nature, status, or facticity of being, but without the body, no structural blueprint can be derived. The analysis below reflects the absence of content and outlines the expected dimensions for when the full text is provided.",
+  "thesis_commitment": {
+    "conclusion_type": "N/A - No conclusion provided.",
+    "hedging_density_in_final_paragraph": "N/A - No final paragraph exists."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "adlam-duality_of_existence_gpt-5.6-luna.txt"
+}

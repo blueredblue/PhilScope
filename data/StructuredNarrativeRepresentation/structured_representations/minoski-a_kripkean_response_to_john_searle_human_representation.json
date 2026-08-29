@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical refutation with counterexample and analogical reasoning",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Partially explicit; Searle's argument is given as numbered premises, but author's replies are often implicit and reconstructed"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: author concedes Searle's argument is logical and grants partial points before replying",
+    "logical_relevance": "All objections and replies target the reference-fixing vs reference-functioning distinction",
+    "premise_acceptability": "Relies on intuitions about baptism, direct reference, and statistical causation; some premises are controversial"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Rigid designation vs descriptivism",
+      "Fixing reference vs functioning through a description",
+      "Unique descriptive content vs meaningful descriptive content",
+      "Object as causal/explanatory factor vs descriptive content as correlated factor",
+      "Type/token distinction",
+      "Direct reference (ostension) vs description-mediated reference"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Rigid designator: a term that directly refers to the same object in all possible worlds",
+      "Baptism: the initial fixing of a proper name's referent",
+      "Descriptive content: properties or descriptions that uniquely pick out an object"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Author anticipates three Searlean objections: (1) revised baptism objection, (2) ostension objection, (3) inherent descriptive content objection; each is answered",
+    "objections_raised": [
+      "Searle's initial argument: baptism requires descriptive content, so Kripke is descriptivist",
+      "Searle's revised argument: even if names later rigidly designate, the baptism itself is descriptivist",
+      "Searle's ostension objection: baptism by pointing still involves descriptive content",
+      "Searle's inherent-content objection: names like 'Katie' carry descriptive content (gender tone)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'appears', 'I think', 'clearly', 'surely'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kripke, Naming and Necessity",
+      "Searle, 'Proper Names and Intentionality'"
+    ],
+    "evidence_type": "Thought experiments, counterexamples, analogical reasoning, statistical analogy",
+    "named_thought_experiments": [
+      "Meter stick example",
+      "Charlie baby example",
+      "Identical twins example",
+      "Hospital mix-up (Sophie's child) example",
+      "Katie/John gender-name example",
+      "Hilary Putnam name example",
+      "Ashley name-change example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language; Kripkean direct reference theory",
+    "sentiment": "Anti-descriptivist",
+    "thematic_focus": "Proper names, rigid designation, reference fixing, descriptivism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: thesis, exposition, objection, reply, revised objection, counterexample, further replies, conclusion"
+  },
+  "summary_of_core_decisions": "The paper's core move is to separate the causal/explanatory role of the object from the merely practical role of descriptive content at baptism. The hospital mix-up case is intended to show that a baptism can succeed even when the descriptive content is false, so the object, not the description, is the real referent-fixer.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative thesis: Kripke's theory is not descriptivist",
+    "hedging_density_in_final_paragraph": "Low: final conclusion is assertive and unqualified"
+  },
+  "_source_corpus": "human",
+  "_source_file": "minoski-a_kripkean_response_to_john_searle.txt"
+}

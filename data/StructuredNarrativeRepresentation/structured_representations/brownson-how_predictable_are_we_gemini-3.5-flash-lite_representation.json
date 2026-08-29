@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical structure: it first presents Dennett's intentional stance and its evolutionary grounding, then critiques it through biological and psychological counter-evidence, and finally proposes an alternative empathetic predictive strategy. The overall form is a negative critique followed by a positive constructive proposal.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "The text explicitly states premises in the form of Dennett's assumptions, Gould/Lewontin's biological findings, Stich's psychological findings, and the proposed empathetic alternative. However, some premises are implicit, such as the assumption that predictive success is the primary criterion for evaluating the intentional stance."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically reasonable: it presents objections to Dennett's view (e.g., the charge of subjectivity, the claim that empathy is just a variant of the intentional stance) and offers rebuttals. It also acknowledges the fertility of Dennett's framework while arguing for its limits.",
+    "logical_relevance": "The arguments are logically relevant to the thesis. The biological and psychological critiques directly target the evolutionary and rationality assumptions of the intentional stance. The proposed empathetic strategy is relevant as a solution to the identified predictive failures.",
+    "premise_acceptability": "The premises are largely acceptable within contemporary philosophy of mind and cognitive science, though some are contested (e.g., the strong interpretation of Gould and Lewontin's spandrel argument, the scope of Stich's critique of rationality). The text does not fully address potential defenses of Dennett's adaptationism or the possibility of a more modest intentional stance."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Physical stance vs. design stance vs. intentional stance",
+      "Normative rationality vs. descriptive rationality",
+      "Optimization vs. satisficing / tinkering",
+      "Theory-theory vs. simulation theory",
+      "Third-person objective prediction vs. first-person empathetic simulation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Intentional stance: treating an entity as a rational agent with beliefs and desires to predict behavior.",
+      "Empathetic predictive strategy: asking 'What would I do in that situation, if I were like him?' to simulate another's behavior.",
+      "Spandrel: a non-adaptive byproduct of evolutionary or structural constraints."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates two major objections: (1) that the empathetic strategy is subjective and unscientific, and (2) that it is merely a variant of the intentional stance. It responds by arguing that everyday prediction is already empathetic, that AI models increasingly incorporate human irrationality, and that the normative baseline differs fundamentally (optimization vs. situated suboptimality).",
+    "objections_raised": [
+      "Empathetic strategy is subjective, unscientific, and computationally intractable.",
+      "Empathetic strategy is just a specialized application of the intentional stance."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses moderately assertive language: 'fails', 'must be modified', 'proposes', 'demonstrates'. It avoids absolute certainty, acknowledging Dennett's framework as 'fertile' but 'fatally vulnerable'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Dennett",
+      "Gould and Lewontin",
+      "Stich",
+      "Kahneman and Tversky",
+      "Gordon and Goldman"
+    ],
+    "evidence_type": "Empirical evidence from cognitive psychology (e.g., Linda problem, conjunction fallacy, heuristics and biases) and theoretical evidence from evolutionary biology (spandrels, constraints, tinkering).",
+    "named_thought_experiments": [
+      "Linda problem",
+      "Spandrels of San Marco"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The text is grounded in analytic philosophy of mind and cognitive science, with influences from evolutionary biology and behavioral economics.",
+    "sentiment": "The text is critical of Dennett's adaptationist and rationalist assumptions, but not wholly anti-naturalist; it favors a naturalized but psychologically realistic simulation-based approach.",
+    "thematic_focus": "The nature of mental state attribution, the role of rationality in prediction, the limits of evolutionary explanations, and the methodology of folk psychology."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The text is divided into an introduction, six numbered parts, and a conclusion. Each part has a clear thematic heading (e.g., 'The Mechanics of the Intentional Stance', 'The Biological Critique', 'The Psychological Reality', 'The Tension', 'The Alternative', 'Objections and Counterarguments')."
+  },
+  "summary_of_core_decisions": "The text's core decision is to reject Dennett's reliance on normative rationality and evolutionary optimization as the foundation for predicting human behavior. It chooses to replace the intentional stance with an empathetic simulation strategy that embraces human suboptimality. This decision is driven by the empirical evidence of cognitive biases and the theoretical argument that evolution produces kludges, not optimizers.",
+  "thesis_commitment": {
+    "conclusion_type": "The text argues for a specific positive thesis: that the empathetic predictive strategy is superior to Dennett's intentional stance for predicting human behavior.",
+    "hedging_density_in_final_paragraph": "The final paragraph is assertive but not over-hedged: it states that Dennett's framework 'fails' and that the empathetic strategy 'provides a far more coherent, psychologically robust, and empirically adequate framework.' It uses qualifiers like 'far more' but does not retreat to extreme tentativeness."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "brownson-how_predictable_are_we_gemini-3.5-flash-lite.txt"
+}

@@ -1,0 +1,83 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis with historical reconstruction, conceptual analysis, and thought experiments",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate: premises are often embedded in narrative and illustrative analogies rather than formalized steps"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages multiple opposing positions (Carnap, van Inwagen, Quine, critics) and attempts balanced adjudication",
+    "logical_relevance": "High: each section directly bears on the univocity/pluralism question",
+    "premise_acceptability": "Moderate: relies on contested intuitions about existence, quantification, and vagueness"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Syntactic-logical univocity vs metaphysical-criteria pluralism",
+      "Internal vs external questions (Carnap)",
+      "Existence vs being concrete (van Inwagen)",
+      "Spacetime location vs relational abstract space location",
+      "Concrete existence criteria: causal nexus, spatiotemporal coordinates, empirical resistance",
+      "Abstract existence criteria: structural necessity, axiomatic coherence, explanatory indispensability",
+      "Formal grammar of quantification vs metaphysical criteria of instantiation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Univocity of existence: the existential quantifier has a single semantic meaning across all domains",
+      "Concrete entity: occupies spacetime and participates in causal interactions",
+      "Abstract entity: non-spatiotemporal, causally inert, known a priori, necessary",
+      "Quine's criterion: to be is to be the value of a bound variable"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Each major objection is followed by a rebuttal or a concession that refines the thesis",
+    "objections_raised": [
+      "Existence without spatiotemporal location is a different sense (homonym 'bank')",
+      "Quine's criterion ignores causal vs a priori distinction",
+      "Carnap's external questions are pseudo-questions",
+      "van Inwagen's deflationary univocity is verbal sleight",
+      "Problem of Many shows univocity breaks down"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'must', 'cannot', 'is' for logical claims; 'suggests', 'seems' for interpretive claims",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Duns Scotus",
+      "W.V.O. Quine",
+      "Rudolf Carnap",
+      "Peter van Inwagen",
+      "Hartry Field",
+      "Hilary Putnam",
+      "Peter Geach"
+    ],
+    "evidence_type": "Historical precedent, formal logic considerations, thought experiments, analogies, paradoxes",
+    "named_thought_experiments": [
+      "Mixed existential claim: 'There are prime numbers and physical planets'",
+      "Analogy of 'kick' with different objects/actions",
+      "Field's nominalization of Newtonian gravity",
+      "Indispensability argument (Quine-Putnam)",
+      "Problem of the Many (Geach): cloud/cat with borderline molecules",
+      "Abstract version of Problem of Many: properties/sets redundancy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics, logic, philosophy of mathematics, meta-ontology",
+    "sentiment": "Neutral-critical: critiques both univocal and non-univocal extremes, seeks synthesis",
+    "thematic_focus": "Existence, quantification, abstract/concrete distinction, ontological commitment, vagueness"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Seven numbered sections plus introduction and conclusion, moving from historical framing to dialectical synthesis"
+  },
+  "summary_of_core_decisions": "The essay argues that existence is syntactically univocal but ontologically pluralistic: the existential quantifier/logical syntax is univocal, while concrete and abstract entities require distinct metaphysical criteria of instantiation. It preserves unified logic while acknowledging a stratified metaphysics.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified synthesis",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is assertive and programmatic"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "adlam-duality_of_existence_gemini-3.5-flash-lite.txt"
+}

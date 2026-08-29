@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression from critique of atheological presumption to a post-epistemic synthesis, using Hegelian confrontation as illustrative case.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate; many premises are implicit in the critique of Shalkowski and the Hegelian analysis."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages with opposing views (Shalkowski, atheism) and attempts to show internal inconsistencies.",
+    "logical_relevance": "High; all sections contribute to the central thesis of moving beyond epistemology.",
+    "premise_acceptability": "Moderate; relies on phenomenological and Hegelian frameworks that may not be universally accepted."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Epistemic vs. ethical",
+      "Game vs. reality",
+      "Context vs. universal rules",
+      "Is vs. ought",
+      "Propositional vs. non-propositional belief",
+      "Faith vs. Enlightenment",
+      "Picture-thinking vs. Insight"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Post-epistemic philosophy of religion",
+      "Presumption",
+      "Dialectical failure"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges potential objections (e.g., atheists could argue for instrumental superiority) and responds by shifting to ethical grounding.",
+    "objections_raised": [
+      "Atheists might claim contextual superiority",
+      "The game analogy could be seen as arbitrary"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; uses hedged phrases like 'perhaps', 'might', 'seems'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Gendlin",
+      "Shalkowski",
+      "Hegel",
+      "Lauer",
+      "Hyppolite",
+      "Kainz"
+    ],
+    "evidence_type": "Conceptual analysis, historical illustration, analogy, hypothetical scenarios.",
+    "named_thought_experiments": [
+      "Reversal of intellectual climate (Shalkowski's hypothetical)",
+      "Game analogy (Monopoly vs. Risk)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and Hegelian, with analytic critique.",
+    "sentiment": "Critical of epistemology as sole arbiter; advocates for post-epistemic dialogue.",
+    "thematic_focus": "Philosophy of religion, epistemology, dialogue, presumption."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with introduction, critique, questioning, Hegelian analysis, conclusion."
+  },
+  "summary_of_core_decisions": "The paper decides to critique atheological presumption by deconstructing its epistemic rules, then to question the game itself, using Hegel to show the ethical-contextual origin of epistemic attacks, ultimately proposing a post-epistemic approach.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative proposal for a post-epistemic philosophy of religion.",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive but open-ended."
+  },
+  "_source_corpus": "human",
+  "_source_file": "stannard-theism_atheism_dialogue.txt"
+}

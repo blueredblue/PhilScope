@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental-regressive argument from the normative structure of aesthetic judgment to moral obligation, combined with a problem-solution dialectic.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Mostly explicit, with some implicit Kantian premises (e.g., that universal validity entails categorical normativity)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with Kantian ethics, utilitarianism, and environmentalist intuitions; anticipates objections.",
+    "logical_relevance": "High: all sections contribute to the central thesis.",
+    "premise_acceptability": "Moderate: relies on contested Kantian aesthetic and moral premises; acknowledges but does not fully resolve tensions."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Categorical imperative vs. utilitarian consequentialism",
+      "Value in itself vs. instrumental value",
+      "Beautiful vs. agreeable",
+      "Consequence-based assessment vs. aesthetic judgment",
+      "Obligations to rational beings vs. obligations to nonrational nature",
+      "Nature in itself vs. nature as presented to rational beings"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Categorical imperative: act only on maxims that can be willed as universal law.",
+      "Inherent value: value that obligates all rational beings regardless of circumstances.",
+      "Beautiful: that which demands universal assent.",
+      "Agreeable: that which is merely subjectively pleasing."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges that nature in itself lacks value, but argues beauty has value in itself and nature can be beautiful when presented to rational beings; thus obligations to nature in itself arise without attributing inherent value to nature apart from presentation.",
+    "objections_raised": [
+      "One might object that a world without rational beings could still have value if rational beings evolved later or visited.",
+      "One might object that pleasure from nature justifies environmental obligation.",
+      "One might object that judgments of beauty are merely subjective and cannot ground obligation."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'must', 'cannot', 'clearly', but also 'seems', 'perhaps'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant (Groundwork, Critique of Judgment)",
+      "Rolston (environmental ethics)",
+      "Schrader-Frechette (ecology methodology)"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, empirical example (Tellico Dam and Percina tanasi), appeal to scientific uncertainty.",
+    "named_thought_experiments": [
+      "Sacrificing the whole human race to save the rain forest",
+      "World with no rational beings and no hope of rational beings"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian transcendental idealism (aesthetic judgment) combined with deontological moral framework.",
+    "sentiment": "Rationalist and formalist, but with an aesthetic expansion of obligation.",
+    "thematic_focus": "Environmental ethics, Kantian ethics, aesthetics, moral obligation, value theory."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Five-part deductive essay with numbered sections (A\u2013E)."
+  },
+  "summary_of_core_decisions": "The essay argues that although Kant's ethics denies inherent value to nonrational nature, Kant's aesthetics\u2014specifically the universal demand of judgments of beauty\u2014provides a foundation for obligations to nature in itself. The argument proceeds by showing that consequence-based environmental decisions are arbitrary, that nature lacks inherent value, and that the universal validity of beauty judgments entails a categorical obligation to beautiful nature.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative ethical claim",
+    "hedging_density_in_final_paragraph": "Low: asserts obligations to environment in itself, but acknowledges practical difficulty in determining what is beautiful."
+  },
+  "_source_corpus": "human",
+  "_source_file": "faulconer-founding_an_environmental_ethic.txt"
+}

@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Counterexample-driven refutation with dialectical engagement",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises often embedded in narrative examples rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with strongest objections (Searle's) and concedes partial validity",
+    "logical_relevance": "High - all arguments directly target descriptivism vs. causal theory",
+    "premise_acceptability": "Moderate - relies on intuitions about thought experiments (e.g., G\u00f6del/Schmidt) that may be contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Referential vs. attributive use of definite descriptions",
+      "Primary vs. secondary reliance on descriptions",
+      "Causal chain vs. descriptive content in reference determination"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Descriptivism: names refer via associated definite descriptions",
+      "Causal theory: names refer via causal chain from initial naming"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Searle's objection that causal theory relies on descriptions is rebutted by showing descriptions are circular or secondary",
+    "objections_raised": [
+      "Searle: Kripke's causal chain requires intentional descriptions (e.g., 'the person called G\u00f6del')",
+      "Objection: Descriptions like 'author of incompleteness proof' fail in counterfactuals",
+      "Objection: Necessary properties cannot uniquely pick out individuals"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedges like 'seems', 'appears', 'likely'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kripke",
+      "Searle",
+      "Donnellan",
+      "Frege",
+      "Russell",
+      "Strawson"
+    ],
+    "evidence_type": "Thought experiments, counterexamples, conceptual analysis",
+    "named_thought_experiments": [
+      "G\u00f6del/Schmidt scenario",
+      "Partygoer introduced to G\u00f6del",
+      "G\u00f6del's lecture attendance"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, philosophy of language",
+    "sentiment": "Defends Kripke's causal theory against Searle's descriptivist defense",
+    "thematic_focus": "Reference of proper names, descriptivism vs. causal theory"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical - thesis (descriptivism), antithesis (Kripke's counterexample), synthesis (causal theory defended)"
+  },
+  "summary_of_core_decisions": "The paper argues that Kripke's G\u00f6del example refutes descriptivism because names refer via causal chains, not descriptions. Searle's attempt to reduce causal chains to descriptions fails because such descriptions are circular or secondary. The causal picture is superior.",
+  "thesis_commitment": {
+    "conclusion_type": "Defends a specific theory (causal theory) against a rival (descriptivism)",
+    "hedging_density_in_final_paragraph": "Low - states conclusion confidently"
+  },
+  "_source_corpus": "human",
+  "_source_file": "dayley-by_godel_I_do_not_mean_schmidt.txt"
+}

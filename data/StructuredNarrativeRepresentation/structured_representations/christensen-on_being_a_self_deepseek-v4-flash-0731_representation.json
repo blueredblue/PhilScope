@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical_aporatic",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "medium_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "speculative_possibility_vs_practical_possibility",
+      "formal_self_vs_individual_self",
+      "phenomenal_self_vs_noumenal_self",
+      "inner_sense_vs_apperception",
+      "constitution_vs_reception",
+      "subject_vs_gifted_witness",
+      "bounded_possibility_vs_excessive_givenness"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "speculative_possibility",
+      "practical_possibility",
+      "saturated_phenomena",
+      "inner_sense",
+      "apperception",
+      "dunamis",
+      "seinkonnen",
+      "gifted"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges_force_then_redirects",
+    "objections_raised": [
+      "formal_self_is_empty_and_cannot_account_for_individual_identity",
+      "practical_self_remains_bifurcated_between_phenomenal_and_noumenal",
+      "neither_aristotle_nor_heidegger_can_account_for_excess_of_givenness",
+      "inner_sense_and_apperception_are_irreconcilable"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "kant",
+      "aristotle",
+      "heidegger",
+      "marion"
+    ],
+    "evidence_type": "philosophical_argumentation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "phenomenological_and_critical",
+    "sentiment": "critical_but_constructive",
+    "thematic_focus": "selfhood_possibility_givenness"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "recursive_dialectical"
+  },
+  "summary_of_core_decisions": "The text argues that Kantian selfhood is caught between formal speculative restriction, practical postulation, and Marionian excessive givenness. It evaluates the claim that these must be reconciled, concluding that the demand is necessary but aporetic: the self is not a synthesis but a tension, not a substance but a witness.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_aporetic",
+    "hedging_density_in_final_paragraph": "high"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "christensen-on_being_a_self_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Expository and dialectical",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate - premises are often embedded in exposition of Husserl's views rather than explicitly stated as formal premises"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with potential objections (relativism) and alternative views (Kant)",
+    "logical_relevance": "High - all sections contribute to the central thesis about meaning and interpretation",
+    "premise_acceptability": "Moderate - relies on acceptance of Husserl's phenomenological framework"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Noema vs. intentional object",
+      "Sinn vs. Bedeutung",
+      "Noematic Sinn vs. thetic character (Gegebenheitsweise)",
+      "Act of consciousness vs. noema",
+      "Hyletic data vs. meaning-giving acts"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Noema: 'the object as it is intended'",
+      "Sinn: 'sense', 'meaning', or 'mind'",
+      "Bedeutung: expressed meaning in language",
+      "Gegebenheitsweise: 'way of givenness'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses radical relativism by grounding interpretations in the intentional object and noematic relationship",
+    "objections_raised": [
+      "Radical relativism: if meaning is not in the text, any interpretation seems valid",
+      "How can ideal meanings be known and expressed?",
+      "How to account for differing interpretations among different people?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedged language like 'seems', 'appears', 'might'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Husserl (primary source)",
+      "Gurwitsch",
+      "F\u00f8llesdal",
+      "Smith and McIntyre"
+    ],
+    "evidence_type": "Philosophical argumentation and textual exegesis",
+    "named_thought_experiments": [
+      "Tree viewed from different sides",
+      "Saying 'That man is a good writer' and the unsaid 'I judge that...'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenology",
+    "sentiment": "Neutral - expository and analytical",
+    "thematic_focus": "Meaning theory, intentionality, textual interpretation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sequential - from general phenomenology to specific application to textual interpretation"
+  },
+  "summary_of_core_decisions": "The paper systematically expounds Husserl's theory of intentionality and noema, applies it to meaning theory, and defends it against relativism by showing that interpretations are grounded in the intentional object and noematic structure.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive and defensive",
+    "hedging_density_in_final_paragraph": "Low - states conclusion confidently"
+  },
+  "_source_corpus": "human",
+  "_source_file": "shurts-husserl_and_meaning.txt"
+}

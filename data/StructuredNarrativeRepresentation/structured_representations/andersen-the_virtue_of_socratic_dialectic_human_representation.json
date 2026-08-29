@@ -1,0 +1,64 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The essay employs a constructive dialectical analysis, moving from a stated thesis to a systematic distinction between Socratic and sophistical dialectic, and culminating in a redefinition of virtue as an activity.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often embedded in textual analysis and examples rather than formally enumerated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay acknowledges counterexamples (e.g., Socrates' own fallacies) and refines criteria accordingly.",
+    "logical_relevance": "Strong: all distinctions and examples directly serve the thesis that dialectic is virtuous.",
+    "premise_acceptability": "Generally acceptable within a Platonic framework, though some reliance on interpretive claims about Plato's dialogues."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Good vs. bad dialectic",
+      "Elenchus vs. psychagogia",
+      "Definitions as limits vs. fixed ideals",
+      "Virtue as activity vs. possession",
+      "Genuine inquiry vs. self-aggrandizement"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Virtue as the activity of teaching and inquiring into virtue",
+      "Good dialectic as motivated by the god, genuine, and friendship-oriented"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates the objection that Socrates uses fallacious arguments and responds by distinguishing motivation and genuineness rather than logical consistency.",
+    "objections_raised": [
+      "Socrates' own use of inconsistent arguments",
+      "The apparent failure of the demand for strict definitions"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the essay uses cautious phrases like 'it seems,' 'I believe,' and 'perhaps.'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's dialogues (Meno, Euthyphro, Alcibiades I, Euthydemus, Laches, Phaedo)",
+      "Secondary sources: Evans, Gadamer, Klosko, Teloh, White"
+    ],
+    "evidence_type": "Textual analysis and philosophical argumentation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and Socratic intellectualism",
+    "sentiment": "Normative and prescriptive",
+    "thematic_focus": "The nature of dialectic, virtue, and friendship"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with progressive distinction and synthesis"
+  },
+  "summary_of_core_decisions": "The essay's core decision is to define virtue as an activity rather than a static possession, and to ground the value of dialectic in its capacity to foster genuine self-knowledge and friendship, thereby distinguishing it from sophistry.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative claim about the nature of virtue and dialectic",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive, stating that dialectic makes both participants better."
+  },
+  "_source_corpus": "human",
+  "_source_file": "andersen-the_virtue_of_socratic_dialectic.txt"
+}

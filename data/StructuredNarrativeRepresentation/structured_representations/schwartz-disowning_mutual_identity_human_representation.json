@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Cumulative case with diagnostic and prescriptive phases",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - many premises are implicit in the case studies and philosophical references"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments (e.g., 'things are improving') and alternative views",
+    "logical_relevance": "High - all case studies and philosophical references directly support the thesis",
+    "premise_acceptability": "Moderate - relies on contested metaphysical claims and selective case studies"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Skeptical mistake vs. deific mistake",
+      "In-group vs. out-group",
+      "Individual victim vs. victim-as-symbol",
+      "Metaphysical identity vs. social identity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Spirit murder",
+      "Skeptical mistake",
+      "Deific mistake",
+      "Controlling images"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges objections (e.g., improving conditions, reverse racism) and responds with counterarguments",
+    "objections_raised": [
+      "Marginalized groups are improving",
+      "Hate crime laws unequally affect minorities",
+      "Reasonability standards are radical departures"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedges like 'seems', 'perhaps', 'might'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Patricia Williams",
+      "Kim Scheppele",
+      "Kevin Graham",
+      "Tim Wise",
+      "John Stuart Mill"
+    ],
+    "evidence_type": "Case studies, legal examples, philosophical analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy with pragmatist and critical theory influences",
+    "sentiment": "Critical of Enlightenment rationalism and Cartesian solipsism",
+    "thematic_focus": "Identity, Otherness, hate crimes, legal reasonability"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with case study interlude"
+  },
+  "summary_of_core_decisions": "The paper diagnoses two philosophical errors (skeptical and deific mistakes) that lead to spirit murder, illustrates them with hate crime cases, and proposes corrective measures including metaphysical revision, education, legal reform, and contextual reasonability standards.",
+  "thesis_commitment": {
+    "conclusion_type": "Prescriptive",
+    "hedging_density_in_final_paragraph": "Low - final paragraph is assertive about the futility of in-group identity"
+  },
+  "_source_corpus": "human",
+  "_source_file": "schwartz-disowning_mutual_identity.txt"
+}

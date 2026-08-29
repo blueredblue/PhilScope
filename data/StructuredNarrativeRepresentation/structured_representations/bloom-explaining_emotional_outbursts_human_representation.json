@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper employs a dialectical structure: it presents a target theory (Davidson's belief-desire account), introduces a counterexample class (Hursthouse's arational actions), then offers a distinction (pre-named vs. post-named emotional states) that reclassifies the counterexamples, and finally defends this reclassification against objections.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Premises are often implicit, but key premises are stated: (1) Davidson's account requires a belief and desire; (2) Hursthouse's arational actions lack a belief; (3) actions performed after naming an emotion have a belief-desire pair; (4) actions before naming lack such a pair and are unintentional; (5) agents can indirectly control pre-named actions via intentional emotion-moderation."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The author engages with Hursthouse's examples and considers possible objections, but the argument is one-sided in that it assumes Davidson's framework is correct and does not seriously entertain alternative accounts of intentionality.",
+    "logical_relevance": "The pre-named/post-named distinction is directly relevant to Hursthouse's claim that arational actions are intentional but lack belief. The author shows that such actions either have a belief (post-named) or are unintentional (pre-named).",
+    "premise_acceptability": "The premise that one cannot desire to express an unnamed emotion is plausible but not defended. The premise that pre-named actions are analogous to reflexes is asserted without full argument."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Pre-named vs. post-named emotional states",
+      "Intentional vs. unintentional actions",
+      "Emotion-caused actions vs. reflex/impulse actions",
+      "Direct vs. indirect moral culpability"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Davidson's primary reason: a desire (pro-attitude) toward an action type and a belief that the action is of that type.",
+      "Hursthouse's arational action: intentional, not done for a reason, and caused by emotion.",
+      "Pre-named action: action performed before the emotion is identified; lacks belief-desire pair.",
+      "Post-named action: action performed after emotion is identified; has a belief-desire pair."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates two objections: (1) moral culpability of unintentional pre-named actions, and (2) possible redefinitions of intentionality by Hursthouse. He responds to (1) by arguing for indirect moral responsibility via emotion control, and to (2) by showing that Anscombe's criteria would require naming the emotion, and that Hursthouse lacks a positive definition.",
+    "objections_raised": [
+      "Moral culpability: If pre-named actions are unintentional, agents cannot be held responsible for them.",
+      "Redefinition of intentionality: Hursthouse might adopt Anscombe's non-observational knowledge criterion or replace belief with emotion."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The author uses moderate certainty: 'I argue', 'it seems', 'I will show', 'we can hold'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Davidson",
+      "Hursthouse",
+      "Anscombe"
+    ],
+    "evidence_type": "Thought experiments (e.g., destroying a TV, throwing a computer), analogies (drunk driving, reflex actions), and conceptual analysis.",
+    "named_thought_experiments": [
+      "Bert throwing his computer out the window",
+      "Lawrence strangling his friend",
+      "Rock-climbing rope example (from Davidson)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The paper is grounded in the philosophy of action, specifically the debate between causalist (Davidson) and non-causalist (Hursthouse) accounts of intentional action.",
+    "sentiment": "The author defends a Davidsonian causalist view against Hursthouse's challenge.",
+    "thematic_focus": "The nature of intentional action, the role of emotion, and moral responsibility."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The paper follows a standard philosophical essay structure: Introduction (thesis), Section I (Davidson's theory), Section II (Hursthouse's objection), Section III (Author's objection and pre-named/post-named distinction), Section IV (Objections and responses), Section V (Conclusion)."
+  },
+  "summary_of_core_decisions": "The author's central move is to introduce a temporal distinction in emotional awareness: before naming an emotion, actions are unintentional and lack belief-desire pairs; after naming, they are intentional and fit Davidson's account. This dissolves Hursthouse's counterexamples. The author then addresses moral responsibility by arguing that agents can indirectly control pre-named actions through intentional emotion management, and rebuts potential redefinitions of intentionality by showing they either collapse into the post-named case or lack a positive account.",
+  "thesis_commitment": {
+    "conclusion_type": "The thesis is a negative claim against Hursthouse: arational actions as defined do not exist; they are either post-named (intentional) or pre-named (unintentional).",
+    "hedging_density_in_final_paragraph": "The conclusion is moderately hedged: 'If Hursthouse is unable to do this, the pre-named account stands as the best way to explain actions of this nature.'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "bloom-explaining_emotional_outbursts.txt"
+}

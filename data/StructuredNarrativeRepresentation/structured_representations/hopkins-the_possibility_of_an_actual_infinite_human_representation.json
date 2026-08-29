@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Refutation of opposing arguments through logical critique and counterexamples, followed by a constructive defense of LDS theology.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often embedded in critiques of Craig's arguments rather than stated as formal premises."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with specific claims, cites sources, and anticipates objections.",
+    "logical_relevance": "High: each section directly addresses Craig's arguments or Beckwith and Parrish's use of them.",
+    "premise_acceptability": "Mixed: relies on LDS theological assumptions that may not be shared by opponents, but also uses standard philosophical distinctions."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Actual vs. potential infinite",
+      "Mathematical vs. ontological existence",
+      "Absurdity vs. impossibility",
+      "Finite vs. infinite processes",
+      "Scientific assumptions vs. religious beliefs"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Actual infinite: a complete, determinate whole (e.g., set of all natural numbers)",
+      "Potential infinite: a magnitude that can be indefinitely extended",
+      "Principle of Correspondence: sets are equinumerous if their members can be paired one-to-one"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Anticipates objections (e.g., square-circle analogy) and responds by distinguishing between internal contradiction and counter-intuitiveness.",
+    "objections_raised": [
+      "Craig's absurdities are merely counter-intuitive, not impossible.",
+      "Craig's successive addition argument begs the question by assuming finite time.",
+      "Scientific arguments rely on assumptions (uniformity, naturalism) that are not absolute and may not apply to LDS cosmology."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'seems', 'may', 'can be justifiably made'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Craig (for opposing view)",
+      "Smith (for counterargument)",
+      "Mackie (for critique of absurdity)",
+      "Hawking (for no-boundary proposal)",
+      "LDS scriptures (D&C, Abraham, Joseph Smith)"
+    ],
+    "evidence_type": "Philosophical arguments, scientific theories, scriptural references, logical counterexamples.",
+    "named_thought_experiments": [
+      "Hilbert's Hotel",
+      "Infinite library with books",
+      "Removing every second book"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy with a focus on logical coherence and conceptual analysis, but also incorporates theological commitments.",
+    "sentiment": "Defensive of LDS theology against philosophical critique, but not dogmatic; acknowledges limitations of human reasoning.",
+    "thematic_focus": "The nature of infinity, the relationship between science and religion, the coherence of LDS eternalism."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven refutation: introduction, two main sections (philosophical and scientific), conclusion."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to argue that Craig's arguments against an actual infinite fail because they conflate mathematical counter-intuitiveness with ontological impossibility, and that scientific arguments are limited by their assumptions. It concludes that LDS eternalism remains coherent.",
+  "thesis_commitment": {
+    "conclusion_type": "Defense of a specific position (LDS eternalism) against a specific critique.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive but acknowledges limitations of human understanding."
+  },
+  "_source_corpus": "human",
+  "_source_file": "hopkins-the_possibility_of_an_actual_infinite.txt"
+}

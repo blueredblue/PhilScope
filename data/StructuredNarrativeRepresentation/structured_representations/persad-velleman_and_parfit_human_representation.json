@@ -1,0 +1,80 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical analysis of two philosophical arguments against smoking, using counterexamples and theoretical objections to show they are overrestrictive and fail on their own terms.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate: The author reconstructs the target arguments explicitly, but his own objections are often implicit in examples and citations."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: The author engages charitably with both Parfit and Velleman, reconstructs their views fairly, and then offers both practical and theoretical objections.",
+    "logical_relevance": "High: All objections directly target the premises or implications of the reconstructed arguments.",
+    "premise_acceptability": "Mixed: The author relies on intuitions about autonomy and the value of risky projects, which may be contested, but he also cites established philosophers to support his theoretical points."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Self-affecting vs. other-affecting acts",
+      "Dignity vs. interest",
+      "Present self vs. future self",
+      "Acceptable vs. unacceptable risk",
+      "Sufficiently long life vs. too short life",
+      "Personal autonomy vs. paternalism",
+      "Mere survival vs. worthwhile life"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Parfit's successive-selves model of personal identity",
+      "Velleman's notion of dignity as a value differing in kind from interest"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author anticipates possible responses (e.g., defining 'sufficiently long life' or 'acceptable risk') and dismisses them as arbitrary, but does not fully develop a systematic reply.",
+    "objections_raised": [
+      "The food consumption example shows the arguments would condemn many ordinary, valuable practices.",
+      "The sumo wrestler and chef examples show the arguments are overrestrictive.",
+      "Velleman's view makes a fetish of length of life, ignoring the quality of life.",
+      "Parfit's view equivocates on the nature of future selves and fails to respect the present self's rightful role.",
+      "Parfit's consequentialism might actually permit smoking in some cases, undermining his absolute prohibition."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: The author uses phrases like 'I suggest', 'I believe', 'seems to imply', 'strikes me as', indicating a measured, non-dogmatic tone.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Arneson",
+      "Feinberg",
+      "McMahan",
+      "Benatar",
+      "Shiffrin",
+      "Posner"
+    ],
+    "evidence_type": "Philosophical thought experiments, practical examples, citations of empirical studies (e.g., dietary carcinogens, caloric restriction), and appeals to intuitions.",
+    "named_thought_experiments": [
+      "The boy who starts smoking (Parfit's example)",
+      "Velleman's vignette of the philosopher smoking",
+      "The food consumption example",
+      "The sumo wrestler example",
+      "The chef preparing puffer fish",
+      "The deepwater diver example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, with a focus on practical ethics, personal identity, and paternalism.",
+    "sentiment": "Anti-paternalistic, autonomy-respecting, critical of overly broad moral prohibitions on self-regarding conduct.",
+    "thematic_focus": "The limits of moral arguments against imprudent self-affecting actions; the tension between autonomy and paternalistic justifications."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction \u2013 Exposition of target arguments \u2013 First critique (autonomy restriction) \u2013 Second critique (theoretical problems) \u2013 Conclusion with broader implications."
+  },
+  "summary_of_core_decisions": "The author's central move is to show that Parfit's and Velleman's arguments, if taken seriously, would condemn not just smoking but many ordinary, valuable activities (like eating certain foods or engaging in risky sports). This reveals that their arguments are overrestrictive and rest on dubious theoretical assumptions. The author concludes that smoking is wrong only when it harms others, not for the reasons Parfit and Velleman offer.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative critique: The author argues against specific arguments, not for a comprehensive alternative theory.",
+    "hedging_density_in_final_paragraph": "Moderate: The author acknowledges that smoking can be wrong, but only when it affects others, and he calls for greater sensitivity in condemning imprudent self-affecting acts."
+  },
+  "_source_corpus": "human",
+  "_source_file": "persad-velleman_and_parfit.txt"
+}

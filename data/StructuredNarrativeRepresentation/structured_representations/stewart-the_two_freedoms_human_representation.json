@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Analytic resolution of an apparent contradiction through conceptual distinction and textual interpretation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - many premises are implicit in Kant's quotes and the author's commentary"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the author fairly presents the contradiction and then resolves it without strawmanning",
+    "logical_relevance": "All premises directly support the resolution of the contradiction and the symbolic conclusion",
+    "premise_acceptability": "High - relies on standard Kantian distinctions and accepted secondary literature (Guyer)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Reproductive vs. productive imagination",
+      "Negative vs. positive freedom",
+      "Acting in accordance with law vs. from law",
+      "Phenomenological vs. ontological relationship of faculties",
+      "Schema vs. symbol"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Negative freedom: freedom from constraint of concepts",
+      "Positive freedom: active movement beyond concepts",
+      "Productive imagination: faculty that can furnish arbitrary forms",
+      "Symbol: indirect presentation of a concept via analogy"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates the objection that the imagination is always subordinated to understanding (from the first Critique) and responds by distinguishing phenomenological from ontological subordination.",
+    "objections_raised": [
+      "If imagination conforms to laws of understanding in aesthetic judgment, then it is no different from cognition.",
+      "The first Critique seems to subordinate imagination to understanding, contradicting the third Critique's claim that understanding serves imagination."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'seems', 'apparent', 'can be resolved'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant's texts (Critique of Judgment, Critique of Pure Reason)",
+      "Paul Guyer's secondary literature"
+    ],
+    "evidence_type": "Textual evidence (direct quotes) and conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian transcendental philosophy",
+    "sentiment": "Analytic and exegetical",
+    "thematic_focus": "Aesthetics, freedom, moral symbolism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive refinement: contradiction \u2192 resolution \u2192 clarification \u2192 symbolic extension"
+  },
+  "summary_of_core_decisions": "The essay resolves the apparent contradiction between the freedom of imagination and its lawfulness in aesthetic judgment by distinguishing between reproductive and productive imagination, and between negative and positive freedom. The productive imagination freely produces forms that happen to accord with the understanding's law, without being determined by it. This resolution is then used to explain how beauty symbolizes morality, as the free yet law-like harmony of the faculties mirrors the free yet moral will.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis about Kant's aesthetics",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive about the significance of the third Critique"
+  },
+  "_source_corpus": "human",
+  "_source_file": "stewart-the_two_freedoms.txt"
+}

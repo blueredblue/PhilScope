@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Socratic dialectic is a virtuous, transformative practice because it combines elenchus (refutation) and psychagogia (soul-leading) to produce aporia, which cures dogmatism and reorients desire; its normative power is neither purely intrinsic nor purely extrinsic but emerges from a feedback loop between initial moral openness and the internal mechanics of inquiry.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "medium-high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "elenchus vs. psychagogia",
+      "aporia as failure vs. aporia as generative",
+      "dialectic vs. eristic sophistry",
+      "internalist vs. externalist normative account",
+      "mechanical transformation vs. ethical motivation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "elenchus",
+      "psychagogia",
+      "aporia",
+      "eristic",
+      "philia",
+      "psychepimeleia"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "explicit",
+    "objections_raised": [
+      "Socratic ignorance vs. claim to improve others",
+      "aporia appears as failure",
+      "dialectic vs. sophistry both use language",
+      "intrinsic vs. extrinsic normative power"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato",
+      "Socrates",
+      "Gregory Vlastos"
+    ],
+    "evidence_type": "textual interpretation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Platonic",
+    "sentiment": "normative",
+    "thematic_focus": "moral psychology and epistemology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis-driven with contrast and synthesis"
+  },
+  "summary_of_core_decisions": "The text argues that Socratic dialectic is a virtuous, transformative practice because it combines elenchus (refutation) and psychagogia (soul-leading) to produce aporia, which cures dogmatism and reorients desire; its normative power is neither purely intrinsic nor purely extrinsic but emerges from a feedback loop between initial moral openness and the internal mechanics of inquiry.",
+  "thesis_commitment": {
+    "conclusion_type": "synthetic",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "andersen-the_virtue_of_socratic_dialectic_gemini-3.5-flash-lite.txt"
+}

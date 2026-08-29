@@ -1,0 +1,80 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper employs a dialectical structure: it presents the skeptical argument, evaluates two anti-skeptical responses (Moore and Dretske), introduces contextualism as a third response, then raises four original objections against contextualism, concluding that these objections must be resolved before contextualism is accepted.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Premises are explicitly stated in the formalization of the skeptical hypothesis (SH) and in the objections, but some implicit assumptions (e.g., the nature of context) are left unstated and critiqued."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The paper fairly represents opposing views (Moore, Dretske, DeRose, Cohen) and acknowledges their strengths before critiquing them. It also concedes that some objections may not be fatal but require addressing.",
+    "logical_relevance": "All objections directly target contextualism's core claims: the possibility of knowing not-D, the role of context, the truth-value of knowledge ascriptions, and the question-begging nature of the theory.",
+    "premise_acceptability": "The premises of the objections rely on intuitive cases (e.g., Henry's barns, Smith's shoes) and on the internal consistency of contextualism. Some premises (e.g., that considering D always invokes SH) are debatable but defended."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Contextualism vs. invariantism",
+      "Ordinary vs. restrictive epistemic standards",
+      "Alleged vs. genuine contradictions",
+      "Skeptical hypothesis (SH) vs. ordinary knowledge (O)",
+      "Deductive closure (DC) vs. semi-penetrating closure",
+      "Moorean denial vs. Dretskean denial"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Skeptical hypothesis (SH): the claim that one does not know not-D and that this entails not knowing O.",
+      "Deductive closure (DC): knowledge is closed under logical implication.",
+      "Contextualism: the truth-value of knowledge ascriptions depends on the contextually determined standards.",
+      "Abominable conjunction: knowing O while not knowing not-D, which arises if DC is denied."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The paper raises objections but does not attempt to rebut them; it explicitly states they need resolution. It does mention DeRose's response to the 'correct standards' objection, but that is part of outlining contextualism, not a reply to the paper's own objections.",
+    "objections_raised": [
+      "Contextualists cannot claim to know not-D even in ordinary contexts because considering D invokes SH, which prevents knowing not-D.",
+      "Contextualism lacks a general theory of how context determines standards and how to recognize context shifts.",
+      "Contextualism entails that one can know false propositions (e.g., Henry's barns, Smith's home) if no skeptical hypothesis is raised, which is counterintuitive.",
+      "Contextualists beg the question against the skeptic by assuming O-type beliefs are sensitive, and they cannot refute the skeptic on the skeptic's own grounds."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The paper uses cautious language: 'seems', 'I think', 'I maintain', 'it appears', 'I am not so convinced', 'must be resolved'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "DeRose",
+      "Cohen",
+      "Dretske",
+      "Moore",
+      "Wittgenstein",
+      "Stine",
+      "Goldman",
+      "Nozick",
+      "Putnam"
+    ],
+    "evidence_type": "Thought experiments (sister's height, Smith's shoes, Henry's barns), formalization of skeptical argument, appeal to ordinary language intuitions, and critical analysis of existing positions.",
+    "named_thought_experiments": [
+      "Sister's height (doctor vs. modeling agency)",
+      "Smith's shoes (ordinary vs. court context)",
+      "Henry's barns (fake barns)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, epistemology, philosophy of language (semantics of 'know').",
+    "sentiment": "Critical but constructive; aims to advance the debate by identifying gaps in contextualism.",
+    "thematic_focus": "Skepticism, contextualism, knowledge ascriptions, epistemic standards, closure principle."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The paper is divided into sections: Introduction (skeptical argument), Moorean Denial, Dretskean Denial, General Outline of Contextualism, Some Reservations About Contextualism, and Conclusion. Each section is clearly labeled."
+  },
+  "summary_of_core_decisions": "The paper's core thesis is that contextualism, despite its advantages over Moore and Dretske, faces four unresolved objections that undermine its adequacy as a response to skepticism. The paper does not defend contextualism but rather critiques it, leaving the burden on contextualists to address the objections.",
+  "thesis_commitment": {
+    "conclusion_type": "Critical evaluation",
+    "hedging_density_in_final_paragraph": "The final paragraph states that contextualists have not given adequate reason to adopt the theory until objections are resolved, using cautious language like 'I have demonstrated' and 'must be resolved'."
+  },
+  "_source_corpus": "human",
+  "_source_file": "hannon-ascribing_knowledge_in_context.txt"
+}

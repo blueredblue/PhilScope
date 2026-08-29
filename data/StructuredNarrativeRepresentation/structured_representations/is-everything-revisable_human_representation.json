@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum (modal)",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Mixed (some premises explicitly stated, others implicit in modal logic assumptions)"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High (anticipates and addresses objections, e.g., empirical necessities, epistemic logic)",
+    "logical_relevance": "High (all premises and inferences directly support the thesis)",
+    "premise_acceptability": "Moderate (relies on controversial assumptions about propositions and modal logic, but defends them)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Wide vs. narrow scope of universal revisability",
+      "Omissive vs. commissive revisability",
+      "Object-language vs. meta-language",
+      "Contingent vs. necessary revisability"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Revisability (omissive): S revises p at t iff S believed p up to t, but at t no longer believes p, based on good reasons.",
+      "Wide-scope reading: \u25ca \u2200p Rev p (It is possible to revise all propositions simultaneously).",
+      "Narrow-scope reading: \u2200p \u25ca Rev p (Each proposition is possibly revised)."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Directly addresses objections (e.g., empirical necessities, epistemic logic) and provides rebuttals.",
+    "objections_raised": [
+      "Empirical necessities (e.g., 'Mark Twain = Samuel Clemens') might be rationally denied.",
+      "Colyvan's objection that the argument relies on S5, which is inappropriate for epistemic logic."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low (uses 'plausible', 'seems', 'I think' sparingly)",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine",
+      "Kripke",
+      "Colyvan",
+      "Chase",
+      "Resnik & Orlandi",
+      "Ebbs",
+      "Elstein",
+      "Tamminga & Verhaegh"
+    ],
+    "evidence_type": "A priori reasoning, modal logic, thought experiments",
+    "named_thought_experiments": [
+      "18th-century mathematician considering Fermat's conjecture",
+      "Misleading information about Mark Twain and Samuel Clemens"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, logic, epistemology",
+    "sentiment": "Neutral/analytic",
+    "thematic_focus": "Quinean revisability, modal logic, paradox"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sequential (introduction, two main arguments, conclusion, acknowledgments, references)"
+  },
+  "summary_of_core_decisions": "The paper argues that universal revisability (both wide and narrow scope) is false and leads to contradictions. It uses modal logic (S5) and assumptions about propositions to derive the contradiction. It concludes that radical revisability should be rejected, and only a restricted, non-ad-hoc version might be plausible.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative (rejects universal revisability)",
+    "hedging_density_in_final_paragraph": "Low (states conclusion firmly: 'radically revise radical revisability')"
+  },
+  "_source_corpus": "human",
+  "_source_file": "is-everything-revisable.txt"
+}

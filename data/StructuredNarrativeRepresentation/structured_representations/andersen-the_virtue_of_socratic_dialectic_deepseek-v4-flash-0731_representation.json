@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conditional and disjunctive reasoning leading to a nuanced synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in dialectical contrasts and textual examples"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing positions and textual counterexamples",
+    "logical_relevance": "High - all distinctions and examples bear directly on the central question",
+    "premise_acceptability": "Moderate - relies on contested Platonic interpretations and the assumption that aporia has moral psychological force"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Elenchus vs. psychagogia",
+      "Dialectic vs. eristic sophistry",
+      "Necessary vs. sufficient condition",
+      "Intellectual virtue vs. moral status",
+      "Protreptic catalyst vs. automatic transformation",
+      "Friendship (philia) vs. enmity",
+      "Recognition of ignorance vs. epistemic arrogance",
+      "Intent to learn vs. intent to win",
+      "Aporia as negative definition vs. final definition"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Elenchus: refutation that exposes contradictions in beliefs",
+      "Psychagogia: soul-leading that guides interlocutor toward latent understanding",
+      "Aporia: state of perplexity marking the boundary of current understanding",
+      "Protreptic: catalytic exercise that forces confrontation with one's ignorance"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly rejects two extreme positions: (1) dialectic inherently transforms, (2) dialectic's value is entirely external; then synthesizes them",
+    "objections_raised": [
+      "If virtue is knowledge, dialectic should automatically produce virtue",
+      "Dialectic is morally neutral and can be used by sophists",
+      "Aporia may simply cause frustration or dogmatic retreat",
+      "Callicles' case shows dialectic failing to improve a participant"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'argue', 'reveals', 'demands', 'is contingent'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's dialogues: Gorgias, Meno, Euthyphro, Apology, Euthydemus"
+    ],
+    "evidence_type": "Textual interpretation and conceptual contrast",
+    "named_thought_experiments": [
+      "Coherent system of evil surviving elenchus",
+      "Hammer analogy for morally neutral tool"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and Socratic intellectualism",
+    "sentiment": "Normative and exhortative",
+    "thematic_focus": "Ethics of philosophical method; protreptic function of dialectic"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with contrast and synthesis"
+  },
+  "summary_of_core_decisions": "The text argues that Socratic dialectic is a necessary but not sufficient condition for moral improvement. It functions as a protreptic crucible: it forces a confrontation with ignorance and demands an ethical choice, but whether it yields virtue depends on the practitioner's prior orientation toward the good. The argument is built on distinctions between elenchus and psychagogia, dialectic and sophistry, and intellectual versus moral virtue, and it uses Platonic dialogues as evidence to support a nuanced middle position.",
+  "thesis_commitment": {
+    "conclusion_type": "Nuanced normative claim",
+    "hedging_density_in_final_paragraph": "Moderate - uses 'necessary', 'not sufficient', 'contingent', 'depends upon'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "andersen-the_virtue_of_socratic_dialectic_deepseek-v4-flash-0731.txt"
+}

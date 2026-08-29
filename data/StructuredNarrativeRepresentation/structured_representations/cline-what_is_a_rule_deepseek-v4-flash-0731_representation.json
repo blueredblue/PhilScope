@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical structure: it first presents a tempting but flawed picture (rules as essences), exposes its paradox, then offers a therapeutic resolution through practice and family resemblance, and finally draws out the normative implications.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate: premises are often embedded in illustrative examples and rhetorical questions rather than formalized steps."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text anticipates and addresses the Kripkean skeptical paradox, and uses musical cases to test the theory.",
+    "logical_relevance": "Strong: all examples and analyses directly serve the central claim about rules and practice.",
+    "premise_acceptability": "High for a Wittgensteinian framework; the musical examples are intuitively compelling and widely accepted."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Essence vs. practice",
+      "Interpretation vs. technique",
+      "Definition vs. use",
+      "Rule as thing vs. rule as pattern of action",
+      "Solving vs. dissolving a philosophical problem"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Rule-following paradox: no course of action can be determined by a rule because every action can be made to accord with it.",
+      "Family resemblance: overlapping similarities without a single common essence.",
+      "Agreement in judgments: shared form of life, not mere opinion."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text directly addresses the objection that abandoning essences leads to relativism, and responds by grounding normativity in communal practice rather than metaphysical facts.",
+    "objections_raised": [
+      "Kripke's skeptical paradox: if no fact constitutes rule meaning, then no action is objectively correct.",
+      "The worry that family resemblance makes rules too vague to distinguish correct from incorrect performance."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses 'we see', 'we realize', 'perhaps' and avoids dogmatic claims.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Wittgenstein (Philosophical Investigations, Remarks on the Foundations of Mathematics)",
+      "Saul Kripke (as interlocutor)"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, musical examples, ordinary language observations.",
+    "named_thought_experiments": [
+      "The 'add 2' rule and the possibility of 'quadding'",
+      "Schubert's staccato markings",
+      "Beethoven's metronome marks (Hammerklavier, Eroica)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatist and ordinary-language philosophy, with a strong Wittgensteinian influence.",
+    "sentiment": "Anti-essentialist, anti-Platonist, practice-based, therapeutic.",
+    "thematic_focus": "Philosophy of language, philosophy of mind, aesthetics, normativity."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned essay with an introduction, five numbered parts, and a conclusion."
+  },
+  "summary_of_core_decisions": "The text's core decision is to treat rules not as abstract entities requiring interpretation, but as embodied techniques learned through practice. It uses music as the central laboratory to show that rule-following is a creative, communal, and normative activity. The 'essence' of a rule is not a hidden formula but the regular pattern of a shared form of life.",
+  "thesis_commitment": {
+    "conclusion_type": "Therapeutic dissolution rather than constructive theory-building.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is confident and poetic, not hedged."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "cline-what_is_a_rule_deepseek-v4-flash-0731.txt"
+}

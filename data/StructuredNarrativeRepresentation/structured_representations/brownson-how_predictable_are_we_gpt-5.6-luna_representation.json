@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical critique with constructive alternative",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: key premises are stated but often embedded in illustrative examples and dialectical replies"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: objections and replies are considered fairly, with concessions to Dennett and empathy",
+    "logical_relevance": "High: all major moves bear directly on the rationality assumption and its alternatives",
+    "premise_acceptability": "Moderate: some empirical claims about human irrationality and evolutionary by-products are plausible but not fully defended"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Physical stance vs design stance vs intentional stance",
+      "Rationality vs intelligibility",
+      "Adaptation vs by-product/spandrel",
+      "Optimality vs bounded rationality",
+      "Prediction vs post hoc redescription",
+      "Empathy vs projection",
+      "Intentional system vs optimally rational agent"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Intentional stance: predicting behavior by attributing beliefs, desires, and rationality",
+      "Spandrel: a trait that arises as a by-product of architectural/evolutionary constraints, not as a directly selected adaptation",
+      "Empathetic question: 'What would I do in that situation, if I were like him?'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Acknowledges Dennett's possible replies (bounded rationality, pragmatic prediction) and empathy's limitations, then offers qualified responses",
+    "objections_raised": [
+      "Dennett could appeal to bounded rationality",
+      "Dennett could treat prediction as pragmatic and average-successful",
+      "Empathy may be unreliable, projective, post hoc, or morally dangerous"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'may', 'can', 'tends', 'often', 'not necessarily'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Dennett",
+      "Gould and Lewontin",
+      "Stich"
+    ],
+    "evidence_type": "Conceptual analysis, empirical examples of cognitive biases, evolutionary reasoning, thought experiments",
+    "named_thought_experiments": [
+      "Smoking despite desiring health",
+      "Procrastination despite wanting to study",
+      "Refusing medical treatment due to hospital phobia"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic and pragmatic, with emphasis on empirical psychology and evolutionary biology",
+    "sentiment": "Critical but constructive; aims to preserve intentional explanation while correcting its idealization",
+    "thematic_focus": "Rationality, prediction, empathy, adaptationism, cognitive imperfection"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with layered objections and replies"
+  },
+  "summary_of_core_decisions": "The text defends a pluralistic, empathy-informed intentional explanation over strict rational-optimality models, while retaining Dennett's insight that beliefs and desires are indispensable.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative recommendation",
+    "hedging_density_in_final_paragraph": "Moderate: 'may', 'should', 'not necessarily'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "brownson-how_predictable_are_we_gpt-5.6-luna.txt"
+}

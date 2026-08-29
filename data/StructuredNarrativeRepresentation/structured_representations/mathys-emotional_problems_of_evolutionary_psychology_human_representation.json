@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum and transcendental-style argument",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: key premises are stated as Taylorian claims, but some are left implicit"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with opposing views and uses internal tensions",
+    "logical_relevance": "High: all arguments directly support the thesis",
+    "premise_acceptability": "Moderate: relies on expressivist framework that opponents may reject"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Instrumentalist vs expressivist language",
+      "Designative vs subject-referring properties",
+      "Objective vs non-objective phenomena",
+      "Literal vs figurative/metaphorical language",
+      "Folk psychology vs evo-psych re-description",
+      "Constitution vs mere labeling"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Import-ascriptions",
+      "Subject-referring feelings",
+      "Instrumentalist view of language",
+      "Expressivist framework"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Anticipates and rebuts the objection that emotions are objective physical states; uses internal admissions of evo-psych writers",
+    "objections_raised": [
+      "Emotions are objective physical phenomena independent of language",
+      "Evo-psych explains evolutionary logic, not the emotion itself",
+      "Metaphorical language can be dismissed as mere figure of speech"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'I hope the reader would readily answer' and 'seems'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Charles Taylor",
+      "Paul de Man",
+      "Hannah Arendt",
+      "Gould and Lewontin"
+    ],
+    "evidence_type": "Conceptual analysis, ordinary-language examples, thought experiments, internal critique",
+    "named_thought_experiments": [
+      "Man who says 'terrifying situation, but I wasn't frightened'",
+      "Joe and Liz honeymoon/cooking example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Expressivist, anti-instrumentalist, hermeneutic",
+    "sentiment": "Critical of naturalistic reductionism in human sciences",
+    "thematic_focus": "Philosophy of emotion, philosophy of language, philosophy of science"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with progressive sections: instrumentalism, expressivism, self-undermining consequence, concrete case, conclusion"
+  },
+  "summary_of_core_decisions": "The article's core decision is to treat emotions as linguistically constituted, subject-referring phenomena and to use this as a criterion for judging evolutionary psychology. It deliberately avoids empirical refutation and instead argues that evo-psych's own metaphors and admissions undermine its objectivist pretensions. The final decision is to demand that evo-psych's claims be evaluated as transformative reinterpretations, not as neutral descriptions.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative critique with positive alternative",
+    "hedging_density_in_final_paragraph": "Low: final paragraphs are assertive about the failure of ultra-Darwinism"
+  },
+  "_source_corpus": "human",
+  "_source_file": "mathys-emotional_problems_of_evolutionary_psychology.txt"
+}

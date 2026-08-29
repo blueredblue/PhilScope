@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate to high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Formal vs. substantive consent",
+      "Procedural vs. substantive neutrality",
+      "Toleration vs. indifference",
+      "Direct prohibition vs. cultivation of alternatives",
+      "Comprehensive doctrine vs. public reason"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Public reason",
+      "Reasonable pluralism",
+      "Instrumental value of culture",
+      "Contextual assessment of consent",
+      "Public justifiability"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic",
+    "objections_raised": [
+      "Cultural imperialism",
+      "Paternalism",
+      "Epistemic impossibility of assessing consent"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Rawls",
+      "Okin"
+    ],
+    "evidence_type": "Conceptual and normative",
+    "named_thought_experiments": [
+      "Arranged marriage case"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Rawlsian political liberalism",
+    "sentiment": "Liberal egalitarian",
+    "thematic_focus": "Multiculturalism, toleration, public reason, autonomy, consent"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis\u2013antithesis\u2013synthesis with applied case and objections/replies"
+  },
+  "summary_of_core_decisions": "The essay resolves the multiculturalism\u2013feminism tension by making basic rights non-negotiable, requiring contextual consent for autonomy-restricting practices, and demanding public justifiability for all accommodations. It rejects both unlimited toleration and assimilationism, favoring principled engagement.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative framework",
+    "hedging_density_in_final_paragraph": "Low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "cox-the_limits_of_toleration_ling-3.0-flash-free.txt"
+}

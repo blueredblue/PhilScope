@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical escalation from Sartrean impasse through Tillichian indeterminacy and Irigarayan alterity to a synthetic resolution in mutual transcendence.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High: each stage explicitly states the failure of prior model and the need for a new ontological grounding."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong: the text systematically moves from objectification to indeterminacy to carnal duality, then resolves the tension through a rhythm of preparation and relinquishment.",
+    "logical_relevance": "High: all sections directly serve the thesis that communication requires moving beyond Sartrean mutual objectification.",
+    "premise_acceptability": "Moderate: relies on existential-phenomenological and feminist-theological commitments that may not be universally accepted."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "pour-soi vs en-soi",
+      "objectification vs indeterminacy",
+      "static approximation vs dynamic dialogue",
+      "I-It vs I-Thou",
+      "domination vs mutual transcendence",
+      "self-preservation vs mutual change",
+      "monism vs the two",
+      "fusion vs alterity",
+      "mastery vs vulnerability"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "mutual transcendence: ecstatic movement of the self beyond current boundaries toward the Other, resulting in transformed being for both",
+      "static approximation: preliminary conceptual categorization of the Other necessary for finite consciousness",
+      "relinquishment: voluntary surrender of static approximations in the face of the Other's living indeterminacy"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates Sartrean objections (e.g., mutual change as utopian) and answers by reinterpreting domination as fear-driven pathology rather than ontological necessity.",
+    "objections_raised": [
+      "Sartre would view anticipation of mutual change as a utopian illusion",
+      "Preliminary objectification appears to repeat the very violence being escaped"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses 'requires', 'must', 'definitive condition', 'ontological necessity'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Jean-Paul Sartre",
+      "Paul Tillich",
+      "Luce Irigaray",
+      "Martin Buber",
+      "Emmanuel Levinas"
+    ],
+    "evidence_type": "Phenomenological description, existential ontology, feminist philosophy, theological concepts, dialogical philosophy.",
+    "named_thought_experiments": [
+      "Sartre's voyeur at the keyhole",
+      "Buber's I-It/I-Thou distinction"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Existential phenomenology, relational ontology, feminist philosophy, theological personalism.",
+    "sentiment": "Normative and therapeutic: seeks to redeem communication from agonistic conflict.",
+    "thematic_focus": "Interpersonal communication, alterity, mutual transcendence, the in-between."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven dialectical essay with numbered parts and conclusion."
+  },
+  "summary_of_core_decisions": "The text diagnoses Sartre's mutual objectification as the baseline problem, adopts Tillich's indeterminacy and Irigaray's 'two' as correctives, and resolves the tension by distinguishing necessary static approximations from the ethical act of relinquishment, culminating in mutual transcendence as the ontological condition of authentic communication.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative ontological claim",
+    "hedging_density_in_final_paragraph": "Low: final paragraph asserts the thesis as definitive condition for authentic human life."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "butcher-the_subject_subject_relationship_gemini-3.5-flash-lite.txt"
+}

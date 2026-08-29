@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical: problem \u2192 proposed solution \u2192 objections \u2192 responses \u2192 qualified defense",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate: premises are stated but often embedded in prose; key assumptions are flagged as disputable"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: objections are presented fairly and responses are assessed with costs",
+    "logical_relevance": "High: all sections bear directly on the viability of desertist prayer",
+    "premise_acceptability": "Low to moderate: relies on controversial theological and moral premises (effort-based desert, grace, providence)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "distributive vs interpersonal desert",
+      "strict vs prima facie desert",
+      "causal vs normative significance",
+      "effort vs mere exertion",
+      "desert vs fittingness",
+      "pointlessness as causal, reason-giving, or theological"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "prima facie desert: a small, defeasible reason for a fitting response",
+      "secondary cause: an eternally ordained creaturely means through which God's plan is realized"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Each objection is acknowledged and either partially accepted or deflected by weakening the desert claim",
+    "objections_raised": [
+      "Rawlsian challenge: prayer depends on unearned circumstances",
+      "Low-cost ritual objection: mere asking seems insufficient for desert",
+      "Counterfactual dependence problem: conditional gifts seem harsh or vacuous",
+      "Unfalsifiability objection: flexible providence makes the theory untestable"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'may', 'can', 'appears', 'plausible', 'qualified'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aquinas",
+      "Gregory the Great",
+      "Rawls"
+    ],
+    "evidence_type": "Conceptual analysis, theological authority, analogical reasoning, dialectical testing",
+    "named_thought_experiments": [
+      "Human analogy of respectful request to a friend",
+      "Two equally suffering people, one prayed for and one not"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of religion with historical theology",
+    "sentiment": "Neutral-critical: defends a qualified version but denies self-sufficiency",
+    "thematic_focus": "Petitionary prayer, divine foreknowledge, providence, desert, grace, justice"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections and a conclusion"
+  },
+  "summary_of_core_decisions": "The text argues that Hill's desertist solution can rescue petitionary prayer from pointlessness only within a Thomistic-Christian metaphysics, not as a neutral philosophical theory. It accepts a weak, relational, grace-dependent form of prima facie desert as the most defensible version.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "High: 'qualified', 'may', 'can', 'should be presented as theologically embedded'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "aquinas-and-gregory-the-great-on-the-puzzle-of-petitionary_gpt-5.6-luna.txt"
+}

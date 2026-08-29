@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against stage theory's semantic claims",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are clearly stated and defended"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with multiple alternative views and anticipates objections",
+    "logical_relevance": "All arguments directly target the coherence of stage theory with natural language tense semantics",
+    "premise_acceptability": "Premises rely on widely accepted linguistic data and syntactic/semantic theories"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Quantificational vs. operator vs. predicate analyses of tense",
+      "Stage theory vs. endurance/perdurance",
+      "Syntactic vs. semantic modification",
+      "De re vs. de dicto readings"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Stage theory: ordinary objects are instantaneous temporal stages",
+      "Quantificational tense: tense expressions are quantifiers over times",
+      "Operator tense: tense expressions are modal operators",
+      "Predicate tense: tense expressions are predicate modifiers"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Considers and rejects three alternative tense semantics (quantificational, operator, predicate) as incompatible with stage theory",
+    "objections_raised": [
+      "Quantificational analysis fails due to insufficient names for multiple temporal variables",
+      "Operator analysis fails due to inability to scope over individual verbs without sentential conjunction",
+      "Predicate analysis fails due to inability to account for tense affecting noun phrase interpretation"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'I think', 'it seems', 'I doubt'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Cresswell (1991)",
+      "King (2003)",
+      "Sider (1996, 2001)",
+      "Hawley (2001)",
+      "Schlenker (2006)",
+      "Postal (1974)"
+    ],
+    "evidence_type": "Linguistic data (sentence acceptability, scope readings), syntactic structure, semantic theory",
+    "named_thought_experiments": [
+      "Kant was born and died in K\u00f6nigsberg",
+      "Every fugitive was recaptured",
+      "Everybody grows and shrinks"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, philosophy of language, metaphysics of persistence",
+    "sentiment": "Critical of stage theory, but open to alternative views",
+    "thematic_focus": "Semantics of tense and its compatibility with stage theory"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-refutation: presents stage theory's semantic claims, tests against three tense theories, finds all fail, concludes mismatch"
+  },
+  "summary_of_core_decisions": "The paper's core decision is to evaluate stage theory's semantic claims against three mainstream theories of tense, showing that none can accommodate the need for multiple temporal stages in simple conjunctions. The decisive move is the observation that tense modifies verbs, not noun phrases, creating a fundamental mismatch.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative - stage theory's semantic claims are false or at least unjustified",
+    "hedging_density_in_final_paragraph": "Low - states conclusion confidently but acknowledges possibility of future solutions"
+  },
+  "_source_corpus": "human",
+  "_source_file": "semantic-problem-for-stage-theory.txt"
+}

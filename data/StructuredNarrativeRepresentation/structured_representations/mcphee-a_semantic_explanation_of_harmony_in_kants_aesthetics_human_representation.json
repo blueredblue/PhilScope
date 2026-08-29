@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Analogical and constructive argumentation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often implicit in the flow of the essay, but key assumptions are stated (e.g., Chomsky's innatism, the musical sense of harmony)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with multiple scholars (Allison, Makkreel, Guyer, etc.) and addresses objections.",
+    "logical_relevance": "High - each section builds toward the semantic translation thesis.",
+    "premise_acceptability": "Moderate - relies on contested interpretations of Kant and Chomsky's theory, but the author acknowledges and defends them."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Epistemic vs. semantic systems",
+      "Harmony vs. free play",
+      "Judgment of cognition vs. judgment of taste",
+      "Synthesis vs. apprehension",
+      "Objects of taste vs. other objects"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Harmony (musical sense)",
+      "Semantic presentation",
+      "Tautological relation",
+      "Objects of taste (based on Guyer)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author anticipates objections (e.g., metaphorical use of harmony, the disjunction 'harmony or free play') and responds by appealing to Allison's distinction and the necessity of spatial-temporal relations.",
+    "objections_raised": [
+      "Harmony might be used metaphorically (e.g., government branches).",
+      "Kant's 'harmony or free play' might be synonymous.",
+      "Makkreel's observation severs the connection between faculties."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses phrases like 'I believe', 'I hope', 'I argue'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Chomsky",
+      "Allison",
+      "Makkreel",
+      "Guyer",
+      "Watson"
+    ],
+    "evidence_type": "Textual evidence from Kant and secondary literature, plus illustrative examples (polar bear, musical notes).",
+    "named_thought_experiments": [
+      "Polar bear example",
+      "Musical notes C and E"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy with a focus on conceptual clarity and semantic reinterpretation.",
+    "sentiment": "Neutral, constructive",
+    "thematic_focus": "Aesthetics, philosophy of language, Kant interpretation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive refinement: introduction of paradox, analysis of harmony, proposal of semantic model, application, conclusion."
+  },
+  "summary_of_core_decisions": "The essay identifies a flaw in Kant's use of 'harmony' in an epistemic context, argues that harmony requires spatial-temporal relations which the faculties lack, and proposes a semantic translation using Chomsky's innatism to resolve the paradoxes. It engages with secondary literature and applies the model to explain beauty and ugliness.",
+  "thesis_commitment": {
+    "conclusion_type": "Theoretical proposal",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive: 'a simple but fundamental flaw has been a major source of contention.'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "mcphee-a_semantic_explanation_of_harmony_in_kants_aesthetics.txt"
+}

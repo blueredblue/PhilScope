@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "conditional_analogical",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "mixed_explicit_and_implicit"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_contested_but_defended"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "pathological_vs_normal_case",
+      "formal_vs_informal_system",
+      "exclusion_vs_inclusion",
+      "solution_vs_system_construction",
+      "ad_hoc_vs_principled_exclusion"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "pathological_case",
+      "positive_criteria",
+      "negative_criteria",
+      "exclusion_solution",
+      "inclusion_solution"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "explicitly_acknowledges_failure_on_two_criteria_but_argues_they_are_invalidated",
+    "objections_raised": [
+      "exclusion_fails_specificity",
+      "exclusion_is_ad_hoc",
+      "exclusion_does_not_build_system",
+      "inclusion_denies_problem"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kirkham",
+      "mathematics"
+    ],
+    "evidence_type": "analogical_examples",
+    "named_thought_experiments": [
+      "Weierstrass_function",
+      "division_by_zero",
+      "liar_paradox_cycles"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "pragmatic_and_formal_analogical",
+    "sentiment": "deflationary_about_natural_language_semantics",
+    "thematic_focus": "pathology_and_exclusion"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem_criteria_analogy_application_solution_evaluation"
+  },
+  "summary_of_core_decisions": "The text treats the liar paradox as a pathological case in an informal, communication-oriented system. It uses mathematical precedents to legitimize exclusion from truth value, re-evaluates Kirkham's criteria, and rejects inclusion as too destructive.",
+  "thesis_commitment": {
+    "conclusion_type": "normative_solution_proposal",
+    "hedging_density_in_final_paragraph": "low_assertive"
+  },
+  "_source_corpus": "human",
+  "_source_file": "wilson-the_pathological_liar.txt"
+}

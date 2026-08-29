@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical challenge-and-revision structure: reconstructs the orthodox Davidsonian model, introduces Hursthouse's counterexamples, deepens the challenge through phenomenological distinctions, addresses normative objections, and concludes with a revised framework of intentionality.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderately explicit; premises are embedded in phenomenological descriptions and dialectical contrasts rather than formalized syllogisms."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the essay engages with both cognitivist and deflationary objections and attempts to show why they fail.",
+    "logical_relevance": "All major sections contribute directly to the central thesis; no irrelevant digressions.",
+    "premise_acceptability": "The phenomenological premises are plausible but contestable; the normative bridge relies on diachronic responsibility assumptions."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "arational vs irrational",
+      "pre-named vs post-named epistemic states",
+      "rational/teleological intentionality vs arational/expressive intentionality",
+      "synchronic practical reasoning vs diachronic character stewardship",
+      "direct vs indirect accountability"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "arational actions",
+      "pre-named emotional states",
+      "post-named emotional states",
+      "intentional preventative emotion moderation",
+      "non-instrumental intentionality"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates and responds to the objection that arational actions collapse into reflexes by appealing to executive motor control and contextual responsiveness.",
+    "objections_raised": [
+      "Exculpation threat: if arational actions lack beliefs/desires, agents seem not morally responsible.",
+      "Deflationary collapse: arational actions might be mere reflexes or spasms.",
+      "Cognitivist reduction: hidden beliefs/desires might still be present."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; the essay uses hedged, exploratory language ('appears', 'seems', 'must examine') rather than dogmatic assertions.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Davidson",
+      "Hursthouse",
+      "Solomon",
+      "Nussbaum"
+    ],
+    "evidence_type": "Phenomenological description, counterexamples, conceptual analysis, normative thought experiments.",
+    "named_thought_experiments": [
+      "Door-slamming out of rage",
+      "Tearing photograph out of jealousy",
+      "Hugging pillow out of grief",
+      "Knee-jerk reflex comparison"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenology of emotional experience and philosophy of action",
+    "sentiment": "Sympathetic to Hursthouse; critical of Davidsonian orthodoxy",
+    "thematic_focus": "Emotion, intentionality, moral responsibility, character"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive deepening; sections move from exposition to challenge to normative resolution to conceptual revision."
+  },
+  "summary_of_core_decisions": "The essay ultimately endorses a dual conception of intentionality: rational (belief-desire driven) and arational (emotion-driven, expressive). It preserves moral responsibility by shifting focus from local choice to diachronic emotional self-governance.",
+  "thesis_commitment": {
+    "conclusion_type": "Revisionist",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive and confident."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "bloom-explaining_emotional_outbursts_gemini-3.5-flash-lite.txt"
+}

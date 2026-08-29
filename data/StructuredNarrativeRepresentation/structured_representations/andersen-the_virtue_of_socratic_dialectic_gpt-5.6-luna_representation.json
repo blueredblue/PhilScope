@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Qualified normative thesis: Socratic dialectic is virtuous and improves practitioners, but not automatically; its value depends on internal norms and participant orientation.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are stated but often embedded in contrasts and qualifications."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: acknowledges objections, avoids extremes, and qualifies conclusions.",
+    "logical_relevance": "High: all distinctions and contrasts directly support the central thesis.",
+    "premise_acceptability": "High: premises align with common intuitions about Socratic practice and moral education."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Elenchus vs. psychagogia",
+      "Dialectic vs. eristic",
+      "Socratic irony vs. sophistic mockery",
+      "Internal norms vs. external motivations",
+      "Aporia as structured ignorance vs. empty skepticism",
+      "Formal argument vs. ethical orientation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Elenchus: testing/refutation of claims",
+      "Psychagogia: leading/guiding the soul toward truth",
+      "Eristic: argument aimed at victory",
+      "Dialectic: shared inquiry aimed at truth"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Balanced: rejects both automatic moral improvement and complete external dependence; accepts that dialectic can be mimicked and corrupted.",
+    "objections_raised": [
+      "Dialectic can be used for domination and vanity.",
+      "Aporia may become sterile or an evasion of knowledge.",
+      "Sophistry can imitate dialectic closely enough to deceive observers."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses qualified terms like 'tendency', 'can', 'under a qualified interpretation'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's dialogues (especially Euthydemus and Phaedrus)"
+    ],
+    "evidence_type": "Conceptual analysis and contrastive interpretation of Platonic texts.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and Platonic moral psychology",
+    "sentiment": "Anti-sophistic, pro-dialectical, qualified intellectualism",
+    "thematic_focus": "Moral improvement through inquiry, friendship, self-knowledge, and the limits of definition"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem\u2013distinction\u2013contrast\u2013qualified resolution"
+  },
+  "summary_of_core_decisions": "The essay defends a middle position: dialectic has an intrinsic educative tendency but not an automatic moral effect. Elenchus provides critical testing; psychagogia provides ethical direction. Sophistry in the Euthydemus shows that argumentative skill without truth-orientation corrupts. Aporia is valuable when it leads to continued inquiry, not when it becomes an endpoint. Final definitions are not necessary for moral progress; transformation of judgment and desire is the key.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "High: 'morally promising but not morally automatic', 'best understood under a qualified interpretation'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "andersen-the_virtue_of_socratic_dialectic_gpt-5.6-luna.txt"
+}

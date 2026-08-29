@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "conditional defense of a modified mereological theory",
+    "num_distinct_arguments_for_thesis": 7,
+    "premise_explicitness": "moderate; many premises are embedded in dialectical contrasts rather than numbered steps"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high; objections are anticipated and partially answered",
+    "logical_relevance": "high; each section advances the central distinction between constitution and parthood",
+    "premise_acceptability": "mixed; the key premises depend on a substantive theory of forms that is not fully developed"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "constitution vs. parthood",
+      "proper vs. improper parthood",
+      "form vs. matter",
+      "form vs. region",
+      "form vs. mereological simple",
+      "constitutional dependence vs. causal dependence",
+      "relative identity vs. form-relative inclusion",
+      "natural unity vs. arbitrary aggregate"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "C(m,b,c,F,t): material basis m constitutes compound c under form F in mode b at time t",
+      "x is in-F y: x is a constituent of y under form F"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "conditional; objections are acknowledged and answered only if forms are substantively constrained",
+    "objections_raised": [
+      "trivialization of forms",
+      "reappearance of the problem of the many",
+      "vagueness in formal unity",
+      "causal overdetermination of coincident objects",
+      "regress of forms",
+      "in-F relation being too powerful"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low; the text uses 'may', 'can', 'if', 'must', 'conditional'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "conceptual analysis, thought experiments, dialectical contrasts, modal and causal considerations",
+    "named_thought_experiments": [
+      "statue and clay",
+      "corpse vs. living organism",
+      "disassembled vs. assembled machine",
+      "statue-minus-one-atom",
+      "statue-plus-one-atom",
+      "lump plus surrounding dust"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "metaphysical; form is a principle of unity, not a linguistic or epistemic device",
+    "sentiment": "hylomorphic partism; a supplementation of mereology with form-relative constitution",
+    "thematic_focus": "material constitution, formal unity, coincident objects, problem of the many"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem-driven dialectical progression with conditional conclusion"
+  },
+  "summary_of_core_decisions": "The text defends Hylomorphic Partism as an improvement over Hudson's three-dimensionalist Partism by introducing a five-place constitution relation and an in-F relation. It argues that form is a genuine principle of unity, not a region or mereological simple, and that exact coincidence is acceptable only when distinct forms generate different modal and causal profiles. The success of the theory is conditional on a substantive account of forms that prevents trivial proliferation.",
+  "thesis_commitment": {
+    "conclusion_type": "conditional",
+    "hedging_density_in_final_paragraph": "high; the conclusion repeatedly says 'only if', 'depends on', 'best understood as'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "adrian-many_relations_and_the_problem_of_material_constitution_gpt-5.6-luna.txt"
+}

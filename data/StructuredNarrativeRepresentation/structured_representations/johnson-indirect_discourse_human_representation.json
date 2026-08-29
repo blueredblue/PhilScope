@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Counterexample-driven critique",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "report-sentence vs. content-sentence",
+      "report-clause vs. content-clause",
+      "utterance vs. proposition",
+      "demonstrative 'that' vs. complementizer 'that'",
+      "original ambiguity problem vs. deliberate-ambiguity variant"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "samesaid (x, that). u.",
+      "SAID (speaker, the proposition expressed by that). u.",
+      "report-clause: everything preceding and including 'that' in a surface indirect discourse report",
+      "content-clause: everything after 'that'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Rejects possible replies by showing they collapse into Davidson's original theory or fail to preserve ordinary indirect discourse",
+    "objections_raised": [
+      "Kemp's theory cannot handle deliberate attribution of an ambiguous utterance",
+      "Kemp's theory forces ambiguity where none is intended",
+      "Paratactic theory rests on false claim that 'that' is a demonstrative",
+      "Hungarian data show the demonstrative is superfluous and the complementizer is essential"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Davidson",
+      "Kemp",
+      "Rumfitt",
+      "Frankish",
+      "Schiffer",
+      "Segal and Speas"
+    ],
+    "evidence_type": "Linguistic and cross-linguistic evidence, counterexamples, formal notation",
+    "named_thought_experiments": [
+      "Attila and Jannai conversation",
+      "Discourse deixis with Lincoln"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language",
+    "sentiment": "Critical",
+    "thematic_focus": "Logical form of indirect discourse, parataxis, propositions, ambiguity, complementizers"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sequential critical analysis with counterexample and concluding general objection"
+  },
+  "summary_of_core_decisions": "The paper argues that Kemp's proposition-based revision of Davidson's paratactic theory fails to solve the ambiguity problem because it cannot represent cases where a speaker deliberately attributes an ambiguous utterance. It then argues that the paratactic theory is fundamentally implausible because 'that' in indirect discourse is a complementizer, not a demonstrative, and cross-linguistic evidence (especially Hungarian) undermines the two-sentence paratactic analysis.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative",
+    "hedging_density_in_final_paragraph": "Low"
+  },
+  "_source_corpus": "human",
+  "_source_file": "johnson-indirect_discourse.txt"
+}

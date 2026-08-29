@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis (Thesis-Antithesis-Synthesis) structured as a cumulative defense against a series of escalating objections.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; premises are embedded in the prose but clearly delineated by logical connectives (e.g., 'If...then...', 'Because...', 'Thus...')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High. The text fairly represents Maddy's objections before attempting to rebut them, adhering to the principle of charity.",
+    "logical_relevance": "High. Each section directly addresses a specific objection or a consequence of the proposed solution.",
+    "premise_acceptability": "Contestable but internally coherent. The key premise (separation of truth from ontology) is controversial but consistently defended via structural/deflationary realism."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Realism (truth) vs. Ontological Commitment (existence)",
+      "Epistemic Norms vs. Methodological Norms",
+      "Structural Role vs. Quinean Object",
+      "Holistic Confirmation vs. Isolated Confirmation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Quinean criterion: 'To be is to be the value of a bound variable'",
+      "Compromise naturalism: 'separating realism from ontological commitment'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic. Each section anticipates a specific counter-argument to the previous move (e.g., Section 3 addresses the truth-value objection to Section 2's separation).",
+    "objections_raised": [
+      "Maddy's mathematical practice objection (set theory not indispensable to practice)",
+      "Maddy's confirmation holism objection (cannot isolate math for confirmation)",
+      "Indeterminate truth-values objection (if no objects, how can statements be true?)",
+      "Methodological override objection (argument dictates what practitioners ought to believe)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low. The text uses cautious, conditional language (e.g., 'offers a viable defense', 'argues that', 'can be adapted').",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine",
+      "Putnam",
+      "Maddy",
+      "Shapiro",
+      "Resnik",
+      "Field"
+    ],
+    "evidence_type": "Conceptual analysis and philosophical argumentation. No empirical data is cited; evidence is derived from the logical structure of scientific and mathematical practice.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic (derives normative force from within scientific methodology).",
+    "sentiment": "Analytic, systematic, and defensive.",
+    "thematic_focus": "Philosophy of mathematics, epistemology of science, meta-ontology."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with escalating defense. The text moves from identifying a problem (Maddy's critique) to proposing a solution (separation), then defends that solution against two further objections (truth-values and normative override)."
+  },
+  "summary_of_core_decisions": "The text's core decision is to rescue the Quine-Putnam argument by redefining its conclusion. Instead of arguing for the *existence* of mathematical entities, it argues for the *truth* of mathematical propositions. This allows it to accept Maddy's naturalism about practice while rejecting her conclusion that the argument fails. The defense relies on adopting structural or deflationary realism to ground truth without ontology, and on scoping the argument's normative force to epistemic rationality rather than disciplinary methodology.",
+  "thesis_commitment": {
+    "conclusion_type": "Defense of a specific philosophical position (Compromise Naturalism) against a named critic (Maddy).",
+    "hedging_density_in_final_paragraph": "Low. The conclusion is assertive, stating that compromise naturalism 'offers a viable and philosophically robust defense'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "anderson-indispensability_and_naturalism_ling-3.0-flash-free.txt"
+}

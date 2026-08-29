@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis: The paper presents a false dichotomy (altruism vs. egoism), critiques both poles through engagement with secondary literature, and then proposes a third position (self-referential altruism) that integrates elements of both while resolving their deficiencies.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: Premises are often embedded in textual interpretation and citations, but key claims are stated directly (e.g., 'friendship is first understood in terms of one's relation to himself')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: The author engages with opposing interpretations (Cooper's altruism, Adkins' egoism) and acknowledges their partial validity, then shows their inadequacy through internal inconsistencies and textual counterexamples.",
+    "logical_relevance": "Strong: Each argument directly supports the thesis that friendship involves self-referential altruism, and objections are addressed (e.g., the ordering objection to self-concern).",
+    "premise_acceptability": "Generally acceptable to an Aristotelian scholar: Relies on standard readings of NE and EE, though some interpretations (e.g., 'another self') are contested; the author defends them briefly."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Altruism vs. egoism (as mutually exclusive vs. complementary)",
+      "Types of friendship: good, utility, pleasure",
+      "Self-referential altruism vs. pure altruism/egoism",
+      "Eudaimonia as ultimate goal vs. instrumental goods",
+      "Self-love vs. love for others",
+      "Particular vs. general benevolence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Self-referential altruism: 'a concern for the welfare of friends, relations, and personal associates, but not for all and sundry' (Kahn 20).",
+      "Another self: 'an embodiment of our happiness in a locally and temporally distinct individual' (Schollmeier 62).",
+      "Good friendship: based on virtue, loving the friend for his own sake."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author anticipates and responds to objections: (1) to the claim that friendship is rooted in self-concern (ordering objection), (2) to the idea that self-sacrifice undermines eudaimonia (reply: noble action is a greater good), (3) to the egoistic reading (reply: goods are not competitive).",
+    "objections_raised": [
+      "Cooper's altruistic view fails because he admits self-seeking in friendships.",
+      "Adkins' egoistic view fails because unconditional goods are not diminished by sharing.",
+      "The ordering objection: Aristotle may be translating friendship language to self-concern, not vice versa.",
+      "Self-sacrifice might not benefit the agent's eudaimonia."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: Uses phrases like 'I believe', 'it seems', 'perhaps', 'appears likely', but also asserts conclusions confidently.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle (primary source)",
+      "Secondary scholars: Cooper, Adkins, McKerlie, Kahn, Stern-Gillet, Schollmeier, etc."
+    ],
+    "evidence_type": "Textual exegesis, conceptual analysis, and logical argumentation.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and eudaimonism, with a focus on moral psychology and interpersonal relationships.",
+    "sentiment": "Analytic and exegetical, aiming for a balanced interpretation of Aristotle.",
+    "thematic_focus": "Friendship, altruism, egoism, self-love, eudaimonia"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical progression: Introduction \u2192 Critique of altruistic view \u2192 Critique of egoistic view \u2192 Proposal of self-referential altruism \u2192 Three supporting arguments \u2192 Conclusion."
+  },
+  "summary_of_core_decisions": "The paper's core decision is to reject the dichotomy between altruism and egoism in favor of a hybrid concept, self-referential altruism, which is grounded in Aristotle's own texts. This is achieved by showing that friendship necessarily involves self-love (via the 'another self' concept), that friends are needed for eudaimonia, and that concern is graded by closeness. The author thus synthesizes the insights of both altruistic and egoistic interpreters while avoiding their excesses.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic thesis: Aristotle's philosophy of friendship is best understood as self-referential altruism.",
+    "hedging_density_in_final_paragraph": "Low: The conclusion is stated confidently, with only minor qualifications ('perhaps', 'at any rate')."
+  },
+  "_source_corpus": "human",
+  "_source_file": "west-self_referential_altruism.txt"
+}

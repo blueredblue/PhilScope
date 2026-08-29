@@ -1,0 +1,81 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Diagnostic redefinition: identify a conceptual confusion, trace it to an outdated assumption, replace the assumption with a cognitively informed model, and then dissolve the dilemmas that arose from the confusion.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; premises are often embedded in narrative and illustrative examples rather than formal numbered premises."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with opposing views (Jackson, Searle, Nagel, McGinn) and grants partial validity to their intuitions.",
+    "logical_relevance": "Strong: each major discussion (Jackson, Searle, Nagel, McGinn) is tied to the central thesis about the concept of knowing.",
+    "premise_acceptability": "Mixed: relies on Dennett's model and a deflationary view of semantic knowledge, which are controversial but defended with examples and internal experiments."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Conceptual vs. perceptual knowing",
+      "Comprehension vs. apprehension",
+      "Syntax vs. semantics",
+      "Knowledge vs. knowing",
+      "Internal transparency vs. imperfect internal transparency",
+      "Semantic knowledge vs. syntactic/factual knowledge",
+      "Firsthand experience vs. possession of facts"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Two OED interpretations of 'know': (1) two forms\u2014comprehension and apprehension; (2) all knowing reduces to facts.",
+      "Conceptual knowing: general possession of knowledge about a thing, often in logical format.",
+      "Perceptual knowing: possession of knowledge in the format provided by sensory input subroutines."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly addresses objections by showing that the apparent two kinds of knowing are really one kind stored differently; denies the existence of semantic knowledge; and argues that cognitive closure applies to all knowledge, not just consciousness.",
+    "objections_raised": [
+      "The intuition that there are two distinct kinds of knowing.",
+      "The intuition that semantic knowledge must exist.",
+      "Nagel's claim that subjective experience cannot be captured objectively.",
+      "McGinn's claim that consciousness is cognitively closed to us."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'we can see', 'it is clear', 'we must keep in mind', but also 'suggests', 'appears', 'arguably'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Dennett",
+      "Rosenthal",
+      "OED",
+      "Jackson",
+      "Searle",
+      "Nagel",
+      "McGinn"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, appeals to cognitive science and AI design, introspective examples, internal experiments, and dialectical critique.",
+    "named_thought_experiments": [
+      "Jackson's Mary thought experiment",
+      "Searle's Chinese Room",
+      "Nagel's bat",
+      "McGinn's cognitive closure argument",
+      "Tip-of-the-tongue memory failure",
+      "A=B=C=D vs. A=B, B=C, C=D example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Physicalist and naturalist, but with a deflationary view of semantic knowledge; sympathetic to Dennett's functionalism and heterophenomenology.",
+    "sentiment": "Optimistic naturalism: despite limits on intuitive understanding, scientific progress on consciousness is possible.",
+    "thematic_focus": "Philosophy of mind, epistemology of knowledge, consciousness, mental transparency, meaning and semantics."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical sub-moves: introduction, definitional analysis, diagnosis, model presentation, redefinition, application to Jackson, Searle, Nagel, McGinn, conclusion."
+  },
+  "summary_of_core_decisions": "The paper's central move is to reject the assumption of perfect internal transparency and to argue that the same kind of knowledge can be stored in different formats, producing the illusion of distinct kinds of knowing. This dissolves Jackson's epiphenomenalism and Searle's syntax/semantics dualism, and undercuts Nagel and McGinn's pessimism about consciousness by showing that all knowledge, including scientific knowledge, is ultimately syntactic/factual and non-absolute.",
+  "thesis_commitment": {
+    "conclusion_type": "Redefinitional and therapeutic: the problem is not a metaphysical mystery but a conceptual confusion caused by an outdated definition of 'know'.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive but acknowledges limits and open work."
+  },
+  "_source_corpus": "human",
+  "_source_file": "hendrickson-what_it_means_to_know.txt"
+}

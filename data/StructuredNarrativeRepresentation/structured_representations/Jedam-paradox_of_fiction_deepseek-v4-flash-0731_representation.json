@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical argument that proceeds by (1) presenting a paradox, (2) exposing its hidden metaphysical presuppositions, (3) introducing a Wittgensteinian alternative framework, (4) using that framework to dissolve the paradox, (5) applying a quietist methodology, and (6) defending the dissolution against objections.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "The text explicitly states the three premises of Radford's paradox and then explicitly attacks the third premise. Other premises are implicit and are exposed through genealogical analysis of Cartesian/Lockean assumptions."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text anticipates and addresses three objections: behaviorism, sidestepping, and permissiveness. It also acknowledges the partial force of the metaphysical distinction critique before moving to the belief requirement.",
+    "logical_relevance": "All sections are directly relevant to the thesis. The use of examples (Anna Karenina, Michael Myers, chess/checkers, funeral vs. movie crying) supports the conceptual claims.",
+    "premise_acceptability": "The premises are plausible within a Wittgensteinian framework, but the text does not engage with non-Wittgensteinian alternatives. It assumes the correctness of use-theory and quietism."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Mind-dependent vs. mind-independent",
+      "Internal vs. external",
+      "Empirical belief vs. narrative engagement",
+      "Inner sensation vs. outward criteria",
+      "Solving vs. dissolving a problem",
+      "Arbitrary rules vs. rules rooted in forms of life"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Meaning is use (PI \u00a743)",
+      "Language-games are rule-governed activities interwoven with actions and social practices",
+      "Family-resemblance concepts are connected by overlapping similarities, not a single essence",
+      "Quietism is the methodological stance that philosophy should describe rather than theorize"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text addresses objections in Section 6: (1) behaviorism, (2) sidestepping, (3) permissiveness. It replies by clarifying that inner experiences are not criteria, that dissolution is the goal, and that rules are normative and rooted in shared forms of life.",
+    "objections_raised": [
+      "Wittgensteinian dissolution reduces emotions to mere behavior.",
+      "Quietism simply sidesteps the paradox rather than solving it.",
+      "The quietist solution is too permissive and licenses any emotional response as genuine."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses confident, assertive language: 'successfully dissolves', 'is a grammatical illusion', 'is a category mistake', 'the paradox loses its grip'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Wittgenstein (PI \u00a743, PI \u00a7109)",
+      "Colin Radford (as the proponent of the paradox)"
+    ],
+    "evidence_type": "Conceptual analysis, ordinary language observation, analogies, and appeals to cultural practices.",
+    "named_thought_experiments": [
+      "Crying at a funeral vs. crying at a movie",
+      "Fear of Michael Myers while watching Halloween",
+      "Chess/checkers category mistake"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Ordinary language philosophy, Wittgensteinian quietism, anti-representationalism, anti-Cartesianism.",
+    "sentiment": "The text is therapeutic and deflationary: it aims to dissolve a pseudo-problem rather than construct a positive theory.",
+    "thematic_focus": "The paradox of fiction, the grammar of emotion and belief, the role of language-games, the dissolution of metaphysical illusions."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The essay follows a numbered section structure with an introduction and conclusion. Each section builds on the previous one: paradox \u2192 genealogy \u2192 critique of dichotomy \u2192 positive framework \u2192 dissolution \u2192 quietist application \u2192 objections \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text decides to treat the paradox as a pseudo-problem, to reject the representationalist theory of emotion, to adopt a use-theory of meaning, and to use quietism as the final methodological stance.",
+  "thesis_commitment": {
+    "conclusion_type": "The conclusion is a dissolution: the paradox is not solved but shown to rest on a grammatical confusion.",
+    "hedging_density_in_final_paragraph": "Low. The final paragraph is assertive: 'the paradox is not a problem to be solved but a spell to be broken.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "Jedam-paradox_of_fiction_deepseek-v4-flash-0731.txt"
+}

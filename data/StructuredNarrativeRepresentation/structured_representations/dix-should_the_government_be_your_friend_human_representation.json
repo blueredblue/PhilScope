@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Immanent critique: uses Aristotle's own theory of friendship to test and undermine his claim that the state enables the good life.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "High: premises are stated and repeatedly refined through paraphrase and citation."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate: engages with counterarguments but relies heavily on Aristotle's own framework and secondary interpretations.",
+    "logical_relevance": "High: each section builds toward the conclusion that the state cannot provide perfect friendship.",
+    "premise_acceptability": "Contestable: depends on accepting Aristotle's eudaimonism and the necessity of perfect friendship for happiness."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Good life vs. happiness vs. virtue vs. friendship",
+      "Perfect friendship vs. utility/pleasure friendship",
+      "State as inanimate vs. individual politicians",
+      "Necessary framework vs. sufficient provider"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Happiness as the only end sought for itself",
+      "Perfect friendship as loving another for their virtue, as another self",
+      "State as a creation of nature for the sake of the good life"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Two objections are raised and refuted: restricting citizenship, and forming friendships with rulers.",
+    "objections_raised": [
+      "One might restrict the definition of citizen to exclude those unable to live the good life.",
+      "One might claim citizens can form perfect friendships with individual politicians."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'must', 'cannot', 'doomed to fail', but also 'seems', 'appears'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Mulgan",
+      "Annas",
+      "Kahn",
+      "Cooper"
+    ],
+    "evidence_type": "Textual exegesis and secondary scholarship; no empirical data.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Aristotelian eudaimonism and virtue ethics",
+    "sentiment": "Critical of state-centered politics; prioritizes family and friendship.",
+    "thematic_focus": "Friendship, state legitimacy, moral education, leisure, citizenship"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with internal critique: exposition, critique, alternative, application."
+  },
+  "summary_of_core_decisions": "The essay reconstructs Aristotle's account of the good life and friendship, then argues that the state cannot supply the necessary conditions for eudaimonia because it requires menial labor and cannot enter into perfect friendships. It concludes that family and close friends, not the state, are the primary vehicles for the good life.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified revision of Aristotle: state is necessary but insufficient; family/friends are essential.",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is assertive about modern implications."
+  },
+  "_source_corpus": "human",
+  "_source_file": "dix-should_the_government_be_your_friend.txt"
+}

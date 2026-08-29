@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "conditional_chain_with_dilemma_resolution",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "mixed_explicit_and_implicit_premises"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_controversial_premises"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "disinterested vs. interested",
+      "subjective vs. objective",
+      "universal vs. particular",
+      "conceptual vs. non-conceptual",
+      "free play vs. legislation",
+      "judgment of taste vs. judgment of the agreeable/good"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "subjective universality",
+      "free play",
+      "disinterestedness"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "rebuts_objection_by_analogy_and_condition_modification",
+    "objections_raised": [
+      "disagreement between two observers under same conditions undermines universality",
+      "if everything can be beautiful, 'beauty' loses meaning"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant's texts (Critique of Judgment, Fundamental Principles)"
+    ],
+    "evidence_type": "textual_interpretation_and_thought_experiments",
+    "named_thought_experiments": [
+      "two people looking at Picasso painting"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "transcendental_idealism",
+    "sentiment": "analytic_continental_hybrid",
+    "thematic_focus": "aesthetics_and_epistemology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem_solution_implications_criticism_rebuttal_conclusion"
+  },
+  "summary_of_core_decisions": "The text reconstructs Kant's argument for subjective universality by chaining necessary conditions: disinterestedness \u2192 non-conceptual free play \u2192 universal communicability \u2192 subjective universality. It defends against objections by distinguishing universal validity from universal acceptance and by showing that disagreement stems from lack of disinterest. It draws implications: free play explains faculty harmony, any object can be judged beautiful, and aesthetic experience bridges the phenomenal/noumenal gap.",
+  "thesis_commitment": {
+    "conclusion_type": "interpretive_and_constructive",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "human",
+  "_source_file": "potter-the_subjective_universality.txt"
+}

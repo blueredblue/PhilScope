@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical evaluation with dialectical reframing and negative conclusion",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate: premises are embedded in prose but clearly identifiable"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with a strong objection and attempts a charitable reframing",
+    "logical_relevance": "High: all sections bear directly on the viability of Hill's solution",
+    "premise_acceptability": "Mixed: the Rawlsian premise is plausible; the theological premises are controversial by design"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "prima facie vs overall desert",
+      "desert vs dispositional fittingness",
+      "merit vs participatory grace",
+      "ethical claim vs teleological claim",
+      "secular philosophical justification vs theological justification"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "prima facie desert: a genuine but weak moral claim to a good based on an action or property",
+      "dispositional fittingness: congruence between the agent's state and the good being given, not based on moral credit"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates a possible Hillian response (minuscule desert makes arbitrariness negligible) and rejects it by distinguishing quantity from validity.",
+    "objections_raised": [
+      "Rawlsian moral arbitrariness of effort",
+      "Theological problem: God's distribution would be morally arbitrary",
+      "Original desert mechanism requires controversial theology of divine justice",
+      "Reframed dispositional model requires controversial theological premises"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'appears', 'seems', 'I want to suggest', 'I will argue'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Rawls",
+      "Thomas Aquinas",
+      "Gregory the Great"
+    ],
+    "evidence_type": "Philosophical argumentation, conceptual analysis, appeal to theological authorities, hypothetical examples",
+    "named_thought_experiments": [
+      "A person raised in a devout household vs secular chaotic environment",
+      "A naturally calm person vs anxious person",
+      "A high-IQ theologian vs intellectually disabled person",
+      "A prideful person given wealth vs a humble person given wealth"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of religion with ethical and theological dimensions",
+    "sentiment": "Critical but constructive; ultimately argues for the necessity of theological premises",
+    "thematic_focus": "Petitionary prayer, divine immutability, desert, moral arbitrariness, grace, secondary causality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-objection-reframing-evaluation-conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that Hill's desertist solution fails because effort is morally arbitrary, but can be salvaged by reinterpreting desert as dispositional fittingness; however, this salvage requires theological premises, so no purely secular defense of petitionary prayer succeeds.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative with qualified constructive alternative",
+    "hedging_density_in_final_paragraph": "Moderate: 'does not successfully rescue', 'cannot be established through purely philosophical analysis', 'can only be established through theological framework'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "aquinas-and-gregory-the-great-on-the-puzzle-of-petitionary_deepseek-v4-flash-0731.txt"
+}

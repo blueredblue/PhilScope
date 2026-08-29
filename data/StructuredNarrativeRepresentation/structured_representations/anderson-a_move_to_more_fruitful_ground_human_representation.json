@@ -1,0 +1,65 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Trilemma-based critique",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate: premises are stated but not formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with opposing views and anticipates objections",
+    "logical_relevance": "High: all premises directly support the conclusion",
+    "premise_acceptability": "Moderate: some premises rely on contested philosophical intuitions"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Intrinsic vs. extrinsic justification",
+      "Mathematical intuition vs. empirical perception",
+      "Realist vs. anti-realist positions",
+      "A priori vs. empirical knowledge"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Intrinsic justification: based on intuition or self-evidence",
+      "Extrinsic justification: based on empirical success or indispensability"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges objections but argues they are less damaging than the alternative",
+    "objections_raised": [
+      "Maddy's compromise fails to resolve conflicts between intrinsic and extrinsic evidence",
+      "All three possible resolutions (intrinsic, extrinsic, neither) lead to unacceptable consequences"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'likely', 'appears'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine, Putnam, Godel, Maddy, Zermelo, Hebb"
+    ],
+    "evidence_type": "Philosophical argumentation, thought experiments, historical examples",
+    "named_thought_experiments": [
+      "Axiom of Choice and Banach-Tarski paradox",
+      "Parallel postulate and non-Euclidean geometry"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, philosophy of mathematics",
+    "sentiment": "Critical, realist-leaning but skeptical of compromise",
+    "thematic_focus": "Mathematical realism, justification, intuition, indispensability"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-critique with historical exposition and counterexample-based trilemma"
+  },
+  "summary_of_core_decisions": "The text critiques Maddy's compromise Platonism by showing that when intrinsic and extrinsic evidence conflict, all three possible resolutions (intrinsic, extrinsic, neither) lead to the same criticisms that motivated the compromise. Thus, the compromise fails to solve the fundamental problem of weighing different types of mathematical justification.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative: argues against a specific position",
+    "hedging_density_in_final_paragraph": "Moderate: uses 'seems', 'likely', 'may'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "anderson-a_move_to_more_fruitful_ground.txt"
+}

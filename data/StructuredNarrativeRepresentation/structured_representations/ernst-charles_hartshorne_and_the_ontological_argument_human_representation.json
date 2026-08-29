@@ -1,0 +1,85 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modal ontological argument with a priori necessity claim, defended via neoclassical theism",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "explicit formalized premises and inference rules"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate to high within modal theistic framework"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "a priori vs a posteriori",
+      "existence in understanding vs existence in reality",
+      "necessary vs contingent existence",
+      "classical actus purus vs neoclassical modal coextensiveness",
+      "abstract being vs concrete becoming",
+      "existence vs actuality",
+      "perfection as being vs perfection as becoming",
+      "actuality vs potentiality",
+      "unsurpassable by all beings vs unsurpassable by all beings save self in future states",
+      "all/some/no respects of absolute perfection",
+      "concrete values vs abstract values",
+      "existence as predicate vs existence as modal predicate"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "God = that than which none greater can be conceived",
+      "q = there is a perfect being",
+      "N = it is necessary that",
+      "modal coextensiveness = God covers actual and possible territory with complete adequacy",
+      "actuality = decision among competitive alternative possibilities"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "rebuts objections by revising the conception of God rather than abandoning the argument",
+    "objections_raised": [
+      "Kant: existence is not a predicate",
+      "Classical actus purus entails contradictions (green/not-green, infinity, necessity of actuality)",
+      "Anselm's 'none greater' is ambiguous",
+      "Abstract perfection cannot bridge to concrete existence"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Anselm",
+      "Kant",
+      "Hartshorne",
+      "Goodwin",
+      "Pojman and Rea"
+    ],
+    "evidence_type": "formal logic, conceptual analysis, counterexamples, historical theological distinctions",
+    "named_thought_experiments": [
+      "painter example",
+      "triangle example",
+      "cats scratch example",
+      "green/not-green contradiction",
+      "knowledge as unlimited value"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy of religion, modal logic, process/neoclassical theism",
+    "sentiment": "defends a revised ontological argument against classical objections",
+    "thematic_focus": "modal necessity, divine perfection, existence vs actuality, potentiality in God"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "historical introduction, formal argument, thesis defense, objections and replies, conclusion"
+  },
+  "summary_of_core_decisions": "The essay's structural core is a modal-logical reformulation of Anselm's ontological argument, grounded in Hartshorne's neoclassical distinction between abstract necessary existence and concrete contingent actuality, with the central thesis that possibility and being coincide in God.",
+  "thesis_commitment": {
+    "conclusion_type": "defends a specific thesis",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "human",
+  "_source_file": "ernst-charles_hartshorne_and_the_ontological_argument.txt"
+}

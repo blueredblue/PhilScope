@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a thesis\u2013antithesis\u2013synthesis structure, progressively refining an initial claim through distinctions, counterexamples, and a qualified resolution.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Premises are mostly implicit, embedded in illustrative Platonic examples and conceptual contrasts rather than formal syllogisms."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically reasonable: it acknowledges the intuitive force of Socratic intellectualism, then undermines it with the Euthydemus counterexample and the akrasia problem, before offering a nuanced synthesis.",
+    "logical_relevance": "All major components\u2014elenchus, psychagogia, aporia, strict definitions, sophistry, akrasia\u2014are directly relevant to the central question of whether dialectic inherently improves practitioners.",
+    "premise_acceptability": "Premises are generally acceptable to a Platonic framework, though the claim that dialectic is 'morally neutral' is controversial and requires more defense than the text provides."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Elenchus vs. psychagogia",
+      "Negative vs. positive function",
+      "Destructive vs. constructive role",
+      "Aporia as failure vs. aporia as productive engine",
+      "Dialectic vs. sophistry",
+      "Knowledge vs. action",
+      "Cognitive insight vs. moral transformation",
+      "Necessary vs. sufficient condition"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Elenchus: refutation, exposing contradictions, dismantling false pretenses, diagnostic.",
+      "Psychagogia: soul-leading, maieutic art, guiding to innate true beliefs.",
+      "Aporia: puzzlement, intellectual paralysis, productive starting point.",
+      "Sophistry: eristic, aimed at defeating opponent, transactional, manipulative.",
+      "Dialectic: truth-seeking, relational, guided by philia, humility, genuine intent to learn."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text anticipates and addresses objections: it raises the Euthydemus counterexample and the akrasia problem, then incorporates them into the final synthesis rather than dismissing them.",
+    "objections_raised": [
+      "If dialectic inherently produced virtue, Cleinias in the Euthydemus should have been improved, but he was manipulated and corrupted.",
+      "Even if dialectic produces knowledge, akrasia shows knowledge does not necessarily lead to virtuous action."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'partially correct', 'contingent', 'necessary but not sufficient', 'depends entirely'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's dialogues: Meno, Euthyphro, Laches, Euthydemus, Protagoras",
+      "Socrates as exemplary practitioner"
+    ],
+    "evidence_type": "Textual examples from Platonic dialogues and conceptual thought experiments.",
+    "named_thought_experiments": [
+      "Meno's slave boy demonstration",
+      "Euthydemus manipulation of Cleinias",
+      "Protagoras discussion of akrasia"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and Platonic intellectualism, with a focus on moral psychology and the role of dialectical practice.",
+    "sentiment": "Normative and evaluative; the text judges dialectic as virtuous only under certain ethical conditions.",
+    "thematic_focus": "The relationship between method, knowledge, and moral transformation; the limits of intellectual inquiry; the necessity of ethical motivation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis\u2013antithesis\u2013synthesis with layered distinctions and progressive refinement."
+  },
+  "summary_of_core_decisions": "The text ultimately decides that Socratic dialectic is a necessary but not sufficient condition for moral betterment. It creates the conditions for virtue\u2014clarity, humility, rejection of false certainty\u2014but its normative status as virtuous depends on external ethical motivations such as philia, recognition of ignorance, and genuine intent to learn.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "High; uses 'partially correct', 'contingent', 'necessary but not sufficient', 'only if'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "andersen-the_virtue_of_socratic_dialectic_ling-3.0-flash-free.txt"
+}

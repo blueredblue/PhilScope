@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis with iterative refinement",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate\u2014premises are embedded in phenomenological descriptions rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High\u2014each stage responds to the previous one's inadequacy",
+    "logical_relevance": "Strong\u2014all components bear directly on the central claim",
+    "premise_acceptability": "Contestable but plausible within continental existential/phenomenological tradition"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Objectification vs. recognition",
+      "Static approximation vs. dynamic relinquishment",
+      "Other-as-object vs. Other-as-subject",
+      "Domination vs. mutual transformation",
+      "Ontological given vs. ethical achievement"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Mutual transcendence",
+      "Indeterminacy",
+      "The two",
+      "Mimesis",
+      "Static approximations"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges fragility and risk of regression; treats them as inherent to the model rather than refuting them",
+    "objections_raised": [
+      "The self may retreat into objectification when threatened",
+      "Sartrean conflict is suspended, not eliminated",
+      "Mutual transcendence is precarious and can collapse"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low\u2014uses 'qualified yes', 'robust when evaluated', 'perpetually precarious'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Sartre",
+      "Tillich",
+      "Irigaray"
+    ],
+    "evidence_type": "Conceptual analysis and phenomenological description",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental existentialism, phenomenology, feminist philosophy",
+    "sentiment": "Critical but constructive; moves from existential conflict to relational ethics",
+    "thematic_focus": "Intersubjectivity, communication, otherness, freedom, ethical labor"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Iterative spiral: thesis \u2192 Sartrean diagnosis \u2192 Tillichian counter \u2192 Irigarayan correction \u2192 synthesis \u2192 fragility \u2192 conclusion"
+  },
+  "summary_of_core_decisions": "The text argues that genuine communication requires moving beyond Sartre's mutual objectification by integrating Tillich's indeterminacy and Irigaray's 'the two'. It affirms that mutual transcendence is possible but only as a fragile, ongoing ethical achievement, not a stable ontological state.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "High\u2014'robust when evaluated', 'perpetually precarious', 'requires continuous surrender'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "butcher-the_subject_subject_relationship_ling-3.0-flash-free.txt"
+}

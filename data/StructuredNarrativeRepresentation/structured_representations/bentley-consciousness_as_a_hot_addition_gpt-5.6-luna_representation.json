@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical examination and qualified defense of a higher-order thought (HOT) theory of state consciousness against an objection derived from Dretske's distinction between object awareness and fact awareness.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate; premises are embedded in the dialectic rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the essay engages with the strongest version of the objection and repeatedly refines the thesis in response.",
+    "logical_relevance": "All major sections bear directly on whether object awareness alone can suffice for consciousness.",
+    "premise_acceptability": "The key premises are plausible but contested, especially the claim that first-order representation is insufficient for consciousness."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Creature consciousness vs. state consciousness",
+      "Transitive vs. intransitive consciousness",
+      "Object awareness vs. fact awareness",
+      "First-order representation vs. higher-order representation",
+      "Sensitivity vs. conscious awareness",
+      "Attention, report, memory vs. consciousness"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Object awareness: direct acquaintance with an object or property.",
+      "Fact awareness: awareness that a fact involving the object obtains.",
+      "HOT: a higher-order representation of a first-order mental state."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay considers and responds to objections from blindsight, unconscious driving, animal/infant consciousness, regress, misrepresentation, transparency, and empirical alternatives.",
+    "objections_raised": [
+      "Blindsight shows object-directed processing without conscious seeing.",
+      "Unconscious driving shows complex behavior without conscious awareness.",
+      "Fact awareness is too demanding for animals and infants.",
+      "HOT theory faces a regress problem.",
+      "HOTs can misrepresent and generate spurious experiences.",
+      "HOT theory conflicts with the transparency of experience.",
+      "Empirical alternatives may explain consciousness without HOTs."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'plausible', 'may', 'can', 'appears', 'defensible'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Dretske",
+      "Browne",
+      "Rosenthal (implicitly via HOT theory)"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, empirical cases (blindsight, unconscious driving), phenomenological considerations.",
+    "named_thought_experiments": [
+      "Blindsight",
+      "Unconscious driving",
+      "Camera/automated system analogy",
+      "Animal and infant consciousness"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and functional; appeals to what experience is like and to the functional role of higher-order representation.",
+    "sentiment": "Analytic philosophy of mind; defends a qualified HOT theory.",
+    "thematic_focus": "State consciousness, higher-order representation, object vs. fact awareness."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven dialectical essay with numbered sections and a conclusion."
+  },
+  "summary_of_core_decisions": "The essay ultimately endorses a moderate HOT thesis: consciousness requires a higher-order representation of a first-order state, but this representation need not be conceptual, explicit, or reflective. Object awareness supplies content; fact awareness, understood minimally, supplies conscious status.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "High; uses 'qualified', 'plausible', 'defensible', 'need not'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "bentley-consciousness_as_a_hot_addition_gpt-5.6-luna.txt"
+}

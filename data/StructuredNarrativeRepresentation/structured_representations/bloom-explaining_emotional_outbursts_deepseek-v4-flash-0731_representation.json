@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Counterexample-driven undermining of a universal causal theory, followed by a normative bridge and a pluralistic revision.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly explicit; some implicit premises in phenomenological and normative appeals."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with Davidsonian responses and concedes partial validity.",
+    "logical_relevance": "High: all moves target the necessity and universality of belief-desire pairs.",
+    "premise_acceptability": "Moderate: relies on phenomenological intuitions and normative expectations that may be contested."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "cause vs. reason",
+      "pre-named vs. post-named epistemic states",
+      "instrumental vs. expressive intentionality",
+      "direct vs. indirect responsibility",
+      "rational vs. arational action"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "arational actions",
+      "pre-named state",
+      "post-named state",
+      "instrumental intentionality",
+      "expressive intentionality"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Refutes reflex objection via phenomenology; rejects ad hoc rationalization; rejects cognitive-content expansion.",
+    "objections_raised": [
+      "Arational actions are mere reflexes.",
+      "Davidson can posit a desire to reduce tension.",
+      "Emotions contain cognitive content that can serve as a reason."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'suggests', 'forces us to', 'demands', 'can be held'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle's account of negligence"
+    ],
+    "evidence_type": "Phenomenological, conceptual, normative, analogical.",
+    "named_thought_experiments": [
+      "tearing hair in grief",
+      "biting spoon in anger",
+      "throwing oneself on bed sobbing",
+      "climber deviant causal chain",
+      "driver failing to check blind spot"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and virtue-ethical; critical of reductive causal rationalism.",
+    "sentiment": "Pluralistic about intentional action; preserves moral responsibility through indirect accountability.",
+    "thematic_focus": "Philosophy of action, philosophy of emotion, moral responsibility."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: thesis (Davidson), counterexample (Hursthouse), objection/rebuttal, normative dilemma, resolution, conclusion."
+  },
+  "summary_of_core_decisions": "The text argues that Hursthouse's arational actions undermine Davidson's universal belief-desire model by showing intentional actions can lack a primary reason. It resolves the normative dilemma by introducing indirect accountability through preventative emotion moderation, and proposes a dual framework of instrumental and expressive intentionality.",
+  "thesis_commitment": {
+    "conclusion_type": "Revisionist pluralism",
+    "hedging_density_in_final_paragraph": "Low: asserts 'must accommodate', 'integral', 'richer understanding'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "bloom-explaining_emotional_outbursts_deepseek-v4-flash-0731.txt"
+}

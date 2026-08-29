@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Interpretive thesis defended through textual exegesis and internal critique",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "ethical vs juridical lawgiving",
+      "negative vs positive freedom",
+      "right vs freedom",
+      "united will vs popular majority",
+      "welfare vs rights",
+      "natural right vs acquired right"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "freedom",
+      "right",
+      "united will",
+      "beneficence",
+      "juridical law"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "preemptive",
+    "objections_raised": [
+      "Rosen's popular-will justification is unsound",
+      "coercive taxation fails universalizability",
+      "state purpose is rights, not welfare",
+      "happiness cannot be a universal moral end",
+      "no natural right to objects"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Rosen"
+    ],
+    "evidence_type": "textual exegesis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "deontological",
+    "sentiment": "critical",
+    "thematic_focus": "political philosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis-reconstruction-alternative interpretation"
+  },
+  "summary_of_core_decisions": "The essay reconstructs Rosen's argument that Kant gives the state a duty of beneficence and a right to coercively tax, then argues that this misreads Kant: the state exists to secure rights, not welfare, and coercive taxation is permissible only through the united will, not majority will.",
+  "thesis_commitment": {
+    "conclusion_type": "interpretive",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "human",
+  "_source_file": "leavitt-the_moral_limits_of_state_action.txt"
+}

@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Regress argument combined with a dialectical trilemma (exhaustive option elimination)",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - key premises are stated but some (e.g., truthmaking facts require truthmakers) are assumed from the framework of truthmaker theory"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the author systematically considers all available options for the opponent (truthmaker gaps, necessitating truthmakers, non-necessitating truthmakers) and shows each fails",
+    "logical_relevance": "High - every argumentative move directly targets the viability of non-necessitarianism",
+    "premise_acceptability": "Moderate - relies on the framework of truthmaker theory itself, which the opponent already accepts; the entailment principle is flagged as controversial but defended for the specific case"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Necessitarianism vs. non-necessitarianism",
+      "First-order vs. second-order vs. higher-order truths",
+      "Truthmaker gaps vs. truthmakers for truthmaking facts",
+      "Necessitating vs. non-necessitating truthmakers for truthmaking facts",
+      "Maximalism vs. non-maximalism about truthmaking",
+      "Relevant vs. non-relevant entailment"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Necessitarianism: an object is a truthmaker for a truth-bearer only if it is impossible for the object to exist and the truth-bearer to be false",
+      "Non-necessitarianism: truthmakers need not necessitate their truths",
+      "Truthmaking facts: facts of the form <T makes true <p>>"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Systematic - the author anticipates and addresses objections at each stage: the truthmaker gap option, the necessitating truthmaker option, the identity collapse option, and the entailment principle objection",
+    "objections_raised": [
+      "Non-necessitarians might treat truthmaking facts as truthmaker gaps (analogous to negative existentials)",
+      "Non-necessitarians might posit a distinct necessitating truthmaker U for <q>",
+      "Non-necessitarians might posit non-necessitating truthmakers for higher-order facts",
+      "Non-necessitarians might stop the regress by identifying T, U, V as one and the same",
+      "Entailment principles are controversial"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - the author uses measured language ('i maintain', 'it seems', 'i see no headway')",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Armstrong (2004) - for the original argument and totality truthmakers",
+      "Bigelow (1988) - for the original argument",
+      "Mellor (2003) - for the non-necessitarian defense",
+      "Rodriguez-Pereyra (2006) - for skepticism about entailment principles"
+    ],
+    "evidence_type": "A priori conceptual analysis, regress arguments, cost-benefit ontological analysis, concrete example (kilogram copies)",
+    "named_thought_experiments": [
+      "The international kilogram prototype example - six official copies (A-F) located in France, with the possibility of a seventh copy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical - the argument operates within truthmaker theory's framework of grounding truths in ontology",
+    "sentiment": "Analytic metaphysics - the paper engages with contemporary debates in analytic metaphysics about truthmaking",
+    "thematic_focus": "The nature of the truthmaking relation and its implications for ontology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with systematic option elimination - the paper presents a problem for non-necessitarians and systematically eliminates all available responses, concluding with a concrete example to solidify the abstract argument"
+  },
+  "summary_of_core_decisions": "The paper's core decision is to argue for necessitarianism by examining what grounds the facts about truthmaking itself. The key move is the regress argument: if truthmaking facts are contingent (as non-necessitarians hold), then they themselves need truthmakers, which leads to either an infinite regress of distinct truthmakers, a collapse into necessitarianism, or an unacceptable truthmaker gap. The paper's originality lies in shifting the debate from first-order truths to higher-order truths about truthmaking, showing that non-necessitarians face a dilemma: either they must accept infinitely many truthmakers or concede that some truthmaking facts are brute, both of which undermine their position.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative metaphysical thesis - truthmaker necessitarianism is true",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is stated confidently: 'necessitarians enjoy a very strong advantage over non-necessitarians'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "facts-about-truthmaking-an-argument-for-truthmaker.txt"
+}

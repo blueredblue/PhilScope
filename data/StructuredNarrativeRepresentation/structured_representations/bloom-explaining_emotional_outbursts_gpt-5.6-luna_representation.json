@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical critique and constructive pluralism",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "belief-desire reason vs emotion-guided action",
+      "rational vs irrational vs arational action",
+      "pre-named vs post-named emotional states",
+      "direct vs indirect accountability",
+      "voluntary control vs practical intentionality vs affective directedness",
+      "reason-guided agency vs emotion-guided agency",
+      "minimal intentionality vs full deliberative intentionality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "primary reason",
+      "arational action",
+      "pre-named emotional state",
+      "post-named emotional state",
+      "minimal intentionality"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "balanced",
+    "objections_raised": [
+      "Davidsonian reply: beliefs and desires may be implicit, nonconscious, or nonlinguistic",
+      "Pre-named emotional states may involve implicit evaluations",
+      "Expanding belief/desire categories risks vacuity",
+      "Classifying all emotional movements as intentional collapses agency and causation",
+      "Classifying all pre-named emotional conduct as reflexive ignores affective directedness"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Donald Davidson",
+      "Rosalind Hursthouse"
+    ],
+    "evidence_type": "conceptual analysis and hypothetical examples",
+    "named_thought_experiments": [
+      "angry person throwing a glass before understanding what they are doing",
+      "frightened person fleeing without formulating a belief about safety",
+      "person who lashes out in anger before recognizing the anger"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy of action and moral responsibility",
+    "sentiment": "pluralistic and non-reductionist",
+    "thematic_focus": "intentionality, emotion, moral responsibility"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem-solution with dialectical progression"
+  },
+  "summary_of_core_decisions": "The essay argues that Hursthouse's arational actions undermine the strong Davidsonian claim that all intentional action requires a belief-desire reason, but not the weaker causal claim. It introduces the pre-named/post-named distinction to sharpen the challenge, defends a pluralistic account of intentionality, and draws normative implications for moral responsibility.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified pluralism",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "bloom-explaining_emotional_outbursts_gpt-5.6-luna.txt"
+}

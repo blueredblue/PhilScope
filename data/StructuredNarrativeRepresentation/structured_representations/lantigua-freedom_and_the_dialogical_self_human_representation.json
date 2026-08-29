@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises often embedded in historical narrative and critique"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views (Rorty, modern individualism) and seeks synthesis",
+    "logical_relevance": "High - all sections contribute to the central thesis about freedom and dialogical self",
+    "premise_acceptability": "Moderate - relies on specific interpretations of philosophers and neurobiological claims"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "freedom-from vs freedom-within",
+      "liberation vs boundaries",
+      "public vs private freedom",
+      "empathy vs sympathy",
+      "identification vs exotopy"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "freedom-from-oppression",
+      "freedom-within-boundaries",
+      "dialogical self",
+      "exotopy"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges potential objections (e.g., unhealthy backgrounds) but sets them aside",
+    "objections_raised": [
+      "Rorty's overemphasis on liberation ignores background",
+      "Rorty's focus on literature neglects real relationships",
+      "Radical freedom leads to nihilism or narcissism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'I hope', 'I suggest', 'perhaps'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Charles Taylor",
+      "Hannah Arendt",
+      "Aristotle",
+      "Augustine",
+      "Richard Rorty",
+      "Mikhail Bakhtin",
+      "Hans-Georg Gadamer",
+      "Martin Heidegger",
+      "William Hurlbut"
+    ],
+    "evidence_type": "Philosophical arguments, historical narrative, film analysis, neurobiological studies",
+    "named_thought_experiments": [
+      "1900's piano metaphor",
+      "Buddha's sandals"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental philosophy (hermeneutics, phenomenology) with pragmatist engagement",
+    "sentiment": "Anti-foundationalist, anti-individualist, pro-dialogical",
+    "thematic_focus": "Freedom, selfhood, community, empathy, boundaries"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thematic progression with historical narrative and critique-synthesis"
+  },
+  "summary_of_core_decisions": "The essay builds a dialectical argument: presents two opposing senses of freedom (liberation vs boundaries), traces their historical development, critiques Rorty's one-sided liberation, then synthesizes them through a dialogical self that respects both. The film 'The Legend of 1900' serves as a recurring illustration of the synthesis.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic thesis",
+    "hedging_density_in_final_paragraph": "Low - assertive conclusion about freedom and boundaries"
+  },
+  "_source_corpus": "human",
+  "_source_file": "lantigua-freedom_and_the_dialogical_self.txt"
+}

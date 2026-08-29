@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative application of a philosophical framework (Ricoeur's hermeneutics of testimony) to a scriptural narrative (Abinadi) and contemporary religious practice (LDS testimony), yielding normative implications.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often embedded in exposition and application rather than formally stated, but key claims are clearly asserted (e.g., 'testimony is always a testimony of something')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with potential tensions (e.g., Elder Oaks vs. scriptural calls to repentance) and resolves them through Ricoeur's concepts.",
+    "logical_relevance": "Strong - each section builds on the previous, and applications are directly tied to Ricoeur's distinctions.",
+    "premise_acceptability": "High for intended audience (LDS readers familiar with Ricoeur); some premises rely on theological commitments (e.g., divine authority, atonement)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Profane vs. religious testimony",
+      "Testimony as narration vs. testimony as confession",
+      "Witness as author vs. witness as sent",
+      "True vs. false witness (devotion vs. lie in heart)",
+      "Earthly trial vs. eschatological trial",
+      "Internal testimony (Holy Ghost) vs. external testimony (works/suffering)",
+      "Testimony-confession vs. testimony-narration"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Testimony as a story or narration of things heard and seen",
+      "Testimony as a tool of judgment in a trial",
+      "Religious testimony as having four characteristics: sent, cosmic scope, universal relevance, total engagement",
+      "Testimony-confession as declaration of Christ's divinity",
+      "Testimony-narration as the narrative framework of facts about Christ"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses potential objection that LDS testimony is not a call to repentance by distinguishing the witness's role from the inherent call in the divine experience.",
+    "objections_raised": [
+      "Apparent tension between Elder Oaks' statement that testimony is not a sermon and scriptural testimonies that include calls to repentance",
+      "Potential disconnect between safe LDS testimony settings and the martyrdom context of Ricoeur's analysis"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedged language like 'seems', 'can lead to', 'implies'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Paul Ricoeur",
+      "Elder Dallin H. Oaks",
+      "Adam Miller",
+      "Scripture (Bible, Book of Mormon)"
+    ],
+    "evidence_type": "Textual analysis, scriptural exegesis, comparative reasoning, appeal to authoritative sources.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental hermeneutics (Ricoeur), with pragmatic application to LDS theology.",
+    "sentiment": "Neutral-analytical, appreciative of Ricoeur's framework, constructive for LDS practice.",
+    "thematic_focus": "Hermeneutics of testimony, religious epistemology, trial/judgment, martyrdom, atonement, LDS practice."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Three-part essay: (I) Exposition of Ricoeur's analysis, (II) Application to Abinadi, (III) Implications for LDS practice."
+  },
+  "summary_of_core_decisions": "The essay adopts Ricoeur's semantic and religious analysis of testimony as a lens to interpret the trial of Abinadi, demonstrating its applicability and then drawing practical implications for LDS testimony bearing, emphasizing the cosmic trial and salvific role of testimony.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative - argues that Ricoeur's framework deepens understanding and should influence LDS practice.",
+    "hedging_density_in_final_paragraph": "Low - final paragraphs assert strong conclusions (e.g., 'the strength of our testimony... becomes a factor in our salvation')."
+  },
+  "_source_corpus": "human",
+  "_source_file": "struk-the_hermeneutics_of_testimony.txt"
+}

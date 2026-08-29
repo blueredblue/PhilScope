@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative synthesis of three phenomenological accounts to establish a common conclusion about the ego's role in religious experience.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in the exposition of each philosopher's views rather than formally stated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the essay fairly presents each philosopher's position and shows their convergence without strawmanning.",
+    "logical_relevance": "High - each philosopher's account directly supports the thesis that the ego is constituted.",
+    "premise_acceptability": "Moderate - the essay assumes the validity of phenomenological methods and the authority of the cited philosophers."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Common phenomena vs. saturated phenomena",
+      "Question/response vs. call/response",
+      "Word of the World vs. Word of Life",
+      "Ego as constituting vs. ego as constituted",
+      "Finitude through lack vs. finitude through excess"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Saturated phenomenon: a phenomenon given with an excess of intuition that overwhelms the ego's constituting capacity.",
+      "Call/response: a religious relation where the subject responds in obedience to a superior caller, unlike question/response which assumes common knowledge.",
+      "Word of the World: human language that exteriorizes and empties objects of their reality, leading to 'murder'.",
+      "Word of Life: divine self-affection that gives eternal Life to the ego, making it a 'Son'."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay does not explicitly address objections but preempts potential concerns by showing that each philosopher's model is internally consistent and that the ego's passivity is not a loss but a gain (e.g., receiving Life).",
+    "objections_raised": [
+      "If the Scriptures are human words, how can they be divine? (Henry's problem)",
+      "If the ego is not constituting, how can religious experience be meaningful? (Implicitly answered by showing the ego becomes a witness or Son)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - the essay uses cautious language like 'appears', 'seems', 'suggests'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Jean-Luc Marion",
+      "Paul Ricoeur",
+      "Michel Henry",
+      "Martin Heidegger (quoted by Marion)"
+    ],
+    "evidence_type": "Philosophical argumentation and textual interpretation",
+    "named_thought_experiments": [
+      "The crayon example (common phenomenon)",
+      "Bob and the English class (question/response vs. call/response)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenology (French phenomenological tradition)",
+    "sentiment": "Neutral - expository and synthetic, not overtly evaluative.",
+    "thematic_focus": "Philosophy of religion, phenomenology of religious experience, ego theory"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Tripartite comparative analysis with introduction and conclusion"
+  },
+  "summary_of_core_decisions": "The essay's core decision is to treat the ego's constitutive role as the central problem in religious experience and to show that three major phenomenologists\u2014Marion, Ricoeur, and Henry\u2014all converge on the conclusion that the ego is constituted, not constituting, in the encounter with the divine. This is achieved through a comparative analysis that moves from Marion's saturated phenomenon (where the ego is overwhelmed by excess intuition), to Ricoeur's call/response (where the ego responds to a superior caller), to Henry's Word of Life (where the ego is reborn as an eternal Son). The essay synthesizes these views to argue that religious experience is possible precisely because the ego is passive and receptive, and that this passivity reveals the ego's finitude and dependence on a higher being.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic thesis - the ego is constituted in religious experience, as shown by the convergence of Marion, Ricoeur, and Henry.",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is stated definitively: 'the ego is not that which constitutes. It is the constituted.'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "macgregor-the_role_of_the_ego_in_religious_experience.txt"
+}

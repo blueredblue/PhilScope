@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression from a problematic thesis (Sartre) through a critical antithesis (objectification as necessary) to a synthesis (mutual transcendence via Tillich and Irigaray), culminating in a practical resolution.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate \u2013 premises are often embedded in philosophical exposition rather than formally enumerated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2013 the author engages with counterarguments (e.g., the necessity of objectification) and integrates them into the final synthesis.",
+    "logical_relevance": "Strong \u2013 each part builds on the previous, and the conclusion directly addresses the initial tension.",
+    "premise_acceptability": "Contested \u2013 relies on existential and feminist philosophical commitments that may not be universally accepted."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Preparatory vs. performative phases of dialogue",
+      "Static approximation vs. dynamic anticipation",
+      "Objectification as heuristic vs. objectification as domination",
+      "Sartrean gaze vs. Irigarayan wonder"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Indeterminacy (Tillich)",
+      "Interval (Irigaray)",
+      "Courage to be (Tillich)",
+      "Wonder (Irigaray)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates the objection that objectification is unavoidable and reframes it as a necessary preparatory tool, thus incorporating it into the solution.",
+    "objections_raised": [
+      "Objectification is necessary for practical communication",
+      "Relinquishing approximations leads to chaos",
+      "Mutual transcendence may be impossible or lead to fusion"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low \u2013 uses phrases like 'likely', 'may', 'can be seen as', indicating a cautious, exploratory tone.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Sartre",
+      "Tillich",
+      "Irigaray"
+    ],
+    "evidence_type": "Philosophical argumentation, textual interpretation, conceptual analysis, and illustrative examples (e.g., job interview, personal conversation).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Existentialism, phenomenology, feminist philosophy, and theology (Tillich).",
+    "sentiment": "Optimistic about the possibility of genuine communication, but realistic about its difficulty.",
+    "thematic_focus": "Interpersonal communication, alterity, objectification, mutual transcendence, love."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned essay with an introduction, six numbered parts, and a conclusion. Each part has a clear thematic focus and builds on the previous."
+  },
+  "summary_of_core_decisions": "The essay argues that Sartre's model of interpersonal conflict is incomplete. By integrating Tillich's concept of indeterminacy and Irigaray's notion of 'the two', the author proposes a dialectical balance: use static approximations for preparation, but relinquish them during actual dialogue to allow mutual transcendence. This resolves the tension between objectification and recognition of the Other's subjectivity.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative \u2013 argues that communication *should* be understood as mutual transcendence, not domination.",
+    "hedging_density_in_final_paragraph": "Low \u2013 the conclusion is assertive, stating that the model 'validates' the claim and offers a 'vision'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "butcher-the_subject_subject_relationship_deepseek-v4-flash-0731.txt"
+}

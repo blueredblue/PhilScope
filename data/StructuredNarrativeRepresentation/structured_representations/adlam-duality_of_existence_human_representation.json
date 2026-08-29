@@ -1,0 +1,84 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical analysis with cumulative objections and responses, culminating in a dual-sense thesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate \u2013 premises often embedded in dialectical exchanges, but key criteria (mind-independence, spatiotemporal vs. abstract location) are explicitly stated"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2013 engages with multiple objections (van Inwagen, mind-independence, transitivity, relativity) and offers nuanced replies",
+    "logical_relevance": "High \u2013 all objections and replies directly target the central thesis of dual existence senses",
+    "premise_acceptability": "Moderate \u2013 relies on contested notions (mind-independence, conceptual spaces) but defends them with examples and analogies"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Literal vs. metaphorical existence",
+      "Concrete vs. abstract entities",
+      "Primary vs. secondary sense of existence",
+      "Spatiotemporal location vs. location in abstract space",
+      "Synchronous vs. diachronic identity",
+      "Internal vs. external existence questions (Carnap)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Mind-independence as degree to which properties are fixed beyond human control",
+      "Concrete entities as those with spatiotemporal location (or at least temporal location)",
+      "Abstract entities as those with location in a conceptual/relational space"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic \u2013 addresses objections from transitivity, mind-independence of minds, relativity, van Inwagen's number and quantifier arguments, and Yablo/Gallois metaphor",
+    "objections_raised": [
+      "Existence as a matter of degree (from mind-independence degrees)",
+      "Minds/thoughts/people would not exist if mind-independence required",
+      "Forces a specific view of time (growing-block)",
+      "Incompatible with Special Relativity (presentist perspective)",
+      "Van Inwagen: existence tied to univocal number",
+      "Van Inwagen: existential quantifier has same truth conditions",
+      "Yablo/Gallois: metaphorical existence claims are intractable"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate \u2013 uses hedges like 'seems', 'likely', 'suggests', but also assertive conclusions",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Carnap (frameworks)",
+      "Quine (criterion)",
+      "Plato (mind-independence)",
+      "Broad (growing-block)",
+      "Quinton (spatiotemporal criterion)",
+      "Yablo and Gallois (metaphor)",
+      "van Inwagen (objections)",
+      "Hume (identity relative to sortal)",
+      "Unger (Problem of the Many)"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, linguistic observations, appeals to scientific theories (Special Relativity), and historical philosophical positions",
+    "named_thought_experiments": [
+      "Trout-turkey fusions",
+      "Three apples plus three opinions (mixed counting)",
+      "Newton's First Law existence",
+      "Fictional character vs. numbers existence",
+      "Unger's Problem of the Many"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics, ontology, philosophy of language",
+    "sentiment": "Neutral analytic, critical of both univocal and simple pluralist views, defends a nuanced dual-sense view",
+    "thematic_focus": "Existence, mind-independence, abstract vs. concrete entities, ontological commitment, frameworks"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections (I\u2013VII) and subsections (e.g., III, IV, V, VI), including a Works Cited list"
+  },
+  "summary_of_core_decisions": "The text argues that existence has two distinct senses: a primary, literal sense for concrete entities grounded in spatiotemporal location, and a secondary, metaphorical sense for abstract entities grounded in location in conceptual spaces. It defends this dual-sense view against objections from mind-independence, transitivity, relativity, and van Inwagen's arguments from number and the existential quantifier, concluding that the two senses are irreducible and that the concrete sense is primary.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified pluralism \u2013 two senses of existence, not a single univocal sense nor an unrestricted pluralism",
+    "hedging_density_in_final_paragraph": "Low \u2013 final section states conclusions confidently, though earlier sections use hedges"
+  },
+  "_source_corpus": "human",
+  "_source_file": "adlam-duality_of_existence.txt"
+}

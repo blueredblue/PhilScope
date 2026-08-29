@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Synthesis of Carnap's framework relativism and van Inwagen's Quinean univocity to defend the thesis that existence is univocal, while criteria for applying existence vary by domain.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High \u2013 premises are clearly stated (e.g., existence is not a predicate, quantifier is univocal, location is a property)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong \u2013 engages with intuitive objections, Carnap's relativism, and the Problem of the Many, providing systematic replies.",
+    "logical_relevance": "All arguments directly support the univocity thesis; objections are addressed head-on.",
+    "premise_acceptability": "Premises are plausible within analytic philosophy (Quinean, Fregean, Carnapian frameworks)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Meaning vs. criteria of existence",
+      "Internal vs. external questions (Carnap)",
+      "Existence as second-order concept vs. first-order property",
+      "Location as property vs. mode of existence",
+      "Existence vs. actuality",
+      "Domain of quantification vs. meaning of quantifier",
+      "Identity/composition vs. existence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Existence is captured by the existential quantifier (\u2203).",
+      "To be is to be the value of a variable (Quine).",
+      "Existence is not a predicate but a second-order concept asserting instantiation."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic \u2013 each objection (intuitive duality, Problem of Many, modal quantifier) is addressed with a clear reply.",
+    "objections_raised": [
+      "Intuitive duality: concrete vs. abstract existence.",
+      "Carnap's framework relativism might imply pluralism.",
+      "Problem of the Many suggests existence is relative to conceptual scheme.",
+      "Quine's criterion too coarse-grained (modal quantifiers, domain differences)."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate \u2013 uses 'I will argue', 'is false', 'devastatingly simple', but also 'seems', 'appears' when presenting opposing views.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine",
+      "Carnap",
+      "van Inwagen",
+      "Kant/Frege"
+    ],
+    "evidence_type": "Conceptual analysis, logical analysis, thought experiments (Problem of Many), appeal to formal logic (existential quantifier).",
+    "named_thought_experiments": [
+      "Problem of the Many (Tibbles the cat)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, Quinean naturalism, Carnapian pragmatism, Fregean logicism.",
+    "sentiment": "Defends a univocal, quantificational account of existence against pluralist or relativist alternatives.",
+    "thematic_focus": "Ontology, meta-ontology, philosophy of logic, philosophy of mathematics."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with sections: Introduction, I. Intuitive Duality, II. Carnap's Frameworks, III. Van Inwagen's Defense, IV. Problem of Many, V. Synthesis."
+  },
+  "summary_of_core_decisions": "The text argues that existence is univocal, meaning is captured by the existential quantifier, and apparent dualities arise from confusing criteria for applying existence with its meaning. It synthesizes Carnap's framework relativism (criteria vary) with van Inwagen's Quinean univocity (meaning constant), and resolves the Problem of Many as a problem of identity/composition, not existence.",
+  "thesis_commitment": {
+    "conclusion_type": "Positive thesis defending univocity.",
+    "hedging_density_in_final_paragraph": "Low \u2013 the conclusion is assertive: 'Existence is univocal; criteria are relative to frameworks but meaning is constant.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "adlam-duality_of_existence_deepseek-v4-flash-0731.txt"
+}

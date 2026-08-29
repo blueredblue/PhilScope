@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical evaluation of a proposed solution, followed by a Wittgensteinian critique and a normative reorientation.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate; premises are embedded in prose rather than numbered, but are recoverable from the dialectic."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the text stages a genuine debate between Gricean and Wittgensteinian approaches and adjudicates it.",
+    "logical_relevance": "High; each section advances the central question of what kind of violation Moore's Paradox involves.",
+    "premise_acceptability": "Moderate; relies on contested Wittgensteinian claims about language-games and expression, and on a specific conception of practical rationality."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Logical consistency vs. pragmatic absurdity",
+      "Entailment vs. conversational implicature",
+      "First-person vs. third-person psychological attribution",
+      "Theoretical rationality vs. practical rationality",
+      "Assertion as report vs. assertion as expression/action",
+      "Cancellable implicature vs. non-cancellable grammatical connection"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Conversational implicature: what is conveyed indirectly through the Cooperative Principle and maxims, especially the Maxim of Quality.",
+      "Use relation: meaning of psychological terms is determined by their public use in language-games, not by inner mental reference.",
+      "Practical rationality: rationality governing intentional agency, action, and the normative commitments of self-presentation."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates and responds to the objection that Gricean implicature might be sufficient by invoking solitary Moorean utterances and the non-cancellability of the absurdity.",
+    "objections_raised": [
+      "Gricean implicature is cancellable, but Moorean absurdity is not.",
+      "Gricean maxims are interpersonal, but Moore's Paradox persists in solitary contexts.",
+      "Gricean pragmatics treats belief as an inner state reported by language, which misconstrues first-person avowals."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'ultimately proves insufficient' and 'cannot be dissolved' but also 'I defend the position'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "G. E. Moore",
+      "Paul Grice",
+      "Ludwig Wittgenstein",
+      "Sydney Shoemaker"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments (solitary diary), analogical reasoning (practical Moore's Paradox), appeal to ordinary language grammar.",
+    "named_thought_experiments": [
+      "Solitary diary/muttering case",
+      "Practical Moore's Paradox: 'I am going to open this window, but I do not intend to open this window.'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Ordinary language philosophy / Wittgensteinian pragmatism, with a normative turn toward practical rationality.",
+    "sentiment": "Anti-Cartesian; rejects the inner-mental-state picture of belief and emphasizes public grammar and agency.",
+    "thematic_focus": "Moore's Paradox, assertion, belief, implicature, language-games, practical rationality, first-person authority."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-evaluation-reorientation; sections move from paradox to Gricean solution to Wittgensteinian critique to normative diagnosis."
+  },
+  "summary_of_core_decisions": "The text rejects a purely Gricean-implicative resolution of Moore's Paradox, adopts a Wittgensteinian use-theoretic account of first-person belief avowals, and concludes that the violation is fundamentally one of practical rationality rather than theoretical consistency.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and grammatical",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive and programmatic."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "barbir-moores_paradox_gemini-3.5-flash-lite.txt"
+}

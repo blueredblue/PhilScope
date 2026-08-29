@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Textual analysis with internal critique",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate - premises are often implicit in textual interpretation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing textual evidence",
+    "logical_relevance": "High - all arguments directly support the thesis",
+    "premise_acceptability": "Moderate - relies on specific interpretations of Descartes' texts"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Philosophy vs. ethics",
+      "Intellect vs. will",
+      "Understanding vs. acting",
+      "Provisional vs. fundamental"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Philosophy: pursuit of truth",
+      "Ethics: moral action and provisional code",
+      "Will: ability to do or not do something",
+      "Intellect: perception of ideas"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges Descartes' explicit intention but shows internal contradictions",
+    "objections_raised": [
+      "Descartes explicitly subordinates ethics to philosophy",
+      "Descartes defines ego as thinking thing, excluding action"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'suggests', 'appears', 'seems'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Descartes' texts",
+      "Secondary literature (Beck, Grosholz, Wilson, Westphal)"
+    ],
+    "evidence_type": "Textual quotations and logical inference",
+    "named_thought_experiments": [
+      "House analogy",
+      "Forest analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental rationalism (Descartes)",
+    "sentiment": "Critical of Cartesian dualism",
+    "thematic_focus": "Priority of ethics over metaphysics"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis, supporting arguments, conclusion"
+  },
+  "summary_of_core_decisions": "The article argues that Descartes' separation of philosophy and ethics, with philosophy primary, is reversed in his own texts. Four arguments show ethics' priority: (1) moral action cannot be suspended, (2) the fourth moral maxim commands philosophizing, (3) will (ethics) is prior and more authoritative than intellect (philosophy) in error and judgment, (4) the ego as thinking thing is incomplete because willing is essentially acting. Thus, ethics is fundamental and the ego is a morally-acting substance.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis",
+    "hedging_density_in_final_paragraph": "Low - states conclusion definitively"
+  },
+  "_source_corpus": "human",
+  "_source_file": "pugh-philosophy_and_ethics_in_descartes.txt"
+}

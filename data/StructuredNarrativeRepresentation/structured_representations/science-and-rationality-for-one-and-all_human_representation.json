@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Problem-solution with dialectical refutation",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Mixed\u2014some premises are explicitly stated, while others are implicit and reconstructed from the text."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High\u2014the author engages with opposing views, anticipates objections, and qualifies claims.",
+    "logical_relevance": "High\u2014all major premises and sub-arguments directly support the thesis.",
+    "premise_acceptability": "Moderate\u2014the JRD thesis is controversial, and the author acknowledges this by addressing potential objections."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Individual vs. collective rationality",
+      "Epistemic permissiveness vs. uniqueness",
+      "Direct vs. indirect role of values in scientific judgment",
+      "Formal vs. nonformal constraints on scientific commitments"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "JRD thesis: 'anytime a scientist announces a judgement of fact, they are making a tradeoff between the risk of different kinds of error. This balancing act depends on the costs of each kind of error, so scientific judgement involves assessments of the value of different outcomes' (Magnus 2013)."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates and responds to objections, such as the worry that the JRD thesis opens the door to madness, by appealing to nonformal constraints and the social bounds of science.",
+    "objections_raised": [
+      "The JRD thesis allows for crazy beliefs.",
+      "The JRD thesis might require rejecting heliocentrism today.",
+      "The JRD thesis might be seen as allowing wishful thinking."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low\u2014the author uses hedged language such as 'might,' 'could,' and 'plausible.'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kuhn",
+      "Kitcher",
+      "Douglas",
+      "James",
+      "Rudner",
+      "Lakatos"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, and historical examples.",
+    "named_thought_experiments": [
+      "Jane and Sarah example",
+      "SETI example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, philosophy of science, epistemology",
+    "sentiment": "Naturalistic, pragmatic, and fallibilist",
+    "thematic_focus": "Epistemic permissiveness, division of cognitive labor, value-ladenness of scientific judgment"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned with numbered sections and a conclusion."
+  },
+  "summary_of_core_decisions": "The paper argues that the apparent conflict between individual and collective rationality in science is resolved by the JRD thesis, which allows for rational disagreement based on differing value commitments. The author defends this by showing that the standard line in both philosophy of science and epistemology is mistaken, and by addressing objections through nonformal constraints on scientific commitments.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified thesis",
+    "hedging_density_in_final_paragraph": "Low\u2014the conclusion is stated with confidence but acknowledges the logical independence of individual and collective rationality."
+  },
+  "_source_corpus": "human",
+  "_source_file": "science-and-rationality-for-one-and-all.txt"
+}

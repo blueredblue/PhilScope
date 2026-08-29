@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "conditional_analysis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "rigid vs nonrigid designator",
+      "material object vs object*",
+      "actual world vs possible world",
+      "self-identical vs non-self-identical entity",
+      "abstract vs concrete object"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "object*: a self-identical physical object existing in a single instant",
+      "material object: a sequence of object*s through time",
+      "rigid designator: a term that designates the same object in all possible worlds"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges and responds to objections",
+    "objections_raised": [
+      "material objects cannot exist for more than an instant if self-identical",
+      "the problem of change and identity over time",
+      "the difficulty of identifying object*s in practice"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Saul Kripke"
+    ],
+    "evidence_type": "thought_experiments",
+    "named_thought_experiments": [
+      "Penny the pencil",
+      "Richard Nixon and Carswell",
+      "motion picture analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic_metaphysics",
+    "sentiment": "neutral",
+    "thematic_focus": "identity, time, modality, reference"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sequential_analysis"
+  },
+  "summary_of_core_decisions": "The text argues that material objects are not self-identical through time but are sequences of instantaneous object*s. Identity is determined by the object*-sequence history, which is rigidly designated. This allows material objects to be treated as abstract entities, similar to numbers, and resolves the problem of change while preserving rigid designation.",
+  "thesis_commitment": {
+    "conclusion_type": "metaphysical_thesis",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "human",
+  "_source_file": "choucair-objects_and_identity_in_time.txt"
+}

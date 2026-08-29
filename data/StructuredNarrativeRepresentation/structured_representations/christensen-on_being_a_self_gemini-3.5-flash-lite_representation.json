@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis with progressive comparative exposition",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in comparative analysis and objection-evaluation pairs rather than formalized propositions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments (two major objections) and evaluates them fairly, acknowledging partial validity of each",
+    "logical_relevance": "High - each section builds directly on the previous, with clear transitions and cumulative force",
+    "premise_acceptability": "Moderate - relies on contested philosophical interpretations (Kant, Marion) but presents them with textual support and scholarly framing"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Speculative vs. practical reason",
+      "Logical vs. real possibility",
+      "Pure apperception vs. inner sense",
+      "Theoretical cognition vs. phenomenological givenness",
+      "Autonomy vs. heteronomy",
+      "Constitution vs. givenness",
+      "Noumenal vs. phenomenal self",
+      "Kantian modal possibility vs. Aristotelian dynamis vs. Heideggerian Possibilit\u00e4t"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Pure Apperception (the 'I think') - spontaneous act of synthesis, non-relational, non-phenomenal",
+      "Inner Sense - receptive faculty for intuiting ourselves, bound to time",
+      "Saturated phenomenon - intuition overwhelms, floods, bursts the categories of understanding",
+      "Logical possibility - absence of contradiction",
+      "Real possibility - agreement of synthesis of concept with conditions of experience"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Two objections are explicitly raised and evaluated: (1) incompleteness of Kantian subject, (2) constitution vs. halo of possibility. Each is partially accepted and partially rejected, leading to dialectical synthesis.",
+    "objections_raised": [
+      "Ignoring practical and phenomenological sources renders Kantian accounts of individual self fundamentally incomplete",
+      "Saturated phenomena may not constitute the self ex nihilo but merely appear within a pre-conditioned halo of subjective possibility"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedged language ('seems', 'appears', 'suggests', 'can be read')",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant (Critique of Pure Reason, Critique of Practical Reason, Critique of Judgment)",
+      "Aristotle (Metaphysics Theta)",
+      "Heidegger (Being and Time)",
+      "Jean-Luc Marion (Reduction and Givenness, Being Given)",
+      "Emmanuel Levinas (face of the Other)"
+    ],
+    "evidence_type": "Textual interpretation, comparative philosophical analysis, conceptual argumentation, phenomenological description",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenology (Marion, Heidegger) combined with transcendental critical philosophy (Kant)",
+    "sentiment": "Neutral - analytical and evaluative rather than polemical",
+    "thematic_focus": "Selfhood, possibility, givenness, transcendental conditions, saturated phenomena, inner sense vs. apperception"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Progressive comparative exposition with dialectical synthesis - Introduction, three main parts (Kant, Alternatives, Marion), inner sense analysis, reconciliation, objections, conclusion"
+  },
+  "summary_of_core_decisions": "The essay evaluates whether Kantian selfhood requires reconciling speculative possibility with practical reason and Marion's supersensible experiences. It argues that: (1) Kant's restriction of speculative possibility is necessary but leaves the self fractured; (2) Aristotle and Heidegger offer richer ontologies of possibility that Kant lacks; (3) Marion's saturated phenomena provide phenomenological density to the supersensible but cannot constitute the self ex nihilo; (4) the resolution is a dialectical synthesis where the self is neither pure autonomous legislator nor pure passive effect, but an 'intersubjective, fragile threshold' between formal limits and the overwhelming call of the supersensible.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified synthesis - neither pure Kantianism nor pure Marionism, but a dialectical reconciliation",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive about the synthesis while acknowledging the need for 'critical translation'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "christensen-on_being_a_self_gemini-3.5-flash-lite.txt"
+}

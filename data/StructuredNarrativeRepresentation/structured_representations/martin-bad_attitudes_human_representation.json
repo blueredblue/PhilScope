@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Eliminative materialism against propositional attitudes in cognitive science",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate - premises are stated but often embedded in examples and thought experiments"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with Fodor's realism and Churchland's comparisons, but does not fully address potential counterarguments",
+    "logical_relevance": "High - all arguments directly target the role of propositional attitudes in computational explanations",
+    "premise_acceptability": "Moderate - relies on intuitive examples (chess, facial recognition) and Churchland's empirical claims, but some premises are controversial"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Propositional attitudes vs. non-propositional neurocomputational representations",
+      "Analytic vs. nomological implications",
+      "Level of abstraction vs. causal specificity",
+      "Folk psychology vs. scientific cognitive theory"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Propositional attitudes: attitudes toward propositional contents (e.g., beliefs, desires)",
+      "Artificial Neuron Network (ANN): interconnected processors organized in layers with weighted connections",
+      "Representational space: geometric space where points correspond to activation patterns"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Two objections to Fodor's realism are presented and supported with examples; no explicit rebuttals to potential objections are offered",
+    "objections_raised": [
+      "Folk psychological theories rely on analytic implications, making them scientifically uninformative",
+      "PA attribution is too abstract to explain computational processes, as shown by chess and facial recognition examples"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'there is reason to believe', 'it seems', 'most likely'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Paul Churchland",
+      "Andy Clark",
+      "Jerry Fodor"
+    ],
+    "evidence_type": "Empirical examples from artificial neural network research, thought experiments, and conceptual analysis",
+    "named_thought_experiments": [
+      "Chess player example",
+      "Facial recognition network example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Empirical and naturalistic - relies on cognitive science and neurocomputational models",
+    "sentiment": "Eliminative materialism about propositional attitudes, but not about all mental states",
+    "thematic_focus": "Philosophy of cognitive science, mental representation, computational theory of mind"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction, two objections, exposition of ANN, conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that propositional attitudes are inadequate for computational explanations of cognition. It presents two objections: (1) folk psychological laws are analytic, not nomological, and thus uninformative; (2) PA attribution is too abstract to capture causal computational processes. It then illustrates the alternative with ANN research, showing that representational spaces and learning methods provide a more explanatory account. The conclusion advocates for a neurocomputational approach that retains functionalist insights but rejects the literal ontology of folk psychology.",
+  "thesis_commitment": {
+    "conclusion_type": "Eliminative - propositional attitudes should not be part of cognitive science's ontology",
+    "hedging_density_in_final_paragraph": "Low - states clearly that PAs and folk psychology are 'terribly insufficient' for computational accounts"
+  },
+  "_source_corpus": "human",
+  "_source_file": "martin-bad_attitudes.txt"
+}

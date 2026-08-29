@@ -1,0 +1,64 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Progressive definitional refinement",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High \u2013 each step explicitly stated and defended"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2013 engages with opposing views (Athenian gods, Euthyphro)",
+    "logical_relevance": "All premises directly support the thesis that piety is becoming like god",
+    "premise_acceptability": "Moderate \u2013 relies on contested interpretations of Plato and secondary sources"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Athenian gods vs. Socratic god",
+      "Human wisdom vs. divine wisdom",
+      "False belief vs. true knowledge",
+      "Piety as service vs. piety as mere ritual"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Perfectly good = no evil in oneself",
+      "Piety = assisting god in his work of improving souls",
+      "Wisdom = moral wisdom"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses potential objections (e.g., gods' immorality in myths) by contrasting Socratic god",
+    "objections_raised": [
+      "If gods disagree, how can piety be defined?",
+      "If god is good, why does he allow evil? (implicitly answered by purpose)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate \u2013 uses 'Socrates believes', 'it seems', 'would reason'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's dialogues (Apology, Euthyphro, Gorgias, Republic II, Greater Hippias)",
+      "Secondary sources: Vlastos, McPherran, O'Connell"
+    ],
+    "evidence_type": "Textual exegesis and philosophical reasoning",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and rational theology",
+    "sentiment": "Analytic and historical",
+    "thematic_focus": "Philosophy of religion, ethics, epistemology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive refinement"
+  },
+  "summary_of_core_decisions": "The essay systematically contrasts Socratic piety with Athenian traditional religion, defines god's attributes (wise, good, moral, purposeful), and derives piety as imitating god by helping others improve their souls. It uses the elenchus as both method and subject matter.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative definition",
+    "hedging_density_in_final_paragraph": "Low \u2013 states 'Thus, for Socrates, piety is to be like god.' without hedging"
+  },
+  "_source_corpus": "human",
+  "_source_file": "macgregor-socrates_god_and_piety.txt"
+}

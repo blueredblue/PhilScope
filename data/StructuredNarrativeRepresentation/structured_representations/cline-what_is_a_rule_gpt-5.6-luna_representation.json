@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "rule vs. habit",
+      "interpretation vs. understanding",
+      "essence vs. grammar",
+      "seeming right vs. being right",
+      "practice as aggregate vs. normative practice",
+      "following a rule vs. conforming to custom"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": []
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "replies to conventionalism and relativism by distinguishing practice from mere consensus",
+    "objections_raised": [
+      "conventionalism",
+      "relativism",
+      "private rule-following",
+      "anti-intellectualism",
+      "anti-rationalism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Wittgenstein"
+    ],
+    "evidence_type": "conceptual analysis, ordinary language, musical examples, thought experiments",
+    "named_thought_experiments": [
+      "child learning 'red'",
+      "Schubert staccato",
+      "Beethoven tempo",
+      "private rule-following"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "practice-based, anti-foundationalist, ordinary language philosophy",
+    "sentiment": "anti-essentialist but not anti-realist about rules",
+    "thematic_focus": "rule-following, family resemblance, normativity, meaning as use"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sections with progressive dialectical development"
+  },
+  "summary_of_core_decisions": "The text resolves the tension between rule-essence and rule-practice by rejecting the picture of a hidden essence and identifying rule-content with the grammar of use. It argues that rules are family-resemblance concepts, that understanding is a practical capacity to 'go on', and that examples and training are indispensable. It defends this view against conventionalism and relativism by emphasizing the normative, critical dimension internal to practices.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "cline-what_is_a_rule_gpt-5.6-luna.txt"
+}

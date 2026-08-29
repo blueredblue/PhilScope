@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical evaluation of a philosophical debate",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often embedded in examples and thought experiments rather than formally stated"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with both sides, considers objections, and acknowledges limitations",
+    "logical_relevance": "High - all arguments directly address the semantic/pragmatic distinction",
+    "premise_acceptability": "Moderate - relies on intuitions about truth values in thought experiments, which may be contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Attributive vs. referential use of definite descriptions",
+      "Semantic vs. pragmatic significance",
+      "Speaker's referent vs. semantic referent",
+      "Implication vs. entailment",
+      "Belief vs. interpretation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Attributive use: predicate a property of whatever fits the description",
+      "Referential use: use description to refer to a particular object/person",
+      "Semantic referent (Kripke): what uniquely satisfies the description or is named",
+      "Pragmatic significance: concerns speech acts and speaker intentions, not truth conditions"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Considers Kripke's objection that the distinction is pragmatic, then argues that interpretation and truth conditions still support semantic relevance",
+    "objections_raised": [
+      "Kripke's claim that Donnellan's distinction is merely pragmatic",
+      "Kripke's notion of semantic referent as an alternative explanation",
+      "The possibility that belief differences underlie the distinction"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedged phrases like 'seems', 'may', 'I think'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Donnellan",
+      "Kripke",
+      "Russell"
+    ],
+    "evidence_type": "Thought experiments, hypothetical examples, conceptual analysis",
+    "named_thought_experiments": [
+      "Smith's murderer is insane",
+      "Her husband is kind to her",
+      "The red book is long",
+      "The man over there playing poker is sad tonight"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, philosophy of language",
+    "sentiment": "Neutral/analytical",
+    "thematic_focus": "Definite descriptions, reference, semantics vs. pragmatics, truth conditions"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sequential - introduction, exposition, critique, evaluation, conclusion"
+  },
+  "summary_of_core_decisions": "The paper evaluates whether Donnellan's distinction between attributive and referential uses of definite descriptions has semantic or merely pragmatic importance. It concludes that the distinction is semantically relevant because truth conditions can be applied to referential uses even when the description is inaccurate, provided interpretation is considered. Kripke's objection that the distinction is pragmatic is not fully successful.",
+  "thesis_commitment": {
+    "conclusion_type": "Defends a position (Donnellan's distinction has semantic import)",
+    "hedging_density_in_final_paragraph": "Moderate - uses 'seems', 'may', but asserts a clear conclusion"
+  },
+  "_source_corpus": "human",
+  "_source_file": "feuerlein-donnellans_distinction.txt"
+}

@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical evaluation with thesis refinement",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate\u2014many premises are embedded in narrative prose rather than enumerated as formal premises"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High\u2014the essay engages with multiple objections and offers nuanced distinctions",
+    "logical_relevance": "High\u2014all sections directly bear on the viability of Hill's desertist solution",
+    "premise_acceptability": "Mixed\u2014some premises are explicitly controversial (e.g., divine premotion, universal prevenient grace), while others are minimal and broadly acceptable within theism"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Strict desert (commutative justice) vs. congruent desert (fittingness)",
+      "Condign merit vs. congruent merit",
+      "Desert as moral credit vs. desert as relational appropriateness",
+      "Rawlsian socioeconomic desert vs. interpersonal relational fittingness",
+      "Controversial metaphysical machinery vs. minimal theistic premises"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Desert base: the feature of an agent that makes it the case that the agent deserves a specific treatment or outcome",
+      "Condign desert: desert based on intrinsic proportion between work and reward, rooted in justice",
+      "Congruent desert: desert based on friendship, fittingness, and divine generosity"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The essay distinguishes between strict and congruent desert, and ultimately replaces desert with relational fittingness to avoid the objections",
+    "objections_raised": [
+      "Effort cannot be a valid desert base because all human capacity and action depend on divine grace, leading to circular accounting",
+      "Rawlsian critique: the ability to pray respectfully is itself a product of unearned natural talents, upbringing, and circumstances, making the generated desert arbitrary",
+      "Strict desert model relies on controversial theological and metaphysical premises (e.g., libertarian free will, specific accounts of divine-human cooperation)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low\u2014the essay uses hedged, evaluative language (e.g., 'can be read as', 'seems', 'plausible defense')",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Thomas Aquinas",
+      "Gregory the Great",
+      "John Rawls",
+      "Augustine"
+    ],
+    "evidence_type": "Philosophical argumentation, historical theological distinctions, and thought experiments",
+    "named_thought_experiments": [
+      "Giving a beggar a dollar using money stolen from him (illustrating circular desert)",
+      "Child asking a loving parent for bread (illustrating relational fittingness)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of religion with historical theology",
+    "sentiment": "Neutral-to-sympathetic evaluation of Hill's project, ultimately defending a modified version",
+    "thematic_focus": "Petitionary prayer, divine providence, moral desert, grace, relational fittingness"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with progressive argumentation: puzzle \u2192 historical backdrop \u2192 Hill's mechanics \u2192 objections \u2192 refinement \u2192 defense \u2192 conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that Hill's desertist solution to the puzzle of petitionary prayer is only viable if 'desert' is reinterpreted as congruent merit or relational fittingness, not strict commutative justice. This reinterpretation avoids both the Thomistic problem of divine primary causality and the Rawlsian problem of unearned capacities, while preserving prayer's genuine moral and relational efficacy.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "Moderate\u2014the final position is clear but carefully qualified with 'can be read as' and 'if' conditions"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "aquinas-and-gregory-the-great-on-the-puzzle-of-petitionary_gemini-3.5-flash-lite.txt"
+}

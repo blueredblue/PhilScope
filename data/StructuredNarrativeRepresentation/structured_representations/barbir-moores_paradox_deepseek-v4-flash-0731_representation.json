@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative evaluation of two competing explanations, followed by a normative claim about rationality.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often embedded in prose, but key claims are stated clearly."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views, anticipates objections, and provides counterarguments.",
+    "logical_relevance": "High - all points directly address the central question of the absurdity's nature.",
+    "premise_acceptability": "Moderate - relies on contested philosophical intuitions about assertion and belief."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Omissive vs. commissive forms of Moore's paradox",
+      "Pragmatic implicature vs. constitutive rule",
+      "Theoretical vs. practical rationality",
+      "Report vs. expression of belief",
+      "Conversational norm vs. grammatical/constitutive norm"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Theoretical rationality: coherence of beliefs, response to evidence, avoidance of logical inconsistency.",
+      "Practical rationality: coherence of actions, intentions, means-end reasoning."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author anticipates the objection that assertion is a practical act and thus any violation is practical, and replies by distinguishing the normative source (epistemic) from the locus (speech act).",
+    "objections_raised": [
+      "Gricean account presupposes the norm it explains.",
+      "Gricean account reduces absurdity to mere pragmatic infelicity, losing the sense of incoherence.",
+      "Gricean account fails to handle commissive form as powerfully as Wittgensteinian view."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'I will defend', 'it is', 'the problem is'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "G.E. Moore",
+      "Paul Grice",
+      "Ludwig Wittgenstein"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, comparative evaluation of theories.",
+    "named_thought_experiments": [
+      "The Moorean sentence itself",
+      "The promise example: 'I promise to come, but I won't come'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, ordinary language philosophy, philosophy of language and mind.",
+    "sentiment": "Neutral, analytical, critical.",
+    "thematic_focus": "Philosophy of language, epistemology, philosophy of mind."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections (I-V) and clear topic sentences."
+  },
+  "summary_of_core_decisions": "The essay argues that the Gricean-Moorean account of Moore's paradox fails because it treats the link between assertion and belief as a cancellable conversational implicature, whereas the absurdity is a constitutive, grammatical violation. A Wittgensteinian view, where 'I believe p' is a hesitant assertion of p, better explains the performative contradiction. The violation is primarily of theoretical rationality (epistemic consistency), with practical rationality only derivatively implicated.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and explanatory",
+    "hedging_density_in_final_paragraph": "Low - the author states the position firmly."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "barbir-moores_paradox_deepseek-v4-flash-0731.txt"
+}

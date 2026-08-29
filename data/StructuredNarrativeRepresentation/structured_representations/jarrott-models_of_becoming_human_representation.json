@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens and thought experiment-based reasoning",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Mostly implicit, with key premises stated informally (e.g., 'subjective experience can be dissociated from objective time')"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate: acknowledges objections (backwards causation, fatalism) but relies on logical possibility rather than empirical plausibility",
+    "logical_relevance": "High: all thought experiments directly support the thesis that subjective time does not uniquely determine objective becoming",
+    "premise_acceptability": "Mixed: some premises (e.g., that memory ordering can be reversed) are empirically grounded, others (e.g., backwards causation) are stipulated as logically possible"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Subjective vs. objective past/future",
+      "Becoming vs. unbecoming",
+      "Growing Block vs. Backwards Block vs. Diminishing Block",
+      "Presentism vs. Eternalism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Subjective past: memory hierarchy at a moment",
+      "Subjective future: state toward which one feels headed based on memory",
+      "Objective past: states that already exist or have come into being",
+      "Objective future: states not yet come into existence"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges objections (backwards causation, fatalism, memory of future) and responds by appealing to logical possibility, statistical mechanics, and the stipulation of the thought experiments",
+    "objections_raised": [
+      "Backwards causation seems impossible (Dummett's apple example)",
+      "Fatalistic worlds are implausible",
+      "Memories of the future but not the past are strange"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'could', 'might', 'possible', 'conceivably'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "McTaggert",
+      "Dummett",
+      "Broad",
+      "Heller",
+      "Le Poidevin and MacBeath"
+    ],
+    "evidence_type": "Thought experiments, empirical examples (d\u00e9j\u00e0 vu, waking from sleep), conceptual analysis",
+    "named_thought_experiments": [
+      "Marty (reversed memory priority)",
+      "Biff (Backwards Block world)",
+      "Doc (Diminishing Block world)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of time, metaphysics",
+    "sentiment": "Neutral, exploratory; aims to break down intuitions rather than defend a specific theory",
+    "thematic_focus": "Temporal becoming, subjective experience of time, ontology of time"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections (I\u2013V) and subsections (a, b)"
+  },
+  "summary_of_core_decisions": "The paper argues that the subjective experience of time does not uniquely determine the objective structure of temporal becoming. It introduces two alternative models (Backwards Block and Diminishing Block) and uses thought experiments to show that subjects in those worlds would have the same subjective experience as we do under the Growing Block model. The conclusion is that our intuitions about time are not reliable guides to its metaphysics, and empirical investigation is needed.",
+  "thesis_commitment": {
+    "conclusion_type": "Moderate: argues for the possibility that non-intuitive models of becoming could produce the same subjective experience, thereby undermining the intuitive privilege of Growing Block",
+    "hedging_density_in_final_paragraph": "High: 'I hope', 'maybe', 'perhaps', 'might'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "jarrott-models_of_becoming.txt"
+}

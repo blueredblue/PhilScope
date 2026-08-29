@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mixed: some premises are explicit, others are implicit and reconstructed from textual evidence."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with opposing views (e.g., Marion's apparent neglect of individual possibility) and resolves them.",
+    "logical_relevance": "High: all premises and examples directly support the thesis about individual possibility and the self.",
+    "premise_acceptability": "Moderate: relies on contested interpretations of Kant, Heidegger, and Marion, but defends them with textual citations."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Practical vs. speculative possibility",
+      "Logical vs. real vs. existential possibility",
+      "Inner sense vs. apperception",
+      "Transcendental ego vs. empirical self",
+      "Phenomenon vs. saturated phenomenon"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Practical possibility: making the object actual (Kant)",
+      "Speculative possibility: agreement with formal conditions of experience",
+      "Dynamis: active source of change (Aristotle)",
+      "Existential possibility: Dasein's being-possible (Heidegger)",
+      "Saturated phenomenon: intuition for which no adequate concept can be found (Marion)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses potential objections (e.g., Marion's apparent neglect of individual possibility) by showing that the saturated phenomenon is by definition within every individual's halo of possibility.",
+    "objections_raised": [
+      "Marion ignores the individual nature of possibility",
+      "Kant's distinction between practical and speculative reason creates a gap",
+      "Possibility might be equivocal across contexts"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses hedged language like 'seems', 'may be', 'perhaps'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Aristotle",
+      "Heidegger",
+      "Marion",
+      "Guyer",
+      "Graham"
+    ],
+    "evidence_type": "Textual exegesis, historical comparison, conceptual analysis",
+    "named_thought_experiments": [
+      "Listing all possibilities for tomorrow (omniscience thought experiment)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental idealism (Kantian) with phenomenological elements (Marion, Heidegger)",
+    "sentiment": "Neutral, analytic",
+    "thematic_focus": "Metaphysics, epistemology, ethics, phenomenology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections (I, II, III) and a conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that possibility is inherently individual and that the self is constituted by a 'halo of possibility'. It reconciles Kant's distinction between practical and speculative possibility by showing that both are unified in the self, which is both noumenal and phenomenal. The argument proceeds dialectically: from Kant's division, through historical alternatives (Aristotle, Heidegger), to Marion's saturated phenomenon, and finally to a synthesis where the self bridges the gap. The method is textual and conceptual, engaging with primary and secondary sources to defend the thesis.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive without hedging."
+  },
+  "_source_corpus": "human",
+  "_source_file": "christensen-on_being_a_self.txt"
+}

@@ -1,0 +1,78 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental inference",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mixed: some premises explicit, others implicit in textual analysis"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with alternative interpretations and anticipates objections",
+    "logical_relevance": "High: all arguments directly support the transcendental interpretation and its modal classification",
+    "premise_acceptability": "Moderate: relies on interpretive claims about Descartes and Kant that are contestable"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "a priori vs. a posteriori",
+      "analytic vs. synthetic",
+      "necessary vs. contingent",
+      "transcendental ego vs. empirical ego",
+      "existence1 vs. existence2",
+      "syllogistic vs. transcendental inference"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "a priori: known prior to experience",
+      "a posteriori: known after or in experience",
+      "necessary: could not have been otherwise",
+      "contingent: might have been otherwise",
+      "transcendental ego: presupposition of possibility of experience"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses potential anachronism and the problem of existential claims being indubitable",
+    "objections_raised": [
+      "Anachronism of applying Kantian categories to Descartes",
+      "How can any existential claim be necessary?",
+      "Performative theory reduces to a posteriori contingency"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'certain', 'indubitable', 'necessarily' in analysis",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Descartes",
+      "Kant",
+      "Hintikka",
+      "Kripke",
+      "Plantinga",
+      "Trapp",
+      "Frankfurt",
+      "Swing"
+    ],
+    "evidence_type": "Textual evidence from Descartes's works and secondary literature",
+    "named_thought_experiments": [
+      "De Gaulle's assertion of his own non-existence",
+      "Goldbach Conjecture as possible a posteriori necessity"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental philosophy (Kantian) applied to Descartes",
+    "sentiment": "Analytic philosophy with historical exegesis",
+    "thematic_focus": "Necessity, self-knowledge, transcendental logic"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with historical and systematic analysis"
+  },
+  "summary_of_core_decisions": "The paper argues that the Cogito's necessity is a posteriori necessity, grounded in a transcendental inference to the transcendental ego, and that this interpretation resolves the apparent contradiction with Descartes's doubt of necessary truths.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis about Descartes's Cogito",
+    "hedging_density_in_final_paragraph": "Low: states conclusion confidently"
+  },
+  "_source_corpus": "human",
+  "_source_file": "foote-necessary_truth_and_the_transcendental_interpretation.txt"
+}

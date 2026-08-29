@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical qualification",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "High"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "proposition vs. experience",
+      "doctrine vs. dogmatism",
+      "dialogue vs. treatise",
+      "aphorism vs. system",
+      "passive vs. active reading",
+      "misreading vs. self-knowledge"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "mask",
+      "dogmatism",
+      "nihilism",
+      "self-knowledge",
+      "experiential communication"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges limitations and integrates them into final assessment",
+    "objections_raised": [
+      "Masks can become catechisms or slogans",
+      "Ambiguity can cultivate projection",
+      "Elitism risk",
+      "Obscurity can be unfair to readers",
+      "No literary form can guarantee correct reading"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato",
+      "Nietzsche",
+      "Phaedrus",
+      "Ecce Homo"
+    ],
+    "evidence_type": "Textual interpretation and comparative analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental",
+    "sentiment": "Neutral",
+    "thematic_focus": "Philosophical method, pedagogy, self-knowledge, literary form"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thematic with progressive qualification"
+  },
+  "summary_of_core_decisions": "The text argues that Plato's dialogues and Nietzsche's aphorisms are deliberate masks that resist dogmatic reading by making the reader an active participant, but they do not abandon propositions or guarantee correct interpretation; their success lies in making misreading and self-knowledge part of philosophical education.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "Moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "andersen-the_philosophical_task_of_writing_gpt-5.6-luna.txt"
+}

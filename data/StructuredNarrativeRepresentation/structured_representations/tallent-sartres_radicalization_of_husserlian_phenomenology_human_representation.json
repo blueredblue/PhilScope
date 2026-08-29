@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "comparative_phenomenological_reconstruction",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate_to_high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_to_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "appearance_essence",
+      "finite_infinite",
+      "reflection_reflexion",
+      "reflet_reflexion",
+      "facticity_transcendence",
+      "pre_reflective_self_consciousness_positional_consciousness",
+      "noematic_reflection_noesis",
+      "ego_Ego"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "phenomenon",
+      "essence",
+      "for_itself",
+      "in_itself",
+      "nothing",
+      "facticity",
+      "transcendence",
+      "reflection",
+      "ego",
+      "hyle",
+      "intentionality",
+      "Abschattung"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "explicitly_acknowledges_difficulties_and_offers_reinterpretation",
+    "objections_raised": [
+      "Sartre's_reading_of_hyle_is_unfair",
+      "Sartre's_reading_of_Husserlian_ego_is_unfair",
+      "Husserl's_ego_constitution_is_ambiguous",
+      "consciousness_as_nothing_is_intuitively_difficult"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Husserl",
+      "Sartre"
+    ],
+    "evidence_type": "textual_quotation_and_interpretation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "phenomenology",
+    "sentiment": "sympathetic_to_Husserl_and_Sartre",
+    "thematic_focus": "consciousness_ego_intentionality_appearance_ontology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis_defense_with_historical_comparison_and_reinterpretation"
+  },
+  "summary_of_core_decisions": "The text defends a Husserlian reading of Sartre's Being and Nothingness, arguing that Sartre radicalizes Husserl by including consciousness itself in the phenomenal world of appearances. It distinguishes three senses in which consciousness is a nothing, reinterprets the ego as a constituted noematic unity, and concludes that this reading makes Sartre's controversial claims more plausible.",
+  "thesis_commitment": {
+    "conclusion_type": "interpretive_and_philosophical",
+    "hedging_density_in_final_paragraph": "moderate_to_high"
+  },
+  "_source_corpus": "human",
+  "_source_file": "tallent-sartres_radicalization_of_husserlian_phenomenology.txt"
+}

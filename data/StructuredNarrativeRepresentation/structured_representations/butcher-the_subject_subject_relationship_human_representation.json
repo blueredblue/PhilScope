@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative and constructive philosophical argument",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often implicit in phenomenological descriptions and logical deductions from transcendence"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with Sartre's position, acknowledges its strengths, and offers a nuanced alternative",
+    "logical_relevance": "Strong - each step builds on the previous, from Sartre's conflict to Tillich's hint to Irigaray's two-subject model",
+    "premise_acceptability": "Reasonable - relies on widely accepted phenomenological observations and philosophical concepts, though some premises (e.g., the necessity of mutual transcendence for communication) are contestable"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Subject vs. Object",
+      "Transcendence vs. Objectification",
+      "Being-seen-by-another vs. Being-for-others",
+      "Other-as-subject vs. Other-object",
+      "One-and-many vs. Two",
+      "Conflict vs. Anticipation",
+      "Static vs. Fluid self"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Transcendence: continual self-overcoming",
+      "Objectification: reducing the Other to a set of predictable responses",
+      "Subject-subject relationship: mutual recognition of each other's transcendence"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges the difficulty of avoiding objectification in absence and preparation, but argues that actual communication requires a shift to subject-subject; also notes the indeterminacy of self as a parallel unknown",
+    "objections_raised": [
+      "The problem of objectifying the Other even in imagination",
+      "The impossibility of fully knowing the Other's reaction",
+      "The risk of solipsism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses phrases like 'seems to indicate', 'I believe', 'it is likely'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Sartre",
+      "Tillich",
+      "Irigaray"
+    ],
+    "evidence_type": "Phenomenological description, logical deduction, textual interpretation",
+    "named_thought_experiments": [
+      "Conversation with a professor",
+      "Evening with a friend",
+      "Imagining the Other's look"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Existentialism and phenomenology, with a relational ontology",
+    "sentiment": "Constructive and critical, aiming to overcome conflict through mutual recognition",
+    "thematic_focus": "Interpersonal communication, transcendence, otherness, subjectivity"
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "Linear progression from exposition to critique to constructive proposal, with a concluding synthesis"
+  },
+  "summary_of_core_decisions": "The essay decides to take Tillich's brief idea out of context and develop it within Sartre's framework, thereby offering a non-conflictual model of interpersonal relations based on mutual recognition of transcendence, and incorporates Irigaray's 'two subjects' to articulate the relational unit.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and descriptive",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive but acknowledges the departure from Tillich's intent"
+  },
+  "_source_corpus": "human",
+  "_source_file": "butcher-the_subject_subject_relationship.txt"
+}

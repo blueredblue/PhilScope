@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against the Direct Argument's self-sufficiency",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly explicit, with formalized inference principles and numbered premises"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with strongest defenses and anticipates objections",
+    "logical_relevance": "All premises and objections directly bear on the validity of Transfer NR1 and the Direct Argument",
+    "premise_acceptability": "Premises are defended through thought experiments and conceptual distinctions; final conclusion depends on the contested status of PAP"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Direct vs indirect incompatibilist arguments",
+      "Transfer NR vs Transfer NR1 vs Transfer NR1p",
+      "One-path vs two-path cases",
+      "Overdetermination vs single pathway",
+      "Moral responsibility vs causal determination",
+      "Alternative possibilities vs no-alternative scenarios"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "NR(p)",
+      "Transfer NR",
+      "Transfer NR1",
+      "Two-path case",
+      "One-path case",
+      "Pathway"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Systematic: each objection is stated and answered; final objection is conceded but neutralized by appeal to Frankfurt cases",
+    "objections_raised": [
+      "Premise (2b) might be false",
+      "Bob's case might be a spurious two-path case",
+      "Premise (2b) might not express the pathway required by Transfer NR1",
+      "Bob lacks alternative possibilities, so PAP would make him non-responsible"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'plausible', 'clearly', 'cannot be denied'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Fischer and Ravizza",
+      "Eleonore Stump"
+    ],
+    "evidence_type": "Philosophical thought experiments and formal inference principles",
+    "named_thought_experiments": [
+      "Erosion",
+      "Bob case"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy; free will and moral responsibility literature",
+    "sentiment": "Neutral-critical; aims to show a popular argument fails on its own terms",
+    "thematic_focus": "Incompatibilism, moral responsibility, alternative possibilities, causal determinism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-counterexample-objection-reply-conclusion"
+  },
+  "summary_of_core_decisions": "The author defines the Direct Argument, presents Fischer and Ravizza's two-path counterexample, presents Stump's restricted Transfer NR1, constructs a one-path counterexample to Transfer NR1, defends it against objections, and concludes that the Direct Argument depends on PAP and is therefore not direct.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative thesis about an argument's status",
+    "hedging_density_in_final_paragraph": "Low: states decisively that the Direct Argument is already a failure"
+  },
+  "_source_corpus": "human",
+  "_source_file": "mahaffey-the_direct_argument.txt"
+}

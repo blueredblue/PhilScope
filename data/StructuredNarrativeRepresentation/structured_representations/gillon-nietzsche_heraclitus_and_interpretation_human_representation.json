@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reconstructive interpretation followed by internal critique and resolution",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate - premises are often embedded in interpretive claims and logical analysis"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views (Matthews) and anticipates objections",
+    "logical_relevance": "High - all sections directly support the thesis about Nietzsche's interpretive practice",
+    "premise_acceptability": "Moderate - relies on specific readings of Nietzsche and Heraclitus that may be contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Sensation vs. interpretation",
+      "Perception vs. interpretation",
+      "Apparent world vs. true world",
+      "Permanence vs. becoming",
+      "Preferred perspective vs. multiple perspectives",
+      "Explanatory value vs. openness to experience"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Sensation = perception + interpretation",
+      "NC = Nietzsche's Criteria for Heraclitus",
+      "NHI = Nietzsche's Heraclitus Interpretation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic - considers and rejects alternative solutions (preferred interpretation, will to power) before offering own",
+    "objections_raised": [
+      "If no true world, how can interpretations be incorrect?",
+      "If no preferred perspective, how can one interpretation be better?",
+      "Will to power as criterion fails because Heraclitus's theory already exhibits it"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'likely', 'seems', 'appears'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Nietzsche's texts (Ecce Homo, Twilight, Daybreak, Beyond Good and Evil, etc.)",
+      "Heraclitus fragments (Marcovich, Kahn, Bernays)",
+      "Secondary sources (Matthews, Graham)"
+    ],
+    "evidence_type": "Textual evidence and logical analysis",
+    "named_thought_experiments": [
+      "Karl Ernst's thought experiment on perception rate"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental philosophy (Nietzsche studies) with analytic rigor",
+    "sentiment": "Neutral, analytical",
+    "thematic_focus": "Interpretation, truth, perspectivism, will to power"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with historical reconstruction"
+  },
+  "summary_of_core_decisions": "The essay reconstructs Nietzsche's interpretation of Heraclitus into three criteria (NC) and a fuller interpretation (NHI), then identifies paradoxes arising from Nietzsche's agreement/disagreement with those criteria. It resolves the paradoxes by proposing that acceptable interpretations must be open to new experiences and not claim absolute truth, thereby showing that Nietzsche does engage philosophically with the Presocratics.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis about Nietzsche's philosophical practice",
+    "hedging_density_in_final_paragraph": "Low - states 'simply false' and 'profoundly interesting'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "gillon-nietzsche_heraclitus_and_interpretation.txt"
+}

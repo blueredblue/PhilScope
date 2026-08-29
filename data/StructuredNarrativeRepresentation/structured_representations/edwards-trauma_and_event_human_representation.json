@@ -1,0 +1,78 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical research paper that advances a thesis through a sequence of comparative and critical engagements. It moves from a reconstruction of Merleau-Ponty's later philosophy of time, to an analogy with Freud's trauma theory, to a confrontation with G\u00e9ly and Badiou on the event-subject relation.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "The paper's central thesis is explicitly stated in the introduction: the event in Merleau-Ponty's later thought is best understood through 'mythical time' as an invisible, retroactively significant, and open phenomenon. The thesis is progressively refined through each section."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The paper is dialectically reasonable: it presents opposing positions (G\u00e9ly vs Badiou; serial vs mythical time; visible vs invisible event) and adjudicates them through textual evidence and conceptual analysis. It acknowledges tensions and leaves some questions open.",
+    "logical_relevance": "All sections are relevant to the central question of how to situate the event in Merleau-Ponty's non-serial time. The examples (La Princesse de Cl\u00e8ves, Swann's Way, Wolfman) are used as test cases for the theory.",
+    "premise_acceptability": "The premises are generally acceptable within the phenomenological tradition, though the paper relies heavily on secondary interpretations (Carbone, Chouraqui, G\u00e9ly, Zizek) and analogical reasoning rather than direct textual proof."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "serial time vs mythical time",
+      "horizontal vs horizonal",
+      "visible event vs invisible event",
+      "immanence vs transcendence of the event",
+      "pre-existing subject vs event-constituted subject",
+      "reflective causality vs indeterminate openness",
+      "Badiou's finite event vs Merleau-Ponty's open event"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "mythical time as 'time of half-sleep'",
+      "event as 'invisible sediment of significance'",
+      "event as 'cohesion of incompossibles'",
+      "event as 'past that never was present'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The paper identifies a potential snag in the event's invisibility vs immanence and addresses it by proposing a 'psychoanalysis of the invisible.' It also considers G\u00e9ly's objection to Badiou and responds by reinterpreting the touching-touched example.",
+    "objections_raised": [
+      "If the event is invisible, how can it be immanent or open to rectification?",
+      "Does the Swann/Odette example refute G\u00e9ly's account of the subject instituting the event?",
+      "Does the touching-touched example require a pre-existing subject, as G\u00e9ly assumes?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The paper uses cautious modal language ('might', 'seems', 'I argue', 'I hope') and avoids dogmatic claims. It often proposes interpretations rather than definitive conclusions.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Merleau-Ponty's primary texts",
+      "Carbone",
+      "Chouraqui",
+      "G\u00e9ly",
+      "Zizek",
+      "Badiou",
+      "Freud"
+    ],
+    "evidence_type": "Textual interpretation, conceptual analogy, literary example, thought experiment, secondary literature",
+    "named_thought_experiments": [
+      "touching-touched",
+      "Wolfman's primal scene",
+      "Swann's love for Odette"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenology (Merleau-Ponty), psychoanalysis (Freud/Zizek), post-Althusserian philosophy (Badiou), French contemporary philosophy",
+    "sentiment": "The paper is sympathetic to Merleau-Ponty but critical of G\u00e9ly; it is partially sympathetic to Badiou while rejecting his serial temporality.",
+    "thematic_focus": "Time, event, subjectivity, trauma, invisibility, historical meaning"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction, three numbered sections, conclusion, works cited. Each section ends with a summary and transition to the next."
+  },
+  "summary_of_core_decisions": "The paper's core decisions are: (1) reject serial time in favor of mythical time; (2) define the event as invisible, retroactively significant, and open; (3) reject G\u00e9ly's pre-existing subject and align partially with Badiou's event-constituted subject; (4) maintain a non-serial understanding of time against Badiou; (5) propose a psychoanalytic method for accessing the invisible event.",
+  "thesis_commitment": {
+    "conclusion_type": "The paper concludes by suggesting new directions for research rather than offering a fully closed system. It affirms a Merleau-Pontian theory of the event as horizonal, open, and retroactively significant.",
+    "hedging_density_in_final_paragraph": "The final paragraph uses 'I hope' and 'might' to frame implications, indicating a tentative, exploratory stance."
+  },
+  "_source_corpus": "human",
+  "_source_file": "edwards-trauma_and_event.txt"
+}

@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens and reductio ad absurdum",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mixed: some premises are explicit, others are implicit and reconstructed from Hick's texts"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with Hick's later defense and anticipates objections",
+    "logical_relevance": "High: all premises directly support the thesis",
+    "premise_acceptability": "Moderate: relies on anthropological evidence and internal consistency of Hick's views"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Pre-axial vs. post-axial religions",
+      "Soteriological vs. ethical criteria",
+      "Veridical vs. delusory religious experience",
+      "Pluralistic hypothesis vs. exclusivism",
+      "The Real as ineffable vs. experienced"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Religious experience as 'modifications in the content of consciousness' employing religious concepts",
+      "Soteriological effectiveness as criterion for truthfulness"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Anticipates and responds to Hick's ethical criterion defense, showing it fails to exclude pre-axial religions",
+    "objections_raised": [
+      "Hick might claim pre-axial religions are delusory",
+      "Hick's later defense using ethical criterion",
+      "Hick's selection of post-axial religions as providing the right criterion"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'seems', 'likely', 'apparently'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hick's own texts",
+      "Anthropological sources (Lyon, Hume, Som\u00e9, Bonvillain)",
+      "Ward and Mavrodes for philosophical context"
+    ],
+    "evidence_type": "Empirical examples from indigenous religions, textual analysis of Hick's works",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of religion",
+    "sentiment": "Critical but constructive; aims to improve pluralistic hypothesis",
+    "thematic_focus": "Religious diversity, pluralism, exclusivism, religious experience"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with internal critique and objection-reply"
+  },
+  "summary_of_core_decisions": "The article's core decision is to apply Hick's own parity-of-experience principle to pre-axial religions, exposing an arbitrary exclusion. It then critiques the soteriological criterion as unjustified, and finally argues that any adequate pluralism must include all religious experience.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative critique with positive implication",
+    "hedging_density_in_final_paragraph": "Low: states conclusion firmly but acknowledges broader oversight"
+  },
+  "_source_corpus": "human",
+  "_source_file": "rogers-exclusivism_in_hicks_pluralistic_hypothesis.txt"
+}

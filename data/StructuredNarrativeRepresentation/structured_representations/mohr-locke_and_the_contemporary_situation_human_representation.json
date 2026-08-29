@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Deductive conditional argument with a modus tollens structure: If Locke's theory is applied to the contemporary situation, it would not support individualist goals (because of lack of unoccupied land and large populations). Since individualists seek to increase liberty and reduce government control, and Locke's theory would force them to submit to majority rule in existing states, the theory fails to support contemporary individualists.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are clearly stated (e.g., 'all land is occupied', 'majority rule is binding', 'rebellion is unjustified or ineffective') and conclusions follow explicitly."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate - the author engages with potential objections (e.g., rebellion, taxation) but does not fully consider all possible counterarguments (e.g., that individualists might accept majority rule as a necessary evil).",
+    "logical_relevance": "High - all premises directly support the conclusion about Locke's theory's inapplicability.",
+    "premise_acceptability": "Moderate - some premises are empirically questionable (e.g., 'no unoccupied land' is asserted but not rigorously proven; the claim that large populations diminish individual influence is a generalization)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Explicit vs. tacit consent",
+      "Natural rights vs. alienable rights",
+      "Just vs. unjust rebellion",
+      "Individualist vs. majoritarian governance"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "In vacuis locis (empty places) - free and unpossessed land",
+      "Inalienable rights - rights that cannot be taken away (e.g., property, non-arbitrary rule)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates objections (e.g., 'rebellion is an option') and responds by showing that rebellion is either unjustified (taxation is not a violation of natural rights) or unlikely to produce a libertarian state (majority of revolutionaries would not be libertarian).",
+    "objections_raised": [
+      "Rebellion as a means to change government",
+      "Taxation as infringement on property rights",
+      "Possibility of starting a new society in unoccupied land"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'most likely', 'would be', 'it follows' but also asserts definitive claims (e.g., 'there is no longer an option').",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Locke's Two Treatises of Government (primary source)",
+      "Robert Nozick, Michael Zuckert, Michael Otsuka, Tibor Machan, Neil Lock (secondary sources in footnote)"
+    ],
+    "evidence_type": "Textual evidence from Locke's work, empirical claims about contemporary geography and demographics, and logical reasoning.",
+    "named_thought_experiments": [
+      "The scenario of a contemporary individualist trying to start a new society in 'empty places' (which no longer exist)",
+      "The hypothetical of a libertarian rebellion leading to a new non-minimal state"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Empirical and historical - the argument relies on factual changes (land occupation, population size) rather than purely abstract principles.",
+    "sentiment": "Critical of libertarian appeals to Locke, but not dismissive of Locke's theory in its original context.",
+    "thematic_focus": "Political philosophy, social contract theory, individual liberty, majority rule, and the applicability of historical theories to modern conditions."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Classical essay structure: Introduction (thesis), Review of Locke's theory, Contemporary situation analysis, Conclusion. Within the contemporary section, sub-arguments are presented sequentially (lack of empty places, large populations, rebellion)."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to argue that Locke's theory, when applied to the present, would actually undermine individualist goals because it mandates submission to majority rule in existing states, with no viable exit or rebellion option. The author concludes that contemporary individualists cannot consistently appeal to Locke for support.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative - argues that Locke's theory does not support contemporary individualists and that they should not use it as a foundation.",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is stated firmly: 'Locke's theory, if applied to our modern world, would force people to consent to the rules of an existing society and give them little recourse.'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "mohr-locke_and_the_contemporary_situation.txt"
+}

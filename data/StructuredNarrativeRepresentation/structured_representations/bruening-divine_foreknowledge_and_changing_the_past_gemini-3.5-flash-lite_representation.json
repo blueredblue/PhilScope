@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against incompatibilism: Ostler's argument is reconstructed as a valid deductive chain, then its hidden premises are shown to be false or equivocal under alternative temporal ontologies.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High: Ostler's premises are numbered and formalized; the essay's counter-premises are also explicitly stated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: The essay engages with the strongest incompatibilist formulation, grants a hybrid temporal model for the sake of argument, and addresses standard objections.",
+    "logical_relevance": "High: Each section directly targets a premise or assumption in Ostler's argument.",
+    "premise_acceptability": "Moderate: The essay's key premises depend on contested metaphysical claims (e.g., presentism, atemporal eternalism, retrocausality), but they are defended with analogies and physical examples."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "A-theory vs B-theory of time",
+      "hard facts vs soft facts about the past",
+      "temporalized divine psychology vs eternal divine omniscience",
+      "internal state modification vs propositional truth-value revision",
+      "vicious vs non-vicious causal loops",
+      "temporal fragmentation vs holistic divine-human relational matrix",
+      "Molinist middle knowledge vs extended foreknowledge in elastic temporality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Libertarian freedom: the capacity to do otherwise under identical antecedent conditions.",
+      "Infallibility: whatever God believes is true.",
+      "Changing the past: actively modifying a completed historical event.",
+      "Retrocausality: an event at t2 causing a change in an event at t1."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates and responds to objections about the Law of Non-Contradiction, vicious causal loops, divine fallibility, and B-theoretic determinism.",
+    "objections_raised": [
+      "Changing the past violates the Law of Non-Contradiction.",
+      "Retrocausality creates vicious causal loops.",
+      "If God's past belief is updated, God is fallible.",
+      "B-theory plus determinism rules out free will anyway.",
+      "Molinism fails due to counterfactuals of freedom."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: The essay uses confident but not dogmatic language; it repeatedly says 'can be', 'is not', 'fails', 'collapses'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Boethius",
+      "Luis de Molina",
+      "Novikov self-consistency principle",
+      "General Relativity (G\u00f6del universes, Kerr black holes)"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, theological tradition, and scientific analogies.",
+    "named_thought_experiments": [
+      "Professor Smith's letter of recommendation",
+      "Closed timelike curves in physics"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical and theological",
+    "sentiment": "Anti-incompatibilist, pro-libertarian, pro-relational theology",
+    "thematic_focus": "Divine foreknowledge, libertarian free will, ontology of time, retrocausality, divine memory"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with comparative matrix"
+  },
+  "summary_of_core_decisions": "The essay's core decision is to relocate the incompatibility from the logical order of divine beliefs and human actions to the ontological order of time. It argues that once the past is not treated as a fixed, self-contained entity, the requirement that libertarian freedom entails changing God's past beliefs becomes a category mistake. The proposed solution is an 'Elastic Eternity' model in which divine foreknowledge and human freedom are harmonized through atemporal or relational divine knowledge.",
+  "thesis_commitment": {
+    "conclusion_type": "Compatibilist (libertarian freedom compatible with divine foreknowledge)",
+    "hedging_density_in_final_paragraph": "Low: The conclusion is assertive and unqualified."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "bruening-divine_foreknowledge_and_changing_the_past_gemini-3.5-flash-lite.txt"
+}

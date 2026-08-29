@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical synthesis, presenting a conflict between two opposing positions (Quine-Putnam indispensability and Maddy's naturalism), then proposing a middle-ground solution (compromise naturalism) that integrates elements from both while resolving their tension.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Premises are often implicit, embedded in the narrative, but key premises are stated as claims (e.g., 'mathematical entities are indispensable', 'scientists do not treat mathematics as ontologically committed'). The argument relies on distinctions (e.g., ontological vs. pragmatic commitment) and analogies (e.g., center of mass)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text fairly represents both sides, acknowledging Maddy's insights and Quine's strengths, and seeks a balanced resolution. It anticipates objections and provides replies, demonstrating a reasonable dialectical approach.",
+    "logical_relevance": "All arguments directly address the central tension and support the thesis. The distinctions and analogies are relevant to the problem of mathematical truth and commitment.",
+    "premise_acceptability": "Premises are generally acceptable within the philosophical context, though some (e.g., the redefinition of existence as structural objectivity) are controversial. The text argues for them rather than assuming them."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Ontological commitment vs. pragmatic indispensability",
+      "Semantic realism vs. literal ontological commitment",
+      "Structural objectivity vs. platonic realm of objects",
+      "Descriptive deference vs. normative intervention",
+      "Localized practice vs. global architecture"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Compromise naturalism: a position that accepts Maddy's methodological naturalism but maintains a form of realism about mathematical structures based on pragmatic indispensability and structural objectivity.",
+      "Ontological rights: the status of robust, independent entities inhabiting a realm of abstracta.",
+      "Structural objectivity: the idea that mathematical statements are true because they articulate the structural and modal constraints of possible systems."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text addresses three main objections: (1) collapse into instrumentalism/conventionalism, (2) Benacerraf's dilemma, (3) philosophical imperialism. Each is met with a detailed reply that integrates structuralist semantics, epistemic access via inferential mastery, and reflective equilibrium.",
+    "objections_raised": [
+      "Compromise naturalism might collapse into instrumentalism or conventionalism if it denies ontological rights.",
+      "Benacerraf's dilemma: how to reconcile determinate truth-values with epistemic access without causal interaction.",
+      "Maddy's charge of philosophical imperialism: overriding scientific practice with metaphysical dictates."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses confident, assertive language (e.g., 'we must', 'it is', 'compromise naturalism dissolves') but also acknowledges complexity and potential objections. It does not express doubt about its main thesis.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine, Putnam, Maddy, Benacerraf, Shapiro, Resnik, Hellman, Balaguer, Rawls, Daniels"
+    ],
+    "evidence_type": "The text relies on conceptual analysis, thought experiments (e.g., center of mass analogy), and references to scientific practice (e.g., use of Hilbert spaces in quantum mechanics). It does not present empirical data but uses examples from science and mathematics.",
+    "named_thought_experiments": [
+      "Center of mass analogy",
+      "Neuroscientist studying consciousness analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The text is grounded in analytic philosophy, specifically philosophy of mathematics and science. It engages with contemporary debates and uses rigorous conceptual distinctions.",
+    "sentiment": "The tone is constructive and conciliatory, aiming to reconcile opposing views rather than polemically defend one side. It is optimistic about the possibility of a middle path.",
+    "thematic_focus": "The primary theme is the nature of mathematical truth and existence, and the relationship between scientific practice and metaphysical commitment."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The text follows a clear structure: Introduction, Problem Presentation, Proposal, Defense, Synthesis, Conclusion. It uses numbered sections and subheadings, and explicitly states the plan in the introduction."
+  },
+  "summary_of_core_decisions": "The text makes several key decisions: (1) It redefines mathematical existence as structural objectivity rather than platonic existence. (2) It separates semantic realism from ontological commitment. (3) It defends the normative role of philosophy via reflective equilibrium. (4) It integrates structuralist and pragmatist insights to resolve the Quine-Maddy debate.",
+  "thesis_commitment": {
+    "conclusion_type": "The conclusion is a synthesis that presents compromise naturalism as a coherent position that resolves the false dichotomy. It is not merely a summary but a manifesto with five principles.",
+    "hedging_density_in_final_paragraph": "The final paragraph is assertive and unhedged, declaring the position vindicated."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "anderson-indispensability_and_naturalism_gemini-3.5-flash-lite.txt"
+}

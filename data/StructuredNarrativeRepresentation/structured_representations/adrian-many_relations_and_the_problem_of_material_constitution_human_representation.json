@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Problem-solution with critical analysis and constructive proposal",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often embedded in examples and formal notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with Hudson's view, considers objections, and offers replies",
+    "logical_relevance": "All arguments directly address the problem of material constitution and the proposed solution",
+    "premise_acceptability": "Relies on intuitions about artifacts, organisms, and the distinction between form and matter; some premises are contestable but defended"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Three-dimensionalism vs four-dimensionalism",
+      "Proper part vs improper part",
+      "Constitution vs identity",
+      "Form vs matter",
+      "Maximal properties vs forms"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Three-dimensionalism: objects have extension in three dimensions and persist by enduring",
+      "Four-dimensionalism: objects have temporal parts and persist by perduring",
+      "Proper part: x is a proper part of y iff x is a part of y and y is not a part of x",
+      "Form: principle of unity of a thing; functional explanation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Replies to three objections: (1) region relativization makes form superfluous; (2) maximal properties are sufficient; (3) clay and statue coexist in same region",
+    "objections_raised": [
+      "Region relativization already accounts for configuration",
+      "Maximal properties could solve the problem",
+      "Clay and statue both occupy the same region"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'I suggest', 'I hope', 'it seems'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hudson",
+      "Sider",
+      "Rea",
+      "Brower",
+      "Johnston",
+      "Simons"
+    ],
+    "evidence_type": "Thought experiments, formal notation, intuitive examples",
+    "named_thought_experiments": [
+      "Tibbles and Tibs",
+      "Statue and clay",
+      "Gun and mold",
+      "Cross and tribal community"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics, mereology, hylomorphism",
+    "sentiment": "Defends a three-dimensionalist, hylomorphic account of material constitution",
+    "thematic_focus": "Problem of the many, material constitution, parthood, form"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned with numbered sections and a conclusion"
+  },
+  "summary_of_core_decisions": "The paper identifies a fatal flaw in Hudson's 3d Partist View (Tibbles problem) and proposes a five-place parthood relation that includes a form (in-F relation). This Hylomorphic Partism distinguishes constituters from constituted objects by appealing to form as a principle of unity, thereby solving the problem of the many without abandoning three-dimensionalism. The author defends the view against objections concerning superfluousness, maximal properties, and co-location.",
+  "thesis_commitment": {
+    "conclusion_type": "Constructive proposal",
+    "hedging_density_in_final_paragraph": "Low: states the view resolves problems and aligns with everyday beliefs"
+  },
+  "_source_corpus": "human",
+  "_source_file": "adrian-many_relations_and_the_problem_of_material_constitution.txt"
+}

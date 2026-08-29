@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper employs a dialectical and exegetical method, combining textual analysis of Aquinas's Summa Theologiae with philosophical argumentation. It proceeds by identifying apparent inconsistencies, introducing a key distinction (human vs. divine truth), applying this distinction to various domains (propositions, things, theories), addressing objections from contemporary theories, and concluding with an evaluation of strengths and weaknesses.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often implicit in the flow of discussion, but key premises are stated (e.g., 'truth is being', 'only divine being and mind are eternal')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the paper engages with opposing views (Frege, James, deflationists) and anticipates objections, showing a balanced approach.",
+    "logical_relevance": "All arguments directly support the thesis that distinguishing human and divine truth resolves inconsistencies.",
+    "premise_acceptability": "Varies - premises about God's existence and nature are not universally acceptable, but the paper acknowledges this as a weakness."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Human truth vs. divine truth",
+      "Truth in intellect vs. truth in things",
+      "Two senses of propositional truth (grammatical vs. meaning)",
+      "Man-made vs. natural things",
+      "Essential vs. incidental relation to mind",
+      "Correspondence vs. conformity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Correspondence theory: true statements correspond with facts",
+      "Human truth: relative, changeable, many",
+      "Divine truth: eternal, immutable, one"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The paper addresses objections regarding eternal truths (e.g., 2+2=4) by arguing their eternity derives from God's intellect, and responds to relativism by grounding ultimate truth in God.",
+    "objections_raised": [
+      "Frege's claim that propositions are eternally true with time-indication",
+      "James's relative truth of Ptolemaic system",
+      "Deflationist claim that nothing interesting can be said about truth",
+      "Potential objection that divine truth is inaccessible or irrelevant"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'seems', 'it is more intuitive', 'it seems odd', but also asserts conclusions confidently.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aquinas (primary source)",
+      "Maurer (secondary source)",
+      "Blackburn and Simmons (contemporary)",
+      "Frege, James (opponents)"
+    ],
+    "evidence_type": "Textual evidence from Aquinas's Summa Theologiae, logical reasoning, and illustrative examples (e.g., sock, wind sock, Socrates seated).",
+    "named_thought_experiments": [
+      "Socrates seated/standing",
+      "Wind sock vs. sock",
+      "Grain of sand in eye"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The paper is grounded in Thomistic metaphysics and epistemology, engaging with analytic philosophy of truth (correspondence, deflationism).",
+    "sentiment": "Neutral - presents Aquinas's view as viable but notes weaknesses.",
+    "thematic_focus": "Truth, relativism, eternity, correspondence, divine intellect"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical engagement. The paper moves from problem to distinction, application, objections, and evaluation."
+  },
+  "summary_of_core_decisions": "The paper resolves apparent inconsistencies in Aquinas's truth theory by distinguishing human truth (relative, changeable, many) from divine truth (eternal, immutable, one). It argues that human truth is correspondence-based and relative, while divine truth is the eternal standard. This dual account preserves both the intuitive correspondence notion and the necessity of eternal truth, addressing objections from Frege, James, and deflationists. The paper concludes that Aquinas's theory, despite weaknesses (reliance on God, lack of clarity), offers a comprehensive picture of truth.",
+  "thesis_commitment": {
+    "conclusion_type": "Thesis-affirming - the paper defends Aquinas's theory as coherent and comprehensive.",
+    "hedging_density_in_final_paragraph": "Low - the final paragraph asserts the theory's completeness without hedging."
+  },
+  "_source_corpus": "human",
+  "_source_file": "lund-resolving_the_inconsistencies_in_aquinass_truth_theory.txt"
+}

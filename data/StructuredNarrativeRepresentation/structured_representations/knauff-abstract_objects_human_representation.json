@@ -1,0 +1,63 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "reductio ad absurdum",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "mixed (some premises explicit, some implicit in reconstruction)"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high (accepts many of van Inwagen's claims, then shows internal inconsistency)",
+    "logical_relevance": "high (directly targets the transitivity violation)",
+    "premise_acceptability": "moderate (relies on the existence of abstract objects, which some may reject)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "abstract vs. material objects",
+      "predicate satisfaction vs. identity",
+      "ambiguous reference of 'Descartes' (material sense can pick out various parts)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "abstract object: roughly a predicate or property (e.g., 'Descartes the man')",
+      "material object: a concrete physical entity (e.g., a body or part)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "preemptive (addresses possible alternative disambiguations in footnotes)",
+    "objections_raised": [
+      "van Inwagen equivocates on 'Descartes' between abstract and material senses",
+      "the material sense of 'Descartes' is itself ambiguous (which part? whole body?)",
+      "van Inwagen fails to consistently apply DAUP in his reductio"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate (uses 'I believe', 'I think', 'must have been')",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "conceptual analysis, logical reconstruction, thought experiments",
+    "named_thought_experiments": [
+      "Descartes' left leg",
+      "D-minus (the remainder after leg removal)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy (focus on logical form, disambiguation)",
+    "sentiment": "neutral/critical",
+    "thematic_focus": "metaphysics of parts and identity, semantics of ambiguous terms"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sequential (reconstructs van Inwagen's argument step-by-step, then disambiguates each identity)"
+  },
+  "summary_of_core_decisions": "Knauff argues that van Inwagen's reductio against DAUP fails because it equivocates on 'Descartes' between an abstract sense (the man as a persisting entity) and a material sense (the body or its parts). When the four identities are disambiguated, the apparent violation of transitivity of identity disappears. Thus, DAUP is not refuted by van Inwagen's argument.",
+  "thesis_commitment": {
+    "conclusion_type": "negative (van Inwagen's argument fails)",
+    "hedging_density_in_final_paragraph": "low (states conclusion confidently but leaves open other disambiguations)"
+  },
+  "_source_corpus": "human",
+  "_source_file": "knauff-abstract_objects.txt"
+}

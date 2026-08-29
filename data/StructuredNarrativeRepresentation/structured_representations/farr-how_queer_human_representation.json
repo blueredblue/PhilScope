@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The paper employs a critical analysis of two arguments (relativity and queerness) by reconstructing them, offering counterarguments, and using logical dilemmas to show their failure.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "The author explicitly reconstructs Mackie's arguments in numbered premises (e.g., lines 1-3, 8-10, 11-14) and then critiques them step-by-step."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The author engages fairly with Mackie's arguments, acknowledging their structure and even considering alternative interpretations (e.g., Garner's version of the argument to best explanation).",
+    "logical_relevance": "The counterarguments directly target the premises and inferences of Mackie's arguments, using analogies and counterexamples to show invalidity or unsoundness.",
+    "premise_acceptability": "The author challenges the acceptability of Mackie's key assumptions (e.g., that objective values would force consensus, that they would be queer) by showing they are unfounded or subjective."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Objective values vs. objective moral values",
+      "Argument from relativity (Part A: deductive from disagreement) vs. argument to best explanation (Part B)",
+      "Metaphysical queerness vs. epistemic queerness",
+      "Disagreement vs. non-objectivity",
+      "Moral disagreement vs. scientific disagreement"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Objective moral values are defined as values that exist independently of human opinion or convention.",
+      "Queerness is defined as being metaphysically or epistemically strange in an unacceptable way."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author anticipates objections (e.g., that moral disagreement might be vast) and responds by showing that even apparent disagreements rest on broad moral agreement.",
+    "objections_raised": [
+      "Mackie's argument from relativity fails because disagreement does not imply non-objectivity (science analogy).",
+      "Mackie's argument to best explanation fails because moral disagreement is not as vast as assumed.",
+      "Mackie's queerness argument fails because either there are no objective values (then the standard is subjective) or there are some (then moral values can be of the same kind).",
+      "The queerness of objective values is subjective and depends on how they are construed (e.g., as Platonic Forms)."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The author uses cautious language such as 'I have not shown that there are objective morals' and 'fail to persuade us' to indicate a modest conclusion.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "David O. Brink (on moral realism and skepticism)",
+      "Richard T. Garner (on the genuine queerness of moral properties)"
+    ],
+    "evidence_type": "The author uses logical counterexamples, analogies (science, electrons), and empirical observations about moral agreement (e.g., abortion debate, death penalty, Jihadists, sadists).",
+    "named_thought_experiments": [
+      "The analogy between moral disagreement and scientific disagreement (e.g., atomic structure).",
+      "The example of electrons being strange yet existing."
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The paper is grounded in analytic philosophy, focusing on logical argument analysis and conceptual clarification.",
+    "sentiment": "The author is critical of Mackie's moral skepticism but does not commit to a positive metaethical theory; the aim is purely negative (to show Mackie's arguments fail).",
+    "thematic_focus": "Metaethics, moral objectivity, moral disagreement, moral queerness."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The paper follows a clear structure: introduction, examination of the argument from relativity (Part A and Part B), examination of the argument from queerness (metaphysical and epistemic), and conclusion. Each section is clearly delineated with transitions like 'Now we ask...' and 'Finally...'."
+  },
+  "summary_of_core_decisions": "The author's core decision is to treat Mackie's arguments as two distinct lines of reasoning (relativity and queerness) and to refute each by showing that their key premises are either false, unjustified, or lead to unacceptable consequences. The paper concludes that Mackie's arguments fail to establish the non-existence of objective moral values.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative thesis: Mackie's arguments fail to persuade that objective moral values do not exist.",
+    "hedging_density_in_final_paragraph": "The author explicitly states 'I have not shown that there are objective morals' and 'I have shown that Mackie's arguments... fail to persuade us'."
+  },
+  "_source_corpus": "human",
+  "_source_file": "farr-how_queer.txt"
+}

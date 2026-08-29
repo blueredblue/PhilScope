@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The essay defends a conditional necessity thesis: moral virtue is not a constituent of ultimate happiness, but it is a necessary precondition for attaining it. The argument proceeds by examining and rejecting both pure inclusive and pure dominant interpretations, then synthesizing them through a developmental account of happiness.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; premises are embedded in textual interpretation and dialectical engagement rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the author engages multiple interpreters and considers objections before advancing a nuanced position.",
+    "logical_relevance": "All major sections bear directly on whether moral virtue is necessary for the good life.",
+    "premise_acceptability": "Premises are grounded in Aristotle's texts and secondary literature, though some interpretive claims are contestable."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "inclusive vs. dominant happiness",
+      "comprehensive vs. non-comprehensive inclusive happiness",
+      "moral virtue as constituent vs. moral virtue as necessary condition",
+      "human happiness vs. divine/ultimate happiness",
+      "intellectual virtue vs. moral virtue",
+      "body-dependent activity vs. soul-independent contemplation",
+      "habit vs. teaching as modes of acquiring virtue",
+      "teleion as 'complete' vs. 'final'"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Inclusive happiness: happiness includes multiple goods, including moral and intellectual virtue.",
+      "Dominant happiness: happiness consists in one supreme good, intellectual contemplation.",
+      "Comprehensive inclusive: happiness includes all possible goods.",
+      "Non-comprehensive inclusive: happiness includes moral virtue but not every moral end; intellectual virtue is optimized.",
+      "Ultimate happiness: divine, contemplative activity, independent of moral virtue as a constituent.",
+      "Moral virtue as necessary condition: required for human development toward contemplation, but not part of ultimate happiness itself."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author rejects Hardie's extreme dominant view by arguing Aristotle never claims virtues interfere; accepts Cooper's distinction between human and divine happiness; uses Cooper to answer Hardie; then modifies Cooper by arguing moral virtue is a necessary condition for reaching divine happiness.",
+    "objections_raised": [
+      "Comprehensive inclusive view is impractical because no individual can realize all goods.",
+      "Hardie's dominant view permits immoral actions in pursuit of contemplation, which conflicts with Aristotle's extensive treatment of moral virtue.",
+      "Pure dominant view fails to explain why moral virtue is needed before contemplation is possible."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Uses moderate certainty: 'seems', 'appears', 'plausible', 'must be', 'does not seem plausible'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle's Nicomachean Ethics",
+      "Aristotle's Eudemian Ethics",
+      "Aristotle's De Anima"
+    ],
+    "evidence_type": "Textual exegesis, conceptual analysis, dialectical comparison of secondary interpretations, appeal to practical plausibility.",
+    "named_thought_experiments": [
+      "Hardie's example of a soldier sacrificing his life in war, which prevents a complete life of contemplation."
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Aristotelian exegesis and analytic philosophy of action/virtue.",
+    "sentiment": "Neutral, analytic, interpretive.",
+    "thematic_focus": "The role of moral virtue in Aristotle's conception of eudaimonia, specifically whether moral virtue is necessary for ultimate happiness."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical progression: (1) introduce interpretive problem; (2) examine inclusive interpretations; (3) examine dominant interpretations; (4) propose synthesis; (5) conclude with necessary-condition thesis."
+  },
+  "summary_of_core_decisions": "The essay argues that Aristotle's ultimate happiness is a dominant end consisting solely in intellectual contemplation, but moral virtue is nevertheless necessary for human beings as a precondition: one must first acquire moral virtue through habit before one can develop and exercise the intellectual virtue that constitutes divine happiness. Thus moral virtue is not a constituent of ultimate happiness but is a necessary condition for attaining it.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis about Aristotle's position",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is stated decisively: 'To obtain the life of ultimate happiness, man must first exercise moral virtue before he can seek the separate dominant end of contemplation.'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "snow-the_necessity_of_moral_virtue.txt"
+}

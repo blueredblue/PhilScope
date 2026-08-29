@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical analysis with dialectical engagement",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate - premises are stated but often embedded in exposition of Heidegger's views"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments and acknowledges limitations",
+    "logical_relevance": "High - all arguments directly support the thesis about theology's relation to Heidegger's ontology",
+    "premise_acceptability": "Moderate - relies on specific interpretations of Heidegger that may be contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Ontic vs. ontological",
+      "Faithful vs. pre-Christian existence",
+      "Theological vs. philosophical understanding",
+      "Primordial vs. derivative interpretation",
+      "Authentic vs. inauthentic existence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Faithful existence: 'an understanding of existence as it is revealed principally in and through faith'",
+      "Primordial interpretation: 'one which allows the whole of the phenomena to come into view'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges Heidegger's potential response (ontology as mere corrective) but argues it fails because Heidegger's ontology cannot account for faithful existence",
+    "objections_raised": [
+      "Heidegger's analysis of guilt cannot account for man's guilt before God",
+      "Heidegger's claim that faith has 'already answered' the question of being only applies if faith involves unquestioning acceptance of mythology",
+      "Heidegger's ontology cannot explore implications of scripture (e.g., John 1:1-4) regarding the necessary connection between the Word and man"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses hedged language ('may,' 'might,' 'seems') alongside confident claims",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Heidegger (Being and Time, Phenomenology and Theology, History of the Concept of Time)",
+      "Kovacs (secondary source on Heidegger)",
+      "Cushman (on Augustine)",
+      "Scripture (Romans, John, Genesis)"
+    ],
+    "evidence_type": "Textual analysis, scriptural citation, logical inference",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological (Heideggerian) with theological concerns",
+    "sentiment": "Critical but constructive - seeks to show limitations of Heidegger's framework while leaving open possibility of theological interpretation",
+    "thematic_focus": "Philosophy of religion, philosophical theology, fundamental ontology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with progressive argumentation (exposition \u2192 analysis \u2192 critique \u2192 open questions)"
+  },
+  "summary_of_core_decisions": "The paper argues that Heidegger's claim that his ontology can serve as a corrective for theology fails because Heidegger's analysis cannot account for faithful existence itself. The author demonstrates this through analysis of guilt, sin, and the question of being, concluding that theology must remain within faith and that the compatibility of conceptual understanding with faith remains an open question.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified - raises questions rather than definitive answers",
+    "hedging_density_in_final_paragraph": "High - 'What remains to be asked,' 'whether... is compatible,' 'If not, what is the relevance'"
+  },
+  "_source_corpus": "human",
+  "_source_file": "andersen-heidegger_and_theology.txt"
+}
