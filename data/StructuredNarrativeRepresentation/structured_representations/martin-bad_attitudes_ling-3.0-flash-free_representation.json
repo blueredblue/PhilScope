@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is structured as a dialectical progression: it presents a thesis (Fodor's Language of Thought and folk psychological realism), develops an antithesis (the neuro-computational, ANN-based critique), and resolves the tension through a synthesis (an eliminative program that demotes propositional attitudes to emergent, non-fundamental abstractions).",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "The text explicitly states its central claim and repeatedly reinforces it through cumulative restatements, but it does not formalize premises in numbered form; instead, it uses conceptual contrasts and analogies."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically reasonable: it acknowledges the predictive utility of folk psychology and the philosophical contentiousness of strict eliminativism, while arguing for a more moderate eliminative program targeting causal-explanatory status.",
+    "logical_relevance": "The arguments are relevant to the thesis, but the text relies heavily on rhetorical repetition and analogical reasoning rather than empirical evidence or formal logical proof.",
+    "premise_acceptability": "The premises are plausible within a naturalistic, mechanistic framework, but they presuppose that causal explanation must be mechanistic and that non-propositional ANN models are the correct alternative."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Propositional attitudes vs. non-propositional dynamics",
+      "Syntactic vs. geometric representation",
+      "Discrete symbols vs. continuous activation vectors",
+      "Macro-level abstraction vs. micro-level mechanism",
+      "Causal-explanatory status vs. predictive utility",
+      "Fundamental ontology vs. emergent property"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Propositional attitudes: beliefs, desires, intentions characterized by relation to propositions.",
+      "Language of Thought (LoT): a mental code of discrete, combinatorial symbols.",
+      "Artificial neural networks (ANNs): distributed, high-dimensional activation spaces trained by gradient descent.",
+      "Eliminative program: eliminating propositional attitudes as fundamental causal entities, not necessarily eliminating folk psychological vocabulary."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that strict eliminativism is philosophically contentious and that folk psychology is useful. It responds by distinguishing between existence and causal-explanatory status, allowing folk psychology to remain a pragmatic tool while denying its fundamental explanatory role.",
+    "objections_raised": [
+      "Strict eliminativism (beliefs and desires do not exist at all) is contentious.",
+      "Folk psychology is an effective predictive tool.",
+      "Propositional attitudes might be multiply realizable and still explanatory."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses strong assertive language: 'must be answered in the affirmative,' 'resounding yes,' 'necessary,' 'cannot achieve,' 'must be eliminated.' It also uses definitive phrases like 'is not merely... but...'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Jerry Fodor",
+      "Churchlands (eliminative materialism)"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, analogies, and illustrative examples (umbrella, child fear of dogs, ANN image classification). No empirical data or experimental results are cited.",
+    "named_thought_experiments": [
+      "Symbol grounding problem",
+      "Multiple realizability",
+      "Temperature analogy (beliefs as macro-state hiding micro-dynamics)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic, mechanistic, materialist",
+    "sentiment": "Eliminative materialism (moderate, targeting causal-explanatory status)",
+    "thematic_focus": "Philosophy of cognitive science, philosophy of mind, mental representation, causal explanation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The essay follows a clear linear structure: introduction of the debate, exposition of Fodor's LoT, critique of propositional attitudes, presentation of the ANN alternative, argument for eliminativism, and conclusion. Each section builds on the previous one with cumulative restatement."
+  },
+  "summary_of_core_decisions": "The text's core decision is to reject propositional attitudes as fundamental causal-explanatory entities in cognitive science and to advocate for a non-propositional, neuro-computational framework. It does not reject folk psychology outright but strips it of explanatory privilege, reconceiving beliefs and desires as emergent activation patterns in neural networks.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and ontological: cognitive science should eliminate propositional attitudes as fundamental causal entities; they are not adequate causal-explanatory entities.",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive and unhedged."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "martin-bad_attitudes_ling-3.0-flash-free.txt"
+}

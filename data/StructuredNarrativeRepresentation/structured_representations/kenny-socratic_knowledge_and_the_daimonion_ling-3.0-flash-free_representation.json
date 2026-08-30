@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text follows a dialectical structure: it presents an apparent contradiction, refines key distinctions, considers a strong objection, and resolves the tension through a case study (Crito).",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are stated but often embedded in rhetorical repetition; key definitions are explicit."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with opposing view (Brickhouse and Smith) and attempts to show why it fails.",
+    "logical_relevance": "High: all sections bear on the central question of whether the daimonion undermines Socratic ignorance and rational method.",
+    "premise_acceptability": "Moderate: relies on contested interpretations of Plato's dialogues, especially the nature of the daimonion and the craft analogy."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "propositional knowledge vs procedural heuristic",
+      "positive command vs negative prohibition",
+      "teachable/explicable/repeatable craft vs ineffable/non-transferable/context-bound sign",
+      "theoretical inquiry vs practical action",
+      "daimonion as veto vs competing epistemology"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "daimonion ti: a divine something that only holds back",
+      "episteme: true knowledge, teachable, explicable, repeatable",
+      "elenchus: dialectical testing of beliefs",
+      "aporia: state of perplexity after refutation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The objection that the daimonion trumps reason is handled by reinterpreting it as a practical veto, not a source of rational content.",
+    "objections_raised": [
+      "Brickhouse and Smith: daimonion overrides Socrates' ratiocination, introducing irrational authority",
+      "Potential objection: daimonion's infallibility implies knowledge, contradicting ignorance"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses terms like 'clearly', 'proves', 'demonstrates', 'ultimately founders'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Apology",
+      "Plato's Laches",
+      "Plato's Crito",
+      "Brickhouse and Smith"
+    ],
+    "evidence_type": "Textual interpretation and conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Socratic rationalism with a non-cognitive account of divine sign",
+    "sentiment": "Neutral/analytical",
+    "thematic_focus": "Epistemology of moral knowledge, method, and the relation between reason and religious experience"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with escalating refinement: paradox \u2192 definition \u2192 craft criterion \u2192 objection \u2192 case study \u2192 resolution"
+  },
+  "summary_of_core_decisions": "The text resolves the apparent conflict between Socratic ignorance and the daimonion by denying that the daimonion provides propositional knowledge. It argues that the daimonion is a purely negative, procedural safeguard that prevents action on false conclusions, thereby protecting the elenchus. The Crito is used as decisive evidence: Socrates does not invoke the daimonion to justify staying in prison; he relies entirely on rational argument. Thus, ignorance and divine guidance are complementary: ignorance drives inquiry, the daimonion prevents moral disaster.",
+  "thesis_commitment": {
+    "conclusion_type": "Defensive thesis: the daimonion does not undermine Socratic ignorance or rational method",
+    "hedging_density_in_final_paragraph": "Low: final conclusion is assertive and unqualified."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "kenny-socratic_knowledge_and_the_daimonion_ling-3.0-flash-free.txt"
+}

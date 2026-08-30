@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental argument combined with reductio ad absurdum",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate - premises are stated but often embedded in rhetorical prose rather than formal notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with potential objections (heteronomy, secularity) and addresses them systematically",
+    "logical_relevance": "High - all sections directly serve the central thesis about the necessity of the divine postulate",
+    "premise_acceptability": "Moderate - relies on Kantian premises that are contested (e.g., the fact of reason, the nature of conscience as tribunal)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Objective vs. subjective condition of morality",
+      "Legislative vs. adjudicative function of conscience",
+      "Ex ante vs. ex post facto judgment",
+      "Theoretical proof vs. practical postulate",
+      "Phenomenal vs. noumenal realm",
+      "Source of law vs. guarantor of justice",
+      "Psychological feeling vs. moral verdict",
+      "Empirical description vs. normative standard"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Categorical Imperative - the universal, rational law that defines duty",
+      "Conscience - the internal, felt application of the moral law to individual actions",
+      "Postulate - a necessary condition of practical possibility, not a theoretical assertion",
+      "Pointless contradiction - a judgment that claims objective validity but lacks any external referent"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly addresses the objection that the argument reduces Kant's secular ethics to covert theology; responds by distinguishing postulates from theoretical assertions and clarifying that God is guarantor, not source, of the moral law",
+    "objections_raised": [
+      "The argument reduces Kant's rigorous secular ethics to covert theology",
+      "The argument undermines the autonomy of the will",
+      "A naturalistic account of conscience (evolutionary psychology, social conditioning) could explain guilt without divine reference"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'logically necessitates,' 'must believe,' 'cannot stand alone' but also acknowledges interpretive claims",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant - Critique of Practical Reason (doctrine of postulates, Highest Good)",
+      "Kant - Religion within the Bounds of Bare Reason (conscience as representative of God)"
+    ],
+    "evidence_type": "Textual interpretation combined with a constructed thought experiment (Willie case) used as a test case for the theory",
+    "named_thought_experiments": [
+      "The Willie case - a soldier forced to choose between obedience to lawful authority and preserving an innocent life"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian - explicitly builds on Kant's moral philosophy, the Categorical Imperative, and the doctrine of postulates",
+    "sentiment": "Analytic and constructive - aims to identify a structural flaw in Kant's system and resolve it through a sympathetic extension of Kantian resources",
+    "thematic_focus": "Metaethics, moral psychology, philosophy of religion, normative ethics (moral dilemmas)"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Six-part progressive argument: (I) Objective foundation, (II) Subjective condition, (III) Test case, (IV) Identification of contradiction, (V) Resolution via postulate, (VI) Defense and evaluation, followed by a conclusion synthesizing the argument"
+  },
+  "summary_of_core_decisions": "The text argues that Kant's dual structure of morality\u2014objective CI and subjective conscience\u2014contains a fatal flaw when confronted with tragic moral dilemmas. The Willie case shows that conscience condemns regardless of choice, creating a 'pointless contradiction': a verdict that claims objective validity but lacks any external referent. The resolution is the postulate of God as the ultimate judge, which transforms conscience from a self-referential psychological mechanism into a meaningful representation of divine judgment. This is not heteronomy because God is the guarantor of justice, not the source of the law. The argument concludes that the subjective condition of morality (conscience) logically requires the objective, transcendent anchor of the divine postulate to prevent moral accountability from dissolving into mere psychological description.",
+  "thesis_commitment": {
+    "conclusion_type": "Necessity claim - the divine postulate is logically required to resolve the internal contradiction of Kant's system",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is stated with confidence: 'logically culminates in the necessity of a divine tribunal'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ward-conscience_in_kantian_ethics_deepseek-v4-flash-0731.txt"
+}

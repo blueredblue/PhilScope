@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The essay employs a dialectical structure, presenting two opposing philosophical frameworks (Velleman's Kantian dignity and Parfit's reductionist personal identity) and then systematically undermining each through internal and external objections, culminating in a synthesis that emphasizes the primacy of the present self and the limits of morality.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Premises are often implicit, embedded in the exposition of the theories and the objections raised. The essay relies on the reader's familiarity with Kantian ethics and Parfit's reductionism, but it does not explicitly formalize the arguments in premise-conclusion form."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The essay is dialectically reasonable: it fairly presents both Velleman and Parfit's positions before critiquing them. It acknowledges the intuitive appeal of each framework (e.g., Parfit's distributive justice) before exposing flaws.",
+    "logical_relevance": "All objections are directly relevant to the central question of whether smoking is morally wrong. The autonomy objection and the 'tyranny of everyday risk' are used to show that both theories overreach, which is a standard way to test moral principles.",
+    "premise_acceptability": "The premises are generally acceptable within contemporary analytic philosophy, though some are controversial (e.g., the claim that autonomy includes the right to make self-harming choices). The essay does not defend these premises in depth, but they are plausible."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Morality vs. prudence",
+      "Dignity vs. price (Kantian)",
+      "Present self vs. future self (Parfit)",
+      "Autonomy vs. paternalism",
+      "Moral wrong vs. imprudent choice",
+      "Internal vs. external harm"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Dignity: absolute worth, not fungible",
+      "Price: relative value, exchangeable",
+      "Personal identity (Parfit): psychological continuity and connectedness",
+      "Autonomy: self-governance, authority to define one's own good"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates and addresses potential objections to its own position. For instance, it acknowledges that smoking might be imprudent but argues that imprudence does not entail moral wrongness. It also addresses the objection that the present self might be a 'burden' on others, but dismisses this as secondary.",
+    "objections_raised": [
+      "Velleman's theory cannot distinguish between meaningful risks and degrading ones, leading to overly restrictive conclusions.",
+      "Parfit's theory severs identity, undermining the basis for a duty from present to future self.",
+      "Both theories entail that many everyday activities (coffee, hamburgers) are morally wrong, which is absurd.",
+      "Both theories violate the autonomy of the present self by overriding its own value judgments."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The essay uses moderate certainty language: 'might', 'seems', 'arguably', 'ultimately', 'forceful conclusion'. It avoids absolute claims, presenting the conclusion as the result of weighing arguments.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Parfit",
+      "Velleman"
+    ],
+    "evidence_type": "The essay relies on conceptual analysis, thought experiments (e.g., the soldier's choice, the coffee drinker), and logical consistency checks. It does not use empirical data.",
+    "named_thought_experiments": [
+      "The soldier's choice to fight (analogy for risk-taking)",
+      "The coffee drinker and hamburger consumer (everyday risks)",
+      "The smoker's choice as an exercise of autonomy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The essay is grounded in analytic moral philosophy, specifically in the debate between Kantian deontology and reductionist consequentialism. It also draws on autonomy theory and the distinction between moral and prudential reasons.",
+    "sentiment": "The essay is critical of both Kantian and Parfitian approaches, favoring a more permissive, autonomy-centered view that limits the scope of morality over self-regarding actions.",
+    "thematic_focus": "The central theme is the tension between moral condemnation of imprudent self-harm and respect for individual autonomy. The essay argues that morality should not police self-regarding choices, even if they are foolish."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The essay is divided into four parts: Part I (Velleman), Part II (Parfit), Part III (Autonomy Objection), Part IV (Conclusion). Each part builds on the previous, moving from exposition to critique to synthesis."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to reject both Velleman's and Parfit's attempts to moralize imprudent self-harm, instead affirming the primacy of the present self's autonomy. It concludes that smoking is not morally wrong, though it may be imprudent.",
+  "thesis_commitment": {
+    "conclusion_type": "The essay defends a negative thesis: neither Velleman nor Parfit successfully establishes that smoking is morally wrong. It also offers a positive thesis: the present self has legitimate authority to make self-harming choices, and morality should not override this.",
+    "hedging_density_in_final_paragraph": "The final paragraph uses moderate hedging: 'might be', 'does not follow', 'rightly understood', 'more akin to'. It avoids dogmatic assertion, but the conclusion is clear."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "persad-velleman_and_parfit_deepseek-v4-flash-0731.txt"
+}

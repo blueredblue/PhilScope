@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical critique and reconstruction",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often embedded in narrative and textual analysis rather than formalized steps"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text engages with counterarguments and attempts to synthesize opposing views",
+    "logical_relevance": "High - all arguments directly address the central question of whether Hegel's system can accommodate the feminine",
+    "premise_acceptability": "Moderate - some premises rely on interpretive claims about Hegel's texts that are contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Family vs. State",
+      "Particular vs. Universal",
+      "Conscious vs. Unconscious",
+      "Divine law vs. Human law",
+      "Immediacy vs. Mediation",
+      "Sublation vs. Dialogue",
+      "Systematic closure vs. Historical actuality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Sublation (Aufhebung) - preserving, canceling, elevating",
+      "Ethical Life (Sittlichkeit) - concrete realization of freedom",
+      "Hegelian Critical Relations - ongoing dialogical tension"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates and addresses objections from Hegelian defenders, particularly through the assessment of Starrett's position",
+    "objections_raised": [
+      "Hegel might argue the dialectic overcomes exclusions",
+      "Starrett's dialogical reading might be more faithful than traditional sublation"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'exposes', 'reveals', 'suggests' but also 'struggles to remain faithful'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hegel's texts (Phenomenology, Philosophy of Right)",
+      "Feminist critics: Judith Butler, Luce Irigaray"
+    ],
+    "evidence_type": "Textual interpretation and philosophical argumentation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental philosophy, feminist theory, Hegelian dialectics",
+    "sentiment": "Critical but not dismissive; seeks to salvage relational insights while exposing exclusion",
+    "thematic_focus": "Gender, universality, sublation, otherness, ethical life"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered parts (I-VI) and clear transitions"
+  },
+  "summary_of_core_decisions": "The text ultimately leaves the tension unresolved, suggesting that neither Hegel's totalizing system nor Starrett's dialogical reinterpretation fully resolves the exclusion of the feminine. It concludes with the enduring 'ghost of Antigone' as a reminder of the cost of universal reason.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified - the text does not fully endorse either Oliver's rejection or Starrett's defense, but highlights the unresolved dilemma",
+    "hedging_density_in_final_paragraph": "High - uses phrases like 'remains', 'whether... or...', 'no system can claim completeness'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lemke-against_dialectical_ethics_gemini-3.5-flash-lite.txt"
+}

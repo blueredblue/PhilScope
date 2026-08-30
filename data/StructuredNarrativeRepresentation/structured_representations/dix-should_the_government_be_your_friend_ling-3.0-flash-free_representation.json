@@ -1,0 +1,62 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conditional necessity with insufficiency",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated and then restated with increasing specificity"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate - the argument is coherent but relies heavily on asserted dichotomies and analogies rather than addressing potential objections",
+    "logical_relevance": "High - all premises directly support the conclusion about the state's insufficiency",
+    "premise_acceptability": "Moderate - some premises (e.g., the state's inherent incapacity for intimacy) are plausible but not fully defended"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Necessary vs. sufficient conditions",
+      "Structural vs. intimate associations",
+      "Macro-level (state) vs. micro-level (family/peers)",
+      "Public justice vs. private love",
+      "External goods vs. internal fulfillment"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Eudaimonia: objective state of living well and acting well through virtue over a complete life",
+      "Perfect friendship: relationship between virtuous peers who share a moral essence and love another as 'another self'",
+      "State: highest comprehensive community providing structural conditions for virtue"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "None - the text does not consider or respond to potential objections",
+    "objections_raised": []
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses terms like 'must', 'cannot', 'renders it incapable', 'fundamentally incapable'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle's Politics",
+      "Aristotle's Nicomachean Ethics"
+    ],
+    "evidence_type": "Conceptual analysis and textual interpretation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and Aristotelian naturalism",
+    "sentiment": "The argument is sympathetic to Aristotelian virtue ethics but critical of statist interpretations",
+    "thematic_focus": "The relationship between political structures and intimate relationships in achieving eudaimonia"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical - thesis, antithesis, synthesis with escalating specificity"
+  },
+  "summary_of_core_decisions": "The text defines eudaimonia as objective flourishing through virtue, argues the state is necessary for providing external conditions, then argues the state's impersonal and pluralistic nature prevents it from fostering perfect friendship, and concludes that family and close peers are the true completion of the good life. It uses repeated parallel constructions and analogies to reinforce the hierarchy of intimate associations over the state.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and evaluative",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is stated with strong certainty"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "dix-should_the_government_be_your_friend_ling-3.0-flash-free.txt"
+}

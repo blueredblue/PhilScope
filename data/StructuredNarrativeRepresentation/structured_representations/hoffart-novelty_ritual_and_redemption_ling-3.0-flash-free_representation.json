@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Recursive incremental refinement with dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated and restated with increasing specificity"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - acknowledges counterarguments and integrates them",
+    "logical_relevance": "High - all premises directly support the thesis",
+    "premise_acceptability": "Moderate - relies on Whiteheadian metaphysics and aesthetic theory"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Subjective form vs. objective data",
+      "Perishing vs. objective immortality",
+      "Novelty vs. ritual",
+      "Subjective resonance vs. objective appraisal",
+      "Secular vs. theological redemption",
+      "Hybrid prehension vs. poetic insight"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Actual occasion",
+      "Concrescence",
+      "Prehension",
+      "Subjective aim",
+      "Hybrid prehension",
+      "Poetic insight"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges limitations of theological redemption and subjective/objective dominance",
+    "objections_raised": [
+      "Theological redemption alone insufficient for finite human experience",
+      "Subjective resonance dominance leads to sentimentality",
+      "Objective appraisal dominance leads to cold technicality"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'can', 'may', 'becomes' rather than absolute necessity",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Whitehead",
+      "Process and Reality"
+    ],
+    "evidence_type": "Conceptual analysis and metaphysical reasoning",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Process metaphysics and aesthetic theory",
+    "sentiment": "Constructive and redemptive",
+    "thematic_focus": "Temporal perishing, aesthetic redemption, divine preservation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Spiral - each section restates and deepens the previous thesis"
+  },
+  "summary_of_core_decisions": "The text presents a Whiteheadian problem (perishing of subjective forms), rejects purely theological redemption as insufficient, and proposes aesthetic emergence as the synthesis that integrates novelty and ritual, subjective resonance and objective appraisal, through hybrid prehensions and poetic insights, achieving both secular and theological redemption.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic resolution",
+    "hedging_density_in_final_paragraph": "Low - asserts redemption through aesthetic emergence"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hoffart-novelty_ritual_and_redemption_ling-3.0-flash-free.txt"
+}

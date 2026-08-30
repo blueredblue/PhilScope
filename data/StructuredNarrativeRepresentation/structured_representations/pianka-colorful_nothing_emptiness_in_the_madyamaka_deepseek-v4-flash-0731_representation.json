@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Deconstructive reductio ad absurdum",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "High - premises are explicitly stated and systematically refuted via tetralemma and sevenfold reasoning."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views (realism, nihilism) and anticipates objections (explanatory arbitrariness).",
+    "logical_relevance": "High - all arguments directly support the central thesis of emptiness as a middle way.",
+    "premise_acceptability": "Moderate - relies on the rejection of foundationalist metaphysics, which is not universally accepted."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Conventional vs. Ultimate truth (sa\u1e43v\u1e5bti-sat vs. param\u0101rtha-sat)",
+      "Inherent existence (svabh\u0101va) vs. Emptiness (\u015b\u016bnyat\u0101)",
+      "Eternalism (existence) vs. Nihilism (non-existence)",
+      "Foundationalist explanation vs. Therapeutic re-framing"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "svabh\u0101va: inherent, independent, autonomous existence",
+      "\u015b\u016bnyat\u0101: emptiness, lack of inherent existence, synonymous with dependent origination",
+      "praj\u00f1apti: designation, label, mental construct",
+      "Middle Way: navigation between eternalism and nihilism"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly addresses the objection of explanatory arbitrariness regarding natural regularities, reframing it as a category mistake.",
+    "objections_raised": [
+      "If emptiness is ultimate, does emptiness itself have svabh\u0101va? (Paradox of emptiness)",
+      "If no inherent causation, why are natural regularities non-arbitrary? (Charge of explanatory arbitrariness)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses terms like 'demonstrates', 'argues', 'claims' but avoids absolute certainty, emphasizing deconstruction over construction.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "N\u0101g\u0101rjuna (M\u016blamadhyamakak\u0101rik\u0101)",
+      "Chandrak\u012brti (Madhyamak\u0101vat\u0101ra)"
+    ],
+    "evidence_type": "Logical analysis, conceptual refutation, textual interpretation, thought experiments (chariot, seed/sprout).",
+    "named_thought_experiments": [
+      "Chariot analysis (Sevenfold Reasoning)",
+      "Seed and sprout causation",
+      "Fire and wood burning"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Anti-foundationalist, non-essentialist, process-oriented, pragmatic, therapeutic.",
+    "sentiment": "Neutral to positive - presents deconstruction as liberation, not defeat.",
+    "thematic_focus": "Metaphysics, philosophy of language, philosophy of mind (self), epistemology, ethics (moral responsibility)."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Progressive deconstruction: Introduction -> Refutation of causation -> Refutation of self -> Synthesis (Middle Way) -> Resolution of paradox -> Defense against objection -> Conclusion (therapeutic re-framing)."
+  },
+  "summary_of_core_decisions": "The text systematically dismantles the concept of inherent existence (svabh\u0101va) through logical exhaustion (tetralemma, sevenfold reasoning), equates emptiness with dependent origination, and resolves the paradox of emptiness by making it a therapeutic tool rather than a metaphysical ground. It defends against the charge of arbitrariness by distinguishing conventional regularity from ultimate grounding, ultimately redefining philosophical explanation as therapeutic rather than foundational.",
+  "thesis_commitment": {
+    "conclusion_type": "Thesis-affirming with a redefinition of terms (explanation, ground).",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive about the therapeutic re-framing, though the text is truncated."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "pianka-colorful_nothing_emptiness_in_the_madyamaka_deepseek-v4-flash-0731.txt"
+}

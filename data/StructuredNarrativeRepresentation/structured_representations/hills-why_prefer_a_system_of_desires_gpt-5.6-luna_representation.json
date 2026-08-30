@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical structure, presenting the strongest case for systematic justification (the opposing view) and then rebutting it through a series of counterarguments, ultimately offering a reconciliation between the two positions.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Premises are often implicit, relying on conceptual distinctions and intuitive examples rather than formal logical notation. Key premises are stated as claims about rationality, desire, and reasoning, but not always explicitly flagged as premises."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is highly dialectical: it acknowledges the force of the opposing view, presents it fairly, and then offers nuanced rebuttals. It avoids strawmanning and engages with the strongest version of the systematic justification thesis.",
+    "logical_relevance": "All arguments are directly relevant to the central question of whether systematic justification is necessary for rational deliberation. The discussion of theoretical analogy, independent preferences, and internal reasons all bear on this issue.",
+    "premise_acceptability": "Premises are generally plausible within the context of contemporary metaethics and practical reason. The text relies on widely accepted distinctions (e.g., between weak and strong coherence) and intuitive examples (e.g., the parent who values both music and care). Some premises, such as the claim that desires do not aim at truth, are standard but not uncontroversial."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Weak vs. strong coherence",
+      "Internal vs. external reasons",
+      "Systematic justification vs. local organization",
+      "Independence vs. isolation of desires",
+      "Formal vs. substantive rationality",
+      "Reflective integration vs. universal criterion",
+      "Theoretical vs. practical reasoning",
+      "Justification vs. autobiographical explanation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Weak coherence: absence of practical conflict and presence of instrumental rationality.",
+      "Strong coherence: positive unity where particular desires are subsumed under general principles.",
+      "Internal reasons: reasons that exist only if there is a sound deliberative route from the agent's subjective motivational set (S) to the action.",
+      "Subjective motivational set (S): includes desires, concerns, commitments, projects, emotional attachments, etc."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text anticipates and addresses objections, such as the self-government argument and the theoretical analogy. It does not simply dismiss them but shows their limits. It also acknowledges the force of the opposing view and then qualifies it.",
+    "objections_raised": [
+      "Self-government requires unity.",
+      "Diachronic agency requires hierarchy of desires.",
+      "Theoretical reasoning demands systematization, so practical reasoning should too."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses moderate epistemic language: 'appears', 'seems', 'may', 'can', 'is best treated as', 'does not establish'. It avoids absolute certainty, often qualifying claims with 'not necessarily' or 'need not'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Michael Smith",
+      "Bernard Williams"
+    ],
+    "evidence_type": "Conceptual analysis, intuitive examples, thought experiments, and appeal to common sense about rationality. No empirical data or formal proofs.",
+    "named_thought_experiments": [
+      "The parent who values both music and caring for an elderly parent",
+      "The person who wants to finish a dissertation but repeatedly chooses actions that make completion impossible",
+      "The agent who values both friendship and honesty"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The text is grounded in analytic philosophy, specifically metaethics and the philosophy of practical reason. It engages with the internalism/externalism debate and the structure of rational agency.",
+    "sentiment": "The text is neutral and analytical, aiming for a balanced reconciliation rather than advocating a radical position. It defends a moderate pluralism.",
+    "thematic_focus": "The nature of practical rationality, the structure of desire, the scope of reasons, and the possibility of pluralism."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The essay is divided into numbered sections (I-VIII) plus a conclusion. It follows a clear progression: introduction of the debate, definition of key terms, presentation of the opposing view, rebuttal, and reconciliation."
+  },
+  "summary_of_core_decisions": "The text makes a series of conceptual decisions: it distinguishes weak from strong coherence, rejects the necessity of strong unity, defends the legitimacy of underived preferences, critiques the theoretical analogy, and reconciles Smith and Williams by separating formal standards from substantive reasons.",
+  "thesis_commitment": {
+    "conclusion_type": "The thesis is a negative claim: systematic justification (strong unity) is not a necessary condition of rational deliberation. It also offers a positive alternative: rational agency requires local coherence, reflective stability, and the ability to manage plurality.",
+    "hedging_density_in_final_paragraph": "The conclusion uses moderate hedging: 'need not be', 'can be', 'may instead be'. It does not claim certainty but presents a plausible alternative."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hills-why_prefer_a_system_of_desires_gpt-5.6-luna.txt"
+}

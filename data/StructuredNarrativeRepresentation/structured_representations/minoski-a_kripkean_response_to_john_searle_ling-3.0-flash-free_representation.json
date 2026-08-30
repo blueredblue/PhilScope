@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against descriptivism: If descriptivism were true, reference would be determined by descriptive content; but thought experiments show reference persists despite false/meaningless descriptions; therefore descriptivism is false and Kripke's rigid designation is correct.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mixed: some premises are explicitly stated (e.g., rigid designator is semantic content), while others are implicit (e.g., causal chains are sufficient for reference)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with Searle's strongest objection, grants the role of descriptions at baptism, then shows why that role is not semantic.",
+    "logical_relevance": "All premises directly support the thesis; no irrelevant appeals.",
+    "premise_acceptability": "Premises rely on widely accepted Kripkean intuitions about possible worlds and reference; some may be contested by descriptivists but are internally coherent."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Descriptive content as semantic vs. epistemic",
+      "Reference through descriptions vs. reference fixed by descriptions",
+      "Rigid designation vs. non-rigid definite descriptions",
+      "Causal-historical chain vs. descriptive cluster",
+      "Metaphysical necessity vs. epistemic contingency"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Rigid designator: a term that picks out the same object in all possible worlds where it exists.",
+      "Descriptivism: the view that the meaning of a proper name is a cluster of descriptions and reference is determined by satisfaction of those descriptions."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Searle's objection that baptism requires unique descriptive content is addressed by distinguishing the psychological act of identifying an object from the semantic content of the name; uniqueness is not required for reference.",
+    "objections_raised": [
+      "If descriptive content is false, reference would be lost or altered under descriptivism.",
+      "If descriptive content drives reference, a community that forgets original descriptions loses reference entirely.",
+      "Hospital twin and mistaken identity cases show reference persists despite false descriptions."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'demonstrates conclusively' and 'fundamentally mistaken' but also 'counterintuitive result' and 'fails to account'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Saul Kripke",
+      "John Searle",
+      "Gottlob Frege",
+      "Bertrand Russell"
+    ],
+    "evidence_type": "Thought experiments, modal intuitions, conceptual analysis, counterexamples.",
+    "named_thought_experiments": [
+      "Hospital twin (Baby A/B switch)",
+      "Mistaken identity about Shakespeare",
+      "Baby Tom/Baby Dick switch"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical realism about reference: reference is determined by objective causal relations, not by speakers' mental contents.",
+    "sentiment": "Anti-descriptivist, pro-Kripkean causal-historical theory.",
+    "thematic_focus": "Philosophy of language, theory of reference, proper names, rigid designation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with repeated refinement: thesis \u2192 opponent's argument \u2192 distinction \u2192 thought experiments \u2192 rebuttal \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text defends Kripke by showing that descriptive content at baptism is merely a causal catalyst, not a semantic constituent. The decisive distinction is between 'referring through descriptions' and 'descriptions fixing reference'. Thought experiments demonstrate that reference tracks the object, not the description, so rigid designation is the correct account.",
+  "thesis_commitment": {
+    "conclusion_type": "Defense of a positive view (Kripkean rigid designation) against a specific objection (Searle's descriptivist reading).",
+    "hedging_density_in_final_paragraph": "Low: 'fundamentally mistaken', 'demonstrates conclusively', 'I defend'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "minoski-a_kripkean_response_to_john_searle_ling-3.0-flash-free.txt"
+}

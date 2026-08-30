@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "counterexample-driven refutation",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "attributive vs referential uses",
+      "de re vs de dicto intention",
+      "fixing reference vs giving meaning",
+      "rigid vs non-rigid designator",
+      "epistemic vs semantic role of descriptions"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "rigid designator",
+      "attributive use",
+      "referential use",
+      "metalinguistic description",
+      "causal-historical chain"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "systematic",
+    "objections_raised": [
+      "Searle's cluster theory",
+      "Searle's intentionality defense",
+      "Searle's communal description defense"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "high",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kripke",
+      "Donnellan",
+      "Frege",
+      "Russell",
+      "Strawson",
+      "Searle"
+    ],
+    "evidence_type": "thought experiments and intuitive judgments",
+    "named_thought_experiments": [
+      "G\u00f6del-Schmidt scenario",
+      "modified all-false-descriptions scenario",
+      "broken causal chain robot scenario"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy of language",
+    "sentiment": "anti-descriptivist",
+    "thematic_focus": "reference, proper names, causal-historical theory"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis-defense-objection-reply-conclusion"
+  },
+  "summary_of_core_decisions": "The essay defends Kripke's causal-historical theory of reference against descriptivism and Searle's modified descriptivism. It uses the G\u00f6del-Schmidt thought experiment to show that descriptions are neither necessary nor sufficient for reference, and argues that Searle's metalinguistic descriptions presuppose rather than ground the causal chain. The attributive/referential distinction is used to expose the dialectical flaw in Searle's defense.",
+  "thesis_commitment": {
+    "conclusion_type": "positive",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "dayley-by_godel_I_do_not_mean_schmidt_deepseek-v4-flash-0731.txt"
+}

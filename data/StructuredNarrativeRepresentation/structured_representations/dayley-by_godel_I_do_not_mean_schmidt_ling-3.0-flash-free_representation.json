@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis: thesis (descriptivism) \u2192 antithesis (causal-historical theory) \u2192 counter-response (intentionalist descriptivism) \u2192 resolution (complementary duality).",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in thought experiments and distinctions rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: each position is given a strong formulation and the final synthesis incorporates the core insights of both sides.",
+    "logical_relevance": "All major moves bear directly on the question of what fixes reference.",
+    "premise_acceptability": "The key premises rely on widely shared intuitions about reference, error, and possible worlds; the synthesis is plausible but not fully formalized."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Strict descriptivism vs. descriptive intentionality",
+      "Causal-historical chain vs. semantic content",
+      "Persistence/maintenance of reference vs. achievement/fixation of reference",
+      "Rigid designator vs. non-rigid descriptive designator",
+      "Attributive vs. referential use of names",
+      "Vehicle of transmission vs. mechanism of reference",
+      "Physical sequence vs. chain of reference",
+      "Individual psychological content vs. community-based intentional content"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Rigid designator: designates the same object in every possible world in which it designates anything.",
+      "Attributive use: speaker uses a name/description to describe whoever satisfies it.",
+      "Referential use: speaker uses a name/description to point to a specific individual, even if descriptions are false."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text anticipates objections from both sides: pure causal theory cannot explain misreference or fixation; strict descriptivism cannot explain rigidity or reference despite false descriptions.",
+    "objections_raised": [
+      "Causal chain alone cannot distinguish genuine reference from name-mimicry or mistaken reference.",
+      "Descriptive content alone cannot explain why a name still refers to its actual bearer in counterfactual scenarios."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'demonstrates', 'shows', 'requires', but also 'suggests' and 'ultimately'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Frege",
+      "Russell",
+      "Strawson",
+      "Kripke",
+      "Searle",
+      "Donnellan"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, modal intuitions, dialectical adjudication.",
+    "named_thought_experiments": [
+      "G\u00f6del-Schmidt scenario",
+      "Possible-worlds rigidity test",
+      "Misreference/name-mimicker scenario",
+      "Water/H2O natural kind example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatic-linguistic: reference is a social, intentional, communicative phenomenon.",
+    "sentiment": "Synthetic: rejects both strict descriptivism and pure causal theory in favor of a dual account.",
+    "thematic_focus": "Philosophy of language, semantics of proper names, reference, intentionality."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: thesis, antithesis, counter-response, synthesis; ends with conclusion and implications."
+  },
+  "summary_of_core_decisions": "The text decides that causal-historical chains are necessary for the persistence and rigidity of reference, but definite descriptions\u2014understood as community-based intentional content\u2014are necessary for the achievement, fixation, identification, and communication of reference. Reference is therefore dual: causally anchored and semantically constituted by descriptive intentions.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic thesis",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive but acknowledges the complementary roles."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "dayley-by_godel_I_do_not_mean_schmidt_ling-3.0-flash-free.txt"
+}

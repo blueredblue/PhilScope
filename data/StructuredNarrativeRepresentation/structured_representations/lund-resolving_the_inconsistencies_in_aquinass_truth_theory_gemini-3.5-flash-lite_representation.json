@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical_evaluation",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "human_truth_vs_divine_truth",
+      "truth_in_intellect_vs_truth_in_things",
+      "formal_vs_material_truth",
+      "mutable_human_truth_vs_immutable_divine_truth",
+      "univocal_vs_equivocal_vs_analogical_predication",
+      "abstraction_vs_illumination",
+      "created_truth_vs_eternal_truth"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "truth_as_adaequatio_intellectus_et_rei",
+      "divine_truth_as_identical_with_divine_essence",
+      "human_truth_as_adequation_of_intellect_to_created_things"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "two_major_objections_raised_and_answered",
+    "objections_raised": [
+      "theological_dependency_undermines_epistemic_autonomy",
+      "semantic_imprecision_via_analogical_stretching"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Augustine",
+      "Aquinas",
+      "Plato"
+    ],
+    "evidence_type": "textual_exegesis_and_philosophical_argument",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "metaphysical_and_epistemological",
+    "sentiment": "critical_but_appreciative",
+    "thematic_focus": "truth_theory_theological_dependency_semantic_analogy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "four_part_essay_with_introduction_and_conclusion"
+  },
+  "summary_of_core_decisions": "The essay evaluates whether Aquinas's distinction between human and divine truth resolves the tension between mutable human cognition and immutable divine truth. It argues that Aquinas's synthesis is brilliant but ultimately fails because it relies on theological dependency and stretches the semantics of 'truth' beyond coherence.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_negative",
+    "hedging_density_in_final_paragraph": "high"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lund-resolving_the_inconsistencies_in_aquinass_truth_theory_gemini-3.5-flash-lite.txt"
+}

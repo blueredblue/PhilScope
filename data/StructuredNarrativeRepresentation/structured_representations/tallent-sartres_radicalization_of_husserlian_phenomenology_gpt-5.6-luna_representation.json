@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis with qualified defense",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "High"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "High"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "transcendental ego vs empirical ego",
+      "hyletic data vs intentional object",
+      "pre-reflective vs reflective self-consciousness",
+      "being-in-itself vs being-for-itself",
+      "facticity vs transcendence",
+      "constitution vs disclosure",
+      "substance vs activity",
+      "radicalization vs refutation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "consciousness as nothingness",
+      "pre-reflective self-consciousness",
+      "hyletic data",
+      "transcendental ego",
+      "bad faith"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Balanced",
+    "objections_raised": [
+      "Sartre's reading of Husserl is historically unfair",
+      "Husserl's ego is formal/functional, not a Cartesian soul",
+      "Husserl's hyle is descriptive, not necessarily a mental substance",
+      "Sartre's 'nothingness' risks overstating negativity"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Husserl",
+      "Sartre"
+    ],
+    "evidence_type": "Phenomenological description and structural argument",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological ontology",
+    "sentiment": "Neutral",
+    "thematic_focus": "Consciousness, intentionality, self-awareness, transcendental ego, hyle, nothingness"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis, dialectical development, critical evaluation, synthesis, conclusion"
+  },
+  "summary_of_core_decisions": "Consciousness is not a mental substance; it is pre-reflective self-consciousness and intentional activity. Sartre's critique of Husserl is best understood as a radicalization, not a refutation. Husserl's transcendental ego and hyle are not simply substances, but they are dispensable and tempt reification. The adequate position retains Husserl's descriptive analyses while accepting Sartre's ontological warning against converting consciousness into an entity.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "Moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "tallent-sartres_radicalization_of_husserlian_phenomenology_gpt-5.6-luna.txt"
+}

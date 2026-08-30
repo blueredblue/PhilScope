@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical critique of a proposed reductionist solution to an internal paradox",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate \u2014 key premises are embedded in objections and definitions rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2014 engages with strongest objections (Allison, Guyer) and attempts a charitable reconstruction of the Chomskyan proposal before rejecting it",
+    "logical_relevance": "High \u2014 each section directly advances the central question of whether the semantic translation dissolves the paradox",
+    "premise_acceptability": "Contested \u2014 relies on a strong transcendental/naturalistic dichotomy and on the irreducibility of normativity, which a naturalist would reject"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Transcendental vs. empirical/naturalistic explanation",
+      "Determinant vs. reflective judgment",
+      "Aesthetic judgment vs. ordinary cognition",
+      "Normative universality vs. empirical generality",
+      "Process (free play) vs. product (syntactic structure)",
+      "Purposiveness without purpose vs. determinate teleology"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Free play: harmonious relation of Imagination and Understanding not governed by a determinate concept",
+      "Subjective universality: a judgment that speaks as if everyone ought to feel the same pleasure",
+      "Purposiveness without purpose: a teleological relation without a determinate end",
+      "Chomskyan model: generative grammar with Merge, LF/PF interfaces, and innate Universal Grammar"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates the objection that the Chomskyan model might be merely analogical, and responds by arguing that the analogy fails because it commits a category error and loses normativity.",
+    "objections_raised": [
+      "The semantic translation fails to resolve the Allison-Guyer objection because Chomsky's system is deterministic; free play would require a computational failure.",
+      "The semantic translation eliminates normativity by reducing aesthetic universality to empirical biology.",
+      "The semantic translation alters the fundamental mechanics of Kant's transcendental philosophy by substituting a naturalistic, generative system for a reflective, teleological one."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate \u2014 uses phrases like 'brilliant but misguided', 'cannot', 'fails', but also 'appears to provide' when presenting the model",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Allison",
+      "Guyer",
+      "Chomsky"
+    ],
+    "evidence_type": "Conceptual analysis, internal critique, transcendental argumentation, analogical reasoning, counterexamples",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental idealism",
+    "sentiment": "Anti-naturalist, anti-reductionist",
+    "thematic_focus": "Aesthetic normativity, free play, purposiveness, the limits of computational explanation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem \u2192 Proposed solution \u2192 Systematic critique \u2192 Reaffirmation of transcendental irreducibility"
+  },
+  "summary_of_core_decisions": "The essay argues that the Chomskyan semantic translation of Kant's free play is a compelling but ultimately failed reduction. It fails because it cannot resolve the Allison-Guyer pan-aestheticism objection, it eliminates the normative force of aesthetic judgment, and it replaces transcendental conditions with empirical mechanisms. The harmony of the faculties is a primitive, purposive, transcendental relation that resists formalization.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative \u2014 the proposed semantic translation fails",
+    "hedging_density_in_final_paragraph": "Low \u2014 the conclusion is decisive: 'brilliant but misguided'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mcphee-a_semantic_explanation_of_harmony_in_kants_aesthetics_deepseek-v4-flash-0731.txt"
+}

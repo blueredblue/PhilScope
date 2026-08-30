@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio of a hermeneutic accusation through scope distinction",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "mixed"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "medium"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "epistemic vs. ontological modality",
+      "de re vs. de dicto modal scope",
+      "ontological reading vs. linguistic/pragmatic reading",
+      "ascertainment vs. existence",
+      "predication vs. metaphysical entity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "de re reading: modal operator applies to the object itself",
+      "de dicto reading: modal operator applies to the proposition or act of thinking",
+      "ascertainment: what can be thought or known",
+      "existential availability: being a possible subject of predication"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that Parmenides is committed to a modal fallacy and dissolves it by reinterpreting the scope of the modal operator.",
+    "objections_raised": [
+      "Parmenides' argument commits an illicit modal shift from epistemic impossibility to ontological non-existence."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "high",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Burnet",
+      "Owen",
+      "Goldin",
+      "Robinson"
+    ],
+    "evidence_type": "textual interpretation and logical analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "linguistic and epistemological",
+    "sentiment": "analytic",
+    "thematic_focus": "modality, predication, ontology vs. epistemology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis-antithesis-synthesis with repeated reformulation"
+  },
+  "summary_of_core_decisions": "The text resolves the alleged modal fallacy in Parmenides by rejecting the de re ontological reading and adopting a de dicto linguistic reading, where 'what is not' is a grammatical placeholder for failure of ascertainment or existential availability, not a referent. This makes the argument a valid demonstration of the coextension of being and ascertainment.",
+  "thesis_commitment": {
+    "conclusion_type": "interpretive",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hansen-parmenides_ling-3.0-flash-free.txt"
+}

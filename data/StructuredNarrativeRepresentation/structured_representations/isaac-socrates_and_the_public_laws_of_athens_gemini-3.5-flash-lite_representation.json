@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Socratic dialectic applied to textual interpretation, resolving an apparent contradiction through hierarchical moral reasoning.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are stated but often embedded in narrative and textual analysis."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views (anarchist vs. positivist) and uses counterexamples (Thirty Tyrants) to test consistency.",
+    "logical_relevance": "All arguments directly address the alleged contradiction between Apology and Crito.",
+    "premise_acceptability": "High - relies on widely accepted Platonic texts and standard philosophical distinctions (de jure/de facto, justice vs. law)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "De jure authority vs. de facto tyranny",
+      "Lawful command vs. direct injustice",
+      "Obedience to law vs. obedience to divine mandate",
+      "Accepting punishment vs. evading punishment",
+      "Persuasion vs. coercion",
+      "Moral duty vs. legal obligation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Justice as never committing injustice",
+      "Social contract as tacit agreement",
+      "Legitimate authority as constitutional and lawful"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly addresses the objection of inconsistency by introducing the Thirty Tyrants episode and distinguishing lawful vs. tyrannical commands.",
+    "objections_raised": [
+      "Socrates appears to obey democratic court but disobey oligarchic Thirty - is this opportunistic?",
+      "The 'obey or persuade' formula seems to impose unconditional obedience."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses terms like 'profoundly coherent', 'seamlessly integrated', 'unshakeable axiom'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's texts (Apology, Crito)",
+      "Historical context (Thirty Tyrants)"
+    ],
+    "evidence_type": "Textual exegesis and historical reconstruction",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and moral rationalism",
+    "sentiment": "Rationalist and principled",
+    "thematic_focus": "Political obligation, justice, conscience, rule of law"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned essay with introduction, three main parts, and synthesis"
+  },
+  "summary_of_core_decisions": "The text resolves the apparent contradiction by positing a single supreme moral principle (never commit injustice) that governs both dialogues, and by distinguishing between lawful authority (which demands obedience even when erroneous, but not to unjust commands) and tyrannical power (which has no moral claim). Socrates' refusal to obey the Thirty Tyrants is shown to be consistent with his acceptance of the democratic verdict because the former commanded direct injustice while the latter was a lawful, albeit mistaken, judicial process.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis",
+    "hedging_density_in_final_paragraph": "Low - definitive and assertive"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "isaac-socrates_and_the_public_laws_of_athens_gemini-3.5-flash-lite.txt"
+}

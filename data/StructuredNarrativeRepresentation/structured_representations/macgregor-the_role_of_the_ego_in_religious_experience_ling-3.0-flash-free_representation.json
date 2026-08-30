@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Thesis \u2192 Critique \u2192 Counter-thesis \u2192 Synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High, with repeated formalization of each premise across thinkers"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate; relies on repeated assertion and progressive elaboration rather than direct counterargument",
+    "logical_relevance": "High; all components serve the central thesis of redefining the subject",
+    "premise_acceptability": "Contestable; depends on phenomenological and theological commitments"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "finite/infinite",
+      "originator/witness",
+      "mastery/receptivity",
+      "word of the world/word of life",
+      "constitution/being constituted",
+      "intentionality/auto-affection"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "saturated phenomenon",
+      "excess intuition",
+      "call and response",
+      "auto-affection",
+      "amazement",
+      "witness"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "No explicit objections are raised; counterarguments are preemptively dissolved by redefining the subject",
+    "objections_raised": []
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High; uses 'must', 'cannot', 'is', 'precisely'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Jean-Luc Marion",
+      "Paul Ricoeur",
+      "Michel Henry"
+    ],
+    "evidence_type": "Phenomenological description and conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenology and hermeneutics",
+    "sentiment": "Anti-subjectivist, anti-representationalist, post-Kantian",
+    "thematic_focus": "Religious experience, subjectivity, givenness, finitude"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Progressive repetition with cumulative synthesis; each thinker adds a layer to the same thesis"
+  },
+  "summary_of_core_decisions": "The text systematically dismantles the modern subject as originator of meaning and replaces it with a witness constituted by a higher other, using Marion's saturated phenomenon, Ricoeur's call/response, and Henry's word of life to show that finite cognitive conditions are not obstacles but receptive vessels for infinite donation.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative redefinition of subjectivity",
+    "hedging_density_in_final_paragraph": "Low; final conclusion is assertive and unqualified"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "macgregor-the_role_of_the_ego_in_religious_experience_ling-3.0-flash-free.txt"
+}

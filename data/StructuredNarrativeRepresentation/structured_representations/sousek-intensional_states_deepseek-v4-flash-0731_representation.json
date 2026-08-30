@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum via a trilemma",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "syntax vs semantics",
+      "intrinsic vs relational properties",
+      "determinate vs indeterminate content",
+      "intensional vs extensional",
+      "understanding vs simulation",
+      "internal vs external context",
+      "ordinary ambiguity vs radical indeterminacy"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "intentionality",
+      "intensional state",
+      "syntax",
+      "semantics",
+      "formal system",
+      "determinate meaning"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "anticipates and rebuts",
+    "objections_raised": [
+      "real systems are embodied",
+      "internal model could provide semantics",
+      "super-content could unify meanings"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "high",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Searle"
+    ],
+    "evidence_type": "thought experiment",
+    "named_thought_experiments": [
+      "Chinese Room",
+      "Rorschach Room"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "intentionality is primitive",
+    "sentiment": "anti-computationalist",
+    "thematic_focus": "philosophy of mind"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sections with numbered headings"
+  },
+  "summary_of_core_decisions": "The argument is a reductio against computationalism. It constructs a trilemma: either the program has one meaning (arbitrary), all meanings (incoherent), or a super-content (not actually produced). Since all fail, the program has no determinate intensional state. The conclusion is that syntax is insufficient for semantics and machine understanding is absurd. The argument is dialectically strong, anticipates objections, and grounds intentionality as primitive.",
+  "thesis_commitment": {
+    "conclusion_type": "negative",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "sousek-intensional_states_deepseek-v4-flash-0731.txt"
+}

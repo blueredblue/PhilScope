@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "critical reconstruction and qualified defense",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate \u2014 premises are often embedded in dialectical descriptions rather than formally stated"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high \u2014 engages seriously with both critique and defense",
+    "logical_relevance": "high \u2014 all sections bear directly on the central question",
+    "premise_acceptability": "moderate \u2014 depends on contested readings of Hegel, Oliver, and Starrett"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "immediacy vs. mediation",
+      "unconscious vs. conscious ethical life",
+      "particular vs. universal",
+      "preservation vs. subordination",
+      "inclusion vs. recognition",
+      "reconciliation vs. responsiveness",
+      "traditional sublation vs. ongoing tension",
+      "empirical exclusion vs. structural necessity",
+      "conceptual inclusion vs. hierarchical inclusion",
+      "privatization vs. absorption"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "sublation (Aufhebung) \u2014 negation, preservation, elevation",
+      "sacrifice \u2014 preservation through conversion into a subordinate stage",
+      "conceptualizable \u2014 intelligible through the self-development of the concept",
+      "Critical Relations \u2014 institutions as mutually implicated, contesting, transforming relations"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "charitable reconstruction followed by qualified rebuttal",
+    "objections_raised": [
+      "Hegel might say the feminine is a determinate moment within the concept, not outside it",
+      "Hegel does not discard the family; it remains essential",
+      "Hegel's freedom is relational, supporting critique of atomistic liberalism",
+      "Hegel's gender claims may be historical limitation, not necessary to the dialectic",
+      "Ongoing tension may become politically empty without determinate institutional commitments"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hegel",
+      "Kelly Oliver",
+      "Shari Neller Starrett"
+    ],
+    "evidence_type": "",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Hegelian dialectic, feminist critique, critical social theory",
+    "sentiment": "critical but constructive \u2014 rejects hierarchy while preserving relational dialectic",
+    "thematic_focus": ""
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "ten numbered sections progressing from exposition through critique to constructive proposal"
+  },
+  "summary_of_core_decisions": "",
+  "thesis_commitment": {
+    "conclusion_type": "qualified constructive proposal",
+    "hedging_density_in_final_paragraph": "moderate \u2014 affirms a critical Hegelianism while rejecting classical closure"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lemke-against_dialectical_ethics_gpt-5.6-luna.txt"
+}

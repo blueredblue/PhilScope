@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis: The text presents two opposing positions (text-internal meaning vs. reader-projected meaning), critiques both through phenomenological analysis, and synthesizes them into a third position grounded in Husserl's noema concept.",
+    "num_distinct_arguments_for_thesis": 7,
+    "premise_explicitness": "Moderately explicit: Premises are stated in prose but not formally enumerated; key premises include the intentional structure of consciousness, the distinction between Sinn and Gegebenheitsweise, and the possibility of fulfillment as a criterion for validity."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: The text engages seriously with both extremes, acknowledges legitimate concerns in each (e.g., protecting objectivity, recognizing reader activity), and develops a nuanced middle position rather than merely dismissing alternatives.",
+    "logical_relevance": "High: Each section directly advances the central argument; objections are addressed in dedicated sections; the progression from exposition to critique to synthesis is coherent.",
+    "premise_acceptability": "Moderately high: The phenomenological premises are plausible within the Husserlian framework, though the text acknowledges the concept of the noema is contested and requires defense."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Sinn (core-stratum) vs. Gegebenheitsweise (mode of givenness)",
+      "Meaning vs. significance",
+      "Possible interpretation vs. valid interpretation",
+      "Response vs. interpretation",
+      "Actual communal acceptance vs. ideal rational accountability",
+      "Object as intended vs. object as physical thing",
+      "Explicit meaning vs. structural possibility",
+      "Historically false claim vs. philosophically fruitful interpretation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Noema: the sense-bearing pole of an intentional relation; the object as intended",
+      "Sinn: the shared, ideal core-stratum of meaning that makes the text identifiable across acts",
+      "Gegebenheitsweise: the individualizing thetic characters through which the text is presented",
+      "Fulfillment: the confirmation of an intention by the object itself",
+      "Horizon: the structured field of possibilities belonging to the text's sense"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic: The text devotes a full section (IX) to five distinct objections and responds to each; also addresses the intersubjectivity objection (VIII) and the power objection within IX.",
+    "objections_raised": [
+      "Ambiguity of Husserl's concept of the noema",
+      "The shared core may be too thin to constrain interpretation",
+      "Readers project meanings not intended by the author",
+      "Power: dominant interpretive communities may determine what counts as fulfillment",
+      "Literary texts may deliberately resist stable identity",
+      "Risk of returning to individual subjectivity"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: The text uses qualified language throughout ('may', 'can', 'tends to', 'is not necessarily'), avoiding dogmatic assertions.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Husserl's phenomenology as the foundational framework",
+      "Phenomenological tradition of intentionality analysis"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological description, illustrative examples (tragic drama as recipe book, poem tone, novel interpretations, legal vs. aesthetic reading, gendered/colonial/ecological later readings)",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological (Husserlian)",
+    "sentiment": "Anti-relativist but anti-absolutist; pluralist about interpretation while maintaining normative constraints",
+    "thematic_focus": "Hermeneutics, philosophy of interpretation, phenomenology of meaning, intentionality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Systematic progression: Introduction \u2192 Exposition of framework (I-III) \u2192 Critique of extremes (IV-V) \u2192 Positive account of constraint (VI) \u2192 Plurality and objectivity (VII-VIII) \u2192 Objections and responses (IX) \u2192 Assessment of success (X) \u2192 Open-endedness (XI) \u2192 Conclusion"
+  },
+  "summary_of_core_decisions": "The text's central decision is to ground textual interpretation in Husserl's noema concept, treating meaning as neither strictly inside the text nor purely projected by the reader, but as constituted through an intentional relation between consciousness and an ideal sense-core. The key move is distinguishing Sinn (repeatable, intersubjective identity) from Gegebenheitsweise (individualizing modes of presentation), which allows the text to constrain interpretation while permitting legitimate plurality. The text ultimately argues that the noematic relation is necessary but not sufficient for preventing arbitrariness\u2014it must be supplemented by linguistic competence, historical inquiry, intersubjective criticism, and argumentative justification.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified synthesis: The noematic relation successfully prevents arbitrary interpretation only when understood as more than a private act of consciousness, requiring connection to linguistic, historical, intersubjective, and argumentative dimensions.",
+    "hedging_density_in_final_paragraph": "Moderate: The conclusion uses qualified language ('most defensible conclusion', 'only when understood as more than', 'must include') while still affirming the central thesis."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "shurts-husserl_and_meaning_gpt-5.6-luna.txt"
+}

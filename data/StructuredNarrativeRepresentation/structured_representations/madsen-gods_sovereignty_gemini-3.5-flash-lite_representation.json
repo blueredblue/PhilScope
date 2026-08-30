@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The essay employs a genetic-historical reconstruction of Augustine's intellectual development, combined with a dialectical evaluation of coherence and a philosophical critique of moral responsibility.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The essay acknowledges both sides of the scholarly debate and attempts a nuanced resolution: coherent in metaphysical terms, but costly in moral terms.",
+    "logical_relevance": "All sections directly bear on the central question of whether Augustine's shift is a contradiction or a coherent development.",
+    "premise_acceptability": "The premises are plausible within Augustinian scholarship, though the critique of moral responsibility is contested."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "evil as privation vs. evil as substance",
+      "liberum arbitrium vs. libertas",
+      "freedom as indifference vs. teleological freedom",
+      "grace as assisting vs. grace as operative",
+      "justice vs. mercy",
+      "ends vs. means",
+      "voluntariness vs. coercion",
+      "guilt vs. incapacity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "true freedom is the delighted, uncoerced alignment of the creaturely will with the immutable Good",
+      "evil is a privation of good, not a substance",
+      "prevenient grace creates the willingness to choose the good"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay raises three major objections\u2014retributive injustice, redundancy of moral exhortation, and fatalism\u2014and does not fully refute them; it presents them as the philosophical cost of Augustine's coherence.",
+    "objections_raised": [
+      "Predestined reprobation makes retributive punishment unjust because agents lack the capacity to do otherwise.",
+      "Moral exhortation becomes redundant if election is fixed and grace is irresistible.",
+      "Augustine's determinism collapses into a form of fatalism, as Julian of Eclanum charged."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Augustine's texts",
+      "Gerald Bonner",
+      "Rowan Williams",
+      "Eleonore Stump",
+      "Erasmus",
+      "Julian of Eclanum"
+    ],
+    "evidence_type": "textual evidence from Augustine's corpus, historical context, and philosophical argumentation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "metaphysical and theological",
+    "sentiment": "critical but appreciative",
+    "thematic_focus": "divine sovereignty, human freedom, moral responsibility, original sin, grace, predestination"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "genetic-historical with dialectical evaluation and critical conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that Augustine's later determinism is the logical completion of his invariant metaphysical axiom\u2014God as the sole source of all being and goodness\u2014rather than a contradiction. However, this coherence is achieved at the cost of undermining genuine human moral responsibility, leaving an unresolved tension between divine sovereignty and human agency.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified thesis",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "madsen-gods_sovereignty_gemini-3.5-flash-lite.txt"
+}

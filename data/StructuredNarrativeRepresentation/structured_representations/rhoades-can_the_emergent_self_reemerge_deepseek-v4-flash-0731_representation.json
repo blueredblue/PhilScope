@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "reductio ad absurdum via exhaustive trilemma",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate: premises are embedded in prose but recoverable from the magnet analogy and identity criteria"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high: engages with possible Haskerian replies and shows each fails",
+    "logical_relevance": "high: all objections target the same core tension between field dependence and identity persistence",
+    "premise_acceptability": "moderate: relies on a particular interpretation of emergent fields as event-like and on strict numerical identity criteria"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "substance vs. event",
+      "numerical identity vs. qualitative similarity",
+      "causal continuity vs. divine recreation",
+      "emergent dependence vs. Cartesian independence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "field of consciousness",
+      "numerical identity",
+      "hiatus",
+      "emergent dualism"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "anticipates and rebuts three Haskerian replies: brain-continuity, acceptance of identity loss, and divine intervention",
+    "objections_raised": [
+      "brain-continuity collapses into physicalism",
+      "accepting identity loss destroys ethics and afterlife",
+      "divine intervention reintroduces Cartesian interaction and duplication"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "high: uses terms like 'fatal', 'inescapable', 'cannot', 'must'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "conceptual analysis, thought experiments, theological implications, logical derivation",
+    "named_thought_experiments": [
+      "cardiac arrest resuscitation",
+      "cryonic suspension",
+      "general anesthesia",
+      "Ship of Theseus / teletransporter paradox"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic metaphysics of personal identity and philosophy of mind",
+    "sentiment": "critical, adversarial, systematic",
+    "thematic_focus": "emergent dualism, personal identity, consciousness, resurrection"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem \u2192 exposition \u2192 derivation of trilemma \u2192 three horns \u2192 synthesis \u2192 conclusion"
+  },
+  "summary_of_core_decisions": "The text is a tightly organized critique that uses a trilemma to show Hasker's emergent dualism cannot handle gaps in consciousness. It derives the trilemma from the magnet analogy, then eliminates each option, concluding that the theory is incoherent because the field is both a substance and an event-like dependent entity.",
+  "thesis_commitment": {
+    "conclusion_type": "negative: theory is incoherent",
+    "hedging_density_in_final_paragraph": "low: final conclusion is unqualified"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "rhoades-can_the_emergent_self_reemerge_deepseek-v4-flash-0731.txt"
+}

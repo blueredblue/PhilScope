@@ -1,0 +1,78 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical structure: it presents a Kantian thesis, develops a powerful objection (Allison/Guyer), proposes a semantic reinterpretation as a corrective, and then qualifies the proposal by identifying its limits. The overall argument is a qualified defense: the semantic model clarifies Kant's account but does not fully solve all paradoxes.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "The text often states premises explicitly, especially in the formalized objection in Section II, but sometimes leaves implicit the normative bridge between semantic openness and aesthetic pleasure."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text engages seriously with objections, grants partial validity to critics, and avoids overclaiming.",
+    "logical_relevance": "Strong: each section advances the central question of whether semantic translation resolves the harmony problem.",
+    "premise_acceptability": "Moderate: the Chomskyan analogy is suggestive but explicitly acknowledged as not directly transferable; the semantic model's explanatory power is limited."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Aesthetic vs cognitive judgment",
+      "Determinate vs reflective judgment",
+      "Subjective pleasure vs objective cognition",
+      "Disinterested vs interested pleasure",
+      "Free play vs determinate cognition",
+      "Semantic openness vs conceptual closure",
+      "Transcendental faculties vs empirical modules",
+      "Universal validity vs universal agreement"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Free play",
+      "Harmony",
+      "Purposiveness without purpose",
+      "Semantic coherence",
+      "Innate interpretive principles"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text addresses objections by distinguishing levels of determination, clarifying metaphorical language, and acknowledging the limits of the semantic model. It does not claim to refute all objections completely.",
+    "objections_raised": [
+      "Allison-Guyer: if harmony is cognitive fit, every cognizable object would be beautiful.",
+      "Harmony is misapplied to transcendental faculties because it implies spatial/temporal relations.",
+      "Semantic openness may not be pleasurable; ambiguity can frustrate.",
+      "Universality of taste conflicts with empirical variation.",
+      "Beauty may become merely subjective projection if semantic model overemphasizes interpretation.",
+      "Chomskyan principles are empirical, Kantian faculties are transcendental; identifying them is a category mistake.",
+      "Semantic model over-intellectualizes aesthetic feeling and under-intellectualizes the Understanding."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'can be understood', 'suggests', 'may', 'helps explain', 'does not completely dissolve'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Allison",
+      "Guyer",
+      "Chomsky",
+      "Leibniz"
+    ],
+    "evidence_type": "Conceptual analysis, transcendental argumentation, analogical reasoning, illustrative examples (landscape, music, poetry, screwdriver, cathedral).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental idealism with a semantic reinterpretation; draws on generative linguistics as an analogy but rejects reduction.",
+    "sentiment": "Analytic and critical; seeks conceptual clarity while preserving Kant's aesthetic insight.",
+    "thematic_focus": "Aesthetic judgment, free play, harmony of faculties, semantic interpretation, limits of transcendental explanation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections and a conclusion; each section addresses a distinct aspect of the central problem."
+  },
+  "summary_of_core_decisions": "The text decides that the semantic model is a valuable clarification but not a complete solution. It preserves Kant's middle-ground account of aesthetic judgment while acknowledging that semantic coherence cannot explain pleasure, normativity, or the lived experience of beauty.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "High: 'does not simply dissolve', 'cannot, by itself, explain', 'remain, but become more precise'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mcphee-a_semantic_explanation_of_harmony_in_kants_aesthetics_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "reception vs comprehension",
+      "donation vs constitution",
+      "word of the world vs word of life",
+      "call vs response",
+      "originator vs witness",
+      "finite conditions vs infinite donation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "saturated phenomenon",
+      "word of life",
+      "witness",
+      "amazement"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges and integrates objections",
+    "objections_raised": [
+      "risk of domination through claims to transcendence",
+      "risk of collapsing transcendence into immanent affectivity",
+      "risk of treating every overwhelming experience as revelation",
+      "risk of reducing subject to passive puppet"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Marion",
+      "Ricoeur",
+      "Henry"
+    ],
+    "evidence_type": "phenomenological description and conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "phenomenology and hermeneutics",
+    "sentiment": "critical but constructive",
+    "thematic_focus": "religious experience, subjectivity, transcendence, givenness"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sections with progressive synthesis"
+  },
+  "summary_of_core_decisions": "The text defends a middle path between subject-centered constitution and passive overwhelm: the ego is decentered but not eliminated, becoming a witness who receives, interprets, and responds to an excessive givenness. It synthesizes Marion's saturated phenomenon, Ricoeur's call/response, and Henry's word of life to show that religious experience requires both infinite donation and finite conditions, with the subject's finitude enabling rather than preventing reception.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified defense",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "macgregor-the_role_of_the_ego_in_religious_experience_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conditional probability defeater argument with self-referential application",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "highly explicit, with numbered propositions and formal notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "highly reasonable, anticipates objections and replies",
+    "logical_relevance": "all premises directly relevant to the conclusion",
+    "premise_acceptability": "premises are plausible but contested, especially probability claims"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "reliability vs. truth",
+      "local vs. global reliability",
+      "practical vs. theoretical cognition",
+      "probability judgment vs. gut reaction",
+      "epistemic probability vs. psychological credence",
+      "logical necessity vs. dialectical necessity",
+      "explanation vs. epistemic vindication"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "N: metaphysical naturalism",
+      "E: contemporary evolutionary theory",
+      "R: human cognitive faculties are reliable"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "systematically considers and replies to naturalistic responses",
+    "objections_raised": [
+      "reliability necessary for successful action",
+      "flexible intelligence is adaptive",
+      "social and scientific error correction",
+      "epistemic bootstrapping",
+      "gut-reaction probability judgments are reliable"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "conceptual and probabilistic reasoning, no empirical data",
+    "named_thought_experiments": [
+      "organism fleeing a harmless shape",
+      "animal estimating predator danger"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic epistemology, philosophy of religion, formal epistemology",
+    "sentiment": "neutral, critical, exploratory",
+    "thematic_focus": "evolutionary debunking, self-defeat, probability, theism vs. naturalism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "progressive dialectical: thesis, extension, objections, limits, conclusion"
+  },
+  "summary_of_core_decisions": "The argument is a self-referential probabilistic defeater, extended from cognition generally to probability judgments specifically, with theism offered as a defeater-defeater but not a logical necessity.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified and conditional",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "power-continuing_plantingas_critique_gpt-5.6-luna.txt"
+}

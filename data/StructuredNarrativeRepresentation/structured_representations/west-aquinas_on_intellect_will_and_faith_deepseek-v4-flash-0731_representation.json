@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis (thesis -> objection -> defense -> counter-objection -> resolution) applied to a historical theological position, reconstructed through contemporary epistemological categories.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in the dialectical flow rather than enumerated formally, but key logical dependencies (e.g., transcendentals -> harmony, grace -> authority) are clearly articulated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text systematically engages with multiple counterarguments (evidentialist, psychological, circularity) and refines the thesis in response.",
+    "logical_relevance": "High - all distinctions (e.g., certainty of evidence vs. adhesion) directly serve the central dilemma.",
+    "premise_acceptability": "Low to Moderate - relies heavily on theological presuppositions (grace, infused virtue) that are not philosophically neutral, making the resolution contingent on prior faith commitments."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Intellect vs. Will (faculty psychology)",
+      "Scientia vs. Opinio vs. Fides",
+      "Certainty of evidence vs. certainty of adhesion",
+      "Supra-rational vs. contra-rational",
+      "Speculative order vs. practical order (rationality of trust)",
+      "Proposition-centered vs. person-centered justification",
+      "Formal object (authority of God) vs. material object (articles of faith)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Indirect descriptive volitionalism",
+      "Connatural knowledge",
+      "Transcendentals (being/goodness/truth)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text addresses objections by redefining the epistemic framework (person-centered justification) rather than by providing new evidence, effectively shifting the burden of proof onto the skeptic.",
+    "objections_raised": [
+      "Evidentialist objection (Locke/Clifford): belief without sufficient evidence is irrational.",
+      "Wishful thinking objection: connatural knowledge is merely psychological manipulation.",
+      "Circularity objection: appealing to God's authority to justify belief in God's authority.",
+      "Agent-relative justification objection: justification depends on the believer's soul state, not objective evidence."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - the text consistently emphasizes the absence of certainty (e.g., 'lacks the certainty of scientia', 'absence of certainty is not a defect').",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aquinas (Summa Theologiae II-II, q. 2, a. 1; q. 4, a. 1)",
+      "Hebrews 11:1",
+      "Romans 5:5"
+    ],
+    "evidence_type": "Conceptual analysis, historical exegesis, and theological doctrine. No empirical or formal logical evidence is used.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical (transcendentals) and theological (grace, infused virtue).",
+    "sentiment": "Neutral to sympathetic - the text presents Aquinas's view as internally coherent but acknowledges its philosophical audacity and reliance on faith.",
+    "thematic_focus": "Epistemology of religious belief, virtue epistemology, philosophy of action (will-intellect interaction)."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem -> Solution (thesis) -> Objection -> Defense -> Counter-objection -> Theological Resolution -> Implications. The text uses numbered sections (I-IV) to mark dialectical stages."
+  },
+  "summary_of_core_decisions": "The text's core philosophical move is to resolve the evidentialist dilemma by shifting the locus of justification from propositions to persons. It argues that faith is justified because the believer's cognitive faculties are properly ordered toward the Good through grace, making the will's movement a transcendence of reason rather than a violation. The absence of certainty is redefined as a condition of virtue (allowing love and trust), and the transformation of desires (conversion) constitutes the epistemic and moral ground. This resolution, however, remains contingent on theological premises, leaving a gap for the skeptic.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense - the text defends Aquinas's account as internally coherent and philosophically viable, but explicitly acknowledges its limits (e.g., reliance on grace, inability to refute the skeptic on purely natural grounds).",
+    "hedging_density_in_final_paragraph": "High - the final section emphasizes 'absence of certainty', 'not a rejection of reason but its fulfillment', and 'reaches toward the infinite', indicating a nuanced, non-dogmatic stance."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "west-aquinas_on_intellect_will_and_faith_deepseek-v4-flash-0731.txt"
+}

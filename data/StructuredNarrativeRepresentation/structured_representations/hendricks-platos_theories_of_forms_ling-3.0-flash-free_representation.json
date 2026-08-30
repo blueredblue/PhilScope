@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical evaluation of an interpretive dilemma, culminating in a synthetic resolution.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate; premises are embedded in textual interpretation and philosophical objections."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the essay engages opposing interpretations and objections fairly.",
+    "logical_relevance": "High; all major moves bear directly on the coherence of Plato's Forms.",
+    "premise_acceptability": "Moderate; relies on contested readings of Plato and modern logical categories."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Universals vs. Standards",
+      "Logical predication vs. ontological participation",
+      "Determinate instantiation vs. indeterminate approximation",
+      "Epistemological function vs. moral/existential function",
+      "Dialectical method vs. analytic logic"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Universals: Forms as logical grounds of predication",
+      "Standards: Forms as paradigms or exemplars for approximation",
+      "Indeterminacy of Approximate Particulars: the problem of specifying degrees of falling short without a determinate criterion"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Nehamas's objection is acknowledged as serious; Bluck's defense is considered but deemed incomplete; final resolution shifts the framework from strict logic to dialectical ontology.",
+    "objections_raised": [
+      "If Forms are standards, approximation requires a determinate criterion, leading to infinite regress or vagueness.",
+      "If Forms are universals, 'falling short' becomes logically incoherent because instantiation is binary.",
+      "Bluck's defense fails to explain how degrees of shortfall are determined without reverting to universalist logic."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'does not collapse entirely', 'apparent conflation', 'productive tension'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato",
+      "Alexander Nehamas",
+      "R.S. Bluck"
+    ],
+    "evidence_type": "Textual evidence from Plato's middle dialogues, philosophical counterexamples, and interpretive arguments.",
+    "named_thought_experiments": [
+      "The equal sticks and stones (Phaedo 74a)",
+      "The three beds (Republic 597a-598b)",
+      "The Divided Line (Republic 509d-511e)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental",
+    "sentiment": "Neutral",
+    "thematic_focus": "Metaphysics, epistemology, philosophy of language, ancient philosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with numbered sections and a conclusion."
+  },
+  "summary_of_core_decisions": "The essay argues that Plato's Forms are neither purely universals nor purely standards, but dialectical principles that ground both predication and approximation. The apparent incommensurability is a productive tension, not a fatal contradiction.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive about the framework's survival and dialectical nature."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hendricks-platos_theories_of_forms_ling-3.0-flash-free.txt"
+}

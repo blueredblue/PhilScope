@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative critique via reductio ad absurdum and parity of reasoning",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "High - premises are clearly stated and systematically derived from each philosopher's core metaphysical commitments"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages seriously with both frameworks, presenting their internal logic before critiquing",
+    "logical_relevance": "High - all objections directly target the mechanisms by which each theory derives the immorality of self-harm",
+    "premise_acceptability": "Moderate - relies on intuitive judgments about everyday activities (driving, eating) which are widely shared, but the absolute metaphysical premises of the theories are themselves contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Present self vs. future self",
+      "Dignity (Velleman) vs. psychological continuity (Parfit)",
+      "Moral wrong vs. prudential imprudence",
+      "Reasonable risk-taking vs. egregious self-harm",
+      "Autonomy as self-legislation vs. autonomy as absolute right"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Dignity: unconditioned worth of a rational agent",
+      "Present self: locus of agency, author of action, conscious bearer of intentions",
+      "Rightful role of present self: capacity to take reasonable risks, pursue own ends, accept uncertainties"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay does not defend the theories against the over-restrictiveness objection; rather, it uses this objection as the primary weapon to refute them. It does not anticipate potential responses (e.g., scalar risk thresholds or virtue-based moderation) from Velleman or Parfit.",
+    "objections_raised": [
+      "Over-restrictiveness objection (Section IV): parity of reasoning shows both theories condemn mundane activities like driving, eating rich foods, and drinking alcohol.",
+      "Alienation objection (Section V): Velleman alienates the present self from its desires, reducing it to a vessel for abstract dignity.",
+      "Fragmentation objection (Section V): Parfit dissolves the unity of the agent, making the present self a moral hostage to a future stranger."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses definitive terms like 'fail', 'collapse', 'destroy', but also acknowledges 'profound insights' of the theories.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Immanuel Kant (via Velleman)",
+      "Derek Parfit"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments (smoking, driving, dangerous jobs), intuitive moral judgments about everyday life",
+    "named_thought_experiments": [
+      "Smoking as trading person for benefits",
+      "Driving a car as imposing risk on future self",
+      "Eating rich foods as diminishing future personhood"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, normative ethics, metaphysics of personal identity",
+    "sentiment": "Critical of deontological absolutism and radical psychological reductionism; implicitly defends a moderate, prudential, and agency-centered view of self-regarding conduct",
+    "thematic_focus": "The moral status of self-affecting acts, the nature of personal identity, the limits of autonomy, the tension between metaphysical absolutes and practical reason"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Comparative analysis followed by a unified critical assessment. The essay moves from exposition (Sections I & II) to shared tension (Section III) to systematic objection (Section IV) to normative verdict (Section V) and conclusion (Section VI)."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to treat the 'over-restrictiveness objection' as a decisive refutation of both Velleman and Parfit. It argues that because both theories ground the immorality of self-harm in absolute metaphysical claims (unalienable dignity vs. distinct future personhood), they cannot accommodate the proportionality and context necessary for legitimate risk-taking. Consequently, both frameworks strip the present self of its rightful role as a unified, self-governing agent, reducing it to either an ascetic custodian of abstract dignity or a fragmented stepping stone for a future stranger.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative critique - both theories fail to establish the immorality of imprudent self-affecting acts without collapsing into untenable restrictions.",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is definitive: 'both ultimately fail' and 'collapse into untenable restrictions'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "persad-velleman_and_parfit_ling-3.0-flash-free.txt"
+}

@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis: thesis (libertarian primacy of negative freedom) \u2192 antithesis (incompleteness due to social conditions) \u2192 synthesis (negative freedom preserved but supplemented by social debt)",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit \u2014 premises are stated but often embedded in rhetorical repetition rather than formal notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2014 engages seriously with libertarian position, concedes its strengths before critiquing",
+    "logical_relevance": "High \u2014 each step follows from prior claims about agency, freedom, and social conditions",
+    "premise_acceptability": "Moderate \u2014 relies on intuitions about the experience machine and evolutionary claims that may be contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Negative vs. positive freedom",
+      "Interference vs. enabling conditions",
+      "Appearance vs. reality in experience",
+      "Feeling free vs. being free",
+      "Individual self-sufficiency vs. social embeddedness",
+      "Minimal state vs. redistributive state"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Negative liberty: freedom from interference",
+      "Positive liberty: freedom to (power, capacity, opportunity)",
+      "Experience machine: device simulating experiences without real engagement"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Concedes libertarian insights (agency, real choice) but shows they entail social conditions \u2014 internal critique rather than external rejection",
+    "objections_raised": [
+      "Libertarian assumption of self-sufficient individuals is false",
+      "State of nature is historically and anthropologically inaccurate",
+      "Negative freedom without material conditions is empty"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low \u2014 uses 'suggests', 'appears', 'seems' sparingly; mostly assertive declaratives",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Nozick (experience machine, libertarian framework)",
+      "Locke (state of nature tradition)",
+      "Evolutionary theorists (reciprocal altruism, strong reciprocity)"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiment, evolutionary/social scientific appeals",
+    "named_thought_experiments": [
+      "Experience machine (Nozick)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Liberal-communitarian synthesis \u2014 preserves individual agency while grounding it in social conditions",
+    "sentiment": "Sympathetic critique of libertarianism; progressive but not socialist",
+    "thematic_focus": "Freedom, agency, social obligation, distributive justice"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Repetitive parallel escalation \u2014 each paragraph restates the prior claim with increased specificity, moving from abstract to concrete (freedom \u2192 agency \u2192 social conditions \u2192 taxation)"
+  },
+  "summary_of_core_decisions": "The text's core move is to accept the libertarian premise that real agency matters (via the experience machine) but to argue that real agency requires social/material conditions, thereby converting a critique of positive freedom into a justification for limited redistribution. The dialectic is internal: it uses libertarian commitments against libertarian conclusions.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim \u2014 negative freedom is primary but not sufficient; social debt justifies some redistribution",
+    "hedging_density_in_final_paragraph": "Moderate \u2014 'provided those programs are designed to secure... and do not collapse into...' shows careful qualification"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "fournier-liberty_and_debt_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression from thesis to antithesis to synthesis, with a critical evaluation of the antithesis.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate: key premises are stated but some remain implicit (e.g., causal closure, totality as ontological given)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text engages with opposing positions and attempts to synthesize them.",
+    "logical_relevance": "High: each section directly addresses the central problem of free will vs. determinism.",
+    "premise_acceptability": "Moderate: the text relies on contested metaphysical assumptions (e.g., totality of being, rational spontaneity)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Determinism vs. free will",
+      "Totality of being vs. spontaneous nothingness",
+      "Uncaused cause vs. situated agency",
+      "Necessary vs. voluntary action",
+      "Heteronomy vs. autonomy",
+      "Mechanical determination vs. rational self-determination"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Totality of being: a closed, deterministic system in which every event is causally connected.",
+      "Spontaneous nothingness: an uncaused, self-created action arising ex nihilo.",
+      "Situated agency: an individual shaped by conditions yet capable of reflective transformation."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that rejecting totality leads to arbitrary spontaneity and responds by proposing situated agency.",
+    "objections_raised": [
+      "If free will is not determined by the totality, it becomes an uncaused, arbitrary eruption.",
+      "Tugushev's critique is incomplete without a positive ontology of agency."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses hedged terms like 'seems', 'risks', 'must', and 'requires'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Kant"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiment (political dissident), historical philosophical appeals.",
+    "named_thought_experiments": [
+      "Political dissident choosing to speak out against an oppressive regime"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical and ethical: the argument is grounded in ontology of agency and moral responsibility.",
+    "sentiment": "Critical but constructive: it critiques both determinism and radical spontaneity while offering a middle path.",
+    "thematic_focus": "Free will, determinism, agency, autonomy, moral responsibility"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: thesis (Tolstoy), antithesis (Tugushev), problem (spontaneous nothingness), synthesis (situated agency), evaluation, conclusion."
+  },
+  "summary_of_core_decisions": "The text rejects both Tolstoy's deterministic totality and Tugushev's implicit spontaneous nothingness, defending situated agency as the only viable account of free will.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified positive: free will exists as situated self-determination, not as uncaused spontaneity.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive but nuanced."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "tugushev-free_will_in_war_and_peace_ling-3.0-flash-free.txt"
+}

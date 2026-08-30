@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conditional normative dependence with empirical falsification and subsequent logical derivation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are clearly stated and sequentially built upon"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the author engages with the strongest form of the opposing view (Mohr's critique) and concedes significant ground before offering a rebuttal",
+    "logical_relevance": "High - all premises directly contribute to the central question of political obligation and the right to resistance",
+    "premise_acceptability": "Moderate - the initial premise (Locke's dependence on vacant land) is historically accurate, but the author's leap from 'invalid consent' to 'state of nature vis-\u00e0-vis state' is contentious and requires further defense"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Express vs. Tacit consent",
+      "Physical exit (to nature) vs. Migration (between states)",
+      "Rebellion (high threshold, fundamental breach) vs. Resistance (low threshold, self-defense)",
+      "Procedural legitimacy (majority rule) vs. Substantive legitimacy (natural rights)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "In vacuis locis: vacant land as a normative precondition for legitimate appropriation",
+      "Tacit consent: continued residence and enjoyment of benefits as implied agreement",
+      "Fundamental breach: governmental action dissolving the trust (e.g., seizing absolute power)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates the objection that Locke's rebellion criteria are too narrow for taxation, and handles it by bypassing the rebellion clause entirely, reclassifying the situation as a state of nature conflict",
+    "objections_raised": [
+      "The author raises the objection that majority consent to taxation undermines the individualist's claim of rights violation",
+      "The author raises the objection that Locke provides no mechanism for voiding tacit consent other than physical exit"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses definitive terms like 'devastating realization' and 'cannot' but frames the final rebuttal as a conditional ('if taken to its logical conclusion')",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Locke (Second Treatise of Government)",
+      "Tyson Mohr (contemporary critique)",
+      "David Hume (critique of tacit consent)"
+    ],
+    "evidence_type": "Conceptual analysis, historical textual reconstruction, empirical observation of contemporary geopolitical reality (no vacant land)",
+    "named_thought_experiments": [
+      "The Lockean state of nature",
+      "The contemporary fully-appropriated world"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Natural law / Natural rights (Lockean tradition)",
+    "sentiment": "Individualist / Libertarian leaning, but critically engaging with the limits of classical contractarianism",
+    "thematic_focus": "Political obligation, consent theory, property rights, the right to resistance, and the normative significance of territorial scarcity"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sequential dialectical progression: Exposition (Locke) -> Critique (Mohr) -> Concession -> Novel Rebuttal (Third Path)"
+  },
+  "summary_of_core_decisions": "The text's core decision is to treat the empirical condition of vacant land as a necessary normative condition for Lockean consent. When this condition fails, the author chooses to dissolve the social contract entirely rather than accept Mohr's conclusion of political paralysis. This allows the author to shift the justification for resistance from a political right (rebellion against a breached trust) to a pre-political natural right (self-defense against aggression).",
+  "thesis_commitment": {
+    "conclusion_type": "Conditional normative prescription",
+    "hedging_density_in_final_paragraph": "Low - the final paragraph is assertive, though the argument is framed as a conditional derivation from the concession"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mohr-locke_and_the_contemporary_situation_deepseek-v4-flash-0731.txt"
+}

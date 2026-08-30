@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conditional assessment of an ambiguity objection to a reductio ad absurdum",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderately explicit; formalized with subscripts and identity claims"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; considers multiple objections and responses",
+    "logical_relevance": "High; all moves bear on whether ambiguity defeats the reductio",
+    "premise_acceptability": "Conditional; depends on whether one accepts extensionality, endurance, or temporal parts"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Material object vs abstract object",
+      "Identity vs constitution/instantiation",
+      "Endurance vs four-dimensionalism/temporal parts",
+      "Same parts at a time vs numerical identity",
+      "DAUP's domain: material composition only",
+      "Equivocal vs stable reference"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "DAUP: arbitrary collections of material parts compose a material object",
+      "D-minus: the object consisting of all of Descartes's parts except one leg",
+      "D_B: Descartes before the loss",
+      "D_A: Descartes after the loss",
+      "M_B: D-minus before the loss",
+      "M_A: D-minus after the loss"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Systematic; distinguishes ambiguity-based objections from substantive metaphysical objections",
+    "objections_raised": [
+      "Ambiguity of 'Descartes' between material organism and abstract person",
+      "Abstract Descartes cannot have a leg or lose a leg",
+      "D-minus cannot be an arbitrary part of an abstract entity",
+      "Same parts after loss does not entail identity if coincidence is allowed",
+      "Temporal-parts ontology blocks D_B = D_A",
+      "Strongest ambiguity objection: incompatible criteria of identity at different stages"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'may', 'can', 'appears', 'conditional'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Conceptual analysis, formalization, taxonomy of possible interpretations, conditional reasoning",
+    "named_thought_experiments": [
+      "Descartes losing a leg",
+      "D-minus as arbitrary undetached part",
+      "Statue and lump of clay as coincident objects"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics; mereology; philosophy of persistence and identity",
+    "sentiment": "Neutral-analytic; neither defending nor attacking DAUP outright",
+    "thematic_focus": "Whether ambiguity in 'Descartes' can dissolve van Inwagen's reductio against DAUP"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections I-XII; formalization followed by objections and assessment"
+  },
+  "summary_of_core_decisions": "The text concludes that the ambiguity objection is partly correct but ultimately too strong: it defeats equivocal formulations of van Inwagen's reductio, but it does not defeat a version with a stable material referent for 'Descartes'. The paradox then survives as a substantive problem about composition, extensionality, coincidence, and persistence.",
+  "thesis_commitment": {
+    "conclusion_type": "Conditional",
+    "hedging_density_in_final_paragraph": "High; final assessment is explicitly conditional on how the argument is reconstructed"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "knauff-abstract_objects_gpt-5.6-luna.txt"
+}

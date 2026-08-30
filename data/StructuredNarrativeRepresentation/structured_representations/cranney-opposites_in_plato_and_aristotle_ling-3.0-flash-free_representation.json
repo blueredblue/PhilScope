@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative dialectical evaluation",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate - premises are embedded in comparative exposition rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with a plausible objection and replies",
+    "logical_relevance": "High - all moves bear on the central thesis",
+    "premise_acceptability": "Moderate - relies on contested metaphysical assumptions about substance and parsimony"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Transcendent vs immanent ontology",
+      "Participation vs instantiation",
+      "Recollection vs potentiality/actuality",
+      "Essential vs accidental predicates",
+      "Separate Forms vs categories of opposites"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Primary substance as the concrete individual subject of predication",
+      "Potentiality and actuality as modes of the same substance",
+      "Contraries as extreme states of a single quality"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "One explicit objection is raised and answered; other objections are implicit",
+    "objections_raised": [
+      "Aristotle's substratum merely pushes the problem back",
+      "Plato's account generates a 'third man' regress",
+      "Plato's recollection cannot explain physical change"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses 'succeeds', 'fails', 'dismantles', 'more cogent'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Phaedo",
+      "Aristotle's Categories"
+    ],
+    "evidence_type": "Conceptual analysis and thought experiments",
+    "named_thought_experiments": [
+      "Socrates growing taller",
+      "A seed becoming a tree"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Immanent realism",
+    "sentiment": "Anti-transcendent, anti-dualist, naturalistic",
+    "thematic_focus": "Change, predication, substance, categories, opposites"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem \u2192 Plato's solution \u2192 critique \u2192 Aristotle's alternative \u2192 objection/reply \u2192 comparative conclusion"
+  },
+  "summary_of_core_decisions": "The text argues that Aristotle's Categories provides a more cogent account of change and predication than Plato's theory of Forms because Aristotle grounds both in immanent primary substance, uses potentiality/actuality to explain transition, and classifies opposites within the categories, thereby avoiding the metaphysical extravagance and inconsistencies of Platonic participation and recollection.",
+  "thesis_commitment": {
+    "conclusion_type": "Comparative evaluative thesis",
+    "hedging_density_in_final_paragraph": "Low - decisive endorsement of Aristotle"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "cranney-opposites_in_plato_and_aristotle_ling-3.0-flash-free.txt"
+}

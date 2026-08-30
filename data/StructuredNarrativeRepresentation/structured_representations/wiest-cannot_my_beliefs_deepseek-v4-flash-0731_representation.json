@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "High - premises are clearly stated and defended"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views fairly",
+    "logical_relevance": "High - all arguments directly support the thesis",
+    "premise_acceptability": "Moderate - some premises (e.g., direction of fit exclusivity) are contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Normative vs. motivating reasons",
+      "Unmotivated vs. motivated desires",
+      "Source vs. structure of motivation",
+      "Belief vs. desire (direction of fit)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Direction of fit (mind-to-world vs. world-to-mind)",
+      "Motivating reason (psychological state causing action)",
+      "Normative reason (fact justifying action)",
+      "Unmotivated desire (basic appetite)",
+      "Motivated desire (desire arising from deliberation)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates and addresses objections (e.g., Smith's objection to Nagel's 'besire' is countered by the synthesis of intention as a rational requirement).",
+    "objections_raised": [
+      "Smith's objection: Nagel conflates normative and motivating reasons.",
+      "Smith's objection: Direction of fit makes 'besire' conceptually incoherent.",
+      "Smith's objection: Desires are numerically distinct states, proven by independent satisfaction."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'argues', 'contends', 'suggests' rather than 'proves'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Elizabeth Anscombe (for direction of fit)",
+      "Thomas Nagel",
+      "Michael Smith"
+    ],
+    "evidence_type": "Conceptual analysis and thought experiments",
+    "named_thought_experiments": [
+      "Soda pop and dime example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy",
+    "sentiment": "Neutral - presents both sides before synthesizing",
+    "thematic_focus": "Philosophy of action, moral psychology, metaethics"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical (Thesis-Antithesis-Synthesis) with clear sections for each position and a concluding synthesis."
+  },
+  "summary_of_core_decisions": "The essay resolves the Nagel-Smith debate by distinguishing between the *source* of motivation (where Nagel wins: practical reason can generate conative states) and the *structure* of action (where Smith wins: a conative state is necessary for execution). The synthesis posits that practical judgments create intentions\u2014states with a world-to-mind direction of fit that are rational requirements, not contingent desires.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic resolution",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is stated definitively as the correct resolution."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "wiest-cannot_my_beliefs_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical argument that proceeds by presenting a paradox, analyzing it through Kantian principles, and resolving it through a revised maxim and motive-based distinction.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High: premises are stated and repeatedly reformulated with incremental precision."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text acknowledges the apparent contradiction and attempts a synthesis rather than dismissing either side.",
+    "logical_relevance": "All premises are relevant to the central question of whether Kantian ethics can justify rebellion.",
+    "premise_acceptability": "Premises are acceptable within a Kantian framework, though the reconstruction is contested."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Perfect vs. imperfect duties",
+      "Standard maxim vs. revised maxim",
+      "Rebellion from inclination vs. rebellion from duty",
+      "Hypothetical vs. categorical imperative",
+      "Empirical happiness vs. good will",
+      "Legitimate government vs. evil government",
+      "Political duty vs. moral duty",
+      "Destruction vs. restoration of legal order"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Perfect duty: strict prohibition admitting no exception",
+      "Imperfect duty: broad obligation allowing latitude",
+      "Good will: acts solely from duty to the moral law",
+      "Hypothetical imperative: grounded in contingent desires",
+      "Categorical imperative: grounded in the moral law"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that universalizing rebellion leads to anarchy and responds by distinguishing the revised maxim of restoration from the standard maxim of destruction.",
+    "objections_raised": [
+      "If everyone rebelled for empirical gain, legal order would collapse.",
+      "Rebellion motivated by happiness is unstable and open to endless reinterpretation."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses terms like 'demands', 'must', 'cannot', 'only when'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Immanuel Kant",
+      "Christine Korsgaard"
+    ],
+    "evidence_type": "Conceptual analysis and textual interpretation of Kant's works, especially the Metaphysics of Morals and the essay on theory and practice.",
+    "named_thought_experiments": [
+      "Universalization of the standard maxim of rebellion",
+      "Universalization of the revised maxim of restoration"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Deontological ethics, specifically Kantianism",
+    "sentiment": "Neutral/analytical",
+    "thematic_focus": "Political obligation, revolution, moral motivation, universalizability"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical synthesis: paradox \u2192 analysis \u2192 resolution \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text resolves the Kantian paradox by arguing that rebellion is morally justified only when it is grounded in the good will, aims at restoring a legitimate legal order, and excludes happiness-based empirical counsels. It uses the Formulation of Universal Law to reject the standard maxim of rebellion, the Formulation of the Kingdom of Ends to condemn evil governments, and Korsgaard's strict/broad duty distinction to show that resistance can become a moral duty. The French Revolution is presented as the vindication of this reconstructed Kantian position.",
+  "thesis_commitment": {
+    "conclusion_type": "Conditional normative claim",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive but carefully qualified by conditions."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "pike-reason_to_revolt_ling-3.0-flash-free.txt"
+}

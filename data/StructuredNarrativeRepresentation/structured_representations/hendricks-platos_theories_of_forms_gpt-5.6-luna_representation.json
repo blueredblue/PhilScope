@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression from two apparent conceptions of Forms, through a charge of conflation, an objection, a defense, and a qualified reconciliation.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often embedded in illustrative examples and textual references rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay engages with objections and replies, and qualifies its conclusions.",
+    "logical_relevance": "High: each section advances the central question of whether universality and standardhood are compatible.",
+    "premise_acceptability": "Moderate: relies on interpretive claims about Plato that are plausible but contestable."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Universal vs. standard/paradigm",
+      "Classificatory vs. evaluative role",
+      "Predication vs. approximation",
+      "Resemblance vs. participation",
+      "Incomplete realization vs. imperfect copy",
+      "Universality as such vs. normative completeness",
+      "Incommensurability vs. distinctness",
+      "Architectonic vs. analytic theory"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Universal: one intelligible nature common to many particulars.",
+      "Standard: a criterion, measure, or ideal of correctness.",
+      "IA: the objection that approximation to a Form is indeterminate or circular.",
+      "Bluck's defense: standards are criteria of intelligible order, not perfect sensible exemplars."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Nehamas's IA is acknowledged as fatal to crude exemplar versions, but Bluck's reinterpretation is offered as a partial response.",
+    "objections_raised": [
+      "Logical gap from universal to perfect standard",
+      "Self-predication and regress",
+      "Symmetry and indeterminacy of resemblance",
+      "Heterogeneous instances of Forms",
+      "Circularity of approximation",
+      "Indeterminate class boundaries"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'may', 'can', 'appears', 'seems', 'perhaps'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato",
+      "Nehamas",
+      "Bluck"
+    ],
+    "evidence_type": "Textual evidence from Plato's Phaedo and Republic, conceptual analysis, illustrative examples.",
+    "named_thought_experiments": [
+      "Triangle universal vs. exact geometrical standard",
+      "Meter standard as rule rather than visual resemblance",
+      "Painting beautiful by color but lacking proportion",
+      "Equality passage: equal in length but unequal in weight"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical and epistemological, with normative ethical/political dimensions.",
+    "sentiment": "Analytic, reconstructive, non-polemical.",
+    "thematic_focus": "Plato's theory of Forms, universals, paradigms, participation, explanation, normativity."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical stages: introduction, two interpretations, charge, objection, defense, reconciliation, textual assessment, collapse assessment, conclusion."
+  },
+  "summary_of_core_decisions": "The essay argues that Plato's Forms are both universals and standards, that Nehamas's objection undermines only crude exemplar versions, and that Bluck's reinterpretation of standards as criteria of intelligible order allows a qualified reconciliation, though unresolved tensions remain.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified reconciliation",
+    "hedging_density_in_final_paragraph": "Moderate: 'not perfect', 'remains partly programmatic', 'unresolved tension'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hendricks-platos_theories_of_forms_gpt-5.6-luna.txt"
+}

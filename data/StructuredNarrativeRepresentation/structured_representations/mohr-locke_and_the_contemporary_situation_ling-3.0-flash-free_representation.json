@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical evaluation with constructive counterargument",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate - premises often embedded in prose, some explicitly stated as 'Locke's theory rests on...'"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with Mohr's strongest points, concedes where appropriate, then offers independent objections",
+    "logical_relevance": "High - all objections directly address Mohr's conclusion",
+    "premise_acceptability": "Moderate - some premises (e.g., 'Locke's core normative commitments are independent of empirical conditions') are contestable but defended"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Practical difficulty vs. conceptual validity of exit",
+      "Procedural mechanisms vs. deeper normative claims",
+      "Empirical conditions vs. normative principles",
+      "Submission vs. revolution vs. intermediate options"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Natural rights: 'inherent in human nature as rational and morally autonomous agents'",
+      "Tacit consent: 'requires a genuine opportunity to exit' (Mohr's view) vs. 'meaningful avenues for participation, contestation, and reform' (author's alternative)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Concedes Mohr's empirical points but denies their philosophical force; offers alternative interpretations of Locke",
+    "objections_raised": [
+      "Conflation of practical difficulty with absence of recourse",
+      "Underestimation of Locke's resources for non-revolutionary challenge",
+      "Contestable interpretation of tacit consent",
+      "Ignoring Lockean incrementalism",
+      "Overlooking the legitimating function of intellectual tradition"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'I think', 'may', 'might', 'can be'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Locke's texts",
+      "Thoreau's 'Civil Disobedience'",
+      "Historical examples (Glorious Revolution)"
+    ],
+    "evidence_type": "Conceptual analysis, historical interpretation, hypothetical reasoning",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Natural rights theory, social contract, limited government",
+    "sentiment": "Defends Lockean tradition against radical critique",
+    "thematic_focus": "Political obligation, legitimacy, resistance, consent"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with progressive argumentation: presentation of Mohr's critique, evaluation, independent objection, deeper engagement, practical implications, conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that Mohr's critique of Locke's relevance for contemporary individualists is powerful but insufficient. It concedes empirical challenges (exit, scale, taxation) but contends that Locke's core normative principles (natural rights, consent, limited government) are adaptable. It offers an independent objection: Mohr's false dichotomy of submission vs. revolution ignores intermediate options like civil disobedience, institutional reform, and alternative institution-building. The essay concludes that Locke's theory is incomplete but not irrelevant, requiring extension rather than abandonment.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense of Locke's relevance",
+    "hedging_density_in_final_paragraph": "Moderate - uses 'can be adapted', 'does not leave individualists without legitimate recourse', 'needs to be supplemented'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mohr-locke_and_the_contemporary_situation_ling-3.0-flash-free.txt"
+}

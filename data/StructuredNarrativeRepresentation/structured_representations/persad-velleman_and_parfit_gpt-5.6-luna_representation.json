@@ -1,0 +1,80 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis: present a moral problem, reconstruct two rival theoretical frameworks, test them against a hard case, develop objections, introduce qualifications, evaluate strengths and weaknesses, and conclude with an intermediate position.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate: each theory is reconstructed in numbered steps, but many normative premises are left implicit and later qualified."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: objections are presented fairly and both theories are given partial credit.",
+    "logical_relevance": "High: all major moves bear on the question of whether smoking is morally wrong.",
+    "premise_acceptability": "Moderate: relies on contested Kantian and reductionist premises, but acknowledges contestability."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "bad for someone vs. wrong",
+      "prudence vs. morality",
+      "autonomy vs. paternalism",
+      "price vs. dignity",
+      "personal identity vs. psychological continuity",
+      "constitutive vs. incidental threats to personhood",
+      "harm vs. wrong",
+      "present authority vs. future claims",
+      "threshold, aggregation, and authority problems",
+      "intentional structure, consent, proportionality, and alternatives"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "dignity: value not reducible to usefulness, desirability, or exchange value",
+      "reductionism: personal identity is not a deep metaphysical fact but consists in psychological continuity and connectedness",
+      "constitutive threat: destroying or permanently incapacitating the basic conditions of personhood",
+      "incidental threat: accepting limited risk or temporary impairment for a worthwhile activity"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Each theory is shown to face an over-restrictiveness objection; qualifications are introduced to limit the theories' reach rather than to abandon them.",
+    "objections_raised": [
+      "Velleman's theory may condemn too many ordinary self-affecting risks.",
+      "Parfit's theory may give future selves a veto over present agency.",
+      "Threshold problem: health risks are continuous and hard to distinguish.",
+      "Aggregation problem: single acts may seem trivial while patterns are serious.",
+      "Authority problem: present self has legitimate authority over her own life."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'may', 'can', 'plausibly', 'not necessarily', 'most defensible'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Velleman",
+      "Parfit"
+    ],
+    "evidence_type": "Conceptual analysis, hypothetical cases, reconstruction of arguments, normative evaluation.",
+    "named_thought_experiments": [
+      "voluntary slavery",
+      "self-mutilation for money",
+      "suicide for trivial benefit",
+      "smoking as risk imposition on future self"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Normative ethics and metaphysics of personal identity.",
+    "sentiment": "Balanced, critical, non-polemical.",
+    "thematic_focus": "Self-regarding harm, autonomy, dignity, temporal agency, addiction, paternalism."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-driven comparative analysis with synthetic conclusion."
+  },
+  "summary_of_core_decisions": "The essay neither endorses a blanket moral prohibition on smoking nor treats smoking as morally innocent. It argues that Velleman's dignity-based view and Parfit's reductionist view each illuminate important moral considerations, but neither alone establishes that ordinary smoking is morally wrong. Smoking is best understood as presumptively imprudent and potentially morally objectionable when it involves severe avoidable risk, addiction undermining future autonomy, or a settled willingness to treat one's agency as disposable for trivial gratification.",
+  "thesis_commitment": {
+    "conclusion_type": "Intermediate / qualified",
+    "hedging_density_in_final_paragraph": "High: 'can be judged seriously imprudent and, under particular conditions, morally objectionable'; 'neither ... conclusively demonstrates'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "persad-velleman_and_parfit_gpt-5.6-luna.txt"
+}

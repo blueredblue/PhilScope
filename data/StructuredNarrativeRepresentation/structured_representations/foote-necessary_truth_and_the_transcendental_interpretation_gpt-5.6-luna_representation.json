@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical analysis of Descartes's Cogito, structured as a problem-resolution essay. It identifies a tension between the Demon Argument and the Cogito, evaluates three interpretive frameworks, and resolves the tension through modal distinctions.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: key premises are stated in reconstructed arguments, but much of the analysis is interpretive and dialectical."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text considers objections and alternative interpretations, and avoids overclaiming.",
+    "logical_relevance": "High: all distinctions and arguments bear directly on the central question of the Cogito's modal and epistemic status.",
+    "premise_acceptability": "Moderate: premises are plausible within a broadly Cartesian or Kantian framework, but some are contested (e.g., the need for a subject)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Syllogistic inference vs. performative utterance vs. transcendental reasoning",
+      "Propositional certainty vs. performative certainty",
+      "Unrestricted metaphysical necessity vs. epistemic necessity vs. logical/performative necessity",
+      "A posteriori necessity vs. a priori contingency",
+      "Subjective certainty vs. objective knowledge",
+      "Thin subject of present thought vs. substantial Cartesian ego",
+      "Occurrence of thought vs. persisting personal identity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Performative self-defeat: a denial whose successful performance undermines its content.",
+      "Transcendental ego: a formal condition of the possibility of thought, not an empirical object.",
+      "Conditional necessity: if thought occurs, existence necessarily occurs in the thought's subject or activity."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text explicitly addresses objections to the syllogistic reading, the limits of performative validity, and the risk of smuggling in a substantial ego.",
+    "objections_raised": [
+      "The syllogistic reading presupposes the general principle 'whatever thinks exists'.",
+      "The performative reading may establish only an activity, not a substantial ego.",
+      "The transcendental reading may not prove persisting identity or metaphysical independence."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: words like 'certainty', 'indubitable', and 'cannot be doubted' appear, but the text is careful to limit their scope.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Descartes",
+      "Hintikka",
+      "Kant",
+      "Hume",
+      "Kripke"
+    ],
+    "evidence_type": "Conceptual analysis, modal reasoning, transcendental argument, performative contradiction analysis, first-person reflection.",
+    "named_thought_experiments": [
+      "Demon Argument",
+      "Dream Argument",
+      "Hintikka's performative denial example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Epistemology, philosophy of mind, modal metaphysics, history of philosophy.",
+    "sentiment": "Neutral-analytic; sympathetic to a modest, non-substantialist reading of the Cogito.",
+    "thematic_focus": "The modal and epistemic status of the Cogito; the limits of foundational certainty."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem \u2192 Interpretive alternatives \u2192 Modal resolution \u2192 Epistemic limits \u2192 Conclusion."
+  },
+  "summary_of_core_decisions": "The Cogito is best understood not as a syllogism, but as a performative-transcendental disclosure. Its necessity is conditional: whenever thinking occurs, existence is necessarily involved in that occurrence. The antecedent is contingent, so the Cogito is not an unrestricted a priori truth. It yields subjective certainty about present thinking and existence, but not objective knowledge of the external world, mathematics, other minds, or a persisting substantial self.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified positive thesis",
+    "hedging_density_in_final_paragraph": "High: the conclusion emphasizes modesty, limits, and minimal conditions."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "foote-necessary_truth_and_the_transcendental_interpretation_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum via immanent critique",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly implicit, reconstructed from text"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate to high within pragmatist framework"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Descriptive vs. normative",
+      "Pluralism vs. monism",
+      "Anti-foundationalism vs. essentialism",
+      "Demand satisfaction vs. tolerance as meta-demand"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Good = demand satisfaction",
+      "Tolerance = meta-demand requiring acceptance of all demands"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Tolerance objection is raised and answered",
+    "objections_raised": [
+      "Tolerance as a standard of adjudication",
+      "Potential pragmatic flexibility"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "William James",
+      "Robert Talisse",
+      "Scott Aikin"
+    ],
+    "evidence_type": "Conceptual analysis and logical derivation",
+    "named_thought_experiments": [
+      "Whistleblower dilemma"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatism",
+    "sentiment": "Critical",
+    "thematic_focus": "Metaethics, moral pluralism, moral conflict"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical progression with recursive restatement"
+  },
+  "summary_of_core_decisions": "The text is a tightly structured immanent critique of Jamesian pragmatism. It defines James's moral criterion as demand satisfaction, exposes its inability to adjudicate conflicting demands, considers tolerance as a rescue, and shows that tolerance is self-defeating. The conclusion is that Jamesian pluralism collapses into arbitrariness, validating the incoherence charge.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative",
+    "hedging_density_in_final_paragraph": "Low to moderate ('largely justified')"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "perrin-the_incoherence_of_william_james_moral_philosophy_ling-3.0-flash-free.txt"
+}

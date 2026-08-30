@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression through recursive elaboration",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated and restated with increasing specificity"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with both Russell and Strawson, considers objections",
+    "logical_relevance": "High - all moves bear on the central question of meaning and reference",
+    "premise_acceptability": "Moderate - relies on intuitive distinction between meaning and reference, which is contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Expression vs use",
+      "Meaning vs reference",
+      "Truth-conditions vs communicative directions",
+      "Semantic content vs pragmatic scaffolding",
+      "Fulfilled vs unfulfilled directions"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Meaning as general directions for correct use",
+      "Use as actual deployment of an expression in a speech act"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Considers two horns of a dilemma and rejects both by introducing the notion of suspension",
+    "objections_raised": [
+      "Directions for nonexistent referents are vacuous",
+      "Speakers misunderstand proper application",
+      "Strawson's theory collapses into vagueness"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'argue', 'reveals', 'demonstrates' but also 'seems' and 'appears'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Russell",
+      "Strawson"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, dialectical testing",
+    "named_thought_experiments": [
+      "The present king of France",
+      "The queen of America"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatic and ordinary language philosophy",
+    "sentiment": "Neutral analytic",
+    "thematic_focus": "Philosophy of language, reference, meaning, nonexistent objects"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Recursive - each paragraph restates and refines the previous one, gradually adding nuance"
+  },
+  "summary_of_core_decisions": "The text evaluates Strawson's theory of meaning as directions for correct use against the problem of nonexistent referents. It argues that the theory does not collapse; rather, it reveals that meaning is prospective and distinct from reference. The Russell-Strawson tension is resolved by recognizing two levels: logical truth-conditions and expressive communicative directions.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic reconciliation",
+    "hedging_density_in_final_paragraph": "Low - final conclusion is assertive but nuanced"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "white-vagueness_in_strawson_ling-3.0-flash-free.txt"
+}

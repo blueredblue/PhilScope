@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Analogical refutation followed by positive defense",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Mixed: explicit premises about pathology and criteria; implicit assumptions about analogy and exclusion"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate: the analogy is suggestive but not fully defended; the exclusionary policy is asserted more than argued",
+    "logical_relevance": "High: all premises bear directly on the validity of Kirkham's criteria and the proposed exclusionary approach",
+    "premise_acceptability": "Contested: the mathematical-pathology analogy and the claim that exclusion satisfies completeness are not universally accepted"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Pathological vs. well-formed semantic construction",
+      "Solving a paradox vs. excluding a defect",
+      "Legitimate truth-bearer vs. defective truth-bearer",
+      "Specificity/non-ad hocness vs. completeness/avoidance of overkill/preservation of intuitions"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Exclusionary approach: policy that denies truth values to self-referential contradictions"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "No explicit objections are raised or answered; the argument relies on the force of the analogy",
+    "objections_raised": []
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses 'must', 'invalid', 'demonstrate', 'defend'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Richard Kirkham",
+      "Tarski",
+      "Kripke",
+      "paraconsistent logicians",
+      "dialetheists"
+    ],
+    "evidence_type": "Analogical precedent from mathematics; no empirical or formal evidence",
+    "named_thought_experiments": [
+      "Liar Paradox",
+      "Strengthened Liar",
+      "Contingent Liar variants",
+      "Division by zero",
+      "Weierstrass function"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language and logic",
+    "sentiment": "Deflationary about the Liar as a problem; exclusionary about truth evaluation",
+    "thematic_focus": "Truth, paradox, semantic pathology, criteria for theory choice"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with repeated thesis statements; enumerative criteria; analogical argument; positive defense"
+  },
+  "summary_of_core_decisions": "The text decides that the Liar Paradox is a pathological construction, not a legitimate truth-bearer; therefore Kirkham's specificity and non-ad hocness criteria are invalid. It defends an exclusionary approach that denies truth values to self-referential contradictions, claiming this satisfies completeness, avoidance of overkill, and preservation of intuitions without constructing a comprehensive formal system.",
+  "thesis_commitment": {
+    "conclusion_type": "Prescriptive: how truth theory should treat the Liar",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is stated categorically"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "wilson-the_pathological_liar_deepseek-v4-flash-0731.txt"
+}

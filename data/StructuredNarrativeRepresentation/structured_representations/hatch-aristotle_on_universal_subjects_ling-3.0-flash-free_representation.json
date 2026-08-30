@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical mediation through a third text",
+    "premise_explicitness": "High: stages are explicitly marked",
+    "num_distinct_arguments_for_thesis": 2
+  },
+  "dialectical_engagement": {
+    "objections_raised": [
+      "Englebretsen's category mistake objection",
+      "Hylomorphic objection: forms are actualities, not symbols"
+    ],
+    "objection_handling": "Not refuted; rather, partially conceded and then bounded by a textual constraint.",
+    "bites_the_bullet_on_counterintuitive_implication": true
+  },
+  "method_and_evidence": {
+    "uses_named_thought_experiment": false,
+    "named_thought_experiments": [],
+    "evidence_type": "Scholarly positions and textual evidence from Aristotle",
+    "appeals_to_authority": [
+      "Aristotle",
+      "Gyekye",
+      "Englebretsen"
+    ]
+  },
+  "thesis_commitment": {
+    "conclusion_type": "Balanced adjudication",
+    "hedging_density_in_final_paragraph": "D1_central_problem"
+  },
+  "structural_organization": {
+    "structure_type": "Progressive problematization",
+    "explicit_signposting": true
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate",
+    "uses_first_person_epistemic_verbs": true,
+    "imagined_interlocutor_voiced_directly": false
+  },
+  "conceptual_grounding": {
+    "explicit_definitions_given": [
+      "Primary substances",
+      "Secondary substances",
+      "Incomplete symbols",
+      "Ontological truth conditions",
+      "Semantic meaning",
+      "Scientific demonstration (apodeixis)"
+    ],
+    "draws_explicit_distinction": true,
+    "distinctions_drawn": [
+      "Primary vs. secondary substances",
+      "Semantic meaning vs. ontological truth conditions",
+      "Incomplete symbol vs. actual essence",
+      "Epistemological constraint vs. ontological elimination",
+      "Synonymous vs. homonymous predication",
+      "Logical dependence vs. ontological reductionism"
+    ]
+  },
+  "argumentative_quality": {
+    "premise_acceptability": "Mixed",
+    "logical_relevance": "High",
+    "dialectical_reasonableness": "High"
+  },
+  "philosophical_orientation": {
+    "thematic_focus": "Metaphysics and logic",
+    "sentiment": "Neutral-adjudicative",
+    "grounding": "Aristotelian realism"
+  },
+  "summary_of_core_decisions": "The essay reconstructs Gyekye\u2019s predicate-logical reading of Aristotle, stages Englebretsen\u2019s metaphysical objection, and uses the Posterior Analytics prohibition as the decisive textual constraint; the final position accepts logical dependence while rejecting ontological elimination.",
+  "_source_corpus": "synthetic",
+  "_source_file": "hatch-aristotle_on_universal_subjects_ling-3.0-flash-free.txt"
+}

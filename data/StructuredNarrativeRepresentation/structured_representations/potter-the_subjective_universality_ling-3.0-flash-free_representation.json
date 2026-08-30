@@ -1,0 +1,87 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental-dialectical",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "subjective vs. universal",
+      "private pleasure vs. universal validity",
+      "interested vs. disinterested pleasure",
+      "dependent vs. pure judgment of taste",
+      "cognitive vs. aesthetic judgment",
+      "determinant vs. reflective judgment",
+      "empirical vs. normative claim",
+      "actual psychological disagreement vs. normative requirement",
+      "objective property vs. subjective condition",
+      "individual vs. representative subject",
+      "contingent vs. necessary",
+      "descriptive vs. prescriptive"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "disinterestedness",
+      "free play",
+      "subjective universality",
+      "aesthetic judgment",
+      "cognitive judgment",
+      "determinant judgment",
+      "reflective judgment",
+      "interested pleasure",
+      "disinterested pleasure"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "distinguish-and-defend",
+    "objections_raised": [
+      "conflicting aesthetic judgments",
+      "unattainability of pure disinterestedness",
+      "unfalsifiability / tautology",
+      "cultural variability of aesthetic harmony"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant"
+    ],
+    "evidence_type": "conceptual analysis and thought experiments",
+    "named_thought_experiments": [
+      "sunset",
+      "wine",
+      "triangle",
+      "Guernica",
+      "driftwood",
+      "shattered pottery",
+      "modern installation"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "transcendental idealism",
+    "sentiment": "normative",
+    "thematic_focus": "aesthetics and judgment"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical spiral with recursive paraphrase"
+  },
+  "summary_of_core_decisions": "The text presents Kant's subjective universality as a normative, not empirical, claim. It resolves the paradox by grounding universal validity in the universal cognitive faculties of the subject, specifically through disinterestedness and free play. It defends against conflicting judgments by distinguishing actual psychological disagreement from normative requirements. It acknowledges limitations (unattainability, unfalsifiability, cultural pluralism) but concludes that the tension is the productive engine of aesthetic experience.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified defense",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "potter-the_subjective_universality_ling-3.0-flash-free.txt"
+}

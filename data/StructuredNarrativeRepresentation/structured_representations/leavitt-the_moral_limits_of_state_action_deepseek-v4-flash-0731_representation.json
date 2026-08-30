@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Adjudicative dialectic",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are explicitly stated and defended through textual exegesis and logical deduction."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the author presents the strongest version of the opposing view (Rosen) before systematically dismantling it, and concedes valid points of the libertarian view.",
+    "logical_relevance": "High - every section directly addresses the central question of whether the state has a moral duty to coerce welfare.",
+    "premise_acceptability": "Moderate - relies heavily on a specific, contested interpretation of Kant's texts (e.g., the strict separation of Right and Virtue, the a priori nature of the united will)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Internal (Ethics/Virtue) vs. External (Right/Recht)",
+      "Moral duty (categorical) vs. Juridical law (external coercion)",
+      "A priori (United Will) vs. Empirical (Majority Consent)",
+      "Private dependence (contract) vs. Legal subjection (state coercion)",
+      "Universal restriction (reciprocal) vs. Non-reciprocal burden (transfer)",
+      "Negative liberty (freedom from interference) vs. Positive welfare (material provision)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Categorical Imperative (CI) - supreme principle of morality",
+      "Formula of Universal Law (FUL) - act only on universalizable maxims",
+      "Formula of Humanity (FH) - treat persons as ends, never merely as means",
+      "Universal Principle of Right (UPR) - external action must coexist with freedom of all",
+      "United Will - a priori idea of reason, not empirical aggregation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates Rosen's objection (that dependence justifies redistribution) and refutes it by distinguishing private dependence from legal subjection. They also concede the libertarian point on moral duty but argue it misses the prudential justification for welfare.",
+    "objections_raised": [
+      "Rosen's conflation of dependence with coercion",
+      "Rosen's misapplication of the united will as a moral agent",
+      "Libertarian's failure to account for the empirical stability of the juridical order"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses terms like 'cannot', 'must', 'is violated', but also 'conceivable' and 'prudential' indicating empirical contingency.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Immanuel Kant (primary)",
+      "Allen D. Rosen (secondary, opposing view)",
+      "Hans-Hermann Hoppe, Tibor Machan (secondary, libertarian view)"
+    ],
+    "evidence_type": "Textual exegesis and logical deduction from first principles (CI, UPR).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Deontological (Kantian)",
+    "sentiment": "Anti-paternalistic, rights-based, formalist",
+    "thematic_focus": "Political philosophy, philosophy of law, distributive justice"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with thesis-antithesis-synthesis. The text moves from a paradox (Intro) to foundational exposition (I), to opposing interpretations (II & III), to adjudication via Kant's principles (IV & V), and finally to a resolution (VI)."
+  },
+  "summary_of_core_decisions": "The text resolves the dilemma by strictly separating the Doctrine of Virtue (moral duty of beneficence) from the Doctrine of Right (juridical duty of external freedom). It argues that coercive welfare cannot be derived from the Categorical Imperative because it violates the Universal Principle of Right (non-reciprocal burden) and the Formula of Humanity (instrumentalization of the wealthy). The 'united will' is an a priori rational ideal that cannot will such a law. However, the author avoids a purely libertarian conclusion by allowing welfare as a contingent, prudential measure to maintain the stability of the juridical order, thus decoupling moral categoricality from political permissibility.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection of the moral grounding of welfare, but acceptance of its prudential legitimacy.",
+    "hedging_density_in_final_paragraph": "High - the final section explicitly frames welfare as 'prudential, not moral', indicating a nuanced, non-absolute stance."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "leavitt-the_moral_limits_of_state_action_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,64 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "recursive_dialectical_loop",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "highly_explicit_and_repetitive"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "low_to_moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "existence_in_intellect_vs_existence_in_reality",
+      "contingent_existence_vs_necessary_existence",
+      "content_neutral_logical_form_vs_content_specific_instantiation",
+      "maximal_greatness_vs_maximal_evil"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "god_as_that_than_which_nothing_greater_can_be_conceived",
+      "perfect_island_as_contingent_finite_object",
+      "absolute_evil_one_as_maximally_evil_necessary_being"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "reformulation_of_framework_to_exclude_counterexamples",
+    "objections_raised": [
+      "gaunilos_perfect_island_parody",
+      "martins_absolute_evil_one_parody"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "high",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "logical_deduction_and_modal_axioms",
+    "named_thought_experiments": [
+      "perfect_island",
+      "absolute_evil_one"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic_philosophy",
+    "sentiment": "neutral_analytic",
+    "thematic_focus": "philosophy_of_religion_and_modal_logic"
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "recursive_self_similar_paragraphs"
+  },
+  "summary_of_core_decisions": "The text employs a strict recursive dialectic where a thesis (Anselm's OA) is attacked by parodies (Gaunilo, Martin) exploiting content-neutrality, prompting a synthesis (Hartshorne's modal reformulation) that shifts the predicate from contingent to necessary existence. The reformulation is then tested against the same parodies, filtering them out via the modal axiom (S5/Becker's postulate) which excludes contingent objects. The argument is structurally sound in its recursive testing but relies heavily on the unproven acceptability of Becker's postulate and the symmetry-breaking between maximal good and maximal evil, leaving the final resolution truncated.",
+  "thesis_commitment": {
+    "conclusion_type": "defense_of_reformulated_thesis",
+    "hedging_density_in_final_paragraph": "high"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "seigal-the_ontological_parody_ling-3.0-flash-free.txt"
+}

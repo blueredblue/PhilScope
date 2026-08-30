@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative conceptual mapping followed by systematic phenomenological unpacking",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated as direct conceptual definitions or negations"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the argument engages with opposing views (Freud, Badiou) and resolves them via a mediating concept (Carbone)",
+    "logical_relevance": "High - every paragraph directly serves the central thesis of retroactive, non-linear temporality",
+    "premise_acceptability": "Moderate - relies on phenomenological assumptions (e.g., wild Being, chiasm) that are not empirically defended but are internally coherent"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Ontological vs. Psychic (Merleau-Ponty vs. Freud)",
+      "Rupture vs. Sedimentation (Badiou vs. Merleau-Ponty)",
+      "Sovereign subject vs. Embedded agency (G\u00e9ly's critique)",
+      "Line vs. Field (temporal models)",
+      "Cause vs. Open demand (origin)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Mythical time: temporal mode where moments are not cleanly separated",
+      "Retroactivity: meaning determined by subsequent configurations",
+      "Institution: event that opens a field of future possibilities",
+      "Chiasm: mutual implication of subject/object, agency/passivity"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Preemptive - the text anticipates objections (e.g., 'not a first cause', 'not merely remembered') and negates them to refine the concept",
+    "objections_raised": [
+      "Reduction to psychic trauma (Freud)",
+      "Reduction to pure rupture (Badiou)",
+      "Reduction to passive sedimentation (G\u00e9ly's critique)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses modal qualifiers like 'seems', 'can be', 'is not reducible to'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Merleau-Ponty (primary)",
+      "Freud (comparative)",
+      "Badiou (comparative)",
+      "G\u00e9ly (critical)",
+      "Carbone (synthetic)"
+    ],
+    "evidence_type": "Conceptual and phenomenological (e.g., gesture, institution, revolution as examples)",
+    "named_thought_experiments": [
+      "The gesture as intelligible only against background practices",
+      "The political institution persisting through habits",
+      "The French Revolution as retroactively constituted"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological ontology (Merleau-Ponty's late ontology of wild Being)",
+    "sentiment": "Anti-substantialist, anti-linear, processual",
+    "thematic_focus": "Temporality, historical agency, institution, embodiment"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Recursive and escalating - starts with a thesis, maps it onto three interlocutors, resolves via a synthesis, then loops back to systematically unpack the initial thesis in Section I (with Section II cut off)."
+  },
+  "summary_of_core_decisions": "The text constructs a chiasmatic dialectic where linear time and sovereign agency are dissolved. It uses Freud to show retroactivity, Badiou to show rupture, and G\u00e9ly to critique pure rupture, then deploys Carbone's chiasm to mediate. The final move is a phenomenological grounding of this mediation in the concept of 'institution' as an open, non-deterministic field.",
+  "thesis_commitment": {
+    "conclusion_type": "Ontological thesis about the nature of time and agency",
+    "hedging_density_in_final_paragraph": "Low - the final paragraphs assert the positive structure (e.g., 'Agency is chiasmatic') without hedging"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "edwards-trauma_and_event_gpt-5.6-luna.txt"
+}

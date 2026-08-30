@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis through comparative conceptual analysis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in the exposition of each thinker's position rather than formally stated"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text fairly represents both Badiou's and G\u00e9ly's positions before adjudicating between them",
+    "logical_relevance": "High - each section builds directly on the previous one, with the Freudian parallel establishing the framework for the Badiou/G\u00e9ly debate",
+    "premise_acceptability": "Moderate - the text relies on the reader's acceptance of phenomenological premises (e.g., the chiasmic structure of perception) that are asserted rather than argued for"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Linear time vs. mythical time",
+      "Objective time vs. lived time",
+      "Substantial subject vs. non-substantial subject",
+      "Sediment vs. rectification",
+      "Pre-existing subject vs. retroactively constituted subject",
+      "Visible vs. invisible (as ontological categories)",
+      "Rupture vs. continuity",
+      "Tabula rasa vs. field of latent possibilities"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Mythical time - time in which events are ordered by symbolic resonance rather than mechanical causality",
+      "Wild Being - the pre-objective, pre-categorical ground of all experience; an element or medium rather than a thing",
+      "Chiasm - the intertwining of touching and touched, a reversible relation of mutual implication",
+      "Nachtr\u00e4glichkeit - deferred action or retroactivity; the process by which a later event retroactively constitutes the meaning of an earlier one"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates G\u00e9ly's objection to Badiou and then shows how Merleau-Ponty's retroactive structure can accommodate it without abandoning Badiou's core insight",
+    "objections_raised": [
+      "G\u00e9ly's critique: Badiou's subject cannot be a pure tabula rasa because the event must be recognized as significant by a subject with pre-existing capacities",
+      "The apparent contradiction between the sedimented past and the right of rectification"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - the text uses hedged formulations ('seems to suggest', 'appears to') and constructive proposals rather than dogmatic assertions",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Merleau-Ponty - for the phenomenology of time and the concept of mythical time",
+      "Freud - for the concept of Nachtr\u00e4glichkeit and the structure of trauma",
+      "Badiou - for the theory of the event and the non-substantial subject",
+      "G\u00e9ly - for the phenomenological critique of Badiou",
+      "Carbone - for the interpretation of Merleau-Ponty's late ontology"
+    ],
+    "evidence_type": "Conceptual analysis, comparative interpretation, and illustrative examples (French Revolution, political awakening, historical memory)",
+    "named_thought_experiments": [
+      "The example of a political awakening (a person embedded in a social situation who encounters a ruptural event)",
+      "The example of historical memory (a nation's contested interpretation of its past)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological ontology (Merleau-Ponty via Carbone) as the mediating framework for psychoanalytic and post-Badiouian political philosophy",
+    "sentiment": "Constructive and synthetic - aims to reconcile opposing positions rather than to demolish one side",
+    "thematic_focus": "The nature of time, subjectivity, and historical meaning; the relationship between event and subject; the ontology of the past"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Three-part progressive structure: (I) Establish the retroactive structure of time through Merleau-Ponty and Freud; (II) Apply this structure to the Badiou/G\u00e9ly debate; (III) Resolve the tension through Carbone's chiasmic ontology"
+  },
+  "summary_of_core_decisions": "The text's central move is to use Merleau-Ponty's concept of mythical time (understood through Freud's Nachtr\u00e4glichkeit) as a bridge between Badiou's non-substantial subject and G\u00e9ly's phenomenological critique. The key insight is that the subject is neither a pre-existing substance nor a creation ex nihilo, but a retroactive effect: the event retroactively constitutes the subject as one who was always already capable of responding to it. Carbone's chiasmic ontology then provides the ontological grounding for this retroactivity, resolving the tension between the sedimented past and the right of rectification by showing that the past is the 'invisible lining' of the present - a dynamic field rather than a fixed object. The text's argumentative strategy is dialectical: it presents a thesis (retroactive time), an antithesis (the Badiou/G\u00e9ly opposition), and a synthesis (Carbone's chiasm).",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic resolution - the text argues that Carbone's chiasmic reading of Merleau-Ponty resolves the Badiou/G\u00e9ly debate by showing that retroactive constitution is the true structure of subjectivity",
+    "hedging_density_in_final_paragraph": "Low - the final section is constructive and affirmative, presenting the chiasmic resolution as the definitive answer to the tension between sediment and rectification"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "edwards-trauma_and_event_deepseek-v4-flash-0731.txt"
+}

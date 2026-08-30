@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical adjudication (Thesis -> Antithesis -> Partial Synthesis -> Unresolved Meta-Problem)",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; relies on implicit historical and logical assumptions (e.g., Frege's function/argument distinction, Aristotle's term logic)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the author fairly reconstructs both positions and identifies a genuine logical fallacy (equivocation on 'depend') in the thesis.",
+    "logical_relevance": "High; all premises directly target the semantic vs. ontological distinction.",
+    "premise_acceptability": "High within the analytic philosophical tradition; relies on standard interpretations of Frege and Aristotle."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Semantic incompleteness vs. Ontological dependence",
+      "Logic (structure of propositions) vs. Ontology (structure of reality)",
+      "Term logic (horoi) vs. Predicate logic (function/argument)",
+      "Inherence/Identity predication vs. Function application",
+      "Meaning (signification) vs. Truth conditions (existence)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Primary substance (ontologically independent individual)",
+      "Universal (ontologically dependent, semantically complete in term logic)",
+      "Incomplete symbol (Fregean function requiring saturation)",
+      "Term (complete signifier in Aristotelian logic)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author explicitly concedes the main critique (Englebretsen's) but pivots to a new, unresolved tension rather than defending the original thesis.",
+    "objections_raised": [
+      "Gyekye's conflation of semantic and ontological incompleteness",
+      "Misconstrual of Aristotelian predication as function application rather than term combination",
+      "Fallacy of equivocation on the word 'depend'"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; uses 'largely correct', 'does not fully resolve', 'apparent conflict'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle (Categories, Posterior Analytics)",
+      "Frege (function/argument distinction)",
+      "Russell (theory of descriptions)",
+      "Englebretsen (term logic)"
+    ],
+    "evidence_type": "Conceptual analysis and historical reconstruction of logical systems",
+    "named_thought_experiments": [
+      "The proposition 'The present King of France is bald' (Russell's example)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy (philosophy of logic and language)",
+    "sentiment": "Neutral-critical; adjudicates between two historical interpretations",
+    "thematic_focus": "Predication, universals, logic-ontology interface"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Linear dialectical progression with explicit section headers (I, II, etc.)"
+  },
+  "summary_of_core_decisions": "The text's core move is to separate the logical (semantic) plane from the ontological (existential) plane. It validates Englebretsen's critique of Gyekye's equivocation, but then identifies a residual problem: even if the semantic/ontological distinction is maintained, Aristotle's ontological reductionism (only substances exist) still clashes with the requirement that scientific knowledge (episteme) is of universals. The text ends by posing this as an open question, thereby shifting the dialectic from a resolved local dispute to an unresolved global tension in Aristotelian metaphysics.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified adjudication",
+    "hedging_density_in_final_paragraph": "High (e.g., 'largely correct', 'does not fully resolve', 'apparent conflict')"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hatch-aristotle_on_universal_subjects_deepseek-v4-flash-0731.txt"
+}

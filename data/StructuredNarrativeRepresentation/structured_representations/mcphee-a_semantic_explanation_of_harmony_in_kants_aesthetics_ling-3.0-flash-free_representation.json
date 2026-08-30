@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The essay employs a dialectical structure: it presents a Kantian thesis, introduces objections, proposes a Chomskyan semantic translation as a solution, then critiques that solution to show it resolves the paradoxes only by abandoning Kant's transcendental framework.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in prose rather than numbered, but key conditional claims are clearly stated (e.g., 'if we translate Kant's aesthetics into this model, the Imagination ceases to be the faculty of intuition...')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay fairly presents both the Kantian position and the Chomskyan alternative, then evaluates the trade-off.",
+    "logical_relevance": "High: each section directly addresses the central question of whether semantic translation dissolves the paradoxes.",
+    "premise_acceptability": "Moderate: the Chomskyan premises are plausible but not universally accepted; the Kantian premises are historically grounded but contested."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Subjective universality vs. objective validity",
+      "Disinterested pleasure vs. cognitive satisfaction",
+      "Free play vs. determinate judgment",
+      "Harmony as spatio-temporal metaphor vs. atemporal structural isomorphism",
+      "Competence vs. performance",
+      "Deep structure vs. surface structure",
+      "Sensible intuition vs. abstract semantic domain",
+      "Phenomenal/noumenal mediation vs. purely intellectual structural domain",
+      "Purposiveness without purpose vs. structural congruence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Free play: the reciprocal, harmonious relation between Imagination and Understanding in aesthetic judgment.",
+      "Harmony: a metaphor implying spatial and chronological relations, inappropriate for transcendental faculties.",
+      "Semantic isomorphism: the atemporal structural resonance between innate interpretive principles and an object's deep structure.",
+      "Competence: the innate, structural capacity of the mind; Performance: the empirical activation of that capacity."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates the objection that semantic translation is unfaithful to Kant and concedes it, arguing that this is the cost of dissolving the paradoxes.",
+    "objections_raised": [
+      "Allison and Guyer: Kant's epistemic grounding collapses beauty into cognitive satisfaction.",
+      "Allison and Guyer: The free play model cannot distinguish aesthetic pleasure from intellectual pleasure.",
+      "The semantic model's response: decoupling aesthetic pleasure from empirical cognitive success via deep-structural resonance.",
+      "The essay's counter-objection: this response is ad hoc and severs the connection to sensibility."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'substantively correct' and 'fundamentally altering' but avoids absolute certainty.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Chomsky",
+      "Allison",
+      "Guyer"
+    ],
+    "evidence_type": "Conceptual analysis, historical textual interpretation, and hypothetical modeling of a semantic translation.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental idealism and generative linguistics.",
+    "sentiment": "Critical of the semantic translation's fidelity to Kant, but sympathetic to its explanatory power.",
+    "thematic_focus": "Aesthetic judgment, free play, harmony, semantic competence, and the limits of interdisciplinary translation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: thesis \u2192 objections \u2192 proposed solution \u2192 critique \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The essay's central claim is that translating Kant's aesthetic theory into a Chomskyan semantic framework dissolves the paradoxes of the harmony of the faculties, but only by fundamentally altering the mechanics of the *Critique of the Power of Judgment*. The semantic model replaces the empirical, spatio-temporal free play of Imagination and Understanding with an atemporal structural resonance between innate interpretive principles. This resolves Allison's and Guyer's objections\u2014beauty is no longer collapsed into cognitive satisfaction, and 'harmony' is no longer misapplied to transcendental faculties. However, the translation severs aesthetic judgment from sensibility, collapses the phenomenal/noumenal distinction, reduces purposiveness without purpose to structural isomorphism, and ultimately abandons Kant's transcendental project. The essay concludes that the semantic framework is not a genuine translation but a novel structuralist theory of beauty.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified negative: the proposed solution works but at the cost of the original theory's identity.",
+    "hedging_density_in_final_paragraph": "High: 'substantively correct, but only at the cost', 'ceases to be a translation', 'instead becomes a novel, structuralist theory'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mcphee-a_semantic_explanation_of_harmony_in_kants_aesthetics_ling-3.0-flash-free.txt"
+}

@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mixed: some premises are explicitly stated, while others are embedded in the test case and dilemma; the argument relies on the reader's acceptance of the presupposition/reference distinction and the force of the two-horned dilemma."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text engages seriously with both Russellian and Strawsonian positions, presents objections fairly, and seeks a synthesis rather than a one-sided refutation.",
+    "logical_relevance": "High: all major moves bear directly on the question of empty designators and the adequacy of Strawson's meaning-as-directions-for-use theory.",
+    "premise_acceptability": "Moderate: the central premises are plausible within the ordinary-language tradition, but the text does not fully defend them against external objections (e.g., possible-world semantics or direct-reference theory)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Expression vs. utterance",
+      "Sentence-meaning vs. statement",
+      "Reference as speaker action vs. word-object mapping",
+      "Semantic rules vs. pragmatic competence",
+      "Actual-world reference vs. fictional/counterfactual reference",
+      "Truth-value gap vs. false proposition"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Meaning as general directions for use",
+      "Presupposition failure",
+      "Empty designator",
+      "Vagueness as structural indeterminacy"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text presents objections as horns of a dilemma and then evaluates each horn. It does not fully resolve the dilemma but uses it to motivate a complementary synthesis.",
+    "objections_raised": [
+      "If meaning-directions are determinate, then utterances of 'the present Queen of America' are simply speaker errors.",
+      "If meaning-directions are adaptable, then the line between failed reference and successful imaginative reference becomes vague.",
+      "Natural language grammar can generate expressions that point into logical or institutional voids, making directions inherently unreliable.",
+      "Competent speakers can deliberately use empty descriptions in fiction, irony, or counterfactual hypotheses."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses hedged, exploratory language such as 'threatens', 'tends to', 'can be', and 'suggests' rather than claiming demonstrative certainty.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Bertrand Russell",
+      "P.F. Strawson",
+      "Philip K. Dick (mentioned as an example of fictional context)"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiment, historical reconstruction, comparative table, and dialectical evaluation.",
+    "named_thought_experiments": [
+      "The present Queen of America"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Ordinary language philosophy and pragmatics, with a complementary use of logical analysis.",
+    "sentiment": "Neutral-to-sympathetic toward Strawson, but ultimately pluralist: Russellian logic and Strawsonian pragmatics are both necessary.",
+    "thematic_focus": "Philosophy of language, reference, meaning, definite descriptions, presupposition, vagueness, non-existence."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical essay with historical framing, test case, dilemma, comparative evaluation, and synthesis."
+  },
+  "summary_of_core_decisions": "The text argues that Strawson's theory of meaning as directions for use is a significant advance over Russell's logical paraphrase, but it is vulnerable to vagueness when applied to empty designators. The test case 'the present Queen of America' exposes a dilemma: either the directions are clear and the speaker is at fault, or the directions are adaptable and the boundary between failed and successful reference blurs. The text resolves the tension by synthesizing Russell and Strawson: Russell provides the truth-conditional skeleton, Strawson provides the pragmatic flesh. Reference remains anchored to the world, but language can reach beyond it in imaginative contexts.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic and qualified",
+    "hedging_density_in_final_paragraph": "Moderate: the conclusion states a clear position but uses phrases like 'vulnerable to vagueness', 'not ... either/or', and 'reminds us' to avoid overclaiming."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "white-vagueness_in_strawson_gemini-3.5-flash-lite.txt"
+}

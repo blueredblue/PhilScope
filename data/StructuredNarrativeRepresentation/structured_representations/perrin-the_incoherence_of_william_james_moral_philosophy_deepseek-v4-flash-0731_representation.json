@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical defense of Jamesian pragmatism against the charge of incoherence",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in narrative but recoverable"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with strongest objections and offers nuanced responses",
+    "logical_relevance": "High - all moves directly address the coherence/arbitrariness challenge",
+    "premise_acceptability": "Moderate - relies on pragmatist commitments that critics may reject"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "static vs. dynamic ethics",
+      "incoherence vs. incompleteness",
+      "definition vs. decision procedure",
+      "logical coherence vs. methodological coherence",
+      "tolerance as meta-principle vs. tolerance as practical virtue"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Good = satisfaction of demand",
+      "Coherence = procedural consistency, not logical consistency",
+      "Tolerance = methodological disposition, not transcendent law"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Reframes the objection as category mistake; accepts incompleteness but denies incoherence",
+    "objections_raised": [
+      "Tyrant could produce temporary satisfaction",
+      "Tolerance of intolerance is self-defeating",
+      "No definitive answer to moral conflicts"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'argue', 'suggests', 'would say'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "William James",
+      "Talisse and Aikin"
+    ],
+    "evidence_type": "Conceptual analysis, hypothetical examples, pragmatic thought experiments",
+    "named_thought_experiments": [
+      "Tyrant suppressing dissent",
+      "Fascist demand for extermination"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatism, pluralism, empiricism, fallibilism",
+    "sentiment": "Melioristic, anti-foundationalist, process-oriented",
+    "thematic_focus": "Moral conflict, pluralism, tolerance, practical reason"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical escalation: thesis \u2192 critique \u2192 defense \u2192 resolution"
+  },
+  "summary_of_core_decisions": "The text defends James by shifting the criterion of coherence from logical consistency to methodological efficacy, redefining tolerance as a practical tool rather than a foundational axiom, and distinguishing between a definition of good and a rule for resolving conflicts.",
+  "thesis_commitment": {
+    "conclusion_type": "Defense of a position against objections",
+    "hedging_density_in_final_paragraph": "Low - ends with strong affirmation of wisdom over incoherence"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "perrin-the_incoherence_of_william_james_moral_philosophy_deepseek-v4-flash-0731.txt"
+}

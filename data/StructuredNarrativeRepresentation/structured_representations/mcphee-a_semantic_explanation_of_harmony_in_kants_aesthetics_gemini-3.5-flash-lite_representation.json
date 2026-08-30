@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical evaluation through dialectical progression: exposition of Kantian paradoxes, proposal of Chomskyan translation, partial validation, then decisive refutation via transcendental limits.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High; premises are explicitly stated and repeatedly refined through recursive restatement."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the essay engages seriously with the strongest version of the Chomskyan translation before rejecting it.",
+    "logical_relevance": "High; all objections and responses directly target the central thesis.",
+    "premise_acceptability": "Moderate; the essay relies on contested Kantian and Chomskyan commitments, but these are clearly articulated."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Transcendental vs. empirical/naturalistic explanation",
+      "Determinate semantic interpretation vs. formal structural resonance",
+      "Normative universal validity vs. species-specific biological universality",
+      "Purposiveness without purpose vs. mechanical structural symmetry",
+      "Autonomous aesthetic judgment vs. linguistic-computational processing"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Free play as unbound computational recursion or over-generation",
+      "Harmony as computational equilibrium or structural congruence",
+      "Aesthetic object as structure without referent; syntax without lexicon"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates objections to the Chomskyan translation and then turns those objections into reasons for rejecting the translation.",
+    "objections_raised": [
+      "Guyer's epistemic collapse objection",
+      "Allison's universal validity without concepts objection",
+      "Ontological spatial-temporal metaphor fallacy objection"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'cannot resolve', 'fails', 'stubbornly resistant'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Chomsky",
+      "Henry Allison",
+      "Paul Guyer"
+    ],
+    "evidence_type": "Conceptual analysis, philosophical argumentation, and internal critique of Kantian and Chomskyan frameworks.",
+    "named_thought_experiments": [
+      "Lewis Carroll's 'Jabberwocky' as an analogy for syntactic well-formedness without semantic closure"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental idealism and critical philosophy, contrasted with naturalistic cognitive science.",
+    "sentiment": "Defends Kantian aesthetics against reductionist naturalism while acknowledging the appeal of cognitive science.",
+    "thematic_focus": "Aesthetic judgment, free play, universal validity, teleology, and the limits of naturalistic explanation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-evaluation-limits-conclusion; dialectical and recursive with escalating specificity."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to reject the Chomskyan semantic translation of Kantian aesthetics because it sacrifices transcendental normativity, teleology, and the supersensible horizon. It accepts that the translation solves the metaphor fallacy but argues this success is insufficient and ultimately destructive to Kant's project.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative evaluative thesis",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is firm and unambiguous."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mcphee-a_semantic_explanation_of_harmony_in_kants_aesthetics_gemini-3.5-flash-lite.txt"
+}

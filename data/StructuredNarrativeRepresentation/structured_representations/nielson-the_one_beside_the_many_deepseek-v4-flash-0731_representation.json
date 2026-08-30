@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "essential vs accidental",
+      "particular vs universal",
+      "contingent vs necessary",
+      "empirical trigger vs epistemic justification",
+      "passive vs active intellect"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "episteme",
+      "epagoge",
+      "nous",
+      "endoxa",
+      "nous poietikos"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "systematic",
+    "objections_raised": [
+      "abstractionist defense",
+      "dialectical defense",
+      "naturalistic defense",
+      "active intellect defense"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "high",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Hume"
+    ],
+    "evidence_type": "conceptual analysis",
+    "named_thought_experiments": [
+      "swan example",
+      "human mortality example"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic",
+    "sentiment": "critical",
+    "thematic_focus": "epistemology"
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "recursive amplification"
+  },
+  "summary_of_core_decisions": "The text presents a sustained reductio against Aristotle's epistemology: if universals are immanent and known through induction, then they cannot be necessary or essential; if nous supplies necessity, it is non-empirical and circular. All four defenses fail. The conclusion is that the tension is irreconcilable and the ideal of demonstrative science is unattainable.",
+  "thesis_commitment": {
+    "conclusion_type": "negative",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "nielson-the_one_beside_the_many_deepseek-v4-flash-0731.txt"
+}

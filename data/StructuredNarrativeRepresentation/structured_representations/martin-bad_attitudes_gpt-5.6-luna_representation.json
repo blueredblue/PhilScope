@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "causal relevance vs causal sufficiency",
+      "eliminative vs revisionary materialism",
+      "levels of explanation (Marr)",
+      "symbolic vs subsymbolic computation",
+      "content-level vs mechanism-level description"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "propositional attitudes",
+      "language of thought",
+      "connectionism",
+      "distributed representation",
+      "eliminative materialism"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "revisionary rather than eliminative; retains intentional vocabulary while revising ontology",
+    "objections_raised": [
+      "propositional attitudes are too abstract",
+      "connectionism eliminates content",
+      "folk psychology is like phlogiston",
+      "beliefs are too heterogeneous for scientific laws"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Fodor",
+      "Marr",
+      "Churchlands"
+    ],
+    "evidence_type": "conceptual analysis, analogies, scientific practice, thought experiments",
+    "named_thought_experiments": [
+      "map analogy",
+      "phlogiston analogy",
+      "thermodynamic/algorithmic analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "naturalistic but non-reductive",
+    "sentiment": "pluralistic, anti-eliminativist, revisionary",
+    "thematic_focus": "philosophy of cognitive science, philosophy of mind, mental representation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical progression through nine sections, from thesis to antithesis to synthesis, ending with rejection of eliminativism"
+  },
+  "summary_of_core_decisions": "The essay defends a layered, pluralistic cognitive science in which propositional attitudes are legitimate higher-level functional states, realized by computational and neural mechanisms, but not fundamental entities. It rejects eliminativism while accepting revisionary refinement.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified defense of propositional attitudes",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "martin-bad_attitudes_gpt-5.6-luna.txt"
+}

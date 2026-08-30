@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical problem-solution analysis with a regressive critique",
+    "num_distinct_arguments_for_thesis": 0,
+    "premise_explicitness": "Moderate - premises are often embedded in rhetorical questions and conditional statements rather than formalized propositions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text systematically presents objections and counter-responses, though it does not fully resolve the final dilemma",
+    "logical_relevance": "High - all sections directly address the central tension between demand-satisfaction and moral constraint",
+    "premise_acceptability": "Moderate - relies on contested interpretations of James's pragmatism and the incommensurability of values"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Monistic vs. pluralistic moral theories",
+      "Objective moral order vs. experiential emergence of values",
+      "Consequentialist vs. nonconsequentialist constraints",
+      "Instrumental vs. categorical justification of tolerance",
+      "Mere preference vs. morally legitimate demand"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Demand satisfaction as the essence of good",
+      "Tolerance as a candidate additional principle"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text raises objections to pragmatic consequentialism (incommensurability, majoritarian oppression, contingent stability) and then proposes tolerance as a solution, but the final section is cut off before fully defending it",
+    "objections_raised": [
+      "Incommensurability of values prevents aggregative calculus",
+      "Simple maximizing could justify oppression by a majority",
+      "Long-term consequences may defer rather than resolve the issue",
+      "Contingent empirical arguments cannot establish categorical moral requirements"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses phrases like 'seems', 'appears', 'may', 'might', 'not obviously'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "William James (implicitly, via his philosophy)",
+      "Robert Talisse and Scott Aikin (explicitly named as critics)"
+    ],
+    "evidence_type": "Conceptual analysis and hypothetical scenarios (e.g., intolerant majority, stable oppressive regime)",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatist and pluralist, with a critical meta-ethical analysis",
+    "sentiment": "Neutral-analytical, though sympathetic to James's moral sensibility",
+    "thematic_focus": "Moral pluralism, value conflict, tolerance, and the limits of consequentialist reasoning"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered headings (I-IV), progressing from problem statement to proposed solution (incomplete)"
+  },
+  "summary_of_core_decisions": "The text constructs a dilemma for James's demand-satisfaction principle: it cannot adjudicate conflicts between demands without an external standard, but any external standard (like tolerance) either becomes another demand or transforms the theory. It critiques pragmatic consequentialism as insufficiently determinate and contingent, then gestures toward tolerance as a nonconsequentialist constraint, but the argument is truncated.",
+  "thesis_commitment": {
+    "conclusion_type": "Conditional/Exploratory",
+    "hedging_density_in_final_paragraph": "High - the final section is cut off mid-sentence, indicating an unresolved or exploratory stance"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "perrin-the_incoherence_of_william_james_moral_philosophy_gpt-5.6-luna.txt"
+}

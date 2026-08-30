@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reconstruction of an apparent contradiction, diagnosis of its roots, and resolution through an immanent normative standard; followed by a refutation of a secondary reading.",
+    "premise_explicitness": "Moderately explicit: premises are embedded in interpretive claims and historical analysis rather than formalized.",
+    "num_distinct_arguments_for_thesis": 3
+  },
+  "dialectical_engagement": {
+    "objections_raised": [
+      "If all knowledge is interpretive and perspectival, on what basis can some interpretations be judged better?",
+      "Positing a true world as standard would be self-undermining.",
+      "Relying on explanatory value risks circularity.",
+      "Invoking a preferred perspective collapses perspectivism into dogmatism."
+    ],
+    "objection_handling": "Each objection is defused by distinguishing between absolute and perspectival standards and by deriving the normative criterion internally from the nature of sensation and experience.",
+    "bites_the_bullet_on_counterintuitive_implication": false
+  },
+  "method_and_evidence": {
+    "uses_named_thought_experiment": false,
+    "named_thought_experiments": [],
+    "evidence_type": "Historical-philosophical textual evidence from Heraclitus fragments and Nietzsche's early writings, used as philosophical evidence rather than biographical illustration.",
+    "appeals_to_authority": [
+      "Nietzsche",
+      "Heraclitus",
+      "Simplicius"
+    ]
+  },
+  "thesis_commitment": {
+    "conclusion_type": "Normative philosophical thesis defended through interpretive reconstruction",
+    "hedging_density_in_final_paragraph": "Low hedging: the conclusion is presented as decisive."
+  },
+  "structural_organization": {
+    "structure_type": "Problem-solution structure with historical-exegetical foundation and adversarial refutation",
+    "explicit_signposting": true
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate-high: 'can and does resolve', 'is untenable', 'coherent and productive framework'",
+    "uses_first_person_epistemic_verbs": true,
+    "imagined_interlocutor_voiced_directly": false
+  },
+  "conceptual_grounding": {
+    "explicit_definitions_given": [
+      "Perspectivism: all claims to knowledge are interpretations from a perspective, not relativism.",
+      "Normative standard: acceptable interpretations must remain open to new experiences and must not profess absolute truth.",
+      "Sensation as constitutive access to reality, not mere raw data."
+    ],
+    "draws_explicit_distinction": true,
+    "distinctions_drawn": [
+      "Sensation vs interpretation",
+      "Metaphysical truth vs interpretive honesty",
+      "Interpretations professing absolute truth vs interpretations acknowledging their perspectival character",
+      "Explanatory value as absolute standard vs explanatory value as provisional, perspectival standard",
+      "Dogmatic closure vs open-ended revision"
+    ]
+  },
+  "argumentative_quality": {
+    "premise_acceptability": "High within the text's Nietzschean framework",
+    "logical_relevance": "High: all major premises directly serve the central thesis.",
+    "dialectical_reasonableness": "High: the text anticipates and answers the strongest objections to perspectivism."
+  },
+  "philosophical_orientation": {
+    "thematic_focus": "Epistemology, philosophy of interpretation, history of philosophy",
+    "sentiment": "Defends Nietzsche's perspectivism as coherent against dogmatism and nihilism, and against Matthews's biographical reading.",
+    "grounding": "Immanent critique of metaphysical realism and correspondence theories of truth."
+  },
+  "summary_of_core_decisions": "The essay resolves the apparent contradiction by relocating the criterion of interpretive adequacy from truth to honesty/openness, and by treating Heraclitus as a genuine philosophical interlocutor rather than a biographical character.",
+  "_source_corpus": "synthetic",
+  "_source_file": "gillon-nietzsche_heraclitus_and_interpretation_ling-3.0-flash-free.txt"
+}

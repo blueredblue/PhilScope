@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum via dilemma",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate\u2014premises embedded in prose, not numbered"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High\u2014anticipates and rebuts two major objections",
+    "logical_relevance": "High\u2014all moves bear on the central thesis",
+    "premise_acceptability": "Contested\u2014relies on non-naturalistic assumptions about consciousness and normativity"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Syntax vs. semantics",
+      "Intensionality vs. intentionality",
+      "Vehicle vs. producer of meaning",
+      "Unified subject vs. distributed modules",
+      "Human psychological complexity vs. computational syntax generation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Syntax: formal, local, physical, rule-governed symbol manipulation",
+      "Semantics: relation between symbols and world; reference, truth, extension",
+      "Intensionality: mode of presentation; failure of substitutivity salva veritate"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Two objections anticipated and rebutted: distributed systems reply and human proliferation reply",
+    "objections_raised": [
+      "Modern neural networks have high-dimensional semantic geometries, not static symbols",
+      "Humans also produce multiple interpretations of ambiguous stimuli"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High\u2014uses 'unequivocal', 'must', 'proves', 'fatal'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Searle",
+      "Putnam",
+      "Fodor",
+      "Dennett"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiment, counterexample, appeal to intuitions about meaning and consciousness",
+    "named_thought_experiments": [
+      "Chinese Room",
+      "Rorschach Room"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and normative; anti-functionalist",
+    "sentiment": "Anti-computationalist, anti-operationalist, pro-consciousness",
+    "thematic_focus": "Machine understanding, intensionality, semantic determinacy, limits of formalism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical essay with numbered sections and subheadings"
+  },
+  "summary_of_core_decisions": "The text uses a modified Chinese Room thought experiment\u2014the Rorschach Room\u2014to argue that a multilingual syntactic engine producing contradictory interpretations of ambiguous stimuli cannot possess intensional states. It frames a dilemma: either syntax is insufficient for semantics, or machine understanding is reduced to absurdity. It rejects the second horn and embraces the first, defending the conclusion against functionalist and human-analogy objections.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative existential",
+    "hedging_density_in_final_paragraph": "Low\u2014assertive and metaphorical"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "sousek-intensional_states_gemini-3.5-flash-lite.txt"
+}

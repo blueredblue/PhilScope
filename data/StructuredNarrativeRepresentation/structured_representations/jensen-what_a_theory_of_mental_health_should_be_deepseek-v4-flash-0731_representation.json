@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical refutation followed by constructive synthesis",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "High - premises are explicitly stated and defended"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments and anticipates objections",
+    "logical_relevance": "High - all premises directly support the thesis",
+    "premise_acceptability": "Moderate - relies on contested philosophical positions (Davidson's anomalism, Klee's critique)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Type vs. token identity",
+      "Causal-mechanical vs. hermeneutic-normative explanation",
+      "Strict laws vs. ceteris paribus laws",
+      "Physiological dysfunction vs. rational incoherence",
+      "Autonomy (normative) vs. autonomy (nomological/ontological)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Boorse's function (statistical causal contribution to survival/reproduction)",
+      "Davidson's anomalism (no strict psycho-physical laws)",
+      "Klee's ceteris paribus (closed physical vs. open normative background conditions)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Anticipates Boorse's response (irrational beliefs as mere symptoms) and rebuts it by asserting the causal relevance of mental content. Anticipates the ceteris paribus loophole and closes it via Klee's argument.",
+    "objections_raised": [
+      "Boorse's potential rebuttal: Irrational beliefs are merely downstream effects of neurochemical imbalance.",
+      "Potential loophole: Ceteris paribus laws might bridge the gap between physical and psychological explanations."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'cannot be captured', 'fails', 'requires', but also 'I believe' for the constructive part.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Christopher Boorse",
+      "Donald Davidson",
+      "Robert Klee"
+    ],
+    "evidence_type": "Conceptual analysis, logical deduction, thought experiments (depression, delusional disorder), and critique of reductionism.",
+    "named_thought_experiments": [
+      "Clinical depression (content and phenomenology of irrational beliefs)",
+      "Delusional disorder (resistance to rational revision)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mind and philosophy of science",
+    "sentiment": "Anti-reductionist, non-reductive physicalist, normativist about mental disorder",
+    "thematic_focus": "The limits of physiological reductionism in psychiatry, the nature of mental dysfunction, the autonomy of psychological explanation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution / Thesis-antithesis-synthesis. Sections progress from Boorse's model (Thesis) to Davidson's challenge (Antithesis), to Klee's deepening of the challenge, to a constructive synthesis (Pluralistic normative science)."
+  },
+  "summary_of_core_decisions": "The text makes a decisive philosophical move: it accepts Davidson's anomalism and Klee's critique to refute Boorse's reductionism, but refuses to conclude that psychiatry is unscientific. Instead, it redefines the autonomy of mental health science as grounded in irreducibly normative rationality, requiring a pluralistic methodology.",
+  "thesis_commitment": {
+    "conclusion_type": "Constructive and qualified",
+    "hedging_density_in_final_paragraph": "Low - the final section is assertive about the viability of the pluralistic model, though it acknowledges the need for a 'fundamental shift'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "jensen-what_a_theory_of_mental_health_should_be_deepseek-v4-flash-0731.txt"
+}

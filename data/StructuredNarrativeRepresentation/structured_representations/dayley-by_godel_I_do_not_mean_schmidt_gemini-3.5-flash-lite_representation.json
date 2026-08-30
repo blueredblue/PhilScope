@@ -1,0 +1,80 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical evaluation with synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated and defended through thought experiments and counterexamples"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with strongest objections and seeks synthesis",
+    "logical_relevance": "High - all arguments bear directly on the reference of proper names",
+    "premise_acceptability": "Moderate - relies on intuitions about possible cases and semantic externalism"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Sense vs. reference (Frege)",
+      "Attributive vs. referential use of descriptions (Donnellan)",
+      "Reference-fixation vs. semantic meaning (Kripke)",
+      "Individual vs. community-based descriptions (Searle/Putnam)",
+      "Causal-historical vs. descriptive intentionality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Descriptivism: reference determined by satisfaction of descriptive content",
+      "Cluster theory: name = disjunction of descriptions",
+      "Causal-historical theory: reference anchored by baptism and transmission"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Searle's cluster theory is criticized for circularity and membership drift; Kripke's causal theory is criticized for the Madagascar case and starting-point problem",
+    "objections_raised": [
+      "Searle's cluster membership dilemma",
+      "Metalinguistic circularity",
+      "Kripke's baptism requires descriptions",
+      "Evans's Madagascar case shows causal chains can be overwritten"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'successfully undermines', 'does not eradicate', 'remains resilient'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Frege",
+      "Russell",
+      "Strawson",
+      "Kripke",
+      "Searle",
+      "Donnellan",
+      "Evans",
+      "Putnam",
+      "Burge"
+    ],
+    "evidence_type": "Thought experiments, counterexamples, conceptual analysis, historical reconstruction",
+    "named_thought_experiments": [
+      "G\u00f6del-Schmidt",
+      "Feynman false beliefs",
+      "Donnellan's martini case",
+      "Evans's Madagascar",
+      "Neptune baptism"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language and mind",
+    "sentiment": "Synthetic - reconciles externalist causal semantics with intentional social practice",
+    "thematic_focus": "Reference, proper names, descriptivism, causal-historical theory, intentionality, linguistic community"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction \u2192 Historical orthodoxy \u2192 Kripkean challenge \u2192 Searlean defense \u2192 Pragmatic distinction \u2192 Evaluation \u2192 Synthesis \u2192 Conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that Kripke's G\u00f6del-Schmidt thought experiment successfully refutes classical descriptivism as a theory of reference-fixation, but Searle's intentionalist and community-based descriptivism remains necessary as the epistemic and social vehicle through which causal-historical chains are maintained. Reference is ultimately anchored by causal history, mediated by descriptive intentionality, and sustained by communal linguistic labor.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified synthesis",
+    "hedging_density_in_final_paragraph": "Moderate - 'ultimately', 'successfully undermines', 'does not eradicate'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "dayley-by_godel_I_do_not_mean_schmidt_gemini-3.5-flash-lite.txt"
+}

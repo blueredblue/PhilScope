@@ -1,0 +1,80 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis: The text presents a thesis (Strawson's distinction), develops it, raises objections, contrasts with a rival (Russell), considers collapse objections, and resolves through a layered/complementary account.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate: premises are stated in prose but not formalized; key assumptions are articulated through examples and distinctions rather than explicit premise-conclusion chains."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: The text engages seriously with Russell's position, acknowledges its strengths, and presents objections to Strawson's view with genuine force before responding.",
+    "logical_relevance": "High: All sections bear directly on the central question of whether Strawson's distinction between expression and use survives the problem of nonexistent objects.",
+    "premise_acceptability": "Moderate: The text relies on ordinary-language intuitions (e.g., conversational reactions to 'The queen of America is in Washington') that are plausible but not universally shared."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Expression vs. use",
+      "Meaning vs. reference",
+      "Semantic vs. referential vs. pragmatic correctness",
+      "Descriptive vs. pragmatic vagueness",
+      "Misunderstanding vs. alternative use",
+      "Presupposition failure vs. falsity",
+      "Logical analysis vs. speech-act analysis",
+      "Conventional meaning vs. contextual determination",
+      "Mention vs. use (quotation)",
+      "Assertoric vs. non-assertoric modes"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "General directions for correct use",
+      "Referential success",
+      "Presupposition",
+      "Semantic correctness",
+      "Pragmatic appropriateness"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text presents objections (vagueness, collapse into Russell, misunderstanding, relativism) and responds by distinguishing levels of analysis, separating types of correctness, and showing that flexibility does not entail absence of norms.",
+    "objections_raised": [
+      "General directions are too vague to regulate use",
+      "Strawson's account collapses into Russell's",
+      "Russell's account collapses into Strawson's",
+      "Speakers simply misunderstand proper application",
+      "Contextual dependence leads to relativism",
+      "The theory cannot specify a unique set of correctness conditions"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: The text uses hedged language ('may', 'can', 'appears', 'seems') throughout, indicating a measured, exploratory stance.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Ordinary language intuitions, conversational reactions, hypothetical examples, fictional and counterfactual scenarios, logical analysis (Russell's quantificational formula).",
+    "named_thought_experiments": [
+      "The queen of America (running example)",
+      "The table (context-dependent reference)",
+      "Alexander (proper name ambiguity)",
+      "The present king of France (classic Strawson/Russell example)",
+      "The square circle (impossible object)",
+      "The person who left the room (salience-based reference)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Ordinary language philosophy, pragmatics, speech-act theory, with engagement in formal semantics (Russell's theory of descriptions).",
+    "sentiment": "Balanced and synthetic: The text defends Strawson's core insight while acknowledging Russell's logical achievements, aiming for complementarity rather than victory.",
+    "thematic_focus": "Philosophy of language: meaning, reference, definite descriptions, presupposition, nonexistent objects, the distinction between semantics and pragmatics."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Nine numbered sections plus an unnumbered introduction and conclusion, following a dialectical progression: thesis \u2192 development \u2192 problem \u2192 objections \u2192 contrast \u2192 collapse concerns \u2192 vagueness \u2192 resolution \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text's central philosophical decision is to treat Strawson's 'general directions for correct use' as flexible, context-sensitive norms that are neither fully determinate nor empty. It resolves the Strawson-Russell debate by assigning them to different questions: Russell addresses logical form and truth conditions; Strawson addresses speaker's communicative acts. The running example of 'the queen of America' demonstrates that expressions can be meaningful without fixed referents, and that referential failure is pragmatically distinct from falsity. The text ultimately defends a layered theory: conventional meaning + contextual information + communicative norms + logical analysis, each addressing a different dimension of referring.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic resolution: Neither Strawson nor Russell is wholly right or wrong; they address different questions and are complementary.",
+    "hedging_density_in_final_paragraph": "Low: The conclusion states the resolution with confidence, though it acknowledges the vulnerability of Strawson's notion of general directions."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "white-vagueness_in_strawson_gpt-5.6-luna.txt"
+}

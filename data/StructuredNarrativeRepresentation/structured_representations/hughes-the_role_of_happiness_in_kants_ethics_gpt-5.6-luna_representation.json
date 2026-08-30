@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental-practical argument",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are stated but often embedded in Kantian terminology; key assumptions require reconstruction."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text anticipates and responds to major objections, including eudaimonist, psychological, and political criticisms.",
+    "logical_relevance": "High: all sections bear directly on the central question of happiness's place in Kantian ethics.",
+    "premise_acceptability": "Moderate: premises depend on Kantian commitments (autonomy, a priori moral law, practical postulates) that are not defended independently."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Hypothetical vs categorical imperatives",
+      "Autonomy vs heteronomy",
+      "Happiness as end vs happiness as motive",
+      "Supreme condition vs complete good",
+      "Virtue vs happiness",
+      "Empirical vs a priori",
+      "Theoretical knowledge vs practical postulate",
+      "Moral worth vs conformity to duty"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Happiness as satisfaction of inclinations",
+      "Categorical imperative as universal law",
+      "Autonomy as self-legislation of reason",
+      "Highest good as virtue plus happiness proportionate to virtue"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text addresses objections by redefining happiness as worthiness, distinguishing motive from object, and treating postulates as hope rather than reward.",
+    "objections_raised": [
+      "Happiness is too thin compared with eudaimonism",
+      "Duty/inclination contrast undervalues emotion",
+      "Highest good postulates reintroduce reward",
+      "Kant's position is an unstable compromise"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses 'can', 'must', 'requires', 'postulates' rather than empirical certainty.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Aristotle"
+    ],
+    "evidence_type": "Conceptual analysis, transcendental argument, practical postulates, illustrative examples (truth-telling, beneficence).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "A priori rational autonomy",
+    "sentiment": "Anti-eudaimonist but not anti-happiness",
+    "thematic_focus": "Moral worth, autonomy, highest good, practical hope"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: thesis (eudaimonism), antithesis (Kantian formalism), synthesis (worthiness/highest good), resolution (postulates), application (politics)."
+  },
+  "summary_of_core_decisions": "The text rejects happiness as the ground of morality but preserves it as a morally conditioned end. It grounds morality in autonomy and the categorical imperative, redefines the moral task as becoming worthy of happiness, and integrates happiness into the highest good under virtue's supremacy. The antinomy of practical reason is resolved through the postulates of immortality and God, which express rational hope without compromising autonomy. The conclusion is a balanced position: neither eudaimonism nor austere moralism, but a morally ordered life in which virtue has primacy and happiness is included as proportionate completion.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative thesis",
+    "hedging_density_in_final_paragraph": "Moderate: uses 'may hope', 'can ultimately belong together', 'not simply'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hughes-the_role_of_happiness_in_kants_ethics_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a dialectical philosophical essay that reconstructs a critic's argument, evaluates it, concedes partial validity, and then proposes an independent intermediate position.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderately explicit; premises are embedded in reconstructions of Locke and Mohr rather than formal numbered premises."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the essay engages fairly with Mohr's strongest points and avoids strawmen.",
+    "logical_relevance": "High; each section addresses the central question of whether Locke leaves modern individualists only submission or revolution.",
+    "premise_acceptability": "Generally acceptable within analytic political philosophy; relies on standard readings of Locke and plausible empirical claims about modern states."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "express vs. tacit consent",
+      "residence vs. voluntary membership",
+      "submission vs. revolution",
+      "ordinary misgovernment vs. systematic breach of trust",
+      "dissolution of government vs. dissolution of society",
+      "logical vs. practical alternatives",
+      "necessary vs. sufficient conditions",
+      "individual consent vs. political authorization",
+      "coercion vs. arbitrary power",
+      "legitimate vs. illegitimate taxation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "tacit consent",
+      "right of exit",
+      "revolution",
+      "arbitrary power",
+      "preservation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay concedes that tacit consent fails but rejects the binary conclusion; it distinguishes between absence of consent and absence of all legitimacy.",
+    "objections_raised": [
+      "No exit implies no consent, hence all political authority is illegitimate.",
+      "Only alternatives are majority submission or revolution.",
+      "Taxation always violates Lockean property rights.",
+      "Non-minimal government automatically exceeds Lockean limits.",
+      "Majority rule cannot bind those who never consented."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'may', 'can', 'not necessarily', 'more defensible'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Locke's Second Treatise",
+      "Tyson Mohr's argument"
+    ],
+    "evidence_type": "Philosophical reconstruction, conceptual analysis, hypothetical examples, institutional possibilities.",
+    "named_thought_experiments": [
+      "ordinary contracts analogy",
+      "choice among employers/universities/landlords",
+      "in vacuis locis"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Consent theory, natural rights, limited government, liberal individualism.",
+    "sentiment": "Neutral-critical; defends a qualified Lockeanism against both Mohr's critique and libertarian overreach.",
+    "thematic_focus": "Political obligation, tacit consent, right of exit, majority rule, taxation, resistance, legitimacy."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive qualification; each section refines the central thesis."
+  },
+  "summary_of_core_decisions": "The essay accepts Mohr's claim that modern absence of exit undermines Locke's tacit consent, but rejects the conclusion that only submission or revolution remains. It defends an intermediate position: exit is necessary but not sufficient for legitimacy; political authority can be justified by nonconsensual standards; resistance is graduated; and contemporary individualists have imperfect but real recourses.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative thesis",
+    "hedging_density_in_final_paragraph": "High; uses 'may', 'can', 'not necessarily', 'more defensible'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mohr-locke_and_the_contemporary_situation_gpt-5.6-luna.txt"
+}

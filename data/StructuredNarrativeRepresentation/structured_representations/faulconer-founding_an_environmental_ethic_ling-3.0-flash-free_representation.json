@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical evaluation of a proposed Kantian bridge from aesthetics to environmental obligation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "intrinsic vs instrumental value",
+      "direct vs indirect duty",
+      "moral patient vs rational agent",
+      "determining vs reflective judgment",
+      "subjective universality vs empirical consensus",
+      "aesthetic pleasure vs moral law",
+      "beauty vs sublime",
+      "justification vs determination of environmental policy"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "categorical imperative",
+      "aesthetic judgment",
+      "subjective universality",
+      "purposiveness without purpose",
+      "indirect duty"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges and partially concedes",
+    "objections_raised": [
+      "aesthetic universality is a regulative ideal, not empirical agreement",
+      "transition from aesthetic 'pleases' to moral 'oughts' is not justified by Kant",
+      "obligation remains indirect and anthropocentric",
+      "aesthetic principle is too thin to generate determinate environmental priorities"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Faulconer"
+    ],
+    "evidence_type": "conceptual analysis and internal critique",
+    "named_thought_experiments": [
+      "new technology rendering carbon sequestration obsolete",
+      "rational agent failing to find an ecosystem beautiful",
+      "profound psychological alteration or technological mediation removing aesthetic capacity",
+      "beautiful meadow vs biodiverse swamp"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "deontological Kantian framework",
+    "sentiment": "critical but sympathetic",
+    "thematic_focus": "environmental ethics, aesthetic judgment, moral standing"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem-solution-evaluation with dialectical progression"
+  },
+  "summary_of_core_decisions": "The text evaluates Faulconer's attempt to ground environmental obligation in Kantian aesthetic judgment. It reconstructs the Kantian exclusion of nature, contrasts it with utilitarian arbitrariness, presents Faulconer's aesthetic bridge, then exposes a dialectical tension: aesthetic universality provides a non-arbitrary justification but leaves nature as an instrumental condition for rational self-development. The final assessment is that Faulconer succeeds against consequentialism but fails to give nature intrinsic moral standing.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified negative",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "faulconer-founding_an_environmental_ethic_ling-3.0-flash-free.txt"
+}

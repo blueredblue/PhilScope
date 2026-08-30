@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text uses a dialectical structure: it first identifies a false dichotomy (serial time as linear teleology vs. atomistic fragmentation), then introduces Merleau-Ponty's non-serial mythical time as a synthesis, applies this to the Badiou-G\u00e9ly debate, deepens it with Carbone's chiasm, and finally derives a model of historical agency.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "The text explicitly states its central thesis in the introduction and conclusion, and each part explicitly frames its role in the overall argument."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically reasonable: it acknowledges opposing positions (Badiou vs. G\u00e9ly, determinism vs. voluntarism, sedimentation vs. rectification) and attempts to mediate them through Merleau-Ponty's ontology.",
+    "logical_relevance": "All major sections are logically relevant to the thesis: the Freudian analogy establishes retroactivity, the Badiou-G\u00e9ly debate tests the subject, Carbone's chiasm resolves the ethical-political tension, and the final part applies the ontology to agency.",
+    "premise_acceptability": "The premises are largely acceptable within a phenomenological and post-structuralist framework, though the text relies on contested interpretations of Merleau-Ponty and Badiou."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Serial vs. non-serial time",
+      "Linear teleology vs. atomistic fragmentation",
+      "Pre-existing subject vs. ex nihilo event",
+      "Sedimentation vs. rectification",
+      "Determinism vs. voluntarism",
+      "Active vs. passive",
+      "Identity vs. difference"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Mythical time",
+      "Flesh",
+      "Chiasm (touching-touched)",
+      "\u00c9cart",
+      "Wild Being",
+      "Reprise",
+      "Nachtr\u00e4glichkeit"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates objections: it addresses the risk of historical idealism/nihilism and the risk of deterministic sedimentation, then uses Carbone's \u00e9cart to show how both are avoided.",
+    "objections_raised": [
+      "If retroactivity is total, does the past become arbitrarily rewritable?",
+      "If sediment is absolute, does agency become impossible?",
+      "Does Badiou's event require a miracle ex nihilo?",
+      "Does G\u00e9ly's critique reduce the subject to a pre-given substance?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses strong assertive language: 'demonstrates', 'rescues', 'resolves', 'sustains', 'provides the missing link'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Merleau-Ponty",
+      "Freud",
+      "Badiou",
+      "G\u00e9ly",
+      "Carbone"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological ontology, comparative textual interpretation, psychoanalytic analogy.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological ontology, post-structuralist political philosophy, psychoanalytic theory.",
+    "sentiment": "The text is constructive and synthetic, aiming to reconcile opposing positions rather than deconstruct them.",
+    "thematic_focus": "Temporality, subjectivity, historical agency, event, trauma, freedom, justice."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The text is divided into an introduction, four numbered parts, and a conclusion. Each part has a clear thematic role: (I) mythical time and Freudian retroactivity, (II) Badiou vs. G\u00e9ly, (III) Carbone and the chiasm, (IV) historical agency."
+  },
+  "summary_of_core_decisions": "The text's core decision is to replace serial chronology with a chiasmic, retroactive ontology of time. It then uses this ontology to redefine the subject as 'fleshly latency' and agency as 'reprise', thereby resolving the Badiou-G\u00e9ly debate and the sediment/rectification tension.",
+  "thesis_commitment": {
+    "conclusion_type": "The conclusion is a strong affirmation of the thesis: non-serial ontology sustains a coherent account of historical agency.",
+    "hedging_density_in_final_paragraph": "Low: the final paragraph is assertive and declarative, with no hedging."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "edwards-trauma_and_event_gemini-3.5-flash-lite.txt"
+}

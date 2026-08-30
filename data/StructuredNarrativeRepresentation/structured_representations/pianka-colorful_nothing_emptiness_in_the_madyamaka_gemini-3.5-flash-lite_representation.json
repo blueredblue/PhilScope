@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum combined with tetralemma (catu\u1e63ko\u1e6di) and systematic deconstruction",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often implicit in the dialectical refutations, but key assumptions (e.g., svabh\u0101va entails permanence) are stated explicitly."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text engages with opposing views (realism, nihilism) and anticipates objections, but relies on non-standard logic (e.g., rejecting the law of excluded middle in some contexts).",
+    "logical_relevance": "Strong - each argument directly targets the notion of intrinsic existence and its implications.",
+    "premise_acceptability": "Contested - the central premise that svabh\u0101va is incoherent is argued for, but its acceptance depends on the dialectical framework; the text acknowledges this by framing emptiness as an antidote rather than a dogmatic claim."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Conventional truth (sa\u1e43v\u1e5bti-satya) vs. ultimate truth (param\u0101rtha-satya)",
+      "Intrinsic existence (svabh\u0101va) vs. dependent designation (praj\u00f1apti-sat)",
+      "Emptiness as a view (d\u1e5b\u1e63\u1e6di) vs. emptiness as an antidote (pratipak\u1e63a)",
+      "Realism (reification) vs. nihilism (annihilation)",
+      "Explanatory theory vs. therapeutic intervention"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "svabh\u0101va: intrinsic, independent, immutable nature",
+      "prat\u012btyasamutp\u0101da: dependent origination",
+      "sa\u1e43v\u1e5bti-satya: conventional truth, covering/concealing",
+      "param\u0101rtha-satya: ultimate truth, emptiness of inherent existence",
+      "\u015b\u016bnyat\u0101pi \u015b\u016bnyat\u0101: emptiness of emptiness"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates and responds to objections: (1) nihilism \u2013 answered by Two Truths and conventional validity; (2) self-refutation \u2013 answered by emptiness of emptiness and the claim of having no thesis; (3) explanatory arbitrariness \u2013 answered by appealing to conventional regularity as dependent origination.",
+    "objections_raised": [
+      "Madhyamaka collapses into nihilism",
+      "Emptiness becomes a new absolute (reification of emptiness)",
+      "Infinite regress of self-canceling negations",
+      "Inability to explain regularities of nature without intrinsic properties"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - the text uses phrases like 'seeks to', 'attempts to', 'suggests', 'can be seen as', indicating a non-dogmatic, exploratory tone.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "N\u0101g\u0101rjuna (M\u016blamadhyamakak\u0101rik\u0101)",
+      "Chandrakirti (Madhyamak\u0101vat\u0101ra)",
+      "Tsongkhapa (Prasa\u1e45gika articulation)",
+      "Avatamsaka S\u016btra (Indra's Net)"
+    ],
+    "evidence_type": "Primarily conceptual analysis and dialectical reasoning; uses analogies (chess, chariot, purgative) and scriptural citations.",
+    "named_thought_experiments": [
+      "Chariot analogy (dismantled chariot not recognized)",
+      "Chess rules analogy",
+      "Purgative medicine analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Anti-foundationalist, non-realist, therapeutic",
+    "sentiment": "Neutral to positive - the text presents Madhyamaka as a liberating philosophy, not a pessimistic one.",
+    "thematic_focus": "Ontology, epistemology, philosophy of language, ethics (implicitly), metaphilosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned into introduction, five numbered parts, and conclusion; each part has a clear thematic focus (causation, self, two truths, emptiness of emptiness, explanatory arbitrariness)."
+  },
+  "summary_of_core_decisions": "The text systematically deconstructs intrinsic existence (svabh\u0101va) in causation and the self, then navigates between realism and nihilism via the Two Truths, addresses the reflexivity problem through the emptiness of emptiness, and defends against explanatory arbitrariness by reinterpreting regularity as dependent origination. It concludes that Madhyamaka is a therapeutic intervention rather than a metaphysical theory, aiming to cure reification and open consciousness to fluidity and interconnectedness.",
+  "thesis_commitment": {
+    "conclusion_type": "Non-foundationalist, therapeutic",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive about the liberating nature of emptiness, but avoids dogmatic claims by framing it as a 'teaching' rather than a final truth."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "pianka-colorful_nothing_emptiness_in_the_madyamaka_gemini-3.5-flash-lite.txt"
+}

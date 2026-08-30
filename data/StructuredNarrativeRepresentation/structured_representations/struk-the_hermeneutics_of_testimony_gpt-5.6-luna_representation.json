@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical and typological",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate to High"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Testimony vs. information",
+      "Confession vs. narration",
+      "Semantic vs. juridical",
+      "Personal vs. historical",
+      "Accused vs. emissary",
+      "Human court vs. divine court",
+      "Martyrdom vs. reversal"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Testimony as a boundary phenomenon",
+      "Confession as personal declaration of allegiance",
+      "Narration as placement within salvation history",
+      "World as an order of pride and domination"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Implicitly addresses objections by distinguishing martyrdom from proof and by emphasizing the Holy Ghost as mediator.",
+    "objections_raised": [
+      "Martyrdom does not automatically prove truth",
+      "Personal testimony risks becoming empty interiority",
+      "Historical narration risks becoming detached tradition"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Ricoeur",
+      "Book of Mormon",
+      "LDS theology",
+      "Christian scripture"
+    ],
+    "evidence_type": "Conceptual analysis and scriptural narrative interpretation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and hermeneutic",
+    "sentiment": "Neutral-analytic",
+    "thematic_focus": "Testimony, witness, juridical accountability, salvation history"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with progressive dialectical sections"
+  },
+  "summary_of_core_decisions": "The text defines testimony as a boundary phenomenon irreducible to either subjective feeling or objective information. It uses Ricoeur's semantic/juridical analysis to establish the structure, then applies it to LDS theology and the Abinadi narrative. The central dialectic is between testimony-confession (personal self-involvement) and testimony-narration (historical content), resolved by the Holy Ghost as mediator. Abinadi's trial dramatizes the accused/emissary paradox, martyrdom as reversal, and the cosmic struggle between Christ and the world.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and theological",
+    "hedging_density_in_final_paragraph": "Low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "struk-the_hermeneutics_of_testimony_gpt-5.6-luna.txt"
+}

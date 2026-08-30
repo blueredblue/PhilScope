@@ -1,0 +1,78 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical-hermeneutic",
+    "num_distinct_arguments_for_thesis": 7,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "medium-high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "correct vs true",
+      "instrumental vs essential",
+      "world vs earth",
+      "disclosure vs concealment",
+      "mastery vs attendance",
+      "standing-reserve vs artwork",
+      "saving power as change in revealing vs technological solution"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Enframing",
+      "standing-reserve",
+      "unconcealment",
+      "world",
+      "earth",
+      "setting-into-work of truth",
+      "otherness",
+      "anarchy of art"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Implicitly addresses objections by clarifying that art is not immune to technological appropriation and that saving power is not a substitute for political action.",
+    "objections_raised": [
+      "Art can be absorbed into standing-reserve",
+      "Art cannot abolish technological order",
+      "Aesthetic contemplation does not automatically produce ethical or political transformation"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Heidegger",
+      "Gerald Bruns",
+      "H\u00f6lderlin",
+      "Nietzsche"
+    ],
+    "evidence_type": "Conceptual analysis and interpretive appeal to philosophical authorities",
+    "named_thought_experiments": [
+      "van Gogh's painting of peasant shoes",
+      "Greek temple"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental phenomenology and hermeneutics",
+    "sentiment": "Critical of technological modernity; affirmative of art's transformative potential",
+    "thematic_focus": "Ontology of revealing/concealing; critique of technology; philosophy of art"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with numbered sections and conclusion"
+  },
+  "summary_of_core_decisions": "The text argues that modern technology, as Enframing, reduces all beings to standing-reserve and is rooted in the metaphysics of the will to power. Art, as the setting-into-work of truth, opens a world while preserving earth, thereby disclosing beings without exhausting them. The saving power of art lies not in escaping technology or restoring a fixed human essence, but in a change of revealing: art interrupts the demand for total availability and teaches humanity to attend to the revealing and concealing of Being.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative thesis",
+    "hedging_density_in_final_paragraph": "moderate-high"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "metcalf-art_and_the_saving_power_gpt-5.6-luna.txt"
+}

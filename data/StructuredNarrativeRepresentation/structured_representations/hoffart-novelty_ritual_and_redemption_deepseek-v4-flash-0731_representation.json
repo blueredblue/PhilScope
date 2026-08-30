@@ -1,0 +1,82 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "highly explicit with repeated definitions and examples"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "strong",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate to high within process-theistic framework"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "subjective immediacy vs objective immortality",
+      "physical prehension vs conceptual prehension vs hybrid prehension",
+      "novelty vs ritual",
+      "subjective resonance vs objective appraisal",
+      "secular redemption vs theological redemption",
+      "primordial nature vs consequent nature of God"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "actual entity",
+      "concrescence",
+      "satisfaction",
+      "prehension",
+      "hybrid prehension",
+      "eternal object",
+      "novelty",
+      "ritual",
+      "subjective resonance",
+      "objective appraisal",
+      "concrete universal",
+      "poetic insight",
+      "sacrament"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "implicitly addresses subjectivist/objectivist dichotomy and inadequacy of memory/inheritance",
+    "objections_raised": [
+      "memory is a pale copy lacking subjective texture",
+      "physical inheritance transmits fact but not value",
+      "subjectivism reduces beauty to convention",
+      "objectivism reduces resonance to epiphenomenon"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Whitehead"
+    ],
+    "evidence_type": "conceptual analysis, phenomenological reflection, illustrative examples, theological analogy",
+    "named_thought_experiments": [
+      "Bach fugue",
+      "requiem mass",
+      "historical battle depicted in art",
+      "rose captured in poetry"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "process metaphysics and aesthetics",
+    "sentiment": "anti-nihilistic, redemptive, existential",
+    "thematic_focus": "temporal perishing, value preservation, aesthetic redemption, divine consequent nature"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem-solution with dialectical progression and theological culmination"
+  },
+  "summary_of_core_decisions": "The text frames Whitehead's perishing as the central existential threat, rejects memory and physical inheritance as inadequate, and proposes aesthetic emergence via hybrid prehensions as the synthesis that preserves subjective value in objective form, culminating in participation in God's consequent nature.",
+  "thesis_commitment": {
+    "conclusion_type": "normative and metaphysical",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hoffart-novelty_ritual_and_redemption_deepseek-v4-flash-0731.txt"
+}

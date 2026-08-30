@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are clearly stated and defended throughout the text."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text engages with opposing views (Clifford, logical empiricism) and integrates them into a synthesis.",
+    "logical_relevance": "High - all arguments directly support the central thesis of resolving the individual-collective tension.",
+    "premise_acceptability": "High - premises are based on established philosophical positions (James, Rudner, Douglas) and common scientific practice."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Object-level vs. meta-level rationality",
+      "Direct vs. indirect role of values",
+      "Epistemic vs. non-epistemic values",
+      "Individual belief vs. collective consensus",
+      "Truth as correspondence vs. truth as practical acceptance"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Epistemic values: accuracy, consistency, scope, simplicity, fruitfulness",
+      "Inductive risk: the risk of error in accepting or rejecting a hypothesis",
+      "Division of epistemic labor: distribution of different acceptance thresholds across scientists"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates and addresses objections (e.g., relativism, policy paralysis) by showing how institutional mechanisms and epistemic constraints bound dissent.",
+    "objections_raised": [
+      "Epistemic threat: divergent beliefs cannot both be true",
+      "Pragmatic threat: policy paralysis from lack of consensus",
+      "Relativism: values overriding evidence"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - the text uses hedged language ('apparent conflict', 'seems', 'suggests') to acknowledge nuance.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "William James",
+      "Richard Rudner",
+      "Heather Douglas",
+      "Philip Kitcher"
+    ],
+    "evidence_type": "Philosophical argumentation, historical precedent, and a concrete hypothetical example (drug approval).",
+    "named_thought_experiments": [
+      "Drug approval case with Scientist A (FDA toxicologist) and Scientist B (clinical researcher)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatism (James), philosophy of science (Rudner, Douglas), social epistemology (Kitcher)",
+    "sentiment": "Analytic philosophy with a pragmatic and social-epistemological bent",
+    "thematic_focus": "Epistemology of science, values in science, rationality, collective knowledge"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned essay with numbered parts and a conclusion"
+  },
+  "summary_of_core_decisions": "The text resolves the tension between individual rational dissent and collective scientific rationality by reconceptualizing collective rationality as an emergent property of a system that institutionalizes a division of epistemic labor. Individual scientists rationally diverge due to different error costs (James, Rudner), constrained by epistemic values (Douglas). The community achieves rationality through mechanisms like peer review, replication, and debate, which aggregate and correct individual judgments. The apparent conflict is a category error between object-level and meta-level rationality.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthesis - resolves the conflict by showing both individual and collective rationality are compatible through a two-level framework.",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive and definitive."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "science-and-rationality-for-one-and-all_deepseek-v4-flash-0731.txt"
+}

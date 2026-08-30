@@ -1,0 +1,64 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against the Direct Argument, supplemented by a destructive dilemma (trilemma) against its defenders.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Partially explicit; the core premises are stated, but the detailed sub-arguments for the counterexample's validity are implied rather than fully elaborated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High. The argument anticipates and systematically addresses the three most plausible defensive moves available to the proponent of Transfer NR1.",
+    "logical_relevance": "High. Every premise directly targets the validity of Transfer NR1 and the independence of the Direct Argument.",
+    "premise_acceptability": "Moderate. The acceptability hinges entirely on the intuitive force of the Bob counterexample, which is asserted but not deeply defended in the provided text."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Direct vs. Indirect arguments for incompatibilism",
+      "Transfer NR1 (Rule B) vs. Principle of Alternate Possibilities (PAP)",
+      "Leeway (alternate possibilities) vs. Sourcehood (origination) conditions",
+      "Determinism vs. moral responsibility"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Transfer NR1: From Np and N(p \u2283 q), infer Nq.",
+      "Np: No one is, or ever has been, morally responsible for the fact that p.",
+      "PAP: An agent is morally responsible for an action only if they could have done otherwise."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author preemptively refutes three objections: (1) Restricting NR1's scope (deemed ad hoc and losing generality), (2) Denying Bob's moral responsibility (deemed counterintuitive), (3) Appealing to a sourcehood condition (deemed self-defeating as it reintroduces indirectness).",
+    "objections_raised": [
+      "Restriction of NR1's scope",
+      "Denial of Bob's moral responsibility",
+      "Appeal to a sourcehood condition"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High. Uses definitive terms like 'fails', 'invalid', 'cannot', 'collapses'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "A priori thought experiment (the Bob scenario) and conceptual analysis of logical transfer principles.",
+    "named_thought_experiments": [
+      "Bob counterexample (undetermined choice preventing abnormality, lightning eliminating alternatives)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, specifically the free will and moral responsibility literature.",
+    "sentiment": "Neutral-critical; the author is a critic of a specific incompatibilist strategy, not necessarily a defender of compatibilism.",
+    "thematic_focus": "The logical validity of transfer principles, the dialectical independence of arguments, and the metaphysics of control."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Abstract/Introduction format: Thesis statement, presentation of the target argument (Direct Argument/NR1), introduction of the counterexample (Bob), dialectical defense against objections, and concluding collapse."
+  },
+  "summary_of_core_decisions": "The text's core decision is to attack the Direct Argument at its foundational inference rule (NR1) rather than at its premises. It strategically uses a single, carefully constructed counterexample to demonstrate the rule's invalidity, and then employs a trilemma to show that any attempt to repair the rule forces the incompatibilist back into the indirect argumentative framework they sought to escape.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative existential (the Direct Argument does not provide a distinct route to incompatibilism).",
+    "hedging_density_in_final_paragraph": "Low. The conclusion is stated categorically without hedging."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mahaffey-the_direct_argument_deepseek-v4-flash-0731.txt"
+}

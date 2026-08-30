@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical tension-and-resolution: the essay repeatedly poses an apparent priority (theory over practice, truth over behavior) and then qualifies it through dramatic and pedagogical considerations, culminating in a layered reconciliation.",
+    "num_distinct_arguments_for_thesis": 8,
+    "premise_explicitness": "Moderate: many premises are embedded in interpretive claims about the Republic rather than formalized; the essay relies on close reading and conceptual contrast."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay acknowledges counterevidence (explicit priority of theory) and integrates it rather than ignoring it.",
+    "logical_relevance": "High: each section addresses the central question of whether virtue replaces metaphysics or is integrated with it.",
+    "premise_acceptability": "High for a Platonic interpretation: claims are grounded in well-known passages (divided line, cave, noble lie, myth of Er, tripartite soul)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Theory vs. practice",
+      "Word (logos) vs. deed (ergon)",
+      "Metaphysical truth vs. behavioral harmony",
+      "Theoretical priority vs. practical priority",
+      "Knowledge vs. opinion",
+      "Imitation vs. truth",
+      "City in speech vs. city in soul",
+      "Explicit hierarchy vs. pedagogical qualification"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Justice as 'doing one's own work' in city and soul",
+      "Tripartite soul as a normative construction, not empirical discovery",
+      "The Good as the principle of proper orientation, conveyed through analogies",
+      "Virtue as the living realization of theory"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates objections: e.g., the Republic's explicit metaphysical hierarchy seems to make theory prior; the noble lie and imitation seem to reduce truth to behavior. It answers by redefining the practical meaning of truth and by showing that theory remains the explanatory ground while virtue is the ethical end.",
+    "objections_raised": [
+      "The Republic explicitly asserts the ontological priority of the Good and the philosopher's knowledge.",
+      "The tripartite soul might be a mere descriptive psychology.",
+      "The noble lie and myths suggest truth is replaced by useful fiction.",
+      "Rational discourse alone cannot guarantee virtue."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the essay uses 'appears', 'seems', 'can be understood', 'suggests', 'is better understood'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Republic (primary text)",
+      "Socrates as dramatic character"
+    ],
+    "evidence_type": "Interpretive textual evidence: key passages and dramatic structure; conceptual analysis of the dialogue's pedagogical function.",
+    "named_thought_experiments": [
+      "Ring of Gyges",
+      "Allegory of the cave",
+      "Divided line",
+      "Noble lie",
+      "Myth of Er"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and Platonic metaphysics integrated; emphasizes character formation and the practical criterion of theory.",
+    "sentiment": "Neutral-analytic; no emotional rhetoric.",
+    "thematic_focus": "The relationship between metaphysical truth and ethical formation in Plato's Republic."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thematic with progressive development: opening tension, dramatic context, pedagogical model, psychological model, explicit theory, undermining of hierarchy, word/deed, resolution, conclusion."
+  },
+  "summary_of_core_decisions": "The essay argues that the Republic prioritizes virtue without abandoning metaphysics. It does so by showing that metaphysical doctrines function as instruments of ethical conversion: the city in speech, the tripartite soul, the Good, and the myths are all designed to reshape desire and character. The explicit theoretical hierarchy is real but incomplete; truth must become character. Thus the Republic preserves theoretical priority in the order of explanation while giving practical priority to virtue in the order of formation.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified thesis: neither metaphysical dogmatism nor pragmatic reductionism; virtue is the living realization of theory.",
+    "hedging_density_in_final_paragraph": "Moderate: uses 'may therefore be', 'in that sense', 'not by abandoning'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hendricks-the_realization_of_theory_gpt-5.6-luna.txt"
+}

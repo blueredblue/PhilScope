@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "biological dysfunction vs. psychological law",
+      "token identity vs. type identity",
+      "ontological autonomy vs. explanatory autonomy",
+      "strict law vs. ceteris paribus generalization",
+      "physiological explanation vs. intentional interpretation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "disease as internal dysfunction interfering with normal function",
+      "anomalous monism as token identity without type identity",
+      "explanatory autonomy as non-replaceable patterns without ontological independence"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "accommodates objections by refining distinctions",
+    "objections_raised": [
+      "Davidson's charity makes mental illness impossible",
+      "Klee's ceteris paribus objection undermines strict law contrast",
+      "No strict laws undermines prediction and treatment",
+      "Autonomy implies ontological independence"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Boorse",
+      "Davidson",
+      "Klee"
+    ],
+    "evidence_type": "conceptual analysis and thought experiments",
+    "named_thought_experiments": [
+      "umbrella case",
+      "depression and schizophrenia examples"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy of mind and medicine",
+    "sentiment": "balanced, non-polemical",
+    "thematic_focus": "mental health, reductionism, anomalous monism, biological dysfunction, explanatory autonomy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sections with progressive dialectic"
+  },
+  "summary_of_core_decisions": "The text defends a middle position: Boorse's physiological model is compatible with Davidson's anomalous monism if disease is understood as biological grounding rather than strict psychological reduction; mental-health science can be autonomous only in an explanatory/methodological sense, not ontologically or nomologically.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified synthesis",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "jensen-what_a_theory_of_mental_health_should_be_gpt-5.6-luna.txt"
+}

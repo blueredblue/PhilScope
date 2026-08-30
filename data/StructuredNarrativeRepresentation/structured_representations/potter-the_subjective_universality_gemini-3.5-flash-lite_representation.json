@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental dialectic: identify a paradox, construct a transcendental solution, test against empirical counterexample, defend via normative/regulative distinction, then draw radical implications.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in prose but recoverable from key distinctions and examples."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay stages a genuine dialectic between subjective feeling and universal validity, then resolves it through a regulative ideal.",
+    "logical_relevance": "All sections contribute to the central problem; the Picasso example serves as a stress test for the theory.",
+    "premise_acceptability": "The key premises (disinterest, free play, sensus communis) are Kantian commitments; the essay treats them as plausible but not empirically proven."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "agreeable vs good vs beautiful",
+      "interest vs disinterest",
+      "determinate concepts vs free play",
+      "empirical psychology vs transcendental normativity",
+      "constitutive vs regulative ideal"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "disinterest",
+      "free play",
+      "sensus communis",
+      "subjective purposiveness without purpose",
+      "regulative ideal"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates the objection from conflicting judgments and responds by distinguishing impurity of actual judgments from normative purity, and by invoking the regulative ideal.",
+    "objections_raised": [
+      "Persistent aesthetic disagreement (Picasso example) undermines universal validity",
+      "If universality is grounded in shared cognitive structure, why do rational subjects disagree?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'must', 'ought', 'cannot' in normative contexts, but acknowledges 'asymptotic' and 'regulative' status.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Critique of the Power of Judgment"
+    ],
+    "evidence_type": "Conceptual analysis, transcendental argument, illustrative example (Picasso), historical art movements.",
+    "named_thought_experiments": [
+      "Two observers before Picasso's Les Demoiselles d'Avignon"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental idealism: universality is grounded in the structure of the subject's cognitive faculties, not in the object.",
+    "sentiment": "Aesthetic judgment is a reflective celebration of cognitive freedom; beauty is form of purposiveness without purpose.",
+    "thematic_focus": "Subjective universality, disinterest, free play, sensus communis, normativity vs psychology, aesthetic egalitarianism."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-objection-defense-implication-conclusion; sections mirror the dialectical progression."
+  },
+  "summary_of_core_decisions": "The essay resolves the paradox of taste by (1) purifying aesthetic judgment through disinterest, (2) grounding universality in shared cognitive faculties, (3) defending against disagreement by treating universality as a regulative ideal, and (4) drawing the radical implication that any object can be aesthetically judged.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic a priori: the judgment of taste is subjectively universal and normative, grounded in the transcendental structure of human cognition.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive, though it acknowledges the 'asymptotic' nature of aesthetic consensus."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "potter-the_subjective_universality_gemini-3.5-flash-lite.txt"
+}

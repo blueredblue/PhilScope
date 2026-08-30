@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against stage theory's semantic adequacy: If stage theory is true, then compositional semantics for tensed predication is impossible. Compositional semantics for tensed predication is possible (and required). Therefore, stage theory is false.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High \u2014 premises are explicitly stated and defended through detailed analysis of formal semantic frameworks."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2014 the author engages with the strongest available responses (Sider's temporal counterpart theory, Hawley's tensed properties) and demonstrates their inadequacy.",
+    "logical_relevance": "High \u2014 every section directly advances the central thesis that stage theory fails compositionality.",
+    "premise_acceptability": "Moderate \u2014 the argument assumes compositionality as a non-negotiable constraint on semantic theory, which is a substantive but widely accepted methodological commitment."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Endurantism vs. Perdurantism vs. Stage Theory",
+      "Worm theory vs. Stage theory",
+      "Operator analysis vs. Quantificational analysis of tense",
+      "Metaphysical thesis vs. Semantic thesis",
+      "Surface grammar vs. Logical form",
+      "Direct predication vs. Derivative (counterpart-mediated) predication"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Stage theory: ordinary objects are instantaneous temporal stages",
+      "Temporal counterpart relation: relation between stages at different times",
+      "Compositionality: meaning of complex expression determined by meanings of parts and their combination",
+      "Operator analysis: tense as sentential operator shifting evaluation time",
+      "Quantificational analysis: tense as quantifier over times binding time variables"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The author anticipates and addresses the objection that stage theorists can adopt temporal counterpart semantics, showing that this requires radical revision of predicate semantics and breaks compositionality.",
+    "objections_raised": [
+      "Stage theorist might claim names refer to stages and tense operators shift counterpart relations",
+      "Sider's temporal counterpart theory as a proposed solution",
+      "Hawley's tensed properties as a proposed solution"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High \u2014 uses terms like 'disaster', 'intractable', 'deeply problematic', 'radical departure', 'extremely high cost'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Sider",
+      "Hawley",
+      "Prior",
+      "Reichenbach",
+      "Lewis"
+    ],
+    "evidence_type": "Formal semantic analysis, logical notation, counterexample construction, conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy \u2014 formal semantics, logic, metaphysics of persistence",
+    "sentiment": "Critical/negative toward stage theory; defensive of compositionality as a constraint",
+    "thematic_focus": "Metaphysics of persistence, philosophy of language, semantics of tense, compositionality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution dialectic: exposition of theory \u2192 identification of problem \u2192 analysis of failed solutions \u2192 conclusion of inadequacy"
+  },
+  "summary_of_core_decisions": "The text argues that stage theory's commitment to instantaneous objects as referents of names is fundamentally incompatible with compositional semantics for tensed predication. The core problem is that multiple tensed predicates sharing a single subject require that subject to satisfy properties at different times, which an instantaneous stage cannot do directly. Both the quantificational and operator analyses of tense fail to bridge this gap without introducing hidden quantifiers over counterparts, which violates compositionality. Sider's and Hawley's proposed solutions are shown to be inadequate because they require radical revisions of predicate semantics that divorce surface grammar from logical form.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative \u2014 stage theory cannot provide a compositional semantics for natural language",
+    "hedging_density_in_final_paragraph": "Low \u2014 the conclusion is stated with confidence and without significant hedging"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "semantic-problem-for-stage-theory_deepseek-v4-flash-0731.txt"
+}

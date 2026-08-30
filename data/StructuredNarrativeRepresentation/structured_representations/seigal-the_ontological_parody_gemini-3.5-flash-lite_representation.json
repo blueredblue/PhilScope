@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modal ontological argument with S5 and Becker's Postulate",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "highly explicit, formalized with modal operators"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "low to moderate, especially for the possibility premise and asymmetry thesis"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "contingent vs necessary existence",
+      "perfection vs non-perfection",
+      "goodness vs evil (asymmetry)",
+      "moral vs non-moral parodies"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "perfection: property whose instantiation is intrinsically superior to non-instantiation",
+      "God: being with maximal greatness in every possible world",
+      "Absolute Evil One: being with maximal malignity in every possible world"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "attempts to block parodies via asymmetry of perfection and privation theory",
+    "objections_raised": [
+      "Gaunilo's Lost Island",
+      "Michael Martin's Absolute Evil One",
+      "non-moral parodies (maximal entropy, formal symmetry)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Anselm",
+      "Gaunilo",
+      "Kant",
+      "Hartshorne",
+      "Michael Martin"
+    ],
+    "evidence_type": "conceptual analysis, modal logic, historical argument, parody construction",
+    "named_thought_experiments": [
+      "Gaunilo's Lost Island",
+      "Absolute Evil One",
+      "Absolute Entropic Principle",
+      "Orthogonal Maximum"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic metaphysics, modal logic, neoclassical process theism",
+    "sentiment": "critical, skeptical of modal ontological argument",
+    "thematic_focus": "parody objections, modal logic, coherence of maximal properties, privation theory"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical: thesis, reconstruction, objection, defense, counter-objection, conclusion"
+  },
+  "summary_of_core_decisions": "The text reconstructs Hartshorne's modal ontological argument, modernizes Gaunilo's parody through Martin's Absolute Evil One, presents Hartshorne's asymmetry defense, and then critiques it on three grounds: equivocation on coherence, failure of privation theory against non-moral parodies, and structural parity of modal logic. It concludes that Hartshorne's argument remains a definitional circle and cannot escape parody.",
+  "thesis_commitment": {
+    "conclusion_type": "negative",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "seigal-the_ontological_parody_gemini-3.5-flash-lite.txt"
+}

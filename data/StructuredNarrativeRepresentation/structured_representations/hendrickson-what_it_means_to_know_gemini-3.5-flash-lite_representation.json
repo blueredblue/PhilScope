@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a master argument: a single false presupposition (internal transparency) is identified as the root of multiple philosophical puzzles; refuting that presupposition dissolves all of them. It then offers a positive naturalistic replacement.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "The text explicitly states its central premise: internal transparency is false. It does not offer a formal proof but relies on empirical cognitive science and conceptual analysis to support the denial."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically aggressive: it treats opponents as sharing a common assumption and then shows how that assumption leads to absurdity. It does not engage with possible defenses of transparency beyond asserting empirical refutation.",
+    "logical_relevance": "All arguments are relevant to the thesis: each target (Jackson, Searle, McGinn, syntax/semantics, conceptual/perceptual gap) is shown to depend on transparency, and the proposed dissolution follows from rejecting it.",
+    "premise_acceptability": "The key premise that introspection is unreliable is widely accepted in cognitive science, but the text does not address philosophical objections (e.g., some forms of phenomenal introspection). The inference from unreliability to complete rejection of transparency is stronger than the evidence warrants."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Internal transparency vs. naturalistic opacity",
+      "Syntax vs. semantics (later collapsed)",
+      "Conceptual vs. perceptual knowledge (later unified)",
+      "First-person reports as data vs. first-person reports as foundational evidence",
+      "Pseudo-problem vs. genuine problem"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Internal transparency: mental states are self-revealing and introspectively accessible.",
+      "Knowledge: reliably tracked, successfully deployed information-bearing states.",
+      "Semantics: externalist, relational property of structural tracking.",
+      "Consciousness: macro-level functional description of distributed information integration."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text does not explicitly raise and respond to objections. It anticipates possible resistance by labeling opposing views as 'Cartesian hangover' or 'category mistake' but does not systematically address counterarguments.",
+    "objections_raised": []
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses strong assertive language: 'dissolves', 'collapses', 'evaporate', 'must be demoted', 'no need'. It presents conclusions as definitive rather than tentative.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Dennett",
+      "Sellars",
+      "McGinn",
+      "Jackson",
+      "Searle"
+    ],
+    "evidence_type": "Empirical cognitive science (unreliability of introspection, distributed neural processing), thought experiments (Mary, Chinese Room), analogies (digestion, neural nets).",
+    "named_thought_experiments": [
+      "Mary's room",
+      "Chinese Room"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic, externalist, functionalist, eliminativist about Cartesian qualia.",
+    "sentiment": "Anti-Cartesian, anti-foundationalist, pro-scientific naturalism.",
+    "thematic_focus": "Philosophy of mind, epistemology, cognitive science, AI."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Negative-destructive then positive-reconstructive. Each section follows a pattern: state target, show reliance on transparency, reject transparency, offer naturalistic replacement."
+  },
+  "summary_of_core_decisions": "The text's core decision is to treat internal transparency as the common enemy. It then uses Dennett's Multiple Drafts model as the master key to unlock all puzzles. It collapses traditional dichotomies (syntax/semantics, conceptual/perceptual) into unified naturalistic continua. It concludes by reorienting epistemology from introspective foundationalism to empirical neurocomputational inquiry.",
+  "thesis_commitment": {
+    "conclusion_type": "Thesis-affirming and programmatic: it not only argues for a view but prescribes a new research agenda.",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive and programmatic."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hendrickson-what_it_means_to_know_gemini-3.5-flash-lite.txt"
+}

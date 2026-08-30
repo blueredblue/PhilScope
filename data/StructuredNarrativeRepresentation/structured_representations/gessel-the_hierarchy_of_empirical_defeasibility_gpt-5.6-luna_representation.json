@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "conditional_defeasibility_thesis",
+    "premise_explicitness": "reconstructed",
+    "num_distinct_arguments_for_thesis": 4
+  },
+  "dialectical_engagement": {
+    "objections_raised": [
+      "flash_vision_not_indefeasible",
+      "testimony_overrides_perception",
+      "simulation_defeats_compound_belief",
+      "tactile_guarantee_fails"
+    ],
+    "objection_handling": "each_objection_is_absorbed_into_a_refined_defeasibility_hierarchy",
+    "bites_the_bullet_on_counterintuitive_implication": true
+  },
+  "method_and_evidence": {
+    "uses_named_thought_experiment": true,
+    "named_thought_experiments": [
+      "flash_vs_spherical_vision",
+      "simulation_case",
+      "museum_replica_case",
+      "shared_anomalous_perception_case"
+    ],
+    "evidence_type": "phenomenological_information_types_and_defeater_cases",
+    "appeals_to_authority": [
+      "Gessell_flash_spherical_vision"
+    ]
+  },
+  "thesis_commitment": {
+    "conclusion_type": "qualified_conclusive_empirical_indefeasibility",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "structural_organization": {
+    "structure_type": "dialectical_hierarchy",
+    "explicit_signposting": true
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "uses_first_person_epistemic_verbs": true,
+    "imagined_interlocutor_voiced_directly": true
+  },
+  "conceptual_grounding": {
+    "explicit_definitions_given": [
+      "defeasible",
+      "undercutting_defeater",
+      "overriding_defeater",
+      "conclusive_empirical_belief",
+      "compound_perceptual_belief",
+      "flash_vision",
+      "spherical_vision"
+    ],
+    "draws_explicit_distinction": true,
+    "distinctions_drawn": [
+      "defeasibility_vs_infallibility",
+      "narrow_vs_broad_conclusiveness",
+      "appearance_vs_structural_vs_causal_interactive_vs_intersubjective_information",
+      "undercutting_vs_overriding_defeaters",
+      "modal_diversity_vs_modal_multiplication",
+      "visual_flash_vs_spherical_vision"
+    ]
+  },
+  "argumentative_quality": {
+    "premise_acceptability": "high",
+    "logical_relevance": "high",
+    "dialectical_reasonableness": "high"
+  },
+  "philosophical_orientation": {
+    "thematic_focus": "epistemology_of_perception",
+    "sentiment": "fallibilist_but_anti_skeptical",
+    "grounding": "phenomenological_and_empiricist"
+  },
+  "summary_of_core_decisions": "The text argues that conclusive empirical beliefs are empirically indefeasible only relative to defeaters compatible with and genuinely directed at the experiential conditions constituting the belief. It builds a hierarchy of defeasibility from momentary appearance to intersubjective practical integration, using Gessell's flash/spherical vision distinction, compound perceptual beliefs, and a qualified account of tactile confirmation. The thesis survives only as context-indexed, not as an unrestricted guarantee of material existence.",
+  "_source_corpus": "synthetic",
+  "_source_file": "gessel-the_hierarchy_of_empirical_defeasibility_gpt-5.6-luna.txt"
+}

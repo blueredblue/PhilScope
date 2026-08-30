@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The essay employs a dialectical structure: it presents a thesis (JRD), develops its implications for individual rationality, identifies a tension (subjectivism), then resolves it through a social-epistemic framework, and finally addresses objections.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often embedded in narrative but key ones are stated (e.g., underdetermination, error costs, social criteria)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay anticipates and responds to objections from both relativist and constructivist directions.",
+    "logical_relevance": "All sections directly support the central thesis; no digressions.",
+    "premise_acceptability": "Premises are drawn from established philosophy of science (Duhem, Quine, Rudner, Douglas, Longino, Kitcher) and are generally accepted within the relevant discourse."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Individual vs. collective rationality",
+      "Value-laden vs. value-determined inquiry",
+      "Discovery vs. justification context",
+      "Local vs. global epistemic norms",
+      "Subjective divergence vs. objective consensus"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Individual epistemic rationality as optimal navigation of uncertainty under real-world constraints and error costs",
+      "Collective rationality as structural, dynamic, self-correcting",
+      "Objectivity as emergent property of community interaction"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Two objections are addressed: (1) slippery slope to relativism, (2) normative impotence of the individual. Both are rebutted with nuanced distinctions.",
+    "objections_raised": [
+      "Slippery slope to relativism (strict empiricists/realists)",
+      "Normative impotence of the individual (social constructivists)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'argue', 'suggests', 'can', 'should' rather than 'proves' or 'demonstrates'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Richard Rudner",
+      "Heather Douglas",
+      "William James",
+      "Helen Longino",
+      "Philip Kitcher",
+      "Duhem and Quine"
+    ],
+    "evidence_type": "Philosophical argumentation, thought experiments (toxicologists), historical examples (climate science, macroeconomics), and references to established literature.",
+    "named_thought_experiments": [
+      "Two toxicologists with different error cost profiles",
+      "Climate modelers with different value priorities"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatism (James), social epistemology (Longino, Kitcher), and philosophy of science (Rudner, Douglas).",
+    "sentiment": "Neutral, analytical, constructive.",
+    "thematic_focus": "The relationship between individual epistemic agency and collective scientific objectivity."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical progression: thesis \u2192 implications \u2192 tension \u2192 resolution \u2192 objections \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The essay defends the JRD thesis, argues that individual rationality is value-laden and risk-sensitive, then resolves the apparent conflict with collective objectivity by appealing to social epistemology and the division of epistemic labor. It concludes that objectivity emerges from critical interaction, not from value-free individuals.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and descriptive: describes how science works and prescribes how it should be organized.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive but not dogmatic."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "science-and-rationality-for-one-and-all_gemini-3.5-flash-lite.txt"
+}

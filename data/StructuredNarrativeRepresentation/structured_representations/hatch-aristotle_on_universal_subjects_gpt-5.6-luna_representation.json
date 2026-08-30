@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression from thesis to antithesis to synthesis, with repeated escalation of specificity across sections.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often embedded in interpretive claims rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text fairly represents both Gyekye and Englebretsen and seeks a nuanced synthesis.",
+    "logical_relevance": "High: all distinctions and examples bear directly on the central tension.",
+    "premise_acceptability": "Moderate: some premises depend on contested interpretations of Aristotle."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Semantic meaning vs. ontological truth conditions",
+      "Primary vs. secondary substances",
+      "Said of vs. in a subject",
+      "Grammatical, logical, metaphysical, and scientific subjecthood",
+      "Synonymous vs. homonymous predication",
+      "Essential vs. accidental predication",
+      "Ontological vs. epistemic priority",
+      "Immanent form vs. separate Platonic form"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Synonymous predication: same name and same account",
+      "Homonymous predication: same name but different account",
+      "Primary substance: neither said of a subject nor in a subject",
+      "Universal: said of many subjects, dependent on primary substances for concrete realization"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Englebretsen's objection is incorporated and qualified rather than dismissed; Gyekye's thesis is retained only in a structural or metaphorical sense.",
+    "objections_raised": [
+      "Semantic incompleteness does not entail ontological dependence",
+      "Reducing universals to incomplete symbols undermines definition and universal science",
+      "Prohibition of non-substantial subjects cannot ban all universal subjects in discourse"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'appears', 'seems', 'can be understood', 'must be interpreted'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle's Categories",
+      "Posterior Analytics",
+      "Gyekye",
+      "Englebretsen",
+      "Russell's theory of definite descriptions"
+    ],
+    "evidence_type": "Conceptual analysis, historical interpretation, regress argument, distinctions, examples.",
+    "named_thought_experiments": [
+      "Infinite regress of predication",
+      "Empty predicate 'is a unicorn'",
+      "Focal meaning of 'healthy'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Aristotelian realism with a qualified anti-reductionist stance.",
+    "sentiment": "Neutral and analytic, aiming at dialectical resolution.",
+    "thematic_focus": "Ontology, philosophy of language, logic, epistemology of science."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-antithesis-synthesis with progressive refinement; each section repeats and deepens the previous paragraph's content."
+  },
+  "summary_of_core_decisions": "The text resolves the Gyekye-Englebretsen debate by distinguishing semantic, ontological, and epistemic dependence. Aristotle's universals are not mere incomplete symbols, but they are also not separate substances; they are immanent forms that are ontologically dependent on primary substances yet epistemically prior. The regress of predication is blocked only by understanding the prohibition of non-substantial subjects as a demand for ultimate explanatory grounding, not as a ban on universals as subjects in discourse.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified synthesis",
+    "hedging_density_in_final_paragraph": "Moderate: uses 'limited', 'transformed sense', 'not ... in ancient dress', 'proto-logical insights'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hatch-aristotle_on_universal_subjects_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens with an inference to the best explanation",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Mixed: some premises are explicitly stated, while others are implied through the dialectical presentation of objections and replies"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text presents objections and replies in a balanced manner, acknowledging the force of counterarguments",
+    "logical_relevance": "High: all premises and objections directly bear on the central question of whether objective moral values are queer",
+    "premise_acceptability": "Moderate: the text acknowledges that key premises (e.g., the existence of objective values, the reliability of moral intuition) are contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Metaphysical vs. epistemological queerness",
+      "Ontological vs. epistemic strangeness",
+      "Normative vs. descriptive properties",
+      "Causal vs. rational relations",
+      "Moral intuition vs. empirical observation",
+      "Disagreement vs. error",
+      "Evolutionary explanation vs. truth-tracking"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Objective values: values that hold independently of human attitudes, conventions, or desires",
+      "Queerness: metaphysical or epistemological strangeness, including intrinsic normativity and non-natural epistemic access",
+      "Moral error theory: the view that moral judgments are systematically false because they presuppose non-existent objective values"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text presents objections from moral realists (e.g., normativity is not mysterious, disagreement does not disprove truth) and offers partial replies, but does not fully resolve them",
+    "objections_raised": [
+      "Normativity may be conceptually distinct from causation without being metaphysically suspect",
+      "Disagreement does not show there is no moral truth",
+      "Moral reasoning can correct unreliable intuitions",
+      "Evolutionary influences do not by themselves falsify moral beliefs"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses hedged language such as 'arguably,' 'may,' 'can,' and 'seems'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Conceptual analysis, thought experiments (e.g., gratuitous cruelty, promising), and appeals to scientific practice (e.g., unobservable entities)",
+    "named_thought_experiments": [
+      "Gratuitous cruelty as a self-evident moral truth",
+      "The fact of promising as a reason-giving fact",
+      "The child in danger as a reason for action"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, metaethics, moral realism vs. anti-realism debate",
+    "sentiment": "Neutral-analytical: the text does not advocate for a position but critically examines the argument from queerness",
+    "thematic_focus": "The metaphysical and epistemological plausibility of objective moral values"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Progressive: from the basic formulation of the argument, through metaphysical and epistemological challenges, to objections and replies, ending with an unresolved tension"
+  },
+  "summary_of_core_decisions": "The text presents Mackie's argument from queerness as a two-pronged challenge (metaphysical and epistemological) against objective moral values. It evaluates the argument's force by considering realist objections and replies, concluding that while the argument is not a decisive refutation, it poses a serious challenge that moral realists must address. The text ultimately leaves the question open, emphasizing the unresolved tension between the apparent queerness of objective values and the realist's ability to explain normativity and moral knowledge.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified: the text concludes that the argument from queerness is a serious but not conclusive challenge to objective moral values",
+    "hedging_density_in_final_paragraph": "High: the final section uses hedged language such as 'may,' 'can,' and 'remains' to indicate unresolved issues"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "farr-how_queer_gpt-5.6-luna.txt"
+}

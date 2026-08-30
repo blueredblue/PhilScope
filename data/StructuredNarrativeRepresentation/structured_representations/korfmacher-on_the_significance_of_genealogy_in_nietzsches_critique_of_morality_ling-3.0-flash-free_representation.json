@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "genealogical_critique_as_illumination_not_refutation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate_explicit_with_embedded_qualifications"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high_but_self_consciously_partisan",
+    "logical_relevance": "high_for_existential_critique_low_for_formal_logic",
+    "premise_acceptability": "contested_but_internally_coherent"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "genealogy_vs_history_of_ideas",
+      "genealogy_vs_speculative_anthropology",
+      "descriptive_pejorative_vs_prescriptive_creative",
+      "life_denying_vs_life_enhancing",
+      "illumination_vs_refutation",
+      "immanent_criteria_vs_transcendent_standards"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "will_to_power_as_self_overcoming_not_domination",
+      "life_enhancement_as_existential_orientation",
+      "genealogy_as_revealing_conditions_of_possibility_and_functions"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "anticipates_and_rejects_formal_objections_as_framework_dependent",
+    "objections_raised": [
+      "inconsistency",
+      "subjectivism",
+      "lack_of_normative_foundation"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "nietzsche"
+    ],
+    "evidence_type": "historical_psychological_and_existential_analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "immanent_existential_criteria",
+    "sentiment": "anti_foundationalist_anti_universalist",
+    "thematic_focus": "value_creation_self_overcoming_critique_of_morality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thematic_progressive_with_resolution"
+  },
+  "summary_of_core_decisions": "The text presents Nietzsche's genealogy as a critical method that avoids the genetic fallacy by shifting from logical refutation to existential illumination. It distinguishes traditional morality as life-denying from a future morality as life-enhancing, grounds evaluation in will to power and life-enhancement, and resolves the tension between historical explanation and critical force by showing that genealogy operates on presuppositions and lived effects rather than formal consistency.",
+  "thesis_commitment": {
+    "conclusion_type": "philosophical_methodological",
+    "hedging_density_in_final_paragraph": "low_assertive"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "korfmacher-on_the_significance_of_genealogy_in_nietzsches_critique_of_morality_ling-3.0-flash-free.txt"
+}

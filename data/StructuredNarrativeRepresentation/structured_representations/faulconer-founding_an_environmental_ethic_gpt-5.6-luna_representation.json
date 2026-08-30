@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical reconstruction and qualified defense",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate: key premises are stated but some remain implicit (e.g., the additional premise needed to move from aesthetic appreciation to moral obligation)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text engages objections, distinguishes positions, and avoids overclaiming.",
+    "logical_relevance": "High: all sections bear on the central question of whether aesthetic universality can ground environmental obligation.",
+    "premise_acceptability": "Moderate: premises are plausible within a Kantian framework but depend on contested aesthetic and moral claims."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Direct vs. indirect moral duties",
+      "Moral status vs. value",
+      "Inherent value vs. noninstrumental significance",
+      "Subjective caprice vs. reflective judgment",
+      "Aesthetic universality vs. moral universality",
+      "Consequence-based arbitrariness vs. nonarbitrary assessment",
+      "Presumption of preservation vs. absolute duty",
+      "Domination vs. non-domination",
+      "Intrinsic vs. instrumental value (with a third possibility)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Aesthetic judgment: disinterested, universally communicable, reflective rather than determinative",
+      "Moral personality: rational beings capable of self-legislation",
+      "Noninstrumental significance: value not reducible to utility but not equivalent to moral personhood"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Qualified: objections are acknowledged and partially accommodated, but the text does not fully concede their force.",
+    "objections_raised": [
+      "Aesthetic universality is too weak to generate moral obligation",
+      "If nature lacks inherent value, aesthetic value remains anthropocentric",
+      "Aesthetic judgment is indeterminate and culturally variable",
+      "Consequence-based assessment is allegedly arbitrary",
+      "The argument may remain too human-centered"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low to moderate: uses 'may', 'can', 'appears', 'most defensible', 'qualified'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Faulconer"
+    ],
+    "evidence_type": "Conceptual analysis, internal critique, dialectical reasoning, illustrative examples (wetland, valley, forest, disease).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian",
+    "sentiment": "Anti-utilitarian, anti-reductionist, ecologically sympathetic",
+    "thematic_focus": "Environmental ethics, aesthetics, moral obligation, practical reason"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned dialectical essay with progressive refinement and qualification"
+  },
+  "summary_of_core_decisions": "The text reconstructs Faulconer's argument that Kantian aesthetic judgment can provide a noninstrumental, universally communicable basis for environmental obligations. It develops a dialectical tension between nature's lack of inherent moral value and its aesthetic significance, then argues for an intermediate position: nature has noninstrumental significance disclosed through aesthetic experience. Aesthetic universality can correct arbitrary consequentialism but cannot by itself determine environmental policy; it generates a presumption of preservation that must be mediated by Kantian moral principles, practical reasoning, and public justification.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "High: 'significant but limited', 'necessary corrective rather than complete substitute', 'does not fully solve'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "faulconer-founding_an_environmental_ethic_gpt-5.6-luna.txt"
+}

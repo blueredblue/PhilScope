@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis: thesis (Hempel's syntactic confirmation) \u2192 antithesis (realist-intuitionist critique) \u2192 counter-antithesis (deflationary defense) \u2192 synthesis (evidential entropy + test severity).",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High: formal notation and named principles (Nicod's Criterion, Equivalence Condition, Bayes' Theorem) are explicitly stated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: both sides are given strong formal and intuitive support before being critiqued.",
+    "logical_relevance": "Strong: all major moves bear directly on the paradox and its proposed resolutions.",
+    "premise_acceptability": "Moderate: relies on contested notions (natural kinds, projectibility, evidential entropy) but defends them."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Syntactic vs. semantic confirmation",
+      "Extensional vs. intensional logic",
+      "Formal confirmation vs. empirical support",
+      "Logical equivalence vs. causal relevance",
+      "Zero confirmation vs. negligible confirmation",
+      "Pragmatic inefficiency vs. logical failure"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Nicod's Criterion",
+      "Equivalence Condition",
+      "Evidential Entropy",
+      "Test Severity"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Each camp's central objection is presented and then partially accepted, partially rejected in the synthesis.",
+    "objections_raised": [
+      "White shoe confirmation is absurd",
+      "Material implication makes all non-ravens confirm",
+      "Equivalence Condition should be rejected",
+      "Paradox is merely psychological bias"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'profoundly wrong', 'inescapable', 'must', but also 'partially right'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hempel",
+      "Goodman",
+      "Popper",
+      "Good",
+      "Carnap"
+    ],
+    "evidence_type": "Formal derivation, Bayesian probability, thought experiments (Good's sealed room, Goodman's grue), conceptual analysis.",
+    "named_thought_experiments": [
+      "Good's sealed room with 100 objects",
+      "Goodman's grue paradox"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of science; formal logic; Bayesian epistemology; information theory.",
+    "sentiment": "Critical of pure syntacticism; sympathetic to natural-kind realism and Popperian severity.",
+    "thematic_focus": "Confirmation theory, induction, natural kinds, causal relevance, scientific methodology."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned essay with numbered parts and a conclusion; each part has a clear dialectical function."
+  },
+  "summary_of_core_decisions": "The essay ultimately rejects both pure syntactic confirmation and pure psychological deflationism, arguing that the paradox is a category mistake: formal logic alone cannot capture empirical confirmation, which requires causal relevance, natural kinds, and test severity.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic and qualified",
+    "hedging_density_in_final_paragraph": "High: 'neither, strictly speaking', 'partially right', 'not merely', 'only if'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ernst-hempels_raven_gemini-3.5-flash-lite.txt"
+}

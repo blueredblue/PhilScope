@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical and recursive",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Technology vs. essence of technology",
+      "Ontic vs. ontological",
+      "Instrumental vs. metaphysical",
+      "Revealing vs. concealing",
+      "World vs. earth",
+      "Danger vs. saving power",
+      "Mastery vs. receptive attendance"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Enframing",
+      "Standing-reserve",
+      "Will to power",
+      "Aletheia",
+      "Clearing",
+      "Shepherd of Being"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Implicit",
+    "objections_raised": [
+      "Art as a tool of resistance would itself become standing-reserve",
+      "Saving power cannot abolish technology"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Heidegger",
+      "Gerald Bruns"
+    ],
+    "evidence_type": "Conceptual interpretation",
+    "named_thought_experiments": [
+      "Van Gogh's painting of peasant shoes"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental",
+    "sentiment": "Anti-instrumentalist",
+    "thematic_focus": "Ontology and aesthetics"
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "Recursive dialectical progression"
+  },
+  "summary_of_core_decisions": "The text is a dialectical, recursive argument that moves from technology as Enframing (danger) to art as saving power (restoration). It grounds itself in Heideggerian ontology, uses Bruns to emphasize art's otherness, and concludes that restoration is an ongoing precarious task within the technological age.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative",
+    "hedging_density_in_final_paragraph": "Moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "metcalf-art_and_the_saving_power_ling-3.0-flash-free.txt"
+}

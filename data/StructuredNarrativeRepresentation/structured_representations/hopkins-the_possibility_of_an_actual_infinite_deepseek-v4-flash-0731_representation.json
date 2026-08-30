@@ -1,0 +1,80 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "reductio_ad_absurdum_rebuttal",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "potential_infinite_vs_actual_infinite",
+      "mathematical_consistency_vs_metaphysical_possibility",
+      "finite_arithmetic_vs_transfinite_arithmetic",
+      "cardinal_equality_vs_compositional_identity",
+      "A_theory_vs_B_theory_of_time",
+      "discrete_time_vs_continuous_time",
+      "classical_theism_vs_LDS_eternalism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "potential_infinite",
+      "actual_infinite",
+      "Dedekind_infinite",
+      "cardinality",
+      "A_theory",
+      "B_theory"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "systematic",
+    "objections_raised": [
+      "finite_intuition_does_not_entail_metaphysical_impossibility",
+      "transfinite_arithmetic_is_well_defined",
+      "successive_addition_assumes_A_theory",
+      "physical_manipulation_objections_are_anthropomorphic",
+      "classical_theist_metaphysics_is_not_shared"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Cantorian_set_theory",
+      "LDS_scripture",
+      "Joseph_Smith",
+      "Moses_1:3",
+      "D&C_93:29"
+    ],
+    "evidence_type": "conceptual_analysis",
+    "named_thought_experiments": [
+      "Hilbert's_Hotel",
+      "infinite_library",
+      "successive_addition"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic_metaphysics",
+    "sentiment": "defends_LDS_eternalism",
+    "thematic_focus": "philosophy_of_religion"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem_solution_rebuttal"
+  },
+  "summary_of_core_decisions": "The text systematically dismantles Craig's arguments against the actual infinite by showing that they rest on category errors, finite intuitions, and a contested A-theory of time. It then argues that LDS eternalism, with its eternal matter and God's eternal now, is coherent and can accommodate the actual infinite.",
+  "thesis_commitment": {
+    "conclusion_type": "defense_of_LDS_eternalism",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hopkins-the_possibility_of_an_actual_infinite_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against Strong AI: if Strong AI were true, computational syntax would suffice for semantics; but syntax cannot suffice for semantics; therefore Strong AI is false.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly implicit; reconstructed from thought experiments and conceptual contrasts rather than formalized premises."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with major opposing positions (functionalism, embodied AI, abstract-concept mastery) and attempts to rebut them.",
+    "logical_relevance": "High: all thought experiments and distinctions bear directly on the syntax/semantics and qualia/function debates.",
+    "premise_acceptability": "Moderate: relies on intuition pumps and phenomenal premises that are philosophically contested; not empirically established."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Syntax vs semantics",
+      "Functional organization vs qualitative experience",
+      "Structural isomorphism vs phenomenal grounding",
+      "Instrumental mastery vs genuine understanding",
+      "Biological naturalism vs functionalist computationalism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Computationalism: mental states are functional states defined by causal relations",
+      "Qualia: qualitative, phenomenal, first-person character of experience",
+      "Multiple realizability: same mental state can be implemented in different physical systems",
+      "Biological naturalism: consciousness is an emergent property of brains, causally sufficient and necessary"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly considers and attempts to rebut the Robot Reply, functionalist multiple realizability, and the abstract-concept objection.",
+    "objections_raised": [
+      "Robot Reply: adding sensory-motor transduction gives semantics",
+      "Functionalism: multiple realizability allows silicon minds",
+      "Abstract concepts: AI can master neutral evolution without qualia"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses terms like 'fatal stumbling block', 'metaphysically impossible', 'remains unbridgeable'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Searle",
+      "Ned Block",
+      "Thomas Nagel",
+      "David Chalmers",
+      "Motoo Kimura"
+    ],
+    "evidence_type": "Thought experiments, conceptual analysis, phenomenological reflection, analogical reasoning; no empirical data.",
+    "named_thought_experiments": [
+      "Chinese Room",
+      "Robot Reply",
+      "Chinese Nation",
+      "Simulated rainstorm",
+      "Philosophical zombie"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenal/qualia-based grounding of semantics; anti-functionalist, anti-computationalist.",
+    "sentiment": "Sympathetic to biological naturalism, though critical of its explanatory burden; strongly opposed to Strong AI.",
+    "thematic_focus": "Qualia, semantic grounding, artificial intelligence, consciousness, abstract concept understanding"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Progressive escalation: from simple perceptual concepts to abstract scientific concepts; from Chinese Room to embodied variants; from functionalism to Chinese Nation; from concrete qualia to neutral evolution."
+  },
+  "summary_of_core_decisions": "The essay argues that computational systems cannot achieve human-level understanding because they lack qualia. It defends this by showing that semantic grounding requires phenomenal experience, that functional organization alone cannot produce qualia, and that even abstract scientific concepts are ultimately anchored in embodied qualitative life. Strong AI remains a syntactic simulation, not genuine understanding.",
+  "thesis_commitment": {
+    "conclusion_type": "Metaphysical impossibility claim about Strong AI under current assumptions.",
+    "hedging_density_in_final_paragraph": "Moderate: allows that a new metaphysics of mind might bridge the gap, but asserts current computationalism cannot."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mitchell-chinese_room_gemini-3.5-flash-lite.txt"
+}

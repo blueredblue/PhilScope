@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a dialectical defense of a conditional thesis: if evidence underdetermines acceptance thresholds and error costs vary, then individual rational divergence is permissible; if collective rationality is procedural rather than unanimitarian, then such divergence is compatible with scientific objectivity.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate: premises are stated in prose, often as distinctions or objections, rather than formal numbered premises."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text engages multiple objections and qualifies the thesis to avoid relativism and motivated cognition.",
+    "logical_relevance": "High: each section advances the central tension between individual judgment and collective objectivity.",
+    "premise_acceptability": "High for target audience: relies on widely accepted underdetermination, inductive risk, and fallibilism."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "belief vs acceptance",
+      "epistemic rationality vs decision rationality",
+      "evidence-support question vs action-threshold question",
+      "individual vs communicative vs collective norms",
+      "convergence in conclusions vs convergence in procedures",
+      "epistemic values vs ethical/social values"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "epistemic risk",
+      "inductive risk",
+      "critical objectivity",
+      "organized fallibility"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text treats objections as misunderstandings or as supporting the need for transparency and institutional safeguards.",
+    "objections_raised": [
+      "relativism",
+      "hidden values",
+      "institutional capture",
+      "demand for convergence",
+      "moralization of scientific roles"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses 'may', 'can', 'often', 'appears', 'suggests'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "James",
+      "Rudner",
+      "Douglas"
+    ],
+    "evidence_type": "Conceptual analysis, hypothetical examples, and philosophical distinctions.",
+    "named_thought_experiments": [
+      "vaccine scientist A vs B",
+      "publication vs regulation threshold"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatist and fallibilist, with a procedural account of objectivity.",
+    "sentiment": "Anti-relativist but pluralist about rational disagreement.",
+    "thematic_focus": "Individual epistemic responsibility, collective scientific rationality, inductive risk, value-laden thresholds."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem\u2013thesis\u2013objections\u2013resolution\u2013implications, with each section building on the previous distinction."
+  },
+  "summary_of_core_decisions": "The text resolves the tension between individual judgment and collective objectivity by distinguishing belief rationality from decision rationality, and by reconceiving collective rationality as procedural management of disagreement rather than unanimity.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative thesis",
+    "hedging_density_in_final_paragraph": "Moderate: the conclusion affirms a division of epistemic labor while emphasizing constraints of evidence and criticism."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "science-and-rationality-for-one-and-all_gpt-5.6-luna.txt"
+}

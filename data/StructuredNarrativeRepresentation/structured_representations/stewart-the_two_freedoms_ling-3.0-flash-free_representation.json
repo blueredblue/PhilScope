@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical exposition and defense of Kant's aesthetic theory, structured as a problem-solution narrative with critical evaluation.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in interpretive claims and Kantian terminology rather than formalized steps."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text acknowledges objections and engages with counterarguments, especially in the critical evaluation section.",
+    "logical_relevance": "High: all sections directly address the central paradox and its resolution.",
+    "premise_acceptability": "Moderate: relies on Kantian framework; some premises (e.g., common sense, law of harmony) are contested."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Subjective universality vs. objective universality",
+      "Disinterested pleasure vs. interested satisfaction",
+      "Purposiveness without purpose vs. determinate purpose",
+      "Free play vs. determinate cognition",
+      "Freedom from conceptual determination vs. lawfulness of inter-faculty harmony",
+      "Beauty as symbol vs. direct sensible representation of moral ideas",
+      "Aesthetic harmony vs. moral autonomy"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Free play (freies Spiel)",
+      "Purposiveness without purpose (Zweckm\u00e4\u00dfigkeit ohne Zweck)",
+      "Symbol (Symbol)",
+      "Common sense (sensus communis)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates objections regarding universal validity, the indeterminacy of the law of harmony, and the moral symbolism of beauty, and responds by appealing to structural features of aesthetic experience.",
+    "objections_raised": [
+      "The ground of universal validity (common sense) is question-begging or insufficient.",
+      "The 'law' of harmony is indeterminate and cannot specify what is beautiful.",
+      "The moral symbolism of beauty is overly rationalistic and may not hold in all cases.",
+      "The resolution may merely redescribe rather than genuinely dissolve the contradiction."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'I believe,' 'it is difficult to see,' 'may not fully escape' alongside assertive claims.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant's Critique of Judgment",
+      "Kant's \u00a759 on beauty as symbol of morality"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological description, structural analogy, and internal critique of Kant's framework.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental-critical: examines the conditions of possibility for aesthetic judgment and its relation to morality.",
+    "sentiment": "Sympathetic but critical: defends Kant's core insight while acknowledging unresolved difficulties.",
+    "thematic_focus": "Aesthetics, moral philosophy, philosophy of mind, and the unity of human experience."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with critical evaluation: introduction of paradox, analysis of four moments, resolution through free play, extension to morality, critical assessment, conclusion."
+  },
+  "summary_of_core_decisions": "The text identifies the central paradox of aesthetic judgment (subjective yet universal, free yet lawful) and argues that Kant resolves it by locating freedom at the level of conceptual determination and lawfulness at the level of inter-faculty harmony. This harmony grounds aesthetic pleasure, explains beauty's symbolic relation to morality, and serves as the engine of Kant's theory, though it remains vulnerable to objections about the indeterminacy of the law and the grounding of universal validity.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive and evaluative: argues for a specific reading of Kant's resolution and assesses its philosophical viability.",
+    "hedging_density_in_final_paragraph": "Moderate: acknowledges incompleteness and open questions while affirming the account's profundity."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "stewart-the_two_freedoms_ling-3.0-flash-free.txt"
+}

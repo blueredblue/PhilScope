@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Defense of exclusionary approach to Liar paradox via redefinition of Kirkham's criteria and critique of formal-system presupposition",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate: premises are stated but often embedded in analogical reasoning and reinterpretation of criteria"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with objections, distinguishes benign vs vicious self-reference, addresses revenge paradoxes",
+    "logical_relevance": "High: all arguments directly support the exclusionary conclusion",
+    "premise_acceptability": "Moderate: relies on contested analogies and a non-totalizing view of natural language"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Truth-bearer vs grammatically well-formed string",
+      "Benign self-reference vs vicious truth-theoretic circularity",
+      "Bivalence for propositions vs bivalence for all strings",
+      "Natural language as organic vs formal axiomatic system",
+      "Semantic pathology vs ordinary falsehood"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Semantic pathology: a string that violates grounding requirements and fails to express a proposition",
+      "Principle of Non-Circular Grounding: meaningful language requires non-circular reference or compositional derivation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses overkill, revenge paradoxes, ad hocness, and abandonment of bivalence",
+    "objections_raised": [
+      "Exclusionary approach may be overbroad and ban benign self-reference",
+      "Denying truth values abandons bivalence",
+      "Exclusion appears ad hoc without a grand theory",
+      "Strengthened Liar regenerates paradox"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'can be robustly defended', 'succeeds precisely because', 'is not a puzzle'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Tarski",
+      "Kripke",
+      "Kirkham"
+    ],
+    "evidence_type": "Conceptual analysis, analogical reasoning, criteria-based evaluation, meta-philosophical critique",
+    "named_thought_experiments": [
+      "Strengthened Liar (S)",
+      "Benign self-referential sentences M1 and M2"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language and logic",
+    "sentiment": "Anti-formalist, naturalistic about language, pluralist about semantic norms",
+    "thematic_focus": "Liar paradox, truth, semantic pathology, formal semantics, natural language limits"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction, four parts, conclusion; each part has a distinct dialectical function"
+  },
+  "summary_of_core_decisions": "The essay classifies the Liar as a semantic pathology, defends exclusion from truth-value status, reinterprets Kirkham's criteria, and rejects the demand for a totalizing formal semantics of natural language.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and descriptive: the Liar is not a proposition; exclusionary approach is the correct response",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is assertive and metaphorical"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "wilson-the_pathological_liar_gemini-3.5-flash-lite.txt"
+}

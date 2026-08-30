@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a cumulative, revisionist argument that moves from a practical necessity to a metaphysical conclusion. It repeatedly uses the rhetorical pattern 'not merely X, but Y' to elevate ethics from an appendix to a foundation.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "The premises are explicitly stated and supported by textual citations from Descartes (AT references), especially the Fourth Meditation, the Discourse, and the correspondence with Elisabeth."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text engages with the orthodox intellectualist reading of Descartes and offers a sustained counter-reading. It does not caricature the opposing view but acknowledges its existence and then subverts it through textual evidence.",
+    "logical_relevance": "All arguments are directly relevant to the thesis that ethics is prior to philosophy and that the ego is a morally-acting substance.",
+    "premise_acceptability": "The premises are plausible within a Cartesian framework, though some are interpretive rather than uncontroversial. The text relies on a volitional reading of the cogito and the Fourth Meditation that is defensible but not universally accepted."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Provisional morality vs. definitive metaphysics",
+      "Practical necessity vs. constitutive condition",
+      "Finite intellect vs. infinite will",
+      "Epistemic virtue vs. moral duty",
+      "Passive contemplation vs. active volition",
+      "Intellectualist ego vs. morally-acting substance"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "The will as the faculty of assent/dissent, affirmation/denial, pursuit/avoidance",
+      "Virtue as the firm and resolute disposition to do what one judges best",
+      "Generosity as the key to all virtues, a firm resolution to use free will well",
+      "Error as the misuse of free will when the will outstrips the intellect"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that the res cogitans is purely epistemological and responds by showing that volition is included in thought and that the will's infinity makes the ego fundamentally moral.",
+    "objections_raised": [
+      "Orthodox Cartesian scholarship insists that the res cogitans is a purely epistemological category",
+      "The provisional morality is often dismissed as a mere heuristic or political safety valve"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses strong assertive language: 'proves', 'reveals', 'is', 'must', 'cannot', 'fundamentally'. It does not hedge its central thesis.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Descartes's own texts (AT references)",
+      "The correspondence with Princess Elisabeth",
+      "The Passions of the Soul"
+    ],
+    "evidence_type": "Textual evidence, conceptual analysis, and reinterpretation of key Cartesian passages",
+    "named_thought_experiments": [
+      "The forestry traveler analogy",
+      "The malicious demon hypothesis"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The argument is grounded in a close reading of Descartes's texts and a conceptual reconstruction of his moral psychology.",
+    "sentiment": "The text is sympathetic to a revisionist, ethical-volitional interpretation of Descartes, opposing a purely rationalist or intellectualist reading.",
+    "thematic_focus": "Ethics, epistemology, metaphysics of the self, philosophy of action, and philosophical method"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The essay is divided into an introduction, five numbered parts, and a conclusion. Each part builds on the previous one, moving from the provisional morality to the cogito, then to the fourth maxim, then to the Fourth Meditation, and finally to the ontological conclusion about the res cogitans."
+  },
+  "summary_of_core_decisions": "The text makes a series of interpretive decisions: (1) reading the provisional morality as constitutive rather than pragmatic; (2) reading the cogito as an act of will rather than pure intellection; (3) reading the fourth maxim as a moral imperative rather than an epistemic preference; (4) reading the Fourth Meditation's will/intellect asymmetry as the ontological ground of moral agency; (5) concluding that the Cartesian ego is fundamentally a morally-acting substance.",
+  "thesis_commitment": {
+    "conclusion_type": "The conclusion is a strong metaphysical and ethical claim: the Cartesian ego is fundamentally a morally-acting substance, and ethics is structurally prior to philosophy.",
+    "hedging_density_in_final_paragraph": "No hedging; the final paragraph is declarative and emphatic."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "pugh-philosophy_and_ethics_in_descartes_gemini-3.5-flash-lite.txt"
+}

@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical_conceptual_analysis",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "highly_explicit"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "subjective_vs_objective",
+      "guilt_vs_regret_vs_moral_residue",
+      "strict_vs_imperfect_duties",
+      "responsibility_vs_culpability",
+      "conscience_as_summons_vs_conscience_as_verdict",
+      "epistemic_circumstances_vs_hindsight",
+      "autonomy_vs_heteronomy",
+      "grounding_vs_postulate"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "conscience",
+      "categorical_imperative",
+      "moral_remainder",
+      "guilt_proper",
+      "regret",
+      "tragic_remorse",
+      "maxim",
+      "postulate_of_practical_reason"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "systematic",
+    "objections_raised": [
+      "self_condemnation_is_pointless_contradiction",
+      "conscience_cannot_be_ignored_but_may_be_fallible",
+      "accountability_requires_god",
+      "divine_judgment_cannot_make_impossible_duty_possible",
+      "kantian_formalism_underdescribes_tragic_conflicts"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "kant"
+    ],
+    "evidence_type": "conceptual_analysis_and_hypothetical_case",
+    "named_thought_experiments": [
+      "willie_case"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "kantian_deontology",
+    "sentiment": "rationalist",
+    "thematic_focus": "conscience_moral_remainder_tragic_choice"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sections_with_progressive_argument"
+  },
+  "summary_of_core_decisions": "The text defends a Kantian account of conscience as an inner tribunal of practical reason. It argues that conscience is subjective in operation but objective in norm, and that the Willie case shows conscience rightly condemns only unjustifiable maxims, not unavoidable failure. It introduces moral remainder as distinct from guilt, and argues that God is not needed to ground accountability but may be postulated as a condition of hope for the highest good.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_defense",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ward-conscience_in_kantian_ethics_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical critique with transcendental/hermeneutic analysis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate to high within continental/hermeneutic tradition; contested by naturalists"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "designative vs expressive language",
+      "mechanism vs constitutive meaning",
+      "third-personal vs first-personal/hermeneutic",
+      "distal origins vs constitutive nature",
+      "transformation vs undermining",
+      "eliminativism vs compatibilism vs critical pluralism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "designative-instrumentalist view of language",
+      "expressivist view of language",
+      "import-ascriptions",
+      "strong evaluation",
+      "performative contradiction",
+      "category error",
+      "critical pluralism"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "considers and rejects eliminativism and dual-levelism; uses performative contradiction and category error diagnosis",
+    "objections_raised": [
+      "eliminativism fails because the illusion is itself a datum",
+      "dual-levelism fails because EP makes an identity claim, not a level distinction"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "high",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Charles Taylor"
+    ],
+    "evidence_type": "conceptual analysis, transcendental argument, analogical reasoning, performative contradiction",
+    "named_thought_experiments": [
+      "mother's love",
+      "symphony reduced to sound waves"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "hermeneutic/continental, expressivist, anti-naturalist",
+    "sentiment": "critical of evolutionary psychology's imperialistic claims",
+    "thematic_focus": "philosophy of emotion, philosophy of language, philosophy of mind, philosophy of biology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical: thesis-antithesis-resolution with preliminary exposition and application"
+  },
+  "summary_of_core_decisions": "The text argues that evolutionary psychology's reductive translation of emotions into gene-language is not neutral but destructive. Because emotions are constituted by subject-referring import-ascriptions and linguistic self-understanding, EP's designative-instrumentalist translation commits a category error. The correct resolution is not eliminativism or dual-levelism but critical pluralism: EP can explain distal evolutionary origins and mechanisms, but not the constitutive, first-personal meaning of emotional life.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified normative demarcation",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mathys-emotional_problems_of_evolutionary_psychology_deepseek-v4-flash-0731.txt"
+}

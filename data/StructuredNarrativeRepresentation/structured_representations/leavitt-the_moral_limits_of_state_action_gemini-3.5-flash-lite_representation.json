@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "medium"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "ethics vs right",
+      "moral duty vs juridical necessity",
+      "poverty vs rights violation",
+      "paternalism vs civil preservation",
+      "redistribution for social engineering vs provision for civil preservation",
+      "united will vs popular majority consent",
+      "absolute dependence vs independence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "right",
+      "external freedom",
+      "civil equality",
+      "independence",
+      "united will"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges and incorporates",
+    "objections_raised": [
+      "rights-based objection",
+      "slippery slope objection",
+      "paternalism objection",
+      "majoritarian consent objection"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "medium",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Rosen"
+    ],
+    "evidence_type": "textual interpretation",
+    "named_thought_experiments": [
+      "Kantian veil of ignorance"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian",
+    "sentiment": "analytic",
+    "thematic_focus": "political philosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical"
+  },
+  "summary_of_core_decisions": "The text resolves the dilemma by distinguishing between moral and juridical duties, arguing that the state has no moral duty of beneficence but has a juridical necessity to preserve the civil union and prevent absolute dependence, thereby permitting coercive welfare only when structured to secure independence and justified by the united will.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "leavitt-the_moral_limits_of_state_action_gemini-3.5-flash-lite.txt"
+}

@@ -1,0 +1,84 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative problem-driven analysis: identify a metaphysical problem, present Plato's solution, expose its explanatory gaps, develop Aristotle's alternative through successive distinctions, then adjudicate by explanatory adequacy.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate: premises are embedded in comparative descriptions rather than formalized; key premises include: (1) change requires an enduring subject; (2) Plato's Forms are too external to serve as that subject; (3) Aristotle's primary substance can receive contrary accidents; (4) potentiality/actuality explains transition; (5) classification of opposites dissolves apparent contradictions."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text grants Plato's strengths and Aristotle's unresolved burdens; it does not claim total refutation.",
+    "logical_relevance": "Strong: each distinction is tied to the central question of how a particular remains numerically one while changing between opposite states.",
+    "premise_acceptability": "Moderate: relies on Aristotelian metaphysical commitments (substance, accident, potentiality) that are not independently defended; acceptable within the comparative frame."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Primary substance vs. accident",
+      "Said of a subject vs. present in a subject",
+      "Universal vs. particular",
+      "Contraries vs. contradictories vs. relatives vs. privation/possession",
+      "Potentiality vs. actuality",
+      "Accidental change vs. substantial change",
+      "Immanent form vs. transcendent Form",
+      "Stability of an explanatory standard vs. persistence of the changing subject"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Primary substance: individual thing not said of a subject nor present in a subject",
+      "Accident: quality present in a subject and dependent on it",
+      "Contraries: opposed qualities in a shared field, cannot coexist simultaneously in same respect but can succeed",
+      "Contradictories: affirmation and negation, cannot both be true or false",
+      "Privation: absence of a capacity in a subject naturally fitted for it",
+      "Potentiality: determinate capacity of a subject to become F",
+      "Actuality: realization of that capacity"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text anticipates objections to Aristotle: potentiality may be a placeholder; matter may be indeterminate; universals remain problematic; Categories incomplete. It responds by appealing to nature, hylomorphism, and broader Aristotelian framework, but concedes residual difficulties.",
+    "objections_raised": [
+      "Participation is ambiguous: literal presence divides the Form; resemblance requires another Form.",
+      "Forms as causes lack efficient causal efficacy.",
+      "Plato leaves the changing particular's substratum unexplained.",
+      "Aristotle's potentiality may merely rename the problem.",
+      "Pure potentiality seems too indeterminate; determinate matter raises form-matter relation issues.",
+      "Immanent universals still require explanation of common natures."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'more cogent', 'clearly more cogent', 'does not eliminate', 'may appear obscure'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Phaedo",
+      "Aristotle's Categories",
+      "Aristotle's Physics",
+      "Aristotle's Metaphysics"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, examples (Simmias, Callias, growing organism, hot/cold, sight/blindness, sitting/standing), comparative evaluation of explanatory power.",
+    "named_thought_experiments": [
+      "Simmias taller than Socrates and shorter than Phaedo",
+      "Callias growing taller",
+      "Same body hot then cold",
+      "Child potentially adult",
+      "Bronze potentially statue"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Ontological realism: substances, accidents, potentialities, and actualities are real features of things; Forms are rejected as separate entities.",
+    "sentiment": "Analytic and systematic: prioritizes precise distinctions and explanatory mechanics over dramatic metaphysical imagery.",
+    "thematic_focus": "Metaphysics of change, predication, identity, opposition, substance, causality."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Comparative dialectic: problem \u2192 Platonic thesis and difficulties \u2192 Aristotelian alternative (substance/accident, classification of opposites, potentiality/actuality, substratum) \u2192 comparative assessment \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text's central decision is to treat the problem of change as a problem of predication and persistence, then to argue that Aristotle's layered ontology\u2014primary substance, accidents, classification of opposites, potentiality/actuality, matter/form\u2014provides a more cogent explanation than Plato's Forms and participation. It preserves Plato's insight that stable intelligibility is needed, but relocates persistence within the changing particular and differentiates kinds of opposition and change.",
+  "thesis_commitment": {
+    "conclusion_type": "Comparative adjudication",
+    "hedging_density_in_final_paragraph": "Low: final paragraph states Aristotle's decisive advantage clearly, while acknowledging residual burdens."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "cranney-opposites_in_plato_and_aristotle_gpt-5.6-luna.txt"
+}

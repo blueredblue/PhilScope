@@ -1,0 +1,84 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against reductive functionalism: If functionalism were reductive, it would entail qualia; it does not; therefore it is not reductive. Extended by a trilemma against standard physicalism.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "High; premises are stated as claims about relational vs intrinsic properties, conceptual entailment, and modal conceivability."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong; engages with major functionalist and physicalist counterarguments.",
+    "logical_relevance": "High; all arguments directly target the explanatory and ontological gap.",
+    "premise_acceptability": "Moderate; relies on controversial modal intuitions and the intrinsic/relational distinction."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Relational vs intrinsic properties",
+      "Epistemic vs metaphysical identity",
+      "Functional role vs qualitative character",
+      "Appearance vs reality",
+      "Type-A vs Type-B physicalism",
+      "Structural vs categorical nature of matter"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Qualia: qualitative, felt character of experience",
+      "Functionalism: mental states defined by causal roles",
+      "Multiple realizability: same mental state realized by different physical substrates",
+      "Explanatory gap: lack of intelligible bridge between physical/functional facts and phenomenal facts",
+      "Russellian monism: physics captures relational structure; intrinsic nature is proto-phenomenal"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic; each functionalist response is followed by a targeted reply.",
+    "objections_raised": [
+      "Representationalism (Tye/Dretske) attempts to reduce qualia to representational content",
+      "Fine-grained functionalism attempts to close the gap by adding micro-functional differences",
+      "Type-B physicalism appeals to a posteriori identity and phenomenal concepts",
+      "Eliminativism denies qualia",
+      "Epiphenomenalist dualism accepts non-physical qualia",
+      "Russellian monism redefines the physical"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'seem', 'appears', 'argue', 'demonstrates'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hilary Putnam",
+      "Jerry Fodor",
+      "Joseph Levine",
+      "Frank Jackson",
+      "David Chalmers",
+      "Brian Loar",
+      "Michael Tye",
+      "Bertrand Russell"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, analogical reasoning, modal arguments, inference to best explanation.",
+    "named_thought_experiments": [
+      "Inverted spectrum",
+      "Zombie argument",
+      "Mary the color scientist",
+      "Heat/mean molecular kinetic energy analogy",
+      "Water/H2O reduction analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological realism about qualia; anti-reductionist about consciousness; open to Russellian monism.",
+    "sentiment": "Critical of standard physicalism but not anti-physicalist outright; sympathetic to reformed monism.",
+    "thematic_focus": "The irreducibility of intrinsic qualitative experience to relational/functional structure."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical; thesis, objections, replies, trilemma, conclusion."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to treat the explanatory gap as a symptom of an ontological mismatch: functionalism captures only relational structure, while qualia are intrinsic. It then forces physicalism into a trilemma, with Russellian monism as the most plausible escape, but one that concedes the original critique.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative about functionalism; conditional about physicalism.",
+    "hedging_density_in_final_paragraph": "Moderate; leaves open whether Russellian monism or pluralism is true."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lee-reductive_explanation_and_qualia_gemini-3.5-flash-lite.txt"
+}

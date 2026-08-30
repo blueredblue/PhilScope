@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Immanent critique with dialectical escalation",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate - premises are stated but often embedded in rhetorical restatement"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments and modifications",
+    "logical_relevance": "High - each point directly addresses the coherence of Hick's hypothesis",
+    "premise_acceptability": "Moderate - relies on contested definitions of 'soteriological' and 'Real'"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Real vs. phenomenal manifestations",
+      "veridical vs. non-veridical experience",
+      "soteriological vs. non-soteriological transformation",
+      "Axial vs. pre-Axial traditions",
+      "monistic unity vs. pluralistic diversity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Real as noumenal transcendent",
+      "soteriological transformation as self-centeredness to Reality-centeredness",
+      "Axial Age as heuristic concept"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Considers two modifications (ethical fruitfulness, expanded Real) and refutes both",
+    "objections_raised": [
+      "Arbitrary exclusion of indigenous traditions",
+      "Hierarchical privileging of Axial religions",
+      "Circularity of soteriological criterion",
+      "Loss of monistic unity if Real is expanded",
+      "Reduction to secular ethics if criterion is ethical fruitfulness"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses terms like 'undeniably', 'profound', 'deepest lesson'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Karl Jaspers (coined Axial Age)"
+    ],
+    "evidence_type": "Conceptual analysis, internal contradiction, comparative examples (Native American, African shamanic)",
+    "named_thought_experiments": [
+      "Expanding the Real to include land, ancestors, spirit world",
+      "Applying ethical fruitfulness as criterion"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of religion with continental critique of Eurocentrism",
+    "sentiment": "Critical but respectful of Hick's ambition",
+    "thematic_focus": "Pluralism, religious epistemology, soteriology, cultural bias"
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "Spiral escalation - each paragraph restates and deepens the previous point, moving from exposition to meta-critique"
+  },
+  "summary_of_core_decisions": "The text systematically dismantles Hick's pluralism by showing that its universalist principle (veridicality of all genuine religious experience) contradicts its particularist criterion (soteriological transformation as defined by Axial traditions). It then evaluates two potential fixes and demonstrates that each fails: ethical fruitfulness reduces the theory to secular ethics, while expanding the Real destroys the monistic unity essential to the hypothesis. The final conclusion is that Hick's framework remains tethered to Western philosophical categories, and a truly universal pluralism would require abandoning those categories altogether.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative critique - Hick's pluralism is internally incoherent and ethnocentric",
+    "hedging_density_in_final_paragraph": "Low - states 'deepest lesson' with certainty"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "rogers-exclusivism_in_hicks_pluralistic_hypothesis_ling-3.0-flash-free.txt"
+}

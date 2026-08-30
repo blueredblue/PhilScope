@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression from problem to resolution, with repeated qualifications and distinctions.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: many premises are implicit but recoverable from context."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with counterarguments and qualifies claims.",
+    "logical_relevance": "High: all sections contribute to the central question of genealogy's evaluative role.",
+    "premise_acceptability": "Moderate: some premises (e.g., life-enhancement as standard) are contestable but defended."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Origin vs. function",
+      "Logical refutation vs. practical diagnosis",
+      "Formal consistency vs. life-enhancement",
+      "Herd morality vs. higher types",
+      "Strength as self-mastery vs. domination",
+      "Genealogy as explanation vs. evaluation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Traditional morality",
+      "Life-enhancement",
+      "Will to power",
+      "Ascending types",
+      "Immanent critique"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges objections (e.g., genetic fallacy, abuse of will to power) and responds by refining the standard.",
+    "objections_raised": [
+      "Genetic fallacy",
+      "Formal inconsistency",
+      "Arbitrariness of life-enhancement",
+      "Potential for domination"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'may', 'can', 'appears', 'seems' frequently.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Nietzsche"
+    ],
+    "evidence_type": "Conceptual analysis, historical narrative, psychological explanation, typological distinctions.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic and perfectionist, but interpretive rather than reductive.",
+    "sentiment": "Critical of universalism, formal ethics, and moral monism; affirmative of pluralism and rank.",
+    "thematic_focus": "Genealogy, morality, will to power, life-enhancement, immanent critique."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with clear headings and progressive argumentation."
+  },
+  "summary_of_core_decisions": "The text defends Nietzsche's genealogy as a form of immanent critique that avoids the genetic fallacy by focusing on the present relation between values and life, using life-enhancement as a comparative standard.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "Moderate: acknowledges limits and risks while affirming the core argument."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "korfmacher-on_the_significance_of_genealogy_in_nietzsches_critique_of_morality_gpt-5.6-luna.txt"
+}

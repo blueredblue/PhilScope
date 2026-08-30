@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical_conceptual_analysis",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "moderate_high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "vulgar_self_love_vs_virtuous_self_love",
+      "genetic_self_reference_vs_reductive_self_reference",
+      "motive_vs_consequence",
+      "instrumental_vs_constitutive_relation",
+      "partial_vs_impartial_concern",
+      "self_seeking_as_means_vs_self_related_benefit"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "self_referential_altruism",
+      "another_self",
+      "virtue_friendship",
+      "good_self_love"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "partially_accepts_and_redefines",
+    "objections_raised": [
+      "friend_as_another_self_reduces_other_to_projection",
+      "self_referential_altruism_is_covert_egoism",
+      "sacrifice_serves_deeper_self_interest",
+      "partiality_undermines_universal_concern",
+      "overidentification_and_paternalism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Nicomachean_Ethics"
+    ],
+    "evidence_type": "conceptual_analysis_and_textual_interpretation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "virtue_ethics_and_eudaimonism",
+    "sentiment": "non_sentimentalist",
+    "thematic_focus": "friendship_altruism_self_love_partiality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sectioned_dialectical_progression"
+  },
+  "summary_of_core_decisions": "The text defends a precise interpretation of Aristotle's friendship as 'self-referential altruism': friendship is grounded in proper self-love and the friend is 'another self', yet the friend is genuinely loved for his own sake. It rejects both pure egoism and pure altruism, accepts partiality as morally significant, and acknowledges the theory's limits regarding universal concern.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_interpretive_claim",
+    "hedging_density_in_final_paragraph": "moderate_high"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "west-self_referential_altruism_gpt-5.6-luna.txt"
+}

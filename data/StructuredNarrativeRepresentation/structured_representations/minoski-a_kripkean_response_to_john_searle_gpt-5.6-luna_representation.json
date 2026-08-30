@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical engagement with objections, using distinctions and thought experiments to defend a causal-historical theory of reference against descriptivist challenges.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often implicit in examples and distinctions, but key claims are stated directly."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: The text fairly presents both descriptivism and Kripke's alternative, and engages with Searle's objections in a nuanced way.",
+    "logical_relevance": "All points are directly relevant to the question of whether baptism requires descriptive content.",
+    "premise_acceptability": "The premises rely on widely accepted intuitions about naming practices and thought experiments, though some are contestable."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Descriptivism vs causal-historical theory",
+      "Rigid vs non-rigid designators",
+      "Descriptive content vs pragmatic role of demonstratives",
+      "Epistemic uniqueness vs metaphysical uniqueness",
+      "Three senses of 'identify' (unique description, unique selection in context, causal encounter without re-identification)",
+      "De re vs de dicto intentions (implied)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Rigid designator: designates the same object in every possible world in which it exists.",
+      "Baptism: initial naming event that can involve demonstration, description, or causal contact."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text anticipates and responds to several objections: (1) baptism requires descriptive content, (2) demonstratives have descriptive content, (3) uniqueness is needed, (4) intentions must have an object. Each is addressed with distinctions or counterexamples.",
+    "objections_raised": [
+      "Searle: baptism must be guided by identifying intention, so descriptive content is necessary.",
+      "Searle: demonstrative 'this object' has descriptive content.",
+      "Searle: baptism must uniquely identify one object.",
+      "Searle: intention must have an object, so a descriptive intention is required."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'may seem', 'can be', 'seems', but also asserts conclusions confidently.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kripke",
+      "Searle",
+      "Frege",
+      "Russell"
+    ],
+    "evidence_type": "Thought experiments, conceptual distinctions, and analysis of ordinary naming practices.",
+    "named_thought_experiments": [
+      "Naming a child (Lydia) while unable to distinguish from twin",
+      "Pointing to one of two objects",
+      "Naming a mountain seen briefly from a train"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, philosophy of language, reference theory.",
+    "sentiment": "Defends a causal-historical theory of reference against descriptivist objections, but acknowledges the role of descriptions in fixing reference in some cases.",
+    "thematic_focus": "Proper names, reference, rigid designation, baptism, causal chains, descriptive content."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with introduction and numbered sections (I-IV). The text is incomplete, ending mid-sentence in section IV."
+  },
+  "summary_of_core_decisions": "The essay argues that Kripke's theory is not fundamentally descriptivist. It presents descriptivism, Kripke's alternative, Searle's challenge, and then a detailed response distinguishing three senses of 'identify' and epistemic vs metaphysical uniqueness. The central claim is that baptism does not require uniquely identifying descriptions; demonstrative, causal, and perceptual relations suffice. The text is cut off while discussing de re vs de dicto intentions.",
+  "thesis_commitment": {
+    "conclusion_type": "Defends a positive thesis: Kripke's theory is not descriptivist; Searle's objection fails.",
+    "hedging_density_in_final_paragraph": "Low: The text is assertive, though incomplete."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "minoski-a_kripkean_response_to_john_searle_gpt-5.6-luna.txt"
+}

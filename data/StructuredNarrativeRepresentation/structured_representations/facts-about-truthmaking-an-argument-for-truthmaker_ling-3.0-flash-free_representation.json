@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dilemma-based dialectical analysis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in dialectical scenarios rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with non-necessitarian strategies and grants their initial plausibility",
+    "logical_relevance": "Strong - each section directly advances the dilemma against non-necessitarianism",
+    "premise_acceptability": "Contested - relies on the truthmaker principle applying to higher-order facts and on the necessity of grounding termini"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "First-order vs. higher-order truthmaking facts",
+      "Necessitarian vs. non-necessitarian truthmakers",
+      "Circularity vs. infinite regress vs. brute foundationalism",
+      "Hierarchical grounding vs. coherentist/holistic truthmaking"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Truthmaker principle: every truth requires an entity in reality that makes it true",
+      "Truthmaker necessitarianism: truthmakers must be necessary entities",
+      "Non-necessitarianism: truthmakers may be contingent entities"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic - considers three non-necessitarian responses (brute facts, totality, coherentism) and shows each fails or collapses",
+    "objections_raised": [
+      "Infinite regress of contingent truthmakers",
+      "Circularity when the same contingent entity grounds both first-order and higher-order truths",
+      "Collapse into necessitarianism if necessary truthmakers are introduced for higher-order facts",
+      "Loss of explanatory force if truthmaking is made coherentist"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'plausible', 'seems', 'argue', 'challenge' rather than 'certainly'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "David Armstrong",
+      "Jonathan Schaffer"
+    ],
+    "evidence_type": "Conceptual analysis and dialectical thought experiments",
+    "named_thought_experiments": [
+      "Universal generalization 'All Fs are G'",
+      "Negative existential 'Pegasus does not exist'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical grounding and truthmaking",
+    "sentiment": "Sympathetic to truthmaker necessitarianism, though acknowledges its costs",
+    "thematic_focus": "Higher-order truthmaking, infinite regress, collapse into necessitarianism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical - thesis, opposing view, problem, dilemma, responses, collapse, conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that non-necessitarianism faces a fatal dilemma when truthmaking is applied to higher-order facts: either it introduces necessary truthmakers (collapsing into necessitarianism) or it faces an infinite regress/brute foundations that are structurally equivalent to necessitarian termini. Thus necessitarianism has a dialectical advantage.",
+  "thesis_commitment": {
+    "conclusion_type": "Defends a qualified thesis",
+    "hedging_density_in_final_paragraph": "Moderate - 'most plausible conclusion', 'remains the most coherent and defensible version'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "facts-about-truthmaking-an-argument-for-truthmaker_ling-3.0-flash-free.txt"
+}

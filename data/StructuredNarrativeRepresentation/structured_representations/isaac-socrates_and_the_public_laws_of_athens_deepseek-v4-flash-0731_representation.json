@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reconciliation of apparent contradiction through distinction-making and hierarchical derivation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated as principles and distinctions, with textual citations"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong - anticipates and resolves objections by distinguishing cases",
+    "logical_relevance": "High - all sections directly address the alleged contradiction",
+    "premise_acceptability": "Moderate - relies on contested interpretations of Socratic moral psychology and political theory"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "command vs penalty",
+      "nomos vs kratos (law vs power)",
+      "legitimate law vs illegitimate regime",
+      "doing injustice vs suffering injustice",
+      "divine mandate (positive duty to do just act) vs political obligation (duty to suffer penalty)",
+      "conditional vs unconditional obedience"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "nomos: constitutional, rational, just order of the city",
+      "kratos: power, specifically illegitimate factional rule",
+      "divine mandate: command to pursue wisdom and virtue (philosophy)",
+      "political obligation: duty to obey laws grounded in social contract and non-maleficence"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Uses the Thirty Tyrants anecdote as the central objection and turns it into evidence for the unified framework",
+    "objections_raised": [
+      "If Socrates must obey the laws in the Crito, why did he disobey the Thirty Tyrants?",
+      "If Socrates must obey the god in the Apology, why does he obey the court in the Crito?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses 'must', 'unconditional', 'absolute', 'never', 'no contradiction'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Apology",
+      "Plato's Crito",
+      "Socratic principle 'never commit injustice'"
+    ],
+    "evidence_type": "Textual citation and conceptual analysis",
+    "named_thought_experiments": [
+      "Hypothetical law commanding Socrates to stop philosophizing",
+      "Thirty Tyrants' order to arrest Leon of Salamis"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Deontological - justice as absolute prohibition on injustice",
+    "sentiment": "Rationalist - reason and moral integrity as supreme",
+    "thematic_focus": "Political obligation, civil disobedience, moral integrity, divine command vs legal authority"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with numbered sections and cumulative argumentation"
+  },
+  "summary_of_core_decisions": "The text resolves the apparent contradiction by distinguishing between commands that require unjust action and penalties that only require suffering. Socrates' absolute principle is never to commit injustice; therefore he must disobey unjust commands (Apology, Thirty Tyrants) but obey just penalties (Crito). His commitment is to the nomos, not to any regime, and the divine mandate to philosophize is itself a just activity subordinate to the same principle.",
+  "thesis_commitment": {
+    "conclusion_type": "Reconciliationist",
+    "hedging_density_in_final_paragraph": "Low - final paragraph is assertive and celebratory"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "isaac-socrates_and_the_public_laws_of_athens_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Destructive dilemma with cumulative objection escalation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate \u2014 premises are embedded in the flow of objections rather than formally enumerated"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2014 engages with contextualist responses (e.g., conversational score, salience) and attempts to preempt them",
+    "logical_relevance": "High \u2014 each objection targets a distinct commitment of contextualism (fragility, meta-determination, question-begging)",
+    "premise_acceptability": "Moderate \u2014 relies on intuitions about knowledge's normative force and the skeptic's legitimacy that contextualists would contest"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Descriptive vs. normative adequacy",
+      "Attributor context vs. subject interests",
+      "Truth vs. warranted assertability",
+      "Pragmatics of assertion vs. epistemology of belief",
+      "Contextualism vs. interest-relative invariantism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Contextualism: truth-conditions of 'S knows that p' vary with attributor's conversational context",
+      "Salience: psychological/conversational phenomenon determining which error possibilities are relevant",
+      "Meta-contextual problem: inability to specify non-contextual criteria for determining which context one is in"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Preemptive \u2014 anticipates contextualist replies (conversational score, pragmatic concession) and argues they fail",
+    "objections_raised": [
+      "Ordinary knowledge becomes hostage to conversational whim",
+      "Meta-contextual regress: cannot know the context without already knowing",
+      "Question-begging: assumes ordinary standards are legitimate without argument",
+      "Dilemma: collapses into IRI or indefensible linguistic relativism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High \u2014 uses terms like 'fatal', 'damaging', 'blatant circularity', 'cannot'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Conceptual analysis, thought experiments (philosophy seminar example), internal critique of contextualist commitments",
+    "named_thought_experiments": [
+      "Philosophy seminar scenario (S asked if they know they have hands)",
+      "Bank case (referenced as standard contextualist example)",
+      "Plane/Chicago example (retraction of knowledge claim)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Epistemology (skepticism, knowledge theory) with heavy reliance on linguistic semantics",
+    "sentiment": "Critical/negative \u2014 primarily destructive toward contextualism, not constructive toward an alternative",
+    "thematic_focus": "The normative force of knowledge, the legitimacy of skeptical standards, the relationship between language and epistemology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned with Roman numerals; each section introduces a distinct objection, followed by a synthesis section"
+  },
+  "summary_of_core_decisions": "The text systematically dismantles contextualism through three escalating objections: (1) it makes knowledge fragile and hostage to conversational whim; (2) it faces a meta-contextual regress in determining standards; (3) it begs the question against the skeptic by assuming ordinary standards are legitimate. The synthesis distinguishes descriptive merit from normative failure, concluding contextualism is insightful about language but fails as an epistemological solution.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative \u2014 contextualism fails as a solution to skepticism",
+    "hedging_density_in_final_paragraph": "Low \u2014 the conclusion is stated with confidence ('it is a failure')"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hannon-ascribing_knowledge_in_context_deepseek-v4-flash-0731.txt"
+}

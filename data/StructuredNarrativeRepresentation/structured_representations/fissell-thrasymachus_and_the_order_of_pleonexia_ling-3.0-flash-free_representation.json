@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reconstructive dialectical defense",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate - many premises are embedded in rhetorical restatement rather than formal enumeration"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate - the text anticipates objections and offers distinctions, but relies heavily on definitional stipulation and repeated assertion",
+    "logical_relevance": "High - all major moves bear directly on defending Thrasymachus's coherence",
+    "premise_acceptability": "Low to moderate - the central premise that pleonexia is a normative cosmic order is asserted rather than independently defended"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Descriptive positivism vs normative immoralism",
+      "Aspiring tyrant vs established ruler",
+      "Chaotic pleonexia vs scientific selfishness",
+      "Moral justice (soul) vs political justice (state)",
+      "Microcosm vs macrocosm",
+      "Functional justice vs moralized virtue"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Pleonexia: the insatiable drive to acquire more than one's fair share, to dominate, and to expand power",
+      "Political justice: the institutionalization of the stronger's advantage",
+      "Established ruler: one who possesses techn\u0113/scientific selfishness and cannot err",
+      "Aspiring tyrant: one who commits complete injustice through usurpation but lacks expert knowledge"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates and responds to objections from positivism, confusion, Maguire's inconsistency, and Socratic moral psychology",
+    "objections_raised": [
+      "Thrasymachus is a positivist",
+      "Thrasymachus is confused",
+      "Maguire's inconsistency: rulers can err, so obeying them may harm the stronger",
+      "Socrates's refutation: justice is a virtue and injustice is weakness"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses phrases like 'cannot err', 'by definition', 'internally consistent', 'towering achievement'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Republic",
+      "Maguire's inconsistency charges"
+    ],
+    "evidence_type": "Conceptual analysis, textual interpretation, structural analogy, thought experiments (shepherd metaphor)",
+    "named_thought_experiments": [
+      "Shepherd fattening his flock"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical and normative naturalism: pleonexia is a cosmic force; political justice is a functional mechanism",
+    "sentiment": "Anti-moralist, functionalist, realist about power",
+    "thematic_focus": "Political justice, power, desire, expertise, structural analogy between soul and state"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven dialectical essay with repeated parallel restatements"
+  },
+  "summary_of_core_decisions": "The text reconstructs Thrasymachus as a coherent immoralist by making pleonexia the foundational cosmic and political principle, distinguishing the aspiring tyrant from the established ruler, and separating political justice from moral justice. It resolves Maguire's inconsistency by defining the true strong as infallible and resolves the Socratic conflict by assigning Socrates and Thrasymachus to different domains.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive and normative",
+    "hedging_density_in_final_paragraph": "Low - final paragraph is assertive and celebratory"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "fissell-thrasymachus_and_the_order_of_pleonexia_ling-3.0-flash-free.txt"
+}

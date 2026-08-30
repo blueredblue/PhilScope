@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression with incremental refinement",
+    "num_distinct_arguments_for_thesis": 7,
+    "premise_explicitness": "Moderate - premises often embedded in illustrative examples and restatements"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - consistently engages with counterarguments and qualifications",
+    "logical_relevance": "High - each section directly addresses the central problem of perishing and redemption",
+    "premise_acceptability": "Moderate - relies on Whiteheadian metaphysics which may be contested, but internally coherent"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Subjective resonance vs. objective appraisal",
+      "Secular redemption vs. theological redemption",
+      "Aesthetic integration vs. aesthetic justification",
+      "Preservation vs. transformation",
+      "Physical vs. conceptual prehension",
+      "Hybrid prehension vs. pure physical/conceptual"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Actual occasion",
+      "Concrescence",
+      "Prehension",
+      "Objective immortality",
+      "Hybrid prehension",
+      "Aesthetic emergence",
+      "Ritual",
+      "Poetic insight",
+      "Divine memory"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges limits and dangers (e.g., romanticizing novelty, ritual exclusion, aesthetic compensation for political failure) and qualifies the thesis accordingly",
+    "objections_raised": [
+      "Novelty can be manipulative or destructive",
+      "Ritual can preserve injustice",
+      "Art can substitute for justice",
+      "Objective appraisal can become detached",
+      "Subjective resonance can be self-validating",
+      "Divine memory cannot be empirically verified",
+      "Finite synthesis cannot contain all value"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses qualifiers like 'can', 'may', 'seems', 'offers', 'suggests'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Whitehead"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological description, analogical reasoning, theological reflection",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Process metaphysics (Whiteheadian)",
+    "sentiment": "Qualified optimism - redemption is possible but not guaranteed, and requires ethical responsibility",
+    "thematic_focus": "Temporal perishing, aesthetic value, ritual, poetry, divine memory, redemption"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-antithesis-synthesis with successive refinements; each section restates and extends the previous argument"
+  },
+  "summary_of_core_decisions": "The text argues that aesthetic emergence\u2014the composition of inherited elements into novel patterns of felt significance\u2014provides a model for redeeming temporal perishing without denying temporality. It develops this through a dialectic that moves from Whitehead's account of perishing to the problem of value preservation, then to aesthetic emergence as a solution, and then to further tensions (subjective/objective, secular/theological) and qualifications. The method is conceptual analysis grounded in process metaphysics, using examples from art and ritual to illustrate abstract claims. The conclusion is that redemption is relational and processual, not escape from time, and that it carries ethical obligations.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative thesis",
+    "hedging_density_in_final_paragraph": "High - uses 'may', 'can', 'hope', 'invitation', 'possibility'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hoffart-novelty_ritual_and_redemption_gpt-5.6-luna.txt"
+}

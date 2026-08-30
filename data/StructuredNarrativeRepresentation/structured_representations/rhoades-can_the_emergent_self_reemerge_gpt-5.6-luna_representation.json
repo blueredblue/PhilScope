@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical trilemma analysis",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate - premises are often embedded in prose rather than enumerated, but key conditional claims are stated clearly (e.g., 'If the field ceases, the person ceases')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text presents objections fairly and considers multiple responses before rejecting them",
+    "logical_relevance": "High - each section directly advances the central trilemma analysis",
+    "premise_acceptability": "Moderate - relies on contested metaphysical assumptions about emergence, identity, and divine action"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Emergent dualism vs reductive materialism vs Cartesian dualism",
+      "Continuity vs identity",
+      "Qualitative continuity vs numerical identity",
+      "Synchronic unity vs diachronic identity",
+      "Natural emergence vs divine intervention",
+      "Criterion of identity vs correlated condition",
+      "Field as identical with self vs field as bearer of consciousness"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Criterion of identity: 'specifies what makes an individual at one time the same individual at another time'",
+      "Emergent field: 'an ontologically novel reality, with properties and causal powers that are not reducible to or identical with the properties of the physical base'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic - each horn of the trilemma is presented with its strongest motivation, then subjected to internal critique showing its costs",
+    "objections_raised": [
+      "Brain continuity makes the brain rather than the field the bearer of identity",
+      "Loss of identity implies ordinary resuscitation creates a successor, not the same person",
+      "Divine preservation reintroduces Cartesian interaction problems and makes identity depend on external stipulation"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - the text uses modal qualifiers ('may', 'might', 'appears') and conditional constructions throughout",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Conceptual analysis, thought experiments (cryonic suspension, brain duplication, gradual replacement), ordinary language intuitions about survival",
+    "named_thought_experiments": [
+      "Cryonic suspension and revival",
+      "Brain duplication from one original pattern",
+      "Gradual neuron-by-neuron replacement",
+      "Corpse preservation with later repair"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical - the analysis is conducted at the level of ontology (what constitutes identity, what exists) rather than epistemology or ethics",
+    "sentiment": "Analytic - precise distinctions, conditional reasoning, and systematic trilemma structure",
+    "thematic_focus": "Personal identity, emergent properties, mind-body problem, the metaphysics of persistence through interruption"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution dialectic: exposition of theory \u2192 identification of problem \u2192 formulation of trilemma \u2192 analysis of each horn \u2192 (incomplete) final section"
+  },
+  "summary_of_core_decisions": "The text presents Hasker's emergent dualism as a middle path between materialism and Cartesian dualism, then argues that the theory faces a trilemma when consciousness is interrupted: (1) anchor identity in brain continuity (which demotes the field's role), (2) accept loss of identity across hiatuses (which is radically revisionary), or (3) invoke divine preservation (which reintroduces interaction problems). The text systematically analyzes each option's costs without yet resolving which horn is least damaging, and the final section on determinism is cut off.",
+  "thesis_commitment": {
+    "conclusion_type": "Conditional - the text does not assert a final resolution but analyzes the costs of each option",
+    "hedging_density_in_final_paragraph": "High - the text uses 'may', 'might', 'appears', and 'seems' throughout, especially in the trilemma analysis"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "rhoades-can_the_emergent_self_reemerge_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical progression from an apparent tension between ordinary language intuitions and a formal semantic theory, through a series of distinctions, to a reconciliation that preserves the formal theory while acknowledging the pragmatic significance of the phenomenon.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate: key premises are stated, but some are embedded in examples and distinctions rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text considers objections, distinguishes questions, and avoids overstating the conclusion.",
+    "logical_relevance": "Strong: each section advances the central question of whether Donnellan's distinction is semantic or pragmatic.",
+    "premise_acceptability": "High: premises rely on widely accepted distinctions in philosophy of language, though some are theory-laden."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Referential vs. attributive use of definite descriptions",
+      "Speaker's reference vs. semantic reference",
+      "Semantic content vs. pragmatically conveyed content",
+      "Sentence meaning vs. utterance meaning",
+      "Existence, uniqueness, and predication components of Russellian analysis",
+      "Speaker belief vs. operative communicative intention"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Referential use: using a description to direct attention to a particular individual.",
+      "Attributive use: using a description to speak about whoever satisfies the description.",
+      "Speaker's reference: the individual a speaker intends to pick out on an occasion.",
+      "Semantic reference: the contribution of the expression to the truth conditions of the sentence."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates and replies to objections, especially the intuitive truth of referential utterances with empty descriptions.",
+    "objections_raised": [
+      "Referential use appears to have different truth conditions, suggesting semantic ambiguity.",
+      "Empty descriptions in referential use seem to make the utterance true, contradicting Russell.",
+      "Contextualist theories might assign context a direct role in semantic content.",
+      "The distinction between 'what is said' and 'what is meant' may seem artificial."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'best viewed', 'does not by itself establish', 'can be resolved'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Russell",
+      "Donnellan",
+      "Kripke",
+      "Strawson"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, distinctions, and appeal to ordinary linguistic intuitions.",
+    "named_thought_experiments": [
+      "Smith's murderer is insane",
+      "The man drinking champagne is a philosopher",
+      "The king of France is bald",
+      "It is cold here",
+      "Mistaken name: 'the winner of the race' referring to Jones"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language, truth-conditional semantics, speech act theory, pragmatics.",
+    "sentiment": "Defends a Russellian semantics supplemented by a Kripkean pragmatic distinction.",
+    "thematic_focus": "Semantics-pragmatics boundary, definite descriptions, reference, speaker meaning, truth conditions."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Recursive and cumulative: each section restates the previous thesis with added detail, then advances a new layer of analysis."
+  },
+  "summary_of_core_decisions": "The text argues that Donnellan's referential/attributive distinction is real but pragmatic, not semantic. Russell's theory correctly gives the semantic truth conditions of definite descriptions. Kripke's distinction between speaker's reference and semantic reference resolves the apparent conflict. Speaker belief is relevant to explaining referential use but is neither necessary nor sufficient. The conclusion preserves Russellian semantics while acknowledging the richness of ordinary communicative practice.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified reconciliation: Donnellan's distinction is significant but does not show semantic ambiguity.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is firm but carefully qualified."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "feuerlein-donnellans_distinction_gpt-5.6-luna.txt"
+}

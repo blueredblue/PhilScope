@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical reconstruction with thesis, antithesis, synthesis, and critical evaluation",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "High: premises are stated and defended through textual evidence and conceptual analysis"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong: engages objections and alternative interpretations",
+    "logical_relevance": "High: all sections contribute to the central thesis",
+    "premise_acceptability": "Moderate: relies on contested interpretations of Plato and Socratic method"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Transactional vs. transformative piety",
+      "External ritual vs. internal purification",
+      "Divine command vs. objective Good",
+      "Heteronomy vs. autonomy",
+      "Polytheistic mythology vs. rational monotheism",
+      "Destructive elenchus vs. therapeutic katharsis",
+      "False conceit of wisdom vs. genuine ignorance",
+      "External oracles vs. internal daimonion"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Piety as service (hyperesia) aiming at the work (ergon) of soul-cultivation",
+      "Elenchus as epistemic purification of false conceit of wisdom",
+      "Daimonion as internalized divine voice of moral restraint"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Raises two major objections and responds to each: theological instability and elenctic nihilism",
+    "objections_raised": [
+      "Socratic theology is unstable between polytheism and monotheism, making his defense disingenuous",
+      "Elenchus is purely destructive, leaving no positive knowledge and paralyzing moral agency"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'suggests', 'argues', 'reveals', 'is not merely justified'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Euthyphro",
+      "Plato's Apology",
+      "Plato's Sophist",
+      "Aristotle (as critic)",
+      "Aristophanes (as critic)"
+    ],
+    "evidence_type": "Primary textual quotations, conceptual analysis, historical contextualization, and philosophical reconstruction",
+    "named_thought_experiments": [
+      "Euthyphro dilemma",
+      "Socratic daimonion as internal oracle"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Objective moral realism with rational theology",
+    "sentiment": "Intellectualist and internalist: virtue is knowledge; divine authority is rational and internalized",
+    "thematic_focus": "Philosophy as sacred practice; care of the soul; epistemic purification"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Seven-part essay: Introduction, Parts I\u2013V, Conclusion; each part has a distinct dialectical function"
+  },
+  "summary_of_core_decisions": "The text reconstructs Socratic piety as a radical redefinition of divine service: from ritual transaction to philosophical soul-care. It uses the Euthyphro dilemma to establish the objective Good, the Apology to show philosophy as divine service, and the elenchus as sacred purification. It defends this reading against theological and methodological objections by appealing to the daimonion and internal moral authority, concluding that Socratic piety is the examined life.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and interpretive",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is assertive and declarative"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "macgregor-socrates_god_and_piety_gemini-3.5-flash-lite.txt"
+}

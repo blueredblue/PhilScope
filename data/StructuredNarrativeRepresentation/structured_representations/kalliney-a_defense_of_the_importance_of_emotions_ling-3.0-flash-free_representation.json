@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in illustrative examples and repeated formulations rather than formal numbered premises"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with objections and anticipates counterarguments",
+    "logical_relevance": "High - all objections and responses directly target the central thesis",
+    "premise_acceptability": "Moderate - relies on contested assumptions about human nature, moral psychology, and the objectivity of eudaimonia"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Impressions vs. ideas",
+      "Reason as instrumental vs. reason as normative",
+      "Sympathy as transmission vs. sympathy as evaluation",
+      "Particular sympathy vs. general point of view",
+      "Suppressing feelings vs. perfecting feelings",
+      "Humean sentimentalism vs. Aristotelian virtue ethics"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Sympathy: mechanism by which passions are communicated",
+      "General point of view: impartial spectator perspective",
+      "Habituation: repeated practice forming stable dispositions",
+      "Phronesis: practical wisdom discerning the mean",
+      "Eudaimonia: human flourishing / ultimate purpose"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Each objection is answered by a distinct Aristotelian concept: habituation answers the epistemic objection, telos answers the scope objection, phronesis answers the normative objection.",
+    "objections_raised": [
+      "Sympathy lacks internal value judgments",
+      "Sympathy cannot generate universal obligations",
+      "Sympathy can validate harmful inclinations (e.g., vengeance, sadism, mob lynching)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'can', 'may', 'risks', 'tends' rather than 'must' or 'certainly'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "David Hume",
+      "Aristotle"
+    ],
+    "evidence_type": "Conceptual analysis, historical philosophical comparison, hypothetical examples, thought experiments",
+    "named_thought_experiments": [
+      "Ancient Greeks vs. Persians",
+      "Sadist's shared joy",
+      "Mob sympathy with a lynch mob",
+      "Victim's desire for vengeance"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics with teleological naturalism",
+    "sentiment": "Affective but rationally structured",
+    "thematic_focus": "Moral psychology, moral motivation, moral objectivity, moral education"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with escalating objections and synthesis"
+  },
+  "summary_of_core_decisions": "The text presents Hume's sentimentalism as a necessary but insufficient moral theory. It identifies three vulnerabilities: lack of normative value judgments, parochial sympathy, and susceptibility to malicious collective sentiments. It then argues that Aristotle's habituation, phronesis, and universal telos resolve these vulnerabilities while preserving Hume's insight that feelings are indispensable for moral motivation. The final position is an integrated sentimentalist-virtue ethics: feelings are the engine of moral action, but they must be educated and rationally directed.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic thesis",
+    "hedging_density_in_final_paragraph": "Low - final paragraph is assertive and declarative"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "kalliney-a_defense_of_the_importance_of_emotions_ling-3.0-flash-free.txt"
+}

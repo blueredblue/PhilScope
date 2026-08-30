@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical analysis with thesis-antithesis-synthesis structure, culminating in a critical evaluation that presents two major objections to the proposed solution.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate - premises are stated but often embedded within explanatory prose rather than formalized separately."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text fairly presents both the strengths and weaknesses of Aquinas's position, acknowledging the logical elegance before raising objections.",
+    "logical_relevance": "High - all objections directly target the coherence and applicability of the distinction between human and divine truth.",
+    "premise_acceptability": "Moderate - the premises rely on specific interpretations of Aquinas and on the assumption that a theory of truth must be independent of theological commitments."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Human truth vs. divine truth",
+      "Epistemological truth vs. ontological truth",
+      "Univocal vs. equivocal vs. analogical predication",
+      "Relational truth (adequation) vs. substantial truth (identity)",
+      "Philosophical vs. theological grounding",
+      "Logical resolution vs. philosophical resolution"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Truth as adaequatio rei et intellectus (adequation of thing and intellect)",
+      "Analogy of attribution (primary meaning in one subject, secondary meanings derived from relation to it)",
+      "Participation (creature has a share in what belongs fully to God)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text presents two major objections (theological reliance and semantic imprecision) and considers a potential response from Aquinas (via the Five Ways), but ultimately finds the response insufficient.",
+    "objections_raised": [
+      "The theory grounds truth in the existence of a divine intellect, creating an untenable reliance on theology.",
+      "The Five Ways do not prove that the first cause is truth in the specific sense required.",
+      "The theory suffers from vicious circularity: human truth is used to define divine truth, which is then used to ground human truth.",
+      "The analogy of attribution is stretched to the breaking point when applied to truth, as the definition of truth as adequation does not apply to God."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - the text uses cautious language such as 'appears to resolve,' 'faces a formidable objection,' and 'is not to say that the theory is false.'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aquinas (Summa Theologiae, Summa Contra Gentiles)",
+      "Aristotle (as source of the correspondence definition)",
+      "Pre-Socratic philosophers (Heraclitus, Protagoras, Parmenides)"
+    ],
+    "evidence_type": "Philosophical argumentation, historical textual analysis, logical reasoning, and conceptual analysis.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy with a focus on logical coherence, conceptual clarity, and argumentative rigor.",
+    "sentiment": "Critical but fair - the text acknowledges the logical elegance of Aquinas's solution while ultimately finding it philosophically insufficient.",
+    "thematic_focus": "Philosophy of truth, philosophy of religion, metaphysics, and the relationship between faith and reason."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven essay with a clear introduction, historical context, presentation of the solution, and two major objections followed by a critical evaluation."
+  },
+  "summary_of_core_decisions": "The text presents Aquinas's distinction between human and divine truth as a logically elegant solution to the ancient problem of change vs. eternity, but argues that it fails as a purely philosophical solution due to its reliance on theological premises and the semantic imprecision of applying 'truth' analogically to God. The core decision is to evaluate the theory on philosophical grounds, demanding independence from religious commitments.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection - the distinction works logically but fails as a purely philosophical solution.",
+    "hedging_density_in_final_paragraph": "Moderate - the text uses phrases like 'is not to say that the theory is false' and 'it only resolves them for the Christian philosopher.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lund-resolving_the_inconsistencies_in_aquinass_truth_theory_deepseek-v4-flash-0731.txt"
+}

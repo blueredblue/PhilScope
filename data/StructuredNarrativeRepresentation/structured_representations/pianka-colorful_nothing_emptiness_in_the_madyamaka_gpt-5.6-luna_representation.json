@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "negative_dialectic",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_to_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "conventional_truth_vs_ultimate_truth",
+      "emptiness_vs_nonexistence",
+      "dependence_vs_arbitrariness",
+      "observer_independence_vs_condition_independence",
+      "truth_vs_useful_fiction"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "svabhava",
+      "emptiness",
+      "dependent_origination",
+      "conventional_truth",
+      "ultimate_truth"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges_limits_and_offers_replies",
+    "objections_raised": [
+      "nihilism",
+      "arbitrariness_of_nature",
+      "self_undermining_emptiness",
+      "artifact_example_overemphasizes_conceptual_dependence",
+      "conventional_truth_lacks_criteria"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Nagarjuna",
+      "Candrakirti"
+    ],
+    "evidence_type": "conceptual_analysis_and_analogy",
+    "named_thought_experiments": [
+      "rainbow_analogy",
+      "chariot_analysis",
+      "currency_analogy",
+      "raft_analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "anti_foundationalist",
+    "sentiment": "non_skeptical_anti_realist",
+    "thematic_focus": "metaphysics_epistemology_ethics"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical_progression_with_critical_assessment"
+  },
+  "summary_of_core_decisions": "The text defends Madhyamaka emptiness as a middle way between material realism and nihilism. It uses negative dialectic to undermine inherent existence, then shows that dependent designation preserves causal order, moral responsibility, and knowledge. It ultimately presents emptiness as a therapeutic anti-reification rather than a completed ontology, while acknowledging unresolved tensions about ultimate grounding and causal necessity.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_defense",
+    "hedging_density_in_final_paragraph": "moderate_to_high"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "pianka-colorful_nothing_emptiness_in_the_madyamaka_gpt-5.6-luna.txt"
+}

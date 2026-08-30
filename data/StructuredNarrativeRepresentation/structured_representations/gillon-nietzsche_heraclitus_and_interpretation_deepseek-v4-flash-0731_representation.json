@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical resolution of an apparent contradiction through conceptual distinction and normative grounding",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are stated but often embedded in rhetorical questions and interpretive claims rather than formal propositions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments (Matthews's critique, subjectivism charge, pragmatism objection) and systematically addresses them",
+    "logical_relevance": "High - all sections contribute directly to resolving the central tension between senses and apparent world",
+    "premise_acceptability": "Moderate - relies on contested Nietzschean concepts (will to power, becoming) and interpretive claims about Heraclitus"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Sensation vs. interpretation",
+      "Apparent world vs. world of the senses",
+      "Healthy vs. unhealthy will to power",
+      "Open vs. closed interpretations",
+      "Metaphysical vs. immanent standards",
+      "Pragmatic vs. normative evaluation",
+      "Subjective preference vs. grounded standard"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Becoming - fundamental character of reality as continuous transformation",
+      "Openness to experience - revisability, non-denial of becoming, refusal of absolute truth",
+      "Will to power - fundamental drive to overcome, grow, expand"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic - addresses subjectivism, pragmatism, and biographical interpretation objections through distinction and normative grounding",
+    "objections_raised": [
+      "Subjectivism - if all interpretations are perspectival, how can any be preferred?",
+      "Pragmatism - is the standard merely what works?",
+      "Biographical reduction - Matthews's claim that Nietzsche only treats Heraclitus as personality",
+      "Self-refutation - does Nietzsche's critique of truth itself claim truth?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'seems,' 'appears,' 'I will argue' rather than dogmatic assertions",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Nietzsche's texts (Twilight of the Idols, Beyond Good and Evil, The Will to Power)",
+      "Heraclitus's fragments",
+      "Gareth B. Matthews's critique"
+    ],
+    "evidence_type": "Textual interpretation and conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Immanent - grounded in the nature of becoming itself rather than transcendent principles",
+    "sentiment": "Anti-dogmatic, anti-metaphysical, life-affirming",
+    "thematic_focus": "Epistemology, metaphysics, normativity of interpretation, history of philosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive refinement - introduction of tension, development of standard, application to objections, conclusion"
+  },
+  "summary_of_core_decisions": "The text resolves the apparent contradiction in Nietzsche's philosophy by distinguishing sensation from interpretation, grounding evaluation in the immanent standard of openness to becoming, and refuting Matthews through demonstrating the philosophical (not merely biographical) nature of Nietzsche's engagement with Heraclitus.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is stated with confidence but acknowledges the interpretive nature of the claims"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "gillon-nietzsche_heraclitus_and_interpretation_deepseek-v4-flash-0731.txt"
+}

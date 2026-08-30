@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical structure, presenting a thesis (early free will), antithesis (later predestination), and synthesis (coherence via distinct questions), followed by a critical evaluation.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Premises are often implicit, embedded in historical narrative and doctrinal exposition, but key premises are stated as assertions (e.g., 'if will were determined, God would be author of evil')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text acknowledges the apparent contradiction and then offers a nuanced reconciliation, showing awareness of counterarguments (Julian's objection).",
+    "logical_relevance": "All arguments directly address the central problem of coherence between free will and predestination.",
+    "premise_acceptability": "Premises rely on theological assumptions (divine sovereignty, original sin) that are accepted within the Augustinian framework but not universally."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "ontological vs. soteriological questions",
+      "pre-lapsarian vs. post-lapsarian will",
+      "creative vs. redemptive sovereignty",
+      "libertarian vs. compatibilist freedom",
+      "efficient vs. deficient cause"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "free will as power of contrary choice",
+      "compatibilist freedom as absence of coercion",
+      "operative grace as causing the will to turn",
+      "predestination as preparation of grace"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates Julian's objection that God is author of evil and responds by appealing to original sin and the justice of damnation, though it admits this does not fully resolve the problem.",
+    "objections_raised": [
+      "If grace is irresistible, God is author of evil wills.",
+      "If will is determined, moral responsibility collapses.",
+      "The redefinition of freedom is a sleight of hand."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'I argue that it is coherent' and 'fails to satisfy'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Augustine's own writings",
+      "Julian of Eclanum's objections"
+    ],
+    "evidence_type": "Historical and textual evidence from Augustine's works, plus logical analysis of concepts.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "The argument is grounded in systematic theology and philosophical anthropology, with a focus on divine sovereignty and moral agency.",
+    "sentiment": "The text maintains a critical but sympathetic tone, acknowledging the grandeur of Augustine's system while lamenting its cost.",
+    "thematic_focus": "The relationship between divine sovereignty and human freedom, the nature of moral responsibility, and the coherence of theological development."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The text is organized into an introduction, four numbered sections (I-IV), and a conclusion, following a chronological and dialectical progression."
+  },
+  "summary_of_core_decisions": "The text argues that Augustine's shift from free will to predestination is not a contradiction but a coherent defense of divine sovereignty, achieved by redefining freedom and addressing different theological questions. However, this coherence compromises moral responsibility, leaving an inescapable tension.",
+  "thesis_commitment": {
+    "conclusion_type": "The conclusion is a qualified synthesis: the evolution is coherent as a defense of divine sovereignty, but it is a tragic coherence that undermines moral agency.",
+    "hedging_density_in_final_paragraph": "High; uses terms like 'tragic', 'inescapable tension', 'compromises'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "madsen-gods_sovereignty_deepseek-v4-flash-0731.txt"
+}

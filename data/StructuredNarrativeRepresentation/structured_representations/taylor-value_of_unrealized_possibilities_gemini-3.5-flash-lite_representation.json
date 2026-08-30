@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against Marquis's FLO account: if FLO were correct, then its implications would be morally and metaphysically absurd; those implications are absurd; therefore FLO is not correct.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "The text explicitly reconstructs Marquis's syllogism and then attacks each premise through counterexamples and conceptual distinctions."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text engages with the strongest available objections and attempts to synthesize them into a unified ontological critique.",
+    "logical_relevance": "All objections are directly relevant to the FLO account's premises: identity, value, rights, and determinacy.",
+    "premise_acceptability": "The text's own premises rely on a sentience/actualized-consciousness criterion, which is plausible but not uncontroversial; it is argued for via thought experiments and distinctions."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Actualized future vs unrealized possibility",
+      "Biological teleology vs moral subjecthood",
+      "Prevention vs destruction",
+      "Objective value of outcome vs bearer of moral right",
+      "Potentiality vs actuality",
+      "Sentience vs non-sentience",
+      "Biological continuity vs psychological continuity",
+      "Moral wrong vs mere misfortune"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Future of value: a future containing experiences, projects, activities, and enjoyments.",
+      "Actualized future: a future anchored by a present self with psychological continuity, memory, or intentionality.",
+      "Unrealized possibility: a future that is merely biologically possible but not yet owned by a conscious subject."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text does not defend Marquis; it uses objections to build a cumulative case against him.",
+    "objections_raised": [
+      "McInerney: early fetus lacks psychological continuity with future adult; biological continuity alone does not secure personal identity.",
+      "Lovering: FLO detaches wrongness from experiential harm; edge cases (paraplegic, PVS, terminal illness) reveal vacuity or ableism; equating sleep with embryonic development is false analogy.",
+      "Sinnott-Armstrong: FLO commits category mistake by confusing value of outcome with moral rights; rights require agency/interests; early embryo's indeterminacy (twinning) makes contraception/abortion distinction arbitrary."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'must conclude', 'fatal flaw', 'collapses', but also 'plausible' and 'argues'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Don Marquis",
+      "Peter McInerney",
+      "Robert Lovering",
+      "Walter Sinnott-Armstrong"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, counterexamples, and logical derivation of consequences.",
+    "named_thought_experiments": [
+      "Isolated Hermit",
+      "Paraplegic Victim",
+      "Permanent Vegetative State / Comatose Patient",
+      "Terminally Ill Patient in Agony",
+      "Temporary Unconsciousness vs Embryo",
+      "Contraception vs Abortion",
+      "Twinning / Chimerism"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Sentience and actualized psychological continuity are necessary for moral standing; biological potential alone is insufficient.",
+    "sentiment": "Anti-biological-vitalist, pro-choice (at least for early abortion), rights-based but only for conscious subjects.",
+    "thematic_focus": "Abortion, moral status, personal identity, rights, potentiality, sentience."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Cumulative critique followed by synthetic resolution: presentation of FLO, three independent objections, ontological clash, and conclusion."
+  },
+  "summary_of_core_decisions": "The text ultimately decides that the normative weight of killing rests on the privation of actualized psychological continuity and sentience, not on unrealized biological possibilities. Therefore, early abortion is not morally equivalent to killing an adult person.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and metaphysical: abortion of early fetuses is not morally equivalent to killing a person; FLO fails.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive and definitive."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "taylor-value_of_unrealized_possibilities_gemini-3.5-flash-lite.txt"
+}

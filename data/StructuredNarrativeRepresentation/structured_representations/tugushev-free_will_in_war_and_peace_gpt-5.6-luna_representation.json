@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis via reductio and presupposition critique",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "High - premises are stated and then challenged"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with objections and limits",
+    "logical_relevance": "High - all moves bear on the central question",
+    "premise_acceptability": "Moderate - depends on contested metaphysical assumptions"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "conditioned vs necessitated",
+      "causal dependence vs causal determination",
+      "reason vs cause",
+      "determinism vs causal explanation",
+      "self-causation vs self-direction",
+      "totality as everything vs closure as completed system",
+      "freedom as independence vs freedom as participation",
+      "ex nihilo spontaneity vs transformation of inherited conditions"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "determinism",
+      "causal explanation",
+      "situated origination",
+      "reasons-responsiveness"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Acknowledges objections and refines position rather than dismissing them",
+    "objections_raised": [
+      "Openness at the world level does not imply openness at the level of human choice",
+      "An emergent agent may still be determined at the higher level",
+      "Responsibility is undermined if character is unchosen",
+      "The notion of an incomplete totality is obscure"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'may', 'can', 'appears', 'suggests'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Conceptual analysis, thought experiments, distinctions, counterexamples",
+    "named_thought_experiments": [
+      "omniscient observer",
+      "gunpoint vs moral judgment",
+      "quantum fluctuation / unconscious impulse"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic emergentism with process ontology",
+    "sentiment": "Neutral analytic",
+    "thematic_focus": "Free will, determinism, agency, causality, temporality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical progression from thesis to antithesis to synthesis"
+  },
+  "summary_of_core_decisions": "The text argues that Tolstoy's determinism rests on a hidden metaphysical presupposition of a closed totality. Tugushev's rejection of that closure undermines the reductio but does not by itself establish freedom. The positive account must combine reasons-responsiveness, emergence, and situated origination to avoid both mechanical determinism and ex nihilo spontaneity.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified synthesis",
+    "hedging_density_in_final_paragraph": "Moderate - affirms a middle position with qualifications"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "tugushev-free_will_in_war_and_peace_gpt-5.6-luna.txt"
+}

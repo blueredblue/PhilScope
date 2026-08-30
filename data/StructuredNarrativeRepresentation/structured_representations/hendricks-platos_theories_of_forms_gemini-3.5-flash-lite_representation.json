@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical refutation via dilemma construction and counter-reply evaluation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate \u2014 many premises are embedded in interpretive claims and textual citations rather than formalized step-by-step deductions."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2014 the essay engages seriously with the strongest available defense (Bluck) and does not merely assert its conclusion.",
+    "logical_relevance": "High \u2014 each section advances the central question of whether Plato conflates UF and SF.",
+    "premise_acceptability": "Moderate \u2014 the argument depends on contested interpretive claims about Plato's texts and on the plausibility of Nehamas's objection."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Universal (UF) vs. Standard (SF)",
+      "Instantiation vs. approximation",
+      "Classificatory predicate vs. evaluative paradigm",
+      "Univocal vs. equivocal predication",
+      "Immanent character vs. transcendent paradigm",
+      "Derivative possession vs. absolute purity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Universal Form: a property shared by many particulars, accounting for predication",
+      "Standard Form: a transcendent paradigm or ideal that particulars approximate or imitate",
+      "IA Objection: if Forms are standards, sensible particulars cannot genuinely possess properties, so predication collapses"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay presents Nehamas's objection, then Bluck's reply, then a counter-reply that rejects Bluck's reconciliation.",
+    "objections_raised": [
+      "If Forms are standards, sensible particulars are indeterminate and empirical predication is false.",
+      "If Forms are universals, the language of approximation and falling short is unintelligible.",
+      "Bluck's appeal to purity and derivative possession equivocates on the predicate 'is F'."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate \u2014 uses phrases like 'ultimately substantiated', 'cannot be harmonized', 'fails to fully resolve'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato (primary texts)",
+      "Alexander Nehamas (1973)",
+      "R.S. Bluck (commentary on Phaedo)"
+    ],
+    "evidence_type": "Textual citations, logical dilemma, conceptual analysis, thought experiments (wooden circle, standard meter bar)",
+    "named_thought_experiments": [
+      "Wooden circle approximating mathematical circle",
+      "Standard meter bar as metrological benchmark"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics and philosophy of language",
+    "sentiment": "Critical but not dismissive; sees the tension as philosophically productive",
+    "thematic_focus": "Ontology of universals, predication, semantic univocity, metaphysical standards"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-evaluation: thesis, textual evidence, objection, defense, counter-evaluation, conclusion"
+  },
+  "summary_of_core_decisions": "The essay's core decision is to treat Plato's Form as an unstable hybrid of logical universal and evaluative standard, and to argue that this hybrid is not a mere mistake but a deep metaphysical tension. It uses Nehamas's IA objection as the decisive wedge and Bluck's defense as the strongest foil, then shows that Bluck's reconciliation fails because it requires equivocal predication and a category mistake.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive and evaluative",
+    "hedging_density_in_final_paragraph": "Low \u2014 the conclusion is firm: the tension is unresolved and maps a fundamental chasm."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hendricks-platos_theories_of_forms_gemini-3.5-flash-lite.txt"
+}

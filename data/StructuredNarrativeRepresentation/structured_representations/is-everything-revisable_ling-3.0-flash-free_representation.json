@@ -1,0 +1,65 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "High \u2014 premises are formally stated in modal logic notation (e.g., Revisable(s) \u2192 \u25c7\u00acs, \u25a1p \u2192 \u00ac\u25c7\u00acp in S5)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate \u2014 the text engages with two competing formal readings (wide-scope vs. narrow-scope) and a proposed salvaging restriction, but does not consider external objections to S5 as the appropriate framework.",
+    "logical_relevance": "High \u2014 every section directly serves the derivation of the paradox and its resolution.",
+    "premise_acceptability": "Moderate \u2014 the formal premises are standard within S5, but the key premise that revisability entails \u25c7\u00acs is asserted rather than defended against epistemic readings."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Wide-scope vs. narrow-scope readings of the universal revisability thesis",
+      "Revisability of belief vs. revisability of truth",
+      "Epistemic revisability vs. alethic revisability",
+      "Contingent statements vs. necessary truths"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Wide-scope reading: \u2200s \u25c7Revisable(s)",
+      "Narrow-scope reading: \u25a1\u2200s Revisable(s)",
+      "Revisability: Revisable(s) \u2192 \u25c7\u00acs",
+      "S5 necessity: \u25a1p \u2192 \u00ac\u25c7\u00acp"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that Quine's thesis might be salvaged by restricting the quantifier to contingent statements, and addresses it by showing that the deeper issue is the conflation of belief revisability with truth revisability.",
+    "objections_raised": [
+      "Both wide-scope and narrow-scope readings generate contradictions when applied to necessary truths",
+      "The proposed restriction to contingent statements fails to resolve the underlying conflation"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low \u2014 the text uses hedged language ('seems', 'appears') sparingly; it mostly asserts formal results with confidence.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Quine (via 'Two Dogmas of Empiricism')",
+      "Alchourr\u00f3n, G\u00e4rdenfors, and Makinson (AGM belief revision theory)"
+    ],
+    "evidence_type": "Formal logical derivation within S5 modal logic",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Formal logic (S5 modal logic) and formal epistemology (AGM belief revision theory)",
+    "sentiment": "Critical of radical holism; defends the inviolability of necessary truths in their alethic status while allowing epistemic revisability of beliefs about them.",
+    "thematic_focus": "The limits of universal revisability; the distinction between epistemic and alethic modality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with formal derivation: thesis introduction \u2192 formalization \u2192 paradox derivation \u2192 proposed resolution \u2192 final assessment"
+  },
+  "summary_of_core_decisions": "The text evaluates Quine's universal revisability thesis by formalizing it in S5 modal logic under two readings. Both readings generate contradictions when applied to necessary truths. The resolution is to distinguish belief revisability from truth revisability: necessary truths cannot be revised in their truth value, but our beliefs about them can be. The thesis is thus salvageable only as an epistemic claim, not an alethic one.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection \u2014 the universal revisability thesis is rejected as an alethic claim but accepted as an epistemic claim about belief revision.",
+    "hedging_density_in_final_paragraph": "Low \u2014 the final paragraphs state the resolution with confidence, though the thesis itself is qualified."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "is-everything-revisable_ling-3.0-flash-free.txt"
+}

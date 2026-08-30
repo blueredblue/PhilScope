@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Deductive and diagnostic: establishes metaphysical root causes, applies them to concrete cases, critiques legal institutions, and proposes ontological/epistemic remedies.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High: premises are stated as philosophical errors (skeptical mistake, deific mistake) and developed through historical figures and case studies."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate: engages with opposing legal standards and philosophical alternatives, but does not deeply entertain objections to physicalism or standpoint theory.",
+    "logical_relevance": "High: all sections directly support the thesis that metaphysical errors cause violence and that physicalism plus revised reasonability is the remedy.",
+    "premise_acceptability": "Contested: relies on controversial philosophical positions (physicalism, standpoint epistemology) and interprets historical cases through a specific lens."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Skeptical mistake vs. deific mistake",
+      "Interiority vs. legitimacy",
+      "Spirit-murdering vs. physical murder",
+      "Cartesian dualism vs. physicalism",
+      "Universal reason vs. situated reason",
+      "Victim responsibility vs. perpetrator responsibility"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Skeptical mistake: denial of the Other's interiority, rooted in Cartesian doubt.",
+      "Deific mistake: assumption of one's own perspective as universal, rooted in Kantian transcendental subject.",
+      "Spirit-murdering: systematic destruction of a person's psychological and existential being.",
+      "Victim responsibility defenses: legal strategies shifting blame to victim's identity or behavior.",
+      "Physicalism: mental states grounded in physical brain states.",
+      "Revised reasonability: centering the victim's situated perspective in legal and moral judgment."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Implicit: acknowledges physicalism alone is insufficient and adds revised reasonability; critiques 'reasonable person' standard but does not fully address potential objections from legal formalism.",
+    "objections_raised": [
+      "Physicalism may not tell us how to value consciousness.",
+      "Enlightenment rationality falsely universalizes dominant perspective.",
+      "Legal 'reasonable person' standard embeds bias."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses 'must', 'requires', 'inevitable', 'demonstrates', 'profound implications'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Descartes",
+      "Kant",
+      "Hegel",
+      "Patricia Williams",
+      "Sandra Harding",
+      "Donna Haraway"
+    ],
+    "evidence_type": "Philosophical genealogy, legal analysis, case study interpretation, empirical references to neurobiology (anterior cingulate cortex, insula).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Ontological and epistemological: violence is traced to metaphysical errors; solution is grounded in physicalist ontology and situated epistemology.",
+    "sentiment": "Critical of Enlightenment rationalism, sympathetic to feminist standpoint theory, physicalist about mind.",
+    "thematic_focus": "Other minds, dehumanization, epistemic injustice, legal complicity, social ontology."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven essay with numbered sections: Introduction, I (Skeptical mistake), II (Deific mistake), III (Spirit-murdering), IV (Case studies), V (Legal complicity), VI (Remedies), VII (Conclusion)."
+  },
+  "summary_of_core_decisions": "The text argues that violence against marginalized groups is the logical outcome of two Enlightenment errors: the skeptical mistake (denying the Other's mind) and the deific mistake (universalizing one's own perspective). These produce spirit-murdering, exemplified by the murders of Matthew Shepard and Michael Griffith, and are codified in victim responsibility defenses. The proposed solution combines physicalism (to ground shared consciousness) with a revised, situated standard of reasonability (to center marginalized perspectives), thereby overcoming solipsistic alienation and achieving social parity.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and prescriptive: calls for philosophical reorientation and legal reform.",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is assertive and urgent."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwartz-disowning_mutual_identity_deepseek-v4-flash-0731.txt"
+}

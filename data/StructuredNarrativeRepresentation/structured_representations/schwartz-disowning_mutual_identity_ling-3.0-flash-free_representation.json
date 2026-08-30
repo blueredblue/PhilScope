@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical progression from diagnosis to prescription, moving through three stages: (1) identification of the metaphysical errors (skeptical and deific mistakes) inherent in Enlightenment rationality, (2) demonstration of their concrete manifestations in cases of violence and legal defenses, and (3) proposal of a dual solution (physicalist ontology + revised reasonability) to overcome these errors.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often embedded in rhetorical formulations rather than formally enumerated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text acknowledges counterarguments (e.g., limitations of physicalism) and attempts to integrate them, but does not engage with potential objections to revised reasonability.",
+    "logical_relevance": "All major components (skeptical mistake, deific mistake, spirit-murdering, physicalism, reasonability) are directly relevant to the central thesis.",
+    "premise_acceptability": "The premises rely on contested philosophical positions (e.g., physicalism, communicative rationality) without extensive justification, but are presented as plausible within the essay's framework."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Skeptical mistake vs. deific mistake",
+      "Interiority vs. exteriority",
+      "Subject vs. object",
+      "Physicalism vs. rationalism",
+      "Solipsistic alienation vs. social parity",
+      "Rationality of domination vs. rationality of communion"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Skeptical mistake: radical doubt about the Other's interiority",
+      "Deific mistake: inflation of the dominant self to absolute ontological status",
+      "Spirit-murdering: reduction of the Other to an object, erasing their subjectivity",
+      "Physicalism: grounding identity in shared biological matter",
+      "Revised reasonability: intersubjective, empathetic, dialogic rationality"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text anticipates the objection that physicalism alone is insufficient and addresses it by supplementing with revised reasonability, but does not consider objections to the revised standard itself.",
+    "objections_raised": [
+      "Physicalism can be co-opted by biological determinism",
+      "Mere recognition of shared biology does not guarantee moral recognition"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses terms like 'must', 'requires', 'holds the promise'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "J\u00fcrgen Habermas",
+      "Martha Nussbaum"
+    ],
+    "evidence_type": "Philosophical argumentation, case studies (Matthew Shepard, Howard Beach), legal analysis (victim responsibility defenses).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Ontological - the argument is rooted in metaphysical claims about identity and rationality.",
+    "sentiment": "Critical of Enlightenment rationality, sympathetic to physicalism and communicative ethics.",
+    "thematic_focus": "Otherness, violence, rationality, embodiment, social justice."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with sub-sections: Introduction, The Skeptical Mistake, The Deific Mistake, Spirit-Murdering, Legal Codification, Physicalist Account, Revised Reasonability, Conclusion."
+  },
+  "summary_of_core_decisions": "The text makes a decisive move from diagnosing metaphysical errors to prescribing a dual remedy, thereby positioning itself as a constructive philosophical intervention rather than a purely critical one.",
+  "thesis_commitment": {
+    "conclusion_type": "Prescriptive - argues for a specific ontological and epistemic framework to achieve social parity.",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive, using phrases like 'holds the promise' and 'establishing not merely a tolerance but true social parity'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwartz-disowning_mutual_identity_ling-3.0-flash-free.txt"
+}

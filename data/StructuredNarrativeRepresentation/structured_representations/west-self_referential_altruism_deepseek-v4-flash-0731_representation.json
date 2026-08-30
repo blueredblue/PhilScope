@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis via problem-solution and objection-reply",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate - premises are embedded in exegetical analysis rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - systematically engages with Kantian, Utilitarian, and instrumentalization objections",
+    "logical_relevance": "High - all objections directly target the core thesis of self-referential altruism",
+    "premise_acceptability": "Conditional - premises are acceptable only if one adopts Aristotelian teleology and relational ontology"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Egoism vs. Altruism",
+      "Vulgar vs. Noble self-love",
+      "External vs. Internal goods",
+      "Means vs. Ends",
+      "Intention (prohairesis) vs. Byproduct",
+      "Particularist vs. Universalist ethics",
+      "Atomistic vs. Relational self"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Eudaimonia as rational activity",
+      "Virtue as a harmonized state of reason and desire",
+      "Friend as 'another self' (allos autos)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Concedes the limitation of scope (particularism) but redefines altruism to focus on intention quality rather than universal scope",
+    "objections_raised": [
+      "Kantian objection: action is not performed purely from duty but from desire for one's own flourishing",
+      "Instrumentalization objection: loving the friend because their virtue helps self-improvement uses them as a tool",
+      "Scope objection: restriction of perfect friendship to a narrow circle fails universalist moral standards",
+      "Identity objection: loving the virtue rather than the person"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses qualified terms like 'coherent', 'compelling', 'qualified success'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle (Nicomachean Ethics)",
+      "Kant (implicitly via Kantian objection)",
+      "Utilitarianism (implicitly via utilitarian objection)"
+    ],
+    "evidence_type": "Exegetical textual analysis combined with conceptual thought experiments (e.g., self-sacrifice scenario)",
+    "named_thought_experiments": [
+      "Self-sacrifice for a friend (laying down one's life)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics (Aristotelian teleology)",
+    "sentiment": "Anti-Kantian, anti-Utilitarian, pro-relational ontology",
+    "thematic_focus": "Moral psychology, friendship, selfhood, altruism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive deepening (from teleology to self-love to relational ontology)"
+  },
+  "summary_of_core_decisions": "The text resolves the egoism/altruism dichotomy by redefining the self as relational. It argues that self-referential benefit is a byproduct, not a motive, of virtuous friendship. The synthesis is deemed successful internally (within Aristotelian metaphysics) but not universally, due to its particularist scope.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified acceptance",
+    "hedging_density_in_final_paragraph": "High - explicitly states the synthesis is not a universal solution and depends on specific metaphysical premises"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "west-self_referential_altruism_deepseek-v4-flash-0731.txt"
+}

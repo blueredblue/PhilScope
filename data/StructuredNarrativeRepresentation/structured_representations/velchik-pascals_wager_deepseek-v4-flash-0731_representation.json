@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a dialectical redefinition: it first presents the standard interpretation (Wager as decision-theoretic proof), then identifies a paradox (reason insufficient yet Wager recommended), and resolves it by reclassifying the Wager as an epistemic therapy rather than an epistemic proof.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate: premises are often embedded in rhetorical restatements rather than formal numbered propositions."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text anticipates and addresses a major objection (self-deception) and integrates alternative scholarly interpretations (Morris, Howell).",
+    "logical_relevance": "All premises directly support the thesis that the Wager is an epistemic argument about the conditions of knowledge.",
+    "premise_acceptability": "The key premises rely on Pascal's explicit statements and a charitable reading of his project; they are plausible within the interpretive framework but not empirically verifiable."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Proof vs. propaedeutic",
+      "Intellect vs. will",
+      "Self-interest vs. genuine faith",
+      "Assent vs. engagement",
+      "Self-deception vs. self-cultivation",
+      "Single act vs. temporal process"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Preliminary deception: a surface structure of prudential calculation that lures the skeptic into transformative practice.",
+      "Habituation: external religious practices gradually shaping inner cognitive and affective faculties.",
+      "Epistemic stance: a posture of humility, submission, and commitment necessary for knowledge of God."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text addresses the objection that the Wager encourages intellectual dishonesty by distinguishing between forced assent and voluntary engagement in formative practices.",
+    "objections_raised": [
+      "The Wager is a cynical manipulation and encourages self-deception.",
+      "One cannot simply choose to believe something."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses phrases like 'apparent contradiction', 'can be resolved', 'is best understood' rather than absolute certainty.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Pascal",
+      "Morris",
+      "Howell"
+    ],
+    "evidence_type": "Textual interpretation, conceptual analysis, analogical reasoning (music pedagogy, ladder metaphor).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and virtue-epistemic: knowledge is embedded in passions, habits, and volitional alignment.",
+    "sentiment": "Anti-Cartesian: rejects autonomous intellect as sufficient for knowledge of God.",
+    "thematic_focus": "Epistemic conditions, transformation of the will, pedagogy of the soul."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis \u2192 Paradox \u2192 Diagnosis \u2192 Mechanism \u2192 Process \u2192 Objection/Response \u2192 Resolution \u2192 Conclusion."
+  },
+  "summary_of_core_decisions": "The text resolves the apparent contradiction between prudential self-interest and genuine faith by reconceiving the Wager as a temporal, three-stage epistemic process: initial self-interested motivation, habituation through religious practice, and eventual transformation of the heart. The Wager is not a proof but a condition of possibility for receiving subsequent proofs, and its apparent deception is a pedagogical strategy rather than intellectual dishonesty.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive and definitive."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "velchik-pascals_wager_deepseek-v4-flash-0731.txt"
+}

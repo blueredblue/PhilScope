@@ -1,0 +1,81 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text uses a dialectical pattern: present a paradox, introduce property-indexing as a formal solution, show how it resolves logical contradictions, then expose its metaphysical and epistemological limits. It repeatedly moves from formal diagnosis to open philosophical question.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate: formal formulas are explicit, but many metaphysical premises are left implicit and later problematized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text fairly presents objections and acknowledges that indexing does not settle deeper questions.",
+    "logical_relevance": "All arguments directly address whether property-indexing preserves Leibniz's Laws without trivializing identity.",
+    "premise_acceptability": "The formal premises are uncontroversial; the contested premises concern the ontology of properties, essences, and possible worlds, which the text explicitly flags."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Indiscernibility of Identicals vs. Identity of Indiscernibles",
+      "Qualitative vs. haecceitic properties",
+      "Temporary vs. complete diachronic indiscernibility",
+      "Trans-world identity vs. counterpart relations",
+      "Having an essence vs. knowing an essence",
+      "Rigid designation vs. descriptive identification",
+      "Endurance, perdurance, and stage theory",
+      "Too weak vs. too strong indexing"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Indiscernibility of Identicals: x=y \u2192 \u2200F(Fx \u2194 Fy)",
+      "Identity of Indiscernibles: \u2200F(Fx \u2194 Fy) \u2192 x=y",
+      "Time-indexed property: F(x,t)",
+      "World-indexed property: F(x,w)",
+      "World-time-indexed property: F(x,t,w)",
+      "Individual essence: a property necessarily unique to an object"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text does not fully rebut objections; it often concedes them and shifts the burden to a broader metaphysical theory.",
+    "objections_raised": [
+      "Are modal properties genuine or merely descriptive?",
+      "Does indexing prove distinctness or merely represent it?",
+      "Can arbitrary haecceitic properties make Identity of Indiscernibles trivial?",
+      "How can we know which properties are essential?",
+      "Does indexing decide between endurance, perdurance, and stage theory?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'appears', 'seems', 'may', 'can', 'does not settle'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Roderick Chisholm",
+      "Saul Kripke",
+      "Alvin Plantinga",
+      "David Lewis"
+    ],
+    "evidence_type": "Conceptual analysis, formal logic, thought experiments, historical philosophical positions.",
+    "named_thought_experiments": [
+      "Bobby sitting at t1 and standing at t2",
+      "Statue and lump of clay",
+      "Chisholm's Adam and Noah sequence",
+      "Kripke's rigid designation and empirical necessity"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics and modal logic",
+    "sentiment": "Neutral-critical: property-indexing is useful but incomplete; the text neither fully endorses nor rejects it.",
+    "thematic_focus": "Identity, persistence, possible worlds, essential properties, reference"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections and a conclusion"
+  },
+  "summary_of_core_decisions": "The text ultimately decides that property-indexing resolves the logical form of identity puzzles but leaves the metaphysics of essence, persistence, and possible worlds unresolved. It preserves nontrivial identity only if supplemented by a substantive account of which indexed properties are genuine.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "High: 'powerful but incomplete', 'does not entirely eliminate', 'only when constrained', 'not to abolish but to show where problems lie'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwenkler-property_indexing_and_problems_of_identity_gpt-5.6-luna.txt"
+}

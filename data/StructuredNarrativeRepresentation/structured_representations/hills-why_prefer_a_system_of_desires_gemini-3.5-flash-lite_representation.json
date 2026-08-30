@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Analytic metaethical critique",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate-high; key premises are stated but some are left as intuitive assumptions (e.g., convergence thesis is flagged as unsupported)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages with strongest version of Smith's view and grants initial plausibility to the analogy.",
+    "logical_relevance": "High; each section directly addresses the central question of whether systematic justification is necessary.",
+    "premise_acceptability": "Mixed; direction-of-fit and underived-preference premises are plausible, but the cultural-relativism charge is more contentious."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Internal vs. external reasons",
+      "Weak vs. strong coherence",
+      "Actual S vs. fully rational agent's S",
+      "Theoretical vs. practical reasoning",
+      "Deductive-systemic vs. narrative-holistic deliberation",
+      "Cognitive completeness vs. systematic desiderative coherence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Subjective motivational set (S)",
+      "Internal reason condition",
+      "Weak coherence",
+      "Strong coherence",
+      "Fully rational agent",
+      "Direction of fit",
+      "Ground projects"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates Smith's objections (practical arbitrariness, analogy, non-relativism) and responds by either denying the premise or showing the inference fails.",
+    "objections_raised": [
+      "Smith's analogy fails due to direction of fit",
+      "Systematic justification cannot erase contingent starting points",
+      "Convergence thesis is unsupported",
+      "Systematic justification is culturally parochial"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'I argue', 'cannot', 'fails', but also 'seems' and 'plausible'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "David Hume",
+      "Isaiah Berlin",
+      "John Rawls"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, counterexamples, analogical reasoning, appeal to psychological plausibility, appeal to cultural/historical contingency.",
+    "named_thought_experiments": [
+      "Elena's conflict",
+      "Owen the cruel man",
+      "Agent with independent preferences (old books, running, jazz, poverty)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Humean naturalism about motivation, internalism about reasons, moral pluralism, anti-rationalist pragmatism.",
+    "sentiment": "Sympathetic to Williams, critical of Smith's rationalist idealization.",
+    "thematic_focus": "Nature of practical rationality, internal reasons, coherence requirements, relativism, agency and autonomy."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-driven with cumulative sections; each section advances a distinct argument against strong systematic coherence."
+  },
+  "summary_of_core_decisions": "The essay rejects strong systematic coherence as a necessary condition of rational deliberation, defends a weak coherence model grounded in the agent's actual subjective motivational set, and argues that Smith's attempt to secure non-relativistic internal reasons through idealization fails.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative thesis against Smith's strong coherence requirement; positive thesis in favor of Williams-style weak coherence and narrative integration.",
+    "hedging_density_in_final_paragraph": "Low; final paragraph is assertive and normative."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hills-why_prefer_a_system_of_desires_gemini-3.5-flash-lite.txt"
+}

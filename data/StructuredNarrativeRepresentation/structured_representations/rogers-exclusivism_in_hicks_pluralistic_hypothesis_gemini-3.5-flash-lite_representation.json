@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Immanent critique and constructive revision",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Real an sich vs. Real phenomenon",
+      "epistemological access vs. soteriological criterion",
+      "post-axial vs. pre-axial traditions",
+      "individual liberation vs. ecological/communal flourishing"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Real an sich: unconditioned transcendent ground, unknowable in itself",
+      "Real phenomenon: culturally conditioned manifestation of the Real",
+      "sensus divinitatis: universal human capacity to experience the transcendent",
+      "soteriological transformation: shift from self-centeredness to Reality-centeredness"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "preemptive and constructive",
+    "objections_raised": [
+      "Hick's exclusion of pre-axial traditions is arbitrary",
+      "Hick's soteriological criterion is circular",
+      "Hick's axial privilege is historically and metaphysically unjustified"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Jaspers",
+      "Robert Bellah",
+      "Lakota tradition",
+      "Yoruba tradition",
+      "ubuntu ethics"
+    ],
+    "evidence_type": "philosophical, historical, anthropological, phenomenological",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "pluralistic, phenomenological, anti-exclusivist",
+    "sentiment": "critical but constructive",
+    "thematic_focus": "philosophy of religion, religious pluralism, soteriology, epistemology of religious experience"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem-solution with internal critique"
+  },
+  "summary_of_core_decisions": "The text argues that Hick's pluralism is internally incoherent because it combines a universal epistemological capacity for experiencing the Real with a soteriological criterion that arbitrarily excludes pre-axial and indigenous traditions. It then proposes two modifications: broadening the soteriological criterion to include ecological and communal flourishing, and expanding the phenomenal categories of the Real to include animistic and shamanic experiences.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified normative claim",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "rogers-exclusivism_in_hicks_pluralistic_hypothesis_gemini-3.5-flash-lite.txt"
+}

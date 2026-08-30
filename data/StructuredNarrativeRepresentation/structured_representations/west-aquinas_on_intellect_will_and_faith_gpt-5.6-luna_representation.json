@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical exposition with progressive refinement",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are often stated as numbered or clearly identifiable claims (e.g., 'First, the will is ordered to the good...')"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with objections and counterarguments",
+    "logical_relevance": "High - all arguments directly support the central thesis",
+    "premise_acceptability": "Moderate - some premises are theological and not universally accepted"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Direct vs. indirect will influence",
+      "Compelling evidence vs. sufficient credibility",
+      "Certainty of object vs. mode of apprehension",
+      "Ontological goodness vs. epistemic warrant",
+      "Natural vs. supernatural faith",
+      "Descriptive vs. prescriptive volitionalism",
+      "Formal vs. efficient cause of faith",
+      "Intellect vs. will as faculties"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Faith as assent to revealed truth",
+      "Will as rational appetite",
+      "Being and goodness convertible",
+      "Grace as supernatural habit"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic - each objection is addressed with a nuanced response that preserves the core thesis",
+    "objections_raised": [
+      "Faith is epistemically unjustified because it involves belief beyond evidence",
+      "Will's role leads to motivated belief or projection",
+      "Metaphysical identity of being and goodness cannot establish specific Christian truths",
+      "Appeal to grace is circular or lacks public justification"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses terms like 'certain', 'firm', 'obscure' but with careful qualification",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aquinas",
+      "Thomistic metaphysics",
+      "Christian theology"
+    ],
+    "evidence_type": "Conceptual analysis, metaphysical reasoning, theological doctrine, analogical examples",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical realism and theological supernaturalism",
+    "sentiment": "Analytic and systematic",
+    "thematic_focus": "Epistemology of religious belief, philosophy of action, moral psychology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with progressive sections: introduction, clarification, problem, metaphysical defense, epistemic objection, theological resolution, evaluation, conclusion"
+  },
+  "summary_of_core_decisions": "The text defends a qualified 'indirect descriptive volitionalism' in Aquinas: the will plays a real but indirect role in moving the intellect to assent to non-evident revealed truths, and this is a descriptive account of how faith is acquired. The defense integrates metaphysical (being/goodness), epistemological (testimony, credibility), and theological (grace, charity) dimensions, while acknowledging tensions and limitations.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified affirmative",
+    "hedging_density_in_final_paragraph": "Moderate - uses 'qualified but affirmative', 'best understood as', 'not dissolved'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "west-aquinas_on_intellect_will_and_faith_gpt-5.6-luna.txt"
+}

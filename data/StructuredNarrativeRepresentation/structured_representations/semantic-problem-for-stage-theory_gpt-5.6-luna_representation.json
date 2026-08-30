@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical problem-posing and dialectical analysis. It does not primarily advance a positive thesis but rather identifies a tension within stage theory and evaluates possible responses. The dominant form is: (1) present a metaphysical view, (2) derive a semantic requirement from it, (3) show that a natural-language construction creates a conflict with that requirement, (4) examine whether standard semantic tools can resolve the conflict, and (5) conclude that the conflict is fatal only if stage theory makes a strong semantic claim.",
+    "num_distinct_arguments_for_thesis": 0,
+    "premise_explicitness": "The text is moderately explicit about premises. It often states assumptions in conditional form ('If the core thesis is purely metaphysical...', 'If the core thesis includes the stronger claim...') rather than asserting them categorically. The central premises are: stage theory identifies ordinary objects with instantaneous stages; tense requires different stages for different times; syntax presents one singular term; a singular term cannot straightforwardly supply multiple distinct referents; therefore stage theory faces a semantic challenge."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically fair. It considers multiple responses on behalf of the stage theorist, including hidden logical form, counterpart-based predicate semantics, quantificational names, and derivative worm reference. It does not strawman the view; it grants that some responses are coherent and that the tension may be resolvable if stage theory is only a metaphysical thesis.",
+    "logical_relevance": "The arguments are logically relevant to the central question. The test sentence is well chosen because it combines one syntactic subject with two temporally distinct predicates, forcing the issue of how a single name can supply distinct stages. The discussion of quantificational and operator analyses of tense is directly relevant to whether tense can solve the problem.",
+    "premise_acceptability": "The premises are generally acceptable within the framework of analytic metaphysics and semantics. The claim that ordinary syntax has one occurrence of the name is uncontroversial. The claim that stage theory requires distinct stages for birth and death is entailed by the view. The claim that a rigid singular term cannot shift its referent across temporal operators is a standard semantic point. The main controversial premise is that the semantic complexity must be generated compositionally from overt syntax; the text acknowledges this by discussing hidden structure and ellipsis."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Endurance vs. perdurance vs. stage theory",
+      "Metaphysical thesis vs. semantic thesis",
+      "Quantificational tense vs. operator tense",
+      "Singular term vs. quantificational/predicative expression",
+      "Direct reference vs. indirect/counterpart-mediated reference",
+      "Overt syntax vs. logical form/hidden structure",
+      "Fundamental ontology vs. derivative/ordinary objects"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Stage theory: ordinary objects are instantaneous temporal stages; persistence is grounded in temporal counterpart relations.",
+      "Endurance: an object is wholly present at each time it exists.",
+      "Perdurance: an object has temporal parts spread across time.",
+      "Quantificational tense: tense is existential quantification over times or stages.",
+      "Operator tense: tense is an operator shifting the time of evaluation.",
+      "Temporal counterpart relation: a relation linking distinct stages of the same persisting object."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text anticipates and evaluates four objections/alternatives: hidden duplication at logical form, counterpart-based interpretation of tensed predicates, names as temporally distributed predicates, and ordinary-language reference to worms. It does not simply dismiss them; it identifies costs for each. It also considers the possibility that the tension is not fatal if stage theory is only metaphysical.",
+    "objections_raised": [
+      "If the name denotes one stage, it cannot satisfy both birth and death predicates.",
+      "If the name is quantificational, it ceases to be a singular term.",
+      "If tense is an operator with wide scope, it yields the false reading that birth and death occurred at the same time.",
+      "If names are rigid, shifting the time of evaluation does not change their referent.",
+      "If names are temporally flexible, the unity of reference must be supplied by an extra counterpart relation."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses cautious, conditional, and modal language: 'may be analyzed', 'can be achieved', 'would require', 'is not logically forbidden', 'may be acceptable', 'depends on what counts as the core thesis'. It avoids dogmatic assertion and presents the conclusion as conditional.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Ted Sider",
+      "Katherine Hawley"
+    ],
+    "evidence_type": "The text uses a priori conceptual analysis, truth-conditional semantics, and formal logical notation. It does not rely on empirical evidence. The main 'evidence' is the intuitive truth conditions of the sentence 'Kant was born and died in K\u00f6nigsberg' and the structural facts about natural-language syntax.",
+    "named_thought_experiments": [
+      "The Kant sentence: 'Kant was born and died in K\u00f6nigsberg'",
+      "Embedded variants: 'Kant was born and died in K\u00f6nigsberg, although he spent much of his life in another region'",
+      "'Kant was born in K\u00f6nigsberg, died there, and never left the city for long'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The text is grounded in analytic metaphysics and philosophy of language, specifically the metaphysics of persistence, the semantics of tense, and the semantics of proper names. It engages with compositional semantics and logical form.",
+    "sentiment": "The text is neutral and diagnostic. It does not endorse stage theory or its rivals; it aims to determine under what conditions stage theory can survive the semantic challenge. The overall sentiment is that the tension is serious but not necessarily fatal.",
+    "thematic_focus": "The interaction between temporal ontology and singular reference; the limits of direct-reference semantics when combined with stage metaphysics; the role of tense in coordinating multiple stages."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The text is organized into seven numbered sections plus an introduction. It follows a problem-solution dialectic: introduction states the tension; sections I-II set out the metaphysical and syntactic commitments; sections III-IV examine tense analyses; section V sharpens the problem; section VI evaluates responses; section VII draws the conditional conclusion."
+  },
+  "summary_of_core_decisions": "The text's central decision is to treat the sentence 'Kant was born and died in K\u00f6nigsberg' as a decisive test case. It decides that the problem is not merely about tense but about the compositional semantics of singular terms. It decides that the stage theorist can preserve the metaphysics by weakening the semantics, but cannot preserve both direct reference to stages and the ordinary syntax of names. The final decision is conditional: if stage theory is only metaphysical, the tension is resolvable; if it includes the semantic claim that ordinary names directly refer to instantaneous stages, the tension is fatal.",
+  "thesis_commitment": {
+    "conclusion_type": "conditional",
+    "hedging_density_in_final_paragraph": "The final paragraph is explicitly conditional: 'If the core thesis is purely metaphysical... the tension can be resolved. If, however, the core thesis includes the stronger claim... then the Kant sentence is devastating.' This is a high degree of hedging, but it is not indecision; it is a precise delineation of the conditions under which the objection succeeds."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "semantic-problem-for-stage-theory_gpt-5.6-luna.txt"
+}

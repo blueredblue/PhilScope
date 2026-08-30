@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical comparative analysis combined with a negative thesis (rejection of strong coherence) and a positive thesis (defense of weak coherence and particularism).",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; premises are embedded in the dialectical comparison (e.g., direction of fit, value pluralism, particularism) rather than formally numbered."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High. The author fairly reconstructs both Williams and Smith before critiquing them, and anticipates a major Smithian objection (arbitrariness) to provide a rebuttal.",
+    "logical_relevance": "High. All sections directly serve the central thesis: distinguishing weak from strong coherence and arguing for the sufficiency of the former.",
+    "premise_acceptability": "Moderate. The argument relies on contested premises (e.g., the truth of value pluralism, the decisive nature of the 'direction of fit' distinction, and the validity of particularism) which are asserted rather than fully defended."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Procedural vs. Substantive rationality",
+      "Weak coherence (conflict avoidance) vs. Strong coherence (systematic unification)",
+      "Internal vs. External reasons",
+      "Theoretical vs. Practical reasoning",
+      "Direction of fit (belief vs. desire)",
+      "Generalism vs. Particularism",
+      "Arbitrary vs. Non-arbitrary (contextual) judgment"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Weak coherence: avoiding contradictions that prevent action.",
+      "Strong coherence: subsuming specific desires under general, higher-order principles.",
+      "Sound deliberative route (Williams): means-end reasoning, composition, consistency, imagination."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Anticipates the Smithian objection that contextual weighing is 'arbitrary'. Rebuts by redefining 'arbitrary' to mean 'lacking systematic justification' rather than 'lacking contextual sensitivity', thereby shifting the burden of proof onto the generalist.",
+    "objections_raised": [
+      "Smith's demand for systematic justification would render ordinary particularistic attachments (e.g., love for a specific child) irrational or distorted.",
+      "The theoretical analogy fails because the subject matter of practical reasoning (the self, plural values) is not a unified system like the physical world."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low. Uses phrases like 'I contend', 'I argue', 'can be', 'need not', indicating a persuasive but non-dogmatic stance.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Bernard Williams (Internalism)",
+      "Michael Smith (Rationalism)",
+      "Isaiah Berlin (Value Pluralism)",
+      "Jonathan Dancy (Moral Particularism)"
+    ],
+    "evidence_type": "Conceptual analysis, dialectical comparison, counterexamples (particularistic desires, value conflicts), and thought experiments (the party/conflict scenario).",
+    "named_thought_experiments": [
+      "The party vs. staying home conflict (illustrates weak coherence resolution without general principles).",
+      "The love for a specific child (illustrates irreducible particularistic desires).",
+      "The sadistic pleasure example (Dancy's context-dependence).",
+      "The boiling water/earth orbit/cat on mat (illustrates fragmented theoretical beliefs vs. unified laws)."
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Meta-ethical and normative. Focuses on the nature of rationality, the structure of reasons, and the metaphysics of value (pluralism vs. monism).",
+    "sentiment": "Anti-theoretical (in the sense of rejecting generalism/strong systematization) and pro-particularist. Aligns with Humean internalism and moral particularism.",
+    "thematic_focus": "The relationship between rationality, coherence, and the plurality of values. The limits of systematic justification in practical deliberation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution dialectic. Introduction sets up the binary (Williams vs. Smith). Sections I and II exposit the two poles. Section III deconstructs the theoretical analogy. Section IV defends the positive thesis (weak coherence + particularism)."
+  },
+  "summary_of_core_decisions": "The text strategically uses Williams as a foundational ally to establish internalism and proceduralism, then pivots to critique Smith's strong coherence requirement. The decisive move is the disanalogy between theoretical and practical reasoning, grounded in the 'direction of fit' distinction and value pluralism. The final argumentative strategy is to redefine rationality as a purely procedural virtue, thereby making the demand for strong coherence a substantive meta-ethical imposition rather than a neutral requirement.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative meta-ethical claim",
+    "hedging_density_in_final_paragraph": "Low. The conclusion is assertive: rationality is procedural, and particularistic desires are rational if adjudicated effectively."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hills-why_prefer_a_system_of_desires_deepseek-v4-flash-0731.txt"
+}

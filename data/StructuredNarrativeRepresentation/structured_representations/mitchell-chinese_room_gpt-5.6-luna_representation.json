@@ -1,0 +1,61 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression: thesis (Chinese Room argument) \u2192 antithesis (Robot Reply) \u2192 synthesis (rebuttal of Robot Reply).",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Mostly implicit, with key premises stated as conditional claims and intuitive assertions."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text presents a balanced dialectic, acknowledging the Robot Reply but ultimately rejecting it as insufficient.",
+    "logical_relevance": "All premises and counterarguments directly address the relationship between qualia, understanding, and machine intelligence.",
+    "premise_acceptability": "Premises rely on intuitive but contestable claims (e.g., meaning depends on experience), which are not defended in the excerpt."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Understanding vs. simulation of understanding",
+      "Syntactic manipulation vs. semantic content",
+      "Sensorimotor access vs. subjective experience"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Understanding is not merely symbol manipulation",
+      "Meaning depends on acquaintance with experience"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The Robot Reply is presented and then rebutted by noting that sensorimotor access does not obviously create subjective experience.",
+    "objections_raised": [
+      "Embodiment might provide understanding (Robot Reply)",
+      "The argument becomes more forceful when considering hierarchical concepts"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'seems', 'may', 'appears', 'obviously' to qualify claims.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Thought experiment (Chinese Room), conceptual analysis, appeal to intuition.",
+    "named_thought_experiments": [
+      "Chinese Room"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and conceptual analysis, with an emphasis on subjective experience.",
+    "sentiment": "Skeptical of strong AI, but not outrightly dismissive; leaves room for further debate.",
+    "thematic_focus": "Qualia, meaning, understanding, embodiment, machine intelligence."
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "Three-paragraph progression: general argument \u2192 strengthened argument \u2192 formal thought experiment with dialectic."
+  },
+  "summary_of_core_decisions": "The text argues that strong AI cannot achieve understanding because it lacks qualia, strengthens this by considering hierarchical concepts, then addresses the Robot Reply by arguing that embodiment does not necessarily create subjective experience. The core decision is to reject the Robot Reply as insufficient, maintaining the original thesis.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative existential claim about strong AI achieving understanding.",
+    "hedging_density_in_final_paragraph": "Moderate; uses 'may', 'does not obviously' to soften the rebuttal."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mitchell-chinese_room_gpt-5.6-luna.txt"
+}

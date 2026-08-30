@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental-critical dialectic",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate to High"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "happiness vs. morality",
+      "hypothetical vs. categorical imperative",
+      "empirical vs. a priori",
+      "heteronomy vs. autonomy",
+      "sensible vs. supersensible",
+      "analytic vs. synthetic connection",
+      "motive vs. object of morality",
+      "virtue vs. happiness",
+      "ground vs. condition of morality",
+      "moral faith vs. dogmatic theology"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "happiness as empirical and indeterminate",
+      "categorical imperative as unconditional and universal",
+      "autonomy as self-legislation of reason",
+      "highest good as virtue and happiness proportioned",
+      "postulates as conditions of possibility"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly addresses the objection that postulates reintroduce heteronomy; refutes by distinguishing ground from condition and incentive from rational faith.",
+    "objections_raised": [
+      "Postulates seem to make morality dependent on external reward",
+      "Belief in God might be motivated by self-interest"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant"
+    ],
+    "evidence_type": "Conceptual analysis, transcendental argument, thought experiments",
+    "named_thought_experiments": [
+      "miser vs. philanthropist",
+      "ascetic vs. hedonist",
+      "honest merchant vs. philanthropist acting from inclination"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "A priori reason",
+    "sentiment": "Anti-eudaimonist, deontological",
+    "thematic_focus": "Moral authority, autonomy, highest good"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical progression"
+  },
+  "summary_of_core_decisions": "The text presents a Kantian critique of eudaimonism, establishes the categorical imperative as the ground of morality, identifies an antinomy between virtue and happiness, and resolves it through the postulates of God and immortality while preserving autonomy.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative philosophical thesis",
+    "hedging_density_in_final_paragraph": "Low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hughes-the_role_of_happiness_in_kants_ethics_deepseek-v4-flash-0731.txt"
+}

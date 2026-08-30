@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical_analysis",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "moderate_high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "atheism_as_psychological_nonbelief_vs_metaphysical_denial",
+      "parsimony_as_rule_vs_explanatory_necessity",
+      "verifiability_as_criterion_vs_one_form_of_warrant",
+      "burden_of_proof_local_vs_global",
+      "truth_condition_vs_epistemic_condition_vs_practical_ethical_condition",
+      "context_of_origin_vs_validity",
+      "epistemology_vs_ethics"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "dialectical_failure",
+      "presumption_of_atheism",
+      "post_contextual_ethical_maxims",
+      "reflexive_universalization"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "moderate",
+    "objections_raised": [
+      "parsimony_cannot_automatically_favor_atheism",
+      "verifiability_is_not_self_evident",
+      "burden_of_proof_depends_on_formulation",
+      "ordinary_reasoning_is_not_metaphysically_neutral",
+      "enlightenment_caricatures_faith_and_faith_retreats_to_authority"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Shalkowski",
+      "Scriven",
+      "Hegel"
+    ],
+    "evidence_type": "conceptual_analysis_and_dialectical_reconstruction",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "dialectical_idealism_and_critical_pragmatism",
+    "sentiment": "balanced",
+    "thematic_focus": "epistemic_normativity_and_metaphysical_realism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sections_and_subsections"
+  },
+  "summary_of_core_decisions": "The text diagnoses the theism/atheism debate as a dialectical failure: both sides argue about God while actually disagreeing about the rules of evidence, verification, and burden of proof. It uses Shalkowski to undermine the presumption of atheism, Scriven to show the limits of ordinary reason, and Hegel to expose mutual misrecognition between Faith and Enlightenment. It concludes that epistemic frameworks are contextually and ethically shaped but can transcend their origins through reflexive universalization; objective truth remains a non-constructed referent even though access is mediated.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_constructive",
+    "hedging_density_in_final_paragraph": "moderate_high"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "stannard-theism_atheism_dialogue_gpt-5.6-luna.txt"
+}

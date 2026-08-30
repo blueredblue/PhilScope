@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Internal critique and revisionist reconstruction",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; premises are often embedded in dialectical contrasts and illustrative examples."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the essay engages with counterexamples and anticipates objections.",
+    "logical_relevance": "High; all major sections bear directly on the central question of Hick's restriction.",
+    "premise_acceptability": "Moderate; some premises (e.g., the epistemic significance of religious experience) are asserted rather than fully defended."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Exclusivism vs. relativism vs. critical pluralism",
+      "Noumenal Real vs. phenomenal manifestations",
+      "Post-axial vs. pre-axial traditions",
+      "Descriptive pluralism vs. normative restriction",
+      "Provisional methodological restriction vs. substantive principled boundary",
+      "Transcendent experience vs. soteriological transformation",
+      "Ethical fruitfulness vs. transcendent reference"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "The Real: the transcendent source or ground of religious experience, exceeding all human conceptual schemes.",
+      "Soteriological transformation: movement from self-centredness to Reality-centredness.",
+      "Ethical fruitfulness: reliable generation of compassion, justice, reconciliation, humility, respect, and care for the more-than-human world."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay considers objections to Hick's restriction, including the charge of arbitrariness, and responds by distinguishing provisional from principled restrictions.",
+    "objections_raised": [
+      "Hick's restriction to post-axial religions appears arbitrary.",
+      "The soteriological criterion is too narrow and individualistic.",
+      "The category 'pre-axial' is misleading and may reflect evolutionary prejudice.",
+      "Indigenous traditions challenge Hick's monistic conception of the Real."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; the essay uses cautious language such as 'may', 'can', 'appears', 'plausibly'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Hick",
+      "Karl Jaspers"
+    ],
+    "evidence_type": "Conceptual analysis, comparative religious examples, internal critique, illustrative counterexamples.",
+    "named_thought_experiments": [
+      "Native American vision quests",
+      "African shamanic initiations"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Religious experience and ethical transformation",
+    "sentiment": "Critical but constructive; sympathetic to Hick's pluralism while arguing for revision.",
+    "thematic_focus": "Philosophy of religion, religious pluralism, soteriology, epistemology of religious experience."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with internal critique and revisionist proposal"
+  },
+  "summary_of_core_decisions": "The essay argues that Hick's pluralism is compelling but its restriction to post-axial religions is unjustified. It proposes broadening the soteriological criterion and reconceiving the Real as an inexhaustible depth disclosed through diverse relational forms, thereby including indigenous traditions without collapsing into relativism.",
+  "thesis_commitment": {
+    "conclusion_type": "Revisionist pluralism",
+    "hedging_density_in_final_paragraph": "Moderate; the conclusion affirms a revised pluralism while acknowledging provisional restrictions."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "rogers-exclusivism_in_hicks_pluralistic_hypothesis_gpt-5.6-luna.txt"
+}

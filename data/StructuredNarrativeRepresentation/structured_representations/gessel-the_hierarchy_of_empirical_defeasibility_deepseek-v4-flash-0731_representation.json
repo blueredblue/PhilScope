@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Cumulative hierarchical argument with progressive refinement",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderately explicit; key premises are stated but some background assumptions remain implicit"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages with the strongest version of the opposing view (tactile guarantee) and concedes its intuitive force before refuting it",
+    "logical_relevance": "All sections directly serve the thesis; no digressions",
+    "premise_acceptability": "Premises are generally plausible within contemporary epistemology; relies on widely accepted distinctions (Pollock's defeaters) and thought experiments (BIV, phantom limbs)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Overriding vs. undermining defeaters",
+      "Flash vision vs. spherical vision",
+      "Single-modality vs. compound perceptually justified beliefs",
+      "Empirical vs. logical/metaphysical indefeasibility",
+      "Ordinary vs. global defeaters",
+      "Information type vs. information richness",
+      "Cross-modal integration vs. single-channel input"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Defeater (overriding and undermining)",
+      "Flash vision",
+      "Spherical vision",
+      "Compound perceptually justified beliefs",
+      "Testimonial defeater",
+      "Global undermining defeater"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic; each section anticipates and addresses likely objections (e.g., the privileged status of touch, the strength of compound beliefs)",
+    "objections_raised": [
+      "The intuition that touch provides unassailable guarantee of material existence",
+      "The intuition that compound beliefs are practically conclusive",
+      "The intuition that spherical vision's coherence makes it invulnerable"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses hedged terms like 'practically conclusive,' 'remarkably well,' 'astronomically lower'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Pollock (defeaters)",
+      "Aristotle and G.E. Moore (touch as fundamental sense)",
+      "Bryce Gessell (flash vs. spherical vision)"
+    ],
+    "evidence_type": "Phenomenological description, thought experiments, empirical examples (phantom limbs, tactile hallucinations), conceptual analysis",
+    "named_thought_experiments": [
+      "Stick in water (refraction)",
+      "Cartesian demon",
+      "Brain-in-a-vat (BIV)",
+      "Phantom limb phenomenon",
+      "Tactile hallucination",
+      "Virtual reality simulator"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Empiricism with fallibilist orientation; draws on phenomenology and epistemology of perception",
+    "sentiment": "Anti-foundationalist regarding empirical certainty; pro-hierarchical regarding epistemic robustness",
+    "thematic_focus": "Epistemology of perception, defeasibility theory, skepticism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Five-part progressive argument: (1) framework, (2) single-modality visual, (3) compound perceptual, (4) tactile challenge, (5) synthesis into hierarchy"
+  },
+  "summary_of_core_decisions": "The essay systematically dismantles conclusive empirical indefeasibility by showing that each level of perceptual justification, while progressively more robust, remains vulnerable to some class of defeaters. It culminates in a four-level hierarchy of defeasibility grounded in informational richness and cross-modal integration.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection of the target thesis; acceptance of a graded alternative",
+    "hedging_density_in_final_paragraph": "High; uses terms like 'practically conclusive,' 'not absolute,' 'apex of empirical justification'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "gessel-the_hierarchy_of_empirical_defeasibility_deepseek-v4-flash-0731.txt"
+}

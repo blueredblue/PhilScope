@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical and contextual",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High, with repeated restatement and escalation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High, with clear engagement of opposing views",
+    "logical_relevance": "High, with consistent focus on the central problem",
+    "premise_acceptability": "Moderate, dependent on theological assumptions"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Free choice vs. liberating grace",
+      "Natural freedom vs. rightly ordered love",
+      "Voluntariness vs. external compulsion",
+      "Evil as privation vs. evil as substance",
+      "God as first cause vs. creature as secondary cause",
+      "Inability vs. excuse",
+      "Salvation as gift vs. salvation as reward"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Freedom as self-expression",
+      "Freedom as rightly ordered love",
+      "Grace as cause of the will's recovery",
+      "Predestination as God's foreordination of the elect"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses objections by redefining freedom and responsibility",
+    "objections_raised": [
+      "Selective grace seems unfair",
+      "Moral exhortation becomes meaningless",
+      "Responsibility requires ability to do otherwise",
+      "Inherited guilt is unjust"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate, with qualified conclusions",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Augustine's texts",
+      "Pelagius and Julian of Eclanum"
+    ],
+    "evidence_type": "Textual interpretation and conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Theological and metaphysical",
+    "sentiment": "Analytical and critical",
+    "thematic_focus": "Divine sovereignty, human freedom, moral responsibility, grace, sin, predestination"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical progression from early to mature Augustine, with sections on polemical contexts and systematic analysis"
+  },
+  "summary_of_core_decisions": "The text argues that Augustine's shift from free choice to predestination is not a simple contradiction but a coherent development driven by polemical contexts. It redefines freedom teleologically and compatibilistically, preserving moral responsibility while subordinating human agency to divine sovereignty. The final position is unified but tragic, exposing an unresolved tension between grace and responsibility.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified and nuanced",
+    "hedging_density_in_final_paragraph": "Moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "madsen-gods_sovereignty_gpt-5.6-luna.txt"
+}

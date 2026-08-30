@@ -1,0 +1,65 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often embedded in descriptions of theories"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views and seeks synthesis",
+    "logical_relevance": "High - all sections contribute to the central problem",
+    "premise_acceptability": "Moderate - relies on contested philosophical positions (e.g., Davidson's holism, Klee's objection)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Strict laws vs. ceteris paribus laws",
+      "Type-to-type reduction vs. token identity",
+      "Physiological mechanism vs. holistic rationality",
+      "Objective science vs. subjective interpretation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Boorse's 'normal functioning' as species-typical",
+      "Davidson's 'holism of the mental'",
+      "Klee's 'ceteris paribus' clause"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Klee's objection is used to modify Davidson's position, not to refute it outright; the essay then revises Boorse to accommodate the modified view.",
+    "objections_raised": [
+      "Davidson's claim that no strict psychological laws exist",
+      "Boorse's requirement for strict causal laws in mental health"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'suggests', 'can be', 'viable'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Christopher Boorse",
+      "Donald Davidson",
+      "Robert Klee"
+    ],
+    "evidence_type": "Philosophical argumentation, conceptual analysis, illustrative examples (depression, pneumonia)",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mind and philosophy of science",
+    "sentiment": "Neutral, analytical",
+    "thematic_focus": "Reductionism vs. holism, scientific legitimacy, mental health"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical progression: Introduction, I (Boorse), II (Davidson), III (Klee), IV (Synthesis), Conclusion"
+  },
+  "summary_of_core_decisions": "The essay resolves the tension between Boorse's reductionist biostatistical theory and Davidson's holism by adopting Klee's ceteris paribus laws, thereby preserving an autonomous science of mental health without type-to-type reductions.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic - proposes a revised model that incorporates both physiological and holistic elements",
+    "hedging_density_in_final_paragraph": "Low - states the resolution confidently"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "jensen-what_a_theory_of_mental_health_should_be_ling-3.0-flash-free.txt"
+}

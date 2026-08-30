@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical reconciliation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated and defended through textual evidence and metaphysical analysis"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong - acknowledges counterarguments and seeks synthesis",
+    "logical_relevance": "High - all sections contribute to the central thesis",
+    "premise_acceptability": "Moderate - relies on contested interpretations of Aristotle and Christian theology"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Immanent vs. transcendent",
+      "Practical virtue vs. contemplation",
+      "Composite nature vs. separable intellect",
+      "Self-achieved eudaimonia vs. grace",
+      "Rational grammar vs. comprehensive theology"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Eudaimonia",
+      "Theoria",
+      "Phronesis",
+      "Metaxu",
+      "Synolon",
+      "Energeia",
+      "Immanent transcendence"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Engages with critics (Cooper, Kraut, Richardson Lear) and responds by reinterpreting Book X through energeia and immanent transcendence",
+    "objections_raised": [
+      "Nussbaum downplays the structural hierarchy of Book X",
+      "Contemplation is primary happiness, practical virtue secondary",
+      "The contemplative life escapes vulnerability central to Nussbaum's reading",
+      "Aristotle's Unmoved Mover lacks providence and love",
+      "Christianity requires grace, creation ex nihilo, and resurrection"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'argues', 'suggests', 'can be read', 'appears'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Martha Nussbaum",
+      "John Cooper",
+      "Richard Kraut",
+      "Gabriel Richardson Lear",
+      "Thomas Aquinas"
+    ],
+    "evidence_type": "Textual exegesis, metaphysical analysis, comparative theology, historical synthesis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Aristotelian realism with Christian theological synthesis",
+    "sentiment": "Balanced, constructive, non-polemical",
+    "thematic_focus": "Human nature, vulnerability, contemplation, transcendence, grace, and the foundation of Christian ethics"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-antithesis-synthesis with application to Christian doctrine"
+  },
+  "summary_of_core_decisions": "The essay defends a nuanced middle path: Nussbaum's immanent reading captures Books I-IX but fails to fully account for Book X's hierarchy; yet Book X is not supernatural Christianity but immanent transcendence. Aristotelian ethics provides a rational grammar that Christian doctrine transfigures through grace, creation, and resurrection.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified synthesis",
+    "hedging_density_in_final_paragraph": "Low - final conclusion is assertive but nuanced"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ritch-the_possibility_of_a_christian_appropriation_of_aristotles_ethical_philosophy_gemini-3.5-flash-lite.txt"
+}

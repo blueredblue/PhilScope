@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression from thesis (LOT) through antithesis (connectionism) to synthesis (non-eliminative reductionism), with each section refining the central problem of causal relevance.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often embedded in analogies and thought experiments rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with strongest objections (eliminativism, epiphenomenalism) and offers nuanced middle position.",
+    "logical_relevance": "Strong: all sections bear directly on whether propositional attitudes are causally explanatory.",
+    "premise_acceptability": "Moderate: relies on contested assumptions about causal closure, pattern realism, and multi-level explanation."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Causal autonomy vs. causal relevance",
+      "Legitimate abstraction vs. obscurantist reification",
+      "Eliminative vs. non-eliminative reduction",
+      "Computational, algorithmic, and implementational levels",
+      "Syntactic vs. semantic vs. non-semantic causal processes",
+      "Discrete symbols vs. continuous activation patterns",
+      "Pattern vs. entity",
+      "Proximate cause vs. high-level description"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Propositional attitude: high-level description of a distributed neural activation pattern",
+      "Formality condition: mental processes are sensitive only to syntactic properties of representations",
+      "Non-eliminative reduction: higher-level entities are real but constituted by lower-level patterns"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Eliminativism is presented as the main objection to the failure of LOT; it is answered by arguing that propositional attitudes are real patterns with predictive utility, not autonomous causal agents.",
+    "objections_raised": [
+      "If propositional attitudes are not causally autonomous, they are epiphenomenal.",
+      "If they obscure neurobiological mechanisms, they should be eliminated.",
+      "Fodor's formality condition cannot be satisfied in continuous neural networks."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'largely correct', 'requires careful qualification', 'not fundamental'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Fodor",
+      "Churchlands",
+      "Dennett",
+      "Smolensky"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, analogical reasoning, and references to computational neuroscience.",
+    "named_thought_experiments": [
+      "Multiple realizability (human brain, silicon chip, Martian hydraulics)",
+      "Temperature as high-level abstraction",
+      "Wave shape as non-causal property",
+      "Traffic jam as causally relevant pattern"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mind and cognitive science",
+    "sentiment": "Non-eliminative materialism; pattern realism; multi-level explanation",
+    "thematic_focus": "Mental causation, causal relevance, reductionism, eliminativism, computational theory of mind"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with introduction, five numbered sections, and conclusion."
+  },
+  "summary_of_core_decisions": "The essay argues that propositional attitudes fail as causally autonomous entities in connectionist cognitive science, but rejects eliminativism in favor of non-eliminative reductionism: attitudes are real, causally relevant patterns that supervene on non-propositional neural dynamics.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified negative thesis with positive alternative",
+    "hedging_density_in_final_paragraph": "High: 'largely correct', 'requires careful qualification', 'not fundamental', 'indispensable'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "martin-bad_attitudes_deepseek-v4-flash-0731.txt"
+}

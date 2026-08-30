@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate \u2014 key premises are embedded in narrative and metaphor rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2014 engages opposing views and seeks synthesis",
+    "logical_relevance": "High \u2014 all sections contribute to the central thesis",
+    "premise_acceptability": "Moderate \u2014 relies on contested philosophical and scientific claims"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Freedom-from-cant vs. situatedness",
+      "Ironist vs. traditionalist",
+      "Liberation vs. fatalism",
+      "Fusion of horizons vs. domination/submission",
+      "Bounded relationality vs. absolute autonomy"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Cant",
+      "Exotopy",
+      "Strong evaluation",
+      "Fusion of horizons",
+      "Limbic regulation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges objections from communitarians and integrates them into synthesis",
+    "objections_raised": [
+      "Radical self-redescription leads to solipsism",
+      "Unencumbered self is a phantom",
+      "Absolute liberation overwhelms agency"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low \u2014 uses 'demonstrates', 'reveals', 'requires' but with philosophical nuance",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Rorty",
+      "Bakhtin",
+      "Heidegger",
+      "Taylor",
+      "Gadamer",
+      "Merleau-Ponty",
+      "Lewis, Amini, Lannon"
+    ],
+    "evidence_type": "Philosophical argumentation and selective scientific evidence from affective neuroscience",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental philosophy (hermeneutics, phenomenology) integrated with analytic pragmatism and neuroscience",
+    "sentiment": "Anti-foundationalist but not anti-realist; relational and embodied",
+    "thematic_focus": "Freedom, situatedness, tradition, dialogue, embodiment, agency"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical essay with introduction, four parts, and conclusion"
+  },
+  "summary_of_core_decisions": "The text resolves the modern dialectic between liberationist freedom and communitarian situatedness by arguing that meaningful freedom is a dialogical achievement requiring bounded relational contexts. It uses Gadamer's fusion of horizons and limbic regulation to show that boundaries are preconditions of agency, not prisons.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic resolution",
+    "hedging_density_in_final_paragraph": "Low \u2014 assertive and declarative"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lantigua-freedom_and_the_dialogical_self_gemini-3.5-flash-lite.txt"
+}

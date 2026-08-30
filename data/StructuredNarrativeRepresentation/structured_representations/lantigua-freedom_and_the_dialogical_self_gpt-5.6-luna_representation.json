@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 7,
+    "premise_explicitness": "High"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "High"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Liberation vs. situatedness",
+      "Essence vs. situatedness",
+      "Constitution vs. determination",
+      "Oppressive vs. enabling boundaries",
+      "Private vs. public redescription",
+      "Monological vs. dialogical self",
+      "Absolute authorship vs. responsive authorship"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Cant: socially compulsory language that conceals its own contingency",
+      "Exotopy: outsideness that is itself relationally situated",
+      "Thrownness: historical embeddedness as the condition of agency",
+      "Fusion of horizons: understanding through the encounter of perspectives",
+      "Strong evaluation: qualitative distinctions that structure identity",
+      "Limbic regulation: embodied affective security that supports exploration",
+      "Dialogical self: self constituted through response to others",
+      "Bounded relational contexts: enabling limits that give form to freedom"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Integrates objections as positive conditions for the synthesis",
+    "objections_raised": [
+      "Rorty's radical redescription renders the self too weightless",
+      "Outsideness risks becoming a context-free vantage point",
+      "Fusion of horizons risks eliminating difference",
+      "Biological grounding risks naturalizing existing social arrangements",
+      "Radical self-creation ignores historical and relational conditions"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Rorty",
+      "Bakhtin",
+      "Taylor",
+      "Heidegger",
+      "Gadamer",
+      "Limbic system research"
+    ],
+    "evidence_type": "Philosophical argument supplemented by biological and social scientific considerations",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatist, hermeneutic, phenomenological, and relational",
+    "sentiment": "Anti-essentialist but anti-voluntarist",
+    "thematic_focus": "Freedom, selfhood, dialogue, situatedness, redescription"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned dialectical progression with conclusion"
+  },
+  "summary_of_core_decisions": "The text builds a dialectical synthesis between Rorty's liberating redescription and situated accounts of selfhood. It argues that freedom is not the absence of all boundaries but dialogical becoming within bounded relational contexts. Each major thinker contributes a necessary condition: Rorty provides imaginative redescription, Bakhtin provides exotopic distance, Taylor and Heidegger provide historical and dialogical background, Gadamer provides hermeneutical fusion, and limbic regulation provides embodied affective security. The final position rejects both monological self-creation and deterministic social constructionism, affirming a responsive authorship that transforms inherited materials.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative thesis",
+    "hedging_density_in_final_paragraph": "Low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lantigua-freedom_and_the_dialogical_self_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "highly_explicit_with_quoted_sources"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "high_for_kantian_framework"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "empirical_vs_a_priori",
+      "hypothetical_vs_categorical_imperative",
+      "heteronomy_vs_autonomy",
+      "phenomenal_vs_noumenal",
+      "motive_vs_object",
+      "virtue_vs_happiness",
+      "worthiness_vs_achievement",
+      "price_vs_dignity",
+      "determining_ground_vs_necessary_object"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "good_will",
+      "duty",
+      "worthiness",
+      "highest_good",
+      "autonomy",
+      "heteronomy"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "uses_antinomy_and_postulates",
+    "objections_raised": [
+      "virtue_and_happiness_do_not_naturally_coincide",
+      "if_virtue_causes_happiness_moral_purity_is_compromised",
+      "highest_good_seems_impossible"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Aristotle",
+      "Hutcheson",
+      "British_sentimentalists",
+      "utilitarians"
+    ],
+    "evidence_type": "textual_quotes_and_historical_contrast",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "deontological",
+    "sentiment": "rationalist",
+    "thematic_focus": "ethics_and_moral_psychology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical_progression"
+  },
+  "summary_of_core_decisions": "The essay presents Kant's ethics as a dialectical synthesis: it rejects eudaimonism as a foundation, redefines morality as worthiness to be happy, resolves the antinomy of practical reason through the postulates of immortality and God, and preserves autonomy by keeping happiness as the object rather than the motive of moral action.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_synthesis",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hughes-the_role_of_happiness_in_kants_ethics_gemini-3.5-flash-lite.txt"
+}

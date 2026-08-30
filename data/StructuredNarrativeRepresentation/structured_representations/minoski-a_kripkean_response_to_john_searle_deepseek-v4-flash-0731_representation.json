@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against descriptivism, supported by modal and thought-experimental counterexamples",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High; premises are stated and defended through examples and modal intuitions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong; engages with Searle's objections and attempts to show they rest on an epistemic/semantic conflation",
+    "logical_relevance": "High; each section advances the thesis by either clarifying the distinction or testing it against counterexamples",
+    "premise_acceptability": "Moderate; relies on intuitions about possible worlds and thought experiments that are contestable but standard in the literature"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Rigid vs. non-rigid designators",
+      "Fixing reference vs. giving meaning",
+      "Epistemic necessity vs. semantic constitution",
+      "Object vs. description as referent determinant"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Rigid designator: refers to same object in all possible worlds where it exists",
+      "Non-rigid designator: may refer to different objects depending on world",
+      "Fixing reference: using a description to identify an object without making it part of the name's meaning",
+      "Meaning: semantic content that determines reference in all contexts"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Concedes that descriptions are epistemically necessary for the act of baptism, but denies they are semantically constitutive of the name's meaning",
+    "objections_raised": [
+      "Baptism requires descriptive identification of the referent",
+      "Causal chain is parasitic on descriptive beliefs",
+      "Cluster theory can handle counterexamples by allowing a sufficient number of descriptions"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'decisive', 'clearly', 'deeply counterintuitive' but also 'seems' and 'might'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kripke",
+      "Searle",
+      "Frege",
+      "Russell"
+    ],
+    "evidence_type": "Conceptual analysis, modal intuitions, thought experiments, historical examples",
+    "named_thought_experiments": [
+      "Neptune example",
+      "Aristotle counterfactual",
+      "Hospital twin case"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language; possible-worlds semantics; causal-historical theory of reference",
+    "sentiment": "Defends Kripke's rigid designation against Searle's descriptivist challenge",
+    "thematic_focus": "Reference, meaning, modality, proper names"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical; presents competing theories, then objection, then response, then decisive thought experiment"
+  },
+  "summary_of_core_decisions": "The paper argues that Kripke's distinction between fixing reference and giving meaning is decisive. Descriptions may be needed to identify an object at baptism, but they do not become the meaning of the name. The hospital twin case shows that the object originally baptized, not the descriptions associated with it, determines reference. Therefore, Kripke's rigid designation is superior to Searle's descriptivism.",
+  "thesis_commitment": {
+    "conclusion_type": "Theoretical defense",
+    "hedging_density_in_final_paragraph": "Low; final paragraph asserts the conclusion without hedging"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "minoski-a_kripkean_response_to_john_searle_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum of Klein's fourth condition through counterexamples and dilemma generation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "internalism vs. externalism",
+      "defeater vs. defeater-defeater",
+      "known vs. unknown defeaters",
+      "actual vs. counterfactual threats",
+      "epistemic agency vs. passive epistemic reception"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "defeater",
+      "defeater-defeater",
+      "felicitous-coincidence principle",
+      "hyper-intellectualism"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges and attempts to rebut",
+    "objections_raised": [
+      "hyper-skepticism",
+      "ad-hoc modification",
+      "internalist/externalist instability",
+      "erasure of epistemic agency"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Gettier",
+      "Klein",
+      "Wittgenstein"
+    ],
+    "evidence_type": "philosophical counterexamples and conceptual analysis",
+    "named_thought_experiments": [
+      "The Unexecuted Threat to the State Capitol Building",
+      "The Delayed Visit from the Sister-in-Law",
+      "The Rembrandt Painting Case"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic epistemology",
+    "sentiment": "critical of Klein's fourth condition",
+    "thematic_focus": "Gettier problem, defeaters, epistemic justification, internalism/externalism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis-driven with progressive counterexample analysis"
+  },
+  "summary_of_core_decisions": "The essay argues that Klein's fourth condition fails because it leads to hyper-skepticism, creates an unstable internalist/externalist hybrid, and erases the epistemic agent's active role.",
+  "thesis_commitment": {
+    "conclusion_type": "negative",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mooneyham-a_proposed_counterexample_to_kleins_theory_of_knowledge_gemini-3.5-flash-lite.txt"
+}

@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical_immanent_critique",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "moderate_high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "reason_vs_sentiment",
+      "motivation_vs_justification",
+      "psychological_explainability_vs_normative_justification",
+      "partial_sympathy_vs_general_point_of_view",
+      "having_an_emotion_vs_being_entitled_to_act_on_it",
+      "habituation_vs_indoctrination",
+      "empathy_vs_compassion",
+      "normative_universality_vs_psychological_universality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "sympathy",
+      "practical_wisdom",
+      "habituation",
+      "general_point_of_view",
+      "moral_sentiment"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "immanent_critique_and_synthesis",
+    "objections_raised": [
+      "sympathy_can_transmit_cruelty_and_prejudice",
+      "sentiment_is_partial_and_variable",
+      "usefulness_presupposes_background_value",
+      "general_point_of_view_is_unstable_without_rational_standard",
+      "organized_malicious_sentiments_could_count_as_moral",
+      "habituation_can_be_corrupt_indoctrination"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "hume",
+      "aristotle"
+    ],
+    "evidence_type": "conceptual_analysis_and_hypothetical_examples",
+    "named_thought_experiments": [
+      "vengeance_case",
+      "malicious_group_solidarity_case",
+      "criminal_exempting_himself_from_general_rules",
+      "tyrant_welcoming_fear_and_instability"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "synthetic_integration_of_sentimentalism_and_virtue_ethics",
+    "sentiment": "necessary_but_not_sufficient",
+    "thematic_focus": "moral_authority_and_motivation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical_progression_from_hume_to_aristotle_to_synthesis"
+  },
+  "summary_of_core_decisions": "The text defends a hybrid position: Hume's sentimentalism supplies motivational force and moral concern, but lacks an internal normative standard; Aristotle's habituation and practical wisdom supply the needed rational and characterological regulation. Universal obligations are normative rather than psychological, grounded in conditions of shared human flourishing and made effective through cultivated sentiment.",
+  "thesis_commitment": {
+    "conclusion_type": "synthetic_integration",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "kalliney-a_defense_of_the_importance_of_emotions_gpt-5.6-luna.txt"
+}

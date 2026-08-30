@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often embedded in narrative prose rather than enumerated formally"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments and attempts synthesis",
+    "logical_relevance": "High - all sections contribute to the central thesis",
+    "premise_acceptability": "Moderate - relies on contested interpretations of Aristotle and modern political theory"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "State vs. micro-associations",
+      "Material scaffolding vs. moral completion",
+      "Necessary condition vs. sufficient cause",
+      "Impersonal vs. particularistic relationships",
+      "Procedural neutrality vs. substantive virtue"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "teleios philia",
+      "allos autos",
+      "eudaimonia",
+      "oikos",
+      "polis"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges the objection from particularism and responds with a dialectical synthesis, arguing for interdependence rather than exclusion.",
+    "objections_raised": [
+      "Particularism leads to tribalism, nepotism, factionalism, and exclusion of outsiders."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedged phrases like 'seems', 'appears', 'can be argued'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "John Rawls",
+      "Michael Walzer",
+      "Immanuel Kant",
+      "J\u00fcrgen Habermas"
+    ],
+    "evidence_type": "Philosophical argumentation, textual interpretation, historical examples, conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Aristotelian teleology",
+    "sentiment": "Neutral - analytical and critical",
+    "thematic_focus": "Political philosophy, ethics, friendship, state theory"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections and subheadings"
+  },
+  "summary_of_core_decisions": "The text argues that the modern state is structurally incapable of fostering perfect friendship (teleios philia) due to impersonality, pluralism, and scale. It proposes a division of labor: the state provides material preconditions (security, wealth, legal framework) while micro-associations (family, peers, intentional communities) complete moral development. The argument addresses the objection of particularism by asserting a dialectical interdependence between the two spheres. The conclusion is that the state is a necessary but not sufficient condition for eudaimonia; friends build the soul.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative prescription",
+    "hedging_density_in_final_paragraph": "Low - states conclusion confidently"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "dix-should_the_government_be_your_friend_gemini-3.5-flash-lite.txt"
+}

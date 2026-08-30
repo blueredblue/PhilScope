@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conditional chain with recursive restatement",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "High, with repeated restatement of key premises"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate to high within the interpretive framework"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "mathematical vs epistemic",
+      "proof vs preparation",
+      "intellect vs will",
+      "self-interest as starting point vs destination",
+      "temporary fiction vs permanent reality",
+      "malicious vs pedagogical deception",
+      "static assent vs dynamic habit"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "skeptical libertine",
+      "preliminary deception",
+      "epistemic argument",
+      "rhetorical neutralization"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges the 'many gods' objection and logical flaws, but argues they miss the Wager's true function.",
+    "objections_raised": [
+      "many gods objection",
+      "logical flaws in mathematical formulation",
+      "self-interested faith is not genuine faith"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Pascal",
+      "Thomas Morris",
+      "Bernard Howell"
+    ],
+    "evidence_type": "Interpretive and conceptual, with appeals to textual intent and psychological mechanism",
+    "named_thought_experiments": [
+      "Wager as Trojan horse",
+      "acting 'as if'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatic and epistemic",
+    "sentiment": "Interpretive and apologetic",
+    "thematic_focus": "Reason, will, belief, self-deception, and the conditions for knowledge"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Recursive restatement with progressive refinement"
+  },
+  "summary_of_core_decisions": "The text reinterprets Pascal's Wager as an epistemic intervention rather than a mathematical proof, using a recursive structure to layer the argument: reason's insufficiency, the will's role, Morris/Howell's rhetorical neutralization, the mechanism of 'acting as if', and the transformative power of habit. It resolves the tension between self-interest and genuine faith by treating self-interest as a temporary catalyst that is outgrown through practice.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis",
+    "hedging_density_in_final_paragraph": "Low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "velchik-pascals_wager_ling-3.0-flash-free.txt"
+}

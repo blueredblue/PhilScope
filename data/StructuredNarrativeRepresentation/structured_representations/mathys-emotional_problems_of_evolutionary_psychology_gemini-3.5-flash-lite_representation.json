@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical critique and non-reductive synthesis",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate: many premises are embedded in phenomenological descriptions and case-study contrasts rather than formalized propositions."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay stages a genuine confrontation between reductionist and expressivist paradigms, then seeks a synthesis.",
+    "logical_relevance": "High: each section advances the central question of whether translation alters or annihilates the emotional object.",
+    "premise_acceptability": "Moderate: the expressivist premises are plausible but not uncontroversial; the performative contradiction argument is strong but depends on a specific view of reasons and causes."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Designative-instrumentalist vs. expressivist views of language",
+      "Sub-personal mechanism vs. subject-referring import-ascriptions",
+      "Material cause vs. formal/final cause",
+      "Benign scientific reduction vs. destructive ontological substitution",
+      "Organism vs. self-interpreting agent"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Ultra-Darwinism: gene-level selectionist framework treating emotions as adaptive mechanisms",
+      "Designative-instrumentalist view: language labels pre-existing facts; words are instruments",
+      "Expressivism: language constitutes meaning; emotions are subject-referring import-ascriptions",
+      "Strong evaluations: qualitative discriminations of worth (noble/base, fulfilling/empty)",
+      "Fallacy of misplaced concreteness: treating an abstract model as more real than lived experience"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates the objection that reduction reveals hidden essence rather than altering emotion, and rebuts it via the self-constituting nature of emotions and the performative contradiction of evolutionary psychology.",
+    "objections_raised": [
+      "Reduction is merely revealing the true mechanism behind the 'user illusion'",
+      "Scientific reduction is common and does not annihilate phenomena (water/H2O)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'cannot', 'must', 'fatal limit', but also 'points toward' and 'requires'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Charles Taylor",
+      "Maurice Merleau-Ponty",
+      "Paul Ricoeur",
+      "Alfred North Whitehead",
+      "Aaron Sell, John Tooby, Leda Cosmides",
+      "David Buss, Robert Frank"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological description, case studies, meta-critical argument, philosophical authority.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and hermeneutic, with a non-reductive naturalist orientation.",
+    "sentiment": "Critical of scientific reductionism but not anti-naturalist; seeks integration.",
+    "thematic_focus": "Philosophy of emotion, philosophy of language, philosophy of biology, moral psychology."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: thesis (ultra-Darwinism), antithesis (expressivism), concrete case studies, meta-critique, synthesis."
+  },
+  "summary_of_core_decisions": "The essay decides that ultra-Darwinian reductionism fails because it annihilates the intentional, normative, self-interpreting character of emotions; it then proposes a non-reductive synthesis that preserves both evolutionary embodiment and cultural meaning.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified non-reductive naturalism",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive about the need for synthesis, though it acknowledges complexity."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mathys-emotional_problems_of_evolutionary_psychology_gemini-3.5-flash-lite.txt"
+}

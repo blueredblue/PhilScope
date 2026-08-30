@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical evaluation with formal reconstruction and counterargument analysis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "highly_explicit_with_formal_notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_to_high_within_analytic_plato_scholarship"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Self-Predication vs Non-Identity",
+      "inherence vs exemplification",
+      "trans-level vs intra-level predication",
+      "univocity vs equivocity/analogy",
+      "essence vs instance",
+      "naive two-worlds ontology vs later dialectic"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Self-Predication (SP)",
+      "Non-Identity (NI)",
+      "Participation (methexis)",
+      "Focal meaning",
+      "Self-constitution"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "systematic_and_balanced",
+    "objections_raised": [
+      "Vlastos equivocates on the copula",
+      "Vlastos assumes univocity of predicates",
+      "Vlastos treats Forms as homogeneous set members",
+      "Vlastos ignores Plato's later self-critique"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Phaedo",
+      "Plato's Symposium",
+      "Plato's Protagoras",
+      "Plato's Sophist",
+      "Parmenides"
+    ],
+    "evidence_type": "textual_quotation_and_logical_reconstruction",
+    "named_thought_experiments": [
+      "standard meter in Paris"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic_plato_scholarship",
+    "sentiment": "balanced_and_revisionist",
+    "thematic_focus": "ontology_of_infinite_regress"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical_progression_with_alternative_solutions"
+  },
+  "summary_of_core_decisions": "The essay reconstructs Vlastos's Third Man Argument, formalizes its premises, then presents Sellars's and Geach's objections, evaluates Vlastos's reply, and concludes with a nuanced verdict: Vlastos is logically right under a naive literal reading but philosophically uncharitable; the TMA is best understood as Plato's own internal critique leading to the later dialectic.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_verdict",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hansen-platos_parmenides_gemini-3.5-flash-lite.txt"
+}

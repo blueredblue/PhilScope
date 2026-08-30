@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dilemma-based internal critique",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate - premises are embedded in narrative examples rather than formal notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages directly with the strongest version of the opposing view (Klein's undefeated defeater)",
+    "logical_relevance": "High - every counterexample directly targets the necessity or sufficiency of the proposed condition",
+    "premise_acceptability": "Moderate - relies on intuitive judgments about thought experiments (e.g., sheep case) which may be contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Internalist vs. Externalist justification",
+      "Defeater vs. Undefeated defeater",
+      "Subjective justification vs. Objective truth-tracking",
+      "Epistemic luck (primary) vs. Higher-order epistemic luck"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Defeater: a true proposition that, if known, would undermine justification",
+      "Undefeated defeater: a defeater that is not itself defeated by another true proposition",
+      "Felicitous coincidence: a scenario where a defeater is neutralized by a further truth"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Preemptive - the text anticipates the objection that the simple defeater condition is too strong and introduces Klein's refinement, only to show it fails via a dilemma",
+    "objections_raised": [
+      "Simple defeater condition is too strong (sheep case)",
+      "Klein's undefeated defeater condition is either too strong (requires ruling out all unknown defeaters) or too weak (relocates luck to higher-order defeaters)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses phrases like 'fails to establish', 'does not preserve', 'either...or' indicating a critical but non-dogmatic stance",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Thought experiments and counterexamples",
+    "named_thought_experiments": [
+      "Smith/Jones/Ford/Brown (Gettier cases)",
+      "Sheep in the field (dog disguised as sheep, real sheep behind)",
+      "State Capitol Building threat (hidden background circumstance)",
+      "Sister-in-law visit (delayed background circumstance)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic epistemology",
+    "sentiment": "Critical of externalist solutions that fail to secure the anti-luck condition",
+    "thematic_focus": "The nature of epistemic luck and the necessary connection between justification and truth"
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "Recursive dialectical spiral - each proposed fix is shown to generate a new problem, culminating in a dilemma rather than a positive thesis"
+  },
+  "summary_of_core_decisions": "The text's blueprint is a counterexample-driven critique of Klein's no-defeater condition. It establishes the Gettier problem, tests the simple defeater fix, shows its failure, introduces Klein's undefeated defeater, and then argues that this refinement either imposes an impossible externalist burden or merely pushes the epistemic luck to a higher order, thereby failing to solve the original problem.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative - argues that Klein's condition fails",
+    "hedging_density_in_final_paragraph": "High - uses 'fails to establish', 'does not preserve', 'either...or' to indicate a critical but non-dogmatic stance"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mooneyham-a_proposed_counterexample_to_kleins_theory_of_knowledge_deepseek-v4-flash-0731.txt"
+}

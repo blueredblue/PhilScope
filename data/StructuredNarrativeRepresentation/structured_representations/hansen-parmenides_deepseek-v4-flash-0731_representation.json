@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Problem-solution dialectic with a defensive thesis",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "High - premises are explicitly formalized and labeled"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing interpretations and presents a dilemma for the standard view",
+    "logical_relevance": "High - all sections directly address the validity of the modal inference",
+    "premise_acceptability": "Contested - the acceptability of the alternative readings (Goldin/Robinson) is the central point of contention"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "de re vs. de dicto modality",
+      "epistemic vs. metaphysical modality",
+      "existential vs. copulative vs. ascertainment function of 'esti'",
+      "logical validity vs. philosophical grounding"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "de dicto modality: modality attributed to a proposition or state of affairs",
+      "de re modality: modality attributed to an object or thing",
+      "ascertainment verb: indicates the presence of an object to thought or perception"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Preemptively addresses the objection that the standard reading is either invalid or ungrounded by offering a third interpretive path",
+    "objections_raised": [
+      "The standard reading commits a modal fallacy (invalid inference from de dicto necessity to de re necessity).",
+      "Even the existential reading (Burnet) suffers from an ungrounded leap from epistemic limits to metaphysical reality."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'seeks to avoid', 'appears to be', 'projected outcome'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Burnet",
+      "G.E.L. Owen",
+      "Owen Goldin",
+      "T.M. Robinson"
+    ],
+    "evidence_type": "Textual exegesis, logical formalization, conceptual analysis, comparative interpretation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language and logic, with a focus on modal logic and ancient Greek semantics",
+    "sentiment": "Neutral-analytical; aims to rescue Parmenides from a logical fallacy by reinterpreting his semantic commitments",
+    "thematic_focus": "The relationship between thought, language, and being; the semantics of the verb 'to be'"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Linear-progressive with a dialectical pivot (Thesis -> Antithesis -> Synthesis). The text moves from presenting the standard reading (Thesis), to exposing its fatal flaw (Antithesis), to proposing alternative readings (Synthesis)."
+  },
+  "summary_of_core_decisions": "The text's core decision is to treat the modal fallacy accusation as a symptom of a flawed semantic interpretation of 'esti'. By shifting the modality from the object (de re) to the cognitive act (de dicto) via Goldin's 'ascertainment' reading, the text dissolves the logical invalidity while preserving Parmenides' metaphysical conclusion.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive and logical defense",
+    "hedging_density_in_final_paragraph": "Low - the projected conclusion is definitive: Parmenides' deduction is logically coherent under the alternative readings."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hansen-parmenides_deepseek-v4-flash-0731.txt"
+}

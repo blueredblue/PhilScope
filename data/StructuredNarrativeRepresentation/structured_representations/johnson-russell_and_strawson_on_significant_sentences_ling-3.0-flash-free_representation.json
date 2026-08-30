@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression from thesis to antithesis to attempted synthesis, followed by critique and qualified conclusion.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "High: formal logical notation and explicit presupposition conditions are stated; pragmatic claims are also explicitly articulated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text fairly represents both Russell and Strawson and acknowledges partial success of the synthesis.",
+    "logical_relevance": "High: all objections target the coherence of combining bivalence with truth-value gaps.",
+    "premise_acceptability": "Moderate: the text assumes classical logic and a particular interpretation of Strawson; these are contestable but internally consistent."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Sentence vs. use of sentence",
+      "Logical truth conditions vs. pragmatic truth-value attribution",
+      "Referential vs. attributive use of denoting phrases",
+      "Significance vs. truth value",
+      "Existent vs. non-existent referents",
+      "Bivalence vs. truth-value gap"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Denoting phrase as incomplete symbol",
+      "Truth-value gap as absence of truth value due to presupposition failure",
+      "Unified framework as dual-layered (logical-semantic + pragmatic-contextual)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that context-dependence undermines objectivity and responds by conceding the failure of a definitive resolution while preserving partial success.",
+    "objections_raised": [
+      "Context-dependent truth values undermine the objectivity of truth.",
+      "The negation paradox: logically true under Russell but truth-valueless under Strawson.",
+      "Coherence problem: a sentence cannot be both logically true and pragmatically truth-valueless.",
+      "Incompatibility of foundational commitments: bivalence vs. context-dependence, sentence vs. assertion as truth-bearer."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'cannot successfully resolve', 'fails', 'offers the most comprehensive account'\u2014assertive but qualified.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Russell",
+      "Strawson"
+    ],
+    "evidence_type": "Conceptual analysis, formal logical reconstruction, pragmatic thought experiments, and a recurring example ('The present King of France is bald').",
+    "named_thought_experiments": [
+      "The present King of France is bald",
+      "The present King of France is not bald"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language; logic and pragmatics.",
+    "sentiment": "Neutral-critical: appreciates both Russell and Strawson but rejects the possibility of a complete synthesis.",
+    "thematic_focus": "Empty referring terms, truth values, significance, bivalence, presupposition, context-dependence."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: problem \u2192 Russell \u2192 Strawson \u2192 synthesis \u2192 critique \u2192 partial resolution \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text chooses to treat the Russell-Strawson debate as an enduring duality rather than a resolvable contradiction. It endorses a dual-layer account of significance but denies that truth values can be fully unified across logical and pragmatic planes.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified negative: the unified framework succeeds for significance but fails for truth values.",
+    "hedging_density_in_final_paragraph": "Moderate: 'cannot successfully resolve', 'irreducible duality', 'enduring philosophical problem'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "johnson-russell_and_strawson_on_significant_sentences_ling-3.0-flash-free.txt"
+}

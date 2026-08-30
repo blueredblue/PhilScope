@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text presents a standard foreknowledge argument and then Ostler's strengthened version, followed by a systematic rebuttal that distinguishes modal/counterfactual dependence from temporal alteration.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "The text explicitly formalizes the standard argument and Ostler's hidden premise, and uses formal notation for counterfactual dependence."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically balanced: it grants the intuitive force of the incompatibilist argument, then shows that the crucial premise is not a logical truth.",
+    "logical_relevance": "The distinctions introduced (intra-history vs inter-history variation, temporal vs metaphysical necessity, causal vs epistemic dependence) are directly relevant to the modal structure of the argument.",
+    "premise_acceptability": "The key contested premise is identified as a substantive metaphysical assumption about the independence of past states from future actions, not a self-evident truth."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Intra-history alteration vs inter-history variation",
+      "Temporal alteration vs counterfactual dependence",
+      "Temporal necessity vs logical/metaphysical necessity",
+      "Necessity of consequence vs necessity of the consequent",
+      "Causal determination vs epistemic tracking",
+      "A-theory vs B-theory of time",
+      "Self-consistency loops vs originating loops",
+      "Categorical ability vs ability under a different total history"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Intra-history alteration: an event occurs, is remembered, and then a later act causes it to have not occurred or to have had a different content.",
+      "Inter-history variation: different complete histories contain different past events, beliefs, memories, and records; nothing changes within a single history."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates and responds to objections from memory, causal loops, truth necessity, and categorical ability.",
+    "objections_raised": [
+      "If God's past belief is fixed, the agent cannot now make it false.",
+      "The view seems to require backward causation or a causal loop.",
+      "If the past could depend on a future choice, memories would be unstable or false.",
+      "The proposition 'God believed A' was true yesterday, so it is now necessary.",
+      "The agent still lacks the categorical power to do otherwise given the actual past.",
+      "A-theory entails the past is settled and independent of the future."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses moderate epistemic language: 'not self-evident', 'not a logical truth', 'no contradiction', 'need not be', 'may be', 'not obviously contradictory'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "The text relies on conceptual analysis, modal reasoning, theological assumptions about divine eternity/omniscience, and formal counterfactual notation.",
+    "named_thought_experiments": [
+      "Fictional story analogy",
+      "Four-dimensional object analogy",
+      "Observer watching a replay analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The text is grounded in analytic philosophy of religion and metaphysics, specifically debates about divine foreknowledge, libertarian freedom, and the metaphysics of time.",
+    "sentiment": "The text is critical of incompatibilism but not dismissive; it acknowledges the intuitive force of the argument and the costs of the compatibility thesis.",
+    "thematic_focus": "The central theme is the modal relationship between divine infallible belief and human free action, with special attention to the ontology of time and the nature of divine cognition."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The text is organized into numbered sections (I\u2013IX) plus a conclusion, each addressing a distinct aspect of the argument: the standard argument, libertarian freedom, the power to change the past, A-theory/B-theory, memory, causal loops, truth necessity, divine perspective, and remaining costs."
+  },
+  "summary_of_core_decisions": "The text's central decision is to reject the premise that a past infallible belief is necessarily independent of a future free act. It replaces the model of divine foreknowledge as a causal antecedent with a model of counterfactual dependence and divine timelessness, thereby defending compatibility without requiring literal backward causation.",
+  "thesis_commitment": {
+    "conclusion_type": "The text defends a compatibility thesis: infallible divine foreknowledge and libertarian freedom are not logically incompatible.",
+    "hedging_density_in_final_paragraph": "The conclusion is firm but qualified: it claims no logical contradiction, not that all metaphysical puzzles are resolved."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "bruening-divine_foreknowledge_and_changing_the_past_gpt-5.6-luna.txt"
+}

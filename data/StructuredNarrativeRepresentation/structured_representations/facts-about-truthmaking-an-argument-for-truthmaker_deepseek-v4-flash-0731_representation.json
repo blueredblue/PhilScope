@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum via infinite regress, culminating in a trilemma for the non-necessitarian.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderately explicit; premises are embedded in the dialectical narrative rather than formally enumerated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High. The argument targets the internal consistency of non-necessitarianism by leveraging its own commitment to the truthmaker principle.",
+    "logical_relevance": "Directly relevant. The regress is generated from the non-necessitarian's denial of necessitation, which is the core of their position.",
+    "premise_acceptability": "The key premise (truthmaker principle applies to higher-order truths) is contested but defended via the charge of ad hoc deflationism."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "First-order vs. higher-order truths",
+      "Internal (necessitated) vs. external (contingent) relations",
+      "Vicious vs. benign regress",
+      "Grounded vs. brute facts",
+      "Ontological inflation vs. parsimony"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Truthmaker principle",
+      "Necessitation condition",
+      "Totality facts",
+      "States of affairs",
+      "Truthmaker slack"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Two objections are anticipated and rebutted: (1) positing a brute truthmaking relation (rebutted via collapse into necessitarianism), and (2) denying truthmakers for higher-order truths (rebutted via ad hoc charge).",
+    "objections_raised": [
+      "Truthmaking relation as a brute fact",
+      "Truthmaker principle not applying to higher-order truths"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High. Uses terms like 'cannot', 'fatal dilemma', 'vicious', 'self-defeating'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "David Armstrong"
+    ],
+    "evidence_type": "A priori conceptual analysis, modal logic (possible worlds), and ontological parsimony considerations.",
+    "named_thought_experiments": [
+      "Socrates is wise (atomic truth)",
+      "All ravens are black (universal generalization)",
+      "There are no unicorns (negative existential)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Grounding theory",
+    "sentiment": "Anti-deflationist, pro-robust metaphysics",
+    "thematic_focus": "Truthmaking, ontological commitment, infinite regress, modal metaphysics"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical progression: Thesis (Necessitarianism) -> Antithesis (Non-necessitarianism) -> Synthesis/Resolution (Regress argument forcing collapse or abandonment)."
+  },
+  "summary_of_core_decisions": "The text's core decision is to shift the debate from first-order truths (universals/negatives) to higher-order truths about the truthmaking relation itself. This shift reveals that the non-necessitarian's rejection of necessitation generates an infinite regress of truthmakers, which is vicious. The only escapes are (a) positing a brute relation (which entails necessitation, collapsing into the thesis) or (b) exempting higher-order truths (which is ad hoc and undermines the truthmaker principle). Thus, the non-necessitarian cannot escape a robust, necessitarian ontology.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative (critique of non-necessitarianism) and positive (vindication of necessitarianism).",
+    "hedging_density_in_final_paragraph": "Low. The conclusion is definitive: non-necessitarianism is untenable."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "facts-about-truthmaking-an-argument-for-truthmaker_deepseek-v4-flash-0731.txt"
+}

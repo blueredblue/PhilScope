@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression with successive refinement and critique",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate\u2014premises are embedded in thought experiments and formal examples rather than enumerated as numbered propositions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High\u2014the text fairly presents the indexing solution before critiquing it, and engages with Plantinga's sophisticated version rather than attacking a strawman",
+    "logical_relevance": "High\u2014each section directly advances the central thesis about the insufficiency of property-indexing",
+    "premise_acceptability": "Moderate\u2014the text relies on contested metaphysical intuitions (e.g., haecceitism, mereological essentialism) without fully defending them"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Essential vs. accidental properties",
+      "Indexed vs. unindexed properties",
+      "Qualitative vs. non-qualitative (haecceitistic) properties",
+      "World-indexed vs. time-indexed properties",
+      "Trivial vs. substantive identity claims"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "PI: if x and y are identical, then every property of x is a property of y",
+      "PII: if x and y share all their properties, then x and y are identical",
+      "Essential properties: those an object has in all possible worlds where it exists (Plantinga's definition)",
+      "World-indexed properties: properties of the form being-F-in-w"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text raises objections against the indexing solution (triviality, arbitrariness) and then examines Plantinga's response, showing it fails to answer the epistemological objection",
+    "objections_raised": [
+      "If all properties are indexed, identity becomes trivially analytic",
+      "If only some properties are indexed, we need a criterion for distinguishing essential from accidental properties\u2014which the indexing mechanism cannot provide",
+      "Plantinga's haecceitism lacks epistemic justification",
+      "The indexing solution is neutral between competing metaphysical theories (mereological essentialism, haecceitism, bundle theory) and cannot decide between them"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low\u2014the text uses hedged language ('seems to', 'appears to', 'threatens to') when discussing contested claims",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Alvin Plantinga",
+      "Saul Kripke",
+      "Roderick Chisholm"
+    ],
+    "evidence_type": "Thought experiments and formal logical analysis",
+    "named_thought_experiments": [
+      "Bobby's posture change (diachronic identity)",
+      "Statue and lump (material constitution)",
+      "Chisholm's Adam and Noah (trans-world identity)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical realism with analytic methodology",
+    "sentiment": "Critical of formal solutions that fail to address substantive metaphysical questions",
+    "thematic_focus": "Identity, essentialism, modality, persistence conditions"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-critique-refinement-critique progression across four sections"
+  },
+  "summary_of_core_decisions": "The text argues that property-indexing is a necessary formal device for preserving Leibniz's Laws but is insufficient as a metaphysical solution. The indexing mechanism cannot distinguish essential from accidental properties, and Plantinga's attempt to ground it in haecceitism fails to answer the epistemological objection. The paradoxes of identity are thus not resolved but relocated to the unresolved question of essence.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative\u2014the proposed solution (property-indexing) is shown to be inadequate",
+    "hedging_density_in_final_paragraph": "High\u2014the text uses 'threatens to', 'seems to', 'appears to' when discussing the failure of Plantinga's account"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwenkler-property_indexing_and_problems_of_identity_deepseek-v4-flash-0731.txt"
+}

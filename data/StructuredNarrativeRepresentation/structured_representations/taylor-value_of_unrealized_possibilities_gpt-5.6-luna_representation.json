@@ -1,0 +1,65 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Marquis's future-like-ours account: killing is seriously wrong because it deprives the victim of a valuable future; normal fetuses have such a future, so abortion is normally seriously wrong.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "The text presents the argument as a general deprivation account of killing's wrongness, then applies it to fetuses, and then defends it against objections."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text systematically presents objections and replies, and acknowledges the argument's limits.",
+    "logical_relevance": "All objections and thought experiments bear directly on the premises of the future-like-ours argument.",
+    "premise_acceptability": "The text does not assume controversial premises without discussion; it identifies where additional theories are needed."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Actualized vs unrealized futures",
+      "Present desire vs objective interest",
+      "Biological continuity vs psychological continuity",
+      "Rights vs benefits",
+      "Prima facie wrong vs all-things-considered wrong"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Future like ours: a future containing conscious experiences, relationships, projects, and goods that make life valuable.",
+      "Deprivation: loss of a valuable future that would have belonged to an existing individual."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text engages with objections by McInerney, Lovering, and Sinnott-Armstrong, offering responses but also conceding that the argument does not prove absolute prohibition.",
+    "objections_raised": [
+      "McInerney: the fetus may not be identical with the future adult; psychological continuity is needed for future ownership.",
+      "Lovering: the early fetus lacks continuous consciousness, unlike an unconscious adult, so the analogy fails.",
+      "Sinnott-Armstrong: deprivation of a valuable future does not entail a right; rights require interests or claims."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'may', 'can', 'appears', 'is more persuasive', 'does not decisively refute'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Thought experiments, conceptual distinctions, dialectical objections and replies, analogical reasoning.",
+    "named_thought_experiments": [
+      "Isolated hermit",
+      "Paraplegic victim"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy: uses thought experiments, counterexamples, and principled argumentation.",
+    "sentiment": "Neutral and critical; defends a qualified version of Marquis's argument while acknowledging its limits.",
+    "thematic_focus": "Abortion ethics, personal identity, moral rights, deprivation theory of killing."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis, application, objections, thought experiments, distinction, qualified conclusion."
+  },
+  "summary_of_core_decisions": "The text ultimately concludes that the future-like-ours argument establishes a serious moral cost of abortion but not an absolute prohibition; additional theories of identity, consciousness, and rights are needed.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "High: 'most defensible conclusion is consequently qualified', 'does not, by itself, show', 'less successful as a complete account'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "taylor-value_of_unrealized_possibilities_gpt-5.6-luna.txt"
+}

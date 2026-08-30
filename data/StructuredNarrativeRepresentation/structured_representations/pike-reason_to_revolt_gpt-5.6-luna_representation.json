@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis through progressive refinement and distinction-making",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are explicitly stated and systematically tested against Kantian formulas"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text presents a genuine antinomy (juridical prohibition vs. moral enthusiasm) and attempts a nuanced synthesis rather than a simple dismissal",
+    "logical_relevance": "High - every section directly addresses the central question of whether a revised revolutionary maxim can be universalized",
+    "premise_acceptability": "Moderate - the text relies heavily on contested Kantian interpretations (e.g., the strictness of the prohibition, the role of public reason), but acknowledges these tensions explicitly"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Legality vs. Morality",
+      "Maxim of an action vs. Historical meaning of an event",
+      "Strict (perfect) duties vs. Broad (imperfect) duties",
+      "Revolutionary disposition vs. Revolutionary authorization",
+      "Private judgment vs. Public authority",
+      "Moral ideal vs. Juridical act"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Strict duties: exclude certain maxims categorically, leaving no discretionary space",
+      "Broad duties: require adoption of certain ends while permitting latitude in means",
+      "Kingdom of Ends: systematic union of rational beings under common laws where each is an end and co-legislator",
+      "Good will: a will determined by a law it can rationally give itself, not merely noble feelings"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic - the text anticipates objections (e.g., 'who determines the threshold?', 'what about extreme despotism?') and refines the maxim in response, but ultimately concedes the core juridical contradiction",
+    "objections_raised": [
+      "The revised maxim collapses into the original if private judgment determines the threshold",
+      "The maxim attempts to use the ideal of public right against the existing form of public right",
+      "A good will does not cleanse intrinsically impermissible means",
+      "Universalizing the maxim recreates the instability of the state of nature",
+      "Consequences, though not defining moral worth, can reveal incoherence in the maxim"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses terms like 'appears', 'seems', 'may be', 'cannot be fully', indicating a cautious, exploratory tone",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Immanuel Kant (Doctrine of Right, Conflict of Faculties, Groundwork)",
+      "Christine Korsgaard (strict/broad duties framework)"
+    ],
+    "evidence_type": "Conceptual analysis, transcendental argumentation (conditions of possibility of public right), and internal critique of Kantian premises",
+    "named_thought_experiments": [
+      "Universalization of the unrestricted maxim (leads to collapse of civil condition)",
+      "Universalization of the revised maxim (leads to private judgment undermining public law)",
+      "Hypothetical revolutionary movement with no plan for public law (fails Kingdom of Ends test)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Deontological (Kantian)",
+    "sentiment": "Analytical, rigorous, and sympathetic to the moral ideal of resistance while strictly adhering to the logic of public right",
+    "thematic_focus": "Political philosophy, ethics of revolution, universalizability, public reason, moral psychology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive refinement. The text moves from stating the paradox (Intro) to exploring its two poles (I & II), testing a revised maxim (III), introducing a conceptual tool to explain the conflict (IV), applying another formula (V), eliminating a false justification (VI), directly confronting universalizability (VII), and finally synthesizing a resolution via a threefold distinction (VIII & Conclusion)."
+  },
+  "summary_of_core_decisions": "The text's core decision is to resolve the Kantian paradox by separating the moral evaluation of the revolutionary *disposition* and *ideal* from the juridical evaluation of the revolutionary *act*. It concludes that while a revised maxim can express a good will and a broad duty to promote justice, it cannot be universalized as a strict juridical right because doing so would reintroduce private judgment and undermine the very public authority that makes rights possible. The resolution is a sharp asymmetry: moral admiration for the ideal, but categorical denial of the legal right.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense of a limited moral justification, but a firm denial of a juridical right",
+    "hedging_density_in_final_paragraph": "High - the conclusion repeatedly uses qualifiers like 'limited', 'qualified', 'cannot, however, by itself', 'best understood not as... but as'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "pike-reason_to_revolt_gpt-5.6-luna.txt"
+}

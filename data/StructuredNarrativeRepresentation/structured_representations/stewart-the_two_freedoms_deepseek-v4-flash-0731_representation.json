@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental-critical dialectic",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated and defended through distinctions (determinate vs. formal lawfulness, schema vs. symbol, descriptive vs. normative universality)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the argument acknowledges and responds to major objections, and uses the antinomy as a productive tension rather than a simple contradiction.",
+    "logical_relevance": "High - each section directly advances the thesis; the objections and responses are integrated into the overall defense.",
+    "premise_acceptability": "Moderate - relies on Kantian transcendental idealism and shared cognitive faculties, which are controversial but internally coherent."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Determinate vs. formal lawfulness",
+      "Determinant vs. reflective judgment",
+      "Free vs. dependent beauty",
+      "Schema vs. symbol",
+      "Descriptive vs. normative universality",
+      "Empirical vs. transcendental ground"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Harmony of the faculties",
+      "Free play",
+      "Purposiveness without purpose",
+      "Symbol as indirect presentation",
+      "Sensus communis as normative ideal"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Each objection is met with a response that clarifies the transcendental/normative status of the claim, rather than abandoning the theory.",
+    "objections_raised": [
+      "Formalism objection: aesthetic judgment is too formal and excludes meaningful art.",
+      "Supersensible objection: the appeal to the supersensible is a mysterious deus ex machina.",
+      "Universality objection: empirical disagreement undermines universal validity.",
+      "Symbolism objection: the analogy between aesthetic and moral freedom is too loose."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses phrases like 'profoundly deep', 'elegantly simple', but also 'seems', 'appears', and acknowledges criticisms.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Hegel (as critic)"
+    ],
+    "evidence_type": "Conceptual analysis, transcendental argument, structural analogy, and dialectical resolution.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental idealism",
+    "sentiment": "Synthetic a priori judgment, normative universalism, moral autonomy",
+    "thematic_focus": "Aesthetics, moral philosophy, philosophy of mind, critical philosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-application-defense-conclusion with dialectical progression."
+  },
+  "summary_of_core_decisions": "The text resolves the antinomy of taste by distinguishing determinate from formal lawfulness, grounding universality in shared cognitive faculties, and then uses the structural isomorphism between free play and moral autonomy to establish beauty as a symbol of morality. It defends this account against formalism, supersensible, universality, and symbolism objections by clarifying the normative and transcendental character of the claims.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic a priori claim about aesthetic judgment and its moral significance.",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive: 'remains one of the most elegant and profound attempts...'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "stewart-the_two_freedoms_deepseek-v4-flash-0731.txt"
+}

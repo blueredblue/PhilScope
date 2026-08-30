@@ -1,0 +1,64 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Diagnostic and reconstructive: identifies two complementary metaphysical errors underlying social violence, demonstrates their operation through case studies and legal doctrine, critiques a partial solution (physicalism), and proposes a relational, anti-subordination ontology with revised standards of reasonability.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High: key concepts are defined and repeatedly operationalized across sections."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong: acknowledges limits of physicalism, avoids claiming complete causal explanation, and explicitly preserves distinctions (e.g., causal explanation vs. moral justification).",
+    "logical_relevance": "High: each section advances the central thesis; case studies and legal analyses are used as evidence for the metaphysical diagnosis.",
+    "premise_acceptability": "Moderate: relies on contested philosophical claims about personhood, recognition, and objectivity, but defends them through examples and distinctions."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Skeptical mistake vs. deific mistake",
+      "Causal explanation vs. moral justification",
+      "Physicalist commonality vs. relational personhood",
+      "Negligent injury vs. intentional subordination",
+      "Subjective fear vs. reasonable fear",
+      "Formal neutrality vs. substantive equality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Skeptical mistake: denial, withholding, or radical downgrading of the Other's interiority.",
+      "Deific mistake: elevation of the self or dominant group into a quasi-divine, self-authorizing standpoint.",
+      "Spirit-murder: destruction of social recognition that makes agency, dignity, and a livable self possible."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Acknowledges objections to physicalism and to the limits of recognition; does not fully engage with potential objections from legal formalism or empirical social science.",
+    "objections_raised": [
+      "Physicalism cannot entail equal concern.",
+      "Relational theories can become oppressive if they define people only by group membership.",
+      "Perfect mutual transparency is impossible."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'can', 'may', 'should', 'requires' rather than absolute certainty.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Conceptual analysis, legal doctrine analysis, case study illustration, ontological argument.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological and critical social ontology, with legal and political theory elements.",
+    "sentiment": "Anti-subordination, egalitarian, relational, fallibilist.",
+    "thematic_focus": "Metaphysical errors, spirit-murder, victim responsibility, legal reasonability, social parity."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with progressive sections: diagnosis, case studies, legal critique, ontological solution, conclusion."
+  },
+  "summary_of_core_decisions": "The text chooses a dual-error framework (skeptical/deific) to explain spirit-murder, uses two emblematic cases to show how victim identity is turned into provocation, critiques physicalism as insufficient, and proposes a revised reasonability grounded in relational ontology and anti-subordination.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and ontological: social parity requires joining embodied commonality, reciprocal recognition, and equal institutional standing.",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is assertive but fallibilist ('fallible agents')."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwartz-disowning_mutual_identity_gpt-5.6-luna.txt"
+}

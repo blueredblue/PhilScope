@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical reconciliation of opposing interpretive positions through progressive refinement",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate: premises are embedded in interpretive claims rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: both sides are presented with their strongest textual and conceptual support",
+    "logical_relevance": "High: all distinctions and arguments bear directly on the constitutive vs. instrumental status of moral virtue",
+    "premise_acceptability": "Moderate: relies on contested readings of Aristotle's texts and terms"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Constitutive vs. developmental necessity",
+      "Intrinsic vs. instrumental value",
+      "Subordination vs. reduction",
+      "Complete vs. exclusive final end",
+      "Human happiness vs. divine-like contemplation",
+      "Practical wisdom vs. theoretical wisdom",
+      "Activity vs. state",
+      "Whole life vs. isolated moment"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "teleion as complete, perfect, finished, or final",
+      "ergon as function",
+      "hierarchical inclusivism as a structured totality with contemplation at the apex"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic: each major objection is answered by refining the distinction between levels of happiness and types of necessity",
+    "objections_raised": [
+      "Contemplation is self-sufficient and requires fewer external goods, so moral virtue seems merely instrumental",
+      "Theoretical wisdom concerns eternal truths and does not logically require moral virtue",
+      "Divine contemplation seems inhuman and unattainable for mortals",
+      "If moral virtue is only a condition, Aristotle's extensive treatment of it would be disproportionate"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'seems', 'appears', 'can be understood', 'most defensible'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle's Nicomachean Ethics",
+      "Ackrill",
+      "Roche",
+      "Cooper"
+    ],
+    "evidence_type": "Textual interpretation, conceptual analysis, thought experiments, analogies",
+    "named_thought_experiments": [
+      "Building foundation analogy",
+      "Health and athletic performance analogy",
+      "Musical composition with a highest note"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Virtue ethics and eudaimonism",
+    "sentiment": "Analytic, exegetical, non-polemical",
+    "thematic_focus": "The structure of the human good and the place of moral virtue within it"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with layered dialectic: tension \u2192 two interpretations \u2192 deeper issue \u2192 divine comparison \u2192 practical reasoning \u2192 external goods \u2192 qualified resolution \u2192 conclusion"
+  },
+  "summary_of_core_decisions": "The text resolves the inclusive/intellectualist debate by defending hierarchical inclusivism: contemplation is the highest and governing activity of happiness, while moral virtue is both intrinsically valuable as an actualization of practical rationality and instrumentally necessary as the foundation for a contemplative life. The key move is distinguishing constitutive inclusion from defining priority.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified reconciliation",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive but nuanced"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "snow-the_necessity_of_moral_virtue_gpt-5.6-luna.txt"
+}

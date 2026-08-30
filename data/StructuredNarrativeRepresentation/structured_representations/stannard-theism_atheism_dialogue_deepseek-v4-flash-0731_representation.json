@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical critique with Hegelian synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit - premises are stated but often embedded in narrative analysis rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate - engages with opposing views but ultimately frames them as one-sided and incomplete",
+    "logical_relevance": "High - all sections directly support the central thesis about dialectical failure",
+    "premise_acceptability": "Contestable - relies on Hegelian framework and the claim that epistemic rules are disguised ethical maxims, which many would dispute"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Epistemic rules vs. ethical maxims",
+      "Neutral logical principles vs. post-contextual prescriptions",
+      "Finite objects vs. infinite ground",
+      "Representational knowledge vs. conceptual knowledge",
+      "Immanent vs. transcendent",
+      "Contextual origins vs. post-contextual claims",
+      "Descriptive laws vs. prescriptive maxims",
+      "Communicative success vs. communicative failure"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Post-contextual ethical maxims - prescriptions for belief that claim universal validity but are rooted in particular values",
+      "Communicative failure - imposing one's own epistemic framework and demanding others conform to it",
+      "Sense-certainty - immediate sensory knowledge that Hegel shows to be abstract and empty"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges potential objections (e.g., that rules might be universal) but addresses them through historical genealogy and Hegelian framework",
+    "objections_raised": [
+      "The verifiability principle is itself unverifiable (self-referential critique)",
+      "Scriven's everyday reasoning begs the question by defining 'everyday' as naturalistic",
+      "Enlightenment's critique of Faith commits a category error by treating God as a finite object"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses terms like 'demonstrably accurate', 'profound', 'genius', 'devastating'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hegel - Phenomenology of Spirit",
+      "Scott A. Shalkowski",
+      "Michael Scriven",
+      "Antony Flew"
+    ],
+    "evidence_type": "Philosophical analysis, historical genealogy, conceptual critique, dialectical mapping",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Hegelian idealism with critical realism",
+    "sentiment": "Critical of both atheism and theism as currently formulated; sympathetic to a Hegelian synthesis",
+    "thematic_focus": "Philosophy of religion, epistemology, dialectics, meta-philosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Four-part progressive argument: (I) Shalkowski's critique of atheist epistemic rules, (II) Scriven's defense and its failure, (III) Hegel's dialectic as explanatory framework, (IV) Resolution through recognition of post-contextual ethical maxims"
+  },
+  "summary_of_core_decisions": "The text argues that the theism/atheism debate is intractable because it rests on a dialectical failure: the atheist's epistemic rules (parsimony, verifiability, burden of proof) are not neutral logical principles but disguised ethical maxims rooted in Enlightenment values. Drawing on Shalkowski's critiques and Scriven's defense, the author shows how these rules beg the question against theism. Hegel's dialectic of Faith and Enlightenment reveals the communicative failure at the heart of the debate. The resolution is not finding neutral rules (none exist) but recognizing all epistemic frameworks as post-contextual ethical maxims and moving toward a Hegelian synthesis that preserves the insights of both positions while overcoming their one-sidedness.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim with Hegelian resolution",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive about the dialectical failure and the need for Hegelian synthesis"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "stannard-theism_atheism_dialogue_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text presents a philosophical argument defending the Growing Block theory of time against alternative A-theories (Diminishing Block and Backwards Block) by appealing to the veridical content of memory and the incoherence of backward causation.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Premises are partially explicit, with some implicit assumptions about the nature of memory and causation."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The argument engages with counterarguments (indistinguishability) and attempts to rebut them, showing a dialectical structure.",
+    "logical_relevance": "The arguments are relevant to the thesis, though the text is incomplete and some steps are missing.",
+    "premise_acceptability": "Premises rely on philosophical intuitions and critiques (e.g., Dummett's) that are not fully elaborated."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Phenomenal character vs. content of experience",
+      "Growing Block vs. Diminishing Block vs. Backwards Block",
+      "Veridical memory vs. generated memory",
+      "A-theory vs. B-theory (implicit)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Growing Block: past and present exist, future does not",
+      "Diminishing Block: present and future exist, past does not",
+      "Backwards Block: future and present exist, block grows into past"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text considers the objection that alternative models could produce indistinguishable experiences, then argues that memory content and backward causation incoherence undermine this.",
+    "objections_raised": [
+      "Indistinguishability of experiences across models",
+      "Memory falsity in Diminishing Block"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'argue', 'contend', 'seems'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "C.D. Broad",
+      "Michael Tooley",
+      "Michael Dummett"
+    ],
+    "evidence_type": "Philosophical argumentation, thought experiments, conceptual analysis",
+    "named_thought_experiments": [
+      "Subject S at time t with memories of past events"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of time, metaphysics",
+    "sentiment": "Defends a specific A-theory (Growing Block) against rivals",
+    "thematic_focus": "Temporal passage, memory, causation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with comparative analysis of three models"
+  },
+  "summary_of_core_decisions": "The essay's core decision is to prioritize the veridical content of memory over raw phenomenology in adjudicating between theories of time, and to reject backward causation as incoherent.",
+  "thesis_commitment": {
+    "conclusion_type": "Defense of a specific theory (Growing Block)",
+    "hedging_density_in_final_paragraph": "Low; the text asserts the conclusion strongly, though it is incomplete."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "jarrott-models_of_becoming_deepseek-v4-flash-0731.txt"
+}

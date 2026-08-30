@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Mixed: some premises explicit, others implicit in the dialectic"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with multiple interpretations and objections",
+    "logical_relevance": "High: all arguments directly address the central thesis",
+    "premise_acceptability": "Moderate: relies on Kripkean modal metaphysics, which is contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "a priori vs. a posteriori knowledge",
+      "necessary vs. contingent truth",
+      "logical vs. metaphysical necessity",
+      "performative vs. descriptive utterance",
+      "subjective vs. objective certainty"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "a posteriori necessity",
+      "performative utterance",
+      "transcendental ego"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematically addresses objections to each interpretation and resolves the central dilemma",
+    "objections_raised": [
+      "Syllogistic interpretation relies on a priori premise vulnerable to the Demon",
+      "Performative interpretation lacks metaphysical weight",
+      "Transcendental interpretation loses the existential self"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses terms like 'indubitable', 'certainty', 'immune to doubt'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Descartes",
+      "Hintikka",
+      "Kant",
+      "Husserl",
+      "Kripke"
+    ],
+    "evidence_type": "Conceptual analysis, historical interpretation, modal logic, thought experiments",
+    "named_thought_experiments": [
+      "Evil Demon",
+      "Cogito"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical and epistemological",
+    "sentiment": "Analytic continental synthesis",
+    "thematic_focus": "Certainty, skepticism, self-knowledge, modality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with historical survey and synthesis"
+  },
+  "summary_of_core_decisions": "The essay resolves the tension between the Demon's challenge and the Cogito's certainty by classifying the Cogito as an a posteriori necessity, thereby preserving its necessity while grounding it in first-person experience.",
+  "thesis_commitment": {
+    "conclusion_type": "Positive thesis",
+    "hedging_density_in_final_paragraph": "Low: states implications confidently"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "foote-necessary_truth_and_the_transcendental_interpretation_deepseek-v4-flash-0731.txt"
+}

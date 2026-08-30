@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum and critical analysis",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate - premises are stated but not formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with opposing views and anticipates objections",
+    "logical_relevance": "High - all points directly address the central problem",
+    "premise_acceptability": "Moderate - some premises (e.g., causal closure) are contested"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Global vs. local determinism",
+      "Negative vs. positive ontology",
+      "Causa sui vs. agent causation",
+      "Randomness vs. freedom",
+      "Epistemic ideal vs. ontological reality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Totality of being",
+      "Causa sui",
+      "Agent causation",
+      "Emergent causation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Acknowledges objections but does not fully resolve them",
+    "objections_raised": [
+      "Tugushev's critique is purely negative",
+      "Agent causation leads to dualism",
+      "Emergentism faces the causal closure problem"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedged terms like 'might', 'could', 'seems'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Spinoza",
+      "Hume",
+      "Aristotle"
+    ],
+    "evidence_type": "Conceptual analysis and thought experiments",
+    "named_thought_experiments": [
+      "Quantum fluctuation in the brain",
+      "Decay of a radioactive atom"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy",
+    "sentiment": "Critical and evaluative",
+    "thematic_focus": "Free will, determinism, ontology of agency"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections and clear transitions"
+  },
+  "summary_of_core_decisions": "The text argues that Tugushev's rejection of the totality is necessary but insufficient, as it fails to provide a positive account of free will, leaving it trapped between incoherent self-causation and meaningless randomness. The author concludes that the antinomy remains unresolved.",
+  "thesis_commitment": {
+    "conclusion_type": "Critical evaluation",
+    "hedging_density_in_final_paragraph": "Moderate - uses 'might' and 'could' but asserts the main conclusion firmly"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "tugushev-free_will_in_war_and_peace_deepseek-v4-flash-0731.txt"
+}

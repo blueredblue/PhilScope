@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High \u2013 premises are explicitly stated and defended via textual reconstruction and logical inference."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2013 engages with opposing views (libertarian, Mohr) and seeks a middle path.",
+    "logical_relevance": "High \u2013 all arguments directly support the thesis of a third way.",
+    "premise_acceptability": "Moderate \u2013 some premises (e.g., functional exit) are contestable but plausible."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Express vs. tacit consent",
+      "Natural vs. civil property",
+      "Majoritarian authorization vs. fiduciary trust",
+      "Violent revolution vs. civil disobedience",
+      "Physical exit vs. functional exit"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Lockean Proviso",
+      "Tacit consent",
+      "Fiduciary trust",
+      "In vacuis locis"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges Mohr's critique as valid but limits its scope; then offers a constructive objection to Mohr's fatalistic conclusion.",
+    "objections_raised": [
+      "Mohr's critique invalidates tacit consent due to lack of empty land.",
+      "Modern state's scale dissolves meaningful participation.",
+      "Taxation and regulation do not meet Lockean tyranny threshold."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate \u2013 uses 'contend', 'argue', 'can be discovered' rather than absolute certainty.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Locke (Second Treatise)",
+      "Hume (implicitly)",
+      "Nozick (as foil)"
+    ],
+    "evidence_type": "Textual evidence from Locke's Second Treatise, historical-contextual reasoning, and conceptual analysis.",
+    "named_thought_experiments": [
+      "Ship analogy (Hume's critique)",
+      "Majority vote on welfare state"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Natural law / social contract tradition",
+    "sentiment": "Analytic, constructive, critical",
+    "thematic_focus": "Political obligation, consent, property, resistance, federalism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Three-part essay with introduction and conclusion: Part I (reconstruction and critique), Part II (application to taxation), Part III (independent objection and synthesis)."
+  },
+  "summary_of_core_decisions": "The essay reconstructs Locke's theory of consent, presents Mohr's critique that modern conditions invalidate it, then argues that Mohr's binary (submission vs. revolution) is false by reinterpreting Locke's fiduciary limits and introducing modern equivalents of exit and resistance.",
+  "thesis_commitment": {
+    "conclusion_type": "Constructive \u2013 proposes a third way beyond submission and revolution.",
+    "hedging_density_in_final_paragraph": "Low \u2013 asserts a clear position with moderate qualification ('can be adapted', 'provides a moral vocabulary')."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mohr-locke_and_the_contemporary_situation_gemini-3.5-flash-lite.txt"
+}

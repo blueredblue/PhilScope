@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical_analysis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_to_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "syntax vs semantics vs pragmatics",
+      "ambiguity vs vagueness",
+      "semantic content vs pragmatic content",
+      "proposition vs proposition-function vs utterance",
+      "demonstrative vs complementizer"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "proposition-function",
+      "paratactic theory",
+      "complementizer",
+      "demonstrative"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "systematic",
+    "objections_raised": [
+      "deliberate ambiguity cannot be captured by a single proposition",
+      "proposition-function must be enriched with structure to preserve ambiguity",
+      "disjunction analysis is too strong",
+      "semantic/pragmatic distinction cannot be assumed",
+      "English 'that' lacks demonstrative distribution",
+      "omission of 'that' is problematic for demonstrative theory",
+      "cataphoric and circularity issues",
+      "Hungarian evidence separates demonstrative and complementizer"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "conceptual_analysis_and_cross_linguistic_examples",
+    "named_thought_experiments": [
+      "deliberately ambiguous editor example",
+      "Galileo example",
+      "Jane said that the meeting was cancelled",
+      "Hungarian azt/hogy construction"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic_philosophy_of_language",
+    "sentiment": "pluralistic_and_pragmatic",
+    "thematic_focus": "indirect_discourse_semantics_and_syntax"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem_solution_objection_reply_conclusion"
+  },
+  "summary_of_core_decisions": "Kemp's proposition-function modification improves Davidson's paratactic theory by avoiding utterance-dependence, but it does not solve deliberate ambiguity unless supplemented by a theory of communicative intentions and structured contents. The claim that 'that' is a demonstrative is empirically doubtful; English syntax favors complementizer analysis, and Hungarian evidence shows demonstrative and complementizer functions can be separated. A pluralistic account combining syntactic complementation, semantic content attribution, and pragmatic intention is most defensible.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_pluralistic",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "johnson-indirect_discourse_gpt-5.6-luna.txt"
+}

@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental-practical argument with dialectical tension",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "objective vs subjective",
+      "categorical vs hypothetical",
+      "autonomy vs heteronomy",
+      "immanent vs transcendent",
+      "genuine vs counterfeit conscience",
+      "anticipatory vs retrospective conscience",
+      "theoretical vs practical postulate"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "categorical imperative",
+      "conscience",
+      "ex post facto conscience",
+      "practical postulate",
+      "moral accountability"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges and partially concedes",
+    "objections_raised": [
+      "conscience is fallible",
+      "self-condemnation may be a pointless contradiction",
+      "God as guarantee undermines autonomy",
+      "subjective mechanism cannot guarantee objective correctness"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Groundwork of the Metaphysics of Morals",
+      "Critique of Practical Reason",
+      "Religion within the Boundaries of Mere Reason"
+    ],
+    "evidence_type": "conceptual analysis and hypothetical case",
+    "named_thought_experiments": [
+      "Willie case"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian transcendental idealism",
+    "sentiment": "critical but constructive",
+    "thematic_focus": "moral accountability, conscience, God as practical postulate"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis-driven with case study and dialectical resolution"
+  },
+  "summary_of_core_decisions": "The text evaluates Kant's account of conscience as the subjective parallel to the categorical imperative, using the Willie case to show that ex post facto conscience is fallible and cannot ground full moral accountability. It argues that God as a practical postulate is necessary to avoid reducing inner self-condemnation to a pointless contradiction, while acknowledging the tension this creates with Kantian autonomy. The conclusion presents Kant's framework as an open invitation rather than a closed system.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified defense",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ward-conscience_in_kantian_ethics_ling-3.0-flash-free.txt"
+}

@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Synthetic-dialectical",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Moderate-high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate-high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Testimony-confession vs. testimony-narration",
+      "Juridical-worldly testimony vs. prophetic-eschatological testimony",
+      "Horizontal (accused before world) vs. vertical (emissary in eschatological judgment)",
+      "Subjective non-verifiable witness vs. objective historical narrative"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Testimony-confession: subjective, self-implicating, existential attestation",
+      "Testimony-narration: objective, historical, communal recounting",
+      "Juridical-worldly testimony: closed, self-referential, power-preserving",
+      "Prophetic-eschatological testimony: shatters courtroom, opens to divine judgment"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly addresses skeptical objection that subjective witness is immune to critique and historical narrative is vulnerable to criticism; resolves via hermeneutical circle and pneumatological realism.",
+    "objections_raised": [
+      "Subjective testimony is unassailable fortress of pure subjectivity",
+      "Objective historical narrative collapses into antiquarianism under historical criticism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Paul Ricoeur",
+      "Book of Mormon (Mosiah, Moroni, Ether, 3 Nephi)",
+      "Bible (2 Corinthians)"
+    ],
+    "evidence_type": "Philosophical analysis, scriptural narrative, theological doctrine",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological-hermeneutic",
+    "sentiment": "Synthetic, constructive, apologetic",
+    "thematic_focus": "Testimony, witness, martyrdom, revelation, narrative identity, epistemology of religious knowledge"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned essay with numbered parts and subheadings"
+  },
+  "summary_of_core_decisions": "The essay synthesizes Ricoeur's phenomenology of testimony with LDS theology, using Abinadi's trial as a narrative exemplar. It resolves the subjective-objective tension through a hermeneutical circle: narrative provides semantic scaffolding, the Spirit provides existential confirmation, and the two dynamically cohere. Testimony is ultimately framed as active ontological participation in cosmic conflict.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative and ontological",
+    "hedging_density_in_final_paragraph": "Low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "struk-the_hermeneutics_of_testimony_gemini-3.5-flash-lite.txt"
+}

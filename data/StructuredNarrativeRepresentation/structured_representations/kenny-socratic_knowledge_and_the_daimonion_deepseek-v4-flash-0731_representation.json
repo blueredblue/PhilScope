@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text follows a dialectical structure: it presents an apparent paradox, defines key terms, develops a thesis, considers an objection, resolves the objection through distinctions, illustrates with a dialogue, and concludes by dissolving the paradox.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "The text explicitly states premises about the nature of techne, the characteristics of the daimonion, and the distinction between epistemic and practical authority."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text engages with an opposing view (Brickhouse and Smith) and attempts to refute it by recharacterizing the daimonion's role rather than denying its existence or authority.",
+    "logical_relevance": "All major sections contribute to the central thesis: defining Socratic ignorance, defining techne, characterizing the daimonion, addressing the objection, and illustrating with the Crito.",
+    "premise_acceptability": "The text relies on standard Platonic/Socratic texts (Apology, Crito, Protagoras, Gorgias) and common scholarly distinctions, making premises broadly acceptable within the interpretive framework."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Epistemic vs. practical authority",
+      "Knowledge as techne vs. non-propositional sign",
+      "Positive commands vs. prohibitions",
+      "Rational logos vs. divine semeion",
+      "Theoria vs. praxis",
+      "Human wisdom vs. divine gift",
+      "Silence as absence of veto vs. endorsement",
+      "Elenchus as testing vs. daimonion as prophylactic"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Socratic ignorance: lack of expert moral knowledge, not total absence of truth-access",
+      "Techne: teachable, explicable, repeatable craft-knowledge",
+      "Daimonion: private, prohibitive, sporadic, non-rational divine sign"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text presents Brickhouse and Smith's objection that the daimonion trumps reason, then reframes it: the daimonion vetoes action, not rational justification; it does not provide a competing logos.",
+    "objections_raised": [
+      "If the daimonion reliably prevents moral errors, does it not provide moral knowledge?",
+      "If the daimonion overrides rational deliberation, does it not undermine the elenchus?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses confident, declarative language: 'must be understood', 'does not', 'cannot', 'remains', 'is not'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Apology",
+      "Plato's Crito",
+      "Plato's Protagoras",
+      "Plato's Gorgias"
+    ],
+    "evidence_type": "Textual evidence from Platonic dialogues, conceptual analysis, and a paradigmatic example (Crito).",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "The argument is grounded in Socratic/Platonic epistemology and moral psychology, specifically the distinction between craft-knowledge and non-rational divine intervention.",
+    "sentiment": "The text is analytic and exegetical, aiming to resolve an interpretive puzzle rather than to advance a new ethical theory.",
+    "thematic_focus": "The relationship between divine signs, rational method, and the limits of human knowledge in Socrates' philosophy."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with progressive refinement: paradox \u2192 definition \u2192 characterization \u2192 objection \u2192 resolution \u2192 illustration \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text decides that the daimonion is not a source of knowledge, not an epistemic trump, and not a threat to the elenchus; it is a practical, prohibitive safeguard that preserves rational inquiry.",
+  "thesis_commitment": {
+    "conclusion_type": "Thesis-affirming resolution",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive: 'the apparent tension is a false dichotomy'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "kenny-socratic_knowledge_and_the_daimonion_deepseek-v4-flash-0731.txt"
+}

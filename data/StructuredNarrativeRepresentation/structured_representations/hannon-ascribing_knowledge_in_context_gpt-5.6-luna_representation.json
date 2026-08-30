@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "problem-solution-critical-evaluation-qualified_verdict",
+    "premise_explicitness": "formal-skeptical-closure-argument, underdetermination-principle, contextualist-semantic-thesis",
+    "num_distinct_arguments_for_thesis": 3
+  },
+  "dialectical_engagement": {
+    "objections_raised": [
+      "merely mentioning a skeptical possibility should not alter knowledge",
+      "knowledge becomes too fragile if context shifts are automatic",
+      "context is an unexplained placeholder for epistemic standards",
+      "contextualism may beg the question against the skeptic",
+      "shifting truth across contexts creates semantic puzzles",
+      "practical action remains stable while knowledge ascriptions fluctuate"
+    ],
+    "objection_handling": "defends contextualism only partially, granting that a full answer requires independent theory of relevance and context shifts",
+    "bites_the_bullet_on_counterintuitive_implication": true
+  },
+  "method_and_evidence": {
+    "uses_named_thought_experiment": true,
+    "named_thought_experiments": [
+      "ordinary table perception",
+      "hands and brain-in-a-vat",
+      "bank case with practical stakes",
+      "zebra and cleverly disguised mule",
+      "courtroom testimony",
+      "scientific investigation"
+    ],
+    "evidence_type": "linguistic intuitions about knowledge ascriptions, practical decision scenarios, semantic analogies, dialectical comparisons with competing theories",
+    "appeals_to_authority": [
+      "Stewart Cohen",
+      "Keith DeRose",
+      "David Lewis"
+    ]
+  },
+  "thesis_commitment": {
+    "conclusion_type": "qualified contextualist defense",
+    "hedging_density_in_final_paragraph": "medium-high"
+  },
+  "structural_organization": {
+    "structure_type": "dialectical evaluation essay",
+    "explicit_signposting": true
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "uses_first_person_epistemic_verbs": true,
+    "imagined_interlocutor_voiced_directly": true
+  },
+  "conceptual_grounding": {
+    "explicit_definitions_given": [
+      "epistemic closure",
+      "contextualism",
+      "relevant alternatives",
+      "skeptical scenario"
+    ],
+    "draws_explicit_distinction": true,
+    "distinctions_drawn": [
+      "semantic context-sensitivity versus pragmatic flexibility",
+      "knowledge versus justified assertion",
+      "ordinary context versus skeptical context",
+      "conversational relevance versus epistemic relevance"
+    ]
+  },
+  "argumentative_quality": {
+    "premise_acceptability": "explicitly questionable for the skeptic",
+    "logical_relevance": "high",
+    "dialectical_reasonableness": "reasonable, but with acknowledged explanatory gaps"
+  },
+  "philosophical_orientation": {
+    "thematic_focus": "epistemology of knowledge ascriptions and contextualism",
+    "sentiment": "balanced, critical but sympathetic",
+    "grounding": "conceptual analysis, ordinary language philosophy, semantic externalism"
+  },
+  "summary_of_core_decisions": "The text defends a qualified form of epistemic contextualism: it grants that knowledge ascriptions are context-sensitive, but it insists that contextualism is only a partial reconciliation with skepticism and needs an independent theory of relevance, standards, and context shifts. It avoids both simple invariantism and Moorean dogmatism.",
+  "_source_corpus": "synthetic",
+  "_source_file": "hannon-ascribing_knowledge_in_context_gpt-5.6-luna.txt"
+}

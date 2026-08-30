@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum with equivocation diagnosis",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "High, with formalized identities and relations"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong: anticipates and addresses the main objection (monstrous coincidence)",
+    "logical_relevance": "High: all moves target the transitivity-of-identity inference",
+    "premise_acceptability": "Moderate: relies on controversial metaphysical frameworks (3D coincidence or 4D perdurantism)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Material vs. abstract/historical objects",
+      "Instantaneous time-slice vs. four-dimensional spacetime worm",
+      "Persistence relation vs. strict Leibnizian identity",
+      "Proper part vs. whole",
+      "Endurantism vs. perdurantism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "DAUP: for any material object O and any proper sub-region R occupied by O at t, there is a material object occupying R at t.",
+      "D-minus: the mereological sum of Descartes' parts except the left leg.",
+      "Persistence: a causal-historical relation between distinct instantaneous stages, not identity."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Coincidence is defended as coherent via Wiggins, Haslanger, and Lowe; perdurantism is offered as an alternative.",
+    "objections_raised": [
+      "Van Inwagen would call material coincidence 'monstrous'.",
+      "The reductio assumes persistence is identity, which is illicit."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'demonstrated', 'successfully immunizes', but also 'coherent' and 'viable'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "David Wiggins",
+      "Sally Haslanger",
+      "E.J. Lowe"
+    ],
+    "evidence_type": "Conceptual analysis, formal regimentation, metaphysical thought experiments",
+    "named_thought_experiments": [
+      "Descartes' amputation",
+      "Two roads merging into a single highway"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics, mereology, philosophy of persistence",
+    "sentiment": "Defends DAUP against van Inwagen's attack",
+    "thematic_focus": "Ontological disambiguation, transitivity of identity, material coincidence, temporal parts"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem \u2192 diagnosis \u2192 disambiguation \u2192 defense \u2192 conclusion"
+  },
+  "summary_of_core_decisions": "The essay accepts DAUP and rejects van Inwagen's reductio by showing that 'Descartes' equivocates between an instantaneous material object and a temporally extended abstract/historical continuant. Once disambiguated, either 3D coincidence or 4D perdurantism blocks the contradiction.",
+  "thesis_commitment": {
+    "conclusion_type": "Defense of DAUP against van Inwagen's reductio",
+    "hedging_density_in_final_paragraph": "Low: asserts DAUP remains logically consistent and powerful."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "knauff-abstract_objects_gemini-3.5-flash-lite.txt"
+}

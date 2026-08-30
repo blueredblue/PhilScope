@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis: thesis (Rosen's positive interpretation) vs antithesis (individual-rights objection) resolved through normative criteria (Categorical Imperative, united will) yielding a limited public duty of beneficence grounded in right, not virtue.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "Mostly explicit; some implicit premises reconstructed from Kant's property/public-right theory and the normative idea of the united will."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages strongest objections, grants partial validity, and incorporates them as constraints.",
+    "logical_relevance": "High: all sections bear directly on the central question of whether state welfare violates freedom.",
+    "premise_acceptability": "Moderate: premises are plausible within Kantian framework but contestable; relies on interpretive claims about property and public right."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Right vs. virtue",
+      "External vs. internal coercion",
+      "Formal equality vs. material dependence",
+      "Negative liberty vs. independence from another's choice",
+      "Actual consent vs. united will",
+      "Private beneficence vs. public assistance",
+      "Beneficent effect vs. juridical justification",
+      "Modest relief vs. comprehensive redistribution"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Duties of right: coercible, external actions",
+      "Duties of virtue: non-coercible, require adopting ends",
+      "Kantian liberty: independence from being constrained by another's choice",
+      "United will: normative idea of citizens as free and equal co-legislators"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges individual-rights objection as powerful, then shows its limitations; uses it as a constraint rather than refutation.",
+    "objections_raised": [
+      "Taxation violates taxpayer's rights because no harm was done",
+      "Beneficence is imperfect and cannot be legally enforced",
+      "Majority consent cannot legitimate welfare",
+      "Welfare necessarily violates freedom",
+      "Welfare leads to unlimited redistribution or paternalism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'may', 'can', 'must be understood', 'not necessarily'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant's Metaphysics of Morals",
+      "Allen D. Rosen's interpretation"
+    ],
+    "evidence_type": "Conceptual analysis, internal reconstruction of Kant's theory, normative criteria from Categorical Imperative.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Deontological Kantianism",
+    "sentiment": "Neutral analytic",
+    "thematic_focus": "Political philosophy, philosophy of right, welfare, freedom, property"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical progression with numbered sections and subheadings"
+  },
+  "summary_of_core_decisions": "The state has an independent moral duty of beneficence only insofar as it is a duty of public right: to preserve the juridical conditions of equal freedom. This duty is limited, non-paternalistic, and grounded in the united will, not in aggregate welfare or private virtue.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified affirmative",
+    "hedging_density_in_final_paragraph": "Moderate: 'may', 'can', 'when properly limited'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "leavitt-the_moral_limits_of_state_action_gpt-5.6-luna.txt"
+}

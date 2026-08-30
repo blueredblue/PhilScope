@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical essay that defends Nietzsche's genealogical method against the charge of committing the genetic fallacy. It proceeds by first posing the objection, then redefining the nature of Nietzsche's critique, and finally resolving the tension through a positive vision of transvaluation.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate: key premises are stated but some are embedded in rhetorical contrasts and tables."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically self-aware: it anticipates the genetic fallacy objection and attempts to disarm it by shifting the evaluative ground from logic to life.",
+    "logical_relevance": "The arguments are relevant to the thesis, though the shift to life-enhancement criteria is asserted more than fully defended.",
+    "premise_acceptability": "The premises rely on a Nietzschean framework (will to power, life-enhancement) that is not independently justified; acceptability is conditional on adopting that framework."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Traditional history vs. genealogy",
+      "Logical truth vs. life-value",
+      "Formal consistency vs. life-enhancement",
+      "Master morality vs. slave morality",
+      "Active vs. reactive forces",
+      "Being vs. Becoming",
+      "Herd morality vs. morality of the future"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Genealogy: a historical-interpretive method that traces the contested emergence of values.",
+      "Will to power: the fundamental drive of all forces to expand, discharge, overcome resistance, and appropriate.",
+      "Life-enhancement: the criterion of whether a value or action increases the feeling of power, integration, and vitality.",
+      "Traditional morality: a herd morality that levels individuals, cultivates guilt, and pathologizes natural drives."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text explicitly addresses the genetic fallacy objection and argues that Nietzsche's critique is not logical but diagnostic, thereby avoiding the fallacy.",
+    "objections_raised": [
+      "Nietzsche's genealogy seems to commit the genetic fallacy by inferring the invalidity of morality from its origins.",
+      "If Nietzsche attacks morality for logical inconsistency, he tacitly validates logic as the supreme standard.",
+      "A moral system can be logically consistent yet still harmful to life."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses strong assertive language ('devastating', 'profound inversion', 'existential catastrophe') but also conditional phrasing ('If one attacks...', 'Nietzsche views...').",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Nietzsche's own works (On the Genealogy of Morals, Beyond Good and Evil, Thus Spoke Zarathustra, The Will to Power)",
+      "Michel Foucault's reading of Nietzsche"
+    ],
+    "evidence_type": "Textual interpretation and conceptual analysis; no empirical evidence.",
+    "named_thought_experiments": [
+      "The physician tracing the genealogy of a pathogen as an analogy for Nietzsche's genealogical diagnosis."
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Immanent, naturalistic, physiological",
+    "sentiment": "Anti-foundationalist, anti-idealist, anti-universalist",
+    "thematic_focus": "Genealogy, will to power, life-enhancement, transvaluation of values"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The essay is divided into an introduction, five numbered parts, and a conclusion. Each part builds on the previous one: problem \u2192 method \u2192 rejection of logic \u2192 new criteria \u2192 diagnosis \u2192 resolution and positive vision."
+  },
+  "summary_of_core_decisions": "The text resolves the genetic fallacy objection by redefining Nietzsche's project as a diagnostic physiology rather than a logical refutation. It replaces formal consistency with life-enhancement and will to power as evaluative criteria, and concludes that genealogy issues an existential warning rather than a logical proof, culminating in the call for a transvaluation of all values.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis with normative implications",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive and programmatic."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "korfmacher-on_the_significance_of_genealogy_in_nietzsches_critique_of_morality_gemini-3.5-flash-lite.txt"
+}

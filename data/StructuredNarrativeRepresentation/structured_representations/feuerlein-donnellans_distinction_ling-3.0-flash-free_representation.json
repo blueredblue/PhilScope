@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical argument that moves from a historical theory (Russell) through a counterexample (Donnellan) and a deflationary objection (Kripke) to a rebuttal based on speaker belief, concluding that the referential/attributive distinction is semantic rather than pragmatic.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "The text does not use numbered premises, but the argument can be reconstructed as a series of conditional and contrastive claims. The key premises are implicit but recoverable from the dialectic."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text engages with the strongest opposing view (Kripke) and attempts to rebut it rather than ignore it. It also acknowledges Russell's theory as an indispensable baseline.",
+    "logical_relevance": "The central argument is relevant to the semantics/pragmatics debate and directly addresses the truth-conditional import of Donnellan's distinction.",
+    "premise_acceptability": "The premises rely on intuitive truth-value judgments and the phenomenology of communication. These are plausible but not universally accepted; the argument would be stronger with more explicit formal semantics or responses to subjectivist objections."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Attributive vs. referential use of definite descriptions",
+      "Semantic reference vs. speaker's reference",
+      "Semantics vs. pragmatics",
+      "Quantificational logical form vs. singular logical form",
+      "Actual-world denotation vs. speaker's epistemic referent",
+      "Sentence type vs. token utterance",
+      "What is said vs. what is implicated",
+      "Truth conditions vs. speaker meaning",
+      "Description as predicate vs. description as rigid designator/singular term"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Attributive use: the description is used to attribute a property to whoever fits the description.",
+      "Referential use: the description is used to pick out a specific individual the speaker has in mind, even if the description does not actually apply.",
+      "Semantic reference: fixed by the meaning of the expression.",
+      "Speaker's reference: determined by the speaker's intention in context."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text anticipates Kripke's objection that the distinction is merely pragmatic and responds by arguing that speaker belief changes the truth conditions themselves, not merely what is implicated.",
+    "objections_raised": [
+      "Kripke's semantic/speaker's reference distinction would make a referential utterance semantically false but pragmatically true.",
+      "This conflicts with the intuition that the speaker is making a true statement about the intended referent.",
+      "It also fails to explain the transparency of referential misdescription: audiences do not perform complex pragmatic inference."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses confident, assertive language: 'cannot be dismissed', 'fundamentally changes', 'carries genuine semantic import'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Russell",
+      "Donnellan",
+      "Kripke",
+      "Strawson"
+    ],
+    "evidence_type": "Intuition-based thought experiments, truth-conditional analysis, appeal to communicative transparency, and conceptual analysis of semantic vs. pragmatic content.",
+    "named_thought_experiments": [
+      "Smith's murderer is insane"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language, specifically the theory of definite descriptions and the semantics/pragmatics distinction.",
+    "sentiment": "The text is sympathetic to Donnellan's semantic reading and critical of Kripke's pragmatic deflation, but it preserves Russell's theory as a baseline for attributive uses.",
+    "thematic_focus": "Reference, belief, truth conditions, definite descriptions, semantics/pragmatics boundary."
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "Dialectical: thesis (Russell) \u2192 counterexample (Donnellan) \u2192 objection (Kripke) \u2192 rebuttal (speaker belief) \u2192 conclusion (semantic import)."
+  },
+  "summary_of_core_decisions": "The text decides that Donnellan's referential/attributive distinction is semantically significant because speaker belief can alter the truth conditions of a token utterance. It rejects Kripke's attempt to confine the distinction to pragmatics.",
+  "thesis_commitment": {
+    "conclusion_type": "Positive thesis: Donnellan's distinction carries genuine semantic import.",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is stated firmly: 'the speaker's intentional act of reference reshapes the semantic landscape itself.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "feuerlein-donnellans_distinction_ling-3.0-flash-free.txt"
+}

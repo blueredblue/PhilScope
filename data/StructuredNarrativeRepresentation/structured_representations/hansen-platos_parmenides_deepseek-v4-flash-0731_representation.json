@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical evaluation with thesis-defense structure",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Explicit premises (OM, SP, NI) are formally stated and numbered; supporting premises are embedded in prose but clearly identifiable"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High \u2014 engages multiple alternative interpretations (Sellars, Strang, Peterson, Neoplatonists) and weighs them fairly",
+    "logical_relevance": "High \u2014 all sections directly address the validity of Vlastos's formalization and the historical plausibility of alternatives",
+    "premise_acceptability": "Moderate \u2014 premises about Plato's intent are contestable and acknowledged as such; logical premises are well-supported"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Predication vs. identity (the 'is' of predication vs. the 'is' of identity)",
+      "Derivative vs. normative/paradigmatic senses of 'F'",
+      "Naive vs. mature Theory of Forms",
+      "Historical plausibility vs. philosophical viability",
+      "Explicit textual claims vs. implicit hints"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "One-Over-Many (OM): For any set of things sharing a common character F-ness, there exists a single Form F-ness that is over them all and is the cause of their being F",
+      "Self-Predication (SP): The Form of F-ness is itself F",
+      "Non-Identity (NI): For any Form F-ness and any particular x that participates in F-ness, F-ness is not identical to x"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "Systematically considers three alternative solutions (identity/predication distinction, Pauline predication, dialectical reading) and evaluates each on historical plausibility grounds",
+    "objections_raised": [
+      "The identity/predication distinction may be anachronistic \u2014 Plato does not explicitly articulate it in the Parmenides",
+      "Pauline predication lacks explicit textual signaling of a shift in the meaning of 'is'",
+      "The dialectical reading requires reading the Sophist back into the Parmenides"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate \u2014 uses hedged claims ('plausible', 'suggests', 'contestable') alongside confident logical assertions",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Wilfrid Sellars",
+      "Colin Strang",
+      "Sandra Peterson",
+      "Neoplatonists"
+    ],
+    "evidence_type": "Textual evidence from Plato's dialogues (Parmenides, Sophist, Republic, Phaedo, Euthyphro) and logical analysis of the regress structure",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy with historical sensitivity",
+    "sentiment": "Neutral-critical \u2014 evaluates Vlastos's interpretation without dogmatic commitment",
+    "thematic_focus": "Metaphysics, philosophy of language (semantics of 'is'), history of philosophy, Plato scholarship"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections and subsections (Introduction, Sections 1-5, with 3.1-3.3 subsections)"
+  },
+  "summary_of_core_decisions": "The essay argues that Vlastos's formalization of the TMA is logically sound but historically misguided. It contends that Plato's later dialogues (especially the Sophist) provide the resources to distinguish identity from predication, thereby dissolving the regress. The essay evaluates three alternative solutions and concludes that the identity/predication distinction, while not explicit in the Parmenides, is historically plausible when read in light of Plato's later works.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified thesis \u2014 Vlastos's logic is sound but his historical conclusion is wrong",
+    "hedging_density_in_final_paragraph": "Moderate \u2014 uses 'plausible', 'contestable', 'suggests' but maintains clear position"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hansen-platos_parmenides_deepseek-v4-flash-0731.txt"
+}

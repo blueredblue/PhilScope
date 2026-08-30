@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "mixed",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "semantic vs. pragmatic",
+      "referential vs. attributive use",
+      "speaker's reference vs. semantic reference",
+      "what is said vs. what is implicated",
+      "semantic content vs. pragmatically enriched proposition",
+      "Russellian quantificational structure vs. singular term"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "semantic reference",
+      "speaker's reference",
+      "attributive use",
+      "referential use"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Kripke's framework absorbs Donnellan's intuitions as pragmatic illusions; residual tension is dissolved by distinguishing strict semantic truth conditions from pragmatically communicated propositions.",
+    "objections_raised": [
+      "Semantic ambiguity would explode lexical entries for all definite descriptions.",
+      "Coordination/identity tests for ambiguity fail for referential/attributive uses.",
+      "Compositional semantics cannot accommodate context-driven shifts from quantifier to singular term.",
+      "Donnellan's intuitive truth-value judgments conflict with Russellian entailment conditions."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Russell",
+      "Donnellan",
+      "Kripke",
+      "Grice",
+      "Recanati",
+      "Sperber and Wilson",
+      "Heim",
+      "Kamp"
+    ],
+    "evidence_type": "conceptual analysis, thought experiments, formal logic, Gricean pragmatics, compositionality, formal semantics",
+    "named_thought_experiments": [
+      "Smith's murderer is insane",
+      "the man with the martini in his hand",
+      "It's cold in here"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy of language",
+    "sentiment": "pragmatic, Kripkean, modified Russellian",
+    "thematic_focus": "semantics-pragmatics boundary, definite descriptions, reference, speaker intention, truth conditions"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical progression with sections and subsections"
+  },
+  "summary_of_core_decisions": "The essay defends a Kripkean pragmatic account of Donnellan's referential/attributive distinction. It argues that the distinction does not reveal semantic ambiguity; definite descriptions retain a uniform Russellian semantic content. Referential uses are explained by speaker's reference, Gricean implicature, and pragmatic enrichment. The intuitive truth of referential utterances is a pragmatic effect, not a semantic fact.",
+  "thesis_commitment": {
+    "conclusion_type": "defends a specific position",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "feuerlein-donnellans_distinction_gemini-3.5-flash-lite.txt"
+}

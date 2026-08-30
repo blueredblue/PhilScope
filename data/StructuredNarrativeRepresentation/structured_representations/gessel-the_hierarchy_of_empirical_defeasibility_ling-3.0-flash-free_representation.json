@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad gradatum",
+    "premise_explicitness": "The argument rests on the distinction between experience kinds and information types, from which it derives a hierarchy of empirical defeasibility.",
+    "num_distinct_arguments_for_thesis": 3
+  },
+  "dialectical_engagement": {
+    "objections_raised": [
+      "Thesis proponent might argue that spherical vision resists overriding defeaters.",
+      "Thesis proponent might argue that compound perceptually justified beliefs resist testimonial defeaters.",
+      "Thesis proponent might argue that tactile confirmation guarantees material existence."
+    ],
+    "objection_handling": "Each objection is granted partial force but then shown to fail because the relevant belief remains vulnerable to the other species of defeater or to empirically grounded undermining challenges.",
+    "bites_the_bullet_on_counterintuitive_implication": false
+  },
+  "method_and_evidence": {
+    "uses_named_thought_experiment": true,
+    "named_thought_experiments": [
+      "Brain in a vat",
+      "Phantom limb syndrome",
+      "Tactile hallucination",
+      "Quantum hologram table"
+    ],
+    "evidence_type": "Phenomenological description, modal possibility, and empirical scientific examples",
+    "appeals_to_authority": [
+      "Bryce Gessell"
+    ]
+  },
+  "thesis_commitment": {
+    "conclusion_type": "Refutation",
+    "hedging_density_in_final_paragraph": "High"
+  },
+  "structural_organization": {
+    "structure_type": "Cumulative case via progressively stronger candidate sources",
+    "explicit_signposting": true
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate",
+    "uses_first_person_epistemic_verbs": false,
+    "imagined_interlocutor_voiced_directly": false
+  },
+  "conceptual_grounding": {
+    "explicit_definitions_given": [
+      "Overriding defeater",
+      "Undermining defeater",
+      "Flash vision",
+      "Spherical vision",
+      "Experience kind",
+      "Information type"
+    ],
+    "draws_explicit_distinction": true,
+    "distinctions_drawn": [
+      "Overriding vs undermining defeaters",
+      "Experience kinds vs information types",
+      "Flash vs spherical vision",
+      "Simple vs compound perceptually justified beliefs",
+      "Phenomenological vs ontological guarantee",
+      "Resistance to defeat vs indefeasibility"
+    ]
+  },
+  "argumentative_quality": {
+    "premise_acceptability": "Medium",
+    "logical_relevance": "High",
+    "dialectical_reasonableness": "Medium"
+  },
+  "philosophical_orientation": {
+    "thematic_focus": "Epistemology of perception",
+    "sentiment": "Empiricist yet fallibilist",
+    "grounding": "Phenomenology and modal possibility"
+  },
+  "summary_of_core_decisions": "The essay attacks empirical indefeasibility by constructing a graded hierarchy of perceptual resilience, then showing that each putatively conclusive belief source is merely at the bottom of the hierarchy rather than outside it. It uses modality-specific distinctions and defeaters as the primary conceptual machinery.",
+  "_source_corpus": "synthetic",
+  "_source_file": "gessel-the_hierarchy_of_empirical_defeasibility_ling-3.0-flash-free.txt"
+}

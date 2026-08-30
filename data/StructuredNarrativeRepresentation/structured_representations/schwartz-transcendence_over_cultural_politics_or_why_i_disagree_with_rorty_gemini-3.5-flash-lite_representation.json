@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical evaluation through internal critique and external counter-interpretation",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate; premises are embedded in narrative and interpretive reconstructions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages with opposing views and anticipates objections",
+    "logical_relevance": "High; all sections bear on the central question",
+    "premise_acceptability": "Moderate; relies on contested interpretations of Heidegger and Rorty"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Traditional metaphysics vs. absolute immanentism",
+      "Ontology vs. cultural politics",
+      "Givenness vs. social practice",
+      "Correlationism vs. ontological excess",
+      "Teleology vs. historicism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Ereignis as event of appropriation",
+      "Kehre as turning",
+      "tertium quid as non-social givenness",
+      "correlationism as access only to thinking-being correlation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Uses Sheehan's interpretation to counter Brandom's pragmatist reading; uses internal tension to counter Rorty",
+    "objections_raised": [
+      "Rorty's reliance on Jamesian happiness reintroduces a transcendental telos",
+      "Brandom's reduction of Vorhandenheit to social practice cannot explain resistance of the real",
+      "Pure irony cannot sustain moral solidarity"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; uses 'argue', 'suggests', 'demonstrates'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Rorty",
+      "Brandom",
+      "Heidegger",
+      "Sheehan",
+      "James",
+      "Meillassoux"
+    ],
+    "evidence_type": "Interpretive textual evidence and conceptual argumentation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatism, post-analytic philosophy, continental phenomenology",
+    "sentiment": "Critical of absolute immanentism; sympathetic to a non-metaphysical realism",
+    "thematic_focus": "Ontology, social practice, givenness, transcendence, normativity"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned essay with introduction, five parts, and conclusion"
+  },
+  "summary_of_core_decisions": "The essay's blueprint is a two-stage critique: first, it reconstructs Rorty's immanentism and Brandom's pragmatist Heidegger to show the reduction of ontology to social practice; second, it exposes an internal teleological contradiction in Rorty and an external ontological excess via Sheehan's reading of Ereignis. The conclusion is a qualified rejection: Rorty succeeds against traditional metaphysics but fails to eliminate all transcendence, because the givenness of entities and the normative telos of happiness both exceed cultural politics.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection",
+    "hedging_density_in_final_paragraph": "Moderate; uses 'does not successfully avoid' and 'displaces' rather than outright dismissal"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwartz-transcendence_over_cultural_politics_or_why_i_disagree_with_rorty_gemini-3.5-flash-lite.txt"
+}

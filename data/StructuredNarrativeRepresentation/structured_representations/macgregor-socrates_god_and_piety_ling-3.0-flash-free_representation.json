@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Recursive dialectical amplification",
+    "num_distinct_arguments_for_thesis": 7,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "traditional vs. Socratic piety",
+      "divine command vs. objective Good",
+      "normative vs. epistemic link",
+      "mythos vs. logos",
+      "human reason vs. divine illumination"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Socratic piety as elenctic soul-improvement",
+      "traditional piety as transactional ritual",
+      "daimonion as divine restraint"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges and incorporates objections as tensions",
+    "objections_raised": [
+      "elenchus cannot compel moral transformation",
+      "reason cannot prove divine illumination",
+      "Socratic certainty risks new hubris"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Euthyphro",
+      "Plato's Apology",
+      "Homer and Hesiod"
+    ],
+    "evidence_type": "textual interpretation and conceptual analysis",
+    "named_thought_experiments": [
+      "Euthyphro dilemma"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "rationalist and moral realist",
+    "sentiment": "critical but appreciative",
+    "thematic_focus": "philosophy of religion, moral epistemology, Socratic method"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis, dialectical development, tension, resolution"
+  },
+  "summary_of_core_decisions": "The text presents Socratic piety as a rational redefinition of divine service, grounded in the elenchus and the daimonion, but ultimately dependent on an intellectual faith that human reason aligns with divine reason.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified defense",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "macgregor-socrates_god_and_piety_ling-3.0-flash-free.txt"
+}

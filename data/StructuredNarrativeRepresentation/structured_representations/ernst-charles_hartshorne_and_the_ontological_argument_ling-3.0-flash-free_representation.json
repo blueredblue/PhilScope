@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Historical-dialectical progression with recursive refinement",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are explicitly stated and reiterated"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments and attempts synthesis",
+    "logical_relevance": "High - all premises directly support the evolving thesis",
+    "premise_acceptability": "Moderate - relies on contested metaphysical assumptions (e.g., modal logic, actus purus)"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Existence as predicate vs. existence as positing",
+      "Analytic vs. synthetic judgments",
+      "Contingent existence vs. necessary existence",
+      "Abstract being vs. concrete becoming",
+      "Classical theism vs. modal theism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "God as 'that than which nothing greater can be conceived'",
+      "Existence as 'not a real predicate'",
+      "Necessary existence as 'a perfection'",
+      "Maximal greatness as 'possessing maximal excellence in every possible world'"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic - each critique (Kant) is addressed by a reformulation (Hartshorne), then subjected to a new critique",
+    "objections_raised": [
+      "Kant's objection: existence is not a predicate (against Anselm)",
+      "Author's objection: Hartshorne's modal argument fails because possibility is unproven",
+      "Author's objection: Modal coextensiveness conflicts with actus purus"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses terms like 'fails', 'unproven', 'unbridgeable'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Anselm",
+      "Kant",
+      "Hartshorne",
+      "Plantinga"
+    ],
+    "evidence_type": "A priori conceptual analysis and logical deduction",
+    "named_thought_experiments": [
+      "Triangle (three angles contained in concept)",
+      "Hundred thalers (concept vs. actual possession)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "A priori / Rationalist",
+    "sentiment": "Critical / Skeptical of the ontological argument",
+    "thematic_focus": "Philosophy of religion, modal logic, metaphysics of existence"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Recursive dialectic (Thesis -> Antithesis -> Synthesis -> Critique of Synthesis)"
+  },
+  "summary_of_core_decisions": "The text constructs a three-stage dialectic. It presents Anselm's classical argument (existence as predicate), then Kant's refutation (existence as positing, not predicate), then Hartshorne's modal rescue (necessary existence as predicate). The author's final move is to critique Hartshorne's synthesis by arguing that the modal framework's reliance on possibility is unproven and that the concept of actus purus is incompatible with modal becoming, leaving the ontological argument ultimately unbridgeable.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative / Refutative",
+    "hedging_density_in_final_paragraph": "High - uses 'fails', 'unproven', 'unbridgeable'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ernst-charles_hartshorne_and_the_ontological_argument_ling-3.0-flash-free.txt"
+}

@@ -1,0 +1,65 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis via polemical adaptation",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "High - premises are explicitly stated and systematically linked to conclusions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate - engages with opposing views but primarily to refute them",
+    "logical_relevance": "High - all premises directly support the central thesis",
+    "premise_acceptability": "Moderate - relies on theological assumptions that may not be universally accepted"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Ultimate vs. proximate causality",
+      "Libertarian vs. compatibilist freedom",
+      "Theological unity vs. philosophical coherence",
+      "Primary vs. secondary moral agency"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Libertarian free will: uncaused prime mover, capacity to do otherwise",
+      "Compatibilist freedom: voluntary action under divine determination",
+      "Evil as privation vs. evil as substance"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Preemptive - anticipates objections by redefining key terms (e.g., 'willingness')",
+    "objections_raised": [
+      "If God is ultimate cause of all choices, human moral responsibility collapses",
+      "The distinction between ultimate and proximate causality is collapsed",
+      "The agent is reduced from primary moral agent to secondary conduit"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses definitive terms like 'is', 'are', 'cannot', 'must'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Augustine's texts (De Libero Arbitrio, De Praedestinatione Sanctorum)",
+      "Classical understanding of moral responsibility"
+    ],
+    "evidence_type": "Textual interpretation and logical deduction",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Theological metaphysics",
+    "sentiment": "Analytical and critical",
+    "thematic_focus": "The problem of evil, divine sovereignty, free will, moral responsibility"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-dialectic with a concluding critique"
+  },
+  "summary_of_core_decisions": "The text presents a dialectical progression where Augustine's two major works are framed as strategic responses to specific heresies (Manicheanism and Pelagianism). The core decision is to subordinate human moral agency to divine sovereignty, which the text argues is theologically coherent but philosophically fatal to libertarian responsibility. The analysis concludes that this synthesis leaves an unresolved tension between divine determinism and human freedom.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified synthesis",
+    "hedging_density_in_final_paragraph": "Moderate - acknowledges the cost but affirms the coherence"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "madsen-gods_sovereignty_ling-3.0-flash-free.txt"
+}

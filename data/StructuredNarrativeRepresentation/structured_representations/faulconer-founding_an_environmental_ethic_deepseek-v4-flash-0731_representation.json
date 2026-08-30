@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text presents a critical philosophical analysis of Faulconer's argument, using an immanent critique of Kantian concepts. It reconstructs Faulconer's syllogistic reasoning, then challenges it through distinctions between moral and aesthetic normativity, counterexamples, and a dilemma about arbitrariness.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "The text explicitly reconstructs Faulconer's argument as a three-premise syllogism, but also identifies implicit premises in the critique (e.g., the uniqueness of natural objects, the equivalence of form and simulacrum)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically fair: it grants Faulconer's ingenuity and acknowledges the force of his critique of utilitarianism before presenting objections.",
+    "logical_relevance": "All objections are directly relevant to the central transition from aesthetic universality to moral obligation.",
+    "premise_acceptability": "The critique relies on widely accepted Kantian distinctions (determinant vs. reflective judgment, perfect vs. imperfect duty) and plausible counterexamples (VR simulation, subjective taste)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Determinant vs. reflective judgment",
+      "Moral normativity vs. aesthetic normativity",
+      "Perfect vs. imperfect duty",
+      "Duty to nature vs. duty regarding nature",
+      "Form vs. material existence",
+      "Empirical vs. transcendental arbitrariness"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Determinant judgment: applies a universal law to a particular maxim.",
+      "Reflective judgment: seeks a concept for a given particular intuition.",
+      "Aesthetic normativity: demands agreement in feeling, not action.",
+      "Moral normativity: commands action with absolute necessity."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates Faulconer's possible appeal to the sublime and responds that whether a simulation can evoke the sublime is an empirical claim, not a categorical one.",
+    "objections_raised": [
+      "Normativity gap: moral command vs. aesthetic expectation.",
+      "Equivocation on duty: imperfect duty to cultivate taste does not specify particular objects.",
+      "Simulation counterexample: a perfect VR redwood forest would satisfy the aesthetic condition.",
+      "Content arbitrariness: universal form of taste does not determine what is beautiful.",
+      "Indeterminacy: no method for adjudicating concrete environmental policy choices."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses strong evaluative language ('decisive challenge', 'fatal equivocation', 'resounding no') but also acknowledges Faulconer's argument as 'masterful' and 'provocative'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant's Groundwork of the Metaphysics of Morals",
+      "Kant's Critique of Practical Reason",
+      "Kant's Critique of Judgment"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, internal critique of Kantian distinctions.",
+    "named_thought_experiments": [
+      "Perfect virtual reality simulation of a redwood forest",
+      "Strip mines judged as industrial sublime",
+      "Monoculture farms judged aesthetically pleasing",
+      "Dam a river vs. preserve scenic beauty"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "The text operates within the Kantian transcendental tradition, using Kant's own distinctions to critique Faulconer's extension of aesthetics to ethics.",
+    "sentiment": "The text is sympathetic to environmentalist goals but skeptical of purely aesthetic foundations; it suggests a supplementary principle such as intrinsic value of life or dignity of non-rational beings.",
+    "thematic_focus": "Environmental ethics, Kantian moral philosophy, aesthetic judgment, normativity, arbitrariness, intrinsic vs. instrumental value."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-reconstruction-critique-conclusion; each paragraph builds on the previous with escalating specificity."
+  },
+  "summary_of_core_decisions": "The text's central decision is to treat Faulconer's argument as a bridge between two distinct normative domains and to show that the bridge fails because it equivocates on 'ought.' It then demonstrates that the problem of arbitrariness is not solved but relocated from empirical consequences to subjective taste.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative evaluation with qualified appreciation",
+    "hedging_density_in_final_paragraph": "Moderate: 'necessary corrective' but 'insufficient'; 'bridge too far' but 'compelling reason to value nature.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "faulconer-founding_an_environmental_ethic_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical evaluation of a proposed argument, with a thesis, exposition, objections, and a qualified defense.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "Moderate: premises are often embedded in prose, but key steps are enumerated in Section 3 and objections are clearly stated in Section 5."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay engages with objections and counterarguments, and the author acknowledges the strengths of Faulconer's position while pointing out flaws.",
+    "logical_relevance": "High: all sections directly contribute to the evaluation of Faulconer's thesis.",
+    "premise_acceptability": "Moderate: some premises (e.g., the claim that aesthetic universality cannot ground moral obligation) are contested but defended with reference to Kant's architectonic."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Direct vs. indirect duties",
+      "Agreeable vs. beautiful",
+      "Aesthetic universality vs. moral obligation",
+      "Formal vs. material ecological value",
+      "Subjective universality vs. objective universality",
+      "Moral anthropology vs. moral duty"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Aesthetic judgment: a judgment of taste that claims universal assent without a concept.",
+      "Sensus communis: the shared human faculty of judgment that grounds the universal claim of taste.",
+      "Teleological judgment: a reflective judgment that considers an object as if it had a purpose."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The author raises three objections to Faulconer's argument and then offers a reconstruction that avoids them, showing a nuanced engagement.",
+    "objections_raised": [
+      "Formalism fails to capture ecological complexity (picturesque bias).",
+      "Slippage from aesthetic universality to moral obligation (category mistake).",
+      "Inability to adjudicate policy conflicts without consequentialist weighing."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'I will argue', 'it faces three fatal structural hurdles', 'ultimately stumbles', but also acknowledges strengths.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant's texts (Groundwork, Metaphysics of Morals, Critique of Judgment)",
+      "Faulconer's interpretation (as presented)"
+    ],
+    "evidence_type": "Philosophical argumentation, textual interpretation, and conceptual analysis.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian transcendental philosophy, with a focus on aesthetics and moral anthropology.",
+    "sentiment": "Critical but constructive: the essay critiques Faulconer's overreach but endorses his diagnostic value.",
+    "thematic_focus": "Environmental ethics, Kantian aesthetics, moral obligation, non-consequentialist justification."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven critical essay with numbered sections and a conclusion."
+  },
+  "summary_of_core_decisions": "The essay evaluates Faulconer's attempt to ground environmental obligations in Kantian aesthetics. It concludes that while the attempt fails to derive strict moral duties, it successfully exposes the inadequacy of utilitarian environmentalism and offers resources for a richer Kantian environmental ethic based on moral anthropology.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection of the proposed derivation, with a constructive alternative.",
+    "hedging_density_in_final_paragraph": "Moderate: the author uses 'may be overzealous', 'succeeds in shifting the conversation', 'may be precisely what saves us'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "faulconer-founding_an_environmental_ethic_gemini-3.5-flash-lite.txt"
+}

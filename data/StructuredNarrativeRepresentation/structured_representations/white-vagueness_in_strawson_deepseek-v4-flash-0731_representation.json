@@ -1,0 +1,65 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often implicit in the discussion of examples and distinctions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text engages with counterarguments and refines positions",
+    "logical_relevance": "High - all points directly address the central debate",
+    "premise_acceptability": "Moderate - some premises rely on intuitive distinctions (e.g., logical vs. empirical impossibility) that are not fully defended"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Meaning vs. reference",
+      "Sentence vs. use vs. utterance",
+      "Semantic content vs. pragmatic presupposition",
+      "Logical vs. empirical impossibility",
+      "Conditional vs. unconditional directions"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Meaning as 'directions for use'",
+      "Presupposition as a condition for truth-value",
+      "Definite description as a complex predicate"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text raises two objections (vagueness and speaker misunderstanding) and refutes both by clarifying the conditional nature of directions and distinguishing factual from linguistic error.",
+    "objections_raised": [
+      "Directions for 'the queen of America' are unfulfillable and thus vague",
+      "Speakers misunderstand the proper application of the directions"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses hedged phrases like 'seems to rely', 'might respond', 'suggests'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Conceptual analysis, thought experiments, logical paraphrase",
+    "named_thought_experiments": [
+      "The queen of America",
+      "The round square"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Ordinary language philosophy and logical analysis",
+    "sentiment": "Neutral - presents both sides and seeks synthesis",
+    "thematic_focus": "Philosophy of language, reference, meaning, presupposition"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical - thesis, antithesis, synthesis with a two-horned dilemma in the middle"
+  },
+  "summary_of_core_decisions": "The text resolves the Russell-Strawson debate by arguing that they address different questions: Russell handles truth-conditions, Strawson handles pragmatic reference. The 'directions for use' are conditional and precise, not vague, and speaker errors are factual, not linguistic. The synthesis preserves both logical form and ordinary language practice.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthesis",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive about complementarity"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "white-vagueness_in_strawson_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,65 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Recursive conceptual deepening with a central thesis restated at increasing levels of specificity, culminating in a critical thought experiment and teleological refutation.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Mostly implicit; the text relies on repeated reformulation rather than formal premise-conclusion chains."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate; the text identifies a genuine tension in Aristotle's account but does not engage with potential Aristotelian rejoinders (e.g., the distinction between 'for the sake of another' and 'for the sake of oneself as virtuous').",
+    "logical_relevance": "High; all premises directly support the conclusion that Aristotle's friendship is self-referential altruism.",
+    "premise_acceptability": "Low to moderate; the key premise that 'self-referential altruism is not genuine altruism' is asserted rather than defended, and the interpretation of 'another self' is one-sided."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Egoism vs. altruism",
+      "Intrinsic vs. instrumental value",
+      "Self-referential vs. genuine altruism",
+      "Virtuous friendship vs. utility/pleasure friendship",
+      "Universal vs. restricted altruism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Self-referential altruism: loving the other because the other is an extension of the self's own rational and virtuous identity.",
+      "Genuine altruism: pursuing the other's welfare even at the expense of the self's flourishing."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that Aristotle's synthesis overcomes the dichotomy, but responds by arguing that the self remains the ultimate horizon of value, making the altruism derivative.",
+    "objections_raised": [
+      "Aristotle's synthesis might be seen as a genuine third way.",
+      "The friend's intrinsic good might be constitutive of the self's good, not merely instrumental."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High; uses phrases like 'ensures,' 'reveals,' 'ultimately undermines,' 'never fully escapes.'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle's Nicomachean Ethics"
+    ],
+    "evidence_type": "Conceptual analysis, textual interpretation, hypothetical scenario, teleological reasoning.",
+    "named_thought_experiments": [
+      "A scenario where a virtuous friend faces a choice that benefits them but harms the self."
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Teleological eudaimonism",
+    "sentiment": "Critical of Aristotelian eudaimonism; argues that self-love ultimately subsumes other-love.",
+    "thematic_focus": "The nature of friendship, altruism, selfhood, and moral motivation."
+  },
+  "structural_organization": {
+    "explicit_signposting": false,
+    "structure_type": "Spiral: each paragraph restates the thesis with a new layer of analysis (origin \u2192 manifestation \u2192 concept \u2192 phenomenological tension \u2192 restriction \u2192 central question \u2192 conclusion)."
+  },
+  "summary_of_core_decisions": "The text's central move is to define Aristotle's virtuous friendship as 'self-referential altruism' and then argue that this concept is internally unstable: because the friend is 'another self,' the friend's good is always already the self's good, so the altruism is not genuine. The conclusion is that Aristotle's synthesis fails to escape egoism; it merely disguises it.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative thesis about Aristotle's account",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive and unqualified."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "west-self_referential_altruism_ling-3.0-flash-free.txt"
+}

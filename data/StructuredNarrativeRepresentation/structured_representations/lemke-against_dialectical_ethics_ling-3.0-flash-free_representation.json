@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is structured as a dialectical critique and counter-defense. It begins by presenting Hegel's system, then introduces Oliver's feminist critique, then introduces Starrett's defense, then tests that defense against objections, and concludes with a conditional resolution.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: many premises are embedded in the dialectical narrative rather than formally enumerated."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text engages with counterarguments and attempts to balance critique with defense.",
+    "logical_relevance": "High: all components bear directly on the question of whether Hegel's dialectic requires the sacrifice of the feminine.",
+    "premise_acceptability": "Moderate: the premises rely on a particular feminist reading of Hegel and on the plausibility of Starrett's reinterpretation."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Family vs. Civil Society",
+      "Immediate vs. Mediated",
+      "Particular vs. Universal",
+      "Unconscious vs. Conscious",
+      "Divine Law vs. Human Law",
+      "Feminine vs. Masculine",
+      "Sublation vs. Dialogical Tension",
+      "Closed System vs. Open Process"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Family: immediate unity founded on love",
+      "Civil society: realm of free, self-conscious, universal subjects under law and contract",
+      "Sublation (Aufhebung): preserves and cancels, elevates to higher unity",
+      "Dialogical tension: ongoing, unresolved interplay between particular and universal"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text acknowledges that Starrett's open-ended tension risks relativism and fragmentation, but argues that any closure through sublation would reimpose the sacrificial logic. It bites the bullet by accepting the risk of openness as preferable to the violence of closure.",
+    "objections_raised": [
+      "An ongoing dialogical tension may devolve into unmanageable relativism.",
+      "Ethics requires some resolution or norms; unresolved tension may lack normative force.",
+      "If tension is resolved through sublation, the empowering ethics is compromised by the sacrifice of the feminine."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses conditional and exploratory language ('can only successfully preserve if', 'must ask whether', 'depends entirely on').",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hegel",
+      "Kelly Oliver",
+      "Shari Neller Starrett"
+    ],
+    "evidence_type": "Textual interpretation and conceptual analysis; no empirical evidence.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental philosophy, feminist theory, Hegelian dialectics, critical theory",
+    "sentiment": "Critical of traditional Hegelian sublation; sympathetic to open-ended, relational ethics.",
+    "thematic_focus": "Gender, sacrifice, exclusion, conceptual totalization, ethical relation, dialectical closure"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-antithesis-synthesis-revision; critique-defense-counter-defense-conclusion"
+  },
+  "summary_of_core_decisions": "The text ultimately decides that Hegel's dialectic, as traditionally understood, requires the sacrifice of the feminine and therefore fails as a total conceptual system. Starrett's defense can succeed only if the dialectic is reinterpreted as an open-ended dialogical tension, abandoning teleological sublation. The final position is a conditional defense of a revised, non-sublative Hegelianism.",
+  "thesis_commitment": {
+    "conclusion_type": "Conditional normative claim",
+    "hedging_density_in_final_paragraph": "High: 'depends entirely on', 'only by maintaining', 'can hope to construct'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lemke-against_dialectical_ethics_ling-3.0-flash-free.txt"
+}

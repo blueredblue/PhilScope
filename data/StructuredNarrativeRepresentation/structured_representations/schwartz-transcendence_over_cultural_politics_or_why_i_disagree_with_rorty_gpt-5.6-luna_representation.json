@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text uses a dialectical progression from Rorty's pragmatism through Brandom's social-pragmatic reading of Heidegger to Sheehan's interpretation of Ereignis, culminating in a qualified defense of a formal, non-substantive transcendence.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are often embedded in rhetorical reformulations and distinctions rather than formal numbered premises."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text engages with counterarguments and refines positions through distinctions.",
+    "logical_relevance": "High: each section advances the central question of whether social practice exhausts ontological authority.",
+    "premise_acceptability": "Moderate: relies on contested Heideggerian and pragmatist commitments; some premises are asserted rather than fully defended."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Social articulation vs. ontological constitution",
+      "Epistemic authority vs. ontological intelligibility vs. social production of existence",
+      "Metaphysical transcendence vs. epistemic transcendence vs. structural transcendence",
+      "Zuhandensein vs. Vorhandensein",
+      "Das Man vs. Dasein's existential possibilities",
+      "Ereignis as event vs. Ereignis as substance",
+      "Tertium quid as formal vs. substantial",
+      "Happiness as contingent preference vs. general standard"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Ereignis as appropriation/belonging-together rather than a temporal event",
+      "Structural transcendence as the capacity of entities to exceed practices",
+      "Tertium quid as a third dimension irreducible to social construction or independent objectivity"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates Rortyan replies (e.g., 'answering back' is just practice-internal) and responds by distinguishing access from constitution.",
+    "objections_raised": [
+      "Rorty's liberalism loses critical force if happiness is merely local preference.",
+      "Brandom's inferentialism cannot account for breakdown and resistance.",
+      "Identifying the clearing with actual practices cannot explain emergence or critique."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'appears', 'tends', 'can be understood', 'suggests'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Heidegger",
+      "Brandom",
+      "Sheehan",
+      "James",
+      "Rorty"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological distinctions, interpretive reconstruction, and dialectical counterexamples.",
+    "named_thought_experiments": [
+      "Hammer breaking or being too fragile",
+      "Bridge collapse",
+      "Scientific anomaly",
+      "Political injustice becoming visible through new vocabulary"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatist and post-Heideggerian; anti-foundationalist but not anti-realist in a naive sense.",
+    "sentiment": "Critical of reductive social constructivism; sympathetic to a formal ontological dimension.",
+    "thematic_focus": "Ontological authority, social practice, transcendence, normativity, world-disclosure."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven dialectical essay with progressive refinement and cumulative conclusion."
+  },
+  "summary_of_core_decisions": "The text ultimately decides that Rorty's pragmatism is compelling against classical metaphysical transcendence but insufficient because it fails to account for structural transcendence. It endorses a formal tertium quid\u2014neither a substance nor a social construction\u2014as necessary for understanding givenness, critique, and the possibility of practices exceeding themselves.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified positive thesis",
+    "hedging_density_in_final_paragraph": "Moderate: 'can be understood', 'does require', 'only in a formal and ontological\u2014not substantial and metaphysical\u2014sense'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwartz-transcendence_over_cultural_politics_or_why_i_disagree_with_rorty_gpt-5.6-luna.txt"
+}

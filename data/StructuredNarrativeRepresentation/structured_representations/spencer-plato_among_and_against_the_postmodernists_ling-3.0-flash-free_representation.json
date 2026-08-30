@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical reconciliation of apparent opposition through a mediating third term",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in narrative but recoverable as propositions"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: each stage responds to the previous one's internal tension",
+    "logical_relevance": "High: all premises directly support the conclusion about methodological continuity",
+    "premise_acceptability": "Moderate: relies on contested readings of Plato, Hegel, and postmodernism"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Metaphysical vs methodological alignment",
+      "Positive mantic interpretation vs negative Socratic elenchus",
+      "Transcendent vs immanent textual realm",
+      "Platonic/Hegelian convergence on Absolute vs postmodern infinite deferral"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Elenchus: negative testing yielding aporia",
+      "Mantic interpretation: allegorical extraction of latent truth",
+      "Sealed cave: no outside; shadows are necessary self-alienations of Spirit"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Implicit: anticipates objection that Plato and postmodernism are metaphysically opposed; resolves by separating method from metaphysics",
+    "objections_raised": [
+      "Plato's metaphysics is transcendent, postmodernism is immanent",
+      "Plato seeks stable truth, postmodernism denies it"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'demonstrates', 'reveals', 'establishes' but with dialectical nuance",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato",
+      "Hegel",
+      "Derrida",
+      "Foucault"
+    ],
+    "evidence_type": "Conceptual and historical reconstruction of philosophical positions",
+    "named_thought_experiments": [
+      "Allegory of the Cave"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental: Hegelian dialectic and postmodern textualism",
+    "sentiment": "Neutral-analytical: neither celebratory nor dismissive of postmodernism",
+    "thematic_focus": "Philosophical method, textual interpretation, metaphysics, history of philosophy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis \u2192 historical dialectic (Plato \u2192 Hegel \u2192 postmodernism) \u2192 implications \u2192 conclusion"
+  },
+  "summary_of_core_decisions": "The text resolves the apparent opposition between Plato's transcendent metaphysics and postmodern textualism by arguing that Plato's own textual-critical practice, especially the Socratic elenchus, introduces instability that Hegel's immanentization completes. This yields a methodological continuity independent of metaphysical commitments.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified: methodological continuity despite metaphysical discontinuity",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is assertive but acknowledges metaphysical disagreement"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "spencer-plato_among_and_against_the_postmodernists_ling-3.0-flash-free.txt"
+}

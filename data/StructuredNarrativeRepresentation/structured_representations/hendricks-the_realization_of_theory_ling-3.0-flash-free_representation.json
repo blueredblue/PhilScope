@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "recursive_dialectical_self_correction",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "highly_explicit_with_repeated_qualifiers"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_to_high_depending_on_platonist_commitments"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "word_vs_deed",
+      "logos_vs_praxis",
+      "pedagogical_tool_vs_metaphysical_foundation",
+      "constructed_heuristic_vs_discovered_reality",
+      "city_vs_soul",
+      "macrocosm_vs_microcosm",
+      "rational_discourse_vs_mythic_narrative",
+      "virtue_vs_metaphysics",
+      "presentation_vs_inculcation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "word_logos",
+      "deed_praxis",
+      "city_in_speech",
+      "tripartite_soul",
+      "form_of_the_good"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "preemptive_and_recursive",
+    "objections_raised": [
+      "pedagogical_priority_undermines_metaphysics",
+      "constructed_models_are_fictitious",
+      "myth_contradicts_rational_discourse"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "plato",
+      "socrates",
+      "glaucon",
+      "adeimantus"
+    ],
+    "evidence_type": "textual_interpretation_and_conceptual_analysis",
+    "named_thought_experiments": [
+      "kallipolis",
+      "tripartite_soul",
+      "allegory_of_the_cave",
+      "myth_of_er"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "platonism",
+    "sentiment": "neutral_analytic",
+    "thematic_focus": "metaphysics_and_pedagogy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "recursive_dialectical_self_correction"
+  },
+  "summary_of_core_decisions": "The text is a recursive dialectical exercise that repeatedly posits a pedagogical reading of Plato's Republic, then complicates it with metaphysical commitments, and finally synthesizes them by distinguishing the presentation of metaphysical truth from its pedagogical inculcation. It uses explicit textual references, conceptual pairs, and a concluding resolution to argue that virtue is the behavioral realization of metaphysical truth, not a replacement for it.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_synthesis",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hendricks-the_realization_of_theory_ling-3.0-flash-free.txt"
+}

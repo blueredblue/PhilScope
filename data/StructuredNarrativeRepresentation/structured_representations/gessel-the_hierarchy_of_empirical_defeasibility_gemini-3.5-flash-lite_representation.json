@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Cumulative dialectical vindication: define defeasibility, reject atomistic empiricism, introduce Gessell's visual taxonomy, show compound beliefs neutralize defeaters, test the strongest candidate (tactile confirmation), then synthesize into a hierarchy.",
+    "premise_explicitness": "Moderately explicit: foundational premises include the distinction between overriding/undermining defeaters and the claim that structural density of sensory experience grounds epistemic resistance.",
+    "num_distinct_arguments_for_thesis": 4
+  },
+  "dialectical_engagement": {
+    "objections_raised": [
+      "Testimonial defeaters can undermine perceptual justification (standard tracking/reliability accounts).",
+      "Local sensory illusions (phantom limbs, thermal grills, rubber hand illusion) show haptic/tactile experience can be deceived.",
+      "Global simulation scenarios (brain-in-a-vat) suggest all modalities could be counterfeited, defeating even compound beliefs."
+    ],
+    "objection_handling": "Uses structural absorption and modal consilience to defuse testimonial defeaters; distinguishes local illusion from global simulation; restricts the class of genuine empirical defeaters, consigning global simulation to metaphysical skepticism outside empirical epistemology.",
+    "bites_the_bullet_on_counterintuitive_implication": false
+  },
+  "method_and_evidence": {
+    "uses_named_thought_experiment": false,
+    "named_thought_experiments": [
+      "Dr. Johnson kicking the stone",
+      "G.E. Moore's 'here is one hand'",
+      "Descartes's evil demon",
+      "Putnam's brain-in-a-vat",
+      "sensory deprivation tank simulation with neurological lab in Geneva",
+      "bent stick in water, mirage, trompe-l'\u0153il"
+    ],
+    "evidence_type": "Phenomenological anatomy of perceptual modalities; logical taxonomy of defeaters; modal analysis of haptic resistance; architectural hierarchy of information types.",
+    "appeals_to_authority": [
+      "Bryce Gessell's taxonomy of flash vision vs. spherical vision"
+    ]
+  },
+  "thesis_commitment": {
+    "conclusion_type": "Conditional vindication: within the empirical domain, conclusive empirical beliefs are empirically indefeasible; metaphysical possibilities like global simulation are not empirical defeaters.",
+    "hedging_density_in_final_paragraph": "Low-to-moderate: explicitly denies Cartesian infallibility and dogmatic closure, but affirms indefeasibility relative to empirical inquiry."
+  },
+  "structural_organization": {
+    "structure_type": "Partitioned treatise",
+    "explicit_signposting": true
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High \u2014 words like 'unassailable', 'indefeasible', 'overwhelming', 'bedrock', 'immune' recur.",
+    "uses_first_person_epistemic_verbs": false,
+    "imagined_interlocutor_voiced_directly": true
+  },
+  "conceptual_grounding": {
+    "explicit_definitions_given": [
+      "Defeater: evidence/consideration that strips or diminishes justification of a target belief.",
+      "Overriding (rebutting) defeater: positive evidence for the negation of P.",
+      "Undermining defeater: attacks connection between evidence and P without providing evidence for not-P.",
+      "Empirical indefeasibility: a subclass of empirical beliefs with highest justification cannot be rationally stripped by subsequent empirical evidence.",
+      "Flash vision: momentary, directed, perspectival, punctiform mode of seeing.",
+      "Spherical vision: integrative, holistic, immersive, boundary-spanning visual field.",
+      "Compound perceptually justified belief: belief weaving multiple sensory modalities into a unified web."
+    ],
+    "draws_explicit_distinction": true,
+    "distinctions_drawn": [
+      "flash vision vs. spherical vision",
+      "overriding vs. undermining defeaters",
+      "local illusion vs. global simulation",
+      "empirical defeater vs. metaphysical possibility",
+      "atomistic empiricism vs. modally pluralistic foundationalism"
+    ]
+  },
+  "argumentative_quality": {
+    "premise_acceptability": "Depends on accepting Gessell's phenomenological taxonomy and the claim that informational bandwidth determines epistemic resistance.",
+    "logical_relevance": "The haptic argument is limited to material existence, not other empirical beliefs; the hierarchy is broad but supported only by examples.",
+    "dialectical_reasonableness": "The essay anticipates and rebuts standard skeptical objections, but treats global simulation as non-empirical by stipulation rather than argument."
+  },
+  "philosophical_orientation": {
+    "thematic_focus": "Epistemology of perception; foundationalism; defeasibility; skeptical scenarios",
+    "sentiment": "Neutral-analytic with a realist, anti-skeptical bent",
+    "grounding": "Phenomenological architectonics and modal realism"
+  },
+  "summary_of_core_decisions": "The essay defends empirical indefeasibility by re-anchoring epistemology in the internal architecture of sensory modalities, especially spherical vision and haptic compound experience, rather than in Cartesian indubitability or atomistic sense-data.",
+  "_source_corpus": "synthetic",
+  "_source_file": "gessel-the_hierarchy_of_empirical_defeasibility_gemini-3.5-flash-lite.txt"
+}

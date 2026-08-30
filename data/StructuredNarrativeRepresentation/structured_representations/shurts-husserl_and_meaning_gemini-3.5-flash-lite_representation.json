@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "explicitly stated and defended"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "noesis vs noema",
+      "core-Sinn vs Gegebenheitsweise",
+      "thetic character vs belief modality",
+      "objectivism vs relativism",
+      "valid interpretation vs misinterpretation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "intentionality",
+      "noema",
+      "noesis",
+      "Sinn",
+      "Gegebenheitsweise",
+      "thetic character"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "preemptive and comparative",
+    "objections_raised": [
+      "objectivism ignores noematic correlation",
+      "relativism ignores noematic constraints",
+      "Gadamer risks linguistic relativism",
+      "Hirsch relies on inaccessible author psychology"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Husserl",
+      "Frege",
+      "Gadamer",
+      "Hirsch",
+      "Fish",
+      "Kafka",
+      "Nietzsche"
+    ],
+    "evidence_type": "conceptual analysis and illustrative example",
+    "named_thought_experiments": [
+      "The Trial as case study",
+      "The Communist Manifesto as recipe book",
+      "Ulysses as quantum physics manual"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "phenomenological",
+    "sentiment": "non-relativist but pluralist",
+    "thematic_focus": "hermeneutics and textual interpretation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "systematic with numbered parts and subsections"
+  },
+  "summary_of_core_decisions": "The essay resolves the objectivism-relativism antinomy by positing the noema as an invariant core-Sinn that anchors interpretation while allowing multiple Gegebenheitsweisen. It critiques both strict objectivism and radical relativism, then demonstrates the resolution through Kafka's The Trial, and contrasts with Gadamer and Hirsch to show the superiority of Husserl's transcendental framework.",
+  "thesis_commitment": {
+    "conclusion_type": "synthesis",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "shurts-husserl_and_meaning_gemini-3.5-flash-lite.txt"
+}

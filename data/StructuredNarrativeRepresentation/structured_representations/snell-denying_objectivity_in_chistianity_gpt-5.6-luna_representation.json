@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Recursive dialectical refinement: each section restates the central thesis with increasing precision, introduces a counter-consideration, then qualifies the thesis to avoid overstatement.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate: premises are embedded in prose rather than formalized; key premises are repeated and refined across sections."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text systematically engages objections and qualifies the central claim, avoiding a simplistic dichotomy between certainty and faith.",
+    "logical_relevance": "High: all sections bear directly on the question of whether objective inquiry can replace or destroy authentic Christian faith.",
+    "premise_acceptability": "Moderate: the text acknowledges that some premises (e.g., certainty destroys passion) are implausible and revises them."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Objective inquiry vs. subjective faith",
+      "Knowing what Christianity is vs. becoming a Christian",
+      "Certainty as epistemic condition vs. commitment as existential act",
+      "Support for faith vs. foundation for faith",
+      "Historical identity of a text vs. divine inspiration",
+      "Historical occurrence of an event vs. religious appropriation of its meaning",
+      "Faith as assent vs. faith as trust/commitment/way of life"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Objective inquiry: seeks certainty about an object independently of the investigator's personal relation.",
+      "Subjective faith: existential commitment in which the individual appropriates a truth inwardly and allows it to shape life.",
+      "Eternal happiness: not an external object but a mode of existing before God, appropriated in the individual's inward existence."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text does not dismiss objections; it incorporates them as qualifications. It concedes that increased historical certainty can support faith, but insists it cannot perform the existential act of faith.",
+    "objections_raised": [
+      "Greater historical certainty might make faith more stable and sincere, not destroy it.",
+      "Knowledge and commitment coexist in ordinary life (e.g., trusting a known friend).",
+      "Christianity claims historical revelation; if historical claims are irrelevant, faith becomes a purely inward projection.",
+      "Uncertainty is not intrinsically valuable; faith should not thrive on ignorance."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: the text repeatedly discusses certainty, uncertainty, probability, and proof.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Conceptual analysis, thought experiments, hypothetical scenarios, distinctions, and ordinary-life analogies.",
+    "named_thought_experiments": [
+      "The philologist who devotes a lifetime to reconstructing the Bible",
+      "Two biblical verification scenarios: textual authenticity and reliability of witnesses",
+      "Third scenario: immediate eyewitness contemporaneity with Christ"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Existentialist and anti-foundationalist: emphasizes inward appropriation, personal decision, and the limits of objective evidence.",
+    "sentiment": "Balanced: affirms the value of historical inquiry while denying its power to replace faith.",
+    "thematic_focus": "The incommensurability between objective inquiry and authentic Christian faith, and the irreducibility of existential commitment."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with recursive refinement: central thesis, two supporting arguments, objections, qualifications, evaluation, conclusion."
+  },
+  "summary_of_core_decisions": "The text defends a qualified version of Kierkegaard's thesis: objective inquiry cannot create or replace authentic Christian faith, but it can support, challenge, and enrich faith. The decisive gap is between establishing facts and making an existential commitment; no amount of evidence can perform the individual's act of faith.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative claim",
+    "hedging_density_in_final_paragraph": "High: uses 'most convincing', 'less convincing', 'not because evidence is worthless', 'venture remains'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "snell-denying_objectivity_in_chistianity_gpt-5.6-luna.txt"
+}

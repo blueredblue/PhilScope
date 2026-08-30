@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Synthesis of Hempel's logical deflationism and Bayesian probabilistic supplementation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; formal Bayesian theorem stated, but prior probabilities left unspecified"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages objectivist critique and Bayesian alternative",
+    "logical_relevance": "High; all moves bear on the central paradox",
+    "premise_acceptability": "High; relies on widely accepted confirmation principles and Bayes' theorem"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Qualitative vs quantitative confirmation",
+      "Logical confirmation vs epistemic relevance",
+      "Confirming instance vs test instance",
+      "Syntactic vs semantic/pragmatic relation",
+      "Objective logical failure vs psychological illusion"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Nicod's Criterion",
+      "Equivalence Condition",
+      "Bayesian confirmation as P(H|E) > P(H)",
+      "Logical confirmation as binary relation",
+      "Epistemic relevance as graded relation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Rebutted objectivist critique by distinguishing qualitative from quantitative confirmation and by invoking background knowledge",
+    "objections_raised": [
+      "Trivialization of confirmation: any arbitrary object confirms any universal hypothesis",
+      "Scientific evidence requires relevance, not mere logical consistency",
+      "Confirmation should be objective and independent of background knowledge"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'decisively', 'fundamentally correct', 'perfectly captures'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Carl Gustav Hempel",
+      "Jean Nicod",
+      "Bayesian theory"
+    ],
+    "evidence_type": "Formal logical derivation, Bayesian theorem, thought experiments (white shoe, red apple, unicorns)",
+    "named_thought_experiments": [
+      "White shoe",
+      "Red apple confirming unicorn hypothesis",
+      "Finite universe with N objects"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of science; Bayesian epistemology",
+    "sentiment": "Deflationist about paradox, realist about logical confirmation, pragmatist about epistemic relevance",
+    "thematic_focus": "Confirmation theory, raven paradox, logical vs empirical evidence"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dialectical: thesis (Hempel), antithesis (objectivist critique), synthesis (Bayesian supplement), conclusion"
+  },
+  "summary_of_core_decisions": "The paradox is not a logical failure; Hempel's solution is valid but incomplete; Bayesian account explains the rational intuition of irrelevance; final theory must integrate logical and probabilistic confirmation.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthesis",
+    "hedging_density_in_final_paragraph": "Low; assertive resolution"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ernst-hempels_raven_deepseek-v4-flash-0731.txt"
+}

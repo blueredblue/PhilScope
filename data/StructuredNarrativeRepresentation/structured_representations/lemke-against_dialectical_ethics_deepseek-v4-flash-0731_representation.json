@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative critical analysis with a meta-dialectical adjudication",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are embedded in the exegesis of Oliver and Starrett, but the final adjudication is explicit."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text fairly represents both Oliver's deconstructive critique and Starrett's reconstructive defense before adjudicating.",
+    "logical_relevance": "High - all sections directly serve the central question of whether dialogical tension can preserve ethics without sublation.",
+    "premise_acceptability": "Moderate - the premises rely on specific, contested interpretations of Hegel (e.g., the structural necessity of the feminine sacrifice)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Sublation (Aufhebung) as teleological vs. sublation as perpetual critical tension",
+      "Hegel the systematizer vs. Hegel the dialectician",
+      "Oliver's deconstructive reading vs. Starrett's dialogical reading",
+      "Epistemic limitation vs. ontological flaw",
+      "Traditional Hegelian totality vs. post-Hegelian unresolved tension"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Sublation (Aufhebung) - triple movement of negation, preservation, and elevation",
+      "Absolute Knowing - state where subject-object distinction is dissolved",
+      "Hegelian Critical Relations - ongoing, dynamic, unresolved tension between family and community"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that Starrett's model collapses into traditional sublation. It handles this by redefining 'Hegelian' to mean the dialectician of negativity rather than the systematizer of Absolute Knowing.",
+    "objections_raised": [
+      "If the tension between family and community is never resolved, does that not constitute a perpetual state of crisis?",
+      "Does Starrett's model abandon the core of Hegel's project (Absolute Knowing)?"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses phrases like 'can be', 'might', 'suggests', 'offers a tantalizing alternative'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hegel (Phenomenology of Spirit, Philosophy of Right)",
+      "Kelly Oliver",
+      "Shari Neller Starrett",
+      "Sophocles (Antigone)",
+      "Kierkegaard, Adorno, Derrida (as lenses for post-Hegelian reading)"
+    ],
+    "evidence_type": "Textual interpretation and philosophical argumentation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Continental Philosophy (German Idealism, Post-Structuralism, Feminist Philosophy)",
+    "sentiment": "Critical yet constructive; deconstructive diagnosis paired with a reconstructive prescription.",
+    "thematic_focus": "Feminist ethics, metaphysics of totality, dialectics, philosophy of recognition, tragedy"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Linear with dialectical escalation (Thesis -> Antithesis -> Synthesis-attempt -> Refusal/Resolution)."
+  },
+  "summary_of_core_decisions": "The text ultimately decides that an empowering ethics cannot coexist with traditional Hegelian sublation. It sides with Oliver's diagnosis (Hegel's system is patriarchal and structurally flawed) but embraces Starrett's prescription (a radicalized, post-Hegelian dialectic of unresolved tension). The final stance is a refusal of sacrifice and an acceptance of an unfinished, dialogical ethics.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified normative thesis",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive about the need to refuse sacrifice and embrace unresolved tension."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lemke-against_dialectical_ethics_deepseek-v4-flash-0731.txt"
+}

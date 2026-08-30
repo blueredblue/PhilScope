@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modal ontological argument reconstructed from Anselm via Hartshorne, defended against Kant, then critically evaluated.",
+    "num_distinct_arguments_for_thesis": 1,
+    "premise_explicitness": "High: formal modal premises are explicitly stated (\u25c7G \u2283 \u25a1G, \u25c7G, \u2234 \u25a1G)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages Kant, classical theism, analytic modal logic, and process metaphysics.",
+    "logical_relevance": "High: all sections bear on the modal argument's validity or soundness.",
+    "premise_acceptability": "Low: the crucial possibility premise is contested and ultimately unproven."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Real predicate vs logical predicate",
+      "Contingent existence vs necessary existence",
+      "Abstract being vs concrete becoming",
+      "Classical actus purus vs dipolar perfection",
+      "Static unsurpassability vs receptive unsurpassability",
+      "A priori possibility vs empirical possibility"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Modal coextensiveness: structural identity between logical possibility and logical necessity for the divine essence.",
+      "Dipolar theism: God has an abstract necessary essence and a concrete contingent actuality."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Hartshorne's rebuttals are presented: burden of proof shifted to atheist; unsurpassability redefined as receptivity; modal coextensiveness bridges essence and existence.",
+    "objections_raised": [
+      "Possibility premise begs the question.",
+      "Conceptual coherence does not guarantee real possibility.",
+      "Empirical defense would forfeit a priori status.",
+      "A growing God is imperfect before receiving creaturely inputs.",
+      "Divine dependence on creatures undermines sovereignty."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'must', 'cannot', 'ironclad' for formal validity, but 'unproven', 'perhaps unprovable' for soundness.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Anselm",
+      "Hartshorne",
+      "Plantinga",
+      "Aristotle"
+    ],
+    "evidence_type": "Conceptual analysis, formal modal logic, metaphysical reasoning, historical theological critique.",
+    "named_thought_experiments": [
+      "Hundred dollars (Kant)",
+      "Golden mountain",
+      "Square circle / married bachelor"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Process metaphysics and modal logic; analytic theology.",
+    "sentiment": "Sympathetic but critical; appreciates Hartshorne's achievement while denying conclusive proof.",
+    "thematic_focus": "Ontological argument, divine necessity, dipolar theism, modal logic, Kantian critique."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-evaluation: Kantian problem, Hartshornean solution, internal critique, critical verdict."
+  },
+  "summary_of_core_decisions": "The text's blueprint is a modal-logical reconstruction of Anselm's argument, defended against Kant by shifting from categorical existence to modal necessity, grounded in a dipolar process metaphysics, and ultimately judged formally valid but materially inconclusive due to the unproven possibility premise.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified negative: the argument does not compel assent, but it has enduring philosophical value.",
+    "hedging_density_in_final_paragraph": "High: 'strict sense... answer must remain no', 'unproven, and perhaps unprovable', 'whether or not we are compelled'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ernst-charles_hartshorne_and_the_ontological_argument_gemini-3.5-flash-lite.txt"
+}

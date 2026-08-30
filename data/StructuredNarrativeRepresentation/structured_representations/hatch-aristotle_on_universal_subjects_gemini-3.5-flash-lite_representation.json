@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical thesis-antithesis-synthesis with internal adjudication through a third text",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in interpretive claims and textual references rather than formalized steps"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: both Gyekye and Englebretsen are given charitable reconstructions before being critiqued",
+    "logical_relevance": "High: each interpretive position is tested against the same textual constraints from the Posterior Analytics",
+    "premise_acceptability": "Moderate: relies on contested readings of Aristotle's hylomorphism and the relation between logic and ontology"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Primary vs. secondary substance",
+      "Ontological dependence vs. logical/epistemic priority",
+      "Existence (hoti esti) vs. essence (ti esti)",
+      "Synonymous vs. homonymous predication",
+      "Term logic vs. predicate logic",
+      "Semantic meaning vs. ontological truth conditions",
+      "Infinite regress vs. foundational archai",
+      "Immanent form vs. Platonic separated form"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Primary substance: individual composite of matter and form",
+      "Universal: immanent form realized in many particulars",
+      "Incomplete symbol: predicate-like expression requiring a subject for semantic completion",
+      "Homonymous predication: same name, different definition",
+      "Synonymous predication: same name and same definition"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Each position is shown to generate an unacceptable consequence: Gyekye's reductionism undermines scientific stability; Englebretsen's separation empties logic of metaphysical grounding",
+    "objections_raised": [
+      "Gyekye's reading makes universals ontologically unstable, threatening definition and science",
+      "Englebretsen's strict separation fails to explain Aristotle's metaphysical concern with primary substances",
+      "Both fail to account for the prohibition of non-substantial subjects in the Posterior Analytics"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the essay uses hedged interpretive claims ('risks', 'threatens', 'struggles') until the final synthesis",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle's Categories",
+      "Posterior Analytics",
+      "Metaphysics Z-H",
+      "Frege",
+      "Russell"
+    ],
+    "evidence_type": "Textual interpretation and conceptual analysis",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical realism with hylomorphic immanent realism",
+    "sentiment": "Anti-reductionist, anti-formalist, anti-Platonic",
+    "thematic_focus": "Ontology of universals, theory of definition, scientific demonstration, logic-metaphysics relation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned dialectical essay with introduction, three main parts, and conclusion"
+  },
+  "summary_of_core_decisions": "The essay adjudicates between Gyekye's proto-predicate-logic reading and Englebretsen's term-logic deflationism by appealing to the Posterior Analytics' prohibition of non-substantial subjects. It then resolves the resulting tension through hylomorphism: universals are immanent forms, ontologically dependent in existence but logically and epistemically prior in essence. This preserves both the stability of definitions and the rejection of Platonic separation, yielding an alternative metaphysical paradigm rather than an anticipation of modern logic.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis with normative philosophical resolution",
+    "hedging_density_in_final_paragraph": "Low: the conclusion asserts Aristotle's hylomorphic paradigm as the correct resolution"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hatch-aristotle_on_universal_subjects_gemini-3.5-flash-lite.txt"
+}

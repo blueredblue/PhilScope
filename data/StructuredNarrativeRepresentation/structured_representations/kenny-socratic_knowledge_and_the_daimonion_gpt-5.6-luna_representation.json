@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is structured as a dialectical escalation: it begins with an apparent tension, sharpens it through the craft model of knowledge, introduces a specific scholarly objection (Brickhouse and Smith), then progressively qualifies and resolves the tension through a series of distinctions, while preserving a residual tension.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "medium-high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "knowledge vs. correct belief",
+      "knowing-that vs. knowing-why",
+      "positive knowledge vs. negative veto",
+      "public reason vs. private evidence",
+      "rational autonomy vs. divine authority",
+      "total vs. qualified ignorance",
+      "craft expertise vs. divine safeguard",
+      "justification vs. confirmation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "craft knowledge: articulate, stable, repeatable, teachable, grounded in reasons",
+      "daimonion: private, non-discursive, intermittent, negative, first-personal"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text formulates the strongest version of the Brickhouse-Smith objection, then replies by distinguishing between the sign's role in private practical deliberation and its role in public philosophical argument.",
+    "objections_raised": [
+      "If the sign is infallible, Socrates seems to know more than he admits.",
+      "If the sign is not a source of knowledge, why should it be trusted?",
+      "The sign appears to trump reason, making Socrates' rationalism conditional.",
+      "The sign is private and cannot be tested by the elenchus.",
+      "The sign may make dialectical inquiry secondary."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plato's Apology",
+      "Crito",
+      "Meno"
+    ],
+    "evidence_type": "philosophical interpretation of Platonic dialogues",
+    "named_thought_experiments": [
+      "navigator prevented by an instrument from entering a channel",
+      "thermometer indicating temperature without explaining thermodynamics"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Platonic dialogues",
+    "sentiment": "analytic philosophy of religion and epistemology",
+    "thematic_focus": "Socratic ignorance, divine sign, moral knowledge, elenchus"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "problem \u2192 sharpening \u2192 objection \u2192 qualified resolution \u2192 conclusion"
+  },
+  "summary_of_core_decisions": "The text resolves the tension by distinguishing between full craft-knowledge and divinely guided correct belief. The daimonion is a private, negative veto that can override Socrates' tentative reasoning but does not provide teachable, explicable, repeatable moral expertise. The elenchus remains the public method of rational justification, while the sign supplies personal practical reassurance. The tension is not eliminated but is rendered coherent.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified",
+    "hedging_density_in_final_paragraph": "moderate"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "kenny-socratic_knowledge_and_the_daimonion_gpt-5.6-luna.txt"
+}

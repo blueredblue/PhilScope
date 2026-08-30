@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "transcendental_interpretation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_to_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "a_priori_vs_a_posteriori_necessity",
+      "formal_vs_experienced_necessity",
+      "content_vs_existence_of_thought",
+      "subjective_vs_objective_certainty",
+      "transcendental_ego_vs_empirical_self",
+      "syllogistic_vs_performative_vs_transcendental_reading"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "a_posteriori_necessity",
+      "transcendental_ego",
+      "performative_utterance",
+      "syllogistic_inference"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "rejects_rival_interpretations_and_offers_alternative_necessity",
+    "objections_raised": [
+      "syllogistic_reading_circularity",
+      "performative_reading_reduces_to_semantic_trick",
+      "a_priori_necessity_vulnerable_to_demon"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "high",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "descartes",
+      "kant",
+      "hintikka",
+      "kripke"
+    ],
+    "evidence_type": "conceptual_and_phenomenological",
+    "named_thought_experiments": [
+      "evil_demon",
+      "radical_doubt"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "transcendental_idealism",
+    "sentiment": "neutral_analytic",
+    "thematic_focus": "epistemology_and_metaphysics_of_subjectivity"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "dialectical_progressive"
+  },
+  "summary_of_core_decisions": "The text defends the transcendental interpretation of the Cogito by rejecting syllogistic and performative readings, and by classifying the Cogito as a posteriori necessary rather than a priori contingent. This preserves subjective certainty while limiting objective knowledge.",
+  "thesis_commitment": {
+    "conclusion_type": "defends_specific_interpretation",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "foote-necessary_truth_and_the_transcendental_interpretation_ling-3.0-flash-free.txt"
+}

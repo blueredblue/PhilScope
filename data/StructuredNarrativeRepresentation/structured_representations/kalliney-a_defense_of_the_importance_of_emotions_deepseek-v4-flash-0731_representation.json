@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative dialectical synthesis: thesis (Humean sentimentalism) \u2192 internal critique \u2192 antithetical corrective (Aristotelian virtue ethics) \u2192 hybrid resolution.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: key premises are stated but often embedded in rhetorical contrasts rather than formalized."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages seriously with Hume's position, grants its motivational insight, and uses internal tensions rather than strawmen.",
+    "logical_relevance": "Strong: each section advances the central problem of normative grounding and motivational force.",
+    "premise_acceptability": "Mixed: Aristotelian teleology and the notion of 'educated sympathy' are plausible but not uncontroversial; Humean subjectivism is characterized in a somewhat stark way."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Reason vs. passion",
+      "Descriptive vs. prescriptive moral claims",
+      "Subjective sentiment vs. objective value judgment",
+      "Raw sympathy vs. educated sympathy",
+      "External rational constraint vs. internal rational structure",
+      "Humean approbation vs. Aristotelian virtuous judgment",
+      "Is-ought gap vs. teleological normativity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Sympathy: emotional transmission of another's passion",
+      "General point of view: impartial correction of sympathy",
+      "Hexis: habituated moral state",
+      "Phronesis: practical wisdom discerning the mean",
+      "Eudaimonia: human flourishing as the ultimate good"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates the objection that Aristotle lacks universal obligations and responds by grounding obligation in a shared human telos rather than a categorical imperative.",
+    "objections_raised": [
+      "Hume's sympathy cannot distinguish genuine virtue from malicious vengeance.",
+      "The general point of view only corrects self-partiality, not group-partiality.",
+      "Hume's system collapses into moral subjectivism or cultural relativism.",
+      "Sentiments are not truth-apt, so they cannot ground value judgments."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'argue', 'propose', 'suggests' rather than 'proves' or 'demonstrates'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Hume",
+      "Aristotle"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, comparative textual interpretation, and intuitive moral judgments.",
+    "named_thought_experiments": [
+      "Community approving vengeance after a murder",
+      "Desire for water as illustration of reason's instrumental role",
+      "Table appearing smaller at a distance as analogy for the general point of view",
+      "Charitable impulse vs. cultivated generosity"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Aristotelian teleological naturalism: moral normativity derives from the function (telos) of human beings and the rational cultivation of character.",
+    "sentiment": "Affective but reason-informed: emotions are necessary for motivation but must be habituated and shaped by phronesis.",
+    "thematic_focus": "Moral psychology, virtue ethics, sentimentalism, moral motivation, normative justification."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with layered synthesis: Hume's account \u2192 fatal flaw \u2192 Aristotelian corrective \u2192 application to vengeance \u2192 synthesis \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to treat Hume's sentimentalism as motivationally necessary but normatively insufficient, and to treat Aristotle's virtue ethics as supplying the missing internal rational constraint without sacrificing affect. The central move is redefining reason not as an external check on emotion but as the internal structure of educated emotion, thereby resolving the is-ought gap through teleological flourishing.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic thesis: a hybrid model combining Humean motivational sentiment with Aristotelian rational habituation.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive and programmatic."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "kalliney-a_defense_of_the_importance_of_emotions_deepseek-v4-flash-0731.txt"
+}

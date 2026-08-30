@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reconstructive subversion",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High",
+    "logical_relevance": "High",
+    "premise_acceptability": "Moderate to High"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Evidential vs. pragmatic reasons",
+      "Surface pragmatism vs. deep epistemic aim",
+      "Prudential self-interest vs. genuine charity",
+      "External habit vs. internal transformation",
+      "Proof vs. therapy"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Wager as diagnostic/therapeutic intervention",
+      "Preliminary deception as Socratic accommodation"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Anticipates and addresses the mercenary-faith objection via three-stage transformation",
+    "objections_raised": [
+      "Kierkegaardian critique: self-interested belief is not genuine faith",
+      "Standard decision-theoretic objections: many gods, infinite utilities, voluntarism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Thomas Morris",
+      "Bernard Howell",
+      "Kierkegaard (as foil)",
+      "Francis Bacon"
+    ],
+    "evidence_type": "Interpretive and conceptual",
+    "named_thought_experiments": [
+      "Wager decision matrix",
+      "Three-stage spiritual evolution"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Pragmatic and epistemic",
+    "sentiment": "Anti-foundationalist",
+    "thematic_focus": "Epistemic therapy, motivated irrationality, habit and belief"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem\u2013reconstruction\u2013resolution"
+  },
+  "summary_of_core_decisions": "The essay reconstructs Pascal's Wager as an epistemic therapy rather than a decision-theoretic proof, using a three-stage model to reconcile prudential self-interest with genuine faith.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis",
+    "hedging_density_in_final_paragraph": "Low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "velchik-pascals_wager_gemini-3.5-flash-lite.txt"
+}

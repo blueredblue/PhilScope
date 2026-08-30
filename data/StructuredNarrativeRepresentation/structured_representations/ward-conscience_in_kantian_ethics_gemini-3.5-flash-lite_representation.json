@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental-phenomenological reductio ad absurdum",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are explicitly stated and defended through Kantian textual references and logical deduction"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the argument engages with counterarguments (e.g., strict deontology vs. human flourishing) and resolves them through a higher-order synthesis",
+    "logical_relevance": "High - every section directly contributes to the central thesis regarding the necessity of God for coherent conscience",
+    "premise_acceptability": "Moderate - relies on Kantian postulates which are controversial outside the Kantian framework, but internally consistent"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Objective (Categorical Imperative) vs. Subjective (Conscience)",
+      "Ex ante (deliberation) vs. Ex post facto (judgment)",
+      "Empirical (consequences) vs. Noumenal (form of will)",
+      "Formal (rule-compliance) vs. Material (disposition/Gesinnung)",
+      "Finite (human) vs. Supersensible (God)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Conscience as a formal, reflective internal court (accused/accuser/judge)",
+      "Categorical Imperative as objective, universal law",
+      "Postulate of God as personification of moral law's objective authority"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that a purely natural conscience might be sufficient. It refutes this by demonstrating that a natural conscience in tragic dilemmas becomes a 'pointless contradiction' (Kafkaesque sham), thereby necessitating a supersensible judge.",
+    "objections_raised": [
+      "Strict deontology leads to moral monstrosity (letting thousands die)",
+      "Consequentialism is rejected as anathema to deontology",
+      "A purely natural conscience leads to unavoidable self-torture"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses definitive terms like 'must', 'cannot', 'demands' for logical necessities, but acknowledges Kant's critical limits (postulates are not dogmatic proofs)",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Immanuel Kant (Groundwork, Critique of Practical Reason, Metaphysics of Morals, Religion within the Boundaries of Mere Reason)"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological description of conscience, logical deduction from Kantian premises, hypothetical thought experiment (Willie case)",
+    "named_thought_experiments": [
+      "The Willie Case (competing duties of fidelity vs. universal justice)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Deontological (Kantian) with a critical-theological extension",
+    "sentiment": "Rationalist and transcendental idealist",
+    "thematic_focus": "Moral psychology, meta-ethics, philosophy of religion (postulate of God), tragic dilemmas"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical progression (Thesis -> Antithesis -> Synthesis). Sections progress from foundational definitions (Parts I-II), to dilemma construction (Part III), to application and crisis (Parts IV-V), to resolution (Part VI), and conclusion."
+  },
+  "summary_of_core_decisions": "The text's core decision is to treat conscience not as a guide for action (ex ante) but as a retrospective judge (ex post facto). It then demonstrates that in tragic dilemmas, this judge condemns all actions, creating a logical contradiction. To resolve this, it postulates God as an omniscient judge who evaluates the agent's disposition rather than external rule-compliance, thereby transforming a nihilistic paradox into a meaningful moral order.",
+  "thesis_commitment": {
+    "conclusion_type": "Synthetic a priori (Kantian postulate)",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive, stating that God 'vindicates' conscience and 'points toward a horizon' of convergence, though it frames this as a necessary postulate rather than a dogmatic certainty."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ward-conscience_in_kantian_ethics_gemini-3.5-flash-lite.txt"
+}

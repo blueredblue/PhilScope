@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against moral realism, combined with burden-of-proof shifting and companions-in-guilt strategy",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly explicit, with some implicit naturalistic assumptions exposed by the critique"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages with strongest objections and uses historical and scientific analogies",
+    "logical_relevance": "High: all premises directly support the conclusion about the failure of the queerness argument",
+    "premise_acceptability": "Moderate: the critique relies on contested non-naturalist assumptions, but successfully shifts burden of proof"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Metaphysical vs. epistemic queerness",
+      "Naturalism vs. non-naturalism",
+      "Causal/empirical vs. a priori/rational intuition",
+      "Error theory vs. moral realism",
+      "Reductive naturalism vs. robust non-naturalism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Objective moral values: intrinsically prescriptive, non-natural properties",
+      "Queerness: being utterly different from natural facts and requiring special epistemic access",
+      "Naturalistic reduction: identifying moral properties with natural properties"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Uses companions-in-guilt, open question argument, and third-factor response to rebut Mackie",
+    "objections_raised": [
+      "Mackie's standard of strangeness is question-begging",
+      "Scientific entities and abstract objects are equally queer but accepted",
+      "Naturalistic reductions lose normativity",
+      "Error theory makes moral experience a massive systematic illusion"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: uses 'fails', 'does not settle', 'can argue' rather than 'proves'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "G.E. Moore",
+      "Derek Parfit",
+      "David Enoch",
+      "Richard Boyd",
+      "Peter Railton"
+    ],
+    "evidence_type": "Philosophical argumentation, historical scientific examples, conceptual analysis, thought experiments",
+    "named_thought_experiments": [
+      "Open question argument",
+      "Companions in guilt",
+      "Third-factor response"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaethics, non-naturalist moral realism",
+    "sentiment": "Critical of Mackie's error theory, sympathetic to non-naturalism",
+    "thematic_focus": "Queerness, normativity, naturalism, moral epistemology, indispensability"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with cumulative sections: exposition, critique, parallel, reduction failure, resolution"
+  },
+  "summary_of_core_decisions": "The essay argues that Mackie's argument from queerness fails as a refutation of moral realism because it presupposes a naturalistic standard of plausibility. It succeeds only in refuting reductive naturalism, leaving robust non-naturalism viable. The final choice between error theory and non-naturalism is a choice between metaphysical visions, not a matter of queerness.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection of Mackie's argument; defense of non-naturalist moral realism as viable",
+    "hedging_density_in_final_paragraph": "Moderate: uses 'does not settle', 'can argue', 'not a proof'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "farr-how_queer_deepseek-v4-flash-0731.txt"
+}

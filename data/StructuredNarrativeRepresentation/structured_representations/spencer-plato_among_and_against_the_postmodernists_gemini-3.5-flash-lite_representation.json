@@ -1,0 +1,84 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "dialectical_historical_synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate_high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate_high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "metaphysical_intent_vs_methodological_operation",
+      "negative_elenchus_vs_positive_mantic_hermeneutic",
+      "noumenal_vs_phenomenal",
+      "transcendence_vs_immanence",
+      "foundationalist_metaphysics_vs_deconstructive_textual_play",
+      "muthos_vs_logos",
+      "aporia_vs_teleological_ascent"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "elenchus",
+      "aporia",
+      "mantic",
+      "pharmakon",
+      "noumenal",
+      "phenomenal",
+      "simulacra",
+      "metaphysics_of_presence"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "two_explicit_objections_with_responses",
+    "objections_raised": [
+      "historical_intent_of_plato_metaphysics",
+      "postmodern_political_objection_to_plato_totalitarianism"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "plato",
+      "hegel",
+      "derrida",
+      "foucault",
+      "barthes",
+      "rorty",
+      "nietzsche",
+      "popper",
+      "kant"
+    ],
+    "evidence_type": "textual_interpretation_and_historical_conceptual_analysis",
+    "named_thought_experiments": [
+      "allegory_of_the_cave",
+      "socratic_elenchus",
+      "pharmakon_in_phaedrus",
+      "hegel_sealing_of_the_cave"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "continental_philosophy_and_poststructuralism",
+    "sentiment": "anti_foundationalist",
+    "thematic_focus": "methodological_continuity_between_plato_and_postmodernism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "five_part_essay_with_introduction_and_conclusion"
+  },
+  "summary_of_core_decisions": "The text argues that Plato's philosophical method\u2014especially the Socratic elenchus, dialogic irony, and mythic play\u2014is methodologically continuous with postmodernism, despite Plato's explicit metaphysical commitment to the Forms. The key move is Hegel's collapse of the noumenal/phenomenal distinction, which 'seals' the Allegory of the Cave and internalizes transcendence into immanent, historical, textual dialectic. Once the metaphysical anchor is removed, Plato's method operates as a proto-deconstructive textual machine. The essay defends this against historical-intent and political objections by separating method from metaphysical dogmatism.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified_affirmative",
+    "hedging_density_in_final_paragraph": "low_medium"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "spencer-plato_among_and_against_the_postmodernists_gemini-3.5-flash-lite.txt"
+}

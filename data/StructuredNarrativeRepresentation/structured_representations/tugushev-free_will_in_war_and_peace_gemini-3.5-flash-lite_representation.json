@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis with reductio reconstruction and critical refutation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "mixed"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "medium"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "determinism vs. indeterminism",
+      "substantivalist vs. relational ontology",
+      "reductionist vs. emergentist causality",
+      "physical causation vs. agentic causation",
+      "passive submission vs. active receptivity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "totality of being",
+      "causa sui",
+      "emergent causation",
+      "downward causation",
+      "phronesis"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The essay raises the objection that Tugushev may fall into indeterminism and responds by proposing an emergentist middle way; it also addresses the objection that literary examples support determinism by reinterpreting Kutuzov and Pierre.",
+    "objections_raised": [
+      "If Tugushev rejects determinism, he falls into indeterminism or causa sui.",
+      "Emergent downward causation may be mysterious or incoherent.",
+      "Tolstoy's own literary examples (Kutuzov) appear to support determinism."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Tolstoy",
+      "Tugushev",
+      "Bergson",
+      "Berdyaev"
+    ],
+    "evidence_type": "conceptual analysis, reductio reconstruction, literary case study, dialectical synthesis",
+    "named_thought_experiments": [
+      "Kutuzov's decision to abandon Moscow",
+      "Pierre's moral transformation"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "metaphysical and ethical",
+    "sentiment": "anti-reductionist, anti-determinist, emergentist, relational",
+    "thematic_focus": "free will, determinism, historical necessity, agency, emergence"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "seven-part dialectical essay with introduction, exposition, critique, objection, constructive solution, application, conclusion"
+  },
+  "summary_of_core_decisions": "The essay reconstructs Tolstoy's reductio against free will, exposes its hidden metaphysical presupposition (closed totality of being), uses Tugushev to critique that presupposition, confronts the danger of indeterminism, and resolves the dilemma by proposing an emergentist relational ontology of agency, illustrated through War and Peace.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified defense",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "tugushev-free_will_in_war_and_peace_gemini-3.5-flash-lite.txt"
+}

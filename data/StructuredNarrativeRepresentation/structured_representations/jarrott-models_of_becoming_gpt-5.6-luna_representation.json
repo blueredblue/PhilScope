@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative underdetermination argument (modus tollens against common-sense realism).",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are stated but often embedded in dialectical responses."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - systematically engages with strongest objections (Dummett, label-changing, determinism).",
+    "logical_relevance": "High - all sections directly serve the central thesis of epistemic underdetermination.",
+    "premise_acceptability": "Moderate - relies on functionalist accounts of memory and a strict separation of metaphysical vs. psychological direction, which are contestable but well-defended."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Metaphysical direction vs. Psychological direction",
+      "Phenomenological vs. Behavioral vs. Complete Theoretical indistinguishability",
+      "Existence vs. Actuality",
+      "Causal dependence vs. Informational dependence",
+      "Memory as functional/phenomenological vs. Memory as objective causal relation",
+      "Local causal processes vs. Global direction of becoming"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Growing Block (GB)",
+      "Diminishing Block (DB)",
+      "Backwards Block (BB)",
+      "Phenomenological indistinguishability",
+      "Behavioral indistinguishability"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Systematic - uses consistency conditions, functional role re-description, and separation of local/global causation to defuse objections.",
+    "objections_raised": [
+      "Causal disconnection in DB (event disappears, how does memory persist?)",
+      "Label-changing objection in BB (memory vs. prediction)",
+      "Dummett's intervention argument against backward causation",
+      "Determinism/openness objection (future already exists in DB/BB)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'may', 'could', 'seems', 'not obvious'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Michael Dummett"
+    ],
+    "evidence_type": "A priori conceptual analysis, functionalist thought experiments, and hypothetical causal scenarios.",
+    "named_thought_experiments": [
+      "Moving spotlight analogy (illuminated region expanding/contracting)",
+      "Self-consistency principle for backward causation"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics of time, philosophy of mind (functionalist), and epistemology of causation.",
+    "sentiment": "Neutral - aims to establish underdetermination, not to prove a specific A-theory.",
+    "thematic_focus": "The relationship between the phenomenology of temporal passage and the objective metaphysical direction of becoming."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution dialectic with a comparative taxonomy (GB vs. DB vs. BB)."
+  },
+  "summary_of_core_decisions": "The text strategically shifts the debate from ontology to epistemology. It argues that the psychological architecture (memory, expectation, agency) is multiply realizable across different metaphysical temporal structures. By functionally redefining memory and causation, it neutralizes Dummett's critique and concludes that common-sense experience is evidence for the existence of an objective edge, but not for its specific direction.",
+  "thesis_commitment": {
+    "conclusion_type": "Epistemic underdetermination thesis",
+    "hedging_density_in_final_paragraph": "Moderate - concedes limits (not complete theoretical indistinguishability) but maintains the core claim of phenomenological/behavioral underdetermination."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "jarrott-models_of_becoming_gpt-5.6-luna.txt"
+}

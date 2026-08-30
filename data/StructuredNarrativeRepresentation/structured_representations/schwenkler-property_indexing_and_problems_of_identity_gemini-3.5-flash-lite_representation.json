@@ -1,0 +1,76 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text employs a problem-solution-objection-synthesis structure. It begins by posing a formal paradox (Leibniz's Law vs. change and modality), introduces property-indexing as a formal remedy, tests it against three thought experiments, raises an epistemological objection, and concludes with a qualified defense that limits the metaphysical scope of property-indexing.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: formal principles are stated explicitly, but some metaphysical assumptions (e.g., primitive identity, rigid designation) are introduced dialectically rather than axiomatically."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text anticipates objections and distinguishes formal consistency from metaphysical substance.",
+    "logical_relevance": "Strong: each thought experiment directly tests the capacity of property-indexing to preserve Leibniz's Law.",
+    "premise_acceptability": "Mixed: formal logic and possible-world semantics are widely accepted, but the Kripkean conclusion that identity is primitive is controversial."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "PII1 (indiscernibility of identicals) vs PII2 (identity of indiscernibles)",
+      "monadic predicates vs indexed relational properties",
+      "time-indexed vs world-indexed properties",
+      "essential vs accidental properties",
+      "constitutive vs bookkeeping role of property-indexing",
+      "actual vs counterfactual origin",
+      "rigid designation vs descriptive property bundling"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Leibniz's Law",
+      "property-indexing",
+      "world-indexed properties",
+      "individual essence",
+      "rigid designator"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text raises the objection that property-indexing makes identity trivial, then partially concedes it. It replies by restricting property-indexing to a semantic bookkeeping device, not a foundational metaphysics.",
+    "objections_raised": [
+      "Property-indexing cannot distinguish essential from accidental properties.",
+      "Plantinga's world-indexed essences make identity analytically true by stipulation.",
+      "Kripke's rigid designation shows identity is not property-based."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'unqualified success' for formal logic, but 'flirts with triviality' and 'must be kept modest' for metaphysics.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Alvin Plantinga",
+      "Saul Kripke",
+      "Roderick Chisholm"
+    ],
+    "evidence_type": "Formal logical analysis, possible-worlds semantics, thought experiments, and comparative philosophical exegesis.",
+    "named_thought_experiments": [
+      "Bobby's changing posture",
+      "The statue and the lump of clay",
+      "Chisholm's Adam and Noah",
+      "Kripke's Nixon counterfactual"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics, modal logic, philosophy of language.",
+    "sentiment": "Neutral-analytic; critical of both naive property-bundle ontology and overly strong essentialism.",
+    "thematic_focus": "Identity, persistence, modality, essentialism, reference."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Partitioned into four parts: (I) Leibniz's Law and property-indexing, (II) applications to puzzles, (III) epistemological objection, (IV) evaluation and verdict."
+  },
+  "summary_of_core_decisions": "The text decides that property-indexing is a necessary formal device for preserving Leibniz's Law across time and possible worlds, but it is not a sufficient metaphysical theory of identity. The final position is a Kripkean synthesis: identity is primitive and de re; property-indexing merely tracks qualitative variation without constituting persistence or trans-world sameness.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "High: 'indispensable map', 'not the territory', 'ontological modesty', 'structural melody'\u2014metaphorical hedging rather than dogmatic assertion."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwenkler-property_indexing_and_problems_of_identity_gemini-3.5-flash-lite.txt"
+}

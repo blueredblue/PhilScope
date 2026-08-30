@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical essay that develops and defends an exclusionary approach to the liar paradox by systematically reinterpreting Kirkham's five criteria for evaluating solutions to the paradox.",
+    "num_distinct_arguments_for_thesis": 5,
+    "premise_explicitness": "The text explicitly states its central thesis and repeatedly refines it, but some premises are implicit, especially the assumption that truth attribution requires a determinate proposition and a stable truth/falsity contrast."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text is dialectically reasonable: it anticipates objections, distinguishes between absolute and domain-relative completeness, and compares exclusion with rival theories such as three-valued, paraconsistent, and hierarchical approaches.",
+    "logical_relevance": "All major sections bear directly on the question of whether exclusion satisfies Kirkham's criteria; the analogies and objections are used to support the central thesis.",
+    "premise_acceptability": "The premises are generally acceptable to philosophers familiar with the liar paradox, though the claim that the liar is analogous to division by zero is contestable and requires the structural account of semantic failure."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "truth vs falsity vs not true",
+      "semantic gap vs third truth value",
+      "absolute semantic completeness vs domain-relative completeness",
+      "semantic indeterminacy vs theoretical ignorance",
+      "ad hoc restriction vs principled domain restriction",
+      "benign self-reference vs pathological self-reference",
+      "ordinary truth-apt sentence vs pathological construction"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Absolute semantic completeness: every grammatically well-formed expression receives a truth value or fully specified semantic status.",
+      "Domain-relative completeness: the theory completely accounts for every sentence within the domain to which its central concepts properly apply.",
+      "Ad hoc postulation: a restriction that lacks independent motivation and is tailored narrowly to preserve a favored conclusion."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text addresses several objections: exclusion is too easy, exclusion is incomplete, exclusion is ad hoc, exclusion introduces a third value, and exclusion fails to be specific. It replies by distinguishing principled structural failure from mere stipulation, domain-relative completeness from absolute completeness, and semantic gaps from third truth values.",
+    "objections_raised": [
+      "Exclusion is too easy: any paradox could be solved by declaring troublesome sentences outside the domain.",
+      "Exclusion is incomplete: the liar is syntactically a sentence but receives no truth value.",
+      "Exclusion is ad hoc: it appears designed after the fact to avoid contradiction.",
+      "Exclusion introduces a third status: if the liar is neither true nor false, it seems to have a third value.",
+      "Exclusion is insufficiently specific: it does not provide a complete catalogue of pathological sentences."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "The text uses moderately confident language: 'should be rejected', 'can be understood', 'is best understood', 'may appear', 'is not necessarily'. It avoids dogmatic certainty.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "The text relies primarily on conceptual analysis, analogical reasoning, and comparative evaluation of rival theories. It does not use empirical evidence.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "The text is grounded in analytic philosophy of language and logic, specifically debates about truth, semantic paradox, and formal semantics.",
+    "sentiment": "The text is sympathetic to a domain-relative, exclusionary approach to truth and is critical of global revisionary approaches such as full three-valued logic, paraconsistency, and hierarchical theories when they are applied to natural language without qualification.",
+    "thematic_focus": "The text focuses on the liar paradox, Kirkham's criteria, the nature of truth, semantic pathology, and the limits of formalization in natural language."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "The text follows a recursive, self-refining structure: it states the thesis, then repeats and elaborates it with increasing specificity. It moves from Kirkham's criteria to the exclusionary diagnosis, then to objections and replies, and finally to a conclusion."
+  },
+  "summary_of_core_decisions": "The text's central decision is to classify the liar as a pathological construction rather than an ordinary truth-apt sentence. This classification allows the author to reinterpret completeness, specificity, and non-ad hocness in domain-relative terms, and to argue that exclusion preserves bivalence and avoids overkill better than rival solutions.",
+  "thesis_commitment": {
+    "conclusion_type": "The text defends a normative philosophical thesis: the liar paradox should be treated as a pathological boundary case, and an exclusionary approach is preferable to global revisionary theories.",
+    "hedging_density_in_final_paragraph": "The final paragraph is moderately hedged: it says the approach 'may not provide a comprehensive formal system' and 'need not assign a value to every artifact', but it concludes that the liar is 'best understood' as a pathological boundary case."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "wilson-the_pathological_liar_gpt-5.6-luna.txt"
+}

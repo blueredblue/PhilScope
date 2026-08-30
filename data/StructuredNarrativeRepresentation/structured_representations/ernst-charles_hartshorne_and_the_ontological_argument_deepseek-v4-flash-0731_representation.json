@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Critical evaluation of a proposed solution to a philosophical problem, using a combination of historical reconstruction, logical analysis, and internal critique.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Mixed: some premises are explicitly stated (e.g., the definition of God, the modal axiom S5), while others are implicit and require reconstruction (e.g., the assumption that the modal argument proves only the abstract essence)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "The text engages in a dialectical process, presenting Hartshorne's view fairly before subjecting it to critique. It acknowledges the strength of Hartshorne's move (circumventing Kant's literal objection) before exposing its flaws.",
+    "logical_relevance": "All major points are logically relevant to the central question of whether potentiality bridges the gap between the a priori concept of perfection and the necessary existence of a perfect being.",
+    "premise_acceptability": "The premises are generally acceptable to a theistic or philosophically engaged audience, though some (e.g., the claim that the concrete pole is essential to God's nature) are contestable and are argued for rather than assumed."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Existence vs. necessary existence",
+      "Abstract being vs. concrete becoming",
+      "De dicto vs. de re necessity",
+      "Classical theism vs. process theism",
+      "Potentiality as imperfection vs. potentiality as perfection",
+      "Abstract essence vs. concrete actuality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "God as 'that than which nothing greater can be conceived'",
+      "Actus purus as pure actuality, devoid of potentiality",
+      "Dipolar theism as the view that God has both an abstract essence and a concrete actuality"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates and responds to a potential Hartshornean objection (that concrete actuality is included in divine perfection) by showing that this response conflates the abstract and concrete poles, leading to a dilemma.",
+    "objections_raised": [
+      "The modal argument proves only the abstract essence, not the concrete actuality.",
+      "The concrete actuality is contingent, so it cannot be proven by a modal argument.",
+      "Hartshorne's redefinition of perfection departs from the Anselmian tradition, so the argument proves a different being.",
+      "Kant's critique can be extended to necessary existence as a de re property."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate. The text uses phrases like 'fatal flaw,' 'does not prove,' and 'fails to bridge,' indicating a strong critical stance, but also uses 'seems' and 'appears' in places, suggesting a measured tone.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Anselm of Canterbury",
+      "Immanuel Kant",
+      "Charles Hartshorne",
+      "Thomas Aquinas"
+    ],
+    "evidence_type": "Logical analysis, conceptual analysis, historical reconstruction, internal critique.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of religion, with a focus on modal logic and process metaphysics.",
+    "sentiment": "Critical of Hartshorne's project, but not dismissive; the text engages seriously with his arguments before rejecting them.",
+    "thematic_focus": "The ontological argument, the nature of divine perfection, the relationship between necessity and contingency, the problem of potentiality in God."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Historical-dialectical: the text moves from Anselm to Kant to Hartshorne, then evaluates Hartshorne's solution in detail, and finally returns to Kant's critique to show its persistence."
+  },
+  "summary_of_core_decisions": "The text's central thesis is that Hartshorne's modal ontological argument, while cleverly circumventing Kant's objection to existence as a predicate, fails to prove the existence of the concrete, personal God of religious worship. The argument only proves the necessary existence of an abstract essence, and the concept of potentiality, which Hartshorne uses to bridge the gap between the abstract and the concrete, actually creates a chasm. The text concludes that Hartshorne's solution either reverts to a form of actus purus or proves a different being altogether, and that Kant's critique ultimately persists in a modified form.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative evaluation of Hartshorne's solution",
+    "hedging_density_in_final_paragraph": "Low. The final paragraph is assertive, stating that Hartshorne's solution 'fails' and that Kant's critique 'persists.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ernst-charles_hartshorne_and_the_ontological_argument_deepseek-v4-flash-0731.txt"
+}

@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical refutation through counterexample and modal analysis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate; one formalized Searlean argument, otherwise informal modal and counterfactual reasoning"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; Searle's objections are presented charitably and then systematically rebutted",
+    "logical_relevance": "All arguments directly target the descriptivist/causal-historical divide",
+    "premise_acceptability": "Premises rely on widely accepted modal intuitions and thought experiments; some may be contested by strict descriptivists"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Rigid vs. accidental designator",
+      "Reference-fixing vs. meaning-giving",
+      "Epistemic access vs. semantic reference",
+      "Intrinsic vs. relational descriptions",
+      "Descriptive content as necessary/sufficient vs. causal-historical anchor"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Rigid designator: designates same object in all possible worlds where it exists",
+      "Reference-fixing: description used to identify object at baptism, then discarded",
+      "Causal-historical chain: baptism + transmission through community use"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Searle's objections are answered by distinguishing epistemic mediation from semantic description and by showing that broadening 'description' makes descriptivism vacuous",
+    "objections_raised": [
+      "Ostension is blind without descriptive backing",
+      "Causal chains require intentional states and thus descriptions",
+      "Reference-fixing vs. meaning-giving distinction is unstable"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High; uses terms like 'fatal flaw', 'demonstrates', 'successfully demonstrates'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kripke",
+      "Searle",
+      "Frege",
+      "Russell",
+      "Gareth Evans",
+      "Keith Donnellan",
+      "Quine"
+    ],
+    "evidence_type": "Thought experiments, modal counterfactuals, formalized premise-conclusion argument, conceptual distinctions",
+    "named_thought_experiments": [
+      "G\u00f6del/Schmidt",
+      "Feynman amnesiac",
+      "Neptune discovery",
+      "Hospital twin (Arthur/Albert)",
+      "Mistaken identity witness (Smith)",
+      "Water/H2O and heat/molecular motion",
+      "Nixon counterfactuals"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical realism about reference; anti-descriptivist, causal-historical semantics",
+    "sentiment": "Defends Kripke against Searle's neo-descriptivist assimilation",
+    "thematic_focus": "Philosophy of language, modality, reference, intentionality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Part-based dialectical essay with introduction, five parts, and conclusion"
+  },
+  "summary_of_core_decisions": "The essay's core decision is to defend Kripke's rigid designation by showing that descriptive content is neither necessary nor sufficient for reference, and that Searle's attempt to reduce causal chains to relational descriptions collapses into vacuity or modal incoherence.",
+  "thesis_commitment": {
+    "conclusion_type": "Defense of Kripke's theory against Searle's critique",
+    "hedging_density_in_final_paragraph": "Low; final paragraph asserts Kripke's theory is not fundamentally descriptivist and that the object remains sovereign"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "minoski-a_kripkean_response_to_john_searle_gemini-3.5-flash-lite.txt"
+}

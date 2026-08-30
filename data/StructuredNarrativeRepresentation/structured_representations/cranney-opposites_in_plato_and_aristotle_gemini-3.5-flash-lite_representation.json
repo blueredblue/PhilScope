@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative critical analysis with dialectical progression",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are explicitly stated and defended"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with counterarguments and acknowledges limitations",
+    "logical_relevance": "High - all points directly support the comparative thesis",
+    "premise_acceptability": "Moderate - relies on contested metaphysical assumptions"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Transcendent vs immanent forms",
+      "Participation vs potentiality/actuality",
+      "Substance vs accident",
+      "Prime matter vs Platonic receptacle",
+      "Numerical identity vs qualitative change"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Potentiality (dynamis)",
+      "Actuality (energeia/entelecheia)",
+      "Primary substance",
+      "Substratum (hypokeimenon)",
+      "Privation (steresis)"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges Aristotle's own difficulties (prime matter, teleology) but argues they are less severe than Plato's",
+    "objections_raised": [
+      "Aristotle's prime matter is elusive",
+      "Teleology borders on anthropomorphic",
+      "Potentiality/actuality may be obscure"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'vastly more cogent', 'successfully banishes', but also 'fairness requires acknowledging'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Plato",
+      "Medieval nominalists",
+      "Modern empiricists"
+    ],
+    "evidence_type": "Conceptual analysis, logical argumentation, textual interpretation",
+    "named_thought_experiments": [
+      "Third Man argument",
+      "Simmias growing taller",
+      "Unmusical man becoming musical"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Immanent realism",
+    "sentiment": "Analytic, systematic, critical",
+    "thematic_focus": "Metaphysics of change and predication"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Part-by-part comparative analysis with introduction and conclusion"
+  },
+  "summary_of_core_decisions": "The text systematically contrasts Plato's transcendent Forms with Aristotle's immanent framework, arguing that Aristotle's account of change via potentiality/actuality and primary substances is more coherent and parsimonious. It evaluates both systems, acknowledges Aristotle's own difficulties, and concludes that his framework successfully avoids the Third Man regress and provides a rational account of natural change.",
+  "thesis_commitment": {
+    "conclusion_type": "Comparative evaluative",
+    "hedging_density_in_final_paragraph": "Low - definitive conclusion without hedging"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "cranney-opposites_in_plato_and_aristotle_gemini-3.5-flash-lite.txt"
+}

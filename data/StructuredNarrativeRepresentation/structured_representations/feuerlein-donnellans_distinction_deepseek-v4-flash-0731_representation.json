@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus Tollens embedded within a dialectical progression (Thesis -> Antithesis -> Synthesis). The text sets up a semantic thesis (Russell), introduces a counterexample (Donnellan), refutes the semantic interpretation of that counterexample (Kripke), and concludes with a pragmatic synthesis (Grice).",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate. Premises are largely implicit, relying on the reader's familiarity with Russell, Donnellan, Kripke, and Grice. The logical structure is reconstructed through the sequence of theories rather than formalized premises."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High. The text fairly represents the opposing views (Russell's semantic analysis, Donnellan's challenge, Kripke's critique) before advancing its own thesis. It does not straw-man the opposition.",
+    "logical_relevance": "High. Every section directly contributes to the central question of whether the distinction is semantic or pragmatic. The progression from Russell to Donnellan to Kripke to Grice is tightly linked.",
+    "premise_acceptability": "High. The premises rely on widely accepted philosophical intuitions (e.g., the truth-value judgments in the two scenarios) and canonical theoretical frameworks (Russell's theory of descriptions, Kripke's speaker-reference distinction)."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Attributive vs. Referential use of definite descriptions",
+      "Semantic vs. Pragmatic phenomena",
+      "Speaker's reference vs. Semantic reference (Kripke)",
+      "What is said vs. What is meant (Gricean)",
+      "Primary (wide) vs. Secondary (narrow) scope in Russell's analysis"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Attributive use: speaking about whoever fits the description.",
+      "Referential use: using the description as a tool to pick out a specific individual.",
+      "Semantic distinction: different truth conditions for the sentence.",
+      "Pragmatic distinction: different speaker intentions/uses without altering truth conditions."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text anticipates the objection that Donnellan's distinction might be semantic. It handles this by invoking Kripke's critique, which separates speaker's reference from semantic reference, thereby neutralizing the semantic challenge and clearing the path for the pragmatic (Gricean) resolution.",
+    "objections_raised": [
+      "Donnellan's challenge to Russell: The referential use seems to have different truth conditions than Russell's analysis predicts.",
+      "Kripke's meta-challenge to Donnellan: Donnellan conflates speaker's reference with semantic reference."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low. The text uses definitive language ('is', 'are', 'concluding') but frames the conclusion as the result of a dialectical process rather than an a priori certainty.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Bertrand Russell (semantic baseline)",
+      "Keith Donnellan (challenge)",
+      "Saul Kripke (critique)",
+      "H.P. Grice (pragmatic resolution)"
+    ],
+    "evidence_type": "Thought experiments (the two murder scenarios), intuitive truth-value judgments, and theoretical adjudication between competing frameworks.",
+    "named_thought_experiments": [
+      "Smith's murderer (attributive scenario)",
+      "Smith's murderer (referential scenario)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, specifically philosophy of language.",
+    "sentiment": "Neutral and analytical. The text is expository and argumentative, not rhetorical or emotional.",
+    "thematic_focus": "The nature of reference, truth-conditions, and the boundary between semantics and pragmatics."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Linear, cumulative, and dialectical. It follows a strict sequence: (1) Introduce the puzzle, (2) Establish the orthodox semantic view (Russell), (3) Introduce the counterexample (Donnellan), (4) Introduce the meta-critique (Kripke), (5) Synthesize with a pragmatic framework (Grice)."
+  },
+  "summary_of_core_decisions": "The text's core logical decision is to reject the semantic interpretation of Donnellan's distinction. It does so by accepting Kripke's separation of speaker reference from semantic reference, and then adopting a Gricean framework to explain the intuitive data as a matter of speaker meaning (pragmatics) while preserving Russellian truth-conditions (semantics). The final thesis is that the referential/attributive distinction operates at the level of utterance use, not sentence meaning.",
+  "thesis_commitment": {
+    "conclusion_type": "Theoretical resolution",
+    "hedging_density_in_final_paragraph": "Low. The conclusion is definitive: the distinction 'belongs to the theory of language use, not the theory of meaning.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "feuerlein-donnellans_distinction_deepseek-v4-flash-0731.txt"
+}

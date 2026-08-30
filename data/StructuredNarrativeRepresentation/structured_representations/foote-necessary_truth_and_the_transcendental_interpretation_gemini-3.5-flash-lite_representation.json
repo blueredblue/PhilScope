@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental-dialectical reconstruction of Descartes's cogito, moving from skeptical escalation to modal reclassification.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderate: premises are stated in the transcendental inference and modal formulations, but some are embedded in narrative restatement."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the essay stages a genuine trilemma and resolves it through a modal distinction.",
+    "logical_relevance": "High: all sections bear on the central tension between demonic doubt and indubitable self-presence.",
+    "premise_acceptability": "Moderate: the transcendental and Kripkean premises are philosophically contestable but clearly articulated."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "a priori vs a posteriori",
+      "necessary vs contingent",
+      "content vs act",
+      "subjective certainty vs objective knowledge",
+      "syllogistic inference vs performative utterance vs transcendental inference"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "a priori: independent of experience, strictly universal and necessary",
+      "a posteriori: derived from experience, contingent",
+      "necessary a posteriori: discovered empirically but metaphysically necessary (Kripke)",
+      "transcendental ego: formal, logical subject of all consciousness, not Cartesian substance"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates objections to the syllogistic model (Gassendi) and to the performative model (triviality), then offers the transcendental model as the robust alternative.",
+    "objections_raised": [
+      "Syllogistic model begs the question and relies on a universal premise vulnerable to the Demon.",
+      "Performative model reduces the cogito to a linguistic or pragmatic tautology."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: terms like 'indubitable', 'absolutely certain', 'metaphysically impossible' recur.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Descartes",
+      "Kant",
+      "Husserl",
+      "Kripke",
+      "Thomas Nagel"
+    ],
+    "evidence_type": "Conceptual analysis, transcendental argument, modal logic, phenomenological reflection.",
+    "named_thought_experiments": [
+      "Malicious Demon",
+      "Dream Argument",
+      "Kripkean necessary a posteriori (water/H2O, Hesperus/Phosphorus)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental idealism with modal-realist elements",
+    "sentiment": "Sympathetic to Kantian and phenomenological readings of Descartes",
+    "thematic_focus": "Subjectivity, skepticism, modal status of self-knowledge, limits of objective knowledge"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Part-based: Introduction, Part I (doubt), Part II (three models), Part III (modal resolution), Part IV (implications), Conclusion."
+  },
+  "summary_of_core_decisions": "The essay resolves the tension by rejecting the syllogistic reading, supplementing the performative reading with a transcendental inference, and classifying the cogito as an a posteriori necessary truth or a priori contingent existent. This preserves subjective certainty but confines objective knowledge within the transcendental ego.",
+  "thesis_commitment": {
+    "conclusion_type": "Interpretive thesis with modal reclassification",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive, though it acknowledges the 'steep price' of solipsism."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "foote-necessary_truth_and_the_transcendental_interpretation_gemini-3.5-flash-lite.txt"
+}

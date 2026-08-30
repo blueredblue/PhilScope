@@ -1,0 +1,79 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical evaluation of a metaphysical argument, combining reconstruction, counterexample-by-parallel, evolutionary debunking, and burden-of-proof analysis.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Moderately explicit; premises are embedded in prose but recoverable as conditionals and burden-of-proof claims."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the essay presents both Mackie's argument and realist rejoinders, then adjudicates.",
+    "logical_relevance": "All sections bear on whether queerness can defeat moral realism.",
+    "premise_acceptability": "Contested; the essay acknowledges that naturalism and burden of proof are disputed."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Metaphysical vs. epistemological queerness",
+      "Reductive physicalism vs. expansive naturalism",
+      "Theoretical indispensability vs. explanatory idleness",
+      "Moral realism vs. error theory vs. constructivism",
+      "Intuition as a priori reason vs. mysterious sixth sense"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Objective moral values: mind-independent, intrinsically prescriptive properties",
+      "Queerness: being radically unlike natural/scientific entities and requiring special epistemic access",
+      "Error theory: moral judgments are systematically false because they presuppose nonexistent objective values"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Each major objection is followed by a rejoinder; the essay ultimately accepts a qualified version of Mackie's challenge.",
+    "objections_raised": [
+      "Argument from queerness is an argumentum ad lapidem",
+      "Mathematics, modality, and consciousness are equally queer yet accepted",
+      "Moral intuition may be a priori like logical intuition",
+      "Third-factor explanations can bridge evolution and moral truth",
+      "Moral experience is as undeniable as sensory experience"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; uses 'likely', 'struggles', 'retains force', 'not logically eliminate'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Mackie",
+      "David Chalmers",
+      "Sharon Street",
+      "Richard Joyce",
+      "David Enoch",
+      "T. M. Scanlon",
+      "Russ Shafer-Landau",
+      "Derek Parfit"
+    ],
+    "evidence_type": "Philosophical thought experiments, comparative ontology, evolutionary debunking, burden-of-proof arguments, no empirical data.",
+    "named_thought_experiments": [
+      "Hard Problem of Consciousness",
+      "Evolutionary Debunking Argument",
+      "Mathematical Platonism",
+      "Modal realism / possible worlds"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaethics; naturalism; evolutionary psychology; philosophy of science.",
+    "sentiment": "Skeptical of moral realism but not fully eliminativist; sympathetic to Mackie's explanatory challenge.",
+    "thematic_focus": "Queerness, moral epistemology, explanatory economy, naturalism, evolutionary debunking"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Introduction, five numbered sections, conclusion; each section has subheadings and dialectical progression."
+  },
+  "summary_of_core_decisions": "The essay concludes that Mackie's argument from queerness does not logically eliminate objective moral facts, but it successfully shifts the burden of proof: moral realism is left epistemically vulnerable and theoretically idle, remaining an act of faith rather than a justified ontology.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection of moral realism as unjustified, not logically impossible",
+    "hedging_density_in_final_paragraph": "High; uses 'does not logically eliminate', 'remains conceivable', 'struggles to find its footing'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "farr-how_queer_gemini-3.5-flash-lite.txt"
+}

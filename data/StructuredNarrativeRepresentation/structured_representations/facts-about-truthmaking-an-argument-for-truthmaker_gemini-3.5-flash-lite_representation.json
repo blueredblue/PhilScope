@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Transcendental regress argument against non-necessitarianism, applied reflexively to truthmaking facts themselves.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High; formalized with modal operators and truthmaker predicates (TM1, TM2, TM3)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderately reasonable; the central dilemma is well-formed, but the essay relies on the contested assumption that Truthmaker Maximalism applies to higher-order semantic facts.",
+    "logical_relevance": "High; each objection is directly addressed and integrated into the regress/collapse argument.",
+    "premise_acceptability": "Mixed; the key premise that higher-order truthmaking facts require truthmakers is plausible only if one already accepts unrestricted Truthmaker Maximalism."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "First-order vs. higher-order truthmaking",
+      "Contingent vs. necessitating truthmaking",
+      "Internal vs. external relations",
+      "Benign vs. vicious infinite regress",
+      "Ontological parsimony vs. explanatory grounding"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Necessitarianism: \u2200t\u2200P(TM(t,P)\u2192\u25a1(Exists(t)\u2192P))",
+      "Non-necessitarianism: \u2203t\u2203P(TM(t,P)\u2227\u00ac\u25a1(Exists(t)\u2192P))"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Three objections are considered: (1) no-truthmaker defense for higher-order truths; (2) Armstrongian states of affairs as sui generis; (3) Williamsonian global necessitarianism. Each is rebutted by showing it either undermines non-necessitarianism or covertly reintroduces necessitation.",
+    "objections_raised": [
+      "No-truthmaker defense for higher-order semantic facts",
+      "Armstrongian states of affairs as relational complexes",
+      "Williamsonian necessitarianism and contingent truths"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High; uses phrases like 'fatal collision', 'catastrophic', 'inescapable gravity', 'vindicated'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Armstrong",
+      "Williamson"
+    ],
+    "evidence_type": "A priori conceptual analysis, modal thought experiments, regress arguments, internal-relation reasoning.",
+    "named_thought_experiments": [
+      "Possible world where t exists but fails to make P true",
+      "Internal relation analogy (being taller than)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Grounding is treated as a substantive, explanatory relation requiring modal closure; contingent grounding is deemed unstable.",
+    "sentiment": "Necessitarian realism about truthmaking; anti-deflationary about higher-order semantic facts.",
+    "thematic_focus": "Truthmaker theory, metaphysical grounding, modal metaphysics, regress arguments."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Dilemma-driven regress argument with objection-rebuttal matrix and concluding synthesis."
+  },
+  "summary_of_core_decisions": "The essay's core decision is to treat higher-order truthmaking facts as genuine truths that must themselves have truthmakers. This decision forces the non-necessitarian into a trilemma: infinite regress, ad hoc bifurcation, or collapse into Armstrongian necessitarianism. The essay concludes that necessitarianism is the only stable equilibrium.",
+  "thesis_commitment": {
+    "conclusion_type": "Necessitarian truthmaking is the only stable metaphysical equilibrium.",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive and unqualified."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "facts-about-truthmaking-an-argument-for-truthmaker_gemini-3.5-flash-lite.txt"
+}

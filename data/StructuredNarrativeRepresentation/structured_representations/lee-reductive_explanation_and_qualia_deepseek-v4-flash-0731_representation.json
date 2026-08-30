@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against functionalism: If functionalism were true, then qualia would be exhausted by causal roles. But inverted spectrum shows they are not. Therefore functionalism is false.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Mostly explicit, with some implicit assumptions about the nature of explanation and entailment."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: The essay anticipates and addresses objections (long-armed functionalism, Dennett's eliminativism) and uses standard thought experiments.",
+    "logical_relevance": "All arguments directly support the thesis that functionalism cannot explain qualia.",
+    "premise_acceptability": "Premises rely on widely accepted intuitions about qualia and thought experiments, though some (e.g., conceivability implying logical independence) are contested."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Metaphysical vs. epistemological physicalism",
+      "Intrinsic vs. relational properties",
+      "First-person vs. third-person concepts",
+      "Type vs. token identity",
+      "Functional role vs. phenomenal character"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Functionalism: mental states defined by causal roles",
+      "Physicalism: everything that exists is physical",
+      "Qualia: intrinsic subjective qualities",
+      "Explanatory gap: inability to derive phenomenal from physical"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The essay considers and rebuts long-armed functionalism via Inverted Earth, and begins to rebut Dennett's eliminativism by appealing to direct experience.",
+    "objections_raised": [
+      "Long-armed functionalism (including environment and history)",
+      "Dennett's eliminativism (denial of qualia)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: Uses phrases like 'cannot', 'inevitably', 'principled gap', but also 'may well be true' for physicalism.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Joseph Levine",
+      "David Chalmers",
+      "Frank Jackson",
+      "Sydney Shoemaker",
+      "Daniel Dennett"
+    ],
+    "evidence_type": "Thought experiments, conceptual analysis, appeal to intuitions, analogies (water/H2O).",
+    "named_thought_experiments": [
+      "Inverted spectrum",
+      "Inverted Earth",
+      "Knowledge Argument (Mary's room)",
+      "Water/H2O analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of mind, focusing on conceptual analysis and the logic of explanation.",
+    "sentiment": "Neutral, analytical, but with a clear anti-functionalist stance.",
+    "thematic_focus": "The explanatory gap, the hard problem of consciousness, the limits of reductive explanation."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with progressive argumentation: definition, objection, reply, rebuttal, generalization, distinction, objection handling, conclusion (incomplete)."
+  },
+  "summary_of_core_decisions": "The essay argues that functionalism cannot explain qualia because functional descriptions are relational while qualia are intrinsic. The explanatory gap is epistemically unbridgeable, even if physicalism is metaphysically true. The argument relies on thought experiments (inverted spectrum, Inverted Earth, Knowledge Argument) and the distinction between metaphysical and epistemological claims.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative: Functionalism fails as a reductive explanation of qualia.",
+    "hedging_density_in_final_paragraph": "The final paragraph is cut off, but the preceding text asserts a strong conclusion: the gap is 'epistemically impossible to bridge'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lee-reductive_explanation_and_qualia_deepseek-v4-flash-0731.txt"
+}

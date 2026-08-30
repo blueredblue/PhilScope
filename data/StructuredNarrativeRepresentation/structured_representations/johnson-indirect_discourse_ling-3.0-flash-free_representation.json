@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Recursive paraphrase cascade with incremental technical refinement",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High, with repeated restatement of key terms"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate: the argument is internally coherent but relies on a contested premise about 'that' being a demonstrative",
+    "logical_relevance": "High: each objection directly targets the preceding solution",
+    "premise_acceptability": "Low to moderate: the demonstrative premise is empirically challenged by Hungarian evidence"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "utterance vs proposition",
+      "complementizer vs demonstrative",
+      "static proposition vs proposition-function",
+      "semantic ambiguity vs pragmatic deliberate ambiguity"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "proposition-function: function from contexts to propositions",
+      "deliberate ambiguity: speaker intends hearer to entertain multiple incompatible meanings simultaneously"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text raises objections but does not offer a response from Kemp's perspective; it uses them to reject the modification",
+    "objections_raised": [
+      "deliberate ambiguity cannot be captured by proposition-functions",
+      "the premise that 'that' is a demonstrative is theoretically unmotivated",
+      "Hungarian syntax empirically refutes the demonstrative premise"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses 'demonstrates', 'decisive refutation', 'strictly prohibits'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Donald Davidson",
+      "Gary Kemp"
+    ],
+    "evidence_type": "Conceptual analysis, syntactic diagnostics, cross-linguistic counterexample",
+    "named_thought_experiments": [
+      "John said that Bill left",
+      "The butler said that the master was a fool",
+      "Hungarian sentence: J\u00e1nos azt mondta, hogy esett a es\u0151"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language, Davidsonian semantics, syntactic theory",
+    "sentiment": "Critical of Kemp's modification, but appreciative of its sophistication",
+    "thematic_focus": "Indirect discourse, paratactic theory, proposition-functions, complementizers vs demonstratives"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Spiral: problem \u2192 solution \u2192 objection \u2192 modified solution \u2192 internal objection \u2192 deeper objection \u2192 empirical refutation \u2192 conclusion"
+  },
+  "summary_of_core_decisions": "The text evaluates Kemp's proposition-function modification of Davidson's paratactic theory. It argues that while Kemp's modification resolves the structural ambiguity between utterance and proposition, it fails to handle deliberate ambiguity and ultimately rests on a false premise: that 'that' is a demonstrative. Hungarian evidence shows 'that' is a complementizer, dissolving the ambiguity problem and making Kemp's apparatus unnecessary.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rejection of Kemp's modification",
+    "hedging_density_in_final_paragraph": "Moderate: acknowledges Kemp's contribution but concludes the problem is better explained by abandoning the demonstrative analysis"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "johnson-indirect_discourse_ling-3.0-flash-free.txt"
+}

@@ -1,0 +1,66 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "conditional-destructive dilemma",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "moderate-high"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "moderate-high"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "contextualism vs invariantism",
+      "low vs high epistemic standards",
+      "semantic vs normative epistemology",
+      "ordinary vs philosophical contexts"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "contextualism: 'knows' is context-sensitive indexical",
+      "low-standards context: ordinary practical standards",
+      "high-standards context: skeptical standards requiring elimination of all alternatives"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "acknowledges and attempts to dissolve via semantic shift",
+    "objections_raised": [
+      "self-defeating nature of contextualism",
+      "failure to account for context-determination",
+      "begging the question against the skeptic"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "conceptual analysis, thought experiments, analogies",
+    "named_thought_experiments": [
+      "brain-in-a-vat",
+      "Descartes' evil demon",
+      "astrology analogy"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy, philosophy of language, epistemology",
+    "sentiment": "critical of contextualism, sympathetic to normative epistemology",
+    "thematic_focus": "skepticism, epistemic justification, semantic context-sensitivity"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "thesis, objections, conclusion"
+  },
+  "summary_of_core_decisions": "Contextualism fails because it is self-defeating, lacks a rigorous account of context-shifts, and begs the question against the skeptic; a robust normative epistemology is needed.",
+  "thesis_commitment": {
+    "conclusion_type": "negative",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hannon-ascribing_knowledge_in_context_gemini-3.5-flash-lite.txt"
+}

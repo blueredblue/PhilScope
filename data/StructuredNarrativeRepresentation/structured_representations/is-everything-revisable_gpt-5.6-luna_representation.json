@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against alethic interpretation; constructive distinction between alethic and epistemic/doxastic modality; formal reductio using S5; then resolution by reinterpreting the thesis.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High; formalized with modal operators and explicit contradictions; some premises left informal (e.g., existence of necessary truths, Quine's actual intent)."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; anticipates objections, distinguishes charges, avoids strawman by considering multiple readings.",
+    "logical_relevance": "High; formal derivations directly target the alethic reading; epistemic reading is shown consistent.",
+    "premise_acceptability": "Moderate; relies on classical modal logic and existence of necessary truths, which Quineans may contest; but author uses them hypothetically."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Alethic necessity vs epistemic possibility vs doxastic/rational revisability",
+      "Narrow-scope vs wide-scope modal formulations",
+      "Revisability as possible falsity vs rational reconsideration",
+      "Absolute immunity vs degrees of entrenchment",
+      "Internal revision vs framework-level revision",
+      "Inconsistency vs falsehood vs paradox"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "UR1: \u2200p(S(p)\u2192\u25c7\u00acp)",
+      "UR2: \u2200p(S(p)\u2192\u25c7\u00acI(p))",
+      "UR3: \u2200p(S(p)\u2192\u25c7\u00acB(p))",
+      "Narrow-scope: \u2200p(S(p)\u2192\u25c7R(p))",
+      "Wide-scope: \u25c7\u2200p(S(p)\u2192R(p))"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Distinguishes metaphysical modality from Quine's epistemological point; accepts that formal analysis refutes only modal translation; rejects ad hoc exceptions unless principled; handles self-application by noting fallibilism can be self-applicable.",
+    "objections_raised": [
+      "Quine was not discussing metaphysical modality",
+      "S5 alone is responsible for the paradox",
+      "Ad hoc exceptions can solve the problem",
+      "Universal revisability is self-refuting"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'cannot coherently mean', 'defensible only after clarification', 'more plausible'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Formal modal derivations, conceptual distinctions, belief revision theory (AGM), thought experiments about cognitive failure and framework change.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy; modal logic; epistemology; philosophy of logic; Quine interpretation.",
+    "sentiment": "Neutral-analytic; defends a qualified Quinean holism while rejecting alethic universal revisability.",
+    "thematic_focus": "Quine's revisability thesis, necessary truth, modal logic S5, belief revision, fallibilism."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with formal interlude; sections: introduction, formal readings, narrow-scope argument, wide-scope argument, S5 analysis, belief revision, paradox diagnosis, ad hoc exceptions, resolution, conclusion."
+  },
+  "summary_of_core_decisions": "The text argues that Quine's 'no statement is immune to revision' cannot be interpreted as the alethic claim that every statement is possibly false, because necessary truths in S5 entail the impossibility of their negations. It distinguishes narrow-scope and wide-scope readings, shows both conflict with necessary truths, and then argues that the thesis should be understood epistemically: no statement is beyond rational reconsideration, where revision may involve suspending belief, changing meaning, or altering inferential role, not accepting falsity. The resolution separates alethic necessity from epistemic/doxastic revisability and replaces absolute immunity with degrees of entrenchment.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense",
+    "hedging_density_in_final_paragraph": "High; 'defensible only after clarification', 'does not follow', 'apparent paradox dissolves'."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "is-everything-revisable_gpt-5.6-luna.txt"
+}

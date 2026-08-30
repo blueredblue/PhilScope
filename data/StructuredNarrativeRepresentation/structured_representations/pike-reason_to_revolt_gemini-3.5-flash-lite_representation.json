@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis of Kant's juridical prohibition and moral-teleological enthusiasm, using a reconstructed maxim and universalization tests to justify rebellion under narrowly defined conditions.",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High: premises are explicitly stated and defended through Kantian formulations and Korsgaard's taxonomy."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Strong: acknowledges the paradox, engages with orthodox objections, and resolves through a two-standpoint distinction.",
+    "logical_relevance": "High: all major moves directly serve the thesis of a moral justification for rebellion.",
+    "premise_acceptability": "Moderate: relies on a controversial reconstruction of Kant's maxim and a teleological reading of history."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Juridical vs. moral-teleological perspective",
+      "Strict/narrow duties vs. broad/wide duties",
+      "Contradiction in conception vs. contradiction in will",
+      "State of nature vs. civil condition",
+      "Provisional vs. secured freedom",
+      "Rightful sovereignty vs. de facto tyranny",
+      "Empirical counsels of happiness vs. pure practical reason",
+      "Dignity (W\u00fcrde) vs. price"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Categorical Imperative (First and Third Formulations)",
+      "Kingdom of Ends",
+      "Strict and broad duties",
+      "Public right",
+      "Tyranny as systematic destruction of public right"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Explicitly addresses the objection that universalized rebellion collapses into civil war by introducing a trigger condition: rebellion is authorized only against regimes that have already destroyed public right.",
+    "objections_raised": [
+      "Universalized rebellion would make all governments unstable and lead to perpetual civil war.",
+      "Rebellion treats tyrants and supporters merely as means, violating the Kingdom of Ends.",
+      "Kant's own juridical texts explicitly forbid revolution."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses phrases like 'demonstrate', 'fully capable', 'profound philosophical truth', but also 'tragic awareness' and 'moral necessity'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant",
+      "Korsgaard"
+    ],
+    "evidence_type": "Conceptual analysis, textual interpretation, hypothetical universalization tests, historical example (French Revolution).",
+    "named_thought_experiments": [
+      "Universalized maxim of rebellion against structural tyranny",
+      "Kingdom of Ends as a moral commonwealth"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Deontological Kantianism, with teleological philosophy of history.",
+    "sentiment": "Rationalist and moral-universalist; rejects empiricist or prudential justifications.",
+    "thematic_focus": "Political obligation, revolution, dignity, moral agency, historical progress."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical progression: paradox \u2192 apparatus \u2192 maxim construction \u2192 universalization tests \u2192 Kingdom of Ends \u2192 historical-teleological resolution \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The essay resolves the Kantian paradox by distinguishing juridical from moral-teleological standpoints, reconstructing a maxim with a narrow trigger condition, and arguing that rebellion against systemic tyranny passes both universalization tests and the Kingdom of Ends requirement, thereby becoming a moral duty rather than a legal right.",
+  "thesis_commitment": {
+    "conclusion_type": "Conditional normative justification: rebellion is morally justified only when a regime has systematically destroyed public right and reduced citizens to mere means.",
+    "hedging_density_in_final_paragraph": "Low: the conclusion is assertive, though the justification is explicitly conditional on structural tyranny."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "pike-reason_to_revolt_gemini-3.5-flash-lite.txt"
+}

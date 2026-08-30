@@ -1,0 +1,69 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Comparative thought experiment combined with eliminative argument and epistemic skepticism",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; premises are embedded in descriptive prose rather than formal notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; systematically considers multiple competing ontologies before adjudicating",
+    "logical_relevance": "High; all premises directly serve the central thesis regarding phenomenological equivalence and metaphysical coherence",
+    "premise_acceptability": "Moderate; relies on contested assumptions about psychological invariance and Dummett's causal critique"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Ontological edge vs. Phenomenological filter",
+      "Objective reality vs. Subjective experience",
+      "Causal directionality vs. Acausal brute facts",
+      "Coherent vs. Incoherent metaphysical models",
+      "Evidential weight vs. Discriminative power"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Growing Block (GB): reality grows by adding new moments at the leading edge",
+      "Diminishing Block (DB): reality diminishes as the edge recedes from the future into the past",
+      "Backwards Block (BB): the ontological edge recedes backward from the future into the past",
+      "Memory hierarchy: stratified system ranging from sensory trace to consolidated archives",
+      "Scaling of importance: psychological filter weighting events by emotional salience, cognitive load, and biological necessity"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Preemptively addresses the objection that BB might be acausal by arguing that acausality renders the model explanatorily inert",
+    "objections_raised": [
+      "BB relies on backward causation, which Dummett argues is incoherent",
+      "If BB denies causation, it becomes a brute geometric postulate with no explanatory power"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; uses hedged terms like 'can', 'might', 'seems', 'requires'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Michael Dummett (critique of backward causation)"
+    ],
+    "evidence_type": "Phenomenological introspection, metaphysical thought experiments, and a priori causal principles",
+    "named_thought_experiments": [
+      "Comparative modeling of GB, DB, and BB ontologies",
+      "Psychological filtering scenario (memory hierarchy and importance scaling)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic metaphysics with a strong phenomenological component",
+    "sentiment": "Neutral-skeptical; aims to undermine naive evidentialism rather than defend a specific positive ontology",
+    "thematic_focus": "Temporal ontology, phenomenology of time, causal theory, and epistemic justification"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Recursive escalation: thesis -> model definitions -> psychological equivalence -> metaphysical critique -> epistemic neutralization"
+  },
+  "summary_of_core_decisions": "The text establishes that GB, DB, and BB are phenomenologically indistinguishable due to psychological filtering. It then eliminates BB on metaphysical grounds (Dummett's causal critique). Finally, it concludes that common-sense experience cannot adjudicate between GB and DB, shifting the debate to non-phenomenal criteria.",
+  "thesis_commitment": {
+    "conclusion_type": "Skeptical/negative regarding common-sense evidence; eliminative regarding BB",
+    "hedging_density_in_final_paragraph": "High; uses 'requires', 'might', 'cannot' to indicate conditional or limited conclusions"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "jarrott-models_of_becoming_ling-3.0-flash-free.txt"
+}

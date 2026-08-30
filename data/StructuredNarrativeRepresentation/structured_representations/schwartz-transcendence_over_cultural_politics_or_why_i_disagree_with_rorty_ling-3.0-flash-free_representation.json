@@ -1,0 +1,72 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Immanent critique and dialectical synthesis",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate; premises are often embedded in interpretive claims and revealed through counterexamples."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages opposing positions and attempts to show internal contradictions.",
+    "logical_relevance": "High; all sections bear directly on the question of whether Rorty avoids metaphysical transcendence.",
+    "premise_acceptability": "Moderate; depends on contested Heideggerian interpretations and the force of the 'breakdown' counterexample."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Ontology vs. cultural politics",
+      "Epistemic authority vs. ontological authority",
+      "Social practice vs. givenness",
+      "Vocabulary of transcendence vs. reality of transcendence",
+      "Ontic vs. ontological vs. Ereignis (tertium quid)"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Ereignis: the event of appropriation in which Being discloses itself and entities are given.",
+      "Zuhandensein: readiness-to-hand; practical absorbed engagement with equipment.",
+      "Vorhandensein: presence-at-hand; theoretical detached contemplation of objects.",
+      "Tertium quid: a third category neither ontic nor traditional ontological, but the event of disclosure."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Uses the breakdown of the hammer as a decisive counterexample to social reductionism; uses Sheehan's Ereignis to answer the objection that no ground can be given.",
+    "objections_raised": [
+      "Rorty's reliance on Jamesian happiness reintroduces a hidden normative ground.",
+      "Brandom's reduction of authority to social practice cannot account for brute givenness.",
+      "Avoiding ontological transcendence merely displaces it into ethical transcendence."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'reveals', 'demonstrates', 'requires', 'cannot'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Richard Rorty",
+      "Robert Brandom",
+      "William James",
+      "Martin Heidegger",
+      "Thomas Sheehan"
+    ],
+    "evidence_type": "Philosophical interpretation, conceptual analysis, counterexample, internal critique.",
+    "named_thought_experiments": [
+      "The broken hammer (Heidegger's tool analysis)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Transcendental-phenomenological (Heideggerian/Sheehanian)",
+    "sentiment": "Critical of pragmatist anti-foundationalism; sympathetic to a non-metaphysical but transcendental account of givenness.",
+    "thematic_focus": "Givenness, transcendence, social practice, normativity, event of disclosure."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Five-part dialectical essay: Introduction, Rorty, Brandom, Sheehan, Synthesis."
+  },
+  "summary_of_core_decisions": "The text argues that Rorty's replacement of ontology with cultural politics fails because it secretly relies on a normative telos (Jamesian happiness), Brandom's social reductionism fails because it cannot account for the brute givenness of entities, and Sheehan's interpretation of Ereignis provides the necessary tertium quid. Transcendence is not avoided but displaced.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative thesis about Rorty; positive thesis about Ereignis.",
+    "hedging_density_in_final_paragraph": "Low; the conclusion is assertive: 'Rorty's pragmatic replacement... is not a successful avoidance... but a sophisticated translation.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwartz-transcendence_over_cultural_politics_or_why_i_disagree_with_rorty_ling-3.0-flash-free.txt"
+}

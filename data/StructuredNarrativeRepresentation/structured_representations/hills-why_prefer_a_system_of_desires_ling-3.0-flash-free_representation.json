@@ -1,0 +1,70 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis of internalist accounts (Smith, Williams) to refute strong coherence requirement; uses distinction-making, counterexamples, and analogy critique.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderate; premises are embedded in illustrative examples and conceptual contrasts rather than formalized steps."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages with relativism objection and alternative views (Kantian/utilitarian, theoretical analogy).",
+    "logical_relevance": "All distinctions and examples directly support the thesis that weak coherence suffices.",
+    "premise_acceptability": "Depends on internalist intuitions and rejection of strong systematization; plausible within the stated framework."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Weak coherence vs. strong coherence",
+      "Internal vs. external reasons",
+      "Theoretical vs. practical reasoning",
+      "Systematic justification vs. motivational grounding",
+      "Relativism as arbitrary vs. relativism as agent-relative"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Weak coherence: avoiding practical conflicts among desires",
+      "Strong coherence: subsuming specific desires under general principles or a master desire",
+      "Internal reason: a consideration connected to the agent's subjective motivational set",
+      "External reason: a consideration that would motivate an idealized agent but not the actual agent"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Addresses the objection that internal reasons are relativistic/arbitrary by distinguishing agent-relative grounding from universal objectivity.",
+    "objections_raised": [
+      "Internal reasons are merely subjective whims and thus relativistic in a pejorative sense.",
+      "Rationality requires systematic unity of desires analogous to theoretical coherence."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses 'requires', 'must', 'fails', 'not necessary' but also 'plausible' and 'demonstrates'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Michael Smith",
+      "Bernard Williams"
+    ],
+    "evidence_type": "Philosophical thought experiments and conceptual examples (blue shirt, chocolate, artistic integrity).",
+    "named_thought_experiments": [
+      "Agent with underived preference for a blue shirt",
+      "Agent with desire to eat chocolate",
+      "Agent committed to artistic integrity"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Internalist, anti-systematist, particularist about practical reasons",
+    "sentiment": "Defends the plurality and particularity of desire against architectural unification",
+    "thematic_focus": "Rational deliberation, internal reasons, coherence, relativism"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven dialectical essay with progressive refinement and objection-response"
+  },
+  "summary_of_core_decisions": "The text rejects strong coherence as a requirement of rationality, endorses weak coherence, grounds internal reasons in the agent's subjective motivational set, and denies the theoretical-practical analogy as a justification for systematization.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative philosophical thesis about the nature of rational deliberation",
+    "hedging_density_in_final_paragraph": "Low; final conclusion is assertive and unqualified."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hills-why_prefer_a_system_of_desires_ling-3.0-flash-free.txt"
+}

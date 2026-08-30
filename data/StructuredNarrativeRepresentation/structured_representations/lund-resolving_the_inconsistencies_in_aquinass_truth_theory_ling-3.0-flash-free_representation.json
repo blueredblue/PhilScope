@@ -1,0 +1,71 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical synthesis followed by critical evaluation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate; premises are embedded in historical and doctrinal exposition"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages with opposing views (Pre-Socratic relativism, theological critique)",
+    "logical_relevance": "High; all premises bear on the central distinction",
+    "premise_acceptability": "Low to moderate; relies on theological assumptions and equivocal terms"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Human truth vs divine truth",
+      "Truth as relation vs truth as essence",
+      "Intellect as measured vs intellect as measure",
+      "Changeable vs immutable truth",
+      "Participation vs identity",
+      "Epistemological vs ontological truth",
+      "Functional vs ontological truth"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Truth is adequation of intellect to thing",
+      "Human truth is changeable, contingent, subject to error",
+      "Divine truth is eternal, immutable, identical with divine essence",
+      "Human truth participates in divine truth"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges objections (theological reliance, semantic imprecision) but ultimately concedes them",
+    "objections_raised": [
+      "Theological grounding makes theory circular and unfalsifiable",
+      "Equivocal use of 'true' creates semantic instability",
+      "Human truth becomes derivative and epistemically subordinate",
+      "Contradiction is relocated, not resolved"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; uses hedged evaluative language ('ultimately unsatisfactory', 'philosophically insufficient')",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Aristotle",
+      "Aquinas",
+      "Pre-Socratics (Protagoras, Heraclitus, Parmenides)"
+    ],
+    "evidence_type": "Conceptual analysis, historical reconstruction, doctrinal interpretation",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Metaphysical realism with theological foundation",
+    "sentiment": "Critical of theological grounding from an analytic philosophical standpoint",
+    "thematic_focus": "Truth, correspondence, participation, relativism, semantic equivocation"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem \u2192 Historical framework \u2192 Distinction \u2192 Contradiction \u2192 Proposed resolution \u2192 Critique \u2192 Defense \u2192 Final evaluation"
+  },
+  "summary_of_core_decisions": "Aquinas's distinction between human and divine truth is a monumental medieval synthesis that uses correspondence, participation, and a metaphysical hierarchy to address the tension between mutable human cognition and immutable reality. However, it ultimately fails by analytic standards because it grounds truth in an unprovable theological postulate and equivocates on the meaning of 'true', thereby transforming a philosophical contradiction into a theological mystery.",
+  "thesis_commitment": {
+    "conclusion_type": "Evaluative critique",
+    "hedging_density_in_final_paragraph": "High; uses 'ultimately unsatisfactory', 'philosophically insufficient', 'beautiful, comprehensive, and ultimately insufficient'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "lund-resolving_the_inconsistencies_in_aquinass_truth_theory_ling-3.0-flash-free.txt"
+}

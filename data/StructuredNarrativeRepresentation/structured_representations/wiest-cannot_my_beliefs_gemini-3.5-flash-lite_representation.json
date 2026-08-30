@@ -1,0 +1,73 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical refutation and constructive counterexample",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "High - premises are stated and then progressively refined through objections and replies"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - objections are not strawmen; they are the strongest available Humean and anti-rationalist replies",
+    "logical_relevance": "High - every objection and reply bears directly on the central question of motivational autonomy",
+    "premise_acceptability": "Moderate - the key premise that normative judgments can directly motivate is controversial and is defended rather than assumed"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Belief vs. desire",
+      "Mind-to-world vs. world-to-mind direction of fit",
+      "Unmotivated vs. derived desires",
+      "Narrow vs. broad sense of 'desire'",
+      "Normative judgment vs. descriptive belief",
+      "Motivational internalism vs. externalism",
+      "Instrumental rationality vs. brute conative causation"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Direction of fit",
+      "Motivating reason",
+      "Unmotivated desire",
+      "Practical judgment"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Each objection is followed by a direct rejoinder, and the final synthesis concedes a limited point to the Humean while preserving the rationalist core",
+    "objections_raised": [
+      "Humean causal gap: pure reason cannot cause action",
+      "Rylean/Wittgensteinian intellectualist fallacy: knowing that does not entail doing",
+      "Smith's direction-of-fit argument: action requires a world-to-mind state"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate - uses 'can', 'demonstrates', 'shows', but also 'perhaps' and 'may' in the synthesis",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Thomas Nagel",
+      "Michael Smith",
+      "Elizabeth Anscombe",
+      "Gilbert Ryle"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, phenomenological appeal, analogical reasoning",
+    "named_thought_experiments": [
+      "Soda pop and dime"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Rationalist, anti-Humean, internalist about practical reason",
+    "sentiment": "Defends Nagel's rationalism while acknowledging a limited Humean point about the broad sense of desire",
+    "thematic_focus": "Motivation, practical reason, direction of fit, normativity, moral psychology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution with dialectical progression: question, Humean thesis, Nagel challenge, thought experiment, direction-of-fit debate, objections, synthesis, conclusion"
+  },
+  "summary_of_core_decisions": "The text decides that practical judgments can motivate independently of preexisting unmotivated desires, but it qualifies this by allowing that a successful practical judgment may create a state functionally equivalent to a desire. The central move is to disambiguate 'desire' and to reject the Humean claim that a brute conative state must be the ultimate source of motivation.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified rationalist thesis",
+    "hedging_density_in_final_paragraph": "Low - the conclusion is assertive: 'practical judgments and beliefs can indeed generate motivation independently of preexisting, unmotivated desires.'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "wiest-cannot_my_beliefs_gemini-3.5-flash-lite.txt"
+}

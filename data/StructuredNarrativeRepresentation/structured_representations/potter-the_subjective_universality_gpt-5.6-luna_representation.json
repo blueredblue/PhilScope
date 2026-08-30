@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical reconstruction and critical evaluation",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate: premises are embedded in prose rather than numbered, but are recoverable from the text."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: the text presents objections and replies, and acknowledges limitations.",
+    "logical_relevance": "High: all sections bear directly on the central paradox of subjective universality.",
+    "premise_acceptability": "Moderate: relies on Kantian assumptions about shared cognitive faculties and normative claims that are contestable."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Subjective vs objective",
+      "Agreeable vs beautiful vs good",
+      "Interest vs disinterest",
+      "Determinate concept vs free play",
+      "Psychological agreement vs normative validity",
+      "Actual consensus vs regulative ideal",
+      "Aesthetic judgment vs moral/utility judgment",
+      "Possibility of aesthetic judgment vs universal aesthetic value"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Subjective universality",
+      "Disinterest",
+      "Free play",
+      "Purposive without purpose",
+      "Common sense",
+      "Reflective judgment"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text presents the Picasso case as a serious objection, then replies by distinguishing external conditions from normative conditions of judgment, and finally concedes a vulnerability regarding cultural formation.",
+    "objections_raised": [
+      "Conflicting aesthetic judgments under identical external conditions",
+      "Cultural and historical formation of aesthetic standards",
+      "Unfalsifiability of the theory",
+      "Ethical concerns about bracketing social context"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low: the text uses hedged language such as 'may', 'can', 'best understood as', 'risks'.",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Kant"
+    ],
+    "evidence_type": "Conceptual analysis, thought experiments, analogies, and interpretive reconstruction.",
+    "named_thought_experiments": [
+      "The Picasso case"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Kantian transcendental idealism interpreted in a normative, regulative key.",
+    "sentiment": "Analytic, reconstructive, and critical.",
+    "thematic_focus": "Aesthetics, normativity, subjectivity, universality, cognition."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-objection-defense-implication-evaluation-conclusion"
+  },
+  "summary_of_core_decisions": "The text resolves the paradox of aesthetic judgment by treating universality as a normative demand grounded in disinterested free play of shared cognitive faculties, rather than as an empirical fact. It defends this against disagreement by distinguishing psychological from normative validity, and ultimately interprets universality as a regulative ideal of communicability.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified defense of Kantian subjective universality",
+    "hedging_density_in_final_paragraph": "Moderate: acknowledges costs and offers a regulative interpretation."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "potter-the_subjective_universality_gpt-5.6-luna.txt"
+}

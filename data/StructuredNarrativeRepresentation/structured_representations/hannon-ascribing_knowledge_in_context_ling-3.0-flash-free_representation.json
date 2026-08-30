@@ -1,0 +1,65 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Evaluative analysis of a philosophical theory",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate - premises are often implicit in the objections and conclusion"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages with objections and counterarguments",
+    "logical_relevance": "High - each objection directly targets the contextualist solution",
+    "premise_acceptability": "Moderate - some premises rely on intuitive judgments about knowledge and context"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Conversational vs. cognitive context",
+      "Low vs. high epistemic standards",
+      "Descriptive vs. normative solution",
+      "Semantic vs. epistemological problem"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Contextualism: knowledge ascriptions are context-sensitive",
+      "Skeptical hypothesis: brain-in-a-vat scenario",
+      "Mere consideration objection: thinking about skeptical scenarios raises standards"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "No explicit responses to objections; the essay presents objections as decisive",
+    "objections_raised": [
+      "Mere consideration objection",
+      "Mechanism objection",
+      "Circularity objection"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses phrases like 'appears', 'seems', 'ultimately fails'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [],
+    "evidence_type": "Philosophical argumentation, thought experiments, conceptual analysis",
+    "named_thought_experiments": [
+      "Brain in a vat",
+      "Ordinary vs. philosophical contexts"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy, epistemology",
+    "sentiment": "Critical of contextualism, sympathetic to skepticism's challenge",
+    "thematic_focus": "Skepticism, knowledge, context-sensitivity, justification"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis, exposition, objections, conclusion"
+  },
+  "summary_of_core_decisions": "The essay evaluates contextualism as a solution to skepticism. It exposits the contextualist thesis, then presents three objections: (1) mere consideration of skeptical scenarios raises standards and dissolves ordinary knowledge, (2) contextualism fails to explain how context determines standards or how shifts are recognized, and (3) contextualism begs the question by assuming the low standard is justified. The conclusion is that contextualism is descriptively useful but normatively inadequate, leaving the epistemological problem unresolved.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative evaluation",
+    "hedging_density_in_final_paragraph": "Low - states failure clearly but acknowledges descriptive utility"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "hannon-ascribing_knowledge_in_context_ling-3.0-flash-free.txt"
+}

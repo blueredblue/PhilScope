@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens / counterexample against sufficiency claim",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "mixed"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "high",
+    "logical_relevance": "high",
+    "premise_acceptability": "medium"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "behavioral vs. internal intelligence",
+      "practical vs. conceptual possibility",
+      "finite vs. unbounded conversational competence",
+      "functional vs. internalist/consciousness-based intelligence",
+      "validity vs. soundness",
+      "metaphysical certainty vs. practical criterion",
+      "test as operational vs. test as logical proof"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "M1: lookup-table machine with precomputed outputs for finite inputs",
+      "M2: sophisticated database storing conversational pathways and context-sensitive responses",
+      "unbounded sensible conversational abilities: indefinite sensible, coherent, self-correcting, context-sensitive dialogue"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The essay anticipates and responds to objections by distinguishing practical impossibility from logical possibility, and by showing that stipulating non-intelligence may beg the question.",
+    "objections_raised": [
+      "Dennett's 'judge may ask any question' objection",
+      "Systems reply: the whole machine may be intelligent even if the table is not",
+      "Functionalist objection: complete behavioral dispositions may suffice for intelligence",
+      "Substrate chauvinism objection: insisting on human-like internals may be unjustified"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "low",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Alan Turing",
+      "Ned Block",
+      "Daniel Dennett"
+    ],
+    "evidence_type": "thought experiments, conceptual analysis, dialectical evaluation",
+    "named_thought_experiments": [
+      "M1",
+      "M2",
+      "Chinese Room (mentioned as familiar systems reply)"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "analytic philosophy of mind and language",
+    "sentiment": "neutral, critical, balanced",
+    "thematic_focus": "Turing Test, Block's database objection, Dennett's response, functionalism vs. internalism, role of intuition in thought experiments"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "sections with numbered headings and conclusion"
+  },
+  "summary_of_core_decisions": "The essay evaluates Block's database argument against the Turing Test. It reconstructs Block's argument, introduces M1 and M2, considers Dennett's 'any question' objection, and analyzes the dialectical role of intuition. It concludes that Block shows the Turing Test is not an infallible metaphysical proof of intelligence, but does not decisively establish that passing is insufficient for attributing intelligence, especially if intelligence is understood functionally.",
+  "thesis_commitment": {
+    "conclusion_type": "qualified",
+    "hedging_density_in_final_paragraph": "high"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "taub-breaking_the_turing_test_gpt-5.6-luna.txt"
+}

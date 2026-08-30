@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Underdetermination via phenomenal equivalence",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Mostly explicit, with formal notation in Section IV and named objections in Section V"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High: engages Dummett's objection and attempts rebuttal",
+    "logical_relevance": "All arguments directly support the thesis of evidential bankruptcy",
+    "premise_acceptability": "Moderate: relies on the plausibility of phenomenal indistinguishability and underdetermination"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Ontological genesis vs epistemic accessibility",
+      "Local causal arrow vs global ontological direction",
+      "Retrograde accretion vs backward causation",
+      "Manifest image vs fundamental architecture",
+      "Underdetermination vs direct introspective evidence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Growing Block Universe (GBU)",
+      "Diminishing Block Universe (DBU)",
+      "Backwards Block Universe (BBU)",
+      "Phenomenological Argument from Passage"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Dummett's backward causation objection is raised and rebutted by distinguishing local retrocausal agency from global retrograde ontology",
+    "objections_raised": [
+      "Dummett's critique of backward causation",
+      "Potential incoherence of BBU"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate: uses 'argue', 'demonstrate', 'forces a sobering realization'",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Michael Dummett",
+      "William James"
+    ],
+    "evidence_type": "Conceptual analysis, formal notation, thought experiments, analogies, underdetermination argument",
+    "named_thought_experiments": [
+      "Computer rendering a digital simulation backward"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic and information-theoretic",
+    "sentiment": "Anti-foundationalist about introspective metaphysics",
+    "thematic_focus": "Philosophy of time, phenomenology, metaphysics, epistemology"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Thesis-driven with dialectical progression: introduction, definitions, mechanism, objection, rebuttal, undermining, conclusion"
+  },
+  "summary_of_core_decisions": "The essay argues that subjective temporal experience is functionally identical across Growing Block, Diminishing Block, and Backwards Block ontologies, so introspective evidence cannot adjudicate among them. It defends the coherence of the Backwards Block against Dummett's backward-causation objection by distinguishing local causal agency from global retrograde grounding. It concludes that the feeling of the 'now' is an adaptive information-processing interface, not a metaphysical compass, and that metaphysics must rely on physics, logic, and global coherence rather than introspection.",
+  "thesis_commitment": {
+    "conclusion_type": "Deflationary about introspective metaphysics",
+    "hedging_density_in_final_paragraph": "Low: states conclusion firmly"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "jarrott-models_of_becoming_gemini-3.5-flash-lite.txt"
+}

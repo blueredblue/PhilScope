@@ -1,0 +1,75 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Reductio ad absurdum / self-defeat argument",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "highly explicit with formal probability notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "moderate",
+    "logical_relevance": "high",
+    "premise_acceptability": "low to moderate"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "naturalism vs evolution",
+      "first-order vs second-order beliefs",
+      "empirical vs metaphysical reliability",
+      "adaptive utility vs epistemic warrant",
+      "design plan vs unguided selection",
+      "gut reactions vs complex calculations",
+      "naturalism vs theism"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "naturalism",
+      "neo-Darwinian evolution",
+      "cognitive reliability",
+      "warrant",
+      "epistemic circularity",
+      "inscrutability"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "systematic",
+    "objections_raised": [
+      "truth-tracker defense",
+      "complex calculations vs gut reactions",
+      "non-theistic alternatives (emergentism, Platonism)"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "moderate",
+    "imagined_interlocutor_voiced_directly": true,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Plantinga",
+      "Power",
+      "Descartes",
+      "Lennox"
+    ],
+    "evidence_type": "philosophical thought experiments and conceptual analysis",
+    "named_thought_experiments": [
+      "Paul the prehistoric hominid"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "theistic epistemology",
+    "sentiment": "anti-naturalist",
+    "thematic_focus": "epistemic self-defeat and probability"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "cumulative argument with objections and responses"
+  },
+  "summary_of_core_decisions": "The text argues that naturalism plus evolution undermines the reliability of all cognitive faculties, including the second-order capacity to assign probabilities; therefore naturalists cannot rationally assign even a minimal probability to their worldview, and theism is needed as a teleological anchor for rationality.",
+  "thesis_commitment": {
+    "conclusion_type": "negative existential",
+    "hedging_density_in_final_paragraph": "low"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "power-continuing_plantingas_critique_gemini-3.5-flash-lite.txt"
+}

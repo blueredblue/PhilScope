@@ -1,0 +1,68 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Immanent critique and transcendental-phenomenological counterargument",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderate; premises are embedded in dialectical exposition rather than formalized"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages opposing views (Rorty, Brandom) before advancing Sheehan's alternative",
+    "logical_relevance": "High; all moves bear on the question of whether transcendence can be avoided",
+    "premise_acceptability": "Contested; relies on phenomenological interpretation of Heidegger and on the claim that normative critique requires a non-contingent standard"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "ontic vs. ontological",
+      "immanence vs. transcendence",
+      "social practice vs. event of givenness",
+      "contingent preference vs. normative standard",
+      "epistemic transcendence vs. ontological transcendence"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Ereignis: event of appropriation/disclosedness",
+      "tertium quid: normative/ontological ground irreducible to social practice",
+      "Geworfenheit: thrownness into an already meaningful world"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Acknowledges Rorty's ethnocentrism and nihilism as consequences; uses them to motivate the necessity of a tertium quid",
+    "objections_raised": [
+      "Rorty's performative contradiction: uses happiness as a standard while denying its normative authority",
+      "Brandom's category mistake: confuses ontic social practices with ontological condition of givenness",
+      "Pragmatism's criterion of 'what works' requires a prior specification of 'working'"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; uses 'suggests', 'reveals', 'must acknowledge' rather than absolute proof",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Heidegger",
+      "Sheehan",
+      "Brandom",
+      "James"
+    ],
+    "evidence_type": "Conceptual analysis, phenomenological description, interpretive textual analysis, immanent critique",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenological (Heideggerian) with pragmatist and transcendental elements",
+    "sentiment": "Critical of reductive pragmatism; sympathetic to a non-metaphysical but transcendental account of givenness",
+    "thematic_focus": "Ontology, normativity, transcendence, social constructivism, meaning"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Five-part dialectical progression: thesis (Rorty's reduction), antithesis (Brandom's social constructivism), tension (Rorty's aporia), alternative (Sheehan's Ereignis), synthesis (inevitability of transcendence)"
+  },
+  "summary_of_core_decisions": "The text argues that Rorty's attempt to replace ontology with cultural politics fails because it cannot avoid two forms of transcendence: the ontological transcendence of Ereignis (the event of givenness) and the normative transcendence of happiness as a telos. Brandom's social constructivist reading of Heidegger is insightful but reduces the ontological to the ontic. Sheehan's interpretation correctly identifies Ereignis as a tertium quid that conditions all social practices. The conclusion is that a coherent pragmatism must acknowledge these transcendental conditions rather than deny them.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified negative thesis",
+    "hedging_density_in_final_paragraph": "Moderate; uses 'qualified no', 'cannot fully master', 'must acknowledge'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "schwartz-transcendence_over_cultural_politics_or_why_i_disagree_with_rorty_deepseek-v4-flash-0731.txt"
+}

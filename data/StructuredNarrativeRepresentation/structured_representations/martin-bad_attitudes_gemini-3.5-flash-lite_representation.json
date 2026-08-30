@@ -1,0 +1,77 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "The text is a philosophical argumentative essay that combines historical narrative, dialectical opposition, and evaluative analysis. It moves from a presentation of the classical computationalist thesis, through a connectionist antithesis, to a nuanced conclusion that favors non-propositional dynamics while acknowledging pragmatic and pluralist alternatives.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "Moderately explicit; the text states premises and conclusions but relies on broad characterizations of scientific practice and philosophical positions."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; the text presents both sides of the debate, including strong counterarguments to its own thesis, and attempts to adjudicate between eliminativism and pluralism.",
+    "logical_relevance": "High; each section directly addresses the question of whether propositional attitudes are causally explanatory in computational cognitive science.",
+    "premise_acceptability": "Moderate; the text assumes the success of connectionist models and the failure of classical symbolic models, which are contested empirical claims."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Classical computationalism vs. connectionism",
+      "Local vs. distributed representation",
+      "Discrete vs. continuous dynamics",
+      "Syntactic manipulation vs. vector transformations",
+      "Rationality vs. statistical regularity",
+      "Eliminative materialism vs. functionalism/pluralism",
+      "Fundamental causal entity vs. abstract summary"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Propositional attitude: a relation to a mental sentence (Fodor)",
+      "Language of Thought: combinatorial, compositional symbolic system",
+      "Distributed representation: activation pattern across a vector space",
+      "Eliminative materialism: folk psychology is a false theory to be replaced",
+      "Functionalism: higher-level states can be causally real despite multiple realizability"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The text explicitly addresses three major objections: instrumental utility, phenomenology of thought, and pluralistic ontology. It does not fully refute them but argues that the dialectical momentum favors the non-propositional view.",
+    "objections_raised": [
+      "Instrumental utility and predictive power of folk psychology",
+      "Phenomenology of conscious thought as propositionally structured",
+      "Pluralistic stratified ontology allowing multiple levels of explanation"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Moderate; uses phrases like 'buckle under the weight', 'dialectical momentum firmly favors', but also 'depends on one's philosophy of science'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Jerry Fodor",
+      "Rumelhart, McClelland, PDP Research Group",
+      "Paul and Patricia Churchland",
+      "Hilary Putnam",
+      "Tyler Burge",
+      "Daniel Dennett"
+    ],
+    "evidence_type": "Conceptual analysis, historical narrative, analogical reasoning (temperature, center of gravity), appeal to scientific practice (neuroscience, deep learning), and philosophical thought experiments.",
+    "named_thought_experiments": [
+      "Temperature as emergent statistical property",
+      "Centers of gravity in classical mechanics"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Naturalistic; the text treats cognitive science as the arbiter of ontological questions about the mind.",
+    "sentiment": "Sympathetic to eliminative materialism but open to pluralistic functionalism; ultimately favors a non-propositional, dynamical framework.",
+    "thematic_focus": "Ontology of mental states, causal explanation, levels of explanation, scientific realism vs. instrumentalism, symbol grounding, rationality."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Sectioned essay with numbered sections and subheadings; each section advances a distinct stage of the argument."
+  },
+  "summary_of_core_decisions": "The text argues that propositional attitudes are not fundamental causal-explanatory entities in computational cognitive science. They are useful abstract summaries for social prediction and macro-behavioral coordination, but the underlying mechanisms are best described by high-dimensional, continuous, sub-symbolic dynamics. Whether this requires full eliminativism or allows a pluralistic ontology remains open, but the future of cognitive science lies with neuro-computational, non-propositional models.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified eliminativism / non-propositional foundationalism",
+    "hedging_density_in_final_paragraph": "Moderate; the conclusion acknowledges pluralism as a possible alternative but asserts that the dialectical momentum favors the non-propositional perspective."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "martin-bad_attitudes_gemini-3.5-flash-lite.txt"
+}

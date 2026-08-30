@@ -1,0 +1,78 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Conditional modal proof with dialectical qualification",
+    "num_distinct_arguments_for_thesis": 3,
+    "premise_explicitness": "Moderately explicit; key premises are stated but not formalized beyond modal notation"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High; engages historical objections and anticipates counterarguments",
+    "logical_relevance": "High; all major moves bear on the modal ontological argument and its metaphysical presuppositions",
+    "premise_acceptability": "Contested; the possibility premise is identified as the central burden"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Existence as predicate vs. existence as modal status",
+      "Contingent vs. necessary existence",
+      "Logical consistency vs. conceptual intelligibility vs. metaphysical possibility",
+      "Abstract being vs. concrete becoming",
+      "Necessity of existence vs. necessity of every state",
+      "Classical pure actuality vs. dipolar process theism",
+      "Logical possibility vs. potentiality"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "God as maximally perfect or unsurpassable being",
+      "Necessary existence as existence in every possible world",
+      "Actus purus as wholly actual, immutable, timeless, metaphysically complete",
+      "Modal coextensiveness as identity of divine perfection and necessary existence"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Partially successful; Hartshorne answers Kant's narrow objection but not the deeper existential-premise objection",
+    "objections_raised": [
+      "Kant's objection that existence is not a predicate",
+      "The deeper objection that the modal argument still needs an existential premise",
+      "The possibility premise may contain the conclusion in compressed form",
+      "Conceivability does not entail metaphysical possibility",
+      "Modal coextensiveness does not resolve tensions in actus purus",
+      "Potentiality cannot bridge the gap between concept and existence"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low; uses 'may', 'can', 'seems', 'conditional', 'not innocuous'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Anselm",
+      "Kant",
+      "Hartshorne",
+      "Aristotelian and scholastic metaphysics"
+    ],
+    "evidence_type": "Conceptual analysis, modal logic, metaphysical taxonomy, historical reconstruction, value-theoretic reasoning",
+    "named_thought_experiments": [
+      "Round square",
+      "Seed and tree analogy",
+      "One hundred thalers"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "A priori conceptual analysis with modal logic and process metaphysics",
+    "sentiment": "Analytic philosophy of religion with process-theistic sympathies",
+    "thematic_focus": "Modal ontological argument, divine perfection, necessity, possibility, actuality, potentiality"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Historical-dialectical then systematic evaluation; sections move from Anselm/Kant to Hartshorne, then to internal tensions and unresolved gaps"
+  },
+  "summary_of_core_decisions": "The text presents Hartshorne's modal reformulation of Anselm's ontological argument as a genuine advance over treating existence as a predicate, but argues that it remains conditional on the unproven metaphysical possibility of a necessarily existent maximally perfect being. It further contends that modal coextensiveness clarifies divine necessity but does not resolve the tensions of classical actus purus; Hartshorne's dipolar distinction between abstract being and concrete becoming offers a coherent alternative only by redefining divine perfection. Potentiality cannot bridge the gap from concept to existence. The final verdict is neither proof nor emptiness: the argument is valid under its premises, but the crucial possibility premise requires independent metaphysical defense.",
+  "thesis_commitment": {
+    "conclusion_type": "Qualified conditional conclusion",
+    "hedging_density_in_final_paragraph": "High; uses 'conditional', 'may', 'does not prove', 'must still be supplied'"
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "ernst-charles_hartshorne_and_the_ontological_argument_gpt-5.6-luna.txt"
+}

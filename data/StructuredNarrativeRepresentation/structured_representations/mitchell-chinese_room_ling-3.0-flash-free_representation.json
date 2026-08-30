@@ -1,0 +1,67 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Modus tollens against strong AI: If strong AI required qualia, and qualia are inaccessible to computation, then strong AI fails. The text defends the conditional via hierarchical semantics and attacks computational alternatives.",
+    "num_distinct_arguments_for_thesis": 4,
+    "premise_explicitness": "High: premises are stated and repeated with increasing specificity (e.g., 'syntax is insufficient for semantics', 'causal grounding is not phenomenal grounding')."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "Moderate: the text engages with the Robot Reply and functionalism, but does not consider stronger externalist or enactive objections.",
+    "logical_relevance": "High: all premises directly support the conclusion that machine comprehension is impossible without qualia.",
+    "premise_acceptability": "Contested: the key premise that all human concepts ultimately reduce to qualia is asserted rather than independently defended."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Syntax vs. semantics",
+      "Symbol grounding vs. phenomenal grounding",
+      "Simulation vs. instantiation",
+      "Functional role vs. subjective experience"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Qualia: subjective, phenomenal qualities of experience",
+      "Computational system: formal symbol manipulator",
+      "Neutral evolution: Kimura's theory of random genetic drift"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "The Robot Reply is the main objection; the text concedes it solves symbol grounding but denies it solves phenomenal grounding. Functionalism is addressed via the knowledge argument and explanatory gap.",
+    "objections_raised": [
+      "Robot Reply: causal interaction with the world grounds symbols.",
+      "Functionalism: mental states are functional roles, so computation could produce qualia."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High: uses 'remains permanently inaccessible', 'cannot', 'never truly knowing', 'insurmountable'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Searle (Chinese Room)",
+      "Motoo Kimura (neutral evolution)"
+    ],
+    "evidence_type": "Thought experiments, conceptual analysis, hierarchical reduction, appeal to intuitions about phenomenal experience.",
+    "named_thought_experiments": [
+      "Chinese Room",
+      "Robot Reply"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Phenomenal experience is the ultimate ground of semantic content.",
+    "sentiment": "Anti-functionalist, anti-computationalist, property dualist or epiphenomenalist leanings.",
+    "thematic_focus": "Qualia, semantic grounding, strong AI, explanatory gap, biological embeddedness."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Cumulative and repetitive: thesis \u2192 hierarchical semantics \u2192 Chinese Room \u2192 Robot Reply \u2192 theoretical burden \u2192 abstract concept case \u2192 conclusion."
+  },
+  "summary_of_core_decisions": "The text argues that human meaning is grounded in qualia through hierarchical reduction; machines only manipulate syntax; therefore strong AI cannot understand. It uses the Chinese Room to show syntax insufficiency, the Robot Reply to show causal grounding is not phenomenal grounding, and neutral evolution to show even abstract concepts depend on qualia.",
+  "thesis_commitment": {
+    "conclusion_type": "Impossibility claim: strong AI cannot achieve human-level understanding.",
+    "hedging_density_in_final_paragraph": "Low: final paragraph is categorical and unhedged."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "mitchell-chinese_room_ling-3.0-flash-free.txt"
+}

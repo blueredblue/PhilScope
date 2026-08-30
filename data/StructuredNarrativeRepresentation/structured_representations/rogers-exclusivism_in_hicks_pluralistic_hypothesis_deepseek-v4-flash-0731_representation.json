@@ -1,0 +1,63 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Immanent critique (internal refutation) employing a reductio ad absurdum against the scope restriction of Hick's pluralism.",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "Explicitly stated as Hick's two commitments, but the author's own auxiliary premises are implicit."
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - engages directly with the proponent's (Hick's) own criteria rather than importing external standards.",
+    "logical_relevance": "High - every premise directly targets the coherence of the post-axial restriction.",
+    "premise_acceptability": "Moderate - relies on the acceptance of Hick's foundational principle (veridicality of transcendent experience) as a given for the sake of argument."
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Real-in-itself vs. Real-as-experienced (Kantian noumenal/phenomenal distinction)",
+      "Post-axial vs. pre-axial/indigenous traditions",
+      "Soteriological transformation (self-centeredness to Reality-centeredness) vs. other forms of religious experience",
+      "Veridical vs. non-veridical religious experience"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Soteriological criterion: authenticity measured by movement from self-centeredness to Reality-centeredness.",
+      "Post-axial restriction: limitation to faiths emerging from the axial age, excluding indigenous traditions."
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": true,
+    "objection_handling": "Not yet addressed (text cuts off at 'I will then consider...'), indicating a planned rebuttal section.",
+    "objections_raised": [
+      "Potential objection: Pre-axial traditions lack the specific soteriological framework, thus failing the criterion.",
+      "Potential objection: The veridicality principle might be interpreted narrowly to only apply to post-axial theistic/monistic frameworks."
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "Low - uses 'argue', 'cannot be coherently combined', 'no non-arbitrary reason'.",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": true
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "John Hick (as the target of critique)",
+      "Immanuel Kant (via the Kantian distinction)"
+    ],
+    "evidence_type": "Conceptual and logical analysis; no empirical evidence cited.",
+    "named_thought_experiments": [],
+    "uses_named_thought_experiment": false
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of religion; internal coherence testing.",
+    "sentiment": "Neutral-critical (analytical critique of a specific theory).",
+    "thematic_focus": "Pluralism, religious epistemology, scope of religious validity, arbitrariness in classification."
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Linear progressive (Introduction of theory -> Identification of problem -> Thesis statement -> Argument 1 -> Argument 2 -> Planned conclusion)."
+  },
+  "summary_of_core_decisions": "The author strategically chooses an internal critique (using Hick's own Kantian and soteriological premises) to demonstrate that the post-axial restriction is logically arbitrary. The core decision is to treat the veridicality principle as universal, which forces the soteriological criterion to either apply universally (thus including pre-axial traditions) or become an ad hoc exclusion, thereby undermining the pluralistic explanatory scope.",
+  "thesis_commitment": {
+    "conclusion_type": "Normative (evaluative) - declaring Hick's restriction 'unreasonable' and 'arbitrary'.",
+    "hedging_density_in_final_paragraph": "Low - the thesis is stated definitively ('I argue that... is indeed unreasonable')."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "rogers-exclusivism_in_hicks_pluralistic_hypothesis_deepseek-v4-flash-0731.txt"
+}

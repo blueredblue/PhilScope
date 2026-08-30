@@ -1,0 +1,74 @@
+{
+  "argument_macro_structure": {
+    "dominant_argument_form": "Dialectical progression with cumulative refutation",
+    "num_distinct_arguments_for_thesis": 2,
+    "premise_explicitness": "High - premises are clearly stated and tested against counterexamples"
+  },
+  "argumentative_quality": {
+    "dialectical_reasonableness": "High - the text fairly presents Davidson's and Kemp's positions before attacking them",
+    "logical_relevance": "High - all objections directly target the core mechanisms (reference, function, syntax)",
+    "premise_acceptability": "Moderate - relies on specific syntactic theories (generative grammar) and cross-linguistic data, which may be contested by other frameworks"
+  },
+  "conceptual_grounding": {
+    "distinctions_drawn": [
+      "Token vs. Type utterances",
+      "Semantic content vs. Pragmatic implicature",
+      "Demonstrative pronoun vs. Complementizer",
+      "Proposition vs. Proposition-function",
+      "De dicto vs. De re readings",
+      "Paratactic conjunction vs. Subordination"
+    ],
+    "draws_explicit_distinction": true,
+    "explicit_definitions_given": [
+      "Proposition-function: a function from contexts to propositions",
+      "Complementizer: a functional head introducing a subordinate clause",
+      "Samesaying: a primitive relation in Davidson's theory"
+    ]
+  },
+  "dialectical_engagement": {
+    "bites_the_bullet_on_counterintuitive_implication": false,
+    "objection_handling": "The text does not defend the target theories; it systematically refutes them by escalating objections (semantic -> pragmatic -> syntactic -> empirical).",
+    "objections_raised": [
+      "Ambiguity of demonstrative reference (token vs. type)",
+      "Indexical shifting problem",
+      "Inability to handle deliberate lexical ambiguity (e.g., 'bank')",
+      "Inability to handle context-dependent implicature (e.g., 'It's cold in here')",
+      "Syntactic misclassification of 'that' as demonstrative instead of complementizer",
+      "Cross-linguistic counterexample from Hungarian"
+    ]
+  },
+  "epistemic_stance_and_voice": {
+    "certainty_language_frequency": "High - uses terms like 'fundamentally flawed', 'simply false', 'collapses', 'overwhelming evidence'",
+    "imagined_interlocutor_voiced_directly": false,
+    "uses_first_person_epistemic_verbs": false
+  },
+  "method_and_evidence": {
+    "appeals_to_authority": [
+      "Standard generative grammar",
+      "Cross-linguistic data (Hungarian)"
+    ],
+    "evidence_type": "Empirical (syntactic tests, cross-linguistic comparison) and conceptual (logical analysis of functions and ambiguity)",
+    "named_thought_experiments": [
+      "John says 'The bank is high' (lexical ambiguity)",
+      "John says 'It's cold in here' (pragmatic implicature)",
+      "Hungarian sentence: 'J\u00e1nos azt mondta, hogy a f\u00f6ld mozog'"
+    ],
+    "uses_named_thought_experiment": true
+  },
+  "philosophical_orientation": {
+    "grounding": "Analytic philosophy of language, formal semantics, generative syntax",
+    "sentiment": "Critical/refutational",
+    "thematic_focus": "Logical form of indirect discourse, reference, compositionality, syntax-semantics interface"
+  },
+  "structural_organization": {
+    "explicit_signposting": true,
+    "structure_type": "Problem-solution-refutation sequence: (1) Davidson's theory, (2) ambiguity objection, (3) Kemp's modification, (4) persistent ambiguity objection, (5) syntactic objection, (6) cross-linguistic evidence (truncated)."
+  },
+  "summary_of_core_decisions": "The text's core decision is to reject the paratactic framework (both Davidson's and Kemp's versions) by showing that (a) semantic ambiguity cannot be resolved by proposition-functions, and (b) the syntactic premise is empirically false. The argument culminates in a cross-linguistic demonstration that 'that' is a complementizer, not a demonstrative, making the paratactic theory untenable.",
+  "thesis_commitment": {
+    "conclusion_type": "Negative/refutational",
+    "hedging_density_in_final_paragraph": "Low - the text is assertive, though truncated mid-sentence, the trajectory is clear."
+  },
+  "_source_corpus": "synthetic",
+  "_source_file": "johnson-indirect_discourse_deepseek-v4-flash-0731.txt"
+}
